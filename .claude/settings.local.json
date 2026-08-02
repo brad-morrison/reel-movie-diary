@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(node -e ' *)",
+      "Bash(node /private/tmp/claude-501/-Users-bradleymorrison-Desktop-movie-diary-website/a7efcccd-6867-4e37-8056-5ebfcafbb560/scratchpad/test.mjs)",
+      "Bash(node /Users/bradleymorrison/Desktop/movie_diary_website/_csvtest.mjs)",
+      "Bash(npm run *)",
+      "Bash(curl -s \"http://localhost:5173/src/components/Library.jsx\")",
+      "Bash(node -e 'fetch\\(\"http://localhost:5173/src/components/Library.jsx\"\\).then\\(r=>r.text\\(\\)\\).then\\(t=>{const lines=t.split\\(\"\\\\n\"\\);lines.forEach\\(\\(l,i\\)=>{if\\(/popLayout|AnimatePresence|className=.grid/.test\\(l\\)\\)console.log\\(\\(i+1\\)+\": \"+l.trim\\(\\)\\)}\\)}\\)')",
+      "Bash(find ~/Downloads ~/Desktop ~/Documents -maxdepth 3 -iname \"*.csv\" -newermt \"2026-07-01\" 2>/dev/null | head -40; echo \"---also any notion export dirs---\"; find ~/Downloads ~/Desktop ~/Documents -maxdepth 3 -iname \"*notion*\" -o -iname \"*movie*\" 2>/dev/null | grep -iv node_modules | head -40)",
+      "Bash(cat)",
+      "Bash(node _t.mjs)",
+      "Bash(rm _t.mjs)",
+      "Bash(node _recover.mjs)",
+      "Bash(awk 'END{print NR-1}' '/Users/bradleymorrison/Downloads/ExportBlock-0f9fc8b8-3310-40fb-ae72-1b3c64aa1cb6-Part-1/Movie Series Diary 42e3b13d58464ce480e9f26db25f8b89_all.csv')",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

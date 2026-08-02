@@ -1,0 +1,103 @@
+// A small, tasteful seed set so the diary feels alive on first open.
+// Posters use TMDB's public image CDN. Users can clear these anytime.
+const img = (p) => `https://image.tmdb.org/t/p/w500${p}`
+const back = (p) => `https://image.tmdb.org/t/p/w1280${p}`
+
+export const SAMPLE_ENTRIES = [
+  {
+    id: 'seed-1',
+    title: 'Dune: Part Two',
+    year: 2024,
+    type: 'movie',
+    poster: img('/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg'),
+    backdrop: back('/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg'),
+    overview:
+      'Paul Atreides unites with the Fremen while seeking revenge against the conspirators who destroyed his family.',
+    genres: ['Science Fiction', 'Adventure'],
+    rating: 4.5,
+    liked: true,
+    watchedDate: '2024-03-09',
+    rewatch: false,
+    createdAt: '2024-03-09T22:00:00.000Z',
+  },
+  {
+    id: 'seed-2',
+    title: 'The Bear',
+    year: 2022,
+    type: 'tv',
+    poster: img('/sHFlbKS3WLqMnp9t2ghADIJFnuQ.jpg'),
+    backdrop: back('/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg'),
+    overview:
+      'A young chef from the fine dining world returns to Chicago to run his family sandwich shop.',
+    genres: ['Drama', 'Comedy'],
+    rating: 5,
+    liked: true,
+    watchedDate: '2024-07-18',
+    rewatch: false,
+    createdAt: '2024-07-18T22:00:00.000Z',
+  },
+  {
+    id: 'seed-3',
+    title: 'Past Lives',
+    year: 2023,
+    type: 'movie',
+    poster: img('/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg'),
+    backdrop: back('/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg'),
+    overview:
+      'Two childhood friends reunite in New York decades later for one fateful week.',
+    genres: ['Romance', 'Drama'],
+    rating: 4.5,
+    liked: true,
+    watchedDate: '2024-01-22',
+    rewatch: false,
+    createdAt: '2024-01-22T22:00:00.000Z',
+  },
+  {
+    id: 'seed-4',
+    title: 'Everything Everywhere All at Once',
+    year: 2022,
+    type: 'movie',
+    poster: img('/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg'),
+    backdrop: back('/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg'),
+    overview:
+      'A middle-aged laundromat owner is swept into saving existence across the multiverse.',
+    genres: ['Action', 'Adventure', 'Science Fiction'],
+    rating: 4,
+    liked: false,
+    watchedDate: '2023-11-05',
+    rewatch: true,
+    createdAt: '2023-11-05T22:00:00.000Z',
+  },
+  {
+    id: 'seed-5',
+    title: 'Shogun',
+    year: 2024,
+    type: 'tv',
+    poster: img('/438QXt1E3WJWb3PqNniK0tAE5c1.jpg'),
+    backdrop: '',
+    overview:
+      'In feudal Japan, a stranded English pilot becomes entangled in a lord’s bid for power.',
+    genres: ['Drama', 'War'],
+    rating: 5,
+    liked: true,
+    watchedDate: '2024-04-24',
+    rewatch: false,
+    createdAt: '2024-04-24T22:00:00.000Z',
+  },
+  {
+    id: 'seed-6',
+    title: 'Poor Things',
+    year: 2023,
+    type: 'movie',
+    poster: img('/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg'),
+    backdrop: '',
+    overview:
+      'A young woman brought back to life by an unorthodox scientist runs off to discover the world.',
+    genres: ['Science Fiction', 'Romance', 'Comedy'],
+    rating: 4,
+    liked: false,
+    watchedDate: '2024-02-14',
+    rewatch: false,
+    createdAt: '2024-02-14T22:00:00.000Z',
+  },
+]
