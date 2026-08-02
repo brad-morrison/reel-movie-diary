@@ -17,7 +17,8 @@
       "Bash(node _recover.mjs)",
       "Bash(awk 'END{print NR-1}' '/Users/bradleymorrison/Downloads/ExportBlock-0f9fc8b8-3310-40fb-ae72-1b3c64aa1cb6-Part-1/Movie Series Diary 42e3b13d58464ce480e9f26db25f8b89_all.csv')",
       "Bash(git init *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
