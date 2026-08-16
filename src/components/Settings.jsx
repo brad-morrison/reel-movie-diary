@@ -6,7 +6,7 @@ import {
   IconCloud, IconCloudCheck, IconLogOut, IconGoogle,
 } from '../lib/icons.jsx'
 
-export default function Settings({ settings, setSettings, entries, replaceAll, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut }) {
+export default function Settings({ settings, setSettings, entries, replaceAll, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
   const [key, setKey] = useState(settings.tmdbKey || '')
   const [checking, setChecking] = useState(false)
   const [keyStatus, setKeyStatus] = useState(settings.tmdbKey ? 'saved' : '')
@@ -84,6 +84,16 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
         if (rows.length === 0) throw new Error()
         const { entries: next, added, merged } = importEntries(rows)
         notify(`Imported ${added} new, updated ${merged} from Notion`)
+        // Commit the exact imported list immediately instead of waiting for the
+        // debounced sync, which could otherwise lose to an older cloud snapshot.
+        if (user) {
+          try {
+            await saveToCloud(next)
+            notify(`Saved ${next.length} diary entries to the cloud`)
+          } catch (error) {
+            notify(error?.message || 'Imported locally, but cloud save failed')
+          }
+        }
         // Automatically fetch artwork for anything still missing it.
         if (settings.tmdbKey) await runEnrichment(next)
       } catch {
@@ -133,6 +143,14 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
               {syncStatus === 'error' ? <IconX size={16} /> : <IconCloudCheck size={16} />} {syncLabel}
             </div>
             <div className="inline-actions" style={{ marginTop: 14 }}>
+              <button
+                className="btn btn-primary"
+                onClick={() => saveToCloud(entries)
+                  .then(() => notify(`Saved ${entries.length} diary entries to the cloud`))
+                  .catch((error) => notify(error?.message || 'Could not save to the cloud'))}
+              >
+                <IconUpload size={16} /> Save current diary to cloud
+              </button>
               <button className="btn btn-ghost" onClick={() => signOut()}><IconLogOut size={16} /> Sign out</button>
             </div>
           </>
@@ -171,7 +189,7 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
 
       <div className="setting-card">
         <h3>Your data</h3>
-        <p className="desc">Everything lives in this browser. Export a backup, or move it to another device.</p>
+        <p className="desc">Your current browser keeps an offline copy. When signed in, the same diary is stored in Firebase and shared with the deployed site.</p>
         <div className="inline-actions">
           <button className="btn btn-ghost" onClick={exportJson}><IconDownload size={16} /> Export backup (JSON)</button>
           <button className="btn btn-ghost" onClick={() => fileJson.current?.click()}><IconUpload size={16} /> Restore from backup</button>

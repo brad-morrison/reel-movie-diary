@@ -145,6 +145,7 @@ export function parseNotionCsv(text) {
     else if (ci.firstWatch !== -1) rewatch = norm(cell(cells, ci.firstWatch)) === 'no'
 
     const rawRating = parseFloat(cell(cells, ci.rating))
+    const rawImdbRating = parseFloat(cell(cells, ci.imdb))
     const hasRating = !isNaN(rawRating)
     // /10 columns use the custom star curve; /5 columns are taken as-is.
     let rating = 0
@@ -165,6 +166,7 @@ export function parseNotionCsv(text) {
       overview: '',
       genres: ci.genres !== -1 ? cell(cells, ci.genres).split(/[,;]/).map((g) => g.trim()).filter(Boolean) : [],
       rating,
+      imdbRating: !isNaN(rawImdbRating) ? rawImdbRating : undefined,
       watchedDate: parseDate(cell(cells, ci.date)),
       firstTime: !rewatch,
       platform: cell(cells, ci.platform),

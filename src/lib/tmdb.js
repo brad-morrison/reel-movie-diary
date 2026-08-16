@@ -55,6 +55,19 @@ export async function verifyKey(key) {
   }
 }
 
+export async function fetchAudienceRating(entry, key) {
+  if (!key || !entry?.title) return 0
+  if (entry.tmdbId != null) {
+    try {
+      const type = entry.type === 'tv' ? 'tv' : 'movie'
+      const res = await fetch(`${BASE}/${type}/${entry.tmdbId}?api_key=${key}`)
+      if (res.ok) return Number((await res.json()).vote_average) || 0
+    } catch {}
+  }
+  const patch = await enrichEntry(entry, key)
+  return Number(patch?.voteAverage) || 0
+}
+
 // ---- Artwork enrichment ---------------------------------------------------
 const normTitle = (s) => (s || '').toLowerCase().replace(/[^a-z0-9]/g, '')
 
@@ -115,6 +128,7 @@ export async function enrichEntry(entry, key) {
       poster: posterUrl(best.poster_path),
       backdrop: backdropUrl(best.backdrop_path),
       overview: entry.overview || best.overview || '',
+      voteAverage: best.vote_average,
       tmdbId: best.id,
       type: t,
       year: entry.year || (date ? Number(date.slice(0, 4)) : undefined),

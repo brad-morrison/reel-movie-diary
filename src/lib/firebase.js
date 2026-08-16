@@ -21,6 +21,9 @@ if (isFirebaseConfigured) {
   googleProvider = new GoogleAuthProvider()
   // Offline cache: the diary keeps working with no connection and syncs later.
   db = initializeFirestore(app, {
+    // Imported diary rows commonly omit optional fields such as year or TMDB
+    // id. Firestore should omit those keys instead of rejecting the whole save.
+    ignoreUndefinedProperties: true,
     localCache: persistentLocalCache({ tabManager: persistentMultipleTabManager() }),
   })
 }

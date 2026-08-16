@@ -17,6 +17,32 @@ const SETTINGS_KEY = 'reel.settings.v1'
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
 const DEFAULT_SETTINGS = { tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true }
 
+// A viewing has its own entry, while title-level details (such as the user's
+// rating) are shared by every viewing of the same film or show.
+export function movieKey(entry) {
+  const title = (entry.title || '').trim().toLowerCase().replace(/\s+/g, ' ')
+  // Title/year/type remains stable when an imported entry is later enriched
+  // with a TMDB id. Using tmdbId first split those two versions of the same
+  // movie, which disconnected Top 20 rank from its shared rating.
+  if (title) return `title:${entry.type || 'movie'}:${title}:${entry.year || ''}`
+  return `tmdb:${entry.type || 'movie'}:${entry.tmdbId || ''}`
+}
+
+function syncSharedRatings(entries) {
+  const ratings = new Map()
+  for (const entry of entries) {
+    if (Number(entry.rating) > 0 && !ratings.has(movieKey(entry))) ratings.set(movieKey(entry), Number(entry.rating))
+  }
+  return entries.map((entry) => ({ ...entry, rating: ratings.get(movieKey(entry)) || 0 }))
+}
+
+// Strip undefined optional fields before sending imported data to Firestore.
+// Keeping this explicit also makes the value used for sync comparisons exactly
+// match the value Firebase receives.
+function cloudPayload(entries, settings) {
+  return JSON.parse(JSON.stringify({ entries, settings }))
+}
+
 const uniqMerge = (a = [], b = []) => {
   const seen = new Set(a.map((x) => x.toLowerCase()))
   const out = [...a]
@@ -61,9 +87,9 @@ const uid = () =>
 export function useDiary() {
   const [entries, setEntries] = useState(() => {
     const stored = load(ENTRIES_KEY, null)
-    if (stored) return stored.map(normalizeEntry)
+    if (stored) return syncSharedRatings(stored.map(normalizeEntry))
     // First run — seed with a few nice examples so the app looks alive.
-    return SAMPLE_ENTRIES.map(normalizeEntry)
+    return syncSharedRatings(SAMPLE_ENTRIES.map(normalizeEntry))
   })
 
   const [settings, setSettings] = useState(() => ({
@@ -73,9 +99,9 @@ export function useDiary() {
 
   // ---- Cloud sync (Firebase) --------------------------------------------
   const [user, setUser] = useState(null)
+  const [authReady, setAuthReady] = useState(!isFirebaseConfigured)
   const [syncStatus, setSyncStatus] = useState('idle') // idle | saving | synced | error
   const [syncError, setSyncError] = useState('')
-  const [syncRetry, setSyncRetry] = useState(0)
   const [cloudLoaded, setCloudLoaded] = useState(false) // has this user's doc arrived?
 
   const entriesRef = useRef(entries)
@@ -87,7 +113,14 @@ export function useDiary() {
   // Track who's signed in.
   useEffect(() => {
     if (!isFirebaseConfigured) return
-    return onAuthStateChanged(auth, (u) => setUser(u))
+    return onAuthStateChanged(
+      auth,
+      (u) => {
+        setUser(u)
+        setAuthReady(true)
+      },
+      () => setAuthReady(true),
+    )
   }, [])
 
   // Subscribe to the signed-in user's diary doc. First sign-in (no doc yet)
@@ -106,10 +139,11 @@ export function useDiary() {
       ref,
       (snap) => {
         if (!snap.exists()) {
-          const payload = { entries: entriesRef.current, settings: settingsRef.current }
+          const payload = cloudPayload(entriesRef.current, settingsRef.current)
           setDoc(ref, { ...payload, updatedAt: serverTimestamp() })
             .then(() => {
               lastSyncedRef.current = JSON.stringify(payload)
+              setCloudLoaded(true)
               setSyncError('')
               setSyncStatus('synced')
             })
@@ -117,13 +151,11 @@ export function useDiary() {
               console.error('Initial cloud save failed', error)
               setSyncError(error?.message || 'Cloud save failed')
               setSyncStatus('error')
-              setTimeout(() => setSyncRetry((n) => n + 1), 3000)
             })
-          setCloudLoaded(true)
           return
         }
         const data = snap.data() || {}
-        const nextEntries = Array.isArray(data.entries) ? data.entries.map(normalizeEntry) : []
+        const nextEntries = Array.isArray(data.entries) ? syncSharedRatings(data.entries.map(normalizeEntry)) : []
         const nextSettings = { ...DEFAULT_SETTINGS, ...(data.settings || {}) }
         lastSyncedRef.current = JSON.stringify({ entries: nextEntries, settings: nextSettings })
         setEntries(nextEntries)
@@ -141,16 +173,19 @@ export function useDiary() {
     return unsub
   }, [user])
 
-  // Push local edits to the cloud (debounced). Guards prevent a fresh device
+  // Push local edits to the cloud with a very short batching window. Firestore's
+  // live listener then delivers the change to every already-open device.
+  // Guards prevent a fresh device
   // from overwriting real cloud data before the first snapshot arrives, and
   // skip writing data we just received from the cloud.
   useEffect(() => {
     if (!isFirebaseConfigured || !user || !cloudLoaded) return
-    const json = JSON.stringify({ entries, settings })
+    const payload = cloudPayload(entries, settings)
+    const json = JSON.stringify(payload)
     if (json === lastSyncedRef.current) return
     setSyncStatus('saving')
     const t = setTimeout(() => {
-      setDoc(doc(db, 'diaries', user.uid), { entries, settings, updatedAt: serverTimestamp() })
+      setDoc(doc(db, 'diaries', user.uid), { ...payload, updatedAt: serverTimestamp() })
         .then(() => {
           lastSyncedRef.current = json
           setSyncError('')
@@ -160,11 +195,10 @@ export function useDiary() {
           console.error('Cloud save failed', error)
           setSyncError(error?.message || 'Cloud save failed')
           setSyncStatus('error')
-          setTimeout(() => setSyncRetry((n) => n + 1), 3000)
         })
-    }, 800)
+    }, 100)
     return () => clearTimeout(t)
-  }, [entries, settings, user, cloudLoaded, syncRetry])
+  }, [entries, settings, user, cloudLoaded])
 
   const signIn = useCallback(async () => {
     if (!isFirebaseConfigured) return
@@ -180,6 +214,28 @@ export function useDiary() {
     if (isFirebaseConfigured) return fbSignOut(auth)
   }, [])
 
+  // Explicitly make the currently visible diary authoritative. This is used
+  // after imports so an older (or empty) cloud snapshot cannot win the race.
+  const saveToCloud = useCallback(async (entriesOverride) => {
+    if (!isFirebaseConfigured || !user) throw new Error('Sign in before saving to the cloud')
+    const nextEntries = syncSharedRatings(entriesOverride || entriesRef.current)
+    const payload = cloudPayload(nextEntries, settingsRef.current)
+    setSyncStatus('saving')
+    setSyncError('')
+    try {
+      await setDoc(doc(db, 'diaries', user.uid), { ...payload, updatedAt: serverTimestamp() })
+      lastSyncedRef.current = JSON.stringify(payload)
+      setCloudLoaded(true)
+      setSyncStatus('synced')
+      return payload
+    } catch (error) {
+      console.error('Forced cloud save failed', error)
+      setSyncError(error?.message || 'Cloud save failed')
+      setSyncStatus('error')
+      throw error
+    }
+  }, [user])
+
   // ---- Local persistence (always on — offline cache) --------------------
   useEffect(() => {
     try {
@@ -194,27 +250,53 @@ export function useDiary() {
   }, [settings])
 
   const addEntry = useCallback((entry) => {
-    const withId = {
-      id: uid(),
-      createdAt: new Date().toISOString(),
-      ...normalizeEntry(entry),
-    }
-    setEntries((prev) => [withId, ...prev])
-    return withId
+    const normalized = normalizeEntry(entry)
+    const saved = { id: uid(), createdAt: new Date().toISOString(), ...normalized }
+    setEntries((prev) => {
+      const key = movieKey(normalized)
+      const existing = prev.find((e) => movieKey(e) === key)
+      const rating = Number(normalized.rating) > 0 ? Number(normalized.rating) : (existing?.rating || 0)
+      const next = Number(normalized.rating) > 0
+        ? prev.map((e) => movieKey(e) === key ? { ...e, rating } : e)
+        : prev
+      return [{ ...saved, rating }, ...next]
+    })
+    return saved
   }, [])
 
   const updateEntry = useCallback((id, patch) => {
-    setEntries((prev) =>
-      prev.map((e) => (e.id === id ? { ...e, ...patch } : e)),
-    )
+    setEntries((prev) => {
+      const target = prev.find((e) => e.id === id)
+      if (!target) return prev
+      const sharesRating = Object.prototype.hasOwnProperty.call(patch, 'rating')
+      const changesTop20 = Object.prototype.hasOwnProperty.call(patch, 'top20')
+      if (!sharesRating && !changesTop20) return prev.map((e) => (e.id === id ? { ...e, ...patch } : e))
+
+      const key = movieKey(target)
+      return prev.map((entry) => {
+        if (movieKey(entry) !== key) return entry
+        let next = entry
+        if (sharesRating) next = { ...next, rating: patch.rating }
+        // Exactly one viewing represents a title in the ranked list. Every
+        // other viewing still reads that membership through its movie key.
+        if (changesTop20) next = { ...next, top20: patch.top20 ? entry.id === id : false }
+        if (entry.id === id) next = { ...next, ...patch }
+        return next
+      })
+    })
   }, [])
 
   const removeEntry = useCallback((id) => {
     setEntries((prev) => prev.filter((e) => e.id !== id))
   }, [])
 
+  const reorderTop20 = useCallback((orderedIds) => {
+    const ranks = new Map(orderedIds.map((id, index) => [id, index + 1]))
+    setEntries((prev) => prev.map((entry) => ranks.has(entry.id) ? { ...entry, top20Rank: ranks.get(entry.id) } : entry))
+  }, [])
+
   const replaceAll = useCallback((next) => {
-    setEntries(Array.isArray(next) ? next : [])
+    setEntries(Array.isArray(next) ? syncSharedRatings(next.map(normalizeEntry)) : [])
   }, [])
 
   const importEntries = useCallback((incoming) => {
@@ -236,7 +318,7 @@ export function useDiary() {
         added++
       }
     }
-    const next = Array.from(byKey.values())
+    const next = syncSharedRatings(Array.from(byKey.values()))
     setEntries(next)
     // Grow the platform / people catalogues from whatever was imported.
     const cat = collectCatalogs(incoming)
@@ -255,14 +337,17 @@ export function useDiary() {
     addEntry,
     updateEntry,
     removeEntry,
+    reorderTop20,
     replaceAll,
     importEntries,
     // cloud
     cloudEnabled: isFirebaseConfigured,
     user,
+    authReady,
     syncStatus,
     syncError,
     signIn,
     signOut,
+    saveToCloud,
   }
 }
