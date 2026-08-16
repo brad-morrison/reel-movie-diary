@@ -44,6 +44,10 @@ export default function App() {
   const [burst, setBurst] = useState(null)
   const [swapCandidateId, setSwapCandidateId] = useState(null)
 
+  useEffect(() => {
+    document.documentElement.dataset.theme = diary.settings.theme === 'light' ? 'light' : 'dark'
+  }, [diary.settings.theme])
+
   // Remember the current section across reloads on this device.
   useEffect(() => {
     try { localStorage.setItem(ACTIVE_TAB_KEY, tab) } catch {}

@@ -18,6 +18,12 @@ const S = ({ children, size = 20, fill = 'none', ...p }) => (
 export const IconPlus = (p) => (
   <S {...p}><path d="M12 5v14M5 12h14" /></S>
 )
+export const IconSun = (p) => (
+  <S {...p}><circle cx="12" cy="12" r="4" /><path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.42-1.42M17.66 6.34l1.41-1.41" /></S>
+)
+export const IconMoon = (p) => (
+  <S {...p}><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5 8.5 8.5 0 1 0 20.5 14.2z" /></S>
+)
 export const IconSearch = (p) => (
   <S {...p}><circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" /></S>
 )

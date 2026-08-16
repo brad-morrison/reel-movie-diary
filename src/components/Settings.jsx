@@ -4,6 +4,7 @@ import { parseNotionCsv } from '../lib/csv.js'
 import {
   IconCheck, IconDownload, IconUpload, IconTrash, IconSparkle, IconPlus, IconX,
   IconCloud, IconCloudCheck, IconLogOut, IconGoogle,
+  IconSun, IconMoon,
 } from '../lib/icons.jsx'
 
 export default function Settings({ settings, setSettings, entries, replaceAll, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
@@ -117,6 +118,31 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
 
   return (
     <div className="settings-section">
+      <div className="setting-card appearance-card">
+        <div>
+          <h3>Appearance</h3>
+          <p className="desc">Choose how Reel looks on this device.</p>
+        </div>
+        <div className="theme-toggle" role="group" aria-label="Color theme">
+          <button
+            type="button"
+            className={settings.theme !== 'light' ? 'active' : ''}
+            aria-pressed={settings.theme !== 'light'}
+            onClick={() => setSettings((s) => ({ ...s, theme: 'dark' }))}
+          >
+            <IconMoon size={16} /> Dark
+          </button>
+          <button
+            type="button"
+            className={settings.theme === 'light' ? 'active' : ''}
+            aria-pressed={settings.theme === 'light'}
+            onClick={() => setSettings((s) => ({ ...s, theme: 'light' }))}
+          >
+            <IconSun size={16} /> Light
+          </button>
+        </div>
+      </div>
+
       <div className="setting-card">
         <h3><IconCloud size={18} style={{ verticalAlign: '-3px' }} /> Cloud sync</h3>
         {!cloudEnabled ? (

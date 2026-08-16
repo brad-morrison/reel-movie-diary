@@ -15,7 +15,7 @@ const ENTRIES_KEY = 'reel.entries.v1'
 const SETTINGS_KEY = 'reel.settings.v1'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
-const DEFAULT_SETTINGS = { tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true }
+const DEFAULT_SETTINGS = { theme: 'dark', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true }
 
 // A viewing has its own entry, while title-level details (such as the user's
 // rating) are shared by every viewing of the same film or show.
