@@ -1,10 +1,29 @@
+import { useState } from 'react'
 import { motion } from 'framer-motion'
 import AnimatedNumber from './AnimatedNumber.jsx'
-import { IconStar, IconChart, IconFilm, IconCheck } from '../lib/icons.jsx'
+import { IconStar, IconChart, IconFilm, IconCheck, IconHeart } from '../lib/icons.jsx'
+import { movieKey } from '../lib/store.js'
+import { fetchAudienceRating } from '../lib/tmdb.js'
 
-export default function Stats({ entries }) {
+function ratingOrder(a, b) {
+  const score = b.rating - a.rating
+  if (score) return score
+  const aRank = a.top20 ? (a.top20Rank || 21) : Number.MAX_SAFE_INTEGER
+  const bRank = b.top20 ? (b.top20Rank || 21) : Number.MAX_SAFE_INTEGER
+  return aRank - bRank || (b.year || 0) - (a.year || 0)
+}
+
+export default function Stats({ entries, tmdbKey = '', onUpdate }) {
+  const [scoreRefresh, setScoreRefresh] = useState(null)
   const total = entries.length
-  const rated = entries.filter((e) => e.rating > 0)
+  const uniqueMap = new Map()
+  for (const entry of entries) {
+    const key = movieKey(entry)
+    const existing = uniqueMap.get(key)
+    if (!existing || (entry.top20 && !existing.top20)) uniqueMap.set(key, entry)
+  }
+  const uniqueMovies = [...uniqueMap.values()]
+  const rated = uniqueMovies.filter((e) => e.rating > 0)
   const avg = rated.length ? rated.reduce((s, e) => s + e.rating, 0) / rated.length : 0
   const thisYear = new Date().getFullYear()
   const yearCount = entries.filter((e) => e.watchedDate?.startsWith(String(thisYear))).length
@@ -36,7 +55,48 @@ export default function Stats({ entries }) {
   const maxHist = Math.max(1, ...hist)
 
   // Top rated
-  const topRated = [...rated].sort((a, b) => b.rating - a.rating || (b.year || 0) - (a.year || 0)).slice(0, 5)
+  const topRated = [...rated].sort(ratingOrder).slice(0, 5)
+  const lowestRated = [...rated].sort((a, b) => a.rating - b.rating || (a.year || 0) - (b.year || 0)).slice(0, 5)
+  const largestSwings = rated
+    .map((entry) => {
+      const viewings = entries.filter((viewing) => movieKey(viewing) === movieKey(entry))
+      const imdbValue = viewings.map((viewing) => viewing.imdbRating ?? viewing.imdb ?? viewing.imdbScore).find((value) => Number(value) > 0)
+      const tmdbValue = viewings.map((viewing) => viewing.voteAverage).find((value) => Number(value) > 0)
+      const audienceRating = Number(imdbValue ?? tmdbValue)
+      if (!Number.isFinite(audienceRating) || audienceRating <= 0) return null
+      return {
+        entry,
+        audienceRating,
+        source: imdbValue != null ? 'IMDb' : 'TMDB',
+        swing: entry.rating - audienceRating / 2,
+      }
+    })
+    .filter((item) => item && item.swing > 0)
+    .sort((a, b) => b.swing - a.swing)
+    .slice(0, 5)
+  const audienceScoreCount = rated.filter((entry) => entries.some((viewing) =>
+    movieKey(viewing) === movieKey(entry) && Number(viewing.imdbRating ?? viewing.imdb ?? viewing.imdbScore ?? viewing.voteAverage) > 0,
+  )).length
+
+  async function refreshAudienceScores() {
+    if (!tmdbKey || !onUpdate || scoreRefresh) return
+    const missing = rated.filter((entry) => !entries.some((viewing) =>
+      movieKey(viewing) === movieKey(entry) && Number(viewing.imdbRating ?? viewing.imdb ?? viewing.imdbScore ?? viewing.voteAverage) > 0,
+    ))
+    setScoreRefresh({ done: 0, total: missing.length })
+    let done = 0
+    const concurrency = 6
+    for (let i = 0; i < missing.length; i += concurrency) {
+      const chunk = missing.slice(i, i + concurrency)
+      const scores = await Promise.all(chunk.map((entry) => fetchAudienceRating(entry, tmdbKey).catch(() => 0)))
+      chunk.forEach((entry, index) => {
+        if (scores[index] > 0) onUpdate(entry.id, { voteAverage: scores[index] })
+        done++
+      })
+      setScoreRefresh({ done, total: missing.length })
+    }
+    setScoreRefresh(null)
+  }
 
   // Monthly activity (last 12 months)
   const now = new Date()
@@ -115,6 +175,38 @@ export default function Stats({ entries }) {
           ))}
         </motion.div>
 
+        {topPlatforms.length > 0 && (
+          <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.18 }}>
+            <h3><IconFilm size={18} /> Top platforms</h3>
+            {topPlatforms.map(([p, n], i) => (
+              <div className="bar-row" key={p}>
+                <span className="bar-label">{p}</span>
+                <div className="bar-track">
+                  <motion.div className="bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxPlatform) * 100}%` }}
+                    transition={{ delay: 0.24 + i * 0.06, type: 'spring', stiffness: 120, damping: 18 }} />
+                </div>
+                <span className="bar-val">{n}</span>
+              </div>
+            ))}
+          </motion.div>
+        )}
+
+        {topCompanions.length > 0 && (
+          <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}>
+            <h3><IconHeart size={18} /> Watched with</h3>
+            {topCompanions.map(([c, n], i) => (
+              <div className="bar-row" key={c}>
+                <span className="bar-label">{c}</span>
+                <div className="bar-track">
+                  <motion.div className="bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxCompanion) * 100}%`, background: 'linear-gradient(90deg,#ff8a3d,#ff4d6d)' }}
+                    transition={{ delay: 0.26 + i * 0.06, type: 'spring', stiffness: 120, damping: 18 }} />
+                </div>
+                <span className="bar-val">{n}</span>
+              </div>
+            ))}
+          </motion.div>
+        )}
+
         <motion.div className="panel panel-full" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.22 }}>
           <h3><IconChart size={18} /> Last 12 months</h3>
           <div className="rating-hist" style={{ height: 150 }}>
@@ -122,7 +214,9 @@ export default function Stats({ entries }) {
               <div className="hist-col" key={i}>
                 <div className="hist-bar-area">
                   <motion.div className="hist-bar" initial={{ height: 0 }} animate={{ height: `${(count / maxMonth) * 100}%` }}
-                    transition={{ delay: 0.3 + i * 0.04, type: 'spring', stiffness: 120, damping: 16 }} title={`${count} in ${months[i].label}`} />
+                    transition={{ delay: 0.3 + i * 0.04, type: 'spring', stiffness: 120, damping: 16 }} title={`${count} in ${months[i].label}`}>
+                    <span className="hist-bar-value">{count}</span>
+                  </motion.div>
                 </div>
                 <span className="hist-label">{months[i].label}</span>
               </div>
@@ -144,56 +238,69 @@ export default function Stats({ entries }) {
           </div>
         </motion.div>
 
-        {topPlatforms.length > 0 && (
-          <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}>
-            <h3><IconFilm size={18} /> Top platforms</h3>
-            {topPlatforms.map(([p, n], i) => (
-              <div className="bar-row" key={p}>
-                <span className="bar-label">{p}</span>
-                <div className="bar-track">
-                  <motion.div className="bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxPlatform) * 100}%` }}
-                    transition={{ delay: 0.32 + i * 0.06, type: 'spring', stiffness: 120, damping: 18 }} />
-                </div>
-                <span className="bar-val">{n}</span>
+        <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}>
+          <h3><IconStar size={18} /> Lowest rated</h3>
+          <div className="mini-list">
+            {lowestRated.map((e, i) => (
+              <div className="mini-row" key={e.id}>
+                <span className="mini-rank">{i + 1}</span>
+                {e.poster ? <img className="mini-poster" src={e.poster} alt="" /> : <div className="mini-poster" />}
+                <span className="mini-title">{e.title}</span>
+                <span className="mini-val"><IconStar size={13} /> {e.rating}</span>
               </div>
             ))}
-          </motion.div>
-        )}
+          </div>
+        </motion.div>
 
-        {topCompanions.length > 0 && (
-          <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.32 }}>
-            <h3><IconHeart size={18} /> Watched with</h3>
-            {topCompanions.map(([c, n], i) => (
-              <div className="bar-row" key={c}>
-                <span className="bar-label">{c}</span>
-                <div className="bar-track">
-                  <motion.div className="bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxCompanion) * 100}%`, background: 'linear-gradient(90deg,#ff8a3d,#ff4d6d)' }}
-                    transition={{ delay: 0.34 + i * 0.06, type: 'spring', stiffness: 120, damping: 18 }} />
+        <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.32 }}>
+          <h3><IconChart size={18} /> Largest swing</h3>
+          {largestSwings.length === 0 ? (
+            <p className="dim swing-empty">No positive audience-score swings yet. Re-import your Notion CSV if it contains an IMDb Rating column.</p>
+          ) : (
+            <div className="mini-list">
+              {largestSwings.map(({ entry, audienceRating, source, swing }, i) => (
+                <div className="mini-row" key={entry.id}>
+                  <span className="mini-rank">{i + 1}</span>
+                  {entry.poster ? <img className="mini-poster" src={entry.poster} alt="" /> : <div className="mini-poster" />}
+                  <span className="mini-title swing-title">{entry.title}<small>You {entry.rating} · {source} {audienceRating.toFixed(1)}</small></span>
+                  <span className="mini-val swing-value">+{swing.toFixed(1)}★</span>
                 </div>
-                <span className="bar-val">{n}</span>
-              </div>
-            ))}
-          </motion.div>
-        )}
+              ))}
+            </div>
+          )}
+          {audienceScoreCount < rated.length && (
+            <div className="swing-refresh">
+              <span>{scoreRefresh ? `Fetching scores… ${scoreRefresh.done}/${scoreRefresh.total}` : `${audienceScoreCount} of ${rated.length} movies have audience scores`}</span>
+              <button type="button" onClick={refreshAudienceScores} disabled={!tmdbKey || !!scoreRefresh}>
+                {tmdbKey ? 'Complete scores' : 'Connect TMDB first'}
+              </button>
+            </div>
+          )}
+        </motion.div>
 
-        <motion.div className="panel" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.34 }}>
+        <motion.div className="panel panel-natural" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.34 }}>
           <h3><IconFilm size={18} /> Films vs TV</h3>
-          <div style={{ display: 'flex', gap: 26, alignItems: 'center', paddingTop: 6 }}>
+          <div className="media-split">
             <Donut films={films} shows={shows} />
-            <div style={{ flex: 1 }}>
-              <div style={{ display: 'flex', alignItems: 'baseline', gap: 10, marginBottom: 18 }}>
-                <span style={{ width: 12, height: 12, borderRadius: 4, background: 'var(--gold)', alignSelf: 'center' }} />
-                <span style={{ fontWeight: 700, fontSize: 26 }}>{films}</span>
-                <span className="dim">Films</span>
-                <span style={{ marginLeft: 'auto', color: 'var(--gold)', fontWeight: 700 }}>{Math.round((films / (films + shows || 1)) * 100)}%</span>
+            <div className="media-legend">
+              <div className="media-row films">
+                <span className="media-swatch" />
+                <strong>{films}</strong>
+                <span>Films</span>
+                <em>{Math.round((films / (films + shows || 1)) * 100)}%</em>
               </div>
-              <div style={{ display: 'flex', alignItems: 'baseline', gap: 10 }}>
-                <span style={{ width: 12, height: 12, borderRadius: 4, background: 'var(--rose)', alignSelf: 'center' }} />
-                <span style={{ fontWeight: 700, fontSize: 26 }}>{shows}</span>
-                <span className="dim">TV series</span>
-                <span style={{ marginLeft: 'auto', color: 'var(--rose)', fontWeight: 700 }}>{Math.round((shows / (films + shows || 1)) * 100)}%</span>
+              <div className="media-row shows">
+                <span className="media-swatch" />
+                <strong>{shows}</strong>
+                <span>TV series</span>
+                <em>{Math.round((shows / (films + shows || 1)) * 100)}%</em>
               </div>
             </div>
+          </div>
+          <div className="first-watch-summary">
+            <div><span>First-time watches</span><strong>{Math.round((firstTime / (total || 1)) * 100)}%</strong></div>
+            <div className="first-watch-track"><motion.span initial={{ width: 0 }} animate={{ width: `${(firstTime / (total || 1)) * 100}%` }} transition={{ delay: .45, duration: .8 }} /></div>
+            <small>{firstTime} of {total} diary entries</small>
           </div>
         </motion.div>
       </div>

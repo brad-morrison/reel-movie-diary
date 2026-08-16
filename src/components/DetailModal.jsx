@@ -1,12 +1,13 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import Rating from './Rating.jsx'
 import AnimatedNumber from './AnimatedNumber.jsx'
 import TagPicker from './TagPicker.jsx'
 import Top20Button from './Top20Button.jsx'
 import { useEscape } from '../lib/useEscape.js'
+import { searchTitles } from '../lib/tmdb.js'
 import {
-  IconX, IconCheck, IconCalendar, IconTrash, IconStar,
+  IconX, IconCheck, IconCalendar, IconTrash, IconStar, IconSearch,
 } from '../lib/icons.jsx'
 
 function fmtDate(d) {
@@ -20,20 +21,72 @@ function fmtDate(d) {
   }
 }
 
-export default function DetailModal({ entry, platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onToggleTop20, onClose, onUpdate, onDelete }) {
+export default function DetailModal({ entry, viewings = [], tmdbKey = '', platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onToggleTop20, onSelectViewing, onClose, onUpdate, onDelete }) {
   const [confirmDel, setConfirmDel] = useState(false)
+  const [repairOpen, setRepairOpen] = useState(false)
+  const [repairQuery, setRepairQuery] = useState('')
+  const [repairResults, setRepairResults] = useState([])
+  const [repairLoading, setRepairLoading] = useState(false)
+  const [repairError, setRepairError] = useState('')
   useEscape(onClose)
+
+  useEffect(() => {
+    setConfirmDel(false)
+    setRepairOpen(false)
+  }, [entry.id])
+
+  useEffect(() => {
+    if (!repairOpen || !tmdbKey || !repairQuery.trim()) {
+      setRepairResults([])
+      return
+    }
+    setRepairLoading(true)
+    setRepairError('')
+    const timer = setTimeout(async () => {
+      try {
+        setRepairResults(await searchTitles(repairQuery, tmdbKey))
+      } catch {
+        setRepairError('Search failed — check your TMDB key in Settings.')
+      } finally {
+        setRepairLoading(false)
+      }
+    }, 300)
+    return () => clearTimeout(timer)
+  }, [repairOpen, repairQuery, tmdbKey])
+
+  function openRepair() {
+    setRepairQuery(entry.title)
+    setRepairLoading(true)
+    setRepairOpen(true)
+    setConfirmDel(false)
+  }
+
+  function chooseRepair(result) {
+    onUpdate(entry.id, {
+      title: result.title,
+      year: result.year || undefined,
+      type: result.type,
+      poster: result.poster || '',
+      backdrop: result.backdrop || '',
+      overview: result.overview || '',
+      genres: result.genres || [],
+      tmdbId: result.tmdbId,
+      voteAverage: result.voteAverage,
+    })
+    setRepairOpen(false)
+    setRepairResults([])
+  }
 
   return (
     <motion.div
-      className="overlay"
+      className="overlay fullscreen-mobile-overlay"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
       onClick={onClose}
     >
       <motion.div
-        className="modal"
+        className="modal detail-modal"
         initial={{ opacity: 0, y: 40, scale: 0.96 }}
         animate={{ opacity: 1, y: 0, scale: 1 }}
         exit={{ opacity: 0, y: 20, scale: 0.97 }}
@@ -102,6 +155,26 @@ export default function DetailModal({ entry, platforms = [], people = [], top20F
             </div>
 
             <div className="detail-section">
+              <h4>Times watched · {viewings.length || 1}</h4>
+              <div className="viewing-list">
+                {(viewings.length ? viewings : [entry]).map((viewing, index, list) => (
+                  <button type="button" className={`viewing-row ${viewing.id === entry.id ? 'current' : ''}`} key={viewing.id} onClick={() => onSelectViewing?.(viewing)}>
+                    <span className="viewing-number">{list.length - index}</span>
+                    <div>
+                      <strong>{fmtDate(viewing.watchedDate)}</strong>
+                      <span>
+                        {viewing.firstTime ? 'First watch' : 'Rewatch'}
+                        {viewing.platform ? ` · ${viewing.platform}` : ''}
+                        {viewing.companions?.length ? ` · with ${viewing.companions.join(', ')}` : ''}
+                      </span>
+                    </div>
+                    {viewing.id === entry.id && <span className="viewing-current">Selected</span>}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            <div className="detail-section">
               <h4>Where did you watch it?</h4>
               <TagPicker
                 options={platforms}
@@ -143,6 +216,32 @@ export default function DetailModal({ entry, platforms = [], people = [], top20F
               </div>
             )}
 
+            <AnimatePresence>
+              {repairOpen && (
+                <motion.div className="detail-section repair-search" initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: 'auto' }} exit={{ opacity: 0, height: 0 }}>
+                  <div className="repair-head">
+                    <div><h4>Find the correct movie</h4><p>Your watch details and rating will be preserved.</p></div>
+                    <button className="icon-btn" onClick={() => setRepairOpen(false)}><IconX size={15} /></button>
+                  </div>
+                  <div className="search-box">
+                    <IconSearch size={18} />
+                    <input autoFocus value={repairQuery} onChange={(e) => setRepairQuery(e.target.value)} placeholder="Search TMDB…" />
+                  </div>
+                  {repairLoading && <p className="dim repair-message">Searching…</p>}
+                  {repairError && <p className="repair-message repair-error">{repairError}</p>}
+                  {!repairLoading && repairQuery && !repairError && repairResults.length === 0 && <p className="dim repair-message">No matches found.</p>}
+                  <div className="repair-results">
+                    {repairResults.slice(0, 6).map((result) => (
+                      <button key={`${result.type}-${result.tmdbId}`} className="repair-result" onClick={() => chooseRepair(result)}>
+                        {result.poster ? <img src={result.poster} alt="" /> : <span className="repair-result-poster">No art</span>}
+                        <span><strong>{result.title}</strong><small>{result.year || '—'} · {result.type === 'tv' ? 'TV' : 'Film'}</small></span>
+                      </button>
+                    ))}
+                  </div>
+                </motion.div>
+              )}
+            </AnimatePresence>
+
             <div className="detail-actions">
               {confirmDel ? (
                 <>
@@ -158,9 +257,14 @@ export default function DetailModal({ entry, platforms = [], people = [], top20F
                   </button>
                 </>
               ) : (
-                <button className="btn btn-ghost" onClick={() => setConfirmDel(true)} style={{ color: 'var(--rose)' }}>
-                  <IconTrash size={16} /> Remove from diary
-                </button>
+                <>
+                  <button className="btn btn-ghost" onClick={openRepair} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Search TMDB for the correct title'}>
+                    <IconSearch size={16} /> Find correct movie
+                  </button>
+                  <button className="btn btn-ghost" onClick={() => setConfirmDel(true)} style={{ color: 'var(--rose)' }}>
+                    <IconTrash size={16} /> Remove from diary
+                  </button>
+                </>
               )}
             </div>
           </div>

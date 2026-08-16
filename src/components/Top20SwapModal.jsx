@@ -61,7 +61,6 @@ export default function Top20SwapModal({ candidate, top20, onReplace, onCancel }
               initial={{ opacity: 0, x: 80 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ delay: 0.15 + i * 0.035, type: 'spring', stiffness: 260, damping: 24 }}
-              whileHover={{ scale: 1.06, y: -4 }}
               whileTap={{ scale: 0.96 }}
               onClick={() => onReplace(e.id)}
             >

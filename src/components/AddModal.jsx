@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import {
   AnimatePresence, motion, useMotionValue, useSpring, useTransform,
 } from 'framer-motion'
@@ -7,6 +7,7 @@ import AnimatedNumber from './AnimatedNumber.jsx'
 import TagPicker from './TagPicker.jsx'
 import Top20Button from './Top20Button.jsx'
 import { searchTitles } from '../lib/tmdb.js'
+import { movieKey } from '../lib/store.js'
 import { useEscape } from '../lib/useEscape.js'
 import {
   IconX, IconSearch, IconCheck, IconSparkle, IconChevron, IconStar, IconFilm,
@@ -78,7 +79,7 @@ function FloatyPoster({ poster, title }) {
   )
 }
 
-export default function AddModal({ tmdbKey, platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onClose, onSave }) {
+export default function AddModal({ entries = [], tmdbKey, platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onClose, onSave }) {
   const [step, setStep] = useState(tmdbKey ? 'search' : 'form')
   const [manual, setManual] = useState(!tmdbKey)
   const [form, setForm] = useState(blank())
@@ -86,9 +87,81 @@ export default function AddModal({ tmdbKey, platforms = [], people = [], top20Fu
   const [results, setResults] = useState([])
   const [loading, setLoading] = useState(false)
   const [err, setErr] = useState('')
+  const [scoreGuide, setScoreGuide] = useState(null)
   const inputRef = useRef(null)
   const set = (patch) => setForm((f) => ({ ...f, ...patch }))
   useEscape(onClose)
+
+  const matchingViewings = useMemo(() => {
+    if (!form.title.trim()) return []
+    const key = movieKey(form)
+    return entries.filter((entry) => movieKey(entry) === key)
+  }, [entries, form.title, form.year, form.type])
+  const existingMovie = matchingViewings[0] || null
+  const seededMovieRef = useRef('')
+
+  useEffect(() => {
+    if (!existingMovie) {
+      seededMovieRef.current = ''
+      return
+    }
+    const key = movieKey(existingMovie)
+    if (seededMovieRef.current === key) return
+    seededMovieRef.current = key
+    const top20 = matchingViewings.some((entry) => entry.top20)
+    setForm((current) => ({ ...current, rating: existingMovie.rating || 0, top20, firstTime: false }))
+  }, [existingMovie, matchingViewings])
+
+  const ratedMovies = useMemo(() => {
+    const seen = new Set()
+    return entries.filter((entry) => {
+      if (!entry.rating || entry.type !== 'movie') return false
+      const key = entry.tmdbId != null
+        ? `${entry.type}:${entry.tmdbId}`
+        : `${entry.type}:${(entry.title || '').trim().toLowerCase()}:${entry.year || ''}`
+      if (seen.has(key)) return false
+      seen.add(key)
+      return true
+    })
+  }, [entries])
+
+  function nextComparison(low, high, asked) {
+    const midpoint = (low + high) / 2
+    const unasked = ratedMovies.filter((entry) => !asked.includes(entry.id))
+    const focusRadius = Math.max(0.5, (high - low) / 2)
+    const focused = unasked.filter((entry) => Math.abs(entry.rating - midpoint) <= focusRadius)
+    return (focused.length ? focused : unasked)
+      .sort((a, b) => Math.abs(a.rating - midpoint) - Math.abs(b.rating - midpoint))[0] || null
+  }
+
+  function finishGuide(low, high, asked) {
+    const result = Math.max(0.5, Math.min(5, Math.round(((low + high) / 2) * 2) / 2))
+    setScoreGuide({ low, high, asked, current: null, result })
+  }
+
+  function startScoreGuide() {
+    const low = 0.5
+    const high = 5
+    const current = nextComparison(low, high, [])
+    if (current) setScoreGuide({ low, high, asked: [], current, result: null })
+    else setScoreGuide({ low, high, asked: [], current: null, result: null, empty: true })
+  }
+
+  function answerComparison(isBetter) {
+    const { current, asked } = scoreGuide
+    const nextAsked = [...asked, current.id]
+    const proposedLow = Math.min(5, current.rating + 0.5)
+    const proposedHigh = Math.max(0.5, current.rating)
+    const low = isBetter && proposedLow <= scoreGuide.high ? Math.max(scoreGuide.low, proposedLow) : scoreGuide.low
+    const high = !isBetter && proposedHigh >= low ? Math.min(scoreGuide.high, proposedHigh) : scoreGuide.high
+    if (nextAsked.length >= Math.min(7, ratedMovies.length)) {
+      finishGuide(low, high, nextAsked)
+      return
+    }
+    const currentNext = nextComparison(low, high, nextAsked)
+    if (!currentNext) finishGuide(low, high, nextAsked)
+    else setScoreGuide({ low, high, asked: nextAsked, current: currentNext, result: null })
+  }
 
   useEffect(() => {
     inputRef.current?.focus()
@@ -135,9 +208,9 @@ export default function AddModal({ tmdbKey, platforms = [], people = [], top20Fu
   }
 
   return (
-    <motion.div className="overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onClose}>
+    <motion.div className="overlay fullscreen-mobile-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onClose}>
       <motion.div
-        className={`modal ${step === 'form' ? 'modal-wide' : ''}`}
+        className={`modal add-modal ${step === 'form' ? 'modal-wide' : ''}`}
         initial={{ opacity: 0, y: 40, scale: 0.96 }}
         animate={{ opacity: 1, y: 0, scale: 1 }}
         exit={{ opacity: 0, y: 20, scale: 0.97 }}
@@ -245,9 +318,36 @@ export default function AddModal({ tmdbKey, platforms = [], people = [], top20Fu
                     <div className="add-hero-divider" />
 
                     <div className="add-hero-form">
+                      {existingMovie && (
+                        <motion.div className="existing-movie-notice" initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }}>
+                          <IconCheck size={17} />
+                          <div>
+                            <strong>Already in your diary</strong>
+                            <span>Watched {matchingViewings.length} {matchingViewings.length === 1 ? 'time' : 'times'} · your rating{matchingViewings.some((entry) => entry.top20) ? ' and Top 20 place are' : ' is'} carried over.</span>
+                          </div>
+                        </motion.div>
+                      )}
                       <div className="field">
                         <label>Your rating</label>
-                        <div className="rating-row"><Rating big value={form.rating} onChange={(r) => set({ rating: r, ...(r !== 5 ? { top20: false } : {}) })} /><span className="dim rating-number">{form.rating ? <AnimatedNumber value={form.rating} decimals={1} trim duration={0.28} /> : 'Tap to rate'}</span></div>
+                        <div className="rating-row">
+                          <Rating big value={form.rating} onChange={(r) => set({ rating: r, ...(r !== 5 ? { top20: false } : {}) })} />
+                          <span className="dim rating-number">{form.rating ? <AnimatedNumber value={form.rating} decimals={1} trim duration={0.28} /> : 'Tap to rate'}</span>
+                          <button type="button" className="score-guide-trigger" onClick={startScoreGuide}>Not sure?</button>
+                        </div>
+                        <AnimatePresence>
+                          {scoreGuide && (
+                            <ScoreGuide
+                              guide={scoreGuide}
+                              onAnswer={answerComparison}
+                              onRestart={startScoreGuide}
+                              onCancel={() => setScoreGuide(null)}
+                              onApply={(rating) => {
+                                set({ rating, ...(rating !== 5 ? { top20: false } : {}) })
+                                setScoreGuide(null)
+                              }}
+                            />
+                          )}
+                        </AnimatePresence>
                         <AnimatePresence>{form.rating === 5 && <motion.div layout style={{ marginTop: 14 }}><Top20Button active={form.top20} full={top20Full && !form.top20} onToggle={() => set({ top20: !form.top20 })} /></motion.div>}</AnimatePresence>
                       </div>
                       <div className="field-row">
@@ -260,7 +360,7 @@ export default function AddModal({ tmdbKey, platforms = [], people = [], top20Fu
 
                     <div className="add-hero-actions">
                       {tmdbKey && <button type="button" className="btn btn-ghost" onClick={() => setStep('search')}><IconChevron size={16} style={{ transform: 'rotate(90deg)' }} /> Back</button>}
-                      <button type="submit" className="btn btn-primary" disabled={!form.title.trim()}><IconSparkle size={16} /> Add to diary</button>
+                      <button type="submit" className="btn btn-primary" disabled={!form.title.trim()}><IconSparkle size={16} /> {existingMovie ? 'Add viewing' : 'Add to diary'}</button>
                     </div>
                   </div>
                 </div>
@@ -269,6 +369,57 @@ export default function AddModal({ tmdbKey, platforms = [], people = [], top20Fu
           </AnimatePresence>
         </div>
       </motion.div>
+    </motion.div>
+  )
+}
+
+function ScoreGuide({ guide, onAnswer, onRestart, onCancel, onApply }) {
+  return (
+    <motion.div
+      className="score-guide"
+      initial={{ opacity: 0, height: 0, y: -8 }}
+      animate={{ opacity: 1, height: 'auto', y: 0 }}
+      exit={{ opacity: 0, height: 0, y: -8 }}
+      transition={{ duration: .28, ease: [0.22, 1, 0.36, 1] }}
+    >
+      <button type="button" className="score-guide-close" onClick={onCancel} aria-label="Close rating guide"><IconX size={15} /></button>
+      {guide.empty ? (
+        <div className="score-guide-empty">
+          <IconSparkle size={22} />
+          <strong>We need a few reference points first</strong>
+          <p>Rate some movies normally, then this guide can compare against your taste.</p>
+        </div>
+      ) : guide.result ? (
+        <div className="score-guide-result">
+          <div className="score-guide-eyebrow">Your suggested score</div>
+          <div className="score-guide-score"><IconStar size={24} fill="currentColor" /> {guide.result}</div>
+          <p>Based on {guide.asked.length} comparison{guide.asked.length === 1 ? '' : 's'} from your diary.</p>
+          <div className="score-guide-actions">
+            <button type="button" className="btn btn-ghost" onClick={onRestart}>Try again</button>
+            <button type="button" className="btn btn-primary" onClick={() => onApply(guide.result)}>Use this score</button>
+          </div>
+        </div>
+      ) : (
+        <AnimatePresence mode="wait">
+          <motion.div key={guide.current.id} className="score-guide-question" initial={{ opacity: 0, x: 24 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -24 }} transition={{ duration: .2 }}>
+            <div className="score-guide-eyebrow">Taste check · {guide.asked.length + 1} of up to 7</div>
+            <div className="score-guide-compare">
+              {guide.current.poster
+                ? <img src={guide.current.poster} alt={guide.current.title} />
+                : <div className="score-guide-poster-fallback">{guide.current.title.slice(0, 1)}</div>}
+              <div>
+                <span>Better than this?</span>
+                <strong>{guide.current.title}</strong>
+                <small>{guide.current.year || ''}</small>
+              </div>
+            </div>
+            <div className="score-guide-answers">
+              <button type="button" className="score-answer no" onClick={() => onAnswer(false)}>No</button>
+              <button type="button" className="score-answer yes" onClick={() => onAnswer(true)}>Yes</button>
+            </div>
+          </motion.div>
+        </AnimatePresence>
+      )}
     </motion.div>
   )
 }
