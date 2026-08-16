@@ -1,8 +1,9 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import PosterCard from './PosterCard.jsx'
 import AnimatedNumber from './AnimatedNumber.jsx'
 import { IconSearch, IconChevron, IconPlus } from '../lib/icons.jsx'
+import { movieKey } from '../lib/store.js'
 
 const FILTERS = [
   { key: 'all', label: 'All' },
@@ -14,15 +15,27 @@ const FILTERS = [
 const SORTS = {
   recent: { label: 'Recently watched', fn: (a, b) => (b.watchedDate || '').localeCompare(a.watchedDate || '') },
   added: { label: 'Recently added', fn: (a, b) => (b.createdAt || '').localeCompare(a.createdAt || '') },
-  rating: { label: 'Highest rated', fn: (a, b) => (b.rating || 0) - (a.rating || 0) },
+  rating: { label: 'Highest rated', fn: (a, b) => {
+    const score = (b.rating || 0) - (a.rating || 0)
+    if (score) return score
+    const aRank = a.top20 ? (a.top20Rank || 21) : Number.MAX_SAFE_INTEGER
+    const bRank = b.top20 ? (b.top20Rank || 21) : Number.MAX_SAFE_INTEGER
+    return aRank - bRank
+  } },
+  mostWatched: { label: 'Most watched', fn: (a, b) =>
+    (b.viewingCount || 1) - (a.viewingCount || 1) ||
+    (b.watchedDate || '').localeCompare(a.watchedDate || ''),
+  },
   title: { label: 'Title A–Z', fn: (a, b) => a.title.localeCompare(b.title) },
   year: { label: 'Newest release', fn: (a, b) => (b.year || 0) - (a.year || 0) },
 }
 
 export default function Library({ entries, onOpen, onAdd }) {
   const [q, setQ] = useState('')
-  const [filter, setFilter] = useState('all')
+  const [filter, setFilter] = useState('movie')
   const [sort, setSort] = useState('recent')
+  const [visibleCount, setVisibleCount] = useState(36)
+  const loadMoreRef = useRef(null)
 
   const hero = useMemo(() => {
     const withArt = entries.filter((e) => e.backdrop || e.poster)
@@ -43,12 +56,54 @@ export default function Library({ entries, onOpen, onAdd }) {
         (e.companions || []).some((c) => c.toLowerCase().includes(s)),
       )
     }
-    return [...list].sort(SORTS[sort].fn)
+    const viewingCounts = new Map()
+    for (const entry of entries) {
+      const key = movieKey(entry)
+      viewingCounts.set(key, (viewingCounts.get(key) || 0) + 1)
+    }
+    const sorted = list
+      .map((entry) => ({ ...entry, viewingCount: viewingCounts.get(movieKey(entry)) || 1 }))
+      .sort(SORTS[sort].fn)
+    const top20Movies = new Set(entries.filter((entry) => entry.top20).map(movieKey))
+    const withMovieMembership = (items) => items.map((entry) => ({
+      ...entry,
+      top20: top20Movies.has(movieKey(entry)),
+    }))
+
+    // The unsearched watch-order diary is the viewing log. Search and every
+    // alternative sort are movie-level views, so repeat viewings collapse.
+    if (sort === 'recent' && !q.trim()) return withMovieMembership(sorted)
+    const seen = new Set()
+    const unique = sorted.filter((entry) => {
+      const key = movieKey(entry)
+      if (seen.has(key)) return false
+      seen.add(key)
+      return true
+    })
+    return withMovieMembership(unique)
   }, [entries, filter, q, sort])
 
-  const thisYear = new Date().getFullYear()
+  useEffect(() => { setVisibleCount(36) }, [filter, q, sort])
+
+  useEffect(() => {
+    const node = loadMoreRef.current
+    if (!node || visibleCount >= filtered.length) return
+    const observer = new IntersectionObserver(([item]) => {
+      if (item.isIntersecting) setVisibleCount((count) => Math.min(count + 30, filtered.length))
+    }, { rootMargin: '900px 0px' })
+    observer.observe(node)
+    return () => observer.disconnect()
+  }, [visibleCount, filtered.length])
+
+  const visibleEntries = filtered.slice(0, visibleCount)
+
+  const now = new Date()
+  const thisYear = now.getFullYear()
+  const monthPrefix = `${thisYear}-${String(now.getMonth() + 1).padStart(2, '0')}`
   const yearCount = entries.filter((e) => e.watchedDate?.startsWith(String(thisYear))).length
-  const rated = entries.filter((e) => e.rating > 0)
+  const monthCount = entries.filter((e) => e.watchedDate?.startsWith(monthPrefix)).length
+  const uniqueMovies = Array.from(new Map(entries.map((e) => [movieKey(e), e])).values())
+  const rated = uniqueMovies.filter((e) => e.rating > 0)
   const avg = rated.length ? rated.reduce((s, e) => s + e.rating, 0) / rated.length : 0
 
   return (
@@ -75,7 +130,7 @@ export default function Library({ entries, onOpen, onAdd }) {
           { label: 'In your diary', value: entries.length },
           { label: `Watched in ${thisYear}`, value: yearCount },
           { label: 'Average rating', value: avg, decimals: 1 },
-          { label: 'First-time watches', value: entries.filter((e) => e.firstTime).length },
+          { label: 'Watched this month', value: monthCount },
         ].map((c, i) => (
           <motion.div key={c.label} className="stat-card" initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }}>
             <div className="stat-value"><AnimatedNumber value={c.value} decimals={c.decimals || 0} />{c.unit && <span className="unit">{c.unit}</span>}</div>
@@ -114,12 +169,13 @@ export default function Library({ entries, onOpen, onAdd }) {
       ) : (
         <div className="grid">
           <AnimatePresence>
-            {filtered.map((e, i) => (
-              <PosterCard key={e.id} entry={e} index={i} onClick={onOpen} />
+            {visibleEntries.map((e, i) => (
+              <PosterCard key={e.id} entry={e} index={i} onClick={onOpen} showViewingCount={sort === 'mostWatched'} />
             ))}
           </AnimatePresence>
         </div>
       )}
+      {visibleCount < filtered.length && <div ref={loadMoreRef} className="library-load-more" aria-hidden />}
     </div>
   )
 }

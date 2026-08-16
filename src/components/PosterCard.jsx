@@ -2,9 +2,10 @@ import { forwardRef, useRef, useState } from 'react'
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion'
 import { IconStar, IconCheck, IconCrown } from '../lib/icons.jsx'
 
-const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0 }, outerRef) {
+const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0, showViewingCount = false }, outerRef) {
   const ref = useRef(null)
   const [imgOk, setImgOk] = useState(true)
+  const canHover = typeof window !== 'undefined' && window.matchMedia('(hover: hover) and (pointer: fine)').matches
   const mx = useMotionValue(0)
   const my = useMotionValue(0)
   const rx = useSpring(useTransform(my, [-0.5, 0.5], [8, -8]), { stiffness: 260, damping: 20 })
@@ -25,8 +26,8 @@ const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0 },
   return (
     <motion.div
       ref={outerRef}
-      layout
-      initial={{ opacity: 0, y: 30, scale: 0.94 }}
+      layout={canHover}
+      initial={canHover ? { opacity: 0, y: 30, scale: 0.94 } : false}
       animate={{ opacity: 1, y: 0, scale: 1 }}
       exit={{ opacity: 0, scale: 0.9 }}
       transition={{ delay: Math.min(index * 0.035, 0.4), type: 'spring', stiffness: 220, damping: 24 }}
@@ -34,13 +35,13 @@ const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0 },
     >
       <motion.button
         ref={ref}
-        layoutId={`poster-${entry.id}`}
+        layoutId={canHover ? `poster-${entry.id}` : undefined}
         className="poster"
-        onMouseMove={handleMove}
-        onMouseLeave={reset}
+        onMouseMove={canHover ? handleMove : undefined}
+        onMouseLeave={canHover ? reset : undefined}
         onClick={() => onClick(entry)}
-        style={{ rotateX: rx, rotateY: ry, transformStyle: 'preserve-3d' }}
-        whileHover={{ scale: 1.04, boxShadow: 'var(--shadow)' }}
+        style={canHover ? { rotateX: rx, rotateY: ry, transformStyle: 'preserve-3d' } : undefined}
+        whileHover={canHover ? { scale: 1.04, boxShadow: 'var(--shadow)' } : undefined}
         whileTap={{ scale: 0.99 }}
       >
         {entry.poster && imgOk ? (
@@ -49,6 +50,7 @@ const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0 },
             src={entry.poster}
             alt={entry.title}
             loading="lazy"
+            decoding="async"
             draggable={false}
             onError={() => setImgOk(false)}
           />
@@ -92,6 +94,7 @@ const PosterCard = forwardRef(function PosterCard({ entry, onClick, index = 0 },
           <div className="poster-title">{entry.title}</div>
           <div className="poster-meta">
             <span>{entry.year}</span>
+            {showViewingCount && <span className="dot-sep">{entry.viewingCount}× watched</span>}
             {entry.platform && <span className="dot-sep">{entry.platform}</span>}
             {entry.firstTime && (
               <span className="dot-sep" style={{ display: 'inline-flex', alignItems: 'center', gap: 4 }}>
