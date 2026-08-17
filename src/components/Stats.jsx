@@ -198,7 +198,7 @@ export default function Stats({ entries, tmdbKey = '', onUpdate }) {
               <div className="bar-row" key={c}>
                 <span className="bar-label">{c}</span>
                 <div className="bar-track">
-                  <motion.div className="bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxCompanion) * 100}%`, background: 'linear-gradient(90deg,#ff8a3d,#ff4d6d)' }}
+                  <motion.div className="bar-fill companion-bar-fill" initial={{ width: 0 }} animate={{ width: `${(n / maxCompanion) * 100}%` }}
                     transition={{ delay: 0.26 + i * 0.06, type: 'spring', stiffness: 120, damping: 18 }} />
                 </div>
                 <span className="bar-val">{n}</span>

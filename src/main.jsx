@@ -7,8 +7,10 @@ import './index.css'
 try {
   const savedSettings = JSON.parse(localStorage.getItem('reel.settings.v1') || '{}')
   document.documentElement.dataset.theme = savedSettings.theme === 'light' ? 'light' : 'dark'
+  document.documentElement.dataset.accent = savedSettings.accentScheme === 'candy' ? 'candy' : 'reel'
 } catch {
   document.documentElement.dataset.theme = 'dark'
+  document.documentElement.dataset.accent = 'reel'
 }
 
 ReactDOM.createRoot(document.getElementById('root')).render(

@@ -13,6 +13,7 @@ import AddWatchlistModal from './components/AddWatchlistModal.jsx'
 import WatchlistCleanupModal from './components/WatchlistCleanupModal.jsx'
 import WatchlistDetailModal from './components/WatchlistDetailModal.jsx'
 import RandomMovieModal from './components/RandomMovieModal.jsx'
+import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
 
@@ -191,6 +192,19 @@ export default function App() {
     diary.setSettings((s) => ({ ...s, people: s.people.some((x) => x.toLowerCase() === p.toLowerCase()) ? s.people : [...s.people, p] }))
   }, [diary])
 
+  if (diary.cloudEnabled && !diary.authReady) return <AuthLoading />
+  if (diary.cloudEnabled && !diary.user) {
+    return (
+      <AuthPage
+        onGoogle={diary.signIn}
+        onSignIn={diary.signInEmail}
+        onCreateAccount={diary.createAccount}
+        onResetPassword={diary.resetPassword}
+      />
+    )
+  }
+  if (diary.cloudEnabled && diary.user && !diary.cloudLoaded) return <AuthLoading />
+
   return (
     <div className="app">
       <header className="header">
@@ -283,7 +297,10 @@ export default function App() {
                 settings={diary.settings}
                 setSettings={diary.setSettings}
                 entries={diary.entries}
+                watchlists={diary.watchlists}
                 replaceAll={diary.replaceAll}
+                restoreBackup={diary.restoreBackup}
+                clearAllData={diary.clearAllData}
                 importEntries={diary.importEntries}
                 notify={notify}
                 cloudEnabled={diary.cloudEnabled}

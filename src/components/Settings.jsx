@@ -7,7 +7,7 @@ import {
   IconSun, IconMoon, IconChevron,
 } from '../lib/icons.jsx'
 
-export default function Settings({ settings, setSettings, entries, replaceAll, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
+export default function Settings({ settings, setSettings, entries, watchlists, replaceAll, restoreBackup, clearAllData, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
   const [key, setKey] = useState(settings.tmdbKey || '')
   const [checking, setChecking] = useState(false)
   const [keyStatus, setKeyStatus] = useState(settings.tmdbKey ? 'saved' : '')
@@ -47,14 +47,18 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
   }
 
   function exportJson() {
-    const blob = new Blob([JSON.stringify(entries, null, 2)], { type: 'application/json' })
+    const backup = {
+      format: 'reel-backup', version: 2, exportedAt: new Date().toISOString(),
+      entries, watchlists, settings,
+    }
+    const blob = new Blob([JSON.stringify(backup, null, 2)], { type: 'application/json' })
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
     a.href = url
-    a.download = `reel-diary-${new Date().toISOString().slice(0, 10)}.json`
+    a.download = `reel-complete-backup-${new Date().toISOString().slice(0, 10)}.json`
     a.click()
     URL.revokeObjectURL(url)
-    notify('Diary exported')
+    notify(`Complete backup exported — ${entries.length} diary entries and ${watchlists.length} watch lists`)
   }
 
   function onJsonFile(e) {
@@ -64,9 +68,13 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
     reader.onload = () => {
       try {
         const data = JSON.parse(reader.result)
-        if (!Array.isArray(data)) throw new Error()
-        replaceAll(data)
-        notify(`Restored ${data.length} entries`)
+        if (Array.isArray(data)) {
+          replaceAll(data)
+          notify(`Restored ${data.length} diary entries from a legacy backup`)
+        } else {
+          const restored = restoreBackup(data)
+          notify(`Restored ${restored.entries} diary entries, ${restored.watchlistItems} saved titles, and ${restored.lists} lists`)
+        }
       } catch {
         notify('Could not read that file')
       }
@@ -221,8 +229,8 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
         <h3>Your data</h3>
         <p className="desc">Your current browser keeps an offline copy. When signed in, the same diary is stored in Firebase and shared with the deployed site.</p>
         <div className="inline-actions">
-          <button className="btn btn-ghost" onClick={exportJson}><IconDownload size={16} /> Export backup (JSON)</button>
-          <button className="btn btn-ghost" onClick={() => fileJson.current?.click()}><IconUpload size={16} /> Restore from backup</button>
+          <button className="btn btn-ghost" onClick={exportJson}><IconDownload size={16} /> Export complete backup</button>
+          <button className="btn btn-ghost" onClick={() => fileJson.current?.click()}><IconUpload size={16} /> Restore complete backup</button>
           <input ref={fileJson} type="file" accept="application/json" hidden onChange={onJsonFile} />
         </div>
       </div>
@@ -292,18 +300,18 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
 
       <div className="setting-card">
         <h3 style={{ color: 'var(--rose)' }}>Danger zone</h3>
-        <p className="desc">Clear the whole diary. This can't be undone — export a backup first.</p>
+        <p className="desc">Clear this account's diary, watch lists, preferences, people, and platforms. This can't be undone — export a complete backup first.</p>
         <button
           className="btn btn-ghost"
           style={{ color: 'var(--rose)', borderColor: 'rgba(255,77,109,0.4)' }}
           onClick={() => {
-            if (confirm('Delete every entry in your diary? This cannot be undone.')) {
-              replaceAll([])
-              notify('Diary cleared')
+            if (confirm('Delete all diary entries, watch lists, and settings from this account? This cannot be undone.')) {
+              clearAllData()
+              notify('All account data cleared')
             }
           }}
         >
-          <IconTrash size={16} /> Clear diary
+          <IconTrash size={16} /> Clear all account data
         </button>
       </div>
     </div>

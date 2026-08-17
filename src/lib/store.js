@@ -1,10 +1,14 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import {
   browserLocalPersistence,
+  createUserWithEmailAndPassword,
   onAuthStateChanged,
+  sendPasswordResetEmail,
   setPersistence,
+  signInWithEmailAndPassword,
   signInWithPopup,
   signOut as fbSignOut,
+  updateProfile,
 } from 'firebase/auth'
 import { doc, onSnapshot, setDoc, serverTimestamp } from 'firebase/firestore'
 import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
@@ -154,7 +158,16 @@ export function useDiary() {
       ref,
       (snap) => {
         if (!snap.exists()) {
-          const payload = cloudPayload(entriesRef.current, settingsRef.current, watchlistsRef.current)
+          // A missing document means this is a genuinely new account. Never
+          // seed it from the last account's browser cache: that would leak one
+          // person's diary into another person's account on a shared device.
+          const freshEntries = []
+          const freshSettings = { ...DEFAULT_SETTINGS }
+          const freshWatchlists = normalizeWatchlists([])
+          const payload = cloudPayload(freshEntries, freshSettings, freshWatchlists)
+          setEntries(freshEntries)
+          setSettings(freshSettings)
+          setWatchlists(freshWatchlists)
           setDoc(ref, { ...payload, updatedAt: serverTimestamp() })
             .then(() => {
               lastSyncedRef.current = JSON.stringify(payload)
@@ -233,6 +246,25 @@ export function useDiary() {
   }, [])
   const signOut = useCallback(() => {
     if (isFirebaseConfigured) return fbSignOut(auth)
+  }, [])
+  const signInEmail = useCallback(async (email, password) => {
+    if (!isFirebaseConfigured) return
+    await setPersistence(auth, browserLocalPersistence)
+    const credential = await signInWithEmailAndPassword(auth, email, password)
+    setUser(credential.user)
+    return credential
+  }, [])
+  const createAccount = useCallback(async (name, email, password) => {
+    if (!isFirebaseConfigured) return
+    await setPersistence(auth, browserLocalPersistence)
+    const credential = await createUserWithEmailAndPassword(auth, email, password)
+    if (name.trim()) await updateProfile(credential.user, { displayName: name.trim() })
+    setUser(credential.user)
+    return credential
+  }, [])
+  const resetPassword = useCallback((email) => {
+    if (!isFirebaseConfigured) return
+    return sendPasswordResetEmail(auth, email)
   }, [])
 
   // Explicitly make the currently visible diary authoritative. This is used
@@ -360,6 +392,28 @@ export function useDiary() {
     setEntries(Array.isArray(next) ? syncSharedRatings(next.map(normalizeEntry)) : [])
   }, [])
 
+  const restoreBackup = useCallback((backup) => {
+    if (!backup || typeof backup !== 'object' || Array.isArray(backup)) throw new Error('Invalid Reel backup')
+    if (!Array.isArray(backup.entries) || !Array.isArray(backup.watchlists)) throw new Error('Incomplete Reel backup')
+    const nextEntries = syncSharedRatings(backup.entries.map(normalizeEntry))
+    const nextSettings = { ...DEFAULT_SETTINGS, ...(backup.settings || {}) }
+    const nextWatchlists = normalizeWatchlists(backup.watchlists)
+    setEntries(nextEntries)
+    setSettings(nextSettings)
+    setWatchlists(nextWatchlists)
+    return {
+      entries: nextEntries.length,
+      lists: nextWatchlists.length,
+      watchlistItems: nextWatchlists.reduce((total, list) => total + list.items.length, 0),
+    }
+  }, [])
+
+  const clearAllData = useCallback(() => {
+    setEntries([])
+    setSettings({ ...DEFAULT_SETTINGS })
+    setWatchlists(normalizeWatchlists([]))
+  }, [])
+
   const importEntries = useCallback((incoming) => {
     // A diary logs each watch: the same title on a different date is a separate
     // entry. Keying on title+date keeps rewatches distinct yet re-import idempotent.
@@ -405,14 +459,20 @@ export function useDiary() {
     updateWatchlistItem,
     reorderTop20,
     replaceAll,
+    restoreBackup,
+    clearAllData,
     importEntries,
     // cloud
     cloudEnabled: isFirebaseConfigured,
     user,
     authReady,
+    cloudLoaded,
     syncStatus,
     syncError,
     signIn,
+    signInEmail,
+    createAccount,
+    resetPassword,
     signOut,
     saveToCloud,
   }
