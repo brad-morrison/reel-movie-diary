@@ -46,6 +46,33 @@ export async function searchTitles(query, key) {
     })
 }
 
+export async function fetchTitleDetails(entry, key) {
+  if (!key || entry?.tmdbId == null) return null
+  const type = entry.type === 'tv' ? 'tv' : 'movie'
+  const res = await fetch(`${BASE}/${type}/${entry.tmdbId}?api_key=${key}&append_to_response=credits`)
+  if (!res.ok) throw new Error(`TMDB ${res.status}`)
+  const data = await res.json()
+  const crewDirectors = (data.credits?.crew || []).filter((person) => person.job === 'Director').map((person) => person.name)
+  const creators = (data.created_by || []).map((person) => person.name)
+  const date = type === 'tv' ? data.first_air_date : data.release_date
+  return {
+    overview: data.overview || entry.overview || '',
+    genres: (data.genres || []).map((genre) => genre.name),
+    directors: [...new Set(type === 'tv' && creators.length ? creators : crewDirectors)],
+    cast: (data.credits?.cast || []).slice(0, 8).map((person) => ({
+      id: person.id,
+      name: person.name,
+      character: person.character || '',
+      profile: posterUrl(person.profile_path, 'w185'),
+    })),
+    runtime: type === 'tv' ? data.episode_run_time?.[0] : data.runtime,
+    releaseDate: date || '',
+    voteAverage: data.vote_average || entry.voteAverage,
+    backdrop: backdropUrl(data.backdrop_path) || entry.backdrop || '',
+    poster: posterUrl(data.poster_path) || entry.poster || '',
+  }
+}
+
 export async function verifyKey(key) {
   try {
     const res = await fetch(`${BASE}/configuration?api_key=${key}`)

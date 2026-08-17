@@ -42,6 +42,9 @@ export const IconHeart = ({ fill = 'none', ...p }) => (
     <path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z" />
   </S>
 )
+export const IconBookmark = ({ fill = 'none', ...p }) => (
+  <S fill={fill} {...p}><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z" /></S>
+)
 export const IconChart = (p) => (
   <S {...p}><path d="M3 3v18h18" /><rect x="7" y="10" width="3" height="7" /><rect x="12" y="6" width="3" height="11" /><rect x="17" y="13" width="3" height="4" /></S>
 )

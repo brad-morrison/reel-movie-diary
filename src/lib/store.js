@@ -13,6 +13,7 @@ import { collectCatalogs } from './csv.js'
 
 const ENTRIES_KEY = 'reel.entries.v1'
 const SETTINGS_KEY = 'reel.settings.v1'
+const WATCHLIST_KEY = 'reel.watchlist.v1'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
 const DEFAULT_SETTINGS = { theme: 'dark', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true }
@@ -39,8 +40,8 @@ function syncSharedRatings(entries) {
 // Strip undefined optional fields before sending imported data to Firestore.
 // Keeping this explicit also makes the value used for sync comparisons exactly
 // match the value Firebase receives.
-function cloudPayload(entries, settings) {
-  return JSON.parse(JSON.stringify({ entries, settings }))
+function cloudPayload(entries, settings, watchlists) {
+  return JSON.parse(JSON.stringify({ entries, settings, watchlists }))
 }
 
 const uniqMerge = (a = [], b = []) => {
@@ -84,6 +85,17 @@ function load(key, fallback) {
 const uid = () =>
   Date.now().toString(36) + Math.random().toString(36).slice(2, 8)
 
+const DEFAULT_WATCHLIST_ID = 'my-watch-list'
+
+// Version one stored one flat array. Wrap it as the default named list so
+// existing local and cloud data moves forward without losing a title.
+function normalizeWatchlists(value) {
+  if (Array.isArray(value) && value.some((list) => Array.isArray(list?.items))) {
+    return value.map((list) => ({ ...list, items: Array.isArray(list.items) ? list.items : [] }))
+  }
+  return [{ id: DEFAULT_WATCHLIST_ID, name: 'My watch list', createdAt: new Date(0).toISOString(), items: Array.isArray(value) ? value : [] }]
+}
+
 export function useDiary() {
   const [entries, setEntries] = useState(() => {
     const stored = load(ENTRIES_KEY, null)
@@ -96,6 +108,7 @@ export function useDiary() {
     ...DEFAULT_SETTINGS,
     ...load(SETTINGS_KEY, {}),
   }))
+  const [watchlists, setWatchlists] = useState(() => normalizeWatchlists(load(WATCHLIST_KEY, [])))
 
   // ---- Cloud sync (Firebase) --------------------------------------------
   const [user, setUser] = useState(null)
@@ -108,6 +121,8 @@ export function useDiary() {
   entriesRef.current = entries
   const settingsRef = useRef(settings)
   settingsRef.current = settings
+  const watchlistsRef = useRef(watchlists)
+  watchlistsRef.current = watchlists
   const lastSyncedRef = useRef(null) // JSON of the last data exchanged with the cloud
 
   // Track who's signed in.
@@ -139,7 +154,7 @@ export function useDiary() {
       ref,
       (snap) => {
         if (!snap.exists()) {
-          const payload = cloudPayload(entriesRef.current, settingsRef.current)
+          const payload = cloudPayload(entriesRef.current, settingsRef.current, watchlistsRef.current)
           setDoc(ref, { ...payload, updatedAt: serverTimestamp() })
             .then(() => {
               lastSyncedRef.current = JSON.stringify(payload)
@@ -157,9 +172,15 @@ export function useDiary() {
         const data = snap.data() || {}
         const nextEntries = Array.isArray(data.entries) ? syncSharedRatings(data.entries.map(normalizeEntry)) : []
         const nextSettings = { ...DEFAULT_SETTINGS, ...(data.settings || {}) }
-        lastSyncedRef.current = JSON.stringify({ entries: nextEntries, settings: nextSettings })
+        // Accept both the old flat watchlist and the new named-list model.
+        const cloudLists = Array.isArray(data.watchlists) ? data.watchlists : data.watchlist
+        const nextWatchlists = Array.isArray(cloudLists) ? normalizeWatchlists(cloudLists) : watchlistsRef.current
+        lastSyncedRef.current = Array.isArray(data.watchlists)
+          ? JSON.stringify(cloudPayload(nextEntries, nextSettings, nextWatchlists))
+          : JSON.stringify({ entries: nextEntries, settings: nextSettings, watchlists: data.watchlists })
         setEntries(nextEntries)
         setSettings(nextSettings)
+        setWatchlists(nextWatchlists)
         setCloudLoaded(true)
         setSyncError('')
         setSyncStatus('synced')
@@ -180,7 +201,7 @@ export function useDiary() {
   // skip writing data we just received from the cloud.
   useEffect(() => {
     if (!isFirebaseConfigured || !user || !cloudLoaded) return
-    const payload = cloudPayload(entries, settings)
+    const payload = cloudPayload(entries, settings, watchlists)
     const json = JSON.stringify(payload)
     if (json === lastSyncedRef.current) return
     setSyncStatus('saving')
@@ -198,7 +219,7 @@ export function useDiary() {
         })
     }, 100)
     return () => clearTimeout(t)
-  }, [entries, settings, user, cloudLoaded])
+  }, [entries, settings, watchlists, user, cloudLoaded])
 
   const signIn = useCallback(async () => {
     if (!isFirebaseConfigured) return
@@ -219,7 +240,7 @@ export function useDiary() {
   const saveToCloud = useCallback(async (entriesOverride) => {
     if (!isFirebaseConfigured || !user) throw new Error('Sign in before saving to the cloud')
     const nextEntries = syncSharedRatings(entriesOverride || entriesRef.current)
-    const payload = cloudPayload(nextEntries, settingsRef.current)
+    const payload = cloudPayload(nextEntries, settingsRef.current, watchlistsRef.current)
     setSyncStatus('saving')
     setSyncError('')
     try {
@@ -248,6 +269,12 @@ export function useDiary() {
       localStorage.setItem(SETTINGS_KEY, JSON.stringify(settings))
     } catch {}
   }, [settings])
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(WATCHLIST_KEY, JSON.stringify(watchlists))
+    } catch {}
+  }, [watchlists])
 
   const addEntry = useCallback((entry) => {
     const normalized = normalizeEntry(entry)
@@ -288,6 +315,40 @@ export function useDiary() {
 
   const removeEntry = useCallback((id) => {
     setEntries((prev) => prev.filter((e) => e.id !== id))
+  }, [])
+
+  const createWatchlist = useCallback((name) => {
+    const cleanName = name.trim()
+    if (!cleanName) return null
+    const list = { id: uid(), name: cleanName, createdAt: new Date().toISOString(), items: [] }
+    const next = [...watchlistsRef.current, list]
+    watchlistsRef.current = next
+    setWatchlists(next)
+    return list
+  }, [])
+
+  const addToWatchlist = useCallback((listId, title) => {
+    const target = watchlistsRef.current.find((list) => list.id === listId)
+    if (!target || target.items.some((item) => movieKey(item) === movieKey(title))) {
+      return { item: null, added: false }
+    }
+    const saved = { id: uid(), addedAt: new Date().toISOString(), ...title }
+    const next = watchlistsRef.current.map((list) => list.id === listId ? { ...list, items: [saved, ...list.items] } : list)
+    watchlistsRef.current = next
+    setWatchlists(next)
+    return { item: saved, added: true }
+  }, [])
+
+  const removeFromWatchlist = useCallback((listId, itemId) => {
+    setWatchlists((previous) => previous.map((list) => list.id === listId
+      ? { ...list, items: list.items.filter((item) => item.id !== itemId) }
+      : list))
+  }, [])
+
+  const updateWatchlistItem = useCallback((listId, itemId, patch) => {
+    setWatchlists((previous) => previous.map((list) => list.id === listId
+      ? { ...list, items: list.items.map((item) => item.id === itemId ? { ...item, ...patch } : item) }
+      : list))
   }, [])
 
   const reorderTop20 = useCallback((orderedIds) => {
@@ -332,11 +393,16 @@ export function useDiary() {
 
   return {
     entries,
+    watchlists,
     settings,
     setSettings,
     addEntry,
     updateEntry,
     removeEntry,
+    createWatchlist,
+    addToWatchlist,
+    removeFromWatchlist,
+    updateWatchlistItem,
     reorderTop20,
     replaceAll,
     importEntries,

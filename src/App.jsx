@@ -8,6 +8,11 @@ import AddModal from './components/AddModal.jsx'
 import DetailModal from './components/DetailModal.jsx'
 import Top20Page from './components/Top20Page.jsx'
 import Top20SwapModal from './components/Top20SwapModal.jsx'
+import WatchlistPage from './components/WatchlistPage.jsx'
+import AddWatchlistModal from './components/AddWatchlistModal.jsx'
+import WatchlistCleanupModal from './components/WatchlistCleanupModal.jsx'
+import WatchlistDetailModal from './components/WatchlistDetailModal.jsx'
+import RandomMovieModal from './components/RandomMovieModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
 
@@ -16,6 +21,7 @@ import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, Icon
 
 const TABS = [
   { key: 'diary', label: 'Diary' },
+  { key: 'watchlist', label: 'Watch list' },
   { key: 'top20', label: 'Top 20' },
   { key: 'stats', label: 'Stats' },
   { key: 'settings', label: 'Settings' },
@@ -38,6 +44,11 @@ export default function App() {
   const diary = useDiary()
   const [tab, setTab] = useState(savedTab)
   const [adding, setAdding] = useState(false)
+  const [addingToWatchlist, setAddingToWatchlist] = useState(false)
+  const [activeWatchlistId, setActiveWatchlistId] = useState('my-watch-list')
+  const [watchlistCleanup, setWatchlistCleanup] = useState(null)
+  const [watchlistDetail, setWatchlistDetail] = useState(null)
+  const [randomWatchlistId, setRandomWatchlistId] = useState(null)
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [detail, setDetail] = useState(null)
   const [toasts, setToasts] = useState([])
@@ -111,12 +122,33 @@ export default function App() {
   function handleSave(entry) {
     const wantsTop20 = entry.top20
     const alreadyTop20 = diary.entries.some((candidate) => candidate.top20 && movieKey(candidate) === movieKey(entry))
+    const watchlistMatches = diary.watchlists.flatMap((list) => list.items
+      .filter((item) => movieKey(item) === movieKey(entry))
+      .map((item) => ({ listId: list.id, listName: list.name, itemId: item.id })))
     const saved = diary.addEntry({ ...entry, top20: false })
     setAdding(false)
     fireBurst()
     notify(`“${entry.title}” added to your diary`)
     if (wantsTop20 && !alreadyTop20) requestTop20Add(saved.id)
+    if (watchlistMatches.length) setWatchlistCleanup({ title: entry.title, matches: watchlistMatches })
   }
+
+  function handleWatchlistSave(title) {
+    const activeList = diary.watchlists.find((list) => list.id === activeWatchlistId)
+    const result = diary.addToWatchlist(activeWatchlistId, title)
+    if (!result.added) {
+      notify(`“${title.title}” is already on ${activeList?.name || 'this list'}`)
+      return
+    }
+    setAddingToWatchlist(false)
+    notify(`“${title.title}” added to ${activeList?.name || 'your list'}`, <IconPlus size={16} />)
+  }
+
+  useEffect(() => {
+    if (!diary.watchlists.some((list) => list.id === activeWatchlistId)) {
+      setActiveWatchlistId(diary.watchlists[0]?.id || 'my-watch-list')
+    }
+  }, [diary.watchlists, activeWatchlistId])
 
   // Keep the open detail modal in sync with the latest entry data.
   const liveDetail = detail ? diary.entries.find((e) => e.id === detail.id) || null : null
@@ -126,7 +158,10 @@ export default function App() {
   const detailTop20Entry = liveDetail ? top20.find((entry) => movieKey(entry) === movieKey(liveDetail)) : null
   const displayDetail = liveDetail ? { ...liveDetail, top20: !!detailTop20Entry, top20Rank: detailTop20Entry?.top20Rank } : null
   const swapCandidate = swapCandidateId ? diary.entries.find((e) => e.id === swapCandidateId) || null : null
-  const modalOpen = adding || !!liveDetail || !!swapCandidate || mobileMenuOpen
+  const watchlistDetailList = watchlistDetail ? diary.watchlists.find((list) => list.id === watchlistDetail.listId) : null
+  const liveWatchlistDetail = watchlistDetailList?.items.find((item) => item.id === watchlistDetail?.itemId) || null
+  const randomWatchlist = randomWatchlistId ? diary.watchlists.find((list) => list.id === randomWatchlistId) : null
+  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!liveDetail || !!swapCandidate || mobileMenuOpen
 
   useEffect(() => {
     if (!modalOpen) return
@@ -222,6 +257,22 @@ export default function App() {
             {tab === 'diary' && (
               <Library entries={diary.entries} onOpen={setDetail} onAdd={() => setAdding(true)} />
             )}
+            {tab === 'watchlist' && (
+              <WatchlistPage
+                lists={diary.watchlists}
+                activeListId={activeWatchlistId}
+                onSelectList={setActiveWatchlistId}
+                onCreateList={(name) => {
+                  const list = diary.createWatchlist(name)
+                  if (list) { setActiveWatchlistId(list.id); notify(`“${list.name}” created`) }
+                  return list
+                }}
+                onAdd={() => setAddingToWatchlist(true)}
+                onRandom={() => setRandomWatchlistId(activeWatchlistId)}
+                onOpen={(item) => setWatchlistDetail({ listId: activeWatchlistId, itemId: item.id })}
+                onRemove={(item) => { diary.removeFromWatchlist(activeWatchlistId, item.id); notify(`“${item.title}” removed from this list`) }}
+              />
+            )}
             {tab === 'top20' && (
               <Top20Page entries={top20} onOpen={setDetail} onReorder={diary.reorderTop20} />
             )}
@@ -286,6 +337,40 @@ export default function App() {
             onClose={() => setAdding(false)}
             onSave={handleSave}
           />
+        )}
+        {addingToWatchlist && (
+          <AddWatchlistModal
+            key="add-watchlist-modal"
+            tmdbKey={diary.settings.tmdbKey}
+            onClose={() => setAddingToWatchlist(false)}
+            onSave={handleWatchlistSave}
+          />
+        )}
+        {watchlistCleanup && !swapCandidate && (
+          <WatchlistCleanupModal
+            key="watchlist-cleanup-modal"
+            title={watchlistCleanup.title}
+            matches={watchlistCleanup.matches}
+            onKeep={() => setWatchlistCleanup(null)}
+            onRemove={(selectedMatches) => {
+              selectedMatches.forEach((match) => diary.removeFromWatchlist(match.listId, match.itemId))
+              notify(`Removed “${watchlistCleanup.title}” from ${selectedMatches.length === 1 ? selectedMatches[0].listName : `${selectedMatches.length} watch lists`}`)
+              setWatchlistCleanup(null)
+            }}
+          />
+        )}
+        {liveWatchlistDetail && (
+          <WatchlistDetailModal
+            key="watchlist-detail-modal"
+            item={liveWatchlistDetail}
+            listName={watchlistDetailList.name}
+            tmdbKey={diary.settings.tmdbKey}
+            onClose={() => setWatchlistDetail(null)}
+            onUpdate={(patch) => diary.updateWatchlistItem(watchlistDetail.listId, watchlistDetail.itemId, patch)}
+          />
+        )}
+        {randomWatchlist?.items.length > 0 && (
+          <RandomMovieModal key="random-movie-modal" items={randomWatchlist.items} listName={randomWatchlist.name} onClose={() => setRandomWatchlistId(null)} />
         )}
         {displayDetail && (
           <DetailModal
