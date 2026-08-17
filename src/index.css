@@ -37,6 +37,21 @@
   color-scheme: light;
 }
 
+:root[data-accent='candy'] {
+  --gold: #ff4f9a;
+  --gold-2: #ff78b5;
+  --rose: #ff2f78;
+  --accent-grad: linear-gradient(135deg, #ff247f 0%, #ff5da5 44%, #ff9dca 100%);
+  --shadow-glow: 0 0 68px -10px rgba(255, 36, 127, 0.58);
+}
+:root[data-theme='light'][data-accent='candy'] {
+  --gold: #d91f6d;
+  --gold-2: #ed4e93;
+  --rose: #e51f66;
+  --accent-grad: linear-gradient(135deg, #f52578 0%, #ff5fa4 48%, #ff9ac7 100%);
+  --shadow-glow: 0 0 58px -11px rgba(245, 37, 120, 0.46);
+}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 html, body, #root { height: 100%; }
@@ -80,6 +95,20 @@ body::after {
     radial-gradient(820px 680px at 98% 4%, rgba(255, 77, 109, 0.20), transparent 58%),
     radial-gradient(1000px 760px at 48% 108%, rgba(123, 92, 255, 0.18), transparent 62%),
     radial-gradient(620px 480px at 72% 48%, rgba(255, 138, 61, 0.10), transparent 65%),
+    var(--bg);
+}
+:root[data-accent='candy'] body::before {
+  background:
+    radial-gradient(1000px 700px at 12% -10%, rgba(255,36,127,.2), transparent 56%),
+    radial-gradient(900px 700px at 95% 0%, rgba(255,94,166,.16), transparent 56%),
+    radial-gradient(1100px 850px at 50% 120%, rgba(255,157,202,.1), transparent 62%),
+    var(--bg);
+}
+:root[data-theme='light'][data-accent='candy'] body::before {
+  background:
+    radial-gradient(900px 680px at 8% -8%, rgba(255,67,145,.36), transparent 58%),
+    radial-gradient(820px 680px at 98% 4%, rgba(255,105,174,.27), transparent 58%),
+    radial-gradient(1000px 760px at 48% 108%, rgba(255,164,207,.23), transparent 62%),
     var(--bg);
 }
 :root[data-theme='light'] body::after { opacity: 0.026; }
@@ -1005,11 +1034,21 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .setting-card h3 { font-size: 18px; font-weight: 600; margin-bottom: 6px; }
 .setting-card .desc { color: var(--text-dim); font-size: 14px; margin-bottom: 18px; line-height: 1.5; }
 .setting-card .desc a { color: var(--gold); }
-.appearance-card { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.appearance-card { display: flex; align-items: flex-start; justify-content: space-between; gap: 30px; }
 .appearance-card .desc { margin-bottom: 0; }
+.appearance-copy { min-width: 180px; }
+.appearance-controls { display: grid; gap: 16px; width: min(100%, 390px); }
+.appearance-option { display: grid; grid-template-columns: 54px 1fr; align-items: center; gap: 12px; }
+.appearance-label { color: var(--text-faint); font-size: 10px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
 .theme-toggle { display: flex; flex: none; gap: 4px; padding: 4px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface-2); }
 .theme-toggle button { display: inline-flex; align-items: center; gap: 7px; padding: 9px 12px; border-radius: 9px; color: var(--text-dim); font-size: 13px; font-weight: 700; transition: color .2s, background .2s, box-shadow .2s; }
 .theme-toggle button.active { color: #14110a; background: var(--accent-grad); box-shadow: 0 5px 16px -8px rgba(245,185,66,.65); }
+.accent-select-row { display: flex; align-items: center; gap: 10px; }
+.accent-select { flex: 1; }
+.accent-select select { width: 100%; background: var(--surface-2); }
+.accent-swatch { width: 28px; height: 22px; flex: none; border: 1px solid rgba(255,255,255,.18); border-radius: 7px; box-shadow: 0 4px 10px -5px rgba(0,0,0,.7); }
+.accent-swatch-reel { background: linear-gradient(135deg, #f5b942, #ff8a3d 48%, #ff4d6d); }
+.accent-swatch-candy { background: linear-gradient(135deg, #ff247f, #ff5da5 48%, #ff9dca); box-shadow: 0 4px 14px -4px rgba(255,36,127,.8); }
 .inline-actions { display: flex; gap: 10px; flex-wrap: wrap; }
 .status-line { margin-top: 12px; font-size: 13px; display: flex; align-items: center; gap: 8px; }
 .status-line.ok { color: #6ee7a8; }
@@ -1041,6 +1080,8 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 
 @media (max-width: 720px) {
   .appearance-card { align-items: stretch; flex-direction: column; gap: 16px; }
+  .appearance-controls { width: 100%; }
+  .appearance-option { grid-template-columns: 1fr; gap: 7px; }
   .theme-toggle { width: 100%; }
   .theme-toggle button { flex: 1; justify-content: center; }
   .fullscreen-mobile-overlay {

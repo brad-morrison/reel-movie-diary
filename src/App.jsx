@@ -57,7 +57,8 @@ export default function App() {
 
   useEffect(() => {
     document.documentElement.dataset.theme = diary.settings.theme === 'light' ? 'light' : 'dark'
-  }, [diary.settings.theme])
+    document.documentElement.dataset.accent = diary.settings.accentScheme === 'candy' ? 'candy' : 'reel'
+  }, [diary.settings.theme, diary.settings.accentScheme])
 
   // Remember the current section across reloads on this device.
   useEffect(() => {

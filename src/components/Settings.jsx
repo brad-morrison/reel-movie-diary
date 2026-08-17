@@ -4,7 +4,7 @@ import { parseNotionCsv } from '../lib/csv.js'
 import {
   IconCheck, IconDownload, IconUpload, IconTrash, IconSparkle, IconPlus, IconX,
   IconCloud, IconCloudCheck, IconLogOut, IconGoogle,
-  IconSun, IconMoon,
+  IconSun, IconMoon, IconChevron,
 } from '../lib/icons.jsx'
 
 export default function Settings({ settings, setSettings, entries, replaceAll, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
@@ -119,27 +119,31 @@ export default function Settings({ settings, setSettings, entries, replaceAll, i
   return (
     <div className="settings-section">
       <div className="setting-card appearance-card">
-        <div>
+        <div className="appearance-copy">
           <h3>Appearance</h3>
           <p className="desc">Choose how Reel looks on this device.</p>
         </div>
-        <div className="theme-toggle" role="group" aria-label="Color theme">
-          <button
-            type="button"
-            className={settings.theme !== 'light' ? 'active' : ''}
-            aria-pressed={settings.theme !== 'light'}
-            onClick={() => setSettings((s) => ({ ...s, theme: 'dark' }))}
-          >
-            <IconMoon size={16} /> Dark
-          </button>
-          <button
-            type="button"
-            className={settings.theme === 'light' ? 'active' : ''}
-            aria-pressed={settings.theme === 'light'}
-            onClick={() => setSettings((s) => ({ ...s, theme: 'light' }))}
-          >
-            <IconSun size={16} /> Light
-          </button>
+        <div className="appearance-controls">
+          <div className="appearance-option">
+            <span className="appearance-label">Mode</span>
+            <div className="theme-toggle" role="group" aria-label="Color theme">
+              <button type="button" className={settings.theme !== 'light' ? 'active' : ''} aria-pressed={settings.theme !== 'light'} onClick={() => setSettings((s) => ({ ...s, theme: 'dark' }))}><IconMoon size={16} /> Dark</button>
+              <button type="button" className={settings.theme === 'light' ? 'active' : ''} aria-pressed={settings.theme === 'light'} onClick={() => setSettings((s) => ({ ...s, theme: 'light' }))}><IconSun size={16} /> Light</button>
+            </div>
+          </div>
+          <div className="appearance-option">
+            <span className="appearance-label">Accent</span>
+            <div className="accent-select-row">
+              <span className={`accent-swatch ${(settings.accentScheme || 'reel') === 'candy' ? 'accent-swatch-candy' : 'accent-swatch-reel'}`} aria-hidden />
+              <div className="select-wrap accent-select">
+                <select aria-label="Accent color scheme" value={settings.accentScheme || 'reel'} onChange={(event) => setSettings((s) => ({ ...s, accentScheme: event.target.value }))}>
+                  <option value="reel">Reel</option>
+                  <option value="candy">Candy pink</option>
+                </select>
+                <IconChevron size={16} />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
