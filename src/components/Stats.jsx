@@ -49,9 +49,9 @@ export default function Stats({ entries, tmdbKey = '', onUpdate }) {
   const topCompanions = Object.entries(companionCount).sort((a, b) => b[1] - a[1]).slice(0, 6)
   const maxCompanion = topCompanions[0]?.[1] || 1
 
-  // Rating histogram (0.5 buckets from 0.5..5)
-  const buckets = Array.from({ length: 10 }, (_, i) => (i + 1) * 0.5)
-  const hist = buckets.map((b) => rated.filter((e) => e.rating === b).length)
+  // Ten readable bands preserve the curve while ratings retain 0.1 precision.
+  const buckets = Array.from({ length: 10 }, (_, i) => i + 1)
+  const hist = buckets.map((b) => rated.filter((e) => Math.ceil(e.rating) === b).length)
   const maxHist = Math.max(1, ...hist)
 
   // Top rated
@@ -68,7 +68,7 @@ export default function Stats({ entries, tmdbKey = '', onUpdate }) {
         entry,
         audienceRating,
         source: imdbValue != null ? 'IMDb' : 'TMDB',
-        swing: entry.rating - audienceRating / 2,
+        swing: entry.rating - audienceRating,
       }
     })
     .filter((item) => item && item.swing > 0)
@@ -154,7 +154,7 @@ export default function Stats({ entries, tmdbKey = '', onUpdate }) {
                     title={`${count} rated ${buckets[i]}`}
                   />
                 </div>
-                <span className="hist-label">{i % 2 === 1 ? <><IconStar size={9} />{buckets[i]}</> : ''}</span>
+                <span className="hist-label">{buckets[i]}</span>
               </div>
             ))}
           </div>

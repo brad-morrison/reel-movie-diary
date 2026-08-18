@@ -8,7 +8,7 @@ A cinematic, animation-rich diary for logging every film and show you watch — 
 
 - **Poster-forward diary** — a responsive grid of everything you've watched, with 3D tilt-on-hover cards, ratings and first-time markers.
 - **Cinematic hero** — a rotating spotlight on your top-rated title, with an animated backdrop.
-- **Rich add flow** — search real films & TV via TMDB (posters, synopsis, genres auto-filled), or add anything by hand. Half-star ratings, watched date and first-time status.
+- **Rich add flow** — search real films & TV via TMDB (posters, synopsis, genres auto-filled), or add anything by hand. Precise 10-point ratings, watched date and first-time status.
 - **Detail view** — expand any entry to read/edit your rating and metadata inline.
 - **Stats dashboard** — animated count-ups, rating distribution, top genres, a 12-month activity chart, a films-vs-TV donut and your highest-rated list.
 - **Satisfying touches** — spring animations everywhere, a confetti burst when you log something, view transitions and toasts.
@@ -40,7 +40,7 @@ The key is stored only in your browser and is never sent anywhere but TMDB.
 
 ## Import from Notion
 
-In Notion: open your movie database → **••• → Export → Markdown & CSV**, unzip, then in the app go to **Settings → Import from Notion** and choose the CSV. It maps columns like *Name/Title, Year, Type, Rating, Date, Notes, Genre, Favorite*, converts ratings (★★★★, 9/10, 4.5 all work) to a 0–5 scale, and skips duplicates.
+In Notion: open your movie database → **••• → Export → Markdown & CSV**, unzip, then in the app go to **Settings → Import from Notion** and choose the CSV. It maps columns like *Name/Title, Year, Type, Rating, Date, Notes, Genre, Favorite*, converts ratings (★★★★, 9/10, 4.5 all work) to a 0–10 scale, and skips duplicates.
 
 ## Tech
 
@@ -67,7 +67,7 @@ src/
     AddModal.jsx       TMDB search + manual add flow
     Stats.jsx          animated stats dashboard
     Settings.jsx       TMDB key, backup, Notion import
-    Rating.jsx         half-star rating control
+    Rating.jsx         10-point slider rating control
     AnimatedNumber.jsx spring count-up
     Toast.jsx          toast notifications
 ```

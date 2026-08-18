@@ -14,7 +14,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'Paul Atreides unites with the Fremen while seeking revenge against the conspirators who destroyed his family.',
     genres: ['Science Fiction', 'Adventure'],
-    rating: 4.5,
+    rating: 9,
     liked: true,
     watchedDate: '2024-03-09',
     rewatch: false,
@@ -30,7 +30,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'A young chef from the fine dining world returns to Chicago to run his family sandwich shop.',
     genres: ['Drama', 'Comedy'],
-    rating: 5,
+    rating: 10,
     liked: true,
     watchedDate: '2024-07-18',
     rewatch: false,
@@ -46,7 +46,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'Two childhood friends reunite in New York decades later for one fateful week.',
     genres: ['Romance', 'Drama'],
-    rating: 4.5,
+    rating: 9,
     liked: true,
     watchedDate: '2024-01-22',
     rewatch: false,
@@ -62,7 +62,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'A middle-aged laundromat owner is swept into saving existence across the multiverse.',
     genres: ['Action', 'Adventure', 'Science Fiction'],
-    rating: 4,
+    rating: 8,
     liked: false,
     watchedDate: '2023-11-05',
     rewatch: true,
@@ -78,7 +78,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'In feudal Japan, a stranded English pilot becomes entangled in a lord’s bid for power.',
     genres: ['Drama', 'War'],
-    rating: 5,
+    rating: 10,
     liked: true,
     watchedDate: '2024-04-24',
     rewatch: false,
@@ -94,7 +94,7 @@ export const SAMPLE_ENTRIES = [
     overview:
       'A young woman brought back to life by an unorthodox scientist runs off to discover the world.',
     genres: ['Science Fiction', 'Romance', 'Comedy'],
-    rating: 4,
+    rating: 8,
     liked: false,
     watchedDate: '2024-02-14',
     rewatch: false,

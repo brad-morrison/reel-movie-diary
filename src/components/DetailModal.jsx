@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import Rating from './Rating.jsx'
-import AnimatedNumber from './AnimatedNumber.jsx'
 import TagPicker from './TagPicker.jsx'
 import Top20Button from './Top20Button.jsx'
 import { useEscape } from '../lib/useEscape.js'
@@ -135,21 +134,14 @@ export default function DetailModal({ entry, viewings = [], tmdbKey = '', platfo
             <div className="detail-section">
               <h4>Your rating</h4>
               <div style={{ display: 'flex', alignItems: 'center', gap: 18, flexWrap: 'wrap' }}>
-                <Rating big value={entry.rating} onChange={(r) => onUpdate(entry.id, { rating: r, ...(r !== 5 ? { top20: false } : {}) })} />
-                <span style={{ fontFamily: 'Fraunces, serif', fontSize: 30, color: 'var(--gold)' }}>
-                  {entry.rating ? <AnimatedNumber value={entry.rating} decimals={1} trim duration={0.28} /> : '—'}
-                </span>
+                <Rating big value={entry.rating} onChange={(r) => onUpdate(entry.id, { rating: r })} />
                 <button className={`chip ${entry.firstTime ? 'on' : ''}`} onClick={() => onUpdate(entry.id, { firstTime: !entry.firstTime })}>
                   <IconCheck size={15} style={{ verticalAlign: '-2px', marginRight: 6 }} /> First time
                 </button>
               </div>
-              <AnimatePresence>
-                {entry.rating === 5 && (
-                  <motion.div layout style={{ marginTop: 16 }}>
-                    <Top20Button active={!!entry.top20} full={top20Full} onToggle={() => onToggleTop20(entry)} />
-                  </motion.div>
-                )}
-              </AnimatePresence>
+              <div style={{ marginTop: 16 }}>
+                <Top20Button active={!!entry.top20} full={top20Full} onToggle={() => onToggleTop20(entry)} />
+              </div>
             </div>
 
             <div className="detail-section">

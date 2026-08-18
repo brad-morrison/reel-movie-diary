@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion'
-import { IconChevron, IconCrown, IconStar } from '../lib/icons.jsx'
+import { IconChevron, IconCrown } from '../lib/icons.jsx'
 import { useEscape } from '../lib/useEscape.js'
 
-// Shown when the Top 20 is full and a new 5-star title wants in.
+// Shown when the Top 20 is full and a new favourite wants in.
 // The candidate floats up; the reigning 20 drift in from the right to be picked off.
 export default function Top20SwapModal({ candidate, top20, onReplace, onCancel }) {
   useEscape(onCancel)
@@ -46,7 +46,7 @@ export default function Top20SwapModal({ candidate, top20, onReplace, onCancel }
             <span className="swap-cand-crown"><IconCrown size={18} /></span>
           </div>
           <div className="swap-cand-copy">
-            <div className="swap-eyebrow"><IconStar size={13} /> A new five-star favourite</div>
+            <div className="swap-eyebrow"><IconCrown size={13} /> A new favourite</div>
             <h2>Make room for <em>{candidate.title}</em>?</h2>
             <p>Your Top 20 is full. Pick the title it should replace — or step back and leave things as they are.</p>
           </div>

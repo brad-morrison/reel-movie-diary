@@ -969,18 +969,112 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .result-sub { color: var(--text-dim); font-size: 13px; margin-top: 3px; }
 .result-overview { color: var(--text-faint); font-size: 12px; margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
-/* ---------- Rating stars ---------- */
-.stars { display: inline-flex; gap: 4px; padding: 4px; margin: -4px; touch-action: manipulation; }
-.star-btn {
-  position: relative; width: 34px; height: 34px;
-  -webkit-tap-highlight-color: transparent;
+/* ---------- 10-point rating slider ---------- */
+.rating-control {
+  width: min(100%, 420px);
+  /* Glow ramps in with the score, so a masterpiece arrives lit rather than popping. */
+  --rating-glow: 0;
+  --rating-bloom: .5;
+  --rating-core: .55;
+  --rating-thumb: 22px;
+  --rating-bar: 12px;
+  --rating-pad: 8px;
+  --rating-track-empty: rgba(255, 255, 255, .13);
+  --rating-track-shade: rgba(0, 0, 0, .4);
+  --rating-thumb-ring: #17131f;
+  /* The thumb travels inside the bar, inset by --rating-pad at both ends. */
+  --rating-edge: var(--rating-pad);
+  --rating-span: calc(100% - 2 * var(--rating-edge));
+  --rating-point: calc(var(--rating-edge) + var(--rating-span) * var(--rating-pct, 0) / 100);
+  --rating-fill: calc(var(--rating-pct, 0) * 1%);
 }
-.star-btn:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
-.star-visual { position: absolute; inset: 0; display: block; transform-origin: center; pointer-events: none; }
-.star-visual svg { position: absolute; inset: 0; width: 100%; height: 100%; }
-.star-empty { color: rgba(255,255,255,0.16); }
-.star-fill { position: absolute; inset: 0; color: var(--gold); overflow: hidden; pointer-events: none; filter: drop-shadow(0 2px 5px rgba(245,185,66,0.2)); }
-.rating-big .star-btn { width: 44px; height: 44px; }
+:root[data-theme='light'] .rating-control { --rating-bloom: .26; --rating-core: .3; --rating-track-empty: rgba(50, 39, 27, .16); --rating-track-shade: rgba(50, 39, 27, .15); --rating-thumb-ring: #fffdf9; }
+.rating-score { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-bottom: 9px; color: var(--gold); }
+.rating-score-value { display: flex; align-items: baseline; gap: 7px; min-width: 0; }
+.rating-score-star { align-self: center; flex: none; filter: drop-shadow(0 2px 5px rgba(245,185,66,.25)); transition: filter .45s ease; }
+.rating-score strong { font-family: Fraunces, serif; font-size: 30px; line-height: 1; font-variant-numeric: tabular-nums; transition: text-shadow .45s ease; }
+.rating-score span { color: var(--text-faint); font-size: 12px; font-weight: 700; }
+.rating-score-label { color: var(--text-dim); font-family: Fraunces, serif; font-size: 18px; font-style: normal; font-weight: 600; text-align: right; transition: color .45s ease, text-shadow .45s ease; }
+.rating-summary { display: block; width: 100%; padding: 6px 0; color: inherit; text-align: left; border-radius: 10px; }
+.rating-summary .rating-score { margin-bottom: 0; }
+.rating-summary:not(:disabled):hover .rating-score-label { color: var(--text); }
+.rating-summary:focus-visible { outline: 2px solid var(--gold); outline-offset: 4px; }
+.rating-inputs { display: flex; align-items: center; gap: 10px; }
+.rating-step { display: grid; place-items: center; width: 32px; height: 32px; flex: none; border: 1px solid var(--border-strong); border-radius: 9px; color: var(--text); background: var(--surface-2); font-size: 20px; line-height: 1; transition: border-color .18s, color .18s, transform .15s; }
+.rating-step:hover:not(:disabled) { border-color: var(--gold); color: var(--gold); transform: translateY(-1px); }
+.rating-step:disabled { opacity: .3; cursor: default; }
+.rating-slider-wrap { position: relative; width: 100%; min-width: 0; padding-inline: var(--rating-pad); }
+/* Bar, fill and glow are drawn at wrap level; the input contributes only the thumb. */
+.rating-track {
+  position: absolute;
+  top: 50%;
+  right: var(--rating-edge);
+  left: var(--rating-edge);
+  height: var(--rating-bar);
+  margin-top: calc(var(--rating-bar) / -2);
+  border-radius: 999px;
+  background: var(--rating-track-empty);
+  box-shadow: inset 0 1px 2px var(--rating-track-shade);
+}
+.rating-track-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: var(--rating-fill);
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--rating-start), var(--rating-end));
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .22);
+}
+.rating-control.is-unrated .rating-track-fill { opacity: 0; }
+.rating-glow { position: absolute; top: 50%; left: var(--rating-edge); width: calc(var(--rating-span) * var(--rating-pct, 0) / 100); height: 0; pointer-events: none; }
+.rating-glow::before,
+.rating-glow::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--rating-start), var(--rating-end));
+  opacity: calc(var(--rating-glow) * var(--rating-lum));
+  transition: opacity .5s var(--ease);
+}
+.rating-glow::before { --rating-lum: var(--rating-bloom); top: -14px; height: 28px; filter: blur(18px); }
+.rating-glow::after { --rating-lum: var(--rating-core); top: -7px; height: 14px; filter: blur(7px); }
+.rating-control .rating-slider { position: relative; z-index: 1; width: calc(100% + var(--rating-thumb)); height: 24px; margin-block: 0; margin-inline: calc(var(--rating-thumb) / -2); padding: 0; border: 0; border-radius: 0; appearance: none; -webkit-appearance: none; background: transparent; cursor: pointer; touch-action: pan-y; }
+.rating-slider:focus-visible { outline: none; }
+.rating-slider::-webkit-slider-runnable-track { height: var(--rating-bar); background: transparent; }
+.rating-slider::-moz-range-track { height: var(--rating-bar); background: transparent; }
+.rating-slider::-webkit-slider-thumb { box-sizing: border-box; width: var(--rating-thumb); height: var(--rating-thumb); margin-top: calc((var(--rating-bar) - var(--rating-thumb)) / 2); border: 3px solid var(--rating-thumb-ring); border-radius: 50%; appearance: none; -webkit-appearance: none; background: var(--rating-end); box-shadow: 0 0 0 2px color-mix(in srgb, var(--rating-end) 32%, transparent), 0 0 calc(14px * var(--rating-glow)) color-mix(in srgb, var(--rating-end) calc(var(--rating-glow) * 60%), transparent), 0 5px 14px rgba(0,0,0,.35); transition: box-shadow .45s ease; }
+.rating-slider::-moz-range-thumb { box-sizing: border-box; width: var(--rating-thumb); height: var(--rating-thumb); border: 3px solid var(--rating-thumb-ring); border-radius: 50%; background: var(--rating-end); box-shadow: 0 0 0 2px color-mix(in srgb, var(--rating-end) 32%, transparent), 0 0 calc(14px * var(--rating-glow)) color-mix(in srgb, var(--rating-end) calc(var(--rating-glow) * 60%), transparent), 0 5px 14px rgba(0,0,0,.35); transition: box-shadow .45s ease; }
+.rating-ticks { display: flex; justify-content: space-between; padding: 4px calc(42px + var(--rating-edge)) 0; color: var(--text-faint); font-size: 14px; font-weight: 600; }
+.rating-ticks span:first-child { transform: translateX(-50%); }
+.rating-ticks span:last-child { transform: translateX(50%); }
+.rating-big { width: min(100%, 480px); }
+.rating-big .rating-slider { height: 30px; }
+.rating-big .rating-score strong { font-size: 38px; }
+.rating-control.is-readonly .rating-slider { cursor: default; }
+.rating-state { width: 100%; }
+/* Masterpiece: the glow breathes instead of sitting flat. */
+.rating-control.is-masterpiece .rating-glow::before { animation: ratingBloom 3.4s var(--ease) infinite; }
+.rating-control.is-masterpiece .rating-glow::after { animation: ratingBloom 3.4s var(--ease) .45s infinite; }
+.rating-control.is-masterpiece .rating-glow::before,
+.rating-control.is-masterpiece .rating-glow::after {
+  width: calc(100% + var(--rating-thumb));
+  background: linear-gradient(90deg, var(--rating-start), var(--rating-end) calc(100% - var(--rating-thumb)), transparent 100%);
+}
+.rating-control.is-masterpiece .rating-score-star { filter: drop-shadow(0 0 7px color-mix(in srgb, var(--rating-end) 70%, transparent)); }
+.rating-control.is-masterpiece .rating-score strong { text-shadow: 0 0 20px color-mix(in srgb, var(--rating-end) 45%, transparent); }
+.rating-control.is-masterpiece .rating-score-label { color: var(--text); text-shadow: 0 0 16px color-mix(in srgb, var(--rating-start) 45%, transparent); }
+/* Text haloes only read as glow on a dark ground; on light they just smear. */
+:root[data-theme='light'] .rating-control.is-masterpiece .rating-score strong,
+:root[data-theme='light'] .rating-control.is-masterpiece .rating-score-label { text-shadow: none; }
+@keyframes ratingBloom {
+  0%, 100% { opacity: calc(var(--rating-glow) * var(--rating-lum)); }
+  50% { opacity: calc(var(--rating-glow) * var(--rating-lum) * 1.5); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .rating-control.is-masterpiece .rating-glow::before,
+  .rating-control.is-masterpiece .rating-glow::after { animation: none; }
+}
 
 /* ---------- Detail modal ---------- */
 .detail { position: relative; }
@@ -1202,7 +1296,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
   .add-hero-manual > .field-row { grid-template-columns: 1fr; gap: 0; }
   .add-hero-form .first-time-btn { width: 100%; }
   .add-hero-form .rating-row { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: 8px 12px; align-items: center; }
-  .add-hero-form .rating-row .stars { grid-column: 1 / -1; }
+  .add-hero-form .rating-row .rating-control { grid-column: 1 / -1; }
   .add-hero-form .score-guide-trigger { justify-self: start; margin-left: 0; }
   .watched-date-label { align-items: flex-start; }
   .watched-date-label button { max-width: 105px; text-align: right; }
@@ -1320,11 +1414,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
     gap: 8px 12px;
     align-items: center;
   }
-  .add-modal .rating-row .stars { grid-column: 1 / -1; }
-  .add-modal .rating-number {
-    grid-column: 1;
-    min-width: 0;
-  }
+  .add-modal .rating-row .rating-control { grid-column: 1 / -1; }
   .add-modal .score-guide-trigger {
     grid-column: 2;
     margin-left: 0;

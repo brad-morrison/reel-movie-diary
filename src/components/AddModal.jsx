@@ -3,7 +3,6 @@ import {
   AnimatePresence, motion, useMotionValue, useSpring, useTransform,
 } from 'framer-motion'
 import Rating from './Rating.jsx'
-import AnimatedNumber from './AnimatedNumber.jsx'
 import TagPicker from './TagPicker.jsx'
 import Top20Button from './Top20Button.jsx'
 import { searchTitles } from '../lib/tmdb.js'
@@ -79,7 +78,7 @@ function FloatyPoster({ poster, title }) {
   )
 }
 
-export default function AddModal({ entries = [], tmdbKey, platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onClose, onSave }) {
+export default function AddModal({ entries = [], tmdbKey, platforms = [], people = [], top20Full = false, top20SwapOutgoingId = null, onRequestTop20Swap, onClearTop20Swap, onAddPlatform, onAddPerson, onClose, onSave }) {
   const [step, setStep] = useState(tmdbKey ? 'search' : 'form')
   const [manual, setManual] = useState(!tmdbKey)
   const [form, setForm] = useState(blank())
@@ -128,20 +127,20 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
   function nextComparison(low, high, asked) {
     const midpoint = (low + high) / 2
     const unasked = ratedMovies.filter((entry) => !asked.includes(entry.id))
-    const focusRadius = Math.max(0.5, (high - low) / 2)
+    const focusRadius = Math.max(0.1, (high - low) / 2)
     const focused = unasked.filter((entry) => Math.abs(entry.rating - midpoint) <= focusRadius)
     return (focused.length ? focused : unasked)
       .sort((a, b) => Math.abs(a.rating - midpoint) - Math.abs(b.rating - midpoint))[0] || null
   }
 
   function finishGuide(low, high, asked) {
-    const result = Math.max(0.5, Math.min(5, Math.round(((low + high) / 2) * 2) / 2))
+    const result = Math.max(0.1, Math.min(10, Math.round(((low + high) / 2) * 10) / 10))
     setScoreGuide({ low, high, asked, current: null, result })
   }
 
   function startScoreGuide() {
-    const low = 0.5
-    const high = 5
+    const low = 0.1
+    const high = 10
     const current = nextComparison(low, high, [])
     if (current) setScoreGuide({ low, high, asked: [], current, result: null })
     else setScoreGuide({ low, high, asked: [], current: null, result: null, empty: true })
@@ -150,8 +149,8 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
   function answerComparison(isBetter) {
     const { current, asked } = scoreGuide
     const nextAsked = [...asked, current.id]
-    const proposedLow = Math.min(5, current.rating + 0.5)
-    const proposedHigh = Math.max(0.5, current.rating)
+    const proposedLow = Math.min(10, current.rating + 0.1)
+    const proposedHigh = Math.max(0.1, current.rating)
     const low = isBetter && proposedLow <= scoreGuide.high ? Math.max(scoreGuide.low, proposedLow) : scoreGuide.low
     const high = !isBetter && proposedHigh >= low ? Math.min(scoreGuide.high, proposedHigh) : scoreGuide.high
     if (nextAsked.length >= Math.min(7, ratedMovies.length)) {
@@ -204,7 +203,7 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
   function submit(e) {
     e?.preventDefault()
     if (!form.title.trim()) return
-    onSave({ ...form, year: form.year ? Number(form.year) : undefined })
+    onSave({ ...form, top20: form.top20 || !!top20SwapOutgoingId, top20SwapOutgoingId, year: form.year ? Number(form.year) : undefined })
   }
 
   return (
@@ -330,8 +329,7 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
                       <div className="field">
                         <label>Your rating</label>
                         <div className="rating-row">
-                          <Rating big value={form.rating} onChange={(r) => set({ rating: r, ...(r !== 5 ? { top20: false } : {}) })} />
-                          <span className="dim rating-number">{form.rating ? <AnimatedNumber value={form.rating} decimals={1} trim duration={0.28} /> : 'Tap to rate'}</span>
+                          <Rating big alwaysOpen value={form.rating} onChange={(r) => set({ rating: r })} />
                           <button type="button" className="score-guide-trigger" onClick={startScoreGuide}>Not sure?</button>
                         </div>
                         <AnimatePresence>
@@ -342,13 +340,17 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
                               onRestart={startScoreGuide}
                               onCancel={() => setScoreGuide(null)}
                               onApply={(rating) => {
-                                set({ rating, ...(rating !== 5 ? { top20: false } : {}) })
+                                set({ rating })
                                 setScoreGuide(null)
                               }}
                             />
                           )}
                         </AnimatePresence>
-                        <AnimatePresence>{form.rating === 5 && <motion.div layout style={{ marginTop: 14 }}><Top20Button active={form.top20} full={top20Full && !form.top20} onToggle={() => set({ top20: !form.top20 })} /></motion.div>}</AnimatePresence>
+                        <div style={{ marginTop: 14 }}><Top20Button active={form.top20 && !top20SwapOutgoingId} pending={!!top20SwapOutgoingId} full={top20Full && !form.top20} onToggle={() => {
+                          if (top20SwapOutgoingId) onClearTop20Swap?.()
+                          else if (top20Full && !form.top20) onRequestTop20Swap?.(form)
+                          else set({ top20: !form.top20 })
+                        }} /></div>
                       </div>
                       <div className="field-row">
                         <div className="field watched-date-field">

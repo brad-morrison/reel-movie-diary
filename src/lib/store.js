@@ -20,7 +20,7 @@ const SETTINGS_KEY = 'reel.settings.v1'
 const WATCHLIST_KEY = 'reel.watchlist.v1'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
-const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true }
+const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10 }
 
 // A viewing has its own entry, while title-level details (such as the user's
 // rating) are shared by every viewing of the same film or show.
@@ -39,6 +39,17 @@ function syncSharedRatings(entries) {
     if (Number(entry.rating) > 0 && !ratings.has(movieKey(entry))) ratings.set(movieKey(entry), Number(entry.rating))
   }
   return entries.map((entry) => ({ ...entry, rating: ratings.get(movieKey(entry)) || 0 }))
+}
+
+// Diaries created before the 10-point control stored ratings out of five.
+// The settings marker makes this a one-time, lossless migration locally and in
+// Firestore: 4.5/5 becomes 9/10, for example.
+function migrateRatings(entries, ratingScale) {
+  if (Number(ratingScale) === 10) return entries
+  return entries.map((entry) => ({
+    ...entry,
+    rating: Number(entry.rating) > 0 ? Math.min(10, Number(entry.rating) * 2) : 0,
+  }))
 }
 
 // Strip undefined optional fields before sending imported data to Firestore.
@@ -103,7 +114,10 @@ function normalizeWatchlists(value) {
 export function useDiary() {
   const [entries, setEntries] = useState(() => {
     const stored = load(ENTRIES_KEY, null)
-    if (stored) return syncSharedRatings(stored.map(normalizeEntry))
+    if (stored) {
+      const storedSettings = load(SETTINGS_KEY, {})
+      return syncSharedRatings(migrateRatings(stored.map(normalizeEntry), storedSettings.ratingScale))
+    }
     // First run — seed with a few nice examples so the app looks alive.
     return syncSharedRatings(SAMPLE_ENTRIES.map(normalizeEntry))
   })
@@ -183,7 +197,9 @@ export function useDiary() {
           return
         }
         const data = snap.data() || {}
-        const nextEntries = Array.isArray(data.entries) ? syncSharedRatings(data.entries.map(normalizeEntry)) : []
+        const nextEntries = Array.isArray(data.entries)
+          ? syncSharedRatings(migrateRatings(data.entries.map(normalizeEntry), data.settings?.ratingScale))
+          : []
         const nextSettings = { ...DEFAULT_SETTINGS, ...(data.settings || {}) }
         // Accept both the old flat watchlist and the new named-list model.
         const cloudLists = Array.isArray(data.watchlists) ? data.watchlists : data.watchlist

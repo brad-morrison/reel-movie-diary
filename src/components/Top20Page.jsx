@@ -53,7 +53,7 @@ export default function Top20Page({ entries, onOpen, onReorder }) {
         <div className="empty">
           <div className="empty-mark">♛</div>
           <h3>Your throne room is empty</h3>
-          <p>Give a title five stars, then add it to your Top 20 from its details.</p>
+          <p>Add any title from its details—your favourites don't need to justify themselves with a score.</p>
         </div>
       ) : (
         <Reorder.Group axis="y" values={orderedIds} onReorder={reorder} className={`top20-list ${dragging ? 'dragging' : ''}`}>

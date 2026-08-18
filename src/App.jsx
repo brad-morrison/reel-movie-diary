@@ -56,7 +56,9 @@ export default function App() {
   const [detail, setDetail] = useState(null)
   const [toasts, setToasts] = useState([])
   const [burst, setBurst] = useState(null)
-  const [swapCandidateId, setSwapCandidateId] = useState(null)
+  const [swapCandidate, setSwapCandidate] = useState(null)
+  const [addSwapOutgoingId, setAddSwapOutgoingId] = useState(null)
+  const [deferredSwap, setDeferredSwap] = useState(null)
 
   useEffect(() => {
     document.documentElement.dataset.theme = diary.settings.theme === 'light' ? 'light' : 'dark'
@@ -88,14 +90,19 @@ export default function App() {
   )
 
   // Turn a saved entry's Top 20 flag on, handling the full-list swap flow.
-  const requestTop20Add = useCallback((entryId) => {
+  const requestTop20Add = useCallback((candidate) => {
+    const entry = typeof candidate === 'string'
+      ? diary.entries.find((item) => item.id === candidate)
+      : candidate
+    if (!entry) return
+    const entryId = entry.id
     const current = diary.entries
       .filter((e) => e.top20)
       .sort((a, b) => (a.top20Rank ?? Number.MAX_SAFE_INTEGER) - (b.top20Rank ?? Number.MAX_SAFE_INTEGER))
       .filter((entry, index, list) => list.findIndex((candidate) => movieKey(candidate) === movieKey(entry)) === index)
     const count = current.length
     if (count >= TOP20_CAP) {
-      setSwapCandidateId(entryId)
+      setSwapCandidate(entry)
     } else {
       diary.reorderTop20([...current.map((e) => e.id), entryId])
       diary.updateEntry(entryId, { top20: true, top20Rank: count + 1 })
@@ -107,35 +114,52 @@ export default function App() {
   const toggleTop20 = useCallback((entry) => {
     const existing = diary.entries.find((candidate) => candidate.top20 && movieKey(candidate) === movieKey(entry))
     if (existing) diary.updateEntry(existing.id, { top20: false })
-    else requestTop20Add(entry.id)
+    else requestTop20Add(entry)
   }, [diary, requestTop20Add])
 
   function confirmSwap(outgoingId) {
     const reordered = [
       ...top20.filter((entry) => entry.id !== outgoingId).map((entry) => entry.id),
-      ...(swapCandidateId ? [swapCandidateId] : []),
+      ...(swapCandidate ? [swapCandidate.id] : []),
     ]
     diary.reorderTop20(reordered)
     diary.updateEntry(outgoingId, { top20: false })
-    if (swapCandidateId) diary.updateEntry(swapCandidateId, { top20: true, top20Rank: reordered.indexOf(swapCandidateId) + 1 })
-    setSwapCandidateId(null)
+    if (swapCandidate) diary.updateEntry(swapCandidate.id, { top20: true, top20Rank: reordered.indexOf(swapCandidate.id) + 1 })
+    setSwapCandidate(null)
     fireBurst()
     notify('Swapped into your Top 20', <IconCrown size={16} />)
   }
 
   function handleSave(entry) {
+    const { top20SwapOutgoingId, ...diaryEntry } = entry
     const wantsTop20 = entry.top20
     const alreadyTop20 = diary.entries.some((candidate) => candidate.top20 && movieKey(candidate) === movieKey(entry))
     const watchlistMatches = diary.watchlists.flatMap((list) => list.items
       .filter((item) => movieKey(item) === movieKey(entry))
       .map((item) => ({ listId: list.id, listName: list.name, itemId: item.id })))
-    const saved = diary.addEntry({ ...entry, top20: false })
+    const saved = diary.addEntry({ ...diaryEntry, top20: false })
     setAdding(false)
+    setAddSwapOutgoingId(null)
     fireBurst()
     notify(`“${entry.title}” added to your diary`)
-    if (wantsTop20 && !alreadyTop20) requestTop20Add(saved.id)
+    if (top20SwapOutgoingId && !alreadyTop20) setDeferredSwap({ outgoingId: top20SwapOutgoingId, candidateId: saved.id })
+    else if (wantsTop20 && !alreadyTop20) requestTop20Add(saved)
     if (watchlistMatches.length) setWatchlistCleanup({ title: entry.title, matches: watchlistMatches })
   }
+
+  useEffect(() => {
+    if (!deferredSwap || !diary.entries.some((entry) => entry.id === deferredSwap.candidateId)) return
+    const reordered = [
+      ...top20.filter((entry) => entry.id !== deferredSwap.outgoingId).map((entry) => entry.id),
+      deferredSwap.candidateId,
+    ]
+    diary.reorderTop20(reordered)
+    diary.updateEntry(deferredSwap.outgoingId, { top20: false })
+    diary.updateEntry(deferredSwap.candidateId, { top20: true, top20Rank: reordered.length })
+    setDeferredSwap(null)
+    fireBurst()
+    notify('Swapped into your Top 20', <IconCrown size={16} />)
+  }, [deferredSwap, diary.entries])
 
   function handleWatchlistSave(title) {
     const activeList = diary.watchlists.find((list) => list.id === activeWatchlistId)
@@ -161,7 +185,6 @@ export default function App() {
     : []
   const detailTop20Entry = liveDetail ? top20.find((entry) => movieKey(entry) === movieKey(liveDetail)) : null
   const displayDetail = liveDetail ? { ...liveDetail, top20: !!detailTop20Entry, top20Rank: detailTop20Entry?.top20Rank } : null
-  const swapCandidate = swapCandidateId ? diary.entries.find((e) => e.id === swapCandidateId) || null : null
   const watchlistDetailList = watchlistDetail ? diary.watchlists.find((list) => list.id === watchlistDetail.listId) : null
   const liveWatchlistDetail = watchlistDetailList?.items.find((item) => item.id === watchlistDetail?.itemId) || null
   const randomWatchlist = randomWatchlistId ? diary.watchlists.find((list) => list.id === randomWatchlistId) : null
@@ -355,9 +378,12 @@ export default function App() {
             platforms={diary.settings.platforms}
             people={diary.settings.people}
             top20Full={top20.length >= TOP20_CAP}
+            top20SwapOutgoingId={addSwapOutgoingId}
+            onRequestTop20Swap={(entry) => setSwapCandidate({ ...entry, id: 'pending-add' })}
+            onClearTop20Swap={() => setAddSwapOutgoingId(null)}
             onAddPlatform={addPlatform}
             onAddPerson={addPerson}
-            onClose={() => setAdding(false)}
+            onClose={() => { setAdding(false); setAddSwapOutgoingId(null) }}
             onSave={handleSave}
           />
         )}
@@ -436,8 +462,13 @@ export default function App() {
             key="swap-modal"
             candidate={swapCandidate}
             top20={top20}
-            onReplace={confirmSwap}
-            onCancel={() => setSwapCandidateId(null)}
+            onReplace={(outgoingId) => {
+              if (swapCandidate.id === 'pending-add') {
+                setAddSwapOutgoingId(outgoingId)
+                setSwapCandidate(null)
+              } else confirmSwap(outgoingId)
+            }}
+            onCancel={() => setSwapCandidate(null)}
           />
         )}
       </AnimatePresence>

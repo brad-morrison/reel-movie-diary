@@ -1,10 +1,10 @@
 import { motion } from 'framer-motion'
 import { IconCrown, IconSparkle } from '../lib/icons.jsx'
 
-// The "mystical" Top 20 toggle — only rendered (by the caller) when a title
-// has been rated a full 5 stars. Springs in with a little flourish.
-export default function Top20Button({ active, full = false, onToggle }) {
-  const label = active ? 'In your Top 20' : full ? 'Swap into your Top 20?' : 'One for the Top 20?'
+// The "mystical" Top 20 toggle. Membership is an expression of personal
+// significance and stays independent from the title's numeric rating.
+export default function Top20Button({ active, pending = false, full = false, onToggle }) {
+  const label = pending ? 'Ready to swap' : active ? 'In your Top 20' : full ? 'Swap into your Top 20?' : 'One for the Top 20?'
   return (
     <motion.button
       type="button"

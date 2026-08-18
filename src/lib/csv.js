@@ -35,36 +35,27 @@ function findCol(headers, candidates) {
   return -1
 }
 
-// Convert a rating string (e.g. "★★★★", "8/10", "4.5", "9") into a 0–5 number.
+// Convert a rating string (e.g. "★★★★", "8/10", "4.5", "9") into a 0–10 number.
 function parseRating(raw) {
   if (!raw) return 0
   const stars = (raw.match(/[★⭐]/g) || []).length
-  if (stars) return Math.min(5, stars)
+  if (stars) return Math.min(5, stars) * 2
   const outOfTen = raw.match(/(\d+(?:\.\d+)?)\s*\/\s*10/)
-  if (outOfTen) return Math.round((Number(outOfTen[1]) / 2) * 2) / 2
+  if (outOfTen) return Math.min(10, Number(outOfTen[1]))
   const outOfFive = raw.match(/(\d+(?:\.\d+)?)\s*\/\s*5/)
-  if (outOfFive) return Number(outOfFive[1])
+  if (outOfFive) return Math.min(10, Number(outOfFive[1]) * 2)
   const num = parseFloat(raw)
   if (!isNaN(num)) {
-    if (num > 5) return Math.round((num / 2) * 2) / 2 // assume /10
-    return num
+    if (num > 5) return Math.min(10, num) // assume /10
+    return Math.min(10, num * 2) // assume /5
   }
   return 0
 }
 
-// The chosen /10 → star curve (non-linear: steeper through the middle,
-// generous at the top). Bands are [low, next) — e.g. 8.5–8.99 → 4.5.
-export function tenToStars(score) {
+export function normalizeTenPointRating(score) {
   const s = Number(score)
   if (isNaN(s)) return 0
-  if (s >= 9) return 5
-  if (s >= 8.5) return 4.5
-  if (s >= 8) return 4
-  if (s >= 7.5) return 3.5
-  if (s >= 7) return 3
-  if (s >= 6) return 2.5
-  if (s >= 5) return 2
-  return 1 // anything rated below 5
+  return Math.max(0, Math.min(10, Math.round(s * 10) / 10))
 }
 
 function parseDate(raw) {
@@ -147,12 +138,12 @@ export function parseNotionCsv(text) {
     const rawRating = parseFloat(cell(cells, ci.rating))
     const rawImdbRating = parseFloat(cell(cells, ci.imdb))
     const hasRating = !isNaN(rawRating)
-    // /10 columns use the custom star curve; /5 columns are taken as-is.
+    // Preserve /10 scores; convert /5 columns to the new scale.
     let rating = 0
     if (hasRating && tenScale) {
-      rating = tenToStars(rawRating)
+      rating = normalizeTenPointRating(rawRating)
     } else if (hasRating) {
-      rating = Math.min(5, Math.round(rawRating * 2) / 2)
+      rating = Math.min(10, Math.round(rawRating * 20) / 10)
     } else {
       rating = parseRating(cell(cells, ci.rating)) // ★ symbols, "8/10", etc.
     }
