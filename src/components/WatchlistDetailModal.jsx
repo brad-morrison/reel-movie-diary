@@ -44,7 +44,7 @@ export default function WatchlistDetailModal({ item, listName, tmdbKey, nestedOp
               {item.voteAverage > 0 && <span className="watchlist-detail-score"><IconStar size={13} /> {Number(item.voteAverage).toFixed(1)}</span>}
             </div>
             {item.genres?.length > 0 && <div className="genre-tags">{item.genres.map((genre) => <span className="genre-tag" key={genre}>{genre}</span>)}</div>}
-            <button className="btn btn-ghost watchlist-change-art" onClick={() => onChangeArtwork(item)} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Choose a different TMDB poster'}><IconImage size={16} /> Change poster</button>
+            <button className="btn btn-ghost watchlist-change-art" onClick={() => onChangeArtwork(item)} title="Choose or upload a different poster"><IconImage size={16} /> Change poster</button>
 
             <section className="watchlist-detail-section">
               <h3>Synopsis</h3>

@@ -14,6 +14,7 @@ import { doc, onSnapshot, setDoc, serverTimestamp } from 'firebase/firestore'
 import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
 import { SAMPLE_ENTRIES } from './sample.js'
 import { collectCatalogs } from './csv.js'
+import { uploadPosterImage, uploadProfileImage } from './uploads.js'
 
 const ENTRIES_KEY = 'reel.entries.v1'
 const SETTINGS_KEY = 'reel.settings.v1'
@@ -283,6 +284,25 @@ export function useDiary() {
     return sendPasswordResetEmail(auth, email)
   }, [])
 
+  const updateAvatar = useCallback(async (file) => {
+    if (!auth.currentUser) throw new Error('Sign in before uploading a profile picture')
+    const photoURL = await uploadProfileImage(auth.currentUser.uid, file)
+    await updateProfile(auth.currentUser, { photoURL })
+    setUser({
+      ...auth.currentUser,
+      uid: auth.currentUser.uid,
+      email: auth.currentUser.email,
+      displayName: auth.currentUser.displayName,
+      photoURL,
+    })
+    return photoURL
+  }, [])
+
+  const uploadPoster = useCallback(async (file, itemId) => {
+    if (!auth.currentUser) throw new Error('Sign in before uploading custom artwork')
+    return uploadPosterImage(auth.currentUser.uid, itemId, file)
+  }, [])
+
   // Explicitly make the currently visible diary authoritative. This is used
   // after imports so an older (or empty) cloud snapshot cannot win the race.
   const saveToCloud = useCallback(async (entriesOverride) => {
@@ -501,5 +521,7 @@ export function useDiary() {
     resetPassword,
     signOut,
     saveToCloud,
+    updateAvatar,
+    uploadPoster,
   }
 }

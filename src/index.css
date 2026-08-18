@@ -118,6 +118,7 @@ body::after {
 h1, h2, h3, .serif { font-family: 'Fraunces', Georgia, serif; }
 
 button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+.visually-hidden { position: absolute !important; width: 1px !important; height: 1px !important; padding: 0 !important; margin: -1px !important; overflow: hidden !important; clip: rect(0, 0, 0, 0) !important; white-space: nowrap !important; border: 0 !important; }
 
 input, textarea, select {
   font-family: inherit;
@@ -498,6 +499,11 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .artwork-picker-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; margin-bottom: 25px; }
 .artwork-picker-head h2 { margin-top: 7px; font-size: clamp(27px, 4vw, 38px); }
 .artwork-picker-head p { margin-top: 7px; color: var(--text-dim); font-size: 13px; }
+.artwork-upload { position: relative; flex: none; overflow: hidden; }
+.artwork-upload input { position: absolute; inset: 0; width: 100%; opacity: 0; cursor: pointer; }
+.artwork-upload.disabled { opacity: .45; cursor: not-allowed; }
+.artwork-upload.disabled input { cursor: not-allowed; }
+.artwork-upload-error { margin-bottom: 18px; }
 .artwork-picker-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(125px, 1fr)); gap: 14px; }
 .artwork-picker-grid button { position: relative; overflow: hidden; aspect-ratio: 2/3; border: 2px solid transparent; border-radius: 13px; background: var(--bg-2); box-shadow: 0 12px 28px -20px #000; transition: transform .2s var(--ease), border-color .2s, box-shadow .2s; }
 .artwork-picker-grid button:hover { z-index: 2; border-color: var(--gold); transform: translateY(-4px) scale(1.025); box-shadow: var(--shadow); }
@@ -1187,6 +1193,11 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .theme-toggle { display: flex; width: 100%; gap: 4px; padding: 4px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface-2); }
 .theme-toggle button { display: inline-flex; align-items: center; justify-content: center; flex: 1; gap: 7px; padding: 9px 12px; border-radius: 9px; color: var(--text-dim); font-size: 13px; font-weight: 700; transition: color .2s, background .2s, box-shadow .2s; }
 .theme-toggle button.active { color: #14110a; background: var(--accent-grad); box-shadow: 0 5px 16px -8px rgba(245,185,66,.65); }
+.avatar-upload { position: relative; width: 48px; height: 48px; flex: none; border-radius: 50%; }
+.avatar-upload > img, .avatar-upload > .account-initial { display: grid; place-items: center; width: 48px; height: 48px; border-radius: 50%; object-fit: cover; }
+.avatar-upload > span:last-child { position: absolute; right: -3px; bottom: -2px; display: grid; place-items: center; width: 22px; height: 22px; border: 2px solid var(--surface); border-radius: 50%; color: #14110a; background: var(--gold); }
+.avatar-upload:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+.avatar-change-label { margin-top: 3px; color: var(--gold); font-size: 11px; font-weight: 700; }
 .accent-select-row { display: flex; align-items: center; gap: 10px; }
 .accent-select { flex: 1; }
 .accent-select select { width: 100%; background: var(--surface-2); }

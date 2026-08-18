@@ -248,7 +248,7 @@ export default function DetailModal({ entry, viewings = [], tmdbKey = '', platfo
                 </>
               ) : (
                 <>
-                  <button className="btn btn-ghost" onClick={() => onChangeArtwork(entry)} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Choose a different TMDB poster'}>
+                  <button className="btn btn-ghost" onClick={() => onChangeArtwork(entry)} title="Choose or upload a different poster">
                     <IconImage size={16} /> Change poster
                   </button>
                   <button className="btn btn-ghost" onClick={openRepair} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Search TMDB for the correct title'}>

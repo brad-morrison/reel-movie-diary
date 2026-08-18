@@ -7,13 +7,30 @@ import {
   IconSun, IconMoon, IconChevron,
 } from '../lib/icons.jsx'
 
-export default function Settings({ settings, setSettings, entries, watchlists, replaceAll, restoreBackup, clearAllData, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud }) {
+export default function Settings({ settings, setSettings, entries, watchlists, replaceAll, restoreBackup, clearAllData, importEntries, notify, cloudEnabled, user, syncStatus, syncError, signIn, signOut, saveToCloud, updateAvatar }) {
   const [key, setKey] = useState(settings.tmdbKey || '')
   const [checking, setChecking] = useState(false)
   const [keyStatus, setKeyStatus] = useState(settings.tmdbKey ? 'saved' : '')
   const [enriching, setEnriching] = useState(null) // {done,total} | null
+  const [avatarUploading, setAvatarUploading] = useState(false)
   const fileJson = useRef(null)
   const fileCsv = useRef(null)
+  const fileAvatar = useRef(null)
+
+  async function chooseAvatar(event) {
+    const file = event.target.files?.[0]
+    event.target.value = ''
+    if (!file) return
+    setAvatarUploading(true)
+    try {
+      await updateAvatar(file)
+      notify('Profile picture updated')
+    } catch (error) {
+      notify(error?.message || 'Could not upload profile picture')
+    } finally {
+      setAvatarUploading(false)
+    }
+  }
 
   const missingArt = entries.filter((e) => !e.poster).length
 
@@ -169,12 +186,17 @@ export default function Settings({ settings, setSettings, entries, watchlists, r
           <>
             <p className="desc">Your diary is saved to your private cloud and syncs to any device you sign in on.</p>
             <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 16 }}>
-              {user.photoURL
-                ? <img src={user.photoURL} alt="" referrerPolicy="no-referrer" style={{ width: 42, height: 42, borderRadius: '50%' }} />
-                : <span className="account-initial" style={{ width: 42, height: 42, fontSize: 18 }}>{(user.displayName || user.email || '?')[0].toUpperCase()}</span>}
+              <button type="button" className="avatar-upload" onClick={() => fileAvatar.current?.click()} disabled={avatarUploading} aria-label="Change profile picture">
+                {user.photoURL
+                  ? <img src={user.photoURL} alt="" referrerPolicy="no-referrer" />
+                  : <span className="account-initial">{(user.displayName || user.email || '?')[0].toUpperCase()}</span>}
+                <span>{avatarUploading ? '…' : <IconUpload size={14} />}</span>
+              </button>
+              <input ref={fileAvatar} className="visually-hidden" type="file" accept="image/*" onChange={chooseAvatar} />
               <div>
                 <div style={{ fontWeight: 700 }}>{user.displayName || 'Signed in'}</div>
                 <div className="dim" style={{ fontSize: 13 }}>{user.email}</div>
+                <button type="button" className="avatar-change-label" onClick={() => fileAvatar.current?.click()} disabled={avatarUploading}>{avatarUploading ? 'Uploading…' : 'Change picture'}</button>
               </div>
             </div>
             <div className={`status-line ${syncStatus === 'error' ? 'warn' : 'ok'}`}>

@@ -338,6 +338,7 @@ export default function App() {
                 signIn={diary.signIn}
                 signOut={diary.signOut}
                 saveToCloud={diary.saveToCloud}
+                updateAvatar={diary.updateAvatar}
               />
             )}
           </motion.div>
@@ -448,6 +449,8 @@ export default function App() {
             key="artwork-picker-modal"
             entry={artworkEntry}
             tmdbKey={diary.settings.tmdbKey}
+            canUpload={!!diary.user}
+            onUpload={(file) => diary.uploadPoster(file, artworkEntry.id)}
             onClose={() => setArtworkPicker(null)}
             onSelect={(patch) => {
               if (artworkPicker.kind === 'diary') diary.updateMovieArtwork(artworkPicker.itemId, patch)
