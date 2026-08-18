@@ -27,10 +27,10 @@ export default function WatchlistDetailModal({ item, listName, tmdbKey, nestedOp
   return (
     <motion.div className="overlay fullscreen-mobile-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onClose}>
       <motion.div className="modal watchlist-detail-modal" initial={{ opacity: 0, y: 30, scale: .97 }} animate={{ opacity: 1, y: 0, scale: 1 }} exit={{ opacity: 0, y: 15, scale: .98 }} onClick={(event) => event.stopPropagation()}>
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="watchlist-detail-backdrop">
           {(item.backdrop || item.poster) && <img src={item.backdrop || item.poster} alt="" />}
           <div className="watchlist-detail-veil" />
-          <button className="icon-btn watchlist-detail-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         </div>
         <div className={`watchlist-detail-body ${item.poster ? '' : 'no-poster'}`}>
           {item.poster && <img className="watchlist-detail-poster" src={item.poster} alt={`${item.title} poster`} />}

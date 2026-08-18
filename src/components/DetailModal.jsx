@@ -93,6 +93,7 @@ export default function DetailModal({ entry, viewings = [], tmdbKey = '', platfo
         transition={{ type: 'spring', stiffness: 300, damping: 30 }}
         onClick={(e) => e.stopPropagation()}
       >
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="detail">
           <div className="detail-backdrop">
             {entry.backdrop || entry.poster ? (
@@ -101,9 +102,6 @@ export default function DetailModal({ entry, viewings = [], tmdbKey = '', platfo
               <div style={{ width: '100%', height: '100%', background: 'linear-gradient(160deg,#1a1a26,#101019)' }} />
             )}
             <div className="veil" />
-            <button className="icon-btn close-x" onClick={onClose} style={{ position: 'absolute', top: 16, right: 16 }}>
-              <IconX size={18} />
-            </button>
           </div>
 
           <div className="detail-body">

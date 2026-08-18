@@ -21,10 +21,10 @@ export default function WatchlistCleanupModal({ title, matches, onRemove, onKeep
   return (
     <motion.div className="overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onKeep}>
       <motion.div className="modal watchlist-cleanup-modal" initial={{ opacity: 0, y: 28, scale: .97 }} animate={{ opacity: 1, y: 0, scale: 1 }} exit={{ opacity: 0, y: 14, scale: .98 }} onClick={(event) => event.stopPropagation()}>
+        <button className="icon-btn modal-sticky-close" onClick={onKeep} aria-label="Close"><IconX size={18} /></button>
         <div className="modal-pad">
           <div className="modal-head">
             <div className="watchlist-cleanup-icon"><IconCheck size={24} /></div>
-            <button className="icon-btn" onClick={onKeep} aria-label="Close"><IconX size={18} /></button>
           </div>
           <span className="watchlist-eyebrow"><IconBookmark size={14} /> Watch list check</span>
           <h2>You watched “{title}”</h2>

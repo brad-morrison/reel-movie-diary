@@ -28,9 +28,9 @@ export default function ArtworkPickerModal({ entry, tmdbKey, onClose, onSelect }
   return (
     <motion.div className="overlay artwork-picker-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onClose}>
       <motion.div className="modal artwork-picker-modal" initial={{ opacity: 0, y: 30, scale: .97 }} animate={{ opacity: 1, y: 0, scale: 1 }} exit={{ opacity: 0, y: 15, scale: .98 }} onClick={(event) => event.stopPropagation()}>
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="artwork-picker-head">
           <div><span className="watchlist-eyebrow"><IconImage size={14} /> Artwork</span><h2>Choose a poster</h2><p>Alternative artwork for <strong>{entry.title}</strong>, provided by TMDB.</p></div>
-          <button className="icon-btn" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         </div>
         {loading && <div className="artwork-picker-loading"><IconImage size={34} /><span>Loading the poster gallery…</span><i /></div>}
         {!loading && error && <div className="empty artwork-picker-empty"><div className="empty-mark"><IconImage size={44} /></div><h3>Gallery unavailable</h3><p>{error}</p></div>}

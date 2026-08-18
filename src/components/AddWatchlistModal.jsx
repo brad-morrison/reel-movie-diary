@@ -38,10 +38,10 @@ export default function AddWatchlistModal({ tmdbKey, onClose, onSave }) {
   return (
     <motion.div className="overlay fullscreen-mobile-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={onClose}>
       <motion.div className="modal watchlist-modal" initial={{ opacity: 0, y: 32, scale: .97 }} animate={{ opacity: 1, y: 0, scale: 1 }} exit={{ opacity: 0, y: 16, scale: .98 }} onClick={(event) => event.stopPropagation()}>
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="modal-pad">
           <div className="modal-head">
             <div><span className="watchlist-eyebrow"><IconBookmark size={14} /> Watch list</span><h2>Add something to watch</h2><p>{manual ? 'Enter the title details below.' : 'Search for a film or show you want to see.'}</p></div>
-            <button className="icon-btn" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
           </div>
 
           {!manual ? (

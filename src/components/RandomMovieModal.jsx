@@ -69,7 +69,7 @@ export default function RandomMovieModal({ items, listName, onClose }) {
         <motion.div className="random-movie-glow" animate={{ opacity: spinning ? .2 : .4, scale: spinning ? 1.12 : 1.2 }} transition={{ duration: .7 }} style={current?.backdrop || current?.poster ? { backgroundImage: `url(${current.backdrop || current.poster})` } : undefined} />
         <div className="random-movie-light random-movie-light-one" />
         <div className="random-movie-light random-movie-light-two" />
-        <button className="icon-btn random-movie-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="random-movie-content">
           <span className="watchlist-eyebrow"><IconSparkle size={14} /> Picking from {listName}</span>
           <h2>{spinning ? 'Let fate decide…' : 'Tonight’s pick'}</h2>

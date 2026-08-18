@@ -217,10 +217,10 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
         transition={{ type: 'spring', stiffness: 300, damping: 30 }}
         onClick={(e) => e.stopPropagation()}
       >
+        <button className="icon-btn modal-sticky-close" onClick={onClose} aria-label="Close"><IconX size={18} /></button>
         <div className="modal-pad">
           <div className={`modal-head ${step === 'form' ? 'form-modal-head' : ''}`}>
             {step === 'search' && <div><h2>Log something you watched</h2><p>Search TMDB for the title, or add it by hand.</p></div>}
-            <button className="icon-btn" onClick={onClose}><IconX size={18} /></button>
           </div>
 
           <AnimatePresence mode="wait">
