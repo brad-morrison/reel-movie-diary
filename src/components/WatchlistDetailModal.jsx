@@ -2,12 +2,12 @@ import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { fetchTitleDetails } from '../lib/tmdb.js'
 import { useEscape } from '../lib/useEscape.js'
-import { IconBookmark, IconStar, IconX } from '../lib/icons.jsx'
+import { IconBookmark, IconImage, IconStar, IconX } from '../lib/icons.jsx'
 
-export default function WatchlistDetailModal({ item, listName, tmdbKey, onClose, onUpdate }) {
+export default function WatchlistDetailModal({ item, listName, tmdbKey, nestedOpen = false, onChangeArtwork, onClose, onUpdate }) {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
-  useEscape(onClose)
+  useEscape(() => { if (!nestedOpen) onClose() })
 
   useEffect(() => {
     if (!tmdbKey || item.tmdbId == null || (item.cast?.length && item.directors)) return
@@ -44,6 +44,7 @@ export default function WatchlistDetailModal({ item, listName, tmdbKey, onClose,
               {item.voteAverage > 0 && <span className="watchlist-detail-score"><IconStar size={13} /> {Number(item.voteAverage).toFixed(1)}</span>}
             </div>
             {item.genres?.length > 0 && <div className="genre-tags">{item.genres.map((genre) => <span className="genre-tag" key={genre}>{genre}</span>)}</div>}
+            <button className="btn btn-ghost watchlist-change-art" onClick={() => onChangeArtwork(item)} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Choose a different TMDB poster'}><IconImage size={16} /> Change poster</button>
 
             <section className="watchlist-detail-section">
               <h3>Synopsis</h3>

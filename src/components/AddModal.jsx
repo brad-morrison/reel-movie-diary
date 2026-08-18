@@ -351,7 +351,11 @@ export default function AddModal({ entries = [], tmdbKey, platforms = [], people
                         <AnimatePresence>{form.rating === 5 && <motion.div layout style={{ marginTop: 14 }}><Top20Button active={form.top20} full={top20Full && !form.top20} onToggle={() => set({ top20: !form.top20 })} /></motion.div>}</AnimatePresence>
                       </div>
                       <div className="field-row">
-                        <div className="field"><label>Watched on</label><input type="date" value={form.watchedDate} max={today()} onChange={(e) => set({ watchedDate: e.target.value })} /></div>
+                        <div className="field watched-date-field">
+                          <div className="watched-date-label"><label>Watched on <span>(optional)</span></label><button type="button" onClick={() => set({ watchedDate: form.watchedDate ? '' : today() })}>{form.watchedDate ? 'I don’t remember' : 'Use today'}</button></div>
+                          <input type="date" value={form.watchedDate} max={today()} onChange={(e) => set({ watchedDate: e.target.value })} />
+                          {!form.watchedDate && <motion.p className="date-unknown-note" initial={{ opacity: 0, y: -3 }} animate={{ opacity: 1, y: 0 }}><IconCheck size={13} /> This watch will be saved without a date</motion.p>}
+                        </div>
                         <div className="field"><label>First watch?</label><button type="button" className="chip first-time-btn" style={form.firstTime ? { color: 'var(--gold)', borderColor: 'rgba(245,185,66,0.5)', background: 'rgba(245,185,66,0.12)' } : undefined} onClick={() => set({ firstTime: !form.firstTime })}><IconCheck size={14} /> First time</button></div>
                       </div>
                       <div className="field"><label>Where did you watch it?</label><TagPicker options={platforms} value={form.platform} onChange={(v) => set({ platform: v })} onAddOption={onAddPlatform} placeholder="e.g. Netflix" /></div>

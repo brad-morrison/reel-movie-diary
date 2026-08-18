@@ -14,6 +14,7 @@ import WatchlistCleanupModal from './components/WatchlistCleanupModal.jsx'
 import WatchlistDetailModal from './components/WatchlistDetailModal.jsx'
 import RandomMovieModal from './components/RandomMovieModal.jsx'
 import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
+import ArtworkPickerModal from './components/ArtworkPickerModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
 
@@ -50,6 +51,7 @@ export default function App() {
   const [watchlistCleanup, setWatchlistCleanup] = useState(null)
   const [watchlistDetail, setWatchlistDetail] = useState(null)
   const [randomWatchlistId, setRandomWatchlistId] = useState(null)
+  const [artworkPicker, setArtworkPicker] = useState(null)
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
   const [detail, setDetail] = useState(null)
   const [toasts, setToasts] = useState([])
@@ -163,7 +165,10 @@ export default function App() {
   const watchlistDetailList = watchlistDetail ? diary.watchlists.find((list) => list.id === watchlistDetail.listId) : null
   const liveWatchlistDetail = watchlistDetailList?.items.find((item) => item.id === watchlistDetail?.itemId) || null
   const randomWatchlist = randomWatchlistId ? diary.watchlists.find((list) => list.id === randomWatchlistId) : null
-  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!liveDetail || !!swapCandidate || mobileMenuOpen
+  const artworkEntry = artworkPicker?.kind === 'diary'
+    ? diary.entries.find((entry) => entry.id === artworkPicker.itemId)
+    : diary.watchlists.find((list) => list.id === artworkPicker?.listId)?.items.find((item) => item.id === artworkPicker?.itemId)
+  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || mobileMenuOpen
 
   useEffect(() => {
     if (!modalOpen) return
@@ -383,7 +388,9 @@ export default function App() {
             item={liveWatchlistDetail}
             listName={watchlistDetailList.name}
             tmdbKey={diary.settings.tmdbKey}
+            nestedOpen={!!artworkEntry}
             onClose={() => setWatchlistDetail(null)}
+            onChangeArtwork={(item) => setArtworkPicker({ kind: 'watchlist', listId: watchlistDetail.listId, itemId: item.id })}
             onUpdate={(patch) => diary.updateWatchlistItem(watchlistDetail.listId, watchlistDetail.itemId, patch)}
           />
         )}
@@ -399,13 +406,29 @@ export default function App() {
             platforms={diary.settings.platforms}
             people={diary.settings.people}
             top20Full={top20.length >= TOP20_CAP && !displayDetail.top20}
+            nestedOpen={!!artworkEntry}
             onAddPlatform={addPlatform}
             onAddPerson={addPerson}
             onToggleTop20={toggleTop20}
             onSelectViewing={setDetail}
+            onChangeArtwork={(entry) => setArtworkPicker({ kind: 'diary', itemId: entry.id })}
             onClose={() => setDetail(null)}
             onUpdate={diary.updateEntry}
             onDelete={(id) => { diary.removeEntry(id); setDetail(null); notify('Removed from diary') }}
+          />
+        )}
+        {artworkEntry && (
+          <ArtworkPickerModal
+            key="artwork-picker-modal"
+            entry={artworkEntry}
+            tmdbKey={diary.settings.tmdbKey}
+            onClose={() => setArtworkPicker(null)}
+            onSelect={(patch) => {
+              if (artworkPicker.kind === 'diary') diary.updateMovieArtwork(artworkPicker.itemId, patch)
+              else diary.updateWatchlistItem(artworkPicker.listId, artworkPicker.itemId, patch)
+              notify(`Poster updated for “${artworkEntry.title}”`)
+              setArtworkPicker(null)
+            }}
           />
         )}
         {swapCandidate && (

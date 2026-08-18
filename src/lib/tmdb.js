@@ -73,6 +73,35 @@ export async function fetchTitleDetails(entry, key) {
   }
 }
 
+export async function fetchPosterOptions(entry, key) {
+  if (!key || !entry?.title) return { posters: [], identity: {} }
+  let identity = {}
+  let tmdbId = entry.tmdbId
+  let type = entry.type === 'tv' ? 'tv' : 'movie'
+  if (tmdbId == null) {
+    const match = await enrichEntry(entry, key)
+    if (!match?.tmdbId) return { posters: [], identity: {} }
+    identity = match
+    tmdbId = match.tmdbId
+    type = match.type === 'tv' ? 'tv' : 'movie'
+  }
+  const res = await fetch(`${BASE}/${type}/${tmdbId}/images?api_key=${key}&include_image_language=en,null`)
+  if (!res.ok) throw new Error(`TMDB ${res.status}`)
+  const data = await res.json()
+  const seen = new Set()
+  const posters = (data.posters || [])
+    .filter((image) => image.file_path && !seen.has(image.file_path) && seen.add(image.file_path))
+    .sort((a, b) => (b.vote_count || 0) - (a.vote_count || 0) || (b.vote_average || 0) - (a.vote_average || 0))
+    .slice(0, 40)
+    .map((image) => ({
+      path: image.file_path,
+      preview: posterUrl(image.file_path, 'w342'),
+      full: posterUrl(image.file_path, 'w500'),
+      language: image.iso_639_1 || '',
+    }))
+  return { posters, identity: { ...identity, tmdbId, type } }
+}
+
 export async function verifyKey(key) {
   try {
     const res = await fetch(`${BASE}/configuration?api_key=${key}`)

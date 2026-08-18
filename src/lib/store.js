@@ -349,6 +349,15 @@ export function useDiary() {
     setEntries((prev) => prev.filter((e) => e.id !== id))
   }, [])
 
+  const updateMovieArtwork = useCallback((id, patch) => {
+    setEntries((previous) => {
+      const target = previous.find((entry) => entry.id === id)
+      if (!target) return previous
+      const key = movieKey(target)
+      return previous.map((entry) => movieKey(entry) === key ? { ...entry, ...patch } : entry)
+    })
+  }, [])
+
   const createWatchlist = useCallback((name) => {
     const cleanName = name.trim()
     if (!cleanName) return null
@@ -453,6 +462,7 @@ export function useDiary() {
     addEntry,
     updateEntry,
     removeEntry,
+    updateMovieArtwork,
     createWatchlist,
     addToWatchlist,
     removeFromWatchlist,

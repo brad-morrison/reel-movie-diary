@@ -7,7 +7,7 @@ import Top20Button from './Top20Button.jsx'
 import { useEscape } from '../lib/useEscape.js'
 import { searchTitles } from '../lib/tmdb.js'
 import {
-  IconX, IconCheck, IconCalendar, IconTrash, IconStar, IconSearch,
+  IconX, IconCheck, IconCalendar, IconTrash, IconStar, IconSearch, IconImage,
 } from '../lib/icons.jsx'
 
 function fmtDate(d) {
@@ -21,14 +21,14 @@ function fmtDate(d) {
   }
 }
 
-export default function DetailModal({ entry, viewings = [], tmdbKey = '', platforms = [], people = [], top20Full = false, onAddPlatform, onAddPerson, onToggleTop20, onSelectViewing, onClose, onUpdate, onDelete }) {
+export default function DetailModal({ entry, viewings = [], tmdbKey = '', platforms = [], people = [], top20Full = false, nestedOpen = false, onAddPlatform, onAddPerson, onToggleTop20, onSelectViewing, onChangeArtwork, onClose, onUpdate, onDelete }) {
   const [confirmDel, setConfirmDel] = useState(false)
   const [repairOpen, setRepairOpen] = useState(false)
   const [repairQuery, setRepairQuery] = useState('')
   const [repairResults, setRepairResults] = useState([])
   const [repairLoading, setRepairLoading] = useState(false)
   const [repairError, setRepairError] = useState('')
-  useEscape(onClose)
+  useEscape(() => { if (!nestedOpen) onClose() })
 
   useEffect(() => {
     setConfirmDel(false)
@@ -258,6 +258,9 @@ export default function DetailModal({ entry, viewings = [], tmdbKey = '', platfo
                 </>
               ) : (
                 <>
+                  <button className="btn btn-ghost" onClick={() => onChangeArtwork(entry)} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Choose a different TMDB poster'}>
+                    <IconImage size={16} /> Change poster
+                  </button>
                   <button className="btn btn-ghost" onClick={openRepair} disabled={!tmdbKey} title={!tmdbKey ? 'Connect TMDB in Settings first' : 'Search TMDB for the correct title'}>
                     <IconSearch size={16} /> Find correct movie
                   </button>
