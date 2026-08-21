@@ -10,7 +10,7 @@ import {
   signOut as fbSignOut,
   updateProfile,
 } from 'firebase/auth'
-import { collection, deleteDoc, doc, getCountFromServer, getDoc, getDocFromServer, getDocs, onSnapshot, query, runTransaction, setDoc, serverTimestamp, where } from 'firebase/firestore'
+import { collection, deleteDoc, doc, getDoc, getDocFromServer, getDocs, onSnapshot, query, runTransaction, setDoc, serverTimestamp, updateDoc, where } from 'firebase/firestore'
 import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
 import { SAMPLE_ENTRIES } from './sample.js'
 import { collectCatalogs } from './csv.js'
@@ -81,12 +81,18 @@ const followId = (followerUid, followedUid) => `${followerUid}_${followedUid}`
 export async function loadFollowSummary(profileUid, viewerUid) {
   if (!db || !profileUid) return { followers: 0, following: 0, isFollowing: false }
   const follows = collection(db, 'follows')
-  const [followers, following, relationship] = await Promise.all([
-    getCountFromServer(query(follows, where('followedUid', '==', profileUid))),
-    getCountFromServer(query(follows, where('followerUid', '==', profileUid))),
+  const [followersSnapshot, followingSnapshot, relationship] = await Promise.all([
+    getDocs(query(follows, where('followedUid', '==', profileUid), where('status', '==', 'accepted'))),
+    getDocs(query(follows, where('followerUid', '==', profileUid), where('status', '==', 'accepted'))),
     viewerUid && viewerUid !== profileUid ? getDoc(doc(db, 'follows', followId(viewerUid, profileUid))) : null,
   ])
-  return { followers: followers.data().count, following: following.data().count, isFollowing: !!relationship?.exists() }
+  const relationshipStatus = relationship?.exists() ? (relationship.data()?.status || 'pending') : ''
+  return {
+    followers: followersSnapshot.size,
+    following: followingSnapshot.size,
+    relationshipStatus,
+    isFollowing: relationshipStatus === 'accepted',
+  }
 }
 
 export async function setFollowing(profileUid, shouldFollow) {
@@ -94,7 +100,7 @@ export async function setFollowing(profileUid, shouldFollow) {
   if (!viewer) throw new Error('Sign in to follow people')
   if (viewer.uid === profileUid) throw new Error('You cannot follow yourself')
   const ref = doc(db, 'follows', followId(viewer.uid, profileUid))
-  if (shouldFollow) await setDoc(ref, { followerUid: viewer.uid, followedUid: profileUid, createdAt: serverTimestamp() })
+  if (shouldFollow) await setDoc(ref, { followerUid: viewer.uid, followedUid: profileUid, status: 'pending', createdAt: serverTimestamp() })
   else await deleteDoc(ref)
   return shouldFollow
 }
@@ -102,7 +108,7 @@ export async function setFollowing(profileUid, shouldFollow) {
 export async function loadFollowProfiles(profileUid, kind) {
   if (!db || !profileUid) return []
   const isFollowers = kind === 'followers'
-  const snapshot = await getDocs(query(collection(db, 'follows'), where(isFollowers ? 'followedUid' : 'followerUid', '==', profileUid)))
+  const snapshot = await getDocs(query(collection(db, 'follows'), where(isFollowers ? 'followedUid' : 'followerUid', '==', profileUid), where('status', '==', 'accepted')))
   const uids = [...new Set(snapshot.docs.map((item) => item.data()?.[isFollowers ? 'followerUid' : 'followedUid']).filter(Boolean))]
   if (!uids.length) return []
   const profiles = []
@@ -112,6 +118,39 @@ export async function loadFollowProfiles(profileUid, kind) {
     profiles.push(...matches.docs.map((item) => item.data()))
   }
   return profiles.sort((a, b) => (a.displayName || a.username).localeCompare(b.displayName || b.username))
+}
+
+export async function loadFollowRequests(profileUid) {
+  if (!db || !profileUid) return []
+  const snapshot = await getDocs(query(collection(db, 'follows'), where('followedUid', '==', profileUid)))
+  const pending = snapshot.docs.filter((item) => (item.data()?.status || 'pending') === 'pending')
+  if (!pending.length) return []
+  const uids = pending.map((item) => item.data().followerUid)
+  const profiles = []
+  for (let index = 0; index < uids.length; index += 30) {
+    const matches = await getDocs(query(collection(db, 'publicProfiles'), where('uid', 'in', uids.slice(index, index + 30))))
+    profiles.push(...matches.docs.map((item) => item.data()))
+  }
+  return profiles
+}
+
+export async function resolveFollowRequest(followerUid, accept) {
+  const owner = auth?.currentUser
+  if (!owner) throw new Error('Sign in to manage follow requests')
+  const ref = doc(db, 'follows', followId(followerUid, owner.uid))
+  if (accept) await updateDoc(ref, { status: 'accepted', acceptedAt: serverTimestamp() })
+  else await deleteDoc(ref)
+}
+
+export async function loadSharedDiary(profileUid) {
+  if (!db || !profileUid || !auth?.currentUser) return null
+  const snapshot = await getDocFromServer(doc(db, 'sharedDiaries', profileUid))
+  return snapshot.exists() ? snapshot.data() : null
+}
+
+function sharedEntry(entry) {
+  const allowed = ['id', 'title', 'year', 'type', 'poster', 'backdrop', 'rating', 'watchedDate', 'createdAt', 'top20', 'top20Rank', 'genres', 'overview', 'firstTime', 'review', 'notes']
+  return Object.fromEntries(allowed.filter((key) => entry[key] !== undefined).map((key) => [key, entry[key]]))
 }
 
 // A viewing has its own entry, while title-level details (such as the user's
@@ -389,6 +428,17 @@ export function useDiary() {
     setDoc(doc(db, 'publicProfiles', username), { ...payload, updatedAt: serverTimestamp() })
       .catch((error) => console.error('Public profile update failed', error))
   }, [entries, settings.username, watchlists, user, cloudLoaded, serverConfirmed])
+
+  // Accepted followers read this sanitized projection. It deliberately omits
+  // settings, watch lists, platforms, companions, email, and account data.
+  useEffect(() => {
+    if (!isFirebaseConfigured || !user || !cloudLoaded || !serverConfirmed) return
+    setDoc(doc(db, 'sharedDiaries', user.uid), {
+      ownerUid: user.uid,
+      entries: entries.map(sharedEntry),
+      updatedAt: serverTimestamp(),
+    }).catch((error) => console.error('Follower diary update failed', error))
+  }, [entries, user, cloudLoaded, serverConfirmed])
 
   const signIn = useCallback(async () => {
     if (!isFirebaseConfigured) return

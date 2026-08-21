@@ -19,7 +19,7 @@ import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
 import ArtworkPickerModal from './components/ArtworkPickerModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
-import { loadFollowProfiles, loadFollowSummary, loadPublicProfile, setFollowing } from './lib/store.js'
+import { loadFollowProfiles, loadFollowRequests, loadFollowSummary, loadPublicProfile, loadSharedDiary, resolveFollowRequest, setFollowing } from './lib/store.js'
 
 const TOP20_CAP = 20
 import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, IconX } from './lib/icons.jsx'
@@ -69,6 +69,8 @@ export default function App() {
   const [pathname, setPathname] = useState(() => window.location.pathname)
   const [social, setSocial] = useState(null)
   const [followList, setFollowList] = useState(null)
+  const [followRequests, setFollowRequests] = useState([])
+  const [sharedDiary, setSharedDiary] = useState(null)
   const routeUsername = pathname.match(/^\/@([a-z0-9_]+)\/?$/i)?.[1]?.toLowerCase() || ''
 
   const selectTab = useCallback((nextTab) => {
@@ -113,6 +115,21 @@ export default function App() {
       .catch(() => { if (active) setSocial({ followers: 0, following: 0, isFollowing: false, error: true }) })
     return () => { active = false }
   }, [publicProfile.status, publicProfile.data?.uid, diary.user?.uid])
+
+  useEffect(() => {
+    if (!diary.user || !diary.cloudLoaded) return
+    let active = true
+    loadFollowRequests(diary.user.uid).then((requests) => { if (active) setFollowRequests(requests) }).catch(() => {})
+    return () => { active = false }
+  }, [diary.user?.uid, diary.cloudLoaded, pathname])
+
+  useEffect(() => {
+    setSharedDiary(null)
+    if (social?.relationshipStatus !== 'accepted' || !publicProfile.data?.uid) return
+    let active = true
+    loadSharedDiary(publicProfile.data.uid).then((data) => { if (active) setSharedDiary(data) }).catch(() => {})
+    return () => { active = false }
+  }, [social?.relationshipStatus, publicProfile.data?.uid])
 
   const openFollowList = useCallback((kind) => {
     const profileUid = publicProfile.data?.uid
@@ -337,13 +354,14 @@ export default function App() {
           )}
         </header>
         {publicProfile.status === 'ready' ? (
-          <main className="public-profile-shell"><Profile isPublic user={{ displayName: data.displayName, photoURL: data.photoURL }} username={data.username} publicTop20={data.top20 || []} publicRecent={data.recent || []} stats={data.stats} social={social} onFollowers={() => openFollowList('followers')} onFollowing={() => openFollowList('following')} onFollow={data.uid !== diary.user?.uid ? async () => {
+          <main className="public-profile-shell"><Profile isPublic user={{ displayName: data.displayName, photoURL: data.photoURL }} username={data.username} publicTop20={data.top20 || []} publicRecent={data.recent || []} sharedEntries={sharedDiary?.entries} stats={data.stats} social={social} onFollowers={() => openFollowList('followers')} onFollowing={() => openFollowList('following')} onFollow={data.uid !== diary.user?.uid ? async () => {
             if (!diary.user) { openAuth('signin'); return }
-            const next = !social?.isFollowing
+            const previousStatus = social?.relationshipStatus || ''
+            const next = !previousStatus
             setSocial((current) => ({ ...(current || { followers: 0, following: 0 }), busy: true }))
             try {
               await setFollowing(data.uid, next)
-              setSocial((current) => ({ ...current, busy: false, isFollowing: next, followers: Math.max(0, current.followers + (next ? 1 : -1)) }))
+              setSocial((current) => ({ ...current, busy: false, relationshipStatus: next ? 'pending' : '', isFollowing: false, followers: Math.max(0, current.followers - (!next && previousStatus === 'accepted' ? 1 : 0)) }))
             } catch {
               setSocial((current) => ({ ...current, busy: false }))
             }
@@ -474,6 +492,16 @@ export default function App() {
                 updateUsername={diary.updateUsername}
                 onUsernameChanged={() => { window.history.replaceState({}, '', '/profile'); setPathname('/profile') }}
                 notify={notify}
+                followRequests={followRequests}
+                onResolveRequest={async (request, accept) => {
+                  try {
+                    await resolveFollowRequest(request.uid, accept)
+                    setFollowRequests((current) => current.filter((item) => item.uid !== request.uid))
+                    notify(accept ? `@${request.username} can now view your diary` : `Declined @${request.username}`)
+                  } catch (error) {
+                    notify(error?.message || 'Could not update this request')
+                  }
+                }}
               />
             )}
             {tab === 'settings' && (

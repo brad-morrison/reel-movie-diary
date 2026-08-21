@@ -37,14 +37,33 @@ service cloud.firestore {
     // Public social graph. A user can create and remove only relationships
     // where they are the follower; nobody can follow on another user's behalf.
     match /follows/{followId} {
-      allow read: if true;
+      allow read: if resource.data.status == 'accepted'
+        || (request.auth != null && (resource.data.followerUid == request.auth.uid || resource.data.followedUid == request.auth.uid));
       allow create: if request.auth != null
-        && request.resource.data.keys().hasOnly(['followerUid', 'followedUid', 'createdAt'])
+        && request.resource.data.keys().hasOnly(['followerUid', 'followedUid', 'status', 'createdAt'])
         && request.resource.data.followerUid == request.auth.uid
         && request.resource.data.followedUid != request.auth.uid
+        && request.resource.data.status == 'pending'
         && followId == request.auth.uid + '_' + request.resource.data.followedUid;
-      allow update: if false;
-      allow delete: if request.auth != null && resource.data.followerUid == request.auth.uid;
+      allow update: if request.auth != null
+        && resource.data.followedUid == request.auth.uid
+        && (resource.data.status == 'pending' || !resource.data.keys().hasAny(['status']))
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'acceptedAt'])
+        && request.resource.data.status == 'accepted';
+      allow delete: if request.auth != null
+        && (resource.data.followerUid == request.auth.uid || resource.data.followedUid == request.auth.uid);
+    }
+
+    // Sanitized diary projection available only to the owner and followers
+    // whose request the owner explicitly accepted.
+    match /sharedDiaries/{ownerUid} {
+      allow write: if request.auth != null
+        && request.auth.uid == ownerUid
+        && request.resource.data.ownerUid == ownerUid;
+      allow read: if request.auth != null && (
+        request.auth.uid == ownerUid
+        || get(/databases/$(database)/documents/follows/$(request.auth.uid + '_' + ownerUid)).data.status == 'accepted'
+      );
     }
   }
 }

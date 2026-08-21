@@ -14,7 +14,7 @@ function Poster({ entry }) {
     : <span className="profile-poster-fallback"><IconFilm size={22} /></span>
 }
 
-export default function Profile({ user, username, entries = [], publicTop20, publicRecent, watchlists = [], stats, social, isPublic = false, onFollow, onFollowers, onFollowing, onOpen, onSettings, updateAvatar, updateUsername, onUsernameChanged, notify }) {
+export default function Profile({ user, username, entries = [], publicTop20, publicRecent, sharedEntries, watchlists = [], stats, social, followRequests = [], isPublic = false, onFollow, onFollowers, onFollowing, onResolveRequest, onOpen, onSettings, updateAvatar, updateUsername, onUsernameChanged, notify }) {
   const avatarInput = useRef(null)
   const [uploading, setUploading] = useState(false)
   const [editingUsername, setEditingUsername] = useState(!username)
@@ -100,9 +100,11 @@ export default function Profile({ user, username, entries = [], publicTop20, pub
           <div className="profile-since"><IconCalendar size={14} /> {isPublic ? 'Reel member' : entries.length ? `Diary active · ${formatDate([...entries].sort((a, b) => (a.createdAt || a.watchedDate || '').localeCompare(b.createdAt || b.watchedDate || ''))[0]?.watchedDate)}` : 'Your diary is ready for its first watch'}</div>
           {isPublic && social && <div className="profile-social"><button type="button" onClick={onFollowers}><strong>{social.followers}</strong> followers</button><button type="button" onClick={onFollowing}><strong>{social.following}</strong> following</button></div>}
         </div>
-        {isPublic && onFollow && <button className={`btn profile-follow-button ${social?.isFollowing ? 'btn-ghost' : 'btn-primary'}`} type="button" onClick={onFollow} disabled={social?.busy}>{social?.busy ? 'Saving…' : social?.isFollowing ? 'Following' : 'Follow'}</button>}
+        {isPublic && onFollow && <button className={`btn profile-follow-button ${social?.relationshipStatus ? 'btn-ghost' : 'btn-primary'}`} type="button" onClick={onFollow} disabled={social?.busy}>{social?.busy ? 'Saving…' : social?.relationshipStatus === 'accepted' ? 'Following' : social?.relationshipStatus === 'pending' ? 'Requested' : 'Follow'}</button>}
         {!isPublic && <button className="btn btn-ghost profile-settings-button" type="button" onClick={onSettings}><IconSettings size={16} /> Settings</button>}
       </div>
+
+      {!isPublic && followRequests.length > 0 && <section className="profile-card profile-requests"><div className="profile-card-heading"><div><span>Private access</span><h2>Follow requests</h2></div><strong>{followRequests.length}</strong></div>{followRequests.map((request) => <div className="profile-request-row" key={request.uid}>{request.photoURL ? <img src={request.photoURL} alt="" referrerPolicy="no-referrer" /> : <span className="account-initial">{(request.displayName || request.username || '?')[0].toUpperCase()}</span>}<span><strong>{request.displayName || request.username}</strong><small>@{request.username} wants to follow you</small></span><div><button className="btn btn-primary" type="button" onClick={() => onResolveRequest(request, true)}>Accept</button><button className="btn btn-ghost" type="button" onClick={() => onResolveRequest(request, false)}>Decline</button></div></div>)}</section>}
 
       <div className="profile-stat-grid">
         <div><IconFilm size={18} /><strong>{stats?.watches ?? entries.length}</strong><span>Watches logged</span></div>
@@ -139,6 +141,7 @@ export default function Profile({ user, username, entries = [], publicTop20, pub
           )) : <p className="profile-empty">Your latest watches will appear here.</p>}
         </section>
       </div>
+      {isPublic && Array.isArray(sharedEntries) && <section className="profile-card shared-diary"><div className="profile-card-heading"><div><span>Follower access</span><h2>Full diary</h2></div><strong>{sharedEntries.length} watches</strong></div><div className="shared-diary-list">{[...sharedEntries].sort((a, b) => (b.watchedDate || b.createdAt || '').localeCompare(a.watchedDate || a.createdAt || '')).map((entry) => <article key={entry.id}><span className="shared-diary-poster"><Poster entry={entry} /></span><div><strong>{entry.title}</strong><small>{formatDate(entry.watchedDate)} · {entry.type === 'tv' ? 'TV' : 'Film'}{entry.year ? ` · ${entry.year}` : ''}</small>{(entry.review || entry.notes) && <p>{entry.review || entry.notes}</p>}</div>{Number(entry.rating) > 0 && <span className="profile-recent-score"><IconStar size={12} /> {entry.rating}</span>}</article>)}</div></section>}
     </section>
   )
 }
