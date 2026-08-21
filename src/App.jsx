@@ -131,8 +131,8 @@ export default function App() {
     return () => { active = false }
   }, [social?.relationshipStatus, publicProfile.data?.uid])
 
-  const openFollowList = useCallback((kind) => {
-    const profileUid = publicProfile.data?.uid
+  const openFollowList = useCallback((kind, requestedProfileUid) => {
+    const profileUid = requestedProfileUid || publicProfile.data?.uid
     if (!profileUid) return
     setFollowList({ kind, loading: true, profiles: [] })
     loadFollowProfiles(profileUid, kind)
@@ -287,7 +287,7 @@ export default function App() {
   const artworkEntry = artworkPicker?.kind === 'diary'
     ? diary.entries.find((entry) => entry.id === artworkPicker.itemId)
     : diary.watchlists.find((list) => list.id === artworkPicker?.listId)?.items.find((item) => item.id === artworkPicker?.itemId)
-  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || mobileMenuOpen
+  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || !!followList || mobileMenuOpen
 
   useEffect(() => {
     if (!modalOpen) return
@@ -493,6 +493,8 @@ export default function App() {
                 onUsernameChanged={() => { window.history.replaceState({}, '', '/profile'); setPathname('/profile') }}
                 notify={notify}
                 social={mySocial}
+                onFollowers={() => openFollowList('followers', diary.user.uid)}
+                onFollowing={() => openFollowList('following', diary.user.uid)}
                 followRequests={followRequests}
                 onResolveRequest={async (request, accept) => {
                   try {
@@ -531,6 +533,9 @@ export default function App() {
       </main>
 
       <AnimatePresence>
+        {followList && (
+          <FollowListModal key="follow-list-modal" kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />
+        )}
         {mobileMenuOpen && (
           <motion.div className="mobile-menu-overlay" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setMobileMenuOpen(false)}>
             <motion.aside className="mobile-menu" initial={{ x: '-100%' }} animate={{ x: 0 }} exit={{ x: '-100%' }} transition={{ type: 'spring', stiffness: 360, damping: 34 }} onClick={(e) => e.stopPropagation()}>
