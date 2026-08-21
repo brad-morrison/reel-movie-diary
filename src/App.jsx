@@ -4,6 +4,8 @@ import { useDiary } from './lib/store.js'
 import Library from './components/Library.jsx'
 import Stats from './components/Stats.jsx'
 import Settings from './components/Settings.jsx'
+import Profile from './components/Profile.jsx'
+import FollowListModal from './components/FollowListModal.jsx'
 import AddModal from './components/AddModal.jsx'
 import DetailModal from './components/DetailModal.jsx'
 import Top20Page from './components/Top20Page.jsx'
@@ -17,6 +19,7 @@ import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
 import ArtworkPickerModal from './components/ArtworkPickerModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
+import { loadFollowProfiles, loadFollowSummary, loadPublicProfile, setFollowing } from './lib/store.js'
 
 const TOP20_CAP = 20
 import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, IconX } from './lib/icons.jsx'
@@ -33,8 +36,9 @@ const ACTIVE_TAB_KEY = 'reel.activeTab.v1'
 
 function savedTab() {
   try {
+    if (/^\/(?:profile|@[a-z0-9_]+)\/?$/i.test(window.location.pathname)) return 'profile'
     const value = localStorage.getItem(ACTIVE_TAB_KEY)
-    return TABS.some((tab) => tab.key === value) ? value : 'diary'
+    return TABS.some((tab) => tab.key === value) || value === 'profile' ? value : 'diary'
   } catch {
     return 'diary'
   }
@@ -59,6 +63,81 @@ export default function App() {
   const [swapCandidate, setSwapCandidate] = useState(null)
   const [addSwapOutgoingId, setAddSwapOutgoingId] = useState(null)
   const [deferredSwap, setDeferredSwap] = useState(null)
+  const [publicProfile, setPublicProfile] = useState({ status: 'idle', data: null })
+  const [publicReload, setPublicReload] = useState(0)
+  const [authIntent, setAuthIntent] = useState('signin')
+  const [pathname, setPathname] = useState(() => window.location.pathname)
+  const [social, setSocial] = useState(null)
+  const [followList, setFollowList] = useState(null)
+  const routeUsername = pathname.match(/^\/@([a-z0-9_]+)\/?$/i)?.[1]?.toLowerCase() || ''
+
+  const selectTab = useCallback((nextTab) => {
+    if (pathname !== '/') window.history.pushState({}, '', '/')
+    setPathname('/')
+    setTab(nextTab)
+  }, [pathname])
+
+  const openProfile = useCallback(() => {
+    const path = '/profile'
+    if (pathname !== path) window.history.pushState({}, '', path)
+    setPathname(path)
+    setTab('profile')
+  }, [pathname])
+
+  useEffect(() => {
+    const handlePopState = () => {
+      setPathname(window.location.pathname)
+      setTab(/^\/(?:profile|@[a-z0-9_]+)\/?$/i.test(window.location.pathname) ? 'profile' : 'diary')
+    }
+    window.addEventListener('popstate', handlePopState)
+    return () => window.removeEventListener('popstate', handlePopState)
+  }, [])
+
+  const viewingPublicProfile = !!routeUsername
+  useEffect(() => {
+    if (!viewingPublicProfile) return
+    let active = true
+    setPublicProfile({ status: 'loading', data: null })
+    loadPublicProfile(routeUsername)
+      .then((data) => { if (active) setPublicProfile({ status: data ? 'ready' : 'missing', data }) })
+      .catch(() => { if (active) setPublicProfile({ status: 'error', data: null }) })
+    return () => { active = false }
+  }, [routeUsername, viewingPublicProfile, publicReload])
+
+  useEffect(() => {
+    const profileUid = publicProfile.data?.uid
+    if (publicProfile.status !== 'ready' || !profileUid) { setSocial(null); return }
+    let active = true
+    loadFollowSummary(profileUid, diary.user?.uid)
+      .then((summary) => { if (active) setSocial(summary) })
+      .catch(() => { if (active) setSocial({ followers: 0, following: 0, isFollowing: false, error: true }) })
+    return () => { active = false }
+  }, [publicProfile.status, publicProfile.data?.uid, diary.user?.uid])
+
+  const openFollowList = useCallback((kind) => {
+    const profileUid = publicProfile.data?.uid
+    if (!profileUid) return
+    setFollowList({ kind, loading: true, profiles: [] })
+    loadFollowProfiles(profileUid, kind)
+      .then((profiles) => setFollowList({ kind, loading: false, profiles }))
+      .catch(() => setFollowList({ kind, loading: false, profiles: [] }))
+  }, [publicProfile.data?.uid])
+
+  const visitPublicProfile = useCallback((username) => {
+    const path = `/@${username}`
+    window.history.pushState({}, '', path)
+    setPathname(path)
+    setTab('profile')
+    setFollowList(null)
+    setPublicProfile({ status: 'loading', data: null })
+  }, [])
+
+  const openAuth = useCallback((mode) => {
+    setAuthIntent(mode)
+    window.history.pushState({}, '', '/')
+    setPathname('/')
+    setTab('diary')
+  }, [])
 
   useEffect(() => {
     document.documentElement.dataset.theme = diary.settings.theme === 'light' ? 'light' : 'dark'
@@ -220,10 +299,72 @@ export default function App() {
     diary.setSettings((s) => ({ ...s, people: s.people.some((x) => x.toLowerCase() === p.toLowerCase()) ? s.people : [...s.people, p] }))
   }, [diary])
 
+  if (viewingPublicProfile) {
+    const data = publicProfile.data
+    return (
+      <div className="app public-app">
+        <header className="header public-header">
+          <button className="brand public-brand" type="button" onClick={() => diary.user ? selectTab('diary') : openAuth('signin')} aria-label="Reel home">
+            <span className="brand-mark"><IconFilm size={22} color="#14110a" /></span>
+            <span className="brand-name">Reel<span className="dot">.</span></span>
+          </button>
+          {diary.authReady && diary.user && (
+            <>
+              <button className="mobile-menu-button" onClick={() => { selectTab('diary'); setMobileMenuOpen(true) }} aria-label="Open navigation">
+                <span /><span /><span />
+              </button>
+              <nav className="nav" aria-label="Account navigation">
+                {TABS.map((item) => <button key={item.key} onClick={() => selectTab(item.key)}>{item.label}</button>)}
+              </nav>
+            </>
+          )}
+          <div className="header-spacer" />
+          {diary.authReady && diary.user ? (
+            <>
+              <button className="account-chip" onClick={openProfile} aria-label="Open my profile" title={`Synced as ${diary.user.email || diary.user.displayName}`}>
+                {diary.user.photoURL
+                  ? <img src={diary.user.photoURL} alt="" referrerPolicy="no-referrer" />
+                  : <span className="account-initial">{(diary.user.displayName || diary.user.email || '?')[0].toUpperCase()}</span>}
+                <span className={`sync-dot ${diary.syncStatus}`} />
+              </button>
+              <button className="btn btn-primary" type="button" onClick={() => { selectTab('diary'); setAdding(true) }}><IconPlus size={17} /> <span className="add-label">Add watch</span></button>
+            </>
+          ) : (
+            <div className="public-auth-actions">
+              <button className="btn btn-ghost" type="button" onClick={() => openAuth('signin')}>Log in</button>
+              <button className="btn btn-primary" type="button" onClick={() => openAuth('create')}>Create account</button>
+            </div>
+          )}
+        </header>
+        {publicProfile.status === 'ready' ? (
+          <main className="public-profile-shell"><Profile isPublic user={{ displayName: data.displayName, photoURL: data.photoURL }} username={data.username} publicTop20={data.top20 || []} publicRecent={data.recent || []} stats={data.stats} social={social} onFollowers={() => openFollowList('followers')} onFollowing={() => openFollowList('following')} onFollow={data.uid !== diary.user?.uid ? async () => {
+            if (!diary.user) { openAuth('signin'); return }
+            const next = !social?.isFollowing
+            setSocial((current) => ({ ...(current || { followers: 0, following: 0 }), busy: true }))
+            try {
+              await setFollowing(data.uid, next)
+              setSocial((current) => ({ ...current, busy: false, isFollowing: next, followers: Math.max(0, current.followers + (next ? 1 : -1)) }))
+            } catch {
+              setSocial((current) => ({ ...current, busy: false }))
+            }
+          } : null} /></main>
+        ) : publicProfile.status === 'missing' ? (
+          <main className="public-profile-message"><h1>Profile not found</h1><p>There’s no public Reel profile at /@{routeUsername}.</p></main>
+        ) : publicProfile.status === 'error' ? (
+          <main className="public-profile-message"><h1>Couldn’t load this profile</h1><p>Check your connection and try again.</p><button className="btn btn-primary" type="button" onClick={() => setPublicReload((value) => value + 1)}>Try again</button></main>
+        ) : (
+          <main className="public-profile-loading"><span className="public-profile-loader" /><span>Loading @{routeUsername}</span></main>
+        )}
+        <AnimatePresence>{followList && <FollowListModal kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />}</AnimatePresence>
+      </div>
+    )
+  }
+
   if (diary.cloudEnabled && !diary.authReady) return <AuthLoading />
   if (diary.cloudEnabled && !diary.user) {
     return (
       <AuthPage
+        initialMode={authIntent}
         onGoogle={diary.signIn}
         onSignIn={diary.signInEmail}
         onCreateAccount={diary.createAccount}
@@ -249,7 +390,7 @@ export default function App() {
 
         <nav className="nav">
           {TABS.map((t) => (
-            <button key={t.key} className={tab === t.key ? 'active' : ''} onClick={() => setTab(t.key)}>
+            <button key={t.key} className={tab === t.key ? 'active' : ''} onClick={() => selectTab(t.key)}>
               {tab === t.key && <span className="pill" />}
               {t.label}
             </button>
@@ -264,7 +405,8 @@ export default function App() {
           ) : diary.user ? (
             <button
               className="account-chip"
-              onClick={() => setTab('settings')}
+              onClick={openProfile}
+              aria-label="Open profile"
               title={`Synced as ${diary.user.email || diary.user.displayName}`}
             >
               {diary.user.photoURL ? (
@@ -320,6 +462,20 @@ export default function App() {
               <Top20Page entries={top20} onOpen={setDetail} onReorder={diary.reorderTop20} />
             )}
             {tab === 'stats' && <Stats entries={diary.entries} tmdbKey={diary.settings.tmdbKey} onUpdate={diary.updateEntry} />}
+            {tab === 'profile' && (
+              <Profile
+                user={diary.user}
+                username={diary.settings.username}
+                entries={diary.entries}
+                watchlists={diary.watchlists}
+                onOpen={setDetail}
+                onSettings={() => selectTab('settings')}
+                updateAvatar={diary.user ? diary.updateAvatar : null}
+                updateUsername={diary.updateUsername}
+                onUsernameChanged={() => { window.history.replaceState({}, '', '/profile'); setPathname('/profile') }}
+                notify={notify}
+              />
+            )}
             {tab === 'settings' && (
               <Settings
                 settings={diary.settings}
@@ -358,7 +514,7 @@ export default function App() {
               </div>
               <nav className="mobile-menu-nav" aria-label="Mobile navigation">
                 {TABS.map((item) => (
-                  <button key={item.key} className={tab === item.key ? 'active' : ''} onClick={() => { setTab(item.key); setMobileMenuOpen(false) }}>
+                  <button key={item.key} className={tab === item.key ? 'active' : ''} onClick={() => { selectTab(item.key); setMobileMenuOpen(false) }}>
                     <span>{item.label}</span>
                     {tab === item.key && <span className="mobile-menu-current">Current</span>}
                   </button>

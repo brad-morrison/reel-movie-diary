@@ -14,8 +14,8 @@ function authMessage(error) {
   return error?.message || 'Something went wrong. Please try again.'
 }
 
-export default function AuthPage({ onGoogle, onSignIn, onCreateAccount, onResetPassword }) {
-  const [mode, setMode] = useState('signin')
+export default function AuthPage({ onGoogle, onSignIn, onCreateAccount, onResetPassword, initialMode = 'signin' }) {
+  const [mode, setMode] = useState(initialMode)
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
