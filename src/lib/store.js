@@ -95,6 +95,25 @@ export async function loadFollowSummary(profileUid, viewerUid) {
   }
 }
 
+export function subscribeFollowSummary(profileUid, viewerUid, onChange, onError = () => {}) {
+  if (!db || !profileUid) return () => {}
+  const state = { followers: 0, following: 0, relationshipStatus: '', isFollowing: false }
+  const emit = () => onChange({ ...state })
+  const follows = collection(db, 'follows')
+  const unsubscribers = [
+    onSnapshot(query(follows, where('followedUid', '==', profileUid), where('status', '==', 'accepted')), (snapshot) => { state.followers = snapshot.size; emit() }, onError),
+    onSnapshot(query(follows, where('followerUid', '==', profileUid), where('status', '==', 'accepted')), (snapshot) => { state.following = snapshot.size; emit() }, onError),
+  ]
+  if (viewerUid && viewerUid !== profileUid) {
+    unsubscribers.push(onSnapshot(doc(db, 'follows', followId(viewerUid, profileUid)), (snapshot) => {
+      state.relationshipStatus = snapshot.exists() ? (snapshot.data()?.status || 'pending') : ''
+      state.isFollowing = state.relationshipStatus === 'accepted'
+      emit()
+    }, onError))
+  }
+  return () => unsubscribers.forEach((unsubscribe) => unsubscribe())
+}
+
 export async function setFollowing(profileUid, shouldFollow) {
   const viewer = auth?.currentUser
   if (!viewer) throw new Error('Sign in to follow people')
@@ -132,6 +151,24 @@ export async function loadFollowRequests(profileUid) {
     profiles.push(...matches.docs.map((item) => item.data()))
   }
   return profiles
+}
+
+export function subscribeFollowRequests(profileUid, onChange, onError = () => {}) {
+  if (!db || !profileUid) return () => {}
+  let sequence = 0
+  return onSnapshot(query(collection(db, 'follows'), where('followedUid', '==', profileUid)), async (snapshot) => {
+    const currentSequence = ++sequence
+    const uids = snapshot.docs.filter((item) => (item.data()?.status || 'pending') === 'pending').map((item) => item.data().followerUid)
+    if (!uids.length) { onChange([]); return }
+    try {
+      const profiles = []
+      for (let index = 0; index < uids.length; index += 30) {
+        const matches = await getDocs(query(collection(db, 'publicProfiles'), where('uid', 'in', uids.slice(index, index + 30))))
+        profiles.push(...matches.docs.map((item) => item.data()))
+      }
+      if (currentSequence === sequence) onChange(profiles)
+    } catch (error) { onError(error) }
+  }, onError)
 }
 
 export async function resolveFollowRequest(followerUid, accept) {

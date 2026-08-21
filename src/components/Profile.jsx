@@ -98,7 +98,7 @@ export default function Profile({ user, username, entries = [], publicTop20, pub
             </form>
           ) : null}
           <div className="profile-since"><IconCalendar size={14} /> {isPublic ? 'Reel member' : entries.length ? `Diary active · ${formatDate([...entries].sort((a, b) => (a.createdAt || a.watchedDate || '').localeCompare(b.createdAt || b.watchedDate || ''))[0]?.watchedDate)}` : 'Your diary is ready for its first watch'}</div>
-          {isPublic && social && <div className="profile-social"><button type="button" onClick={onFollowers}><strong>{social.followers}</strong> followers</button><button type="button" onClick={onFollowing}><strong>{social.following}</strong> following</button></div>}
+          {social && <div className="profile-social"><button type="button" onClick={onFollowers} disabled={!onFollowers}><strong>{social.followers}</strong> followers</button><button type="button" onClick={onFollowing} disabled={!onFollowing}><strong>{social.following}</strong> following</button></div>}
         </div>
         {isPublic && onFollow && <button className={`btn profile-follow-button ${social?.relationshipStatus ? 'btn-ghost' : 'btn-primary'}`} type="button" onClick={onFollow} disabled={social?.busy}>{social?.busy ? 'Saving…' : social?.relationshipStatus === 'accepted' ? 'Following' : social?.relationshipStatus === 'pending' ? 'Requested' : 'Follow'}</button>}
         {!isPublic && <button className="btn btn-ghost profile-settings-button" type="button" onClick={onSettings}><IconSettings size={16} /> Settings</button>}

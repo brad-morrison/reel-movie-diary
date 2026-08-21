@@ -19,7 +19,7 @@ import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
 import ArtworkPickerModal from './components/ArtworkPickerModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
-import { loadFollowProfiles, loadFollowRequests, loadFollowSummary, loadPublicProfile, loadSharedDiary, resolveFollowRequest, setFollowing } from './lib/store.js'
+import { loadFollowProfiles, loadPublicProfile, loadSharedDiary, resolveFollowRequest, setFollowing, subscribeFollowRequests, subscribeFollowSummary } from './lib/store.js'
 
 const TOP20_CAP = 20
 import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, IconX } from './lib/icons.jsx'
@@ -71,6 +71,7 @@ export default function App() {
   const [followList, setFollowList] = useState(null)
   const [followRequests, setFollowRequests] = useState([])
   const [sharedDiary, setSharedDiary] = useState(null)
+  const [mySocial, setMySocial] = useState(null)
   const routeUsername = pathname.match(/^\/@([a-z0-9_]+)\/?$/i)?.[1]?.toLowerCase() || ''
 
   const selectTab = useCallback((nextTab) => {
@@ -109,19 +110,18 @@ export default function App() {
   useEffect(() => {
     const profileUid = publicProfile.data?.uid
     if (publicProfile.status !== 'ready' || !profileUid) { setSocial(null); return }
-    let active = true
-    loadFollowSummary(profileUid, diary.user?.uid)
-      .then((summary) => { if (active) setSocial(summary) })
-      .catch(() => { if (active) setSocial({ followers: 0, following: 0, isFollowing: false, error: true }) })
-    return () => { active = false }
+    return subscribeFollowSummary(profileUid, diary.user?.uid, setSocial, () => setSocial((current) => current || { followers: 0, following: 0, relationshipStatus: '', isFollowing: false, error: true }))
   }, [publicProfile.status, publicProfile.data?.uid, diary.user?.uid])
 
   useEffect(() => {
     if (!diary.user || !diary.cloudLoaded) return
-    let active = true
-    loadFollowRequests(diary.user.uid).then((requests) => { if (active) setFollowRequests(requests) }).catch(() => {})
-    return () => { active = false }
-  }, [diary.user?.uid, diary.cloudLoaded, pathname])
+    return subscribeFollowRequests(diary.user.uid, setFollowRequests)
+  }, [diary.user?.uid, diary.cloudLoaded])
+
+  useEffect(() => {
+    if (!diary.user || !diary.cloudLoaded) { setMySocial(null); return }
+    return subscribeFollowSummary(diary.user.uid, diary.user.uid, setMySocial)
+  }, [diary.user?.uid, diary.cloudLoaded])
 
   useEffect(() => {
     setSharedDiary(null)
@@ -492,6 +492,7 @@ export default function App() {
                 updateUsername={diary.updateUsername}
                 onUsernameChanged={() => { window.history.replaceState({}, '', '/profile'); setPathname('/profile') }}
                 notify={notify}
+                social={mySocial}
                 followRequests={followRequests}
                 onResolveRequest={async (request, accept) => {
                   try {
