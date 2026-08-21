@@ -1202,6 +1202,14 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .profile-identity { min-width: 0; }
 .profile-kicker, .profile-card-heading span { color: var(--gold); font-size: 10px; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
 .profile-identity h1 { margin-top: 5px; font-size: clamp(35px, 5vw, 56px); font-weight: 600; line-height: 1; letter-spacing: -.035em; }
+.profile-name-edit { margin-left: 11px; vertical-align: middle; color: var(--gold); font-size: 10px; font-weight: 800; letter-spacing: 0; opacity: 0; transition: opacity .18s; }
+.profile-identity h1:hover .profile-name-edit, .profile-name-edit:focus-visible { opacity: 1; }
+.profile-name-form { width: min(100%, 350px); margin-top: 8px; }
+.profile-name-form label { display: block; margin-bottom: 6px; color: var(--text-faint); font-size: 9px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.profile-name-form > div { display: flex; align-items: center; overflow: hidden; border: 1px solid var(--border-strong); border-radius: 11px; background: var(--surface-2); }
+.profile-name-form input { min-width: 0; flex: 1; padding: 11px 12px; border: 0; border-radius: 0; background: transparent; box-shadow: none; font-size: 15px; }
+.profile-name-form button { display: grid; width: 38px; height: 38px; flex: none; place-items: center; color: var(--gold); }
+.profile-name-form button:disabled { cursor: default; color: var(--text-faint); opacity: .5; }
 .profile-identity > p { overflow: hidden; margin-top: 10px; color: var(--text-dim); font-size: 14px; text-overflow: ellipsis; }
 .profile-handle { display: flex; align-items: center; gap: 8px; margin-top: 10px; color: var(--text-dim); font-size: 14px; }
 .profile-handle span { color: var(--gold); font-size: 10px; font-weight: 800; opacity: 0; transition: opacity .18s; }
@@ -1437,6 +1445,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 
 @media (max-width: 720px) {
   .header-user-search { display: none; }
+  .profile-name-edit { opacity: 1; }
   .public-header { gap: 10px; padding: 12px 14px; }
   .public-header .brand { gap: 8px; }
   .public-header .brand-mark { width: 36px; height: 36px; }

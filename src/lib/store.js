@@ -538,6 +538,22 @@ export function useDiary() {
     return photoURL
   }, [])
 
+  const updateDisplayName = useCallback(async (value) => {
+    if (!auth.currentUser) throw new Error('Sign in before changing your profile name')
+    const displayName = value.trim().replace(/\s+/g, ' ')
+    if (!displayName) throw new Error('Enter a profile name')
+    if (displayName.length > 50) throw new Error('Use no more than 50 characters')
+    await updateProfile(auth.currentUser, { displayName })
+    setUser({
+      ...auth.currentUser,
+      uid: auth.currentUser.uid,
+      email: auth.currentUser.email,
+      displayName,
+      photoURL: auth.currentUser.photoURL,
+    })
+    return displayName
+  }, [])
+
   const updateUsername = useCallback(async (value) => {
     if (!auth.currentUser || !db) throw new Error('Sign in before choosing a username')
     const username = normalizeUsername(value)
@@ -795,6 +811,7 @@ export function useDiary() {
     signOut,
     saveToCloud,
     updateAvatar,
+    updateDisplayName,
     updateUsername,
     uploadPoster,
   }

@@ -14,13 +14,16 @@ function Poster({ entry }) {
     : <span className="profile-poster-fallback"><IconFilm size={22} /></span>
 }
 
-export default function Profile({ user, username, entries = [], publicTop20, publicRecent, sharedEntries, watchlists = [], stats, social, followRequests = [], isPublic = false, onFollow, onFollowers, onFollowing, onResolveRequest, onOpen, onSettings, updateAvatar, updateUsername, onUsernameChanged, notify }) {
+export default function Profile({ user, username, entries = [], publicTop20, publicRecent, sharedEntries, watchlists = [], stats, social, followRequests = [], isPublic = false, onFollow, onFollowers, onFollowing, onResolveRequest, onOpen, onSettings, updateAvatar, updateDisplayName, updateUsername, onUsernameChanged, notify }) {
   const avatarInput = useRef(null)
   const [uploading, setUploading] = useState(false)
   const [editingUsername, setEditingUsername] = useState(!username)
   const [usernameInput, setUsernameInput] = useState(username || '')
   const [usernameStatus, setUsernameStatus] = useState('')
   const [savingUsername, setSavingUsername] = useState(false)
+  const [editingName, setEditingName] = useState(false)
+  const [nameInput, setNameInput] = useState(user?.displayName || '')
+  const [savingName, setSavingName] = useState(false)
   const uniqueTitles = stats?.uniqueTitles ?? new Set(entries.map((entry) => `${entry.type || 'movie'}:${entry.title?.toLowerCase()}:${entry.year || ''}`)).size
   const rated = entries.filter((entry) => Number(entry.rating) > 0)
   const averageRating = stats?.averageRating ?? (rated.length ? (rated.reduce((sum, entry) => sum + Number(entry.rating), 0) / rated.length).toFixed(1) : '—')
@@ -65,6 +68,21 @@ export default function Profile({ user, username, entries = [], publicTop20, pub
     }
   }
 
+  async function saveDisplayName(event) {
+    event.preventDefault()
+    setSavingName(true)
+    try {
+      const saved = await updateDisplayName(nameInput)
+      setNameInput(saved)
+      setEditingName(false)
+      notify('Profile name updated')
+    } catch (error) {
+      notify(error?.message || 'Could not update profile name')
+    } finally {
+      setSavingName(false)
+    }
+  }
+
   return (
     <section className="profile-page">
       <div className="profile-hero">
@@ -84,7 +102,15 @@ export default function Profile({ user, username, entries = [], publicTop20, pub
         </div>
         <div className="profile-identity">
           <span className="profile-kicker">{isPublic ? `@${username}` : 'My Reel profile'}</span>
-          <h1>{displayName}</h1>
+          {!isPublic && editingName ? (
+            <form className="profile-name-form" onSubmit={saveDisplayName}>
+              <label htmlFor="profile-display-name">Profile name</label>
+              <div><input id="profile-display-name" value={nameInput} onChange={(event) => setNameInput(event.target.value)} autoFocus maxLength={50} />
+                <button type="submit" disabled={!nameInput.trim() || savingName} aria-label="Save profile name">{savingName ? '…' : <IconCheck size={16} />}</button>
+                <button type="button" onClick={() => { setEditingName(false); setNameInput(user?.displayName || '') }} aria-label="Cancel"><IconX size={16} /></button>
+              </div>
+            </form>
+          ) : <h1>{displayName}{!isPublic && updateDisplayName && <button className="profile-name-edit" type="button" onClick={() => { setNameInput(user?.displayName || ''); setEditingName(true) }}>Edit</button>}</h1>}
           {!isPublic && username && !editingUsername ? (
             <button className="profile-handle" type="button" onClick={() => { setUsernameInput(username); setEditingUsername(true); setUsernameStatus('') }}>@{username} <span>Edit</span></button>
           ) : !isPublic ? (

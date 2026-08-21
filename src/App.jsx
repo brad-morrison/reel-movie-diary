@@ -497,6 +497,7 @@ export default function App() {
                 onOpen={setDetail}
                 onSettings={() => selectTab('settings')}
                 updateAvatar={diary.user ? diary.updateAvatar : null}
+                updateDisplayName={diary.updateDisplayName}
                 updateUsername={diary.updateUsername}
                 onUsernameChanged={() => { window.history.replaceState({}, '', '/profile'); setPathname('/profile') }}
                 notify={notify}
