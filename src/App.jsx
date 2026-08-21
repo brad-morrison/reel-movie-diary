@@ -6,6 +6,7 @@ import Stats from './components/Stats.jsx'
 import Settings from './components/Settings.jsx'
 import Profile from './components/Profile.jsx'
 import FollowListModal from './components/FollowListModal.jsx'
+import UserSearchModal from './components/UserSearchModal.jsx'
 import AddModal from './components/AddModal.jsx'
 import DetailModal from './components/DetailModal.jsx'
 import Top20Page from './components/Top20Page.jsx'
@@ -22,7 +23,7 @@ import { movieKey } from './lib/store.js'
 import { loadFollowProfiles, loadPublicProfile, loadSharedDiary, resolveFollowRequest, setFollowing, subscribeFollowRequests, subscribeFollowSummary } from './lib/store.js'
 
 const TOP20_CAP = 20
-import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, IconX } from './lib/icons.jsx'
+import { IconPlus, IconFilm, IconChart, IconSettings, IconCrown, IconCloud, IconSearch, IconX } from './lib/icons.jsx'
 
 const TABS = [
   { key: 'diary', label: 'Diary' },
@@ -69,6 +70,7 @@ export default function App() {
   const [pathname, setPathname] = useState(() => window.location.pathname)
   const [social, setSocial] = useState(null)
   const [followList, setFollowList] = useState(null)
+  const [searchingUsers, setSearchingUsers] = useState(false)
   const [followRequests, setFollowRequests] = useState([])
   const [sharedDiary, setSharedDiary] = useState(null)
   const [mySocial, setMySocial] = useState(null)
@@ -287,7 +289,7 @@ export default function App() {
   const artworkEntry = artworkPicker?.kind === 'diary'
     ? diary.entries.find((entry) => entry.id === artworkPicker.itemId)
     : diary.watchlists.find((list) => list.id === artworkPicker?.listId)?.items.find((item) => item.id === artworkPicker?.itemId)
-  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || !!followList || mobileMenuOpen
+  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || !!followList || searchingUsers || mobileMenuOpen
 
   useEffect(() => {
     if (!modalOpen) return
@@ -336,6 +338,7 @@ export default function App() {
             </>
           )}
           <div className="header-spacer" />
+          <button className="header-user-search" type="button" onClick={() => setSearchingUsers(true)} aria-label="Search for users" title="Find people"><IconSearch size={18} /><span>Find people</span></button>
           {diary.authReady && diary.user ? (
             <>
               <button className="account-chip" onClick={openProfile} aria-label="Open my profile" title={`Synced as ${diary.user.email || diary.user.displayName}`}>
@@ -373,7 +376,10 @@ export default function App() {
         ) : (
           <main className="public-profile-loading"><span className="public-profile-loader" /><span>Loading @{routeUsername}</span></main>
         )}
-        <AnimatePresence>{followList && <FollowListModal kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />}</AnimatePresence>
+        <AnimatePresence>
+          {searchingUsers && <UserSearchModal key="user-search-modal" onClose={() => setSearchingUsers(false)} onSelect={(username) => { setSearchingUsers(false); visitPublicProfile(username) }} />}
+          {followList && <FollowListModal key="follow-list-modal" kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />}
+        </AnimatePresence>
       </div>
     )
   }
@@ -416,6 +422,8 @@ export default function App() {
         </nav>
 
         <div className="header-spacer" />
+
+        <button className="header-user-search" type="button" onClick={() => setSearchingUsers(true)} aria-label="Search for users" title="Find people"><IconSearch size={18} /><span>Find people</span></button>
 
         {diary.cloudEnabled && (
           !diary.authReady ? (
@@ -533,6 +541,9 @@ export default function App() {
       </main>
 
       <AnimatePresence>
+        {searchingUsers && (
+          <UserSearchModal key="user-search-modal" onClose={() => setSearchingUsers(false)} onSelect={(username) => { setSearchingUsers(false); visitPublicProfile(username) }} />
+        )}
         {followList && (
           <FollowListModal key="follow-list-modal" kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />
         )}
@@ -547,6 +558,7 @@ export default function App() {
                 <button className="icon-btn" onClick={() => setMobileMenuOpen(false)} aria-label="Close navigation"><IconX size={19} /></button>
               </div>
               <nav className="mobile-menu-nav" aria-label="Mobile navigation">
+                <button type="button" onClick={() => { setMobileMenuOpen(false); setSearchingUsers(true) }}>Find people <IconSearch size={18} /></button>
                 {TABS.map((item) => (
                   <button key={item.key} className={tab === item.key ? 'active' : ''} onClick={() => { selectTab(item.key); setMobileMenuOpen(false) }}>
                     <span>{item.label}</span>

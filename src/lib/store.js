@@ -10,7 +10,7 @@ import {
   signOut as fbSignOut,
   updateProfile,
 } from 'firebase/auth'
-import { collection, deleteDoc, doc, getDoc, getDocFromServer, getDocs, onSnapshot, query, runTransaction, setDoc, serverTimestamp, updateDoc, where } from 'firebase/firestore'
+import { collection, deleteDoc, doc, endAt, getDoc, getDocFromServer, getDocs, limit, onSnapshot, orderBy, query, runTransaction, setDoc, serverTimestamp, startAt, updateDoc, where } from 'firebase/firestore'
 import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
 import { SAMPLE_ENTRIES } from './sample.js'
 import { collectCatalogs } from './csv.js'
@@ -74,6 +74,20 @@ export async function loadPublicProfile(username) {
   if (!db) return null
   const snapshot = await getDocFromServer(doc(db, 'publicProfiles', normalizeUsername(username)))
   return snapshot.exists() ? snapshot.data() : null
+}
+
+export async function searchPublicProfiles(value) {
+  if (!db) return []
+  const username = normalizeUsername(value).replace(/[^a-z0-9_]/g, '')
+  if (!username) return []
+  const snapshot = await getDocs(query(
+    collection(db, 'publicProfiles'),
+    orderBy('username'),
+    startAt(username),
+    endAt(`${username}\uf8ff`),
+    limit(20),
+  ))
+  return snapshot.docs.map((item) => item.data())
 }
 
 const followId = (followerUid, followedUid) => `${followerUid}_${followedUid}`

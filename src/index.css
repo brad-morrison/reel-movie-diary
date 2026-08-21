@@ -221,6 +221,8 @@ input::placeholder, textarea::placeholder { color: var(--text-faint); }
 }
 
 .header-spacer { flex: 1; }
+.header-user-search { display: flex; align-items: center; gap: 7px; padding: 9px 12px; border: 1px solid var(--border); border-radius: 11px; color: var(--text-dim); background: var(--surface); font-size: 13px; font-weight: 650; }
+.header-user-search:hover { color: var(--text); border-color: var(--border-strong); background: var(--surface-2); }
 
 /* Sync chip + dot */
 .sync-chip {
@@ -1262,6 +1264,10 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 .follow-person strong { font-size: 13px; }
 .follow-person small { margin-top: 3px; color: var(--text-faint); font-size: 10px; }
 .follow-list-empty { padding: 34px 10px; color: var(--text-dim); font-size: 13px; text-align: center; }
+.user-search-field { position: relative; display: flex; align-items: center; margin: 16px 14px 6px; }
+.user-search-field svg { position: absolute; left: 14px; color: var(--text-faint); pointer-events: none; }
+.user-search-field > span { position: absolute; left: 42px; color: var(--gold); font-weight: 750; pointer-events: none; }
+.user-search-field input { width: 100%; padding: 12px 14px 12px 59px; }
 .profile-requests { margin: 0; }
 .profile-requests .profile-card-heading > strong { display: grid; width: 28px; height: 28px; place-items: center; border-radius: 50%; color: #17120a; background: var(--gold); font-size: 12px; }
 .profile-request-row { display: flex; align-items: center; gap: 13px; padding: 12px 0; border-top: 1px solid var(--border); }
@@ -1430,6 +1436,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0
 }
 
 @media (max-width: 720px) {
+  .header-user-search { display: none; }
   .public-header { gap: 10px; padding: 12px 14px; }
   .public-header .brand { gap: 8px; }
   .public-header .brand-mark { width: 36px; height: 36px; }
