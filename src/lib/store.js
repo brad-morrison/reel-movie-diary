@@ -10,7 +10,7 @@ import {
   signOut as fbSignOut,
   updateProfile,
 } from 'firebase/auth'
-import { doc, onSnapshot, setDoc, serverTimestamp } from 'firebase/firestore'
+import { collection, deleteDoc, doc, getCountFromServer, getDoc, getDocFromServer, getDocs, onSnapshot, query, runTransaction, setDoc, serverTimestamp, where } from 'firebase/firestore'
 import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
 import { SAMPLE_ENTRIES } from './sample.js'
 import { collectCatalogs } from './csv.js'
@@ -19,9 +19,100 @@ import { uploadPosterImage, uploadProfileImage } from './uploads.js'
 const ENTRIES_KEY = 'reel.entries.v1'
 const SETTINGS_KEY = 'reel.settings.v1'
 const WATCHLIST_KEY = 'reel.watchlist.v1'
+const ACCOUNT_CACHE_PREFIX = 'reel.account.v1.'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
 const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10 }
+
+export const normalizeUsername = (value = '') => value.trim().toLowerCase().replace(/^@+/, '')
+
+export function usernameError(value) {
+  const username = normalizeUsername(value)
+  if (username.length < 3) return 'Use at least 3 characters'
+  if (username.length > 24) return 'Use no more than 24 characters'
+  if (!/^[a-z0-9_]+$/.test(username)) return 'Use letters, numbers, and underscores only'
+  if (/^[_]|[_]$/.test(username)) return 'A username cannot start or end with an underscore'
+  return ''
+}
+
+function publicEntry(entry) {
+  return {
+    id: entry.id,
+    title: entry.title || '',
+    year: entry.year || '',
+    type: entry.type || 'movie',
+    poster: entry.poster || '',
+    rating: Number(entry.rating) || 0,
+    watchedDate: entry.watchedDate || '',
+    top20: !!entry.top20,
+    top20Rank: entry.top20Rank || null,
+  }
+}
+
+function publicProfilePayload(user, username, entries, watchlists) {
+  const uniqueTitles = new Set(entries.map((entry) => movieKey(entry))).size
+  const rated = entries.filter((entry) => Number(entry.rating) > 0)
+  const top20 = entries.filter((entry) => entry.top20).sort((a, b) => (a.top20Rank || 99) - (b.top20Rank || 99)).slice(0, 20).map(publicEntry)
+  const recent = [...entries].sort((a, b) => (b.watchedDate || b.createdAt || '').localeCompare(a.watchedDate || a.createdAt || '')).slice(0, 5).map(publicEntry)
+  return {
+    uid: user.uid,
+    username,
+    displayName: user.displayName || user.email?.split('@')[0] || 'Film lover',
+    photoURL: user.photoURL || '',
+    stats: {
+      watches: entries.length,
+      uniqueTitles,
+      averageRating: rated.length ? Number((rated.reduce((sum, entry) => sum + Number(entry.rating), 0) / rated.length).toFixed(1)) : null,
+      watchlistCount: watchlists.reduce((sum, list) => sum + list.items.length, 0),
+    },
+    top20,
+    recent,
+  }
+}
+
+export async function loadPublicProfile(username) {
+  if (!db) return null
+  const snapshot = await getDocFromServer(doc(db, 'publicProfiles', normalizeUsername(username)))
+  return snapshot.exists() ? snapshot.data() : null
+}
+
+const followId = (followerUid, followedUid) => `${followerUid}_${followedUid}`
+
+export async function loadFollowSummary(profileUid, viewerUid) {
+  if (!db || !profileUid) return { followers: 0, following: 0, isFollowing: false }
+  const follows = collection(db, 'follows')
+  const [followers, following, relationship] = await Promise.all([
+    getCountFromServer(query(follows, where('followedUid', '==', profileUid))),
+    getCountFromServer(query(follows, where('followerUid', '==', profileUid))),
+    viewerUid && viewerUid !== profileUid ? getDoc(doc(db, 'follows', followId(viewerUid, profileUid))) : null,
+  ])
+  return { followers: followers.data().count, following: following.data().count, isFollowing: !!relationship?.exists() }
+}
+
+export async function setFollowing(profileUid, shouldFollow) {
+  const viewer = auth?.currentUser
+  if (!viewer) throw new Error('Sign in to follow people')
+  if (viewer.uid === profileUid) throw new Error('You cannot follow yourself')
+  const ref = doc(db, 'follows', followId(viewer.uid, profileUid))
+  if (shouldFollow) await setDoc(ref, { followerUid: viewer.uid, followedUid: profileUid, createdAt: serverTimestamp() })
+  else await deleteDoc(ref)
+  return shouldFollow
+}
+
+export async function loadFollowProfiles(profileUid, kind) {
+  if (!db || !profileUid) return []
+  const isFollowers = kind === 'followers'
+  const snapshot = await getDocs(query(collection(db, 'follows'), where(isFollowers ? 'followedUid' : 'followerUid', '==', profileUid)))
+  const uids = [...new Set(snapshot.docs.map((item) => item.data()?.[isFollowers ? 'followerUid' : 'followedUid']).filter(Boolean))]
+  if (!uids.length) return []
+  const profiles = []
+  for (let index = 0; index < uids.length; index += 30) {
+    const chunk = uids.slice(index, index + 30)
+    const matches = await getDocs(query(collection(db, 'publicProfiles'), where('uid', 'in', chunk)))
+    profiles.push(...matches.docs.map((item) => item.data()))
+  }
+  return profiles.sort((a, b) => (a.displayName || a.username).localeCompare(b.displayName || b.username))
+}
 
 // A viewing has its own entry, while title-level details (such as the user's
 // rating) are shared by every viewing of the same film or show.
@@ -135,6 +226,7 @@ export function useDiary() {
   const [syncStatus, setSyncStatus] = useState('idle') // idle | saving | synced | error
   const [syncError, setSyncError] = useState('')
   const [cloudLoaded, setCloudLoaded] = useState(false) // has this user's doc arrived?
+  const [serverConfirmed, setServerConfirmed] = useState(false) // safe to push writes?
 
   const entriesRef = useRef(entries)
   entriesRef.current = entries
@@ -150,6 +242,17 @@ export function useDiary() {
     return onAuthStateChanged(
       auth,
       (u) => {
+        // localStorage is shared by every account on this browser, so never
+        // hydrate private UI from it during authentication. The UID-specific
+        // Firestore listener below is the only source allowed to unlock data.
+        if (u) {
+          setEntries([])
+          setSettings({ ...DEFAULT_SETTINGS })
+          setWatchlists(normalizeWatchlists([]))
+          setCloudLoaded(false)
+          setServerConfirmed(false)
+          lastSyncedRef.current = null
+        }
         setUser(u)
         setAuthReady(true)
       },
@@ -162,16 +265,39 @@ export function useDiary() {
   useEffect(() => {
     if (!isFirebaseConfigured || !user) {
       setCloudLoaded(false)
+      setServerConfirmed(false)
       setSyncStatus('idle')
       setSyncError('')
       return
     }
     setCloudLoaded(false)
+    setServerConfirmed(false)
     setSyncStatus('saving')
     const ref = doc(db, 'diaries', user.uid)
     const unsub = onSnapshot(
       ref,
       (snap) => {
+        // Cached snapshots may render the UI (including offline localhost),
+        // but they must never unlock cloud writes. Only the server snapshot
+        // below can make this client authoritative.
+        if (snap.metadata.fromCache) {
+          if (snap.exists()) {
+            const data = snap.data() || {}
+            const cachedEntries = Array.isArray(data.entries)
+              ? syncSharedRatings(migrateRatings(data.entries.map(normalizeEntry), data.settings?.ratingScale))
+              : entriesRef.current
+            const cachedSettings = { ...DEFAULT_SETTINGS, ...(data.settings || settingsRef.current) }
+            const cachedLists = Array.isArray(data.watchlists)
+              ? normalizeWatchlists(data.watchlists)
+              : watchlistsRef.current
+            setEntries(cachedEntries)
+            setSettings(cachedSettings)
+            setWatchlists(cachedLists)
+            setCloudLoaded(true)
+          }
+          return
+        }
+        setServerConfirmed(true)
         if (!snap.exists()) {
           // A missing document means this is a genuinely new account. Never
           // seed it from the last account's browser cache: that would leak one
@@ -217,6 +343,9 @@ export function useDiary() {
       },
       (error) => {
         console.error('Cloud load failed', error)
+        // Keep cached/local data usable, but leave serverConfirmed false so
+        // an unavailable server can never be overwritten by that fallback.
+        setCloudLoaded(true)
         setSyncError(error?.message || 'Cloud load failed')
         setSyncStatus('error')
       },
@@ -230,7 +359,7 @@ export function useDiary() {
   // from overwriting real cloud data before the first snapshot arrives, and
   // skip writing data we just received from the cloud.
   useEffect(() => {
-    if (!isFirebaseConfigured || !user || !cloudLoaded) return
+    if (!isFirebaseConfigured || !user || !cloudLoaded || !serverConfirmed) return
     const payload = cloudPayload(entries, settings, watchlists)
     const json = JSON.stringify(payload)
     if (json === lastSyncedRef.current) return
@@ -249,7 +378,17 @@ export function useDiary() {
         })
     }, 100)
     return () => clearTimeout(t)
-  }, [entries, settings, watchlists, user, cloudLoaded])
+  }, [entries, settings, watchlists, user, cloudLoaded, serverConfirmed])
+
+  // A username opts into a small, explicitly public projection. Private diary
+  // fields never leave the owner-only diary document.
+  useEffect(() => {
+    const username = normalizeUsername(settings.username)
+    if (!isFirebaseConfigured || !user || !cloudLoaded || !serverConfirmed || !username) return
+    const payload = publicProfilePayload(user, username, entries, watchlists)
+    setDoc(doc(db, 'publicProfiles', username), { ...payload, updatedAt: serverTimestamp() })
+      .catch((error) => console.error('Public profile update failed', error))
+  }, [entries, settings.username, watchlists, user, cloudLoaded, serverConfirmed])
 
   const signIn = useCallback(async () => {
     if (!isFirebaseConfigured) return
@@ -298,6 +437,30 @@ export function useDiary() {
     return photoURL
   }, [])
 
+  const updateUsername = useCallback(async (value) => {
+    if (!auth.currentUser || !db) throw new Error('Sign in before choosing a username')
+    const username = normalizeUsername(value)
+    const validationError = usernameError(username)
+    if (validationError) throw new Error(validationError)
+    const previous = normalizeUsername(settingsRef.current.username)
+    if (username === previous) return username
+
+    await runTransaction(db, async (transaction) => {
+      const nextRef = doc(db, 'usernames', username)
+      const next = await transaction.get(nextRef)
+      const previousRef = previous ? doc(db, 'usernames', previous) : null
+      const old = previousRef ? await transaction.get(previousRef) : null
+      if (next.exists() && next.data()?.uid !== auth.currentUser.uid) throw new Error('That username is already taken')
+      transaction.set(nextRef, { uid: auth.currentUser.uid, updatedAt: serverTimestamp() })
+      if (previousRef) {
+        if (old.exists() && old.data()?.uid === auth.currentUser.uid) transaction.delete(previousRef)
+        if (previous !== username) transaction.delete(doc(db, 'publicProfiles', previous))
+      }
+    })
+    setSettings((current) => ({ ...current, username }))
+    return username
+  }, [])
+
   const uploadPoster = useCallback(async (file, itemId) => {
     if (!auth.currentUser) throw new Error('Sign in before uploading custom artwork')
     return uploadPosterImage(auth.currentUser.uid, itemId, file)
@@ -343,6 +506,15 @@ export function useDiary() {
       localStorage.setItem(WATCHLIST_KEY, JSON.stringify(watchlists))
     } catch {}
   }, [watchlists])
+
+  // Keep offline data isolated per Firebase account. This prevents one
+  // person's last-opened diary from appearing during another user's startup.
+  useEffect(() => {
+    if (!user || !cloudLoaded) return
+    try {
+      localStorage.setItem(`${ACCOUNT_CACHE_PREFIX}${user.uid}`, JSON.stringify({ entries, settings, watchlists }))
+    } catch {}
+  }, [entries, settings, watchlists, user, cloudLoaded])
 
   const addEntry = useCallback((entry) => {
     const normalized = normalizeEntry(entry)
@@ -522,6 +694,7 @@ export function useDiary() {
     signOut,
     saveToCloud,
     updateAvatar,
+    updateUsername,
     uploadPoster,
   }
 }
