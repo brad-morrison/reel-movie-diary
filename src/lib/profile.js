@@ -130,9 +130,11 @@ export function activityMonths(activity = {}, count = 12, now = new Date()) {
   })
 }
 
-export function watchesInYear(activity = {}, year = new Date().getFullYear()) {
+// `throughMonth` bounds the sum so this year can be compared against the same
+// stretch of last year rather than against a full twelve months of it.
+export function watchesInYear(activity = {}, year = new Date().getFullYear(), throughMonth = 12) {
   return Object.entries(activity || {})
-    .filter(([month]) => month.startsWith(`${year}-`))
+    .filter(([month]) => month.startsWith(`${year}-`) && Number(month.slice(5, 7)) <= throughMonth)
     .reduce((sum, [, count]) => sum + count, 0)
 }
 

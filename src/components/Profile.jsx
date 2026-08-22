@@ -64,7 +64,7 @@ export default function Profile({
 
       {owner && followRequests.length > 0 && <FollowRequests requests={followRequests} onResolve={onResolveRequest} />}
 
-      <ProfileInsights stats={stats} owner={owner} />
+      <ProfileInsights stats={stats} />
       <Top20Shelf entries={top20} onOpen={onOpen} owner={owner} />
       <RecentGrid entries={recent} onOpen={onOpen} owner={owner} />
       <ProfileDiary entries={diaryEntries} owner={owner} onOpen={onOpen} relationshipStatus={social?.relationshipStatus} />
