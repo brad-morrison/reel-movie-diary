@@ -15,6 +15,9 @@ import { auth, db, googleProvider, isFirebaseConfigured } from './firebase.js'
 import { SAMPLE_ENTRIES } from './sample.js'
 import { collectCatalogs } from './csv.js'
 import { uploadPosterImage, uploadProfileImage } from './uploads.js'
+import { buildProfileStats, movieKey, profileHero, profileRecent, profileTop20 } from './profile.js'
+
+export { movieKey }
 
 const ENTRIES_KEY = 'reel.entries.v1'
 const SETTINGS_KEY = 'reel.settings.v1'
@@ -22,7 +25,7 @@ const WATCHLIST_KEY = 'reel.watchlist.v1'
 const ACCOUNT_CACHE_PREFIX = 'reel.account.v1.'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
-const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10 }
+const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10, heroEntryId: '' }
 
 export const normalizeUsername = (value = '') => value.trim().toLowerCase().replace(/^@+/, '')
 
@@ -42,6 +45,7 @@ function publicEntry(entry) {
     year: entry.year || '',
     type: entry.type || 'movie',
     poster: entry.poster || '',
+    backdrop: entry.backdrop || '',
     rating: Number(entry.rating) || 0,
     watchedDate: entry.watchedDate || '',
     top20: !!entry.top20,
@@ -49,24 +53,16 @@ function publicEntry(entry) {
   }
 }
 
-function publicProfilePayload(user, username, entries, watchlists) {
-  const uniqueTitles = new Set(entries.map((entry) => movieKey(entry))).size
-  const rated = entries.filter((entry) => Number(entry.rating) > 0)
-  const top20 = entries.filter((entry) => entry.top20).sort((a, b) => (a.top20Rank || 99) - (b.top20Rank || 99)).slice(0, 20).map(publicEntry)
-  const recent = [...entries].sort((a, b) => (b.watchedDate || b.createdAt || '').localeCompare(a.watchedDate || a.createdAt || '')).slice(0, 5).map(publicEntry)
+function publicProfilePayload(user, username, entries, watchlists, heroEntryId) {
   return {
     uid: user.uid,
     username,
     displayName: user.displayName || user.email?.split('@')[0] || 'Film lover',
     photoURL: user.photoURL || '',
-    stats: {
-      watches: entries.length,
-      uniqueTitles,
-      averageRating: rated.length ? Number((rated.reduce((sum, entry) => sum + Number(entry.rating), 0) / rated.length).toFixed(1)) : null,
-      watchlistCount: watchlists.reduce((sum, list) => sum + list.items.length, 0),
-    },
-    top20,
-    recent,
+    hero: profileHero(entries, heroEntryId),
+    stats: buildProfileStats(entries, watchlists),
+    top20: profileTop20(entries).map(publicEntry),
+    recent: profileRecent(entries, 12).map(publicEntry),
   }
 }
 
@@ -202,17 +198,6 @@ export async function loadSharedDiary(profileUid) {
 function sharedEntry(entry) {
   const allowed = ['id', 'title', 'year', 'type', 'poster', 'backdrop', 'rating', 'watchedDate', 'createdAt', 'top20', 'top20Rank', 'genres', 'overview', 'firstTime', 'review', 'notes']
   return Object.fromEntries(allowed.filter((key) => entry[key] !== undefined).map((key) => [key, entry[key]]))
-}
-
-// A viewing has its own entry, while title-level details (such as the user's
-// rating) are shared by every viewing of the same film or show.
-export function movieKey(entry) {
-  const title = (entry.title || '').trim().toLowerCase().replace(/\s+/g, ' ')
-  // Title/year/type remains stable when an imported entry is later enriched
-  // with a TMDB id. Using tmdbId first split those two versions of the same
-  // movie, which disconnected Top 20 rank from its shared rating.
-  if (title) return `title:${entry.type || 'movie'}:${title}:${entry.year || ''}`
-  return `tmdb:${entry.type || 'movie'}:${entry.tmdbId || ''}`
 }
 
 function syncSharedRatings(entries) {
@@ -475,10 +460,10 @@ export function useDiary() {
   useEffect(() => {
     const username = normalizeUsername(settings.username)
     if (!isFirebaseConfigured || !user || !cloudLoaded || !serverConfirmed || !username) return
-    const payload = publicProfilePayload(user, username, entries, watchlists)
+    const payload = publicProfilePayload(user, username, entries, watchlists, settings.heroEntryId)
     setDoc(doc(db, 'publicProfiles', username), { ...payload, updatedAt: serverTimestamp() })
       .catch((error) => console.error('Public profile update failed', error))
-  }, [entries, settings.username, watchlists, user, cloudLoaded, serverConfirmed])
+  }, [entries, settings.username, settings.heroEntryId, watchlists, user, cloudLoaded, serverConfirmed])
 
   // Accepted followers read this sanitized projection. It deliberately omits
   // settings, watch lists, platforms, companions, email, and account data.

@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { useDiary } from './lib/store.js'
 import Library from './components/Library.jsx'
@@ -18,8 +18,10 @@ import WatchlistDetailModal from './components/WatchlistDetailModal.jsx'
 import RandomMovieModal from './components/RandomMovieModal.jsx'
 import AuthPage, { AuthLoading } from './components/AuthPage.jsx'
 import ArtworkPickerModal from './components/ArtworkPickerModal.jsx'
+import HeroCoverModal from './components/profile/HeroCoverModal.jsx'
 import Toast from './components/Toast.jsx'
 import { movieKey } from './lib/store.js'
+import { buildProfileStats, profileHero, profileRecent } from './lib/profile.js'
 import { loadFollowProfiles, loadPublicProfile, loadSharedDiary, resolveFollowRequest, setFollowing, subscribeFollowRequests, subscribeFollowSummary } from './lib/store.js'
 
 const TOP20_CAP = 20
@@ -74,6 +76,7 @@ export default function App() {
   const [followRequests, setFollowRequests] = useState([])
   const [sharedDiary, setSharedDiary] = useState(null)
   const [mySocial, setMySocial] = useState(null)
+  const [choosingCover, setChoosingCover] = useState(false)
   const routeUsername = pathname.match(/^\/@([a-z0-9_]+)\/?$/i)?.[1]?.toLowerCase() || ''
 
   const selectTab = useCallback((nextTab) => {
@@ -186,6 +189,9 @@ export default function App() {
   const top20 = rankedTop20.filter((entry, index, list) =>
     list.findIndex((candidate) => movieKey(candidate) === movieKey(entry)) === index,
   )
+  const profileStats = useMemo(() => buildProfileStats(diary.entries, diary.watchlists), [diary.entries, diary.watchlists])
+  const profileRecentEntries = useMemo(() => profileRecent(diary.entries, 12), [diary.entries])
+  const profileHeroCover = useMemo(() => profileHero(diary.entries, diary.settings.heroEntryId), [diary.entries, diary.settings.heroEntryId])
 
   // Turn a saved entry's Top 20 flag on, handling the full-list swap flow.
   const requestTop20Add = useCallback((candidate) => {
@@ -289,7 +295,7 @@ export default function App() {
   const artworkEntry = artworkPicker?.kind === 'diary'
     ? diary.entries.find((entry) => entry.id === artworkPicker.itemId)
     : diary.watchlists.find((list) => list.id === artworkPicker?.listId)?.items.find((item) => item.id === artworkPicker?.itemId)
-  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || !!followList || searchingUsers || mobileMenuOpen
+  const modalOpen = adding || addingToWatchlist || !!watchlistCleanup || !!liveWatchlistDetail || !!randomWatchlist?.items.length || !!artworkEntry || !!liveDetail || !!swapCandidate || !!followList || searchingUsers || choosingCover || mobileMenuOpen
 
   useEffect(() => {
     if (!modalOpen) return
@@ -357,18 +363,32 @@ export default function App() {
           )}
         </header>
         {publicProfile.status === 'ready' ? (
-          <main className="public-profile-shell"><Profile isPublic user={{ displayName: data.displayName, photoURL: data.photoURL }} username={data.username} publicTop20={data.top20 || []} publicRecent={data.recent || []} sharedEntries={sharedDiary?.entries} stats={data.stats} social={social} onFollowers={() => openFollowList('followers')} onFollowing={() => openFollowList('following')} onFollow={data.uid !== diary.user?.uid ? async () => {
-            if (!diary.user) { openAuth('signin'); return }
-            const previousStatus = social?.relationshipStatus || ''
-            const next = !previousStatus
-            setSocial((current) => ({ ...(current || { followers: 0, following: 0 }), busy: true }))
-            try {
-              await setFollowing(data.uid, next)
-              setSocial((current) => ({ ...current, busy: false, relationshipStatus: next ? 'pending' : '', isFollowing: false, followers: Math.max(0, current.followers - (!next && previousStatus === 'accepted' ? 1 : 0)) }))
-            } catch {
-              setSocial((current) => ({ ...current, busy: false }))
-            }
-          } : null} /></main>
+          <main className="public-profile-shell">
+            <Profile
+              user={{ displayName: data.displayName, photoURL: data.photoURL }}
+              username={data.username}
+              stats={data.stats}
+              hero={data.hero}
+              top20={data.top20 || []}
+              recent={data.recent || []}
+              diaryEntries={sharedDiary?.entries || null}
+              social={social}
+              onFollowers={() => openFollowList('followers')}
+              onFollowing={() => openFollowList('following')}
+              onFollow={data.uid !== diary.user?.uid ? async () => {
+                if (!diary.user) { openAuth('signin'); return }
+                const previousStatus = social?.relationshipStatus || ''
+                const next = !previousStatus
+                setSocial((current) => ({ ...(current || { followers: 0, following: 0 }), busy: true }))
+                try {
+                  await setFollowing(data.uid, next)
+                  setSocial((current) => ({ ...current, busy: false, relationshipStatus: next ? 'pending' : '', isFollowing: false, followers: Math.max(0, current.followers - (!next && previousStatus === 'accepted' ? 1 : 0)) }))
+                } catch {
+                  setSocial((current) => ({ ...current, busy: false }))
+                }
+              } : null}
+            />
+          </main>
         ) : publicProfile.status === 'missing' ? (
           <main className="public-profile-message"><h1>Profile not found</h1><p>There’s no public Reel profile at /@{routeUsername}.</p></main>
         ) : publicProfile.status === 'error' ? (
@@ -490,12 +510,17 @@ export default function App() {
             {tab === 'stats' && <Stats entries={diary.entries} tmdbKey={diary.settings.tmdbKey} onUpdate={diary.updateEntry} />}
             {tab === 'profile' && (
               <Profile
+                owner
                 user={diary.user}
                 username={diary.settings.username}
-                entries={diary.entries}
-                watchlists={diary.watchlists}
+                stats={profileStats}
+                hero={profileHeroCover}
+                top20={top20}
+                recent={profileRecentEntries}
+                diaryEntries={diary.entries}
                 onOpen={setDetail}
                 onSettings={() => selectTab('settings')}
+                onChangeCover={() => setChoosingCover(true)}
                 updateAvatar={diary.user ? diary.updateAvatar : null}
                 updateDisplayName={diary.updateDisplayName}
                 updateUsername={diary.updateUsername}
@@ -544,6 +569,19 @@ export default function App() {
       <AnimatePresence>
         {searchingUsers && (
           <UserSearchModal key="user-search-modal" onClose={() => setSearchingUsers(false)} onSelect={(username) => { setSearchingUsers(false); visitPublicProfile(username) }} />
+        )}
+        {choosingCover && (
+          <HeroCoverModal
+            key="hero-cover-modal"
+            entries={diary.entries}
+            pinnedId={diary.settings.heroEntryId || ''}
+            onClose={() => setChoosingCover(false)}
+            onSelect={(entry) => {
+              diary.setSettings((current) => ({ ...current, heroEntryId: entry?.id || '' }))
+              setChoosingCover(false)
+              notify(entry ? `“${entry.title}” now fronts your profile` : 'Cover set back to automatic')
+            }}
+          />
         )}
         {followList && (
           <FollowListModal key="follow-list-modal" kind={followList.kind} profiles={followList.profiles} loading={followList.loading} onClose={() => setFollowList(null)} onSelect={visitPublicProfile} />
