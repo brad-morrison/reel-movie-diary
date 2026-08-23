@@ -238,7 +238,7 @@ input::placeholder, textarea::placeholder { color: var(--text-faint); }
 .account-chip {
   position: relative;
   width: 42px; height: 42px; border-radius: 50%;
-  display: grid; place-items: center; overflow: visible;
+  display: grid; flex: 0 0 42px; place-items: center; overflow: visible;
   border: 1px solid var(--border-strong); background: var(--surface);
   transition: transform 0.15s, border-color 0.2s;
 }
@@ -1577,6 +1577,8 @@ button.pf-diary-row:hover .pf-diary-copy strong { color: var(--gold); }
 }
 
 @media (min-width: 721px) and (max-width: 960px) {
+  .header-user-search { width: 42px; height: 42px; flex: 0 0 42px; justify-content: center; padding: 0; }
+  .header-user-search span { display: none; }
   .pf-insight-grid { grid-template-columns: 1fr; }
   .pf-recent-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .modal-wide { max-width: 760px; }
@@ -1585,6 +1587,14 @@ button.pf-diary-row:hover .pf-diary-copy strong { color: var(--gold); }
   .floaty-stage { min-height: 360px; }
   .floaty-tilt { width: 220px; }
   .add-hero-content { padding: 0 12px 12px; }
+}
+
+/* Portrait tablets need the compact header before the rest of the page
+   switches to its phone layout. */
+@media (min-width: 721px) and (max-width: 840px) {
+  .header { gap: 12px; padding-right: 20px; padding-left: 20px; }
+  .nav, .header-user-search { display: none; }
+  .mobile-menu-button { display: grid; }
 }
 
 @media (max-width: 720px) {

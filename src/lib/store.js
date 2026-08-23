@@ -428,8 +428,9 @@ export function useDiary() {
     return unsub
   }, [user])
 
-  // Push local edits to the cloud with a very short batching window. Firestore's
-  // live listener then delivers the change to every already-open device.
+  // Push local edits to the cloud immediately so a refresh cannot cancel a
+  // pending save. Firestore queues writes itself and its live listener then
+  // delivers the change to every already-open device.
   // Guards prevent a fresh device
   // from overwriting real cloud data before the first snapshot arrives, and
   // skip writing data we just received from the cloud.
@@ -439,20 +440,17 @@ export function useDiary() {
     const json = JSON.stringify(payload)
     if (json === lastSyncedRef.current) return
     setSyncStatus('saving')
-    const t = setTimeout(() => {
-      setDoc(doc(db, 'diaries', user.uid), { ...payload, updatedAt: serverTimestamp() })
-        .then(() => {
-          lastSyncedRef.current = json
-          setSyncError('')
-          setSyncStatus('synced')
-        })
-        .catch((error) => {
-          console.error('Cloud save failed', error)
-          setSyncError(error?.message || 'Cloud save failed')
-          setSyncStatus('error')
-        })
-    }, 100)
-    return () => clearTimeout(t)
+    setDoc(doc(db, 'diaries', user.uid), { ...payload, updatedAt: serverTimestamp() })
+      .then(() => {
+        lastSyncedRef.current = json
+        setSyncError('')
+        setSyncStatus('synced')
+      })
+      .catch((error) => {
+        console.error('Cloud save failed', error)
+        setSyncError(error?.message || 'Cloud save failed')
+        setSyncStatus('error')
+      })
   }, [entries, settings, watchlists, user, cloudLoaded, serverConfirmed])
 
   // A username opts into a small, explicitly public projection. Private diary
