@@ -367,11 +367,19 @@ export function useDiary() {
               : watchlistsRef.current
             setEntries(cachedEntries)
             setSettings(cachedSettings)
+            watchlistsRef.current = cachedLists
             setWatchlists(cachedLists)
             setCloudLoaded(true)
           }
           return
         }
+        // Firestore emits an optimistic snapshot for our own local setDoc
+        // before the server acknowledges it. Applying that snapshot back to
+        // React can replace a newer watch-list edit that was made while the
+        // previous write was still in flight. The UI already contains the
+        // local change, so wait for the acknowledged snapshot instead.
+        if (snap.metadata.hasPendingWrites) return
+
         setServerConfirmed(true)
         if (!snap.exists()) {
           // A missing document means this is a genuinely new account. Never
@@ -383,6 +391,7 @@ export function useDiary() {
           const payload = cloudPayload(freshEntries, freshSettings, freshWatchlists)
           setEntries(freshEntries)
           setSettings(freshSettings)
+          watchlistsRef.current = freshWatchlists
           setWatchlists(freshWatchlists)
           setDoc(ref, { ...payload, updatedAt: serverTimestamp() })
             .then(() => {
@@ -411,6 +420,7 @@ export function useDiary() {
           : JSON.stringify({ entries: nextEntries, settings: nextSettings, watchlists: data.watchlists })
         setEntries(nextEntries)
         setSettings(nextSettings)
+        watchlistsRef.current = nextWatchlists
         setWatchlists(nextWatchlists)
         setCloudLoaded(true)
         setSyncError('')
@@ -682,22 +692,32 @@ export function useDiary() {
       return { item: null, added: false }
     }
     const saved = { id: uid(), addedAt: new Date().toISOString(), ...title }
-    const next = watchlistsRef.current.map((list) => list.id === listId ? { ...list, items: [saved, ...list.items] } : list)
-    watchlistsRef.current = next
-    setWatchlists(next)
+    setWatchlists((previous) => {
+      const next = previous.map((list) => list.id === listId ? { ...list, items: [saved, ...list.items] } : list)
+      watchlistsRef.current = next
+      return next
+    })
     return { item: saved, added: true }
   }, [])
 
   const removeFromWatchlist = useCallback((listId, itemId) => {
-    setWatchlists((previous) => previous.map((list) => list.id === listId
-      ? { ...list, items: list.items.filter((item) => item.id !== itemId) }
-      : list))
+    setWatchlists((previous) => {
+      const next = previous.map((list) => list.id === listId
+        ? { ...list, items: list.items.filter((item) => item.id !== itemId) }
+        : list)
+      watchlistsRef.current = next
+      return next
+    })
   }, [])
 
   const updateWatchlistItem = useCallback((listId, itemId, patch) => {
-    setWatchlists((previous) => previous.map((list) => list.id === listId
-      ? { ...list, items: list.items.map((item) => item.id === itemId ? { ...item, ...patch } : item) }
-      : list))
+    setWatchlists((previous) => {
+      const next = previous.map((list) => list.id === listId
+        ? { ...list, items: list.items.map((item) => item.id === itemId ? { ...item, ...patch } : item) }
+        : list)
+      watchlistsRef.current = next
+      return next
+    })
   }, [])
 
   const reorderTop20 = useCallback((orderedIds) => {
