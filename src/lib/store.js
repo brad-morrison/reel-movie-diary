@@ -351,6 +351,7 @@ export function useDiary() {
     const ref = doc(db, 'diaries', user.uid)
     const unsub = onSnapshot(
       ref,
+      { includeMetadataChanges: true },
       (snap) => {
         // Cached snapshots may render the UI (including offline localhost),
         // but they must never unlock cloud writes. Only the server snapshot
