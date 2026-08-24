@@ -169,6 +169,13 @@ export default function Settings({ settings, setSettings, entries, watchlists, r
               </div>
             </div>
           </div>
+          <div className="appearance-option">
+            <span className="appearance-label">News feed</span>
+            <div className="theme-toggle" role="group" aria-label="Show News in navigation">
+              <button type="button" className={settings.showNews !== false ? 'active' : ''} aria-pressed={settings.showNews !== false} onClick={() => setSettings((s) => ({ ...s, showNews: true }))}>On</button>
+              <button type="button" className={settings.showNews === false ? 'active' : ''} aria-pressed={settings.showNews === false} onClick={() => setSettings((s) => ({ ...s, showNews: false }))}>Off</button>
+            </div>
+          </div>
         </div>
       </div>
 

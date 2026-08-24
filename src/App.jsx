@@ -12,6 +12,7 @@ import DetailModal from './components/DetailModal.jsx'
 import Top20Page from './components/Top20Page.jsx'
 import Top20SwapModal from './components/Top20SwapModal.jsx'
 import WatchlistPage from './components/WatchlistPage.jsx'
+import NewsPage from './components/NewsPage.jsx'
 import AddWatchlistModal from './components/AddWatchlistModal.jsx'
 import WatchlistCleanupModal from './components/WatchlistCleanupModal.jsx'
 import WatchlistDetailModal from './components/WatchlistDetailModal.jsx'
@@ -32,6 +33,7 @@ const TABS = [
   { key: 'watchlist', label: 'Watch list' },
   { key: 'top20', label: 'Top 20' },
   { key: 'stats', label: 'Stats' },
+  { key: 'news', label: 'News' },
   { key: 'settings', label: 'Settings' },
 ]
 
@@ -51,6 +53,7 @@ let toastSeq = 0
 
 export default function App() {
   const diary = useDiary()
+  const visibleTabs = diary.settings.showNews === false ? TABS.filter((item) => item.key !== 'news') : TABS
   const [tab, setTab] = useState(savedTab)
   const [adding, setAdding] = useState(false)
   const [addingToWatchlist, setAddingToWatchlist] = useState(false)
@@ -171,6 +174,10 @@ export default function App() {
     try { localStorage.setItem(ACTIVE_TAB_KEY, tab) } catch {}
     window.scrollTo({ top: 0 })
   }, [tab])
+
+  useEffect(() => {
+    if (diary.settings.showNews === false && tab === 'news') selectTab('stats')
+  }, [diary.settings.showNews, selectTab, tab])
 
   const notify = useCallback((message, icon) => {
     const id = ++toastSeq
@@ -434,7 +441,7 @@ export default function App() {
         </button>
 
         <nav className="nav">
-          {TABS.map((t) => (
+          {visibleTabs.map((t) => (
             <button key={t.key} className={tab === t.key ? 'active' : ''} onClick={() => selectTab(t.key)}>
               {tab === t.key && <span className="pill" />}
               {t.label}
@@ -505,6 +512,7 @@ export default function App() {
                 onRemove={(item) => { diary.removeFromWatchlist(activeWatchlistId, item.id); notify(`“${item.title}” removed from this list`) }}
               />
             )}
+            {tab === 'news' && <NewsPage />}
             {tab === 'top20' && (
               <Top20Page entries={top20} onOpen={setDetail} onReorder={diary.reorderTop20} />
             )}
@@ -600,7 +608,7 @@ export default function App() {
               </div>
               <nav className="mobile-menu-nav" aria-label="Mobile navigation">
                 <button type="button" onClick={() => { setMobileMenuOpen(false); setSearchingUsers(true) }}>Find people <IconSearch size={18} /></button>
-                {TABS.map((item) => (
+                {visibleTabs.map((item) => (
                   <button key={item.key} className={tab === item.key ? 'active' : ''} onClick={() => { selectTab(item.key); setMobileMenuOpen(false) }}>
                     <span>{item.label}</span>
                     {tab === item.key && <span className="mobile-menu-current">Current</span>}

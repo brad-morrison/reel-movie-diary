@@ -25,7 +25,7 @@ const WATCHLIST_KEY = 'reel.watchlist.v1'
 const ACCOUNT_CACHE_PREFIX = 'reel.account.v1.'
 
 const DEFAULT_PLATFORMS = ['Netflix', 'Disney+', 'Prime', 'Apple TV+', 'Cinema']
-const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10, heroEntryId: '' }
+const DEFAULT_SETTINGS = { theme: 'dark', accentScheme: 'reel', tmdbKey: '', platforms: DEFAULT_PLATFORMS, people: [], seeded: true, ratingScale: 10, heroEntryId: '', showNews: true }
 
 export const normalizeUsername = (value = '') => value.trim().toLowerCase().replace(/^@+/, '')
 
