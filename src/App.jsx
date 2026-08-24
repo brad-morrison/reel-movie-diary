@@ -426,6 +426,7 @@ export default function App() {
             <IconFilm size={22} color="#14110a" />
           </span>
           <span className="brand-name">Reel<span className="dot">.</span></span>
+          <span className="brand-version" title="Deployed app version">{__APP_VERSION__}</span>
         </div>
 
         <button className="mobile-menu-button" onClick={() => setMobileMenuOpen(true)} aria-label="Open navigation" aria-expanded={mobileMenuOpen}>
