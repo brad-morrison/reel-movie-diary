@@ -1595,10 +1595,12 @@ button.pf-diary-row:hover .pf-diary-copy strong { color: var(--gold); }
 @media (min-width: 721px) and (max-width: 840px) {
   .header { gap: 12px; padding-right: 20px; padding-left: 20px; }
   .nav, .header-user-search { display: none; }
+  .header > .brand .brand-version { display: none; }
   .mobile-menu-button { display: grid; }
 }
 
 @media (max-width: 720px) {
+  .header > .brand .brand-version { display: none; }
   .header-user-search { display: none; }
   .public-header { gap: 10px; padding: 12px 14px; }
   .public-header .brand { gap: 8px; }
