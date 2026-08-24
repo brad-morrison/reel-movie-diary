@@ -11,8 +11,7 @@ function gitValue(args, fallback) {
 }
 
 const buildNumber = gitValue(['rev-list', '--count', 'HEAD'], '0')
-const commitHash = gitValue(['rev-parse', '--short', 'HEAD'], 'unknown')
-const appVersion = `v0.1.${buildNumber} · ${commitHash}`
+const appVersion = `v0.1.${buildNumber}`
 
 export default defineConfig({
   plugins: [react()],
