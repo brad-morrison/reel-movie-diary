@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T12:39:08.022Z",
+  "generatedAt": "2026-08-25T18:38:18.233Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,174 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-FkLTEyMzUyMTI2NjMv",
+      "title": "Dolly Parton, Iconic Singer/Songwriter and ‘9 to 5’ Star, Dies at 80",
+      "description": "The beloved musician and actress who lit up the screen in \"The Best Little Whorehouse in Texas,\" \"Steel Magnolias,\" and other films passed away peacefully in Nashville today.",
+      "url": "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115RDFM.jpg?w=650",
+      "publishedAt": "2026-08-25T18:35:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5nLTEyMzUxODQzMjcv",
+      "title": "‘The Sun Never Sets’ Review: A Career-Best Dakota Fanning Navigates Dueling Love Triangles in Joe Swanberg’s Delightful Alaskan Romance",
+      "description": "Swanberg delivers some of the best work of his career in this portrait of humanity's inability to figure out what we actually want.",
+      "url": "https://www.indiewire.com/criticism/movies/the-sun-never-sets-review-joe-swanberg-dakota-fanning-1235184327/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/The-Sun-Never-Sets-1.png?w=650",
+      "publishedAt": "2026-08-25T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Dolly Parton: The country legend who sang from the heart",
+      "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
+      "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9edd/live/72b74780-4963-11f1-a87a-55dfd3c7a311.jpg",
+      "publishedAt": "2026-08-25T18:14:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTE1NzUxNi8",
+      "title": "‘Boorman and the Devil’ Review: This Deep Dive Into How ‘Exorcist II: The Heretic’ Spiraled Out of Control Deserves a Wide Release",
+      "description": "David Kittredge conjures a true film lover's retrospective in this magical John Boorman documentary.",
+      "url": "https://www.indiewire.com/criticism/movies/boorman-and-the-devil-review-1235157516/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/10/Boorman-and-the-Devil.png?w=650",
+      "publishedAt": "2026-08-25T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XAtMTIzNTIxMjYyMi8",
+      "title": "‘NAZA’ Documentary from ‘No Other Land’ Directors Yuval Abraham and Rachel Szor Sets North American Premiere at NYFF",
+      "description": "The documentary about Israeli military operations in Gaza will have its world premiere in Venice.",
+      "url": "https://www.indiewire.com/news/festivals/naza-gaza-documentary-nyff-lineup-1235212622/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-25-at-9.48.59-AM.png?w=650",
+      "publishedAt": "2026-08-25T17:26:48.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-lzLTEyMzUyMTIxNjIv",
+      "title": "Modern Hollywood Keeps Failing Looney Tunes. Will ‘Coyote vs. Acme’ Finally Get It Right?",
+      "description": "In the early 20th century, Bugs Bunny shorts were a big screen cash cow for Warner Bros. But the past few decades of movies reflect a questionable understanding of a blue chip IP.",
+      "url": "https://www.indiewire.com/features/commentary/looney-tunes-movie-history-analysis-1235212162/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
+      "publishedAt": "2026-08-25T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjEyNTQzLw",
+      "title": "Universal Film, Focus Features Extend Partnership with Sundance Institute to Support Rising Filmmakers",
+      "description": "Exclusive: The companies announce the 2026 Sundance Institute Breakthrough &#124; Focus Features Fellows.",
+      "url": "https://www.indiewire.com/news/festivals/universal-film-focus-features-sundance-institute-fellowship-extended-1235212543/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-2.28.11-PM.png?w=650",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RlLTEyMzUyMTI1NzAv",
+      "title": "Paul Thomas Anderson’s New Concert Film ‘Cameron Winter at Carnegie Hall’ Sets Fall Roadshow Release",
+      "description": "Janus Films and Criterion will distribute the concert film featuring the Geese frontman, which is Anderson's first project since \"One Battle After Another.\"",
+      "url": "https://www.indiewire.com/news/general-news/cameron-winter-carnegie-hall-pta-concert-film-release-date-1235212570/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjEyNjAwLw",
+      "title": "‘The Pitt,’ ‘All Her Fault,’ and More Among Nominees for The DARCYS 2026",
+      "description": "The nominations for the inaugural Easterseals Disability Arts &#38; Culture Awards (The DARCYS) include \"The Pitt\" and \"All Her Fault.”",
+      "url": "https://www.indiewire.com/awards/results/the-darcys-2026-nominations-the-pitt-all-her-fault-1235212600/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MixCollage-25-Aug-2026-02-12-AM-4234.jpg?w=650",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-cnZpbi1vYml0dWFyeQ",
+      "title": "John Irvin obituary",
+      "description": "British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’ Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbuckler, Harold Pinter to Arnold Schwarzenegger, the director John Irvin, who has died aged 86, was nothing if not eclectic. “I’m a bit split,” he said. “I like playing with expensive toys, yet I also like the miniatures. I hate being pigeonholed, and I like to do the unexpected.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/25/john-irvin-obituary",
+      "image": "https://i.guim.co.uk/img/media/2bcbe1b941de11505b734d666e30f272688e60d9/75_48_3381_2704/master/3381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4efb6f45959b036c0fc6ccd8308aea21",
+      "publishedAt": "2026-08-25T15:37:27.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-xheWluZy1ydWRlYm95",
+      "title": "Ali G: Who Iz I? trailer reveals return of Sacha Baron Cohen’s prank-playing rudeboy",
+      "description": "Comedian returns in new film, adding a retired US general to a list of pranked celebrities that include Buzz Aldrin and Donald Trump The first full trailer for Ali G: Who Iz I? has been released online, revealing some of the escapades and pranks – and their victims – that will appear in the second feature-length comedy starring the academically challenged west Staines rudeboy character created and played by Sacha Baron Cohen. Sporting new dreadlocks but still wearing the clothing that was favoured by young white Britons copying US hip-hop and Black streetwear fashions in the 00s, Ali is back to contend with the issues of the day – as well as the pregnancy of his long-term girlfriend, Julie. In the 20 years since the character has been away, he says that “the world went to crap: there was Covid, wars and Ed Sheeran”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/25/ali-g-who-iz-i-trailer-return-sacha-baron-cohen-prank-playing-rudeboy",
+      "image": "https://i.guim.co.uk/img/media/a9cad8d83f5284ddeb021c21b4ab594b93829183/694_116_883_707/master/883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58b63202ecf68936a8f08dcb04a509b8",
+      "publishedAt": "2026-08-25T14:31:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMDc0MDEv",
+      "title": "TIFF Will Honor Penélope Cruz, Lee Chang-dong, Fan Bingbing, Helen Mirren, Isabelle Huppert, and More",
+      "description": "The eighth annual TIFF Tribute Awards gala fundraiser will take place on September 13.",
+      "url": "https://www.indiewire.com/news/festivals/tiff-tribute-honorees-penelope-cruz-lee-chang-dong-more-1235207401/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2023/09/Penelope-Cruz.jpg?w=650",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxMjU3OC8",
+      "title": "‘Ali G: Who Iz I?’ Trailer: Sacha Baron Cohen Resurrects His Original Man-on-the-Street Character",
+      "description": "The film, which Cohen once again shot in secret, hits theaters on October 23 courtesy of Amazon MGM.",
+      "url": "https://www.indiewire.com/news/trailers/ali-g-who-iz-i-trailer-sacha-baron-cohen-1235212578/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-9.01.09-AM.png?w=650",
+      "publishedAt": "2026-08-25T13:01:40.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-15LTEyMzUyMTI1OTYv",
+      "title": "‘I Love Lucy’ to Receive Television Academy’s First Ever Legacy Award",
+      "description": "The Television Academy finally revealed that the trailblazing sitcom \"I Love Lucy\" will receive its inaugural Legacy Award on night two of the Creative Arts Emmys on Sunday, September 6.",
+      "url": "https://www.indiewire.com/awards/results/i-love-lucy-legacy-award-television-academy-1235212596/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P4DLUBA_EC008.jpg?w=650",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "guardian-lidXRpb24tcmV2aWV3",
       "title": "Rise of the Footsoldier: Retribution review – never-ending hardman-on-a-mission franchise heads to Ibiza",
@@ -76,78 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-I2LTEyMzUyMTI1MDUv",
-      "title": "New York City’s East Side Will Lose Yet Another Movie Theater with Imminent Closure of AMC Kips Bay",
-      "description": "The 15-screen theater, which includes an IMAX screen, will close by the end of the year.",
-      "url": "https://www.indiewire.com/news/business/new-york-city-amc-kips-bay-close-end-2026-1235212505/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-1219843152.jpg?w=650",
-      "publishedAt": "2026-08-24T19:31:25.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUxODQ3ODUv",
-      "title": "Indie Star Joe Swanberg Never Really Left — but He’s Definitely Back Now",
-      "description": "Swanberg hadn't released a feature since 2017's \"Win It All.\" He's back with another dramedy about the romantic lives of self-absorbed adults — and in a world of intimacy coordinators that's a far cry from his early days of sexually frank indies.",
-      "url": "https://www.indiewire.com/features/interviews/joe-swanberg-interview-the-sun-never-sets-1235184785/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/P104RN43.jpg?w=650",
-      "publishedAt": "2026-08-24T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxMjQ4MC8",
-      "title": "‘Call My Agent’ Is Getting Its First Movie — Can the Beloved French Farce Delight Fans New and Old?",
-      "description": "Six years after the series wrapped its fourth (and final?) season, the entertainment industry farce is back with a Netflix feature film all about the harrowing comedy of making (what else?) a feature film.",
-      "url": "https://www.indiewire.com/news/trailers/call-my-agent-the-movie-trailer-1235212480/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/DPC_20251108_Unit_00927FINAL.jpg?w=650",
-      "publishedAt": "2026-08-24T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-nQtMTIzNTIxMjQ3OC8",
-      "title": "California Attorney General Rob Bonta Cancels Planned Paramount Merger Meeting Over ‘Lack of Good Faith’",
-      "description": "In a statement issued to the New York Times, Bonta accused Paramount of leaking details of a meeting the parties held last week.",
-      "url": "https://www.indiewire.com/news/business/california-attorney-general-rob-bonta-cancels-paramount-1235212478/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/GettyImages-2267596484.jpg?w=650",
-      "publishedAt": "2026-08-24T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTE3NDcwMC8",
-      "title": "‘Buddy’ Review: Casper Kelly’s Bloodthirsty Riff on ‘Barney’ Is the First Great Midnight Movie of 2026",
-      "description": "The \"Too Many Cooks\" auteur appears to have finally received a budget worthy of his talents, and he makes full use of it by playing his greatest hits on a multiplex-worthy scale.",
-      "url": "https://www.indiewire.com/criticism/movies/buddy-review-casper-kelly-sundance-1235174700/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-23-at-10.26.29-AM.png?w=650",
-      "publishedAt": "2026-08-24T14:00:59.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XItMTIzNTE5MTE3NC8",
-      "title": "Cannes 2026 Movies Sold: Javier Bardem-Starrer ‘The Beloved’ Goes to Kino Lorber",
-      "description": "The distributor plans an awards push for the 2026 Cannes competition selection directed by Rodrigo Sorogoyen",
-      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.16.57 PM.png?w=650",
-      "publishedAt": "2026-08-24T13:50:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZmlsbS1mZXN0aXZhbA",
       "title": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival",
       "description": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by Oscar-winning directors Yuval Abraham and Rachel Szor and produced by the Guardian, is to receive its world premiere at the Venice film festival. The film, called NAZA, has been produced with Jim Wilson and executive produced by Jonathan Glazer, the team behind The Zone of Interest, and is the only documentary that will compete this year for Venice’s prestigious Golden Lion. Continue reading...",
@@ -158,42 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMTE4MDkv",
-      "title": "How the New American Repertory Boom Is Reinventing the Asian Film Canon",
-      "description": "IndieWire talks to the folks at Big World Pictures, Kani Releasing, Arbelos, and more about how Asian classics by Wayne Wang, Tsai Ming-liang, Toshio Matsumoto, and more are making their way to U.S. theaters for the first time.",
-      "url": "https://www.indiewire.com/features/interviews/how-american-repertory-cinema-reinventing-asian-movie-canon-1235211809/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Life-Is-Cheap.jpg?w=650",
-      "publishedAt": "2026-08-24T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "guardian-QtYmlsbC1hbmQtdGVk",
-      "title": "Post your questions for Alex Winter",
-      "description": "The 80s icon and star of The Lost Boys and Bill & Ted has also had a storied career behind the camera and on stage. Now, he’ll answer your (non-bogus) questions You probably still think of Alex Winter as Kiefer Sutherland’s bloodsucking, peroxide-haired vampire biker mate Marko in 1987’s The Lost Boys, or the air-guitaring slacker Bill S Preston Esq alongside Keanu Reeves’s Ted “Theodore” Logan in the Bill & Ted franchise. But Winter actually started out as a child actor on Broadway, appearing in The King and I with Yul Brynner before making his big-screen debut opposite Charles Bronson in 1985’s Death Wish 3. As well as the above, he played poet and physician John William Polidori in 1988’s Haunted Summer, and co-wrote, co-directed and starred in the 1993 cult comedy Freaked. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/24/post-your-questions-for-alex-winter-the-lost-boys-and-bill-and-ted",
-      "image": "https://i.guim.co.uk/img/media/5c21b7356ea1e4e34bb7649d7284cb56a917e028/63_0_3280_2624/master/3280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc9eb7e8a59f7d97f6dbe3c7bd6a5b48",
-      "publishedAt": "2026-08-24T12:50:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aGluZy1pbi1saW1ibw",
-      "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
-      "description": "This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an invite for beachfront karaoke, preferring to watch from behind a polythene partition. At another, a neighbour glimpses him exercising across the courtyard, through the window of the flat in an end-of-summer Lithuanian resort that Danielius is trying to sell. Having returned from Norway to settle up accounts, this prodigal son is often holding the world at arm’s length – and director Vytautas Katkus does his best to help him with this distanced technique in this quizzical and faintly existential drama. Little tangible is disclosed. Danielius is a thirtysomething father who skipped the funeral of his own dad the year before. Preparing the flat to go on the market, he walks the dog of his neighbour, Vismante (Vismantė Ruzgaitė), hangs speculatively at beach gatherings and falls asleep in pine forests. Ice-cream is eaten at every available opportunity. He’s not alienated exactly, but somewhat out of step. As he looks for new anchorage, even the film seems to question whether Danielius has sufficient main character energy: it periodically drifts to follow another resident, Tomas (Rokas Siaurusaitis), who is caring for his grandmother over the way. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo",
-      "image": "https://i.guim.co.uk/img/media/3afe145c52d02b546f3a476b7fb1f953694cebf5/224_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5b2125893ebd7166a96a740209db07f5",
-      "publishedAt": "2026-08-24T10:26:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -220,54 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-cy0xMjM1MjExODI3Lw",
-      "title": "‘Lanterns’ Review: Episode 2 Flips the Script to Start Hunting the Manhunter — Spoilers",
-      "description": "An exposition-heavy hour cracks one case and opens another, as Hal (Kyle Chandler) gets his hands on some alien goo and John (Aaron Pierre) finds out why a small town in Nebraska is the new center of the universe.",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-2-review-manhunters-explained-spoilers-1235211827/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-Episode-2-Aaron-Pierre-as-John-Stewart-and-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
-      "publishedAt": "2026-08-24T02:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ljLTEyMzUyMTI0MjAv",
-      "title": "A24’s ‘Tony’ Heats Up Indie Box Office, Earning an Impressive $5 Million",
-      "description": "The biopic of Anthony Bourdain is turning into another summer hit for A24, which scored with \"The Invite\" and \"Backrooms.\"",
-      "url": "https://www.indiewire.com/news/box-office/a24-tony-indie-box-office-grosses-anthony-bourdain-biopic-1235212420/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/tony2.jpg?w=650",
-      "publishedAt": "2026-08-23T20:29:36.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Wicker Man director's sons complete their late father's film trilogy",
-      "description": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/158f/live/ed9a2d40-9ef0-11f1-aed4-af6fe65bfcd6.jpg",
-      "publishedAt": "2026-08-23T12:51:15.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIxMjI3NS8",
-      "title": "Michael Wright, ‘The Five Heartbeats’ and ‘Oz’ Star, Dies at 70",
-      "description": "The electrifying actor also appeared in \"V\" and won the Volpi Cup for \"Streamers.”",
-      "url": "https://www.indiewire.com/news/obituary/michael-wright-five-heartbeats-oz-star-dead-obituary-1235212275/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-22-at-9.16.42-AM.png?w=650",
-      "publishedAt": "2026-08-22T13:45:57.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XMtcmVwdWJsaXNoZWQ",
       "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
       "description": "English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work In the dog days of the second world war, 24-year-old Maurice Schérer wrote a tale of young lovers in prewar small-town France. He described lazy August swims in the Marne River east of Paris. He wrote about age-gap affairs and semi-incestuous flirtations. Schérer gallantly used a nom de plume, Gilbert Cordier, to shield his Catholic family from scandal, but he needn’t have bothered as his concerns were unfounded. The finished novel, Élisabeth, barely made a ripple and quickly slipped out of print. Undeterred, Scherer adopted a second pseudonym – Éric Rohmer – and decided to try his luck as a film-maker instead. Now – eight decades on from its first publication, 16 years on from its author’s death – Élisabeth belatedly returns from the cold. Republished in an English-language translation by Aaron Kerner, Rohmer’s book has been greeted with glowing reviews, hailed as a lost modernist classic and a crucial origin story for the award-winning director of Claire’s Knee, The Green Ray and My Night at Maud’s. “It would be a rewarding, exciting read even if the identity of its author were unfamiliar,” wrote Richard Brody in the New Yorker. The fact that it’s by Rohmer? That’s the icing on the cake. Continue reading...",
@@ -290,18 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-JrLTEyMzUyMTIyMTMv",
-      "title": "Nearly a Century Later, Sci-Fi Western Film Serial ‘The Phantom Empire’ Still Feels Like the Future",
-      "description": "Cowboys, space queens, and the secret history of… everything? This black-and-white 1935 selection reflects just how long Hollywood has been playing with genre.",
-      "url": "https://www.indiewire.com/features/best-of/the-phantom-empire-1935-film-serials-after-dark-1235212213/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/the-phantom-empire.jpg?w=650",
-      "publishedAt": "2026-08-22T03:59:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -582,9 +582,9 @@
     {
       "id": "guardian-dy1ncmVnZy1hcmFraQ",
       "title": "I Want Your Sex review – vampy Olivia Wilde almost saves Gregg Araki’s tame dom-sub romp",
-      "description": "Sundance film festival: As a provocative artist using sex to wield power, the actor is electric but the writer-director’s return to his campy, dayglo roots is largely underwhelming While Sundance is traditionally focused on the importance of looking to the future of American film, a lineup filled with more first-timers than any other major festival, this year has been all about looking back. There are misty eyes over the loss of founder Robert Redford along with host state Utah and also for the many films that have premiered here over the years. Alongside more retrospective screenings than one usually expects, even the new films have a touch of old Sundance to them. On opening day, Rachel Lambert’s small-town drama Carousel conjured up memories of quiet character-driven indies of the late 90s and early 00s and then, on a Friday full of packed-out premieres, I Want Your Sex took us back to the era’s more in-your-face acts of provocation, made by renegade outsiders who would have otherwise struggled to find a place in the industry. It’s the new film from Gregg Araki, a film-maker who was at the forefront of this particular wave, one of Sundance’s most loved enfants terribles. He’s premiered most of his films here, from “heterosexual movie” The Doom Generation to magnum opus Mysterious Skin to all-time stoner comedy Smiley Face to 2014’s misbegotten drama White Bird in a Blizzard, his last film until now. I Want Your Sex is screening at the Sundance film festival and is seeking distribution Continue reading...",
+      "description": "As a provocative artist using sex to wield power, the actor is electric but the writer-director’s return to his campy, dayglo roots is largely underwhelming While Sundance is traditionally focused on the importance of looking to the future of American film, a lineup filled with more first-timers than any other major festival, this year has been all about looking back. There are misty eyes over the loss of founder Robert Redford along with host state Utah and also for the many films that have premiered here over the years. Alongside more retrospective screenings than one usually expects, even the new films have a touch of old Sundance to them. On opening day, Rachel Lambert’s small-town drama Carousel conjured up memories of quiet character-driven indies of the late 90s and early 00s and then, on a Friday full of packed-out premieres, I Want Your Sex took us back to the era’s more in-your-face acts of provocation, made by renegade outsiders who would have otherwise struggled to find a place in the industry. It’s the new film from Gregg Araki, a film-maker who was at the forefront of this particular wave, one of Sundance’s most loved enfants terribles. He’s premiered most of his films here, from “heterosexual movie” The Doom Generation to magnum opus Mysterious Skin to all-time stoner comedy Smiley Face to 2014’s misbegotten drama White Bird in a Blizzard, his last film until now. I Want Your Sex screened at the Sundance film festival and is out in the US on 31 July and in the UK on 28 August. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
-      "image": "https://i.guim.co.uk/img/media/4bfee507531ecf08531fa9c76c8ff737a88f4314/403_0_1798_1440/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=1d47079c3ff5ab40a3814c64f243ba8e",
+      "image": "https://i.guim.co.uk/img/media/c4ed2c4654d06defc19a856bdebf48514d69c767/354_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7b0c405c4caa5891680c9741db2c21db",
       "publishedAt": "2026-01-24T16:15:34.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
