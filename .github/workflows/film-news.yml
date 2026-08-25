@@ -1,0 +1,69 @@
+# Keeps public/film-news.json current. The News tab reads that file from the
+# deployed site, so a refresh only reaches readers once hosting is redeployed —
+# the deploy step below runs when a FIREBASE_SERVICE_ACCOUNT secret is set.
+name: Refresh film news
+
+on:
+  schedule:
+    - cron: '25 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: film-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Collect the feeds
+        run: npm run news
+
+      # Every run rewrites generatedAt, so compare the articles instead: a
+      # commit and deploy are only worth it when the stories actually changed.
+      - name: Check for new stories
+        id: check
+        run: |
+          if git diff --quiet -- public/film-news.json; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          elif [ "$(git show HEAD:public/film-news.json | jq -cS '.articles')" = "$(jq -cS '.articles' public/film-news.json)" ]; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+          else
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit the refreshed feed
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/film-news.json
+          git commit -m 'Refresh film news feed'
+          git push
+
+      - name: Build
+        if: steps.check.outputs.changed == 'true'
+        run: npm run build
+
+      - name: Deploy to Firebase Hosting
+        if: steps.check.outputs.changed == 'true' && env.FIREBASE_SERVICE_ACCOUNT != ''
+        run: |
+          printf '%s' "$FIREBASE_SERVICE_ACCOUNT" > "$RUNNER_TEMP/firebase-key.json"
+          GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/firebase-key.json" \
+            npx --yes firebase-tools@13 deploy --only hosting --project movie-diary-7995f --non-interactive
+          rm -f "$RUNNER_TEMP/firebase-key.json"

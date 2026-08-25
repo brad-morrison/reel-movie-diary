@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "news": "node scripts/collect-film-news.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },

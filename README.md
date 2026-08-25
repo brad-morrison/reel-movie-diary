@@ -42,6 +42,26 @@ The key is stored only in your browser and is never sent anywhere but TMDB.
 
 In Notion: open your movie database → **••• → Export → Markdown & CSV**, unzip, then in the app go to **Settings → Import from Notion** and choose the CSV. It maps columns like *Name/Title, Year, Type, Rating, Date, Notes, Genre, Favorite*, converts ratings (★★★★, 9/10, 4.5 all work) to a 0–10 scale, and skips duplicates.
 
+## Film news feed
+
+The **News** tab reads `public/film-news.json`, a snapshot of the Guardian, BBC
+and IndieWire film RSS feeds. Refresh it by hand with:
+
+```bash
+npm run news
+```
+
+`.github/workflows/film-news.yml` runs the same command every six hours, commits
+the file when the stories have actually changed, and then rebuilds and deploys
+hosting — the deployed copy of the JSON is what readers see, so a commit alone
+would not reach them.
+
+The deploy step is skipped until a `FIREBASE_SERVICE_ACCOUNT` repository secret
+exists: in the Firebase console generate a service-account key (Project settings
+→ Service accounts → Generate new private key) and paste the whole JSON file
+into that secret. Without it the feed still refreshes in the repo and goes live
+on the next manual `firebase deploy`.
+
 ## Tech
 
 - React 18 + Vite 6
