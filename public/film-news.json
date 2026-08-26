@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:39:31.730Z",
+  "generatedAt": "2026-08-26T19:08:02.196Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -16,15 +16,135 @@
   },
   "articles": [
     {
+      "id": "indiewire-ci0xMjM1MTc1MTIwLw",
+      "title": "‘Idiots’ Review: Macon Blair Merges ‘The Last Detail’ with ‘Road Trip’ in a Wildly Uneven Comedy That Fails to Find Its Own Lane",
+      "description": "Dave Franco and O’Shea Jackson Jr. are hired to transport an evil rich kid to rehab in a raucous comedy that never lives up to its best moments.",
+      "url": "https://www.indiewire.com/criticism/movies/idiots-the-shitheads-movie-review-macon-blair-1235175120/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/6v6ywdkxeThe_Shitheads-Still_1.jpg?w=650",
+      "publishedAt": "2026-08-26T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Taylor Swift and Beyoncé lead tributes after death of 'bold and brilliant' Dolly Parton",
-      "description": "Tributes pour in from across the worlds of music, film and politics for the star, who has died at 80.",
-      "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a1f3/live/ecb048a0-a144-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-26T10:37:39.000Z",
+      "title": "Rocky Horror star Tim Curry dies at 80",
+      "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f416/live/e5f37b10-a179-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-26T17:34:57.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Miley Cyrus remembers godmother Dolly Parton as an 'angel by my side'",
+      "description": "Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.",
+      "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2434/live/bab080c0-a16e-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-26T17:26:12.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-R5LTEyMzUyMDk0Mzkv",
+      "title": "‘Coyote vs. Acme’ Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
+      "description": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
+      "url": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
+      "publishedAt": "2026-08-26T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XItMTIzNTE5MTE3NC8",
+      "title": "Cannes 2026 Movies Sold: Judith Godrèche’s ‘A Girl’s Story’ Based on Acclaimed Memoir Sells to Zeitgeist Films",
+      "description": "Kino Lorber will also help with distribution for the Un Certain Regard title that will now open in April 2027.",
+      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/201222-scaled-1.webp?w=650",
+      "publishedAt": "2026-08-26T16:32:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZS1pbi1waWN0dXJlcw",
+      "title": "Clowns, corsets and kings: Tim Curry – a life in pictures",
+      "description": "The Rocky Horror Picture Show, It and Legend actor has died – we look back at his career • Tim Curry, star of The Rocky Horror Picture Show, dies aged 80 • Why Tim Curry’s Rocky Horror Show will go on – appreciation • Tim Curry on sexuality, surviving a stroke and 50 years of stardom Continue reading...",
+      "url": "https://www.theguardian.com/film/gallery/2026/aug/26/clowns-corsets-and-kings-tim-curry-a-life-in-pictures",
+      "image": "https://i.guim.co.uk/img/media/e80d9f200b535c263977bfb44ee9431ba79c28cd/123_213_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1fc8b6587eee0e25c6bec05fb7b1299",
+      "publishedAt": "2026-08-26T16:28:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-i1waWN0dXJlLXNob3c",
+      "title": "Farewell, Dr Frank-N-Furter: why Tim Curry’s Rocky Horror Show will go on",
+      "description": "The versatile stage performer will always be remembered for his defining film role in The Rocky Horror Picture Show, which turned him into an icon of 70s underground cinema and proto-punk • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke and 50 years of stardom • Clowns, corsets and kings – a life in pictures Over the past decade, the issues of trans identity and gender fluidity couldn’t have been more contemporary, and Tim Curry was an integral part of what might be called their pre-history in pop culture. He was an icon – though maybe now a dimly remembered icon – of the 70s underground cinema and proto-punk. Curry was a good-looking actor with a tremendous speaking and singing voice, and a versatile performer – he got Tony nominations for his varied stage work on Broadway as Salieri in Amadeus, Alan Swann in My Favorite Year (the part Peter O’Toole played on screen) and as King Arthur in Monty Python’s Spamalot . But it was his strange destiny to be remembered for one role: at once indelibly prominent and weirdly peripheral. He was the sensational Dr Frank-N-Furter in the thoroughly outrageous Rocky Horror Picture Show (1975), the screen version of the 1973 stage show. Continue reading...",
+      "url": "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
+      "image": "https://i.guim.co.uk/img/media/af1f0cb91c70bff8898bbc6633435ab0ef358fd2/0_179_2432_1945/master/2432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b95abab13c12dea8f60767765964e77",
+      "publishedAt": "2026-08-26T16:02:23.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIxMjgxOS8",
+      "title": "Megan Ellison’s Annapurna Lays Off 16% of Work Force After Mounting Comeback with ‘The Invite’",
+      "description": "Annapurna cuts 30 staffers which a spokesperson says \"reflects business conditions.\"",
+      "url": "https://www.indiewire.com/news/business/megan-ellison-annapurna-lays-off-30-staffers-the-invite-1235212819/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_Invite-Still_1.webp?w=650",
+      "publishedAt": "2026-08-26T15:56:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-FkLTEyMzUxOTA3MTcv",
+      "title": "Tim Curry, Midnight Movie Legend and Singular Acting Talent, Dead at 80",
+      "description": "Known for \"The Rocky Horror Picture Show,\" \"Clue,\" and more cult classics, the electric performer was a patron saint of the midnight movie whose seductive impact can never be forgotten.",
+      "url": "https://www.indiewire.com/news/obituary/tim-curry-dead-1235190717/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/MBDROHO_FE026.jpg?w=650",
+      "publishedAt": "2026-08-26T15:45:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMTI3Njcv",
+      "title": "Indie Specialized Box Office: Alex Ullom’s ‘It Ends’ Gets Solid Start via 36-Hour Marathon Screening",
+      "description": "Neon's horror road trip movie made $61,287 from just 5 screens this weekend.",
+      "url": "https://www.indiewire.com/news/box-office/it-ends-36-hour-screening-specialized-box-office-1235212767/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Phinehas-Yoon-Akira-Jackson-Noah-Toth-in-IT-ENDS_Courtesy-of-NEON.jpeg?w=650",
+      "publishedAt": "2026-08-26T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JkLTEyMzUyMTI1MjMv",
+      "title": "Ridley Scott Reveals Lost ‘Blade Runner’ Script Idea That Proved Too Complicated, and Why Harrison Ford ‘Didn’t Get’ the Movie",
+      "description": "The \"Dog Stars\" director has commanded armies and shot epics with more than a dozen cameras at once, but he tells IndieWire that writing is still the hardest part of filmmaking.",
+      "url": "https://www.indiewire.com/features/interviews/ridley-scott-lost-blade-runner-script-idea-why-writing-hard-1235212523/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P107Q028.jpg?w=650",
+      "publishedAt": "2026-08-26T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -90,7 +210,7 @@
     {
       "id": "guardian-ktc2NvdHQtcmV2aWV3",
       "title": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
-      "description": "An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy Looking towards the end of an August movie dumping ground littered with more unwanted trash than usual, there seemed to be a faint glimmer of hope, a shiny treasure poking out through the dusty mass of unnecessary sequels and sex purge romcoms . Somehow, there was a $110m-budget adaptation of an acclaimed novel directed by Ridley Scott, led by a recently Oscar-nominated rising star with support from two Oscar-nominated actors and an Oscar-winner. But why then would such a film be unveiled in between the summer blockbuster season and the upcoming deluge of prestige fall festival big hitters? A cursed weekend that’s recently been home to Jay Roach’s heinous War of the Roses remake, Dennis Quaid’s Ronald Reagan biopic and George Miller’s hard-to-define and even harder-to-love flop Three Thousand Years of Longing. Ever since The Dog Stars, based on Peter Heller’s 2012 novel, had been yanked from its far more encouraging date at the end of March, there were multiple red flags flying and the rotten end of August has ultimately become an appropriate punishment for a limp and lethargic film that only briefly fascinates in pushing us to wonder what anyone was really hoping this would end up being. It’s yet another grubby postapocalyptic survival tale, an overcrowded subgenre that hasn’t just reached maximum capacity on the big screen but on the small one too. In a world of seven Walking Dead shows, the beats are now far too familiar – artfully dishevelled actors grieve for the past and fear for the future as they scramble to find and protect resources – and there’s nothing new or notable here to conjure anything but deja vu. Continue reading...",
+      "description": "An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy Looking towards the end of an August movie dumping ground littered with more unwanted trash than usual, there seemed to be a faint glimmer of hope, a shiny treasure poking out through the dusty mass of unnecessary sequels and sex purge romcoms . Somehow, there was a $110m-budget adaptation of an acclaimed novel directed by Ridley Scott, led by a recently Oscar-nominated rising star with support from two Oscar-nominated actors and an Oscar winner. But why then would such a film be unveiled in between the summer blockbuster season and the upcoming deluge of prestige fall festival big hitters? A cursed weekend that’s recently been home to Jay Roach’s heinous War of the Roses remake, Dennis Quaid’s Ronald Reagan biopic and George Miller’s hard-to-define and even harder-to-love flop Three Thousand Years of Longing. Ever since The Dog Stars, based on Peter Heller’s 2012 novel, had been yanked from its far more encouraging date at the end of March, there were multiple red flags flying and the rotten end of August has ultimately become an appropriate punishment for a limp and lethargic film that only briefly fascinates in pushing us to wonder what anyone was really hoping this would end up being. It’s yet another grubby postapocalyptic survival tale, an overcrowded subgenre that hasn’t just reached maximum capacity on the big screen but on the small one too. In a world of seven Walking Dead shows, the beats are now far too familiar – artfully dishevelled actors grieve for the past and fear for the future as they scramble to find and protect resources – and there’s nothing new or notable here to conjure anything but deja vu. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review",
       "image": "https://i.guim.co.uk/img/media/24861a5ad8ad7f7749069046da56317152febec4/1467_752_5500_4400/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=94d9930a8aa6f4c711f5191d553efa46",
       "publishedAt": "2026-08-26T00:00:28.000Z",
@@ -184,66 +304,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XAtMTIzNTIxMjYyMi8",
-      "title": "‘NAZA’ Documentary from ‘No Other Land’ Directors Yuval Abraham and Rachel Szor Sets North American Premiere at NYFF",
-      "description": "The documentary about Israeli military operations in Gaza will have its world premiere in Venice.",
-      "url": "https://www.indiewire.com/news/festivals/naza-gaza-documentary-nyff-lineup-1235212622/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-25-at-9.48.59-AM.png?w=650",
-      "publishedAt": "2026-08-25T17:26:48.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-lzLTEyMzUyMTIxNjIv",
-      "title": "Modern Hollywood Keeps Failing Looney Tunes. Will ‘Coyote vs. Acme’ Finally Get It Right?",
-      "description": "In the early 20th century, Bugs Bunny shorts were a big screen cash cow for Warner Bros. But the past few decades of movies reflect a questionable understanding of a blue chip IP.",
-      "url": "https://www.indiewire.com/features/commentary/looney-tunes-movie-history-analysis-1235212162/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
-      "publishedAt": "2026-08-25T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjEyNTQzLw",
-      "title": "Universal Film, Focus Features Extend Partnership with Sundance Institute to Support Rising Filmmakers",
-      "description": "Exclusive: The companies announce the 2026 Sundance Institute Breakthrough &#124; Focus Features Fellows.",
-      "url": "https://www.indiewire.com/news/festivals/universal-film-focus-features-sundance-institute-fellowship-extended-1235212543/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-2.28.11-PM.png?w=650",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RlLTEyMzUyMTI1NzAv",
-      "title": "Paul Thomas Anderson’s New Concert Film ‘Cameron Winter at Carnegie Hall’ Sets Fall Roadshow Release",
-      "description": "Janus Films and Criterion will distribute the concert film featuring the Geese frontman, which is Anderson's first project since \"One Battle After Another.\"",
-      "url": "https://www.indiewire.com/news/general-news/cameron-winter-carnegie-hall-pta-concert-film-release-date-1235212570/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjEyNjAwLw",
-      "title": "‘The Pitt,’ ‘All Her Fault,’ and More Among Nominees for The DARCYS 2026",
-      "description": "The nominations for the inaugural Easterseals Disability Arts &#38; Culture Awards (The DARCYS) include \"The Pitt\" and \"All Her Fault.”",
-      "url": "https://www.indiewire.com/awards/results/the-darcys-2026-nominations-the-pitt-all-her-fault-1235212600/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MixCollage-25-Aug-2026-02-12-AM-4234.jpg?w=650",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-cnZpbi1vYml0dWFyeQ",
       "title": "John Irvin obituary",
       "description": "British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’ Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbuckler, Harold Pinter to Arnold Schwarzenegger, the director John Irvin, who has died aged 86, was nothing if not eclectic. “I’m a bit split,” he said. “I like playing with expensive toys, yet I also like the miniatures. I hate being pigeonholed, and I like to do the unexpected.” Continue reading...",
@@ -266,42 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMDc0MDEv",
-      "title": "TIFF Will Honor Penélope Cruz, Lee Chang-dong, Fan Bingbing, Helen Mirren, Isabelle Huppert, and More",
-      "description": "The eighth annual TIFF Tribute Awards gala fundraiser will take place on September 13.",
-      "url": "https://www.indiewire.com/news/festivals/tiff-tribute-honorees-penelope-cruz-lee-chang-dong-more-1235207401/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2023/09/Penelope-Cruz.jpg?w=650",
-      "publishedAt": "2026-08-25T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIxMjU3OC8",
-      "title": "‘Ali G: Who Iz I?’ Trailer: Sacha Baron Cohen Resurrects His Original Man-on-the-Street Character",
-      "description": "The film, which Cohen once again shot in secret, hits theaters on October 23 courtesy of Amazon MGM.",
-      "url": "https://www.indiewire.com/news/trailers/ali-g-who-iz-i-trailer-sacha-baron-cohen-1235212578/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-25-at-9.01.09-AM.png?w=650",
-      "publishedAt": "2026-08-25T13:01:40.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-lidXRpb24tcmV2aWV3",
-      "title": "Rise of the Footsoldier: Retribution review – never-ending hardman-on-a-mission franchise heads to Ibiza",
-      "description": "The seventh in the series takes longstanding lead gangster Tate, played to the hilt as always by Craig Fairbrass, to the White Isle to knock some heads together The seventh instalment in this seemingly never-ending series opens with a line of voiceover from star Craig Fairbrass, summarising forthcoming proceedings nicely: “They killed my best friend, now they all have to die.” The real-life hardman Pat Tate might have been murdered in his 30s in Essex in 1995 , but that hasn’t proved a setback for his invincible fictionalised counterpart, played to the hilt throughout the entire franchise with hard-headed gusto by Fairbrass. In this one, Tate is in Ibiza, but rather than larging it, he’s intent on tracking down his enemies and exacting the titular retribution. Various arms dealers, guns for hire and, perhaps more unexpectedly, the CIA, provide a bit of grit in the oyster. The director here is series veteran Nick Nevern, having appeared in ROTF: Marbella in 2019, and stepped up to the director’s chair for 2023’s ROTF: Vengeance. Retribution is at its best when engaged in stylised slow-motion action sequences that play out like The Untouchables, if The Untouchables had a soundtrack influenced by Paul Oakenfold and was made on about 100th of the budget. Dialogue is not its strong point, and is mostly made up of interchangeable gangster film cliches. (It’s all, “These are very serious people” and “You remind me so much of her”.) You may not be ponying up to watch a Footsoldier movie on the basis that you’ll be hearing curlicued witticisms worthy of Oscar Wilde, but it is possible to write gangster-speak with a bit more zest. Even Nick Love’s The Business gave us: “The geezer was so hard even his nightmares were scared of him.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/25/rise-of-the-footsoldier-retribution-review",
-      "image": "https://i.guim.co.uk/img/media/eeb5307cd589e247cf4f192cc17888e30c899a85/450_0_1110_888/master/1110.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd2e1d06be7ebf15364c81580dbedd57",
-      "publishedAt": "2026-08-25T10:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZmlsbS1mZXN0aXZhbA",
@@ -397,18 +421,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-G0tb2YtYWxsLXRpbWU",
-      "title": "The Odyssey becomes highest grossing R-rated film of all time",
-      "description": "Christopher Nolan’s epic has achieved $1.35bn at the global box office, overtaking 2024’s Deadpool & Wolverine The Odyssey has overtaken Deadpool & Wolverine to become the highest grossing R-rated film of all time. According to figures compiled by the Numbers , Christopher Nolan’s adaptation of Homer’s epic poem has achieved $1.35bn (£990m) at the worldwide box office, compared with the Ryan Reynolds/Hugh Jackman superhero movie , which stands at $1.34bn (£980m) since its release in 2024. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/21/the-odyssey-highest-grossing-r-rated-film-of-all-time",
-      "image": "https://i.guim.co.uk/img/media/5cdead412672d4162bea86fe224d3306ceae76d6/0_420_3298_2638/master/3298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c63344be3e0f3e0cd417b6a3be458e44",
-      "publishedAt": "2026-08-21T10:49:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
