@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T18:38:18.233Z",
+  "generatedAt": "2026-08-26T00:39:59.034Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-ktc2NvdHQtcmV2aWV3",
+      "title": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
+      "description": "An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy Looking towards the end of an August movie dumping ground littered with more unwanted trash than usual, there seemed to be a faint glimmer of hope, a shiny treasure poking out through the dusty mass of unnecessary sequels and sex purge romcoms . Somehow, there was a $110m-budget adaptation of an acclaimed novel directed by Ridley Scott, led by a recently Oscar-nominated rising star with support from two Oscar-nominated actors and an Oscar-winner. But why then would such a film be unveiled in between the summer blockbuster season and the upcoming deluge of prestige fall festival big hitters? A cursed weekend that’s recently been home to Jay Roach’s heinous War of the Roses remake, Dennis Quaid’s Ronald Reagan biopic and George Miller’s hard-to-define and even harder-to-love flop Three Thousand Years of Longing. Ever since The Dog Stars, based on Peter Heller’s 2012 novel, had been yanked from its far more encouraging date at the end of March, there were multiple red flags flying and the rotten end of August has ultimately become an appropriate punishment for a limp and lethargic film that only briefly fascinates in pushing us to wonder what anyone was really hoping this would end up being. It’s yet another grubby postapocalyptic survival tale, an overcrowded subgenre that hasn’t just reached maximum capacity on the big screen but on the small one too. In a world of seven Walking Dead shows, the beats are now far too familiar – artfully dishevelled actors grieve for the past and fear for the future as they scramble to find and protect resources – and there’s nothing new or notable here to conjure anything but deja vu. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review",
+      "image": "https://i.guim.co.uk/img/media/24861a5ad8ad7f7749069046da56317152febec4/1467_752_5500_4400/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=94d9930a8aa6f4c711f5191d553efa46",
+      "publishedAt": "2026-08-26T00:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIxMjYyMC8",
+      "title": "‘The Dog Stars’ Review: Jacob Elordi and Josh Brolin Can’t Save Ridley Scott’s Bizarrely Inert Post-Apocalypse Movie from Near-Disaster",
+      "description": "Elordi is a pilot eking out the last days of humanity in Scott's rustic spin on the post-pandemic survival thriller. But it's one curiously lacking in thrills.",
+      "url": "https://www.indiewire.com/criticism/movies/the-dog-stars-review-jacob-elordi-ridley-scott-movie-1235212620/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TDS-00424.jpg?w=650",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-ay0xMjM1MjEyNjE0Lw",
+      "title": "Martin Short Explains Why He’s Never Seen a Shrink: ‘It’s OK to Be Sad’",
+      "description": "The Canadian comedian tells IndieWire how Lawrence Kasdan convinced him to become the subject of the Netflix Emmy-nominated documentary, \"Marty, Life Is Short.\"",
+      "url": "https://www.indiewire.com/awards/consider-this/martin-short-netflix-doc-why-hes-never-seen-shrink-1235212614/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/09/GF1_3805.jpg?w=650",
+      "publishedAt": "2026-08-25T19:30:06.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-FkLTEyMzUyMTI2NjMv",
       "title": "Dolly Parton, Iconic Singer/Songwriter and ‘9 to 5’ Star, Dies at 80",
@@ -41,10 +77,10 @@
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Dolly Parton: The country legend who sang from the heart",
+      "title": "Dolly Parton: Life of the music legend whose songs touched millions",
       "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
       "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9edd/live/72b74780-4963-11f1-a87a-55dfd3c7a311.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c527/live/1d8fb230-a0b4-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-25T18:14:13.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -172,18 +208,6 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-15LTEyMzUyMTI1OTYv",
-      "title": "‘I Love Lucy’ to Receive Television Academy’s First Ever Legacy Award",
-      "description": "The Television Academy finally revealed that the trailblazing sitcom \"I Love Lucy\" will receive its inaugural Legacy Award on night two of the Creative Arts Emmys on Sunday, September 6.",
-      "url": "https://www.indiewire.com/awards/results/i-love-lucy-legacy-award-television-academy-1235212596/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P4DLUBA_EC008.jpg?w=650",
-      "publishedAt": "2026-08-25T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-lidXRpb24tcmV2aWV3",
       "title": "Rise of the Footsoldier: Retribution review – never-ending hardman-on-a-mission franchise heads to Ibiza",
       "description": "The seventh in the series takes longstanding lead gangster Tate, played to the hilt as always by Craig Fairbrass, to the White Isle to knock some heads together The seventh instalment in this seemingly never-ending series opens with a line of voiceover from star Craig Fairbrass, summarising forthcoming proceedings nicely: “They killed my best friend, now they all have to die.” The real-life hardman Pat Tate might have been murdered in his 30s in Essex in 1995 , but that hasn’t proved a setback for his invincible fictionalised counterpart, played to the hilt throughout the entire franchise with hard-headed gusto by Fairbrass. In this one, Tate is in Ibiza, but rather than larging it, he’s intent on tracking down his enemies and exacting the titular retribution. Various arms dealers, guns for hire and, perhaps more unexpectedly, the CIA, provide a bit of grit in the oyster. The director here is series veteran Nick Nevern, having appeared in ROTF: Marbella in 2019, and stepped up to the director’s chair for 2023’s ROTF: Vengeance. Retribution is at its best when engaged in stylised slow-motion action sequences that play out like The Untouchables, if The Untouchables had a soundtrack influenced by Paul Oakenfold and was made on about 100th of the budget. Dialogue is not its strong point, and is mostly made up of interchangeable gangster film cliches. (It’s all, “These are very serious people” and “You remind me so much of her”.) You may not be ponying up to watch a Footsoldier movie on the basis that you’ll be hearing curlicued witticisms worthy of Oscar Wilde, but it is possible to write gangster-speak with a bit more zest. Even Nick Love’s The Business gave us: “The geezer was so hard even his nightmares were scared of him.” Continue reading...",
@@ -230,30 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjEyNTU1Lw",
-      "title": "Sumerian Pictures Acquires North American Rights to ‘Butthole Surfers: The Hole Truth and Nothing Butt’",
-      "description": "Exclusive: The documentary about the pioneering rock band won the SXSW “Best in Texas” award.",
-      "url": "https://www.indiewire.com/news/business/sumerian-pictures-buys-butthole-surfers-documentary-1235212555/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-3.45.57-PM.png?w=650",
-      "publishedAt": "2026-08-24T22:05:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival",
-      "description": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by Oscar-winning directors Yuval Abraham and Rachel Szor and produced by the Guardian, is to receive its world premiere at the Venice film festival. The film, called NAZA, has been produced with Jim Wilson and executive produced by Jonathan Glazer, the team behind The Zone of Interest, and is the only documentary that will compete this year for Venice’s prestigious Golden Lion. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/322_73_2518_2016/master/2518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c7384728939db7893a571e898d7ec9",
-      "publishedAt": "2026-08-24T13:16:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
