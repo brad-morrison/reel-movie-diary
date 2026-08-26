@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T00:39:59.034Z",
+  "generatedAt": "2026-08-26T06:39:25.008Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-bWVkLWFsaS1uYXF2aQ",
+      "title": "Hanging By a Wire review – cable car rescue documentary dangles viewers on the edge of disaster",
+      "description": "The extraordinary fate of eight people trapped above a chasm in Pakistan makes for a tense, skilfully assembled survival story with unexpected flashes of comedy Survival documentaries are a weird little genre of nonfiction film-making that recount the stories of accidents and natural catastrophes – and more often than not, the daring rescues of people caught up in them. Eyewitnesses and the loved ones of those endangered are top of the interview list, to keep the sense of danger and emotional stakes at the top of everyone’s mind. Survivors can also have their say, and more adventurous film-makers might care to recreate the action with actors or the actual survivors themselves. This account of how eight people – six teenage boys and two adult men – were left suspended over a chasm in northern Pakistan in 2023, when a wire on the cable car they were travelling on broke, is a pretty conventional example of the form. For obvious reasons, no one tries to recreate the situation, but since it was quite recent there is no shortage of news footage and amateur clips to fill out the particulars. The downside of doing a story that’s so recent is that some of the audience may remember what happened anyway, but still there’s plenty of nail-nibbling suspense here, and sequences that will give anyone with acrophobia the heebie jeebies – especially the drone shots that zoom close on the terrified faces of those trapped inside the dangling car. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/26/hanging-by-a-wire-review-mohammed-ali-naqvi",
+      "image": "https://i.guim.co.uk/img/media/15865cab6a0dcb431057baba4d3873ea0320ba9b/4572_1364_9540_7636/master/9540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c83b533df1a653da41aee75f0b6553bc",
+      "publishedAt": "2026-08-26T06:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-ktc2NvdHQtcmV2aWV3",
       "title": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
@@ -38,6 +50,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "'I'm heartbroken' - Fans react to Dolly Parton's death",
+      "description": "The BBC spoke to gatherers at her Hollywood star in Los Angeles, and fans in Washington DC about the music icon's impact.",
+      "url": "https://www.bbc.co.uk/news/videos/c20ljnlpd3vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9fb5/live/30f28c40-a0db-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-08-25T23:21:08.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-ay0xMjM1MjEyNjE0Lw",
@@ -244,28 +268,52 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-XJpb3VzbHktc2xhY2s",
-      "title": "Zip Wire review – cancer-curing scientist is on the hook for cable-dangle thriller",
-      "description": "This nonsensical film sees an OCD-afflicted scientist fending off assassins while hanging from an aerial wire, and fails to get pulses racing for even a minute In this silly, low-adrenaline thriller, the title star is a rickety old zip wire bolted into the side of a mountain in the Italian Dolomites that was never intended for human use. It was constructed in the first world war to sling weapons and supplies hundreds of feet down the valley – and is still used to get the occasional goat off the mountain. But for the second half of this film, a world-famous British research scientist with an extreme fear of heights dangles from it, fighting off highly skilled assassins in increasingly preposterous ways. The scientist is Amy (MyAnna Buring); she has discovered a cure for lung cancer, and her drive is explained in syrupy hospital-ward flashbacks to her mother dying when she was a teenager. Amy also has OCD – she is so anxious about germs that she never takes off her rubber gloves, and has an assistant in her lab to do anything that involves touching or handling objects. (Like all the characters, she never gets beyond a stereotype.) Her research is bankrolled by a big pharma company, whose CEO is played by Saffron Burrows (now seemingly mandatory casting for ropey British thrillers). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/25/zip-wire-review-cable-dangle-thriller-is-seriously-slack",
-      "image": "https://i.guim.co.uk/img/media/5aca611301384bafd157bcc8de0d2067b0cf2444/478_0_4775_3820/master/4775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=14ce89522674fc58792a356009977fb7",
-      "publishedAt": "2026-08-25T06:00:50.000Z",
+      "id": "guardian-aGluZy1pbi1saW1ibw",
+      "title": "The Visitor review – existential Lithuania-set homecoming drama leaves everything in limbo",
+      "description": "This portrait by Vytautas Katkus of a man contemplating his recent fatherhood and his own father is steeped in ennui and ends up drifting At one point in this Nordic-Baltic homecoming film, Danielius (Darius Šilėnas) refuses an invite for beachfront karaoke, preferring to watch from behind a polythene partition. At another, a neighbour glimpses him exercising across the courtyard, through the window of the flat in an end-of-summer Lithuanian resort that Danielius is trying to sell. Having returned from Norway to settle up accounts, this prodigal son is often holding the world at arm’s length – and director Vytautas Katkus does his best to help him with this distanced technique in this quizzical and faintly existential drama. Little tangible is disclosed. Danielius is a thirtysomething father who skipped the funeral of his own dad the year before. Preparing the flat to go on the market, he walks the dog of his neighbour, Vismante (Vismantė Ruzgaitė), hangs speculatively at beach gatherings and falls asleep in pine forests. Ice-cream is eaten at every available opportunity. He’s not alienated exactly, but somewhat out of step. As he looks for new anchorage, even the film seems to question whether Danielius has sufficient main character energy: it periodically drifts to follow another resident, Tomas (Rokas Siaurusaitis), who is caring for his grandmother over the way. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/24/the-visitor-review-existential-lithuania-set-homecoming-drama-leaves-everything-in-limbo",
+      "image": "https://i.guim.co.uk/img/media/3afe145c52d02b546f3a476b7fb1f953694cebf5/224_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5b2125893ebd7166a96a740209db07f5",
+      "publishedAt": "2026-08-24T10:26:03.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Nigerian film star Ogogo dies from cancer aged 66",
-      "description": "Taiwo Hassan, better known as Ogogo, was one of the most recognisable faces of Yoruba cinema.",
-      "url": "https://www.bbc.co.uk/news/articles/cg7k9rp10l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4fcf/live/433c48c0-9f8f-11f1-9fae-bbc7231f436d.jpg",
-      "publishedAt": "2026-08-24T09:31:46.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-hlLWRhcmstcmV2aWV3",
+      "title": "Marching in the Dark review – rural Indian widows show stunning resilience as they battle poverty and taboos",
+      "description": "Kinshuk Surjan’s documentary follows women in dire financial straits whose bereavement compounds their social plight, which they confront together Out in rural India, a crisis casts a dark cloud over the seemingly tranquil vistas of wheat fields and soy farms. Over the past 20 years, more than 400,000 farmers have killed themselves , beset by mounting debts and low market prices for crops. Shot in Maharashtra, the state with the highest rate of farmer suicides in India, Kinshuk Surjan’s documentary sensitively captures another tragedy that lingers after death: left behind by their dead husbands, generations of grieving widows struggle to find their way in a society still burdened by patriarchal values. Sanjivani, a woman in her 30s, is one such case. Eight years after her husband killed himself, she has taken over some of the farming responsibilities, along with other odd jobs, to provide for her two children. The camera rarely finds her at rest; Sanjivani not only works in the fields but also performs domestic labour for her extended family – cooking, cleaning and doing laundry. Her resilience is stunning to witness, but even more impressive is the emotional support provided by a tight-knit network of other widows. Together, the women gather for counselling sessions where they can freely discuss their emotional, physical and financial issues. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/24/marching-in-the-dark-review",
+      "image": "https://i.guim.co.uk/img/media/569126f9a3cb2e6ca2983dd7bf13ea1b406edc72/334_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c3e4596980d38ebeeefac8319c969a54",
+      "publishedAt": "2026-08-24T10:00:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LXJldmlldy1pbmRpYQ",
+      "title": "Disciples review – fresh-faced boys are sucked into a nightmare of extremism in India",
+      "description": "A prestigious school in the holy city of Varanasi and its controversial, dogmatic teachings are the subject of this shocking documentary The effect of political and religious indoctrination on young minds resembles a slow-release poison. Unfolding in observational vignettes, Pankaj Johar and Sunaina Kapoor’s thought-provoking documentary centres on Vidya Mutth, a prestigious Hindu school in the holy city of Varanasi, India, where sectarian beliefs are drilled into its students, all in the name of cultural preservation. The film opens with controversial speeches made by the school’s spiritual leader, Guru Avimuktesh, who advocates the abolition of religious freedom, and for Indian Muslims to either convert to Hinduism or leave for Pakistan. A prominent Hindu figure with a large following, he personally oversees the entrance exam, a sequence captured in dynamic handheld shots. While boys take the test, their parents look on with apprehension and anxiety; to be accepted would be an honour, not only for their child but for the whole family. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/24/disciples-review-india",
+      "image": "https://i.guim.co.uk/img/media/a5afd6a742bf5a748bbef10c4f66a5801cd705ed/645_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8d4c92e8bec702da97fa38ff119cb3ab",
+      "publishedAt": "2026-08-24T08:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-29vZC1ib2xseXdvb2Q",
+      "title": "On Different Grounds review – Cupid’s-conspiracy romcom brings Nollywood and Bollywood together",
+      "description": "Mildred Okwo’s earnest film about the conflicting romantic wishes in a Nigerian family struggles to connect with its promising premise It’s a stretch for this Nigerian romcom to bill itself “the first Nollywood-Bollywood collaboration” based on the fact that it features, in Nimesh Diliprai Desai and Vineet Raina, two fringe Indian players on a sprawling wedding-invite list. But the two industries do indeed have much common ground, such as big-hearted family values and a penchant for grand gestural emotions that, in the case of Mildred Okwo’s somewhat heavy-footed film, trample on some promising concepts and narrative plausibility. Silk-tressed bachelorette Aurora (Abena Akuaba) is being browbeaten by her businessman dad Eyimofe (Bob-Manuel Udokwu) to marry snoozefest suitor Tobore (Ifeanyi Kalu). She is hardly enthused when he parrots his criteria for embarking on “a collaboration with an individual or brand”: “value check, common interest, due diligence and critical analysis.” (Tobore ticks the boxes.) But she agrees to set a date on one condition: that Eyimofe must invite her mother, Isioma (Jennifer Eliogu) – booted out by Eyimofe many years back for wanting to pursue her career – to the big day. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/24/on-different-grounds-review-nollywood-bollywood",
+      "image": "https://i.guim.co.uk/img/media/8d4de7f0b696a74391bbdab3b5b62f37d3749a84/968_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=f8ddb33070a1069874aead3a3862a584",
+      "publishedAt": "2026-08-24T06:00:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-XRyb3Blcy1pc3JhZWw",
@@ -388,6 +436,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-XNvbmFsLXJvbWFuY2U",
+      "title": "Hazy sunshine, factor-50 smiles and Cliff Richard at the wheel: the 20 best summer holiday movies – ranked!",
+      "description": "From feelgood romances to heated interactions, here are the films that best capture the seasonal moment Let’s begin at the end. 2 September 1962: the final night of the summer vacation; one last big blowout before adult life intervenes. George Lucas’s rambunctious salute to footloose youth paints vivid vignettes of Modesto, California, rocking around the clock with its loose-knit gaggle of characters. But this has one eye on the meter and knows that time is running short. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/20/best-summer-holiday-movies-ranked-seasonal-romance",
+      "image": "https://i.guim.co.uk/img/media/8d4fec385c1aedfbe9e8a7f2bd2d5e22de8271bb/656_0_3098_2480/master/3098.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3e3e0081a786f442c5424e58753bce1",
+      "publishedAt": "2026-08-20T12:05:39.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-MtcG9pc29uLXN3b29u",
       "title": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
       "description": "The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix Trailblazing producer Christine Vachon bestrides the world of US independent film-making like a colossus. She has championed idiosyncratic American cinema for more than 35 years, scoring hits such as the romcom Materialists, which starred three superhero actors (Dakota Johnson, Pedro Pascal, Chris Evans) and grossed $108m, alongside curiosities such as Zola, a strippers’ road-trip comedy based on a string of viral tweets. Vachon got her start in the early 1990s. Her often scandalous movies – from Poison (gay prison sex) and Swoon (gay child killers) to Happiness (paedophile dad) and Kids (delinquent teens) – dominated the cultural conversation decades before boutique studio A24 had sold its first tote bag. Her production outfit Killer Films, which she founded in 1995 with Pamela Koffler, has as its logo a cartoon bunny with a target for a body, mischievously evoking the company’s blend of irreverence and danger. “I don’t think we’ve ever made a movie that somebody hasn’t been offended by,” Vachon said in 2000. Continue reading...",
@@ -412,24 +472,24 @@
       "category": "TV"
     },
     {
+      "id": "guardian-dGUtcm9hZHJ1bm5lcg",
+      "title": "Coyote Vs Acme review – quirky comedy returns from the dead to flip Wile E Coyote’s slapstick-violent world",
+      "description": "After being shelved as a tax-writeoff, this Looney Tunes reboot redraws the hapless hunter as the Erin Brockovich of the cartoon world Here is a quirky, peculiar, yet strangely diverting live-action-toon hybrid of the kind that hasn’t been popular at the movies for many a day; it gives us a new twist on the surreal forever war between Wile E Coyote and the speedy Road Runner (catchphrase “beep beep”, pronounced “meep, meep”). The music over the closing credits will incidentally disappoint fans of this animated franchise; they’ve gone with the Clash’s I Fought the Law, but surely it should be Roadrunner from Jonathan Richman and the Modern Lovers ? Coyote Vs Acme is a comedy whose obsessive and hyperactive pedantry is exhausting, but arguably part of the point, aimed at America’s litigious culture, corporate arrogance and monopoly capitalism. So when producers Warner Bros initially decided to shelve the whole thing as a tax writeoff, that must have felt to director Dave Green like an ironic cartoon anvil to the head. Well, the film was rescued and it would be great therefore to discover that this is a masterpiece. Sadly it’s not, but there are some laughs and the pure fanatical oddity makes this watchable. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/19/coyote-vs-acme-review-wile-e-coyote-roadrunner",
+      "image": "https://i.guim.co.uk/img/media/7346c0fc850699f1df8aecfff6e36efd93ea9c22/4145_0_8318_6662/master/8318.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=99d1d62ed32f9303e6ec32035c53687a",
+      "publishedAt": "2026-08-19T12:00:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Hayden Panettiere: A life of struggles alongside screen success",
       "description": "She went from child actress to Hollywood star, but endured addiction, harassment and personal trauma.",
       "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8c4a/live/54c2c620-9a2e-11f1-90d9-9d833c0912f2.jpg",
       "publishedAt": "2026-08-17T11:47:52.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
-      "description": "The former child star whose breakthrough came in 2006 later opened up about her struggles with mental health.",
-      "url": "https://www.bbc.co.uk/news/articles/c75g0n2wy6lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e671/live/7f2aad10-9a15-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-17T10:15:13.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -448,6 +508,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-WxpYW4tZGVubmlzb24",
+      "title": "Sam Neill on making Hunt for the Wilderpeople: ‘We were attacked by a puppet pig!’",
+      "description": "Speaking just before his death, the actor recalled his hostile hunting dog Zag, director Taika Waititi’s comedy genius – and the wild boar scene that left children traumatised • Warning: contains spoilers Taika Waititi’s film Boy is one of my favourites ever, so when I got the Wilderpeople script I was already well disposed to it. Hec is sort of a New Zealand archetype. When I was at university, during the holidays I’d work at cutting hay and shifting sheep and fertiliser. There was always a Hec driving the truck. They were men of very few words, but when they did say something it meant a lot. It was clear I was never going to have many lines in the film. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/10/sam-neill-taika-waititi-hunt-for-the-wilderpeople-julian-dennison",
+      "image": "https://i.guim.co.uk/img/media/e1bf97a04a4daf1f91ba224337053816d0621abb/294_0_2916_2332/master/2916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a7564c21f41bb179f2c3d3a679aae3a",
+      "publishedAt": "2026-08-10T14:14:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-l0LWFzLWRpcmVjdG9y",
       "title": "Out of the blue: James Cameron’s surprise departure would be good for Avatar",
       "description": "The director has yet again hinted that he may step away – but if he does actually relinquish control, it would likely benefit the franchise After directing the highest-grossing film trilogy of all time, and having spent more than two decades bending technology, studio executives and several hundred million dollars’ worth of underwater motion capture to his will, James Cameron this week signalled that he may be ready to hand the future of the Avatar franchise to another director. Indeed, he bent Hollywood to his will so completely that it became almost impossible in the early 2010s to watch a blockbuster without uncomfortable plastic glasses, and without objects on the screen being hurled pointlessly towards the audience. Still, the Canadian film-maker now appears to be seriously considering handing over everyone’s favourite multibillion-dollar bioluminescent space jungle to someone else. “There’s been momentum in the Avatar universe for 21 years at this point because we started in 2005,” Cameron told Denise Donlon in an interview for Canada’s governor general’s performing arts awards. “It’s been kind of an unbroken continuum. So this is the point where I’m looking at the landscape and asking, ‘What are the other stories I want to tell? How many of them do I need to direct myself versus writing and/or producing with other film-makers?’” Continue reading...",
@@ -460,16 +532,16 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1lZHktdGhyZWVxdWVs",
-      "title": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "description": "The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless procession of just-the-facts-ma’am TV cops that reimagined America’s most mythologized authority figures as incompetent brats. The original is a testament to Y2K friendship – the college comedy troupe Broken Lizard, after losing out on an MTV show to The State, pooled their money to make a scrappy indie that became a cult classic. It had Brian Cox gleefully playing against his capital-A Actor persona (a novelty for American audiences in 2001) and offering a glimpse of the Logan Roy fury he would later perfect on Succession, only with lines such as “I’ll believe ya when me shit turns purple and smells like rainbow sherbet.” After generating more than $60m in post-release sales on a reported $3m budget, a film franchise was born. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel",
-      "image": "https://i.guim.co.uk/img/media/ba42048d351cb24456338efa322e1f3710f60d76/374_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=0c270238d55e0706a5bff7da86e74c47",
-      "publishedAt": "2026-08-06T10:00:46.000Z",
+      "id": "guardian-C1maWxtcy1yYW5rZWQ",
+      "title": "‘James Dean has got nothing on that kid’: River Phoenix films – ranked!",
+      "description": "As Stand By Me is re-released for its 40th anniversary, we look at the late actor’s most intense, enduring roles – from a goofball boffin to a narcoleptic hustler Issue-of-the-week TV movie about elder abuse, with Tuesday Weld as a harried mum taking out her frustrations on her own ageing mother. Phoenix slaps on the hair gel as the essentially decent son who blasts his music too loud, lets his rowdy if unusually spiffy pals put their feet on the furniture and resents the new house guest: “Grandma is really getting on my nerves!” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/06/james-dean-has-got-nothing-on-that-kid-river-phoenix-films-ranked",
+      "image": "https://i.guim.co.uk/img/media/eaedec0652ce83c2993fbe8ba757fbe5ab32397a/749_0_2076_1662/master/2076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32c577052bbafa21f65a6f7b504266a0",
+      "publishedAt": "2026-08-06T14:35:22.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Classics"
     },
     {
       "id": "guardian-ktbW92aWUtcmV2aWV3",
@@ -484,18 +556,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-XZpZXctZWxpLXJvdGg",
-      "title": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
-      "description": "The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap A few years ago, Eli Roth realized his long-held ambition to make a movie out of Thanksgiving , the horror-movie trailer he made as a gag for the Quentin Tarantino/Robert Rodriguez anthology feature Grindhouse, back in 2007. Though he didn’t actually go so far as to make the scratched-up decades-ago slasher shown in the original trailer, Thanksgiving was still Roth’s most satisfying movie in ages, replete with ridiculous gore and a side of satirical commentary – a 2020s movie fit for an old video store’s VHS horror section despite its contemporary setting. Now Roth has founded a horror-focused company actually called the Horror Section, aimed at releasing movies, shows and “experiences” that appeal to the modern equivalent of those VHS-shelf gorehounds. After “presenting” a few other movies, Roth’s first direct contribution to the company is Ice Cream Man, exactly the kind of knowingly disreputable button-pusher befitting the company’s retro-sticker logo. (Indeed, Roth’s movie shares its title with a 1995 direct-to-video curiosity starring Clint Howard, though this one is unrelated.) Unfortunately, rather than a companion piece to the blackly funny murder-mystery of Thanksgiving, which riffed on Scream as much as 80s slashers, Roth’s latest feels like a demo reel for someone vastly less talented. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth",
-      "image": "https://i.guim.co.uk/img/media/4a60c816de2b038389af85cf4a8c78475fa78a6f/277_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=f4d4fb0337395c923dc71486d7154d8f",
-      "publishedAt": "2026-08-05T10:00:15.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-C13ZWVrLWluLWdlZWs",
       "title": "Ryan Gosling is entering the Marvel Cinematic Universe – on a motorbike, in flames, wearing a leather jacket. What could go wrong?",
       "description": "After coveting the role for years, Gosling has been announced as the new Ghost Rider – a superhero stunt rider with powers bestowed by Satan. Is this a smart move all round or has he sold his soul to the devil? Steven Spielberg once said: “If a person can tell me the idea in 25 words or less, it’s going to make a pretty good movie.” And Marvel’s most popular big-screen superheroes can be described using less than half that number. Iron Man is a tech bro in a tin suit; Spider-Man has the powers of an arachnid; Thor is a Norse god. Go and watch a film featuring any of these characters and you know exactly what you’re going to get. But then there is Ghost Rider, who, according to reports from San Diego Comic-Con last week, will be the subject of a new Marvel Cinematic Universe film directed by Deadpool & Wolverine’s Shawn Levy, and starring Ryan Gosling. There is no quick way to explain what is going on with this guy. In the 1972 origin story, stunt motorcyclist Johnny Blaze sells his soul to Satan to save his adoptive father from cancer. The cure works but its beneficiary is killed almost immediately. The devil then tries to claim Johnny’s soul and, when that fails, binds him to the demon Zarathos. This, if Christopher Marlowe is to be believed, ought to result in corruption, despair and eternal, fiery damnation. Yet somehow our hero emerges from the arrangement with a cool flaming skull, vast supernatural powers and a motorbike capable of riding up buildings and across dimensions. Blaze regards the whole arrangement as a curse, but to the casual observer his principal penance is to roam the Earth passing judgment on people more wicked than he is, while looking good in a leather jacket. Continue reading...",
@@ -508,60 +568,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-RvbmlvLWJhbmRlcmFz",
-      "title": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "description": "Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author For all the drugs and punch-ups, this is an unexpectedly sentimental coming-of-age story – or maybe origin myth – about the formative youthful kitchen experiences of legendary badass chef Anthony Bourdain. It is taken from the opening chapters in his bestselling memoir Kitchen Confidential; Canadian film-maker Matt Johnson directs and Dominic Sessa (the callow kid from Alexander Payne’s The Holdovers) plays the conceited, smug yet lonely and vulnerable young college student Tony. “Anthony” is in the future. It is the mid-1970s and Tony effectively runs away from home after failing to get a residential summer writing scholarship that he had assured everyone was in the bag. He shows up nearly penniless in the seaside vacation resort of Provincetown, Massachusetts – a place that is pretty similar to Amity Island in Jaws, which is showing at every drive-in. The reason is that he has a desperate crush on Nancy (Emilia Jones) who is there for the summer too and whom he desperately wants to impress with his smouldering intellectualism. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas",
-      "image": "https://i.guim.co.uk/img/media/8b2b01c6c49f1c3250230fc3c5be3175ab0ec350/598_0_4888_3913/master/4888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=da64292eae47babf7ac369c4c1a1765d",
-      "publishedAt": "2026-07-29T16:00:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-NoYXJrLXRocmlsbGVy",
-      "title": "The Devil’s Mouth review – Amazon’s shark thriller gives us just about enough to chew on",
-      "description": "A group of holidaying friends get trapped in a cave system with a bull shark in a solidly entertaining B-movie lifted by a toxic central friendship We’ve officially reached maximum shark movie this year , with about six released so far and even more on the way and so the drop of yet another one, in the middle of Shark Week, raises a number of questions: is it in any way essential? Will anyone ever come close to matching what Steven Spielberg achieved with Jaws or, more realistically, Renny Harlin with Deep Blue Sea? How junky are the shark effects? And most importantly, at least for those of us watching the majority of them, is it more of the same or is there an attempt to do something even slightly new with the swim, stalk, slash formula? Trying something a little different is in itself extremely hit-and-miss because while I appreciated last year’s unusually striking Dangerous Animals for smartly inserting a serial killer into the mix, the addition of a hurricane to this year’s Netflix one-star dud Thrash meant that the film was both a terrible shark horror and a terrible disaster thriller. In recent months, we’ve seen Harlin return to the subgenre with Deep Water weaving in a plane crash and this week’s Antonio Banderas-starring Above & Below adding a drug cartel which makes the week’s other shark movie, Amazon’s gen Z-led offering The Devil’s Mouth, seem somewhat quaint in comparison. The special ingredient here is something a little less grandiose, but more potentially intriguing: a toxic friendship. It’s a movie that asks the rare question: what if you finally came to terms with how awful your best friend is just as a bull shark starts picking you off? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/29/the-devils-mouth-review-amazon-shark-thriller",
-      "image": "https://i.guim.co.uk/img/media/1f1541bf743d344da2cd1510d362a9eea89a5c3c/356_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5602c36ff9d155265918d40e49500a96",
-      "publishedAt": "2026-07-29T07:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-R5bGUtc3VwZXJoZXJv",
-      "title": "Spider-Man: Brand New Day review – Zendaya saves Tom Holland’s semi-Cronenberg-style superhero",
-      "description": "Now 30, Holland is back as the vexed webslinger in a sometimes shocking, occasionally sluggish new instalment opposite his Odyssey castmate Just a few weeks ago, Tom Holland was telling us that his role as Telemachus in Christopher Nolan’s Odyssey was his “last chance to play a boy”. Well, Holland is back as the supposedly scrappy, gawky, arachnid young superhero Spider-Man. Not Spider-Boy admittedly, and these days Holland is actually a chunkier and more stacked Spidey than previously, flexing some pretty serious biceps. He is maturing in the role. But is the role maturing with him? The point is that this film is a reset. At the end of the last movie Spider-Man: No Way Home , courtesy of Dr Strange’s colossal psychic powers – which might have come in handy in this episode incidentally, part of the narrative-universe inconsistency that you just have to overlook – Peter Parker was able to erase everyone’s knowledge that he is, in fact, Spider-Man, and that included his goofy best friend Ned Leeds (Jacob Batalon) and more to the point, the love of his life MJ (Zendaya). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero",
-      "image": "https://i.guim.co.uk/img/media/6f0ba2597bf0cfbae35dbcebbe2d9d4b0e5031a2/220_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f173753bca9854485980f8c837a8c8a9",
-      "publishedAt": "2026-07-28T13:11:59.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WV3LWtldmluLWhhcnQ",
-      "title": "72 Hours review – Kevin Hart drags down Netflix midlife crisis comedy",
-      "description": "The overexposed actor falls flat in another disappointing vehicle that fails to make the most of its neat bachelor-party-with-a-twist concept 72 Hours is Kevin Hart’s midlife crisis comedy. He stars as Joe, a 40-year-old New York marketing executive whose once-reliable Midas touch has worn off. He’s no longer the office’s go-to translator of youth culture, yet he remains on the verge of a promotion – the final hurdle standing between him and happily-ever-after with his longtime girlfriend (Teyana Taylor), a doctor weighing an opportunity that could pull her away from the life they’ve built together in the city. All the while, crude texts and memes flood his phone from a random group chat populated by a pack of twentysomething guys planning a bachelor party in Miami – an annoyance that quickly becomes his ticket back to relevance. Joe not only drops everything to join these perfect strangers for the weekend; he upgrades the whole affair, picks up the tab and supplies the booze in hopes of harvesting content for his struggling campaign. It would be a fine set-up if it weren’t such an obvious metaphor for Hart’s own showbiz career. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/24/72-hours-movie-review-kevin-hart",
-      "image": "https://i.guim.co.uk/img/media/366984ff8046ee33f8c44e62c101abbf8a397830/610_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=4a22a052c20acfb4c92967ec034423b9",
-      "publishedAt": "2026-07-24T01:00:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mlldy1wYXJhbW91bnQ",
-      "title": "Avatar Aang: The Last Airbender review – engaging TV-to-movie adventure",
-      "description": "A feature-length continuation of the much-loved animated series provides enough for fans as well as the uninitiated Avatar just can’t catch a break at the movies. Not the blue-cat-people franchise that makes at least a billion dollars each time, mind you – though that mega-successful series is part of what vexes big-screen versions of Avatar: The Last Airbender, a Nickelodeon animated series that predates the release of the similar-named, different-premised James Cameron film. Following the anime-inspired, fan-beloved show’s three-season run on cable, the material was adapted into a live-action feature, The Last Airbender, by no less than M Night Shyamalan, released six months after Cameron’s megahit. The Last Airbender was a decent-sized hit, but loathed by fans and critics alike – even today’s crop of Shyamalan boosters can’t find much positive to say about it – and failed to kickstart the hoped-for live-action film series. (Netflix has since made an unrelated live-action adaptation as a TV show .) More recently, Paramount announced that an animated sequel film, Avatar Aang: The Last Airbender, following the characters years after the events of the series, would arrive in movie theaters – only to delay the release and eventually backtrack its theatrical status, turning it into a direct-to-streaming movie. The film was then leaked online, well ahead of its debut. Now it’s getting a token two-city theatrical release, simultaneously with its debut on Paramount+, to make sure it qualifies for this year’s Oscars. Given the franchise’s cinematic luck so far, the film-makers may not need to clear shelf space quite yet. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/22/avatar-aang-the-last-airbender-review-paramount",
-      "image": "https://i.guim.co.uk/img/media/9885751f9b2f3033d2f9a1889dd311eb4b388bc3/704_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4fec5d15123cc765ff8d9d043a99695d",
-      "publishedAt": "2026-07-22T11:00:13.000Z",
+      "id": "guardian-1maWxtLWZlc3RpdmFs",
+      "title": "Bitter Christmas review – grief, loss and artistic betrayal in Almodóvar’s film within a film",
+      "description": "Spanish film-maker’s latest life-v-art auto-metafiction feels slightly muddled as he directs a director directing a director With its rich, warm, summery colours, nothing could surely be less bitter or less Christmassy than this film. It’s the latest from Cannes competition regular Pedro Almodóvar, partly set during Christmas; the female lead actually complains about the yuletide traffic at one stage. But there’s no tinsel or sleigh bells or shopping for presents. Like Die Hard, it eludes classification. It is another – which is to say, yet another – double-layered creation by Almodóvar, a kind of movie auto-metafiction of the sort that he has virtually invented, a life-v-art dialectical process that he is evidently unable to do without. Like the recent Pain and Glory , Bitter Christmas is a candidly personal movie, circling around ideas like grief, loss, the vampirism of art and the betrayal involved in basing fictional characters on real people. Perhaps by emphasising this last point, Almodóvar is pre-empting or cauterising a crisis in his own life, showing us a gay male artist’s perspective on the question of whether women are not being given enough credit as the wellspring for inspiration or indeed as artists themselves. The result is a complex, slightly muddled, almost surreally modernist noir-melodrama or open-ended telenovela of the sort he habitually offers. Almodóvar always alchemises the real-unreal duality into something watchable, although perhaps he is going over old ground. Bitter Christmas, incidentally, features what for arthouse movies is becoming mandatory, the haughty anti-Netflix gag, even though the film does feel like streaming TV in some ways. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/may/19/bitter-christmas-review-almodovar-cannes-film-festival",
+      "image": "https://i.guim.co.uk/img/media/4c63de9c3ac390d7af7d7ce19f119843844340e1/1383_0_6538_5231/master/6538.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0d20457aba81b89eec54624b43ae771d",
+      "publishedAt": "2026-05-19T18:52:11.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -586,6 +598,18 @@
       "url": "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
       "image": "https://i.guim.co.uk/img/media/c4ed2c4654d06defc19a856bdebf48514d69c767/354_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7b0c405c4caa5891680c9741db2c21db",
       "publishedAt": "2026-01-24T16:15:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1lbGRhLXN0YXVudG9u",
+      "title": "& Sons review – Bill Nighy and Imelda Staunton’s riveting showdown rescues a laborious plot",
+      "description": "Nighy stars as a boozy literary has-been and Staunton his estranged wife in Pablo Trapero’s unconvincing adaptation of David Gilbert’s 2013 novel No movie with Imelda Staunton and Bill Nighy can be entirely without interest – and they’re heading up a mighty cast here under the direction of the great Argentinian film-maker Pablo Trapero, making his English-language debut. He has co-written the screenplay with another A-lister: Canadian actor and director Sarah Polley. And yet the resulting picture, adapted from the 2013 novel by David Gilbert , feels nebulous and laborious. It is dependent on a giant twist-reveal, which is bafflingly implausible and strangely uncompelling even if taken at face value, and which tends to undermine the emotional reality of the whole film and its big confrontation scenes – though there is one riveting showdown between Staunton and Nighy, two black-belts each at the top of their game. Continue reading...",
+      "url": "https://www.theguardian.com/film/2025/oct/17/and-sons-review-bill-nighy-imelda-staunton",
+      "image": "https://i.guim.co.uk/img/media/17bc9adb5a2e2134ecc8dca3766a832b728f8f85/114_0_1069_855/master/1069.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd6edf103f7dc8f33344706c6de889f1",
+      "publishedAt": "2025-10-17T10:53:18.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
