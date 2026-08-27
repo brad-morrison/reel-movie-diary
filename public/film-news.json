@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T02:03:30.657Z",
+  "generatedAt": "2026-08-27T09:33:29.934Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,18 @@
   },
   "articles": [
     {
+      "id": "guardian-LXllb24tc2FuZy1obw",
+      "title": "Colony review – zombies return to the mall with a fresh and frenzied range of scares",
+      "description": "This time the ranks of the undead have acquired a hive mind, making them even more formidable adversaries. Can a maverick academic save the day? Here is another frenzied K-zombie action-horror from Yeon Sang-ho, the director of Train to Busan and Peninsula . Colony is frontloaded with 10 minutes of sciencey exposition and setup during which a biotech CEO mentions maze-solving slime mould and the pioneering work of the entomologist William Wheeler on the hive minds of ant colonies. Then the CEO is injected with a disgruntled former employee’s bright green liquid tech – it always needs to be bright green in such circumstances – and becomes the first victim of a bio-terror attack that traps a small cross-section of South Korean society in a tower block with hordes of fast-moving rabid flesh-munchers. An hour and three quarters of goopy, bloody mayhem ensue. An upscale shopping mall occupies the lower floors of the tower, and it takes some nerve to give your zombie film much the same setting as Dawn of the Dead, the masterwork of the godfather of the genre George A Romero . Thankfully Colony can boast an innovation: these zombies have a hive mind, an emergent collective intelligence that makes them more formidable adversaries than your average braindead stumbler. The moment that one of the infected notices you and screams, as in Invasion of the Bodysnatchers, they all turn and attack. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/27/colony-review-zombies-yeon-sang-ho",
+      "image": "https://i.guim.co.uk/img/media/4baf9858a8f1192c6d39bec4e1c4491ec024c418/134_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ea8333c664324cb8812347241e121783",
+      "publishedAt": "2026-08-27T06:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-Zy0xMjM1MjEzMDY0Lw",
       "title": "‘Possible Love’ Trailer: ‘Burning’ Director Lee Chang-dong Returns with a Story of Documentary Filmmaking Gone Awry",
       "description": "Netflix will release the film in theaters on Friday, October 23 following its Venice premiere.",
@@ -26,6 +38,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Susan Sarandon leads tributes to Rocky Horror Picture Show co-star Tim Curry",
+      "description": "Stars of stage and screen grieve the cult British actor, who has died aged 80.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj56zjdxpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bd66/live/930a6a60-a1b2-11f1-a598-9df6ae0dd0cc.jpg",
+      "publishedAt": "2026-08-27T00:32:27.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-dy0xMjM1MjEzMDA1Lw",
@@ -49,6 +73,30 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b0/live/6a960df0-a13a-11f1-9d37-9b3d56456ba1.jpg",
+      "publishedAt": "2026-08-26T23:03:46.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
+      "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b0/live/6a960df0-a13a-11f1-9d37-9b3d56456ba1.jpg",
+      "publishedAt": "2026-08-26T23:03:46.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -116,7 +164,7 @@
       "title": "'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton",
       "description": "Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.",
       "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27c9/live/901c7860-a195-11f1-92c6-e1bd83a84cfc.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2bdc/live/c4838000-a1de-11f1-b132-bb16290da3a7.jpg",
       "publishedAt": "2026-08-26T17:26:12.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -162,7 +210,7 @@
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
       "title": "Farewell, Dr Frank-N-Furter: why Tim Curry’s Rocky Horror Show will go on",
-      "description": "The versatile stage performer will always be remembered for his defining film role in The Rocky Horror Picture Show, which turned him into an icon of 70s underground cinema and proto-punk • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke and 50 years of stardom • Clowns, corsets and kings – a life in pictures Over the past decade, the issues of trans identity and gender fluidity couldn’t have been more contemporary, and Tim Curry was an integral part of what might be called their pre-history in pop culture. He was an icon – though maybe now a dimly remembered icon – of the 70s underground cinema and proto-punk. Curry was a good-looking actor with a tremendous speaking and singing voice, and a versatile performer – he got Tony nominations for his varied stage work on Broadway as Salieri in Amadeus, Alan Swann in My Favorite Year (the part Peter O’Toole played on screen) and as King Arthur in Monty Python’s Spamalot . But it was his strange destiny to be remembered for one role: at once indelibly prominent and weirdly peripheral. He was the sensational Dr Frank-N-Furter in the thoroughly outrageous Rocky Horror Picture Show (1975), the screen version of the 1973 stage show. Continue reading...",
+      "description": "The versatile stage performer will always be remembered for his defining film role in The Rocky Horror Picture Show, which turned him into an icon of 70s underground cinema and proto-punk • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke and 50 years of stardom • Clowns, corsets and kings – a life in pictures Over the past decade, the issues of trans identity and gender fluidity couldn’t have been more contemporary, and Tim Curry was an integral part of what might be called their pre-history in pop culture. He was an icon – though maybe now a dimly remembered icon – of the 70s underground cinema and proto-punk. Curry was a good-looking actor with a tremendous speaking and singing voice, and a versatile performer – he got Tony nominations for his varied stage work on Broadway as Mozart in Amadeus, Alan Swann in My Favorite Year (the part Peter O’Toole played on screen) and as King Arthur in Monty Python’s Spamalot . But it was his strange destiny to be remembered for one role: at once indelibly prominent and weirdly peripheral. He was the sensational Dr Frank-N-Furter in the thoroughly outrageous Rocky Horror Picture Show (1975), the screen version of the 1973 stage show. Continue reading...",
       "url": "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
       "image": "https://i.guim.co.uk/img/media/af1f0cb91c70bff8898bbc6633435ab0ef358fd2/0_179_2432_1945/master/2432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b95abab13c12dea8f60767765964e77",
       "publishedAt": "2026-08-26T16:02:23.000Z",
@@ -254,30 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-bWVkLWFsaS1uYXF2aQ",
-      "title": "Hanging By a Wire review – cable car rescue documentary dangles viewers on the edge of disaster",
-      "description": "The extraordinary fate of eight people trapped above a chasm in Pakistan makes for a tense, skilfully assembled survival story with unexpected flashes of comedy Survival documentaries are a weird little genre of nonfiction film-making that recount the stories of accidents and natural catastrophes – and more often than not, the daring rescues of people caught up in them. Eyewitnesses and the loved ones of those endangered are top of the interview list, to keep the sense of danger and emotional stakes at the top of everyone’s mind. Survivors can also have their say, and more adventurous film-makers might care to recreate the action with actors or the actual survivors themselves. This account of how eight people – six teenage boys and two adult men – were left suspended over a chasm in northern Pakistan in 2023, when a wire on the cable car they were travelling on broke, is a pretty conventional example of the form. For obvious reasons, no one tries to recreate the situation, but since it was quite recent there is no shortage of news footage and amateur clips to fill out the particulars. The downside of doing a story that’s so recent is that some of the audience may remember what happened anyway, but still there’s plenty of nail-nibbling suspense here, and sequences that will give anyone with acrophobia the heebie jeebies – especially the drone shots that zoom close on the terrified faces of those trapped inside the dangling car. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/26/hanging-by-a-wire-review-mohammed-ali-naqvi",
-      "image": "https://i.guim.co.uk/img/media/15865cab6a0dcb431057baba4d3873ea0320ba9b/4572_1364_9540_7636/master/9540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c83b533df1a653da41aee75f0b6553bc",
-      "publishedAt": "2026-08-26T06:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'It's a big step up': Behind the scenes as Netflix hit Dept Q returns to Edinburgh",
-      "description": "The second season began filming in the Scottish capital in June and is due to continue until October.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7z34vvxvlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ea24/live/0cc03ee0-a12a-11f1-8c37-3f30331ac537.jpg",
-      "publishedAt": "2026-08-26T05:25:40.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -400,18 +424,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Priyanka Chopra Jonas on making a film about love and caste inequality",
-      "description": "Priyanka Chopra Jonas has executive produced The Cycle of Love, based on an Indian artist who cycled from India to Europe to reunite with his wife.",
-      "url": "https://www.bbc.co.uk/news/videos/cn4nk1915vxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/012c/live/3e5be0b0-9d71-11f1-b109-879e35c24276.png",
-      "publishedAt": "2026-08-21T13:32:28.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-aGlzLW93bi1tb3ZpZQ",
       "title": "‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie",
       "description": "As his new film Bitter Christmas is released, the legendary Spanish director turns his fire on Donald Trump, Will Smith, Netflix – and himself Black sunglasses indoors and a tufty cloud of cotton-wool hair: it can only be Pedro Almodóvar, bourgeois arthouse darling nonpareil and master of everything from screwball romps (Women on the Verge of a Nervous Breakdown) to clammy thrillers (Live Flesh, The Skin I Live In) – and sumptuous melodramas such as his 24th film, Bitter Christmas, a cautionary tale about the perils of autofiction. We are sitting in the library of a London hotel and Almodóvar is dressed in a thin black windcheater, grey trousers and white trainers; add a whistle on a string and he could pass for a PE teacher. The 76-year-old director may have won more than 60 awards including two Oscars, five Baftas and six Goyas but when the shades come off today, he looks momentarily sorry for himself. He has been deaf in one ear since childhood, he tells me, and now the other one is giving up the ghost. In addition, a nasty stye has turned his left eye a gluey purple. Might he have picked it up while swimming? “I do swim almost every day because I have a pool,” he sighs. Never can those words have sounded so sorrowful. Continue reading...",
@@ -422,18 +434,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "What happened to Harry and Meghan's American dream?",
-      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-      "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9d3a/live/c7e95f20-9d2f-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-21T02:57:34.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-MtcG9pc29uLXN3b29u",
