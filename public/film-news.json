@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T16:07:18.725Z",
+  "generatedAt": "2026-08-27T21:38:06.513Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-dy0xMjM1MjEyNTA3Lw",
+      "title": "‘Coyote vs. Acme’ Director Dave Green ‘Remains in Shock’ That the Film Is Coming Out",
+      "description": "The director spoke to IndieWire about making the \"Looney Tunes\" live-action/feature film hybrid and its long, troubled road to a theatrical release.",
+      "url": "https://www.indiewire.com/features/interviews/coyote-vs-acme-director-interview-1235212507/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCOVS_EC007.jpg?w=650",
+      "publishedAt": "2026-08-27T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxMjgzOC8",
+      "title": "Festival Crowdpleaser ‘The Cycle of Love’ Took a Year to Reach Theaters — but Could Break Through at the Oscars",
+      "description": "The rare nonfiction romance is opening a year after its promising Telluride launch. \"Why can't docs be about happiness and joy?,\" asks Oscar winner Orlando von Einsiedel.",
+      "url": "https://www.indiewire.com/awards/consider-this/the-cycle-of-love-festival-crowdpleaser-1235212838/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2019/09/8434890dn.jpg?w=650",
+      "publishedAt": "2026-08-27T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTE5MTE3NC8",
+      "title": "Cannes 2026 Movies Sold: Leah Nelson’s Animated ‘Tangles’ Lands at Independent Film Company and Sapan Studio",
+      "description": "The film will next premiere at TIFF and has a voice cast featuring Abbi Jacobson, Julia Louis-Dreyfus, Bryan Cranston, Seth Rogen, Beanie Feldstein, and Samira Wiley.",
+      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TANGLES-Still-1.jpg?w=650",
+      "publishedAt": "2026-08-27T17:14:44.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "BBC director-general says he was not aware of 'severity' of cuts needed",
+      "description": "Matt Brittin succeeded Tim Davie as boss of the BBC in May.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zllwewlko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9a9a/live/4c69c590-a236-11f1-80a2-67c89a95284e.jpg",
+      "publishedAt": "2026-08-27T17:09:37.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mUtMTIzNTIxMzE2Mi8",
+      "title": "‘Fjord’ Trailer: Sebastian Stan and Renate Reinsve Battle the Backrooms of the Norwegian State in Palme d’Or Winner",
+      "description": "Director Cristian Mungiu weaves a tale of miscommunication and intolerance in one of the happiest societies on Earth.",
+      "url": "https://www.indiewire.com/news/trailers/fjord-trailer-sebastian-stan-renate-reinsve-1235213162/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Fjord_04.jpg?w=650",
+      "publishedAt": "2026-08-27T17:02:21.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUxNzQ2OTcv",
+      "title": "‘Filipiñana’ Review: A Manila Golf Course Hides the Sinister History of Colonialism in a Languid Satire Executive Produced by Jia Zhangke",
+      "description": "A 17-year-old girl lands a job at a creepy Manila golf club in Rafael Manuel’s evocative debut feature.",
+      "url": "https://www.indiewire.com/criticism/movies/filipinana-movie-review-1235174697/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/yfqjuj8l4Filipinana1.jpg?w=650",
+      "publishedAt": "2026-08-27T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxMzE0Ni8",
+      "title": "John Wilson’s ‘The History of Concrete’ Trailer Goes Everywhere There Is Concrete",
+      "description": "Incorrigible documentarian John Wilson, of HBO's \"How To with John Wilson,\" has crafted a full feature film that's worth its weight in concrete.",
+      "url": "https://www.indiewire.com/news/trailers/john-wilson-the-history-of-concrete-trailer-1235213146/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_History_of_Concrete-Still_1.jpg?w=650",
+      "publishedAt": "2026-08-27T16:27:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjEzMTI0Lw",
+      "title": "Peter Cullen Was More Than Just the Iconic Voice of Beloved Characters — He Was an Undeniable Force",
+      "description": "The beloved voice actor will long be remembered for his work in everything from \"Transformers\" to \"Knight Rider,\" but his kind spirit and unyielding dedication to his characters put him in his own class.",
+      "url": "https://www.indiewire.com/features/commentary/peter-cullen-iconic-voice-death-optimus-prime-1235213124/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-526212816.jpg?w=650",
+      "publishedAt": "2026-08-27T16:08:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
@@ -66,7 +162,7 @@
     {
       "id": "guardian-ZpZS1yb2Jpbi1ob29k",
       "title": "Marketing meltdown: why has Andrew Garfield’s new film suddenly added Robin Hood?",
-      "description": "Paul Greengrass drama The Uprising was supposed to be a historical epic about the Peasants’ Revolt of 1381 – but a strange new campaign has inserted a surprising figure Nobody likes to have the full plot of a movie spoiled before they’ve even seen it. However, sometimes this can be taken to the extreme. Take the new Paul Greengrass movie, The Uprising, for example. It is two weeks away from release and, not only does nobody know the plot, but nobody seems to know what it is even about. Seriously, nobody at all. The film’s distributors just spent yesterday squabbling in public about whether Robin Hood was in it or not. Here’s what we know so far. Initially, all the trailers and promotional materials made The Uprising look like a film about the Peasants’ Revolt that tore through England in 1381. And this was very exciting, since the revolt was a thrilling moment in history that has been bizarrely underserved by Hollywood over the years. Most excitingly of all, though, it sounded like it fit exactly into Greengrass’s wheelhouse; full of action and realism and political awareness. Continue reading...",
+      "description": "Paul Greengrass drama The Uprising was supposed to be a historical epic about the Peasants’ Revolt of 1381 – but a strange new campaign has inserted a surprising figure Nobody likes to have the full plot of a movie spoiled before they’ve even seen it. However, sometimes this can be taken to the extreme. Take the new Paul Greengrass movie, The Uprising, for example. It is two weeks away from its US release and not only does nobody know the plot, but nobody seems to know what it is even about. Seriously, nobody at all. The film’s distributors just spent yesterday squabbling in public about whether Robin Hood was in it or not. Here’s what we know so far. Initially, all the trailers and promotional materials made The Uprising look like a film about the Peasants’ Revolt that tore through England in 1381. And this was very exciting, since the revolt was a thrilling moment in history that has been bizarrely underserved by Hollywood over the years. Most exciting of all, though, it sounded like it fit exactly into Greengrass’s wheelhouse: full of action and realism and political awareness. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/aug/27/andrew-garfield-the-uprising-movie-robin-hood",
       "image": "https://i.guim.co.uk/img/media/742f2ba6aaae23890e40baed50acd457ed699ae5/893_0_4214_3375/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9967f355130caf12e7fa0e5cb3f8a582",
       "publishedAt": "2026-08-27T13:58:33.000Z",
@@ -114,7 +210,7 @@
     {
       "id": "guardian-hlYS1qYWNrc29uLWpy",
       "title": "Idiots review – throwback bro comedy is an entertaining summer seat-filler",
-      "description": "Dave Franco and O’Shea Jackson Jr lead a goofy roadtrip comedy that is just sharp enough to keep you strapped in Idiots is billed as a return to the raunchy bro comedies of the 2000s like Pineapple Express and The Hangover and about halfway through there is a visual gag involving bodily functions that is so revolting, so unexpected and so genius that it comes close to them. For a moment, I was transported back to the mix of delight and disgust I felt upon watching a ‘90s Farrelly Brothers movie when I was far too young: How is this allowed? Described as an “earnest-dipshits-on-the-road screwball comedy” by director Macon Blair ( I Don’t Feel at Home in This World Anymore , The Toxic Avenger), this R-rated indie comedy can’t entirely deliver on that enticingly deranged promise, but it has enough testosterone-fueled transgression to make its runtime breeze by. Dave Franco plays Mark, a doofus with a neck tattoo who expresses affection for his fellow man by slapping them on the jowls. When he is invited to vacate his job at a call center – which he has been coasting through by playing gory video games and sneaking shots of whiskey at his desk – he teams up with with Davis (O’Shea Jackson Jr) for a dodgy under-the-table job involving transporting wayward teens to rehab. Their first charge is Sheridan (Mason Thames), a moody influencer who has made a name for himself by playing cruel stunts on members of the public like an off-brand Jake Paul. Like Harold & Kumar before it, the road trip is an obvious but effective ruse for Idiots’s freeform, THC-addled approach to storytelling which finds the trio jumping from country diner to crummy motel to a Slavic granny’s living room as Sheridan attempts to derail his passage to rehab. Continue reading...",
+      "description": "Dave Franco and O’Shea Jackson Jr lead a goofy roadtrip comedy that is just sharp enough to keep you strapped in Idiots is billed as a return to the raunchy bro comedies of the 2000s like Pineapple Express and The Hangover and about halfway through there is a visual gag involving bodily functions that is so revolting, so unexpected and so genius that it comes close to them. For a moment, I was transported back to the mix of delight and disgust I felt upon watching a 90s Farrelly Brothers movie when I was far too young: How is this allowed? Described as an “earnest-dipshits-on-the-road screwball comedy” by director Macon Blair ( I Don’t Feel at Home in This World Anymore , The Toxic Avenger), this R-rated indie comedy can’t entirely deliver on that enticingly deranged promise, but it has enough testosterone-fueled transgression to make its runtime breeze by. Dave Franco plays Mark, a doofus with a neck tattoo who expresses affection for his fellow man by slapping them on the jowls. When he is invited to vacate his job at a call center – which he has been coasting through by playing gory video games and sneaking shots of whiskey at his desk – he teams up with Davis (O’Shea Jackson Jr) for a dodgy under-the-table job involving transporting wayward teens to rehab. Their first charge is Sheridan (Mason Thames), a moody influencer who has made a name for himself by playing cruel stunts on members of the public like an off-brand Jake Paul. Like Harold & Kumar before it, the road trip is an obvious but effective ruse for Idiots’s freeform, THC-addled approach to storytelling which finds the trio jumping from country diner to crummy motel to a Slavic granny’s living room as Sheridan attempts to derail his passage to rehab. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/aug/27/idiots-review-dave-franco-oshea-jackson-jr",
       "image": "https://i.guim.co.uk/img/media/44fca7a1afe268a661b1311de1a6bef7fbf6e424/423_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4e170f4318fc0c63f1ccfbb91f028346",
       "publishedAt": "2026-08-27T11:00:12.000Z",
@@ -172,30 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dy0xMjM1MjEzMDA1Lw",
-      "title": "‘SubwayTakes’ Host Kareem Rahma Did Not Need to ‘Get Off the Internet’ to Get to the Emmys",
-      "description": "The Emmy nominee talks to IndieWire about the instant success of his YouTube series, and how forgoing more traditional media was \"the minute everything became extremely fun and super successful.\"",
-      "url": "https://www.indiewire.com/awards/consider-this/subway-takes-kareem-rahma-emmys-interview-1235213005/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2276121196.jpg?w=650",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-YS0xMjM1MjEyODM3Lw",
-      "title": "New Bruin Theatre Team Splits as Lease Signer Faces Renewed Allegations of Racism and Antisemitism",
-      "description": "The exciting new L.A. revival is already in turmoil over accusations that were public in Toronto for years.",
-      "url": "https://www.indiewire.com/news/breaking-news/bruin-theatre-team-splits-allegations-rui-pereira-1235212837/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_5733.jpeg?w=650",
-      "publishedAt": "2026-08-26T23:47:58.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
       "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
@@ -206,42 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-RoLTEyMzUyMTI5Njkv",
-      "title": "Indie Films Should Tour Like a Band",
-      "description": "Live events can help audiences form a personal relationship with your project, even if you give away tickets for free.",
-      "url": "https://www.indiewire.com/features/commentary/indie-films-should-tour-like-a-band-producers-path-1235212969/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-26-at-12.43.10-PM.png?w=650",
-      "publishedAt": "2026-08-26T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Ni0xMjM1MjEyODAzLw",
-      "title": "We Pick Which Series Will Win and/or Should Win at the 2026 Primetime Emmys",
-      "description": "IndieWire Awards Editor Marcus Jones and TV Critic Ben Travers debate which series will win and which series should win at the 2026 Primetime Emmys on Monday, September 14.",
-      "url": "https://www.indiewire.com/awards/predictions/which-series-will-win-should-win-emmys-2026-1235212803/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MixCollage-26-Aug-2026-10-54-AM-5526.jpg?w=650",
-      "publishedAt": "2026-08-26T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MTc1MTIwLw",
-      "title": "‘Idiots’ Review: Macon Blair Merges ‘The Last Detail’ with ‘Road Trip’ in a Wildly Uneven Comedy That Fails to Find Its Own Lane",
-      "description": "Dave Franco and O’Shea Jackson Jr. are hired to transport an evil rich kid to rehab in a raucous comedy that never lives up to its best moments.",
-      "url": "https://www.indiewire.com/criticism/movies/idiots-the-shitheads-movie-review-macon-blair-1235175120/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/6v6ywdkxeThe_Shitheads-Still_1.jpg?w=650",
-      "publishedAt": "2026-08-26T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-nVzdGluLWJhbGRvbmk",
@@ -265,30 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-R5LTEyMzUyMDk0Mzkv",
-      "title": "‘Coyote vs. Acme’ Review: Thank Goodness This Clever Comedy About the Evils of Corporate Greed Was Rescued from Corporate Hell",
-      "description": "Dave Green's smart and sweet Looney Tunes movie is about underdogs (undercartoons?) fighting deep-pocketed baddies who don't care about actual quality. Funny!",
-      "url": "https://www.indiewire.com/criticism/movies/coyote-vs-acme-review-looney-tunes-live-action-comedy-1235209439/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/Coyote-vs-Acme.webp?w=650",
-      "publishedAt": "2026-08-26T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XItMTIzNTE5MTE3NC8",
-      "title": "Cannes 2026 Movies Sold: Judith Godrèche’s ‘A Girl’s Story’ Based on Acclaimed Memoir Sells to Zeitgeist Films",
-      "description": "Kino Lorber will also help with distribution for the Un Certain Regard title that will now open in April 2027.",
-      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/201222-scaled-1.webp?w=650",
-      "publishedAt": "2026-08-26T16:32:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
