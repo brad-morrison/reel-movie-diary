@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:08:02.196Z",
+  "generatedAt": "2026-08-27T02:03:30.657Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-Zy0xMjM1MjEzMDY0Lw",
+      "title": "‘Possible Love’ Trailer: ‘Burning’ Director Lee Chang-dong Returns with a Story of Documentary Filmmaking Gone Awry",
+      "description": "Netflix will release the film in theaters on Friday, October 23 following its Venice premiere.",
+      "url": "https://www.indiewire.com/news/trailers/possible-love-trailer-lee-chang-dong-1235213064/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/POSSIBLE-love.jpg?w=650",
+      "publishedAt": "2026-08-27T01:05:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjEzMDA1Lw",
+      "title": "‘SubwayTakes’ Host Kareem Rahma Did Not Need to ‘Get Off the Internet’ to Get to the Emmys",
+      "description": "The Emmy nominee talks to IndieWire about the instant success of his YouTube series, and how forgoing more traditional media was \"the minute everything became extremely fun and super successful.\"",
+      "url": "https://www.indiewire.com/awards/consider-this/subway-takes-kareem-rahma-emmys-interview-1235213005/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/2276121196.jpg?w=650",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjEyODM3Lw",
+      "title": "New Bruin Theatre Team Splits as Lease Signer Faces Renewed Allegations of Racism and Antisemitism",
+      "description": "The exciting new L.A. revival is already in turmoil over accusations that were public in Toronto for years.",
+      "url": "https://www.indiewire.com/news/breaking-news/bruin-theatre-team-splits-allegations-rui-pereira-1235212837/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/IMG_5733.jpeg?w=650",
+      "publishedAt": "2026-08-26T23:47:58.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RoLTEyMzUyMTI5Njkv",
+      "title": "Indie Films Should Tour Like a Band",
+      "description": "Live events can help audiences form a personal relationship with your project, even if you give away tickets for free.",
+      "url": "https://www.indiewire.com/features/commentary/indie-films-should-tour-like-a-band-producers-path-1235212969/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-26-at-12.43.10-PM.png?w=650",
+      "publishedAt": "2026-08-26T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Rocky Horror star Tim Curry dies at 80",
+      "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f416/live/e5f37b10-a179-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-08-26T19:53:35.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Ni0xMjM1MjEyODAzLw",
+      "title": "We Pick Which Series Will Win and/or Should Win at the 2026 Primetime Emmys",
+      "description": "IndieWire Awards Editor Marcus Jones and TV Critic Ben Travers debate which series will win and which series should win at the 2026 Primetime Emmys on Monday, September 14.",
+      "url": "https://www.indiewire.com/awards/predictions/which-series-will-win-should-win-emmys-2026-1235212803/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MixCollage-26-Aug-2026-10-54-AM-5526.jpg?w=650",
+      "publishedAt": "2026-08-26T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-ci0xMjM1MTc1MTIwLw",
       "title": "‘Idiots’ Review: Macon Blair Merges ‘The Last Detail’ with ‘Road Trip’ in a Wildly Uneven Comedy That Fails to Find Its Own Lane",
@@ -28,23 +100,23 @@
       "category": "Reviews"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Rocky Horror star Tim Curry dies at 80",
-      "description": "Curry was best known for playing the outlandish Frank-N-Furter in cult film The Rocky Horror Picture Show.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f416/live/e5f37b10-a179-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-26T17:34:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
+      "id": "guardian-nVzdGluLWJhbGRvbmk",
+      "title": "Judge awards Blake Lively $400,000 in legal fees in Justin Baldoni case",
+      "description": "The actor had sought $8m in attorney costs resulting from her protracted legal battle with Baldoni Blake Lively has been awarded more than $400,000 in attorneys’ fees after her 18-month legal battle with Justin Baldoni. On Wednesday, judge Lewis Liman awarded the actor $363,245.40 in attorneys’ fees and $44,206.35 in costs, figures far lower than the $8m Lively had sought . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/26/blake-lively-legal-fees-justin-baldoni",
+      "image": "https://i.guim.co.uk/img/media/a4909801b2c2fb17855c960dd86c5fa79d88bfaf/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bd581aa0cf8c3da5156d3755cc09d0f",
+      "publishedAt": "2026-08-26T17:45:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Miley Cyrus remembers godmother Dolly Parton as an 'angel by my side'",
+      "title": "'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton",
       "description": "Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.",
       "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2434/live/bab080c0-a16e-11f1-b109-879e35c24276.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27c9/live/901c7860-a195-11f1-92c6-e1bd83a84cfc.jpg",
       "publishedAt": "2026-08-26T17:26:12.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -124,6 +196,18 @@
       "category": "Classics"
     },
     {
+      "id": "guardian-y1zY3JlZW5pbmctbGE",
+      "title": "Mel Brooks’ 20 favorite films to be screened in LA for 100th birthday",
+      "description": "Comedian and director’s picks for American Cinematheque series range from Charlie Chaplin’s City Lights to Taika Waititi’s Jojo Rabbit Twenty of Mel Brooks ’ favorite films of the past century will be screening this fall in Los Angeles , as part of a film series the 100-year-old comedian and director programmed himself. The American Cinematheque, Los Angeles’ year-round nonprofit film festival, worked with Brooks to put together his favorites list , which starts with Charlie Chaplin’s City Lights , from 1931, and ends with Jojo Rabbit , Taika Waititi’s 2019 dark comedy about a Nazi-era German boy who has Adolf Hitler as his imaginary friend. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/26/mel-brooks-20-favorite-films-screening-la",
+      "image": "https://i.guim.co.uk/img/media/af1da1e4129b84177a89980a604a48e3eb7c74df/265_0_2651_2121/master/2651.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77b4b7b3a0852ec2c46e5ddec378df62",
+      "publishedAt": "2026-08-26T14:29:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "indiewire-NlLTEyMzUyMTI3Njcv",
       "title": "Indie Specialized Box Office: Alex Ullom’s ‘It Ends’ Gets Solid Start via 36-Hour Marathon Screening",
       "description": "Neon's horror road trip movie made $61,287 from just 5 screens this weekend.",
@@ -196,42 +280,6 @@
       "category": "TV"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Practical Magic 2's Kidman and Bullock board Essex vintage train",
-      "description": "The stars appear on the train, specially transported to a film studos for a new movie sequel.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrxdw3ew93o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/000c/live/cdcc8720-a07f-11f1-bfeb-dfb02ea642ef.jpg",
-      "publishedAt": "2026-08-26T04:55:04.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ktc2NvdHQtcmV2aWV3",
-      "title": "The Dog Stars review – Ridley Scott’s lethargic postapocalyptic drama is a misfire",
-      "description": "An adaptation of Peter Heller’s 2012 novel never finds its footing with overly familiar survival beats and a glum lack of energy Looking towards the end of an August movie dumping ground littered with more unwanted trash than usual, there seemed to be a faint glimmer of hope, a shiny treasure poking out through the dusty mass of unnecessary sequels and sex purge romcoms . Somehow, there was a $110m-budget adaptation of an acclaimed novel directed by Ridley Scott, led by a recently Oscar-nominated rising star with support from two Oscar-nominated actors and an Oscar winner. But why then would such a film be unveiled in between the summer blockbuster season and the upcoming deluge of prestige fall festival big hitters? A cursed weekend that’s recently been home to Jay Roach’s heinous War of the Roses remake, Dennis Quaid’s Ronald Reagan biopic and George Miller’s hard-to-define and even harder-to-love flop Three Thousand Years of Longing. Ever since The Dog Stars, based on Peter Heller’s 2012 novel, had been yanked from its far more encouraging date at the end of March, there were multiple red flags flying and the rotten end of August has ultimately become an appropriate punishment for a limp and lethargic film that only briefly fascinates in pushing us to wonder what anyone was really hoping this would end up being. It’s yet another grubby postapocalyptic survival tale, an overcrowded subgenre that hasn’t just reached maximum capacity on the big screen but on the small one too. In a world of seven Walking Dead shows, the beats are now far too familiar – artfully dishevelled actors grieve for the past and fear for the future as they scramble to find and protect resources – and there’s nothing new or notable here to conjure anything but deja vu. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/25/the-dog-stars-ridley-scott-review",
-      "image": "https://i.guim.co.uk/img/media/24861a5ad8ad7f7749069046da56317152febec4/1467_752_5500_4400/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=94d9930a8aa6f4c711f5191d553efa46",
-      "publishedAt": "2026-08-26T00:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIxMjYyMC8",
-      "title": "‘The Dog Stars’ Review: Jacob Elordi and Josh Brolin Can’t Save Ridley Scott’s Bizarrely Inert Post-Apocalypse Movie from Near-Disaster",
-      "description": "Elordi is a pilot eking out the last days of humanity in Scott's rustic spin on the post-pandemic survival thriller. But it's one curiously lacking in thrills.",
-      "url": "https://www.indiewire.com/criticism/movies/the-dog-stars-review-jacob-elordi-ridley-scott-movie-1235212620/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TDS-00424.jpg?w=650",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "'I'm heartbroken' - Fans react to Dolly Parton's death",
       "description": "The BBC spoke to gatherers at her Hollywood star in Los Angeles, and fans in Washington DC about the music icon's impact.",
@@ -244,42 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ay0xMjM1MjEyNjE0Lw",
-      "title": "Martin Short Explains Why He’s Never Seen a Shrink: ‘It’s OK to Be Sad’",
-      "description": "The Canadian comedian tells IndieWire how Lawrence Kasdan convinced him to become the subject of the Netflix Emmy-nominated documentary, \"Marty, Life Is Short.\"",
-      "url": "https://www.indiewire.com/awards/consider-this/martin-short-netflix-doc-why-hes-never-seen-shrink-1235212614/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/09/GF1_3805.jpg?w=650",
-      "publishedAt": "2026-08-25T19:30:06.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-FkLTEyMzUyMTI2NjMv",
-      "title": "Dolly Parton, Iconic Singer/Songwriter and ‘9 to 5’ Star, Dies at 80",
-      "description": "The beloved musician and actress who lit up the screen in \"The Best Little Whorehouse in Texas,\" \"Steel Magnolias,\" and other films passed away peacefully in Nashville today.",
-      "url": "https://www.indiewire.com/news/obituary/dolly-parton-dead-1235212663/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P115RDFM.jpg?w=650",
-      "publishedAt": "2026-08-25T18:35:07.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5nLTEyMzUxODQzMjcv",
-      "title": "‘The Sun Never Sets’ Review: A Career-Best Dakota Fanning Navigates Dueling Love Triangles in Joe Swanberg’s Delightful Alaskan Romance",
-      "description": "Swanberg delivers some of the best work of his career in this portrait of humanity's inability to figure out what we actually want.",
-      "url": "https://www.indiewire.com/criticism/movies/the-sun-never-sets-review-joe-swanberg-dakota-fanning-1235184327/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/The-Sun-Never-Sets-1.png?w=650",
-      "publishedAt": "2026-08-25T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Life of the music legend whose songs touched millions",
       "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
@@ -290,30 +302,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTE1NzUxNi8",
-      "title": "‘Boorman and the Devil’ Review: This Deep Dive Into How ‘Exorcist II: The Heretic’ Spiraled Out of Control Deserves a Wide Release",
-      "description": "David Kittredge conjures a true film lover's retrospective in this magical John Boorman documentary.",
-      "url": "https://www.indiewire.com/criticism/movies/boorman-and-the-devil-review-1235157516/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/10/Boorman-and-the-Devil.png?w=650",
-      "publishedAt": "2026-08-25T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cnZpbi1vYml0dWFyeQ",
-      "title": "John Irvin obituary",
-      "description": "British film-maker and director of Tinker Tailor Soldier Spy who was described by Alec Guinness as having ‘balls behind the camera’ Bouncing from war zone reportage to cold war espionage, Hollywood horror to Sherwood Forest swashbuckler, Harold Pinter to Arnold Schwarzenegger, the director John Irvin, who has died aged 86, was nothing if not eclectic. “I’m a bit split,” he said. “I like playing with expensive toys, yet I also like the miniatures. I hate being pigeonholed, and I like to do the unexpected.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/25/john-irvin-obituary",
-      "image": "https://i.guim.co.uk/img/media/2bcbe1b941de11505b734d666e30f272688e60d9/75_48_3381_2704/master/3381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4efb6f45959b036c0fc6ccd8308aea21",
-      "publishedAt": "2026-08-25T15:37:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-xheWluZy1ydWRlYm95",
