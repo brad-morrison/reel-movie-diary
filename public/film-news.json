@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T09:37:33.513Z",
+  "generatedAt": "2026-08-28T16:33:28.867Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ZS0xMjM1MjEzMDg1Lw",
+      "title": "Frank Sinatra’s Last Great Performance Served as the Bridge Between ‘Dirty Harry’ and ‘Se7en,’ but Was Bleaker Than Either",
+      "description": "Released in 1980, \"The First Deadly Sin\" features a Sinatra with no ego and no vanity, and looks back to one era of vigilante filmmaking while setting the stage for another.",
+      "url": "https://www.indiewire.com/features/commentary/frank-sinatra-first-deadly-sin-last-great-vigilante-movie-1235213085/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDFIDE_EC034.jpg?w=650",
+      "publishedAt": "2026-08-28T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xvLTEyMzUyMTAzOTEv",
+      "title": "Composer Atli Örvarsson Brings Scandinavian Loneliness — and Techno Flair — to ‘Silo’",
+      "description": "The composer of the dystopian Apple TV series tells IndieWire about developing the show's musical language over several seasons, and now, two parallel storylines.",
+      "url": "https://www.indiewire.com/features/craft/atli-orvarsson-composer-apple-tv-silo-1235210391/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Silo_305_01626F.jpg?w=650",
+      "publishedAt": "2026-08-28T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MTc1MDQ5Lw",
+      "title": "Dave Franco and Nicholas Braun Explain Why They Waited Eight Years to Make ‘Idiots’",
+      "description": "Director Macon Blair and his cast, which also includes Kiernan Shipka and O'Shea Jackson Jr., stopped by the IndieWire Studio, presented by Dropbox, to recall the long road to their new comedy.",
+      "url": "https://www.indiewire.com/news/events/dave-franco-nicholas-braun-idiots-the-shitheads-sundance-1235175049/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/GettyImages-2257317557.jpg?w=650",
+      "publishedAt": "2026-08-28T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-cGFyZW50cy1kZWF0aA",
+      "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
+      "description": "Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home Jake Reiner has given his first interview since the killing of his parents, the film-maker Rob Reiner and his wife, Michele Singer Reiner, saying: “I will never understand why this happened.” Reiner, who directed films including The Princess Bride, This Is Spinal Tap and Stand By Me, was found dead alongside Singer Reiner from apparent stab wounds in their home in Los Angeles in December. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death",
+      "image": "https://i.guim.co.uk/img/media/95e34384afe0c0a139607d0223c434a9d7ca241d/93_0_2679_2142/master/2679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46f8982eaa56b460f3263d51dd8ac6ae",
+      "publishedAt": "2026-08-28T13:20:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxMzI1MS8",
+      "title": "‘The Whisper Man’ Review: Robert De Niro Classes Up a Standard Serial Killer Procedural",
+      "description": "Adam Scott and Michelle Monaghan co-star in a straightforward thriller about a widower and his cop father teaming up to save his son.",
+      "url": "https://www.indiewire.com/criticism/movies/the-whisper-man-review-1235213251/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/WHISPERMAN_20250522_31414_R3.jpg?w=650",
+      "publishedAt": "2026-08-28T13:04:27.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-c2FpbnQtbGF1cmVudA",
+      "title": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
+      "description": "The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says ‘Even though I’ve been working in film for over 20 years, I still have this desire to look beautiful on screen,” says Louis Garrel, on a video call from his bed inside a boat off the coast of Corsica. The French film star is lying on his stomach, occasionally kicking up his bare legs, ruffling his curls and running the nail of his thumb over his moustache. I think the person he sees on the laptop screen in front of him is me, but I am pretty certain he is flirting with his own reflection. The attraction between the Paris-born 43-year-old and the camera tends to be reciprocal. Long of limb, tousled of hair and chiselled of nose, Garrel has spent a career on screen as French cinema’s favourite Adonis – the man film-makers turn to when they need an erotic wrecking ball to smash up bourgeois twosomes and turn them into quivering menages a trois. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent",
+      "image": "https://i.guim.co.uk/img/media/c2012d6776968a4c30daac4de545cc58868613eb/0_0_3072_2458/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=111d07e3c6d640543562f2ed87bb5c2c",
+      "publishedAt": "2026-08-28T12:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-YW50LWZvbGxvdy11cA",
+      "title": "Memo to Ridley Scott: no one needs more Alien: Covenant movies – get the franchise back to stalk’n’slash",
+      "description": "News that Scott is working on a follow-up to his maligned 2017 film leaves me worried the franchise has run out of shocks If any science-fiction saga looked beyond recovery, it was the Alien franchise. For the 38 years that followed James Cameron’s Aliens, film-makers contrived to find every imaginable way of not making a good Alien film. They tried killing everyone the audience cared about before the opening credits, marooning Sigourney Weaver on a planet populated entirely by bald British character actors , cloning Ripley , pitting xenomorphs against Predators , and sending scientists across the universe to ask an enormous, hairless space bodybuilder why he made them . They even ponied up the thick end of $100m for a film in which Michael Fassbender teaches himself to play the flute . And then in 2024, we got Fede Álvarez’s Alien: Romulus , in which actual xenomorphs chase actual human beings down actual corridors for the clearly defined purposes of either killing them or putting smaller xenomorphs inside them. Better still, a year later we got Noah Hawley’s Alien: Earth , which reminded us that giant, murderous space insects are in fact less awful than tech trillionaires. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/28/ridley-scott-alien-covenant-follow-up",
+      "image": "https://i.guim.co.uk/img/media/90add1508706964085ab2aaf51024ad58ae75878/42_0_2517_2014/master/2517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8c5a8e500687e264a36228a862f75a41",
+      "publishedAt": "2026-08-28T11:44:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-gtbW92aWUtcmV2aWV3",
       "title": "The Whisper Man review – Robert De Niro sleepwalks through silly Netflix potboiler",
@@ -208,30 +292,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-cy0xMjM1MjEyNDgyLw",
-      "title": "‘Adults’ Season 2 Review: FX’s Gen-Z Sitcom Hits a Much-Needed Growth Spurt",
-      "description": "After a rough debut, co-creators Ben Kronengold and Rebecca Shaw lean on classic sitcom tropes and elevate their strongest characters in an improved sophomore season.",
-      "url": "https://www.indiewire.com/criticism/shows/adults-season-2-review-hulu-series-1235212482/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Adults-Season-2-cast.jpg?w=650",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-xhLTEyMzUyMTMwOTMv",
-      "title": "This Year’s New York Film Festival Will Feature Talks with Martin Scorsese, James Gray, Mike Leigh, Sofia Coppola, Ava DuVernay, and More",
-      "description": "The annual festival's Talks lineup is packed with heavy hitters, deep dive chats, and free events.",
-      "url": "https://www.indiewire.com/news/festivals/nyff-2026-talks-scorsese-gray-coppola-1235213093/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-142349190.jpg?w=650",
-      "publishedAt": "2026-08-27T15:06:48.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-GwtbW9udHktc3RyaXA",
       "title": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
       "description": "The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the map You’re stranded on a lifeboat with Ewan McGregor , Ewen Bremner , Jonny Lee Miller , Kevin McKidd , Peter Mullan , James Cosmo , Keith Allen and Irvine Welsh . Who do you eat first? DarkAnaemicI77 I suppose you have to think about who’s the healthiest and has looked after their body best. I reckon Ewan would be a wee bit too chewy, and Irvine a wee bit pickled. I’ll go for Kevin McKidd because he’s been out in LA for 20 years, eating good food. Did you really not like Zippy the West Highland terrier who played Wee Jock in Hamish Macbeth ? Campbell97 Continue reading...",
@@ -242,66 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-ZpZS1yb2Jpbi1ob29k",
-      "title": "Marketing meltdown: why has Andrew Garfield’s new film suddenly added Robin Hood?",
-      "description": "Paul Greengrass drama The Uprising was supposed to be a historical epic about the Peasants’ Revolt of 1381 – but a strange new campaign has inserted a surprising figure Nobody likes to have the full plot of a movie spoiled before they’ve even seen it. However, sometimes this can be taken to the extreme. Take the new Paul Greengrass movie, The Uprising, for example. It is two weeks away from its US release and not only does nobody know the plot, but nobody seems to know what it is even about. Seriously, nobody at all. The film’s distributors just spent yesterday squabbling in public about whether Robin Hood was in it or not. Here’s what we know so far. Initially, all the trailers and promotional materials made The Uprising look like a film about the Peasants’ Revolt that tore through England in 1381. And this was very exciting, since the revolt was a thrilling moment in history that has been bizarrely underserved by Hollywood over the years. Most exciting of all, though, it sounded like it fit exactly into Greengrass’s wheelhouse: full of action and realism and political awareness. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/27/andrew-garfield-the-uprising-movie-robin-hood",
-      "image": "https://i.guim.co.uk/img/media/742f2ba6aaae23890e40baed50acd457ed699ae5/893_0_4214_3375/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9967f355130caf12e7fa0e5cb3f8a582",
-      "publishedAt": "2026-08-27T13:58:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjEyNTI0Lw",
-      "title": "Ridley Scott on How ‘The Shining’ and ‘The Odd Couple’ Influenced ‘The Dog Stars’",
-      "description": "Scott tells IndieWire about the influences behind his wild new combination of adventure, romance, comedy, and horror.",
-      "url": "https://www.indiewire.com/features/podcast/ridley-scott-the-shining-influence-the-dog-stars-1235212524/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDDOST_H3022.jpg?w=650",
-      "publishedAt": "2026-08-27T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMTI5MzYv",
-      "title": "AMC and Other Big Chains Have Endorsed the Paramount-Warner Bros. Merger, but for Indie Theaters ‘the Devil Is in the Details’",
-      "description": "Smaller theaters have less leverage over rates, holds, and repertory titles than their counterparts at AMC, Regal, and Cinemark.",
-      "url": "https://www.indiewire.com/news/business/amc-endorsed-paramount-warner-bros-merger-indie-theaters-1235212936/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/GettyImages-2225831945.jpg?w=650",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-LXBpY3R1cmUtc2hvdw",
-      "title": "‘He could arch both eyebrows and curl his lips in every direction all at once’: Tim Curry’s five best screen roles",
-      "description": "The actor fully embraced his physical talents and outsized personality with a line in theatrical baddies teetering deliciously on the edge of serious and silly • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke – and 50 years of stardom • Clowns, corsets and kings: Tim Curry – a life in pictures As Dr Frank-N-Furter, the gender-nonconforming alien mad scientist who presides over Richard O’Brien’s glam rock musical, admits two innocents to his gothic castle and induces them into all sorts of delicious naughtiness, Curry is so thrillingly liberated as to seem a menace. An irresistibly appealing menace. Apparently able to arch both eyebrows and curl his lips in every direction all at once, Curry wraps his mouth around the double-entendres and belts out the lyrics with lip-smacking relish, and fully fleshes out this avatar of sexual confidence. The film earned one of the original cult fandoms, the stage musical endures and many other actors have pulled on Frank’s corset and high heels – but the role indelibly and for ever belongs to Curry. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/27/tim-curry-five-best-screen-roles-rocky-horror-picture-show",
-      "image": "https://i.guim.co.uk/img/media/56415b721d7f82b6c9ef35220cba117c55b0ef8d/206_0_2302_1842/master/2302.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6c8f5f40453c8eb15c7160caa8d4363",
-      "publishedAt": "2026-08-27T11:29:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-hlYS1qYWNrc29uLWpy",
-      "title": "Idiots review – throwback bro comedy is an entertaining summer seat-filler",
-      "description": "Dave Franco and O’Shea Jackson Jr lead a goofy roadtrip comedy that is just sharp enough to keep you strapped in Idiots is billed as a return to the raunchy bro comedies of the 2000s like Pineapple Express and The Hangover and about halfway through there is a visual gag involving bodily functions that is so revolting, so unexpected and so genius that it comes close to them. For a moment, I was transported back to the mix of delight and disgust I felt upon watching a 90s Farrelly Brothers movie when I was far too young: How is this allowed? Described as an “earnest-dipshits-on-the-road screwball comedy” by director Macon Blair ( I Don’t Feel at Home in This World Anymore , The Toxic Avenger), this R-rated indie comedy can’t entirely deliver on that enticingly deranged promise, but it has enough testosterone-fueled transgression to make its runtime breeze by. Dave Franco plays Mark, a doofus with a neck tattoo who expresses affection for his fellow man by slapping them on the jowls. When he is invited to vacate his job at a call center – which he has been coasting through by playing gory video games and sneaking shots of whiskey at his desk – he teams up with Davis (O’Shea Jackson Jr) for a dodgy under-the-table job involving transporting wayward teens to rehab. Their first charge is Sheridan (Mason Thames), a moody influencer who has made a name for himself by playing cruel stunts on members of the public like an off-brand Jake Paul. Like Harold & Kumar before it, the road trip is an obvious but effective ruse for Idiots’s freeform, THC-addled approach to storytelling which finds the trio jumping from country diner to crummy motel to a Slavic granny’s living room as Sheridan attempts to derail his passage to rehab. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/27/idiots-review-dave-franco-oshea-jackson-jr",
-      "image": "https://i.guim.co.uk/img/media/44fca7a1afe268a661b1311de1a6bef7fbf6e424/423_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4e170f4318fc0c63f1ccfbb91f028346",
-      "publishedAt": "2026-08-27T11:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
