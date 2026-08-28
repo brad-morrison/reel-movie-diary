@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T21:38:06.513Z",
+  "generatedAt": "2026-08-28T03:26:40.804Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-FzLTEyMzUyMTMyMjUv",
+      "title": "Dolly Parton Tribute: AMC Theatres Bringing Back ‘The Best Little Whorehouse in Texas,’ ‘Steel Magnolias’ to Honor Late Icon",
+      "description": "Dolly Parton will be honored by the country’s largest theater chain with revivals of some of her most famous movies.",
+      "url": "https://www.indiewire.com/news/breaking-news/dolly-parton-tribute-amc-theatres-best-little-whorehouse-steel-magnolias-1235213225/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/M8DBELI_EC004.jpg?w=650",
+      "publishedAt": "2026-08-27T22:08:21.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-dy0xMjM1MjEyNTA3Lw",
       "title": "‘Coyote vs. Acme’ Director Dave Green ‘Remains in Shock’ That the Film Is Coming Out",
@@ -242,18 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjEzMDY0Lw",
-      "title": "‘Possible Love’ Trailer: ‘Burning’ Director Lee Chang-dong Returns with a Story of Documentary Filmmaking Gone Awry",
-      "description": "Netflix will release the film in theaters on Friday, October 23 following its Venice premiere.",
-      "url": "https://www.indiewire.com/news/trailers/possible-love-trailer-lee-chang-dong-1235213064/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/POSSIBLE-love.jpg?w=650",
-      "publishedAt": "2026-08-27T01:05:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
