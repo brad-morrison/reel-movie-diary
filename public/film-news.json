@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T06:39:06.973Z",
+  "generatedAt": "2026-08-29T18:30:46.758Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,30 @@
   },
   "articles": [
     {
+      "id": "indiewire-eS0xMjM1MjEzNTM0Lw",
+      "title": "Tom Cruise’s ‘Days of Thunder’ Sequel Set for June 2028 with Anne Hathaway Joining",
+      "description": "Jonathan Levine is directing the sequel to the 1990 NASCAR film.",
+      "url": "https://www.indiewire.com/news/breaking-news/tom-cruise-days-of-thunder-sequel-release-anne-hathaway-1235213534/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/SHOT_01_00565RTFv2cropHREZ.jpg?w=650",
+      "publishedAt": "2026-08-29T17:11:38.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMTI3Mzkv",
+      "title": "Ridley Scott Casts His Crews as Carefully as His Movies So That He ‘Can Just Play Tennis’",
+      "description": "Scott and several of his department heads tell IndieWire about their ongoing collaboration and their work together on the director's latest film, \"The Dog Stars.\"",
+      "url": "https://www.indiewire.com/features/craft/ridley-scott-the-dog-stars-crafts-team-collaboration-1235212739/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDDOST_H3028.jpg?w=650",
+      "publishedAt": "2026-08-29T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-MS0xMjM1MjEzMzU3Lw",
       "title": "Tonight’s After Dark: ‘New Jack City,’ the Gangster Classic That Became a Westwood Flashpoint",
       "description": "Mario Van Peebles’ electric 1991 crime thriller arrived in Westwood just days after the Rodney King beating.",
@@ -29,7 +53,7 @@
     },
     {
       "id": "indiewire-xrLTEyMzUyMTMzODkv",
-      "title": "Who Should Be the Next James Bond? Probably Not Jacob Elordi or Harris Dickinson",
+      "title": "Who Should Be the Next James Bond?",
       "description": "On this week's episode of IndieWire's \"Screen Talk\" podcast, we also review Ridley Scott's \"The Dog Stars\" and debate whether Mark Ruffalo's recent Warnermount remarks will impact his career.",
       "url": "https://www.indiewire.com/features/podcast/who-should-play-james-bond-screen-talk-1235213389/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P107Q19V.jpg?w=650",
@@ -130,30 +154,6 @@
       "url": "https://www.indiewire.com/features/commentary/frank-sinatra-first-deadly-sin-last-great-vigilante-movie-1235213085/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDFIDE_EC034.jpg?w=650",
       "publishedAt": "2026-08-28T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-xvLTEyMzUyMTAzOTEv",
-      "title": "Composer Atli Örvarsson Brings Scandinavian Loneliness — and Techno Flair — to ‘Silo’",
-      "description": "The composer of the dystopian Apple TV series tells IndieWire about developing the show's musical language over several seasons, and now, two parallel storylines.",
-      "url": "https://www.indiewire.com/features/craft/atli-orvarsson-composer-apple-tv-silo-1235210391/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Silo_305_01626F.jpg?w=650",
-      "publishedAt": "2026-08-28T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MTc1MDQ5Lw",
-      "title": "Dave Franco and Nicholas Braun Explain Why They Waited Eight Years to Make ‘Idiots’",
-      "description": "Director Macon Blair and his cast, which also includes Kiernan Shipka and O'Shea Jackson Jr., stopped by the IndieWire Studio, presented by Dropbox, to recall the long road to their new comedy.",
-      "url": "https://www.indiewire.com/news/events/dave-franco-nicholas-braun-idiots-the-shitheads-sundance-1235175049/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/GettyImages-2257317557.jpg?w=650",
-      "publishedAt": "2026-08-28T14:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
