@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:38:58.777Z",
+  "generatedAt": "2026-08-29T00:55:08.820Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -278,18 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-      "description": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films.",
-      "url": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9529/live/82879e30-a22d-11f1-bd54-531a21306a62.jpg",
-      "publishedAt": "2026-08-27T16:00:12.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-GwtbW9udHktc3RyaXA",
