@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T00:55:08.820Z",
+  "generatedAt": "2026-08-29T06:39:06.973Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-MS0xMjM1MjEzMzU3Lw",
+      "title": "Tonight’s After Dark: ‘New Jack City,’ the Gangster Classic That Became a Westwood Flashpoint",
+      "description": "Mario Van Peebles’ electric 1991 crime thriller arrived in Westwood just days after the Rodney King beating.",
+      "url": "https://www.indiewire.com/news/general-news/new-jack-city-riot-westwood-los-angeles-1991-1235213357/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDNEJA_EC008-e1787964495245.jpg?w=650",
+      "publishedAt": "2026-08-29T03:59:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
     {
       "id": "indiewire-xrLTEyMzUyMTMzODkv",
       "title": "Who Should Be the Next James Bond? Probably Not Jacob Elordi or Harris Dickinson",
@@ -158,18 +170,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxMzI1MS8",
-      "title": "‘The Whisper Man’ Review: Robert De Niro Classes Up a Standard Serial Killer Procedural",
-      "description": "Adam Scott and Michelle Monaghan co-star in a straightforward thriller about a widower and his cop father teaming up to save his son.",
-      "url": "https://www.indiewire.com/criticism/movies/the-whisper-man-review-1235213251/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/WHISPERMAN_20250522_31414_R3.jpg?w=650",
-      "publishedAt": "2026-08-28T13:04:27.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-c2FpbnQtbGF1cmVudA",
