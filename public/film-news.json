@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T06:40:38.505Z",
+  "generatedAt": "2026-08-30T18:30:37.315Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-cy0xMjM1MjEzNjAyLw",
+      "title": "‘Coyote vs. Acme,’ Viewed as Unreleasable by Warner Bros., Just Beat a Jacob Elordi and Ridley Scott Movie at the Box Office",
+      "description": "\"Coyote vs. Acme\" opened in second place with $15.4 million while \"The Dog Stars\" flopped with $8 million.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-coyote-vs-acme-beats-jacob-elordi-ridley-scott-dog-stars-1235213602/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCOVS_EC005.jpg?w=650",
+      "publishedAt": "2026-08-30T17:23:40.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XQtMTIzNTIxMzIxOS8",
+      "title": "From Timothée Chalamet and Tom Cruise to Cynthia Erivo: It’s Time for Some Overdue Actors to Finally Win an Oscar",
+      "description": "John Malkovich, Matt Damon, and Glenn Close are also Academy Award-less. We rank the overlooked contenders from likeliest to least likely.",
+      "url": "https://www.indiewire.com/awards/consider-this/overdue-actors-oscar-matt-damon-tom-cruise-timothee-chalamet-1235213219/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/DUN3-T1-0050rv3.jpg?w=650",
+      "publishedAt": "2026-08-30T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTI5OTkv",
+      "title": "‘Robot Chicken’ Celebrated 25 Years of Adult Swim with an Absurd, ‘Circus of the Stars’ Crossover",
+      "description": "Seth Green and Matthew Senreich tell IndieWire about celebrating a quarter century of the Cartoon Network programming block in one glorious crossover episode.",
+      "url": "https://www.indiewire.com/features/interviews/robot-chicken-adult-swim-25th-anniversary-special-interview-1235212999/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-28-at-1.11.10-PM.png?w=650",
+      "publishedAt": "2026-08-30T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "guardian-2YtYXV0dW1uLTIwMjY",
       "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
@@ -148,42 +184,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-24tMTIzNTIxMzIyOS8",
-      "title": "Indie Box Office Report Card: From ‘Backrooms’ and ‘Obsession’ to ‘I Want Your Sex,’ Breaking Down the Summer’s Winners and Losers",
-      "description": "\"The Invite\" and \"Maddie's Secret\" surprised, while some like \"Gail Daughtry\" and \"I Love Boosters\" left us wanting more.",
-      "url": "https://www.indiewire.com/news/box-office/2026-indie-box-office-winners-losers-backrooms-obsession-1235213229/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Indie-Box-Office-Report-Card.jpg?w=650",
-      "publishedAt": "2026-08-28T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RoLTEyMzUyMTMzMTEv",
-      "title": "‘A Talent for Murder’ Trailer: Helen Mirren Is Patricia Highsmith Opposite Alden Ehrenreich in Anton Corbijn’s Literary Thriller",
-      "description": "Bleecker Street opens the film this October following a TIFF world premiere.",
-      "url": "https://www.indiewire.com/news/trailers/a-talent-for-murder-trailer-helen-mirren-patricia-highsmith-1235213311/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-and-LD-Entertainment-.jpg?w=650",
-      "publishedAt": "2026-08-28T16:53:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjEzMDg1Lw",
-      "title": "Frank Sinatra’s Last Great Performance Served as the Bridge Between ‘Dirty Harry’ and ‘Se7en,’ but Was Bleaker Than Either",
-      "description": "Released in 1980, \"The First Deadly Sin\" features a Sinatra with no ego and no vanity, and looks back to one era of vigilante filmmaking while setting the stage for another.",
-      "url": "https://www.indiewire.com/features/commentary/frank-sinatra-first-deadly-sin-last-great-vigilante-movie-1235213085/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MSDFIDE_EC034.jpg?w=650",
-      "publishedAt": "2026-08-28T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-cGFyZW50cy1kZWF0aA",
       "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
       "description": "Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home Jake Reiner has given his first interview since the killing of his parents, the film-maker Rob Reiner and his wife, Michele Singer Reiner, saying: “I will never understand why this happened.” Reiner, who directed films including The Princess Bride, This Is Spinal Tap and Stand By Me, was found dead alongside Singer Reiner from apparent stab wounds in their home in Los Angeles in December. Continue reading...",
@@ -290,6 +290,18 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-GwtbW9udHktc3RyaXA",
+      "title": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
+      "description": "The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the map You’re stranded on a lifeboat with Ewan McGregor , Ewen Bremner , Jonny Lee Miller , Kevin McKidd , Peter Mullan , James Cosmo , Keith Allen and Irvine Welsh . Who do you eat first? DarkAnaemicI77 I suppose you have to think about who’s the healthiest and has looked after their body best. I reckon Ewan would be a wee bit too chewy, and Irvine a wee bit pickled. I’ll go for Kevin McKidd because he’s been out in LA for 20 years, eating good food. Did you really not like Zippy the West Highland terrier who played Wee Jock in Hamish Macbeth ? Campbell97 Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/27/robert-carlyle-interview-full-monty-strip",
+      "image": "https://i.guim.co.uk/img/media/a7216b844b2eddd1e5187ee6236aa73ff33599d1/0_480_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=576db5ce9c03dd6c45e6b4f9776e1002",
+      "publishedAt": "2026-08-27T14:00:16.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -446,18 +458,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-MtcG9pc29uLXN3b29u",
-      "title": "‘I love provocative stories’: producer Christine Vachon on fighting for her ‘offensive’ movies",
-      "description": "The maker of indie classics Kids, Swoon and Poison on daring to have a temper in the 90s, what some producer credits mean – and what happened between her and Joaquin Phoenix Trailblazing producer Christine Vachon bestrides the world of US independent film-making like a colossus. She has championed idiosyncratic American cinema for more than 35 years, scoring hits such as the romcom Materialists, which starred three superhero actors (Dakota Johnson, Pedro Pascal, Chris Evans) and grossed $108m, alongside curiosities such as Zola, a strippers’ road-trip comedy based on a string of viral tweets. Vachon got her start in the early 1990s. Her often scandalous movies – from Poison (gay prison sex) and Swoon (gay child killers) to Happiness (paedophile dad) and Kids (delinquent teens) – dominated the cultural conversation decades before boutique studio A24 had sold its first tote bag. Her production outfit Killer Films, which she founded in 1995 with Pamela Koffler, has as its logo a cartoon bunny with a target for a body, mischievously evoking the company’s blend of irreverence and danger. “I don’t think we’ve ever made a movie that somebody hasn’t been offended by,” Vachon said in 2000. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/19/producer-christine-vachon-offensive-movies-kids-poison-swoon",
-      "image": "https://i.guim.co.uk/img/media/d00d515d5b6446a572d8161e5f2dcfab027c0426/461_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a4622197923c9459ab671cfc4c8c037",
-      "publishedAt": "2026-08-19T16:45:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-aXF1ZS1zcG9pbGVycw",
