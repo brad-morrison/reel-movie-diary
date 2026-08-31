@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T18:30:37.315Z",
+  "generatedAt": "2026-08-31T06:54:36.462Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-dvcm5vLWthcmFiYWto",
+      "title": "The Black Garden review – haunting study of growing up in war-torn Nagorno-Karabakh",
+      "description": "Alexis Pazoumian’s documentary follows Samvel and Avo, two preteen boys whose lives will be unavoidably scarred by brutal conflict After the Soviet Union collapsed in 1991, a decades-long territorial dispute exploded in the region of Nagorno-Karabakh, as its largely Armenian population fought against countless military campaigns from the Azerbaijani army. Shot over the course of three eventful years, which culminated in the surrender of Nagorno-Karabakh’s separatist government in 2023 , Alexis Pazoumian’s haunting documentary harnesses the collective turmoil that dominated generations of Armenians. From the elderly to the very young, the community are united by an unwavering sense of pride, one that carries them through never-ending bloodshed and displacement. The film opens with the harrowing sight of a bombed-out school in the small village of Talish, where childlike innocence contrasts with wartime trauma. Samvel and Avo, two preteen boys, roam through the wreckage and scavenge for remains of past normalcy, like the scattered notebooks left behind by their former classmates. The threat of the enemy, however, is drilled into every aspect of their daily life. At school, they learn how to assemble guns, and at family gatherings, they join in songs that speak of heroic valour. That the children here – boys and girls – will grow up to become soldiers is a foregone conclusion. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/31/the-black-garden-review-haunting-study-of-growing-up-in-war-torn-nagorno-karabakh",
+      "image": "https://i.guim.co.uk/img/media/18f7e3477e3cb0f163016e44384ca88a2c73f139/308_0_1793_1434/master/1793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd78c1316bc867617ca3dbcad6d5a54d",
+      "publishedAt": "2026-08-31T06:00:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIxMzM1OS8",
+      "title": "‘Lanterns’ Review: Episode 3 Reveals John Stewart’s Stunning ‘OutKast’ Origin Story — Spoilers",
+      "description": "In its best episode to date, HBO's original series examines what John Stewart, a Black man in America, had to do to earn the same job as his white predecessor.",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-3-review-outkast-john-stewart-origin-story-1235213359/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-Episode-3-Aaron-Pierre-as-John-Stewart.jpg?w=650",
+      "publishedAt": "2026-08-31T02:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "description": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-08-31T01:47:54.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-cy0xMjM1MjEzNjAyLw",
       "title": "‘Coyote vs. Acme,’ Viewed as Unreleasable by Warner Bros., Just Beat a Jacob Elordi and Ridley Scott Movie at the Box Office",
@@ -172,18 +208,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-24tMTIzNTIxMjk4OS8",
-      "title": "‘Dark Matter’ Season 2 Tests the Limits of Apple TV’s Sci-Fi Obsession",
-      "description": "After two years away, Blake Crouch's science-fiction series returns with a convoluted follow-up that illustrates the risks of Apple's high-concept blockbuster TV strategy.",
-      "url": "https://www.indiewire.com/criticism/shows/dark-matter-season-2-review-apple-tv-sci-fi-obsession-1235212989/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Dark-Matter-Season-2-Joel-Edgerton-Apple-series.jpg?w=650",
-      "publishedAt": "2026-08-28T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-cGFyZW50cy1kZWF0aA",
       "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
       "description": "Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home Jake Reiner has given his first interview since the killing of his parents, the film-maker Rob Reiner and his wife, Michele Singer Reiner, saying: “I will never understand why this happened.” Reiner, who directed films including The Princess Bride, This Is Spinal Tap and Stand By Me, was found dead alongside Singer Reiner from apparent stab wounds in their home in Los Angeles in December. Continue reading...",
@@ -218,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-gtbW92aWUtcmV2aWV3",
-      "title": "The Whisper Man review – Robert De Niro sleepwalks through silly Netflix potboiler",
-      "description": "A father and son must team up to find a serial killer in a cheaply made and increasingly uninteresting thriller It’s not as if Robert De Niro ’s choices have improved all that much since the nadir of the mid-2000s (last year did see him crop up in a Scott Eastwood-led actioner and The Alto Knights ) but there’s something specifically rubbishy about his latest that transports us back to that particularly cursed time. The Whisper Man, a film as openly stupid as its title would suggest, could have been released in between the evil clone horror Godsend and imaginary friend thriller Hide and Seek , the kind of bottom-tier project that offers the actor a nice big cheque and the audience a nice little nap. It’s a familiar pile of B-movie schlock – serial killers, missing children, bumps in the night, more imaginary friends – and there is some initial junky fun to be had as we wonder just where it all might be headed. I was hoping for a destination a little more deranged or vaguely surprising, the film making a silent promise that we’re hurtling toward somewhere wildly unexpected before dumping us in a ditch instead. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/28/the-whisper-man-robert-de-niro-netflix-movie-review",
-      "image": "https://i.guim.co.uk/img/media/b5dec5f23ab6ea18eac74358b6f184a141b76f9b/371_0_3708_2967/master/3708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=79d2583a832a2d84253d695569a0b63a",
-      "publishedAt": "2026-08-28T07:01:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZhbnMtZ3JhbnQtZ2Vl",
