@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:41:22.217Z",
+  "generatedAt": "2026-08-31T18:34:56.874Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VyLTEyMzUyMTMwODcv",
+      "title": "‘The Social Reckoning,’ ‘Cliff Booth,’ and ‘Artificial’ Had Reshoots. Why Is That a Disaster?",
+      "description": "Are three upcoming films from major directors really in trouble, or has a six-month awards season made us dumber (not smarter) about film production?",
+      "url": "https://www.indiewire.com/features/commentary/social-reckoning-cliff-booth-artificial-reshoots-problems-david-fincher-1235213087/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Untitled-August-27-2026-at-11.41.42-2.jpeg?w=650",
+      "publishedAt": "2026-08-31T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JkLTEyMzUyMTI2Njgv",
+      "title": "16 Hot Sales Titles at Venice and TIFF 2026, from ‘Bucking Fastard’ to ‘Prima Facie’",
+      "description": "New films by Paul Schrader, the Zellner Brothers, Casey Affleck, Tim Blake Nelson, and more could all be appealing to buyers.",
+      "url": "https://www.indiewire.com/news/festivals/hot-sales-titles-venice-tiff-2026-bucking-fastard-1235212668/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Fall-Festival-Sales-2026.jpg?w=650",
+      "publishedAt": "2026-08-31T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5hLTEyMzUyMTI3MzYv",
+      "title": "‘Onslaught’ Review: Adam Wingard Goes Back to Basics with a Lean Military Slasher",
+      "description": "Adria Arjona plays a veteran turned protective mother in a thriller that draws heavy inspiration from the works of John Carpenter.",
+      "url": "https://www.indiewire.com/criticism/movies/onslaught-review-adria-arjona-1235212736/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC006.jpg?w=650",
+      "publishedAt": "2026-08-31T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-FsLTEyMzUyMTM2NDAv",
+      "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ Will World Premiere at This Year’s New York Film Festival",
+      "description": "PTA’s latest captures the Geese frontman’s stripped-down 2025 set at the iconic venue.",
+      "url": "https://www.indiewire.com/news/festivals/paul-thomas-anderson-cameron-winter-at-carnegie-new-york-film-festival-1235213640/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
+      "publishedAt": "2026-08-31T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mYtMTIzNTIxMzYyOS8",
+      "title": "After a Decade-Plus Journey, Zack Snyder’s ‘The Last Photograph’ Will Finally Premiere at TIFF",
+      "description": "The filmmaker has been trying to get the dramatic actioner made for nearly two decades.",
+      "url": "https://www.indiewire.com/news/festivals/zack-snyder-the-last-photograph-premiere-tiff-1235213629/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TLP-TIFF-Still-Select-01-v2.jpg?w=650",
+      "publishedAt": "2026-08-31T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1hdHRlbmJvcm91Z2g",
+      "title": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
+      "description": "‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’ Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex. The children – loosely based on my sister Juliet, my brother Jonathan and myself – discover a man in their barn. Thinking he’s Jesus, they decide to hide him and protect him from the adults because they don’t want the same thing to happen to him as before. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
+      "image": "https://i.guim.co.uk/img/media/d9c7e76f7f0bed8c8b44adaf1fbc717900c96658/76_0_4550_3642/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6395cf8df821fa963d542590b76208f3",
+      "publishedAt": "2026-08-31T13:21:16.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-2luZy1uaWdodG1hcmU",
       "title": "Parasomnia review – sleep-schedule horror conjures up a succubus on the loose in waking nightmare",
@@ -184,72 +256,36 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-xrLTEyMzUyMTMzODkv",
-      "title": "Who Should Be the Next James Bond?",
-      "description": "On this week's episode of IndieWire's \"Screen Talk\" podcast, we also review Ridley Scott's \"The Dog Stars\" and debate whether Mark Ruffalo's recent Warnermount remarks will impact his career.",
-      "url": "https://www.indiewire.com/features/podcast/who-should-play-james-bond-screen-talk-1235213389/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/P107Q19V.jpg?w=650",
-      "publishedAt": "2026-08-28T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-2gtMTIzNTIxMzM5NC8",
-      "title": "The Isaac Mizrahi Documentary ‘Unzipped’ Is the Ultimate ’90s Fashion Portrait — Watch the Trailer",
-      "description": "Dougle Reeve's 1995 documentary follows Mizrahi into his 1994 fall collection. Access was helped amply by the fact that they were dating at the time.",
-      "url": "https://www.indiewire.com/news/trailers/isaac-mizrahi-90s-documentary-unzipped-trailer-watch-1235213394/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/36035id_033_0002_36035id_108_w1600.jpg?w=650",
-      "publishedAt": "2026-08-28T21:27:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjEyNTI4Lw",
-      "title": "Ridley Scott on Telling Love Stories from ‘Thelma and Louise’ to ‘The Dog Stars,’ Shooting With 11 Cameras, and Why Silence Is the Best Sound Effect",
-      "description": "The veteran director of \"Alien,\" \"Blade Runner,\" and \"Black Hawk Down\" visits IndieWire's Filmmaker Toolkit podcast to talk about his latest film.",
-      "url": "https://www.indiewire.com/features/podcast/ridley-scott-the-dog-stars-cameras-love-stories-interview-1235212528/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDDOST_H3002.jpg?w=650",
-      "publishedAt": "2026-08-28T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VkLTEyMzUyMTMzMTgv",
-      "title": "‘The Uprising’ Thinks It Needs Robin Hood, but the Peasants’ Revolt Was Already Exciting Enough",
-      "description": "The US marketing team for \"The Uprising\" briefly added \"The Rise of Robin Hood\" to the film's title on promotional material. But what does Sherwood's Most Fictional Outlaw have to do with history?",
-      "url": "https://www.indiewire.com/features/general/the-uprising-history-robin-hood-explained-1235213318/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDUPRI_UC003.jpg?w=650",
-      "publishedAt": "2026-08-28T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NoLTEyMzUyMTMwMDgv",
-      "title": "‘The World Is a Lot Right Now’: Watch Kane Parsons and ‘It Ends’ Director Alex Ullom Try to Explain the Liminal Horror Craze",
-      "description": "The two Gen-Z horror directors break down why young audiences turn to horror to help explain an increasingly surreal world.",
-      "url": "https://www.indiewire.com/news/general-news/kane-parsons-alex-ullom-discuss-liminal-horror-watch-1235213008/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/DSC01605.jpg?w=650",
-      "publishedAt": "2026-08-28T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-cGFyZW50cy1kZWF0aA",
       "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’",
       "description": "Jake says his parents ‘never stopped helping’ his brother Nick, who has pleaded not guilty to murdering both of them at their Los Angeles home Jake Reiner has given his first interview since the killing of his parents, the film-maker Rob Reiner and his wife, Michele Singer Reiner, saying: “I will never understand why this happened.” Reiner, who directed films including The Princess Bride, This Is Spinal Tap and Stand By Me, was found dead alongside Singer Reiner from apparent stab wounds in their home in Los Angeles in December. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/aug/28/rob-reiner-son-jake-interview-parents-death",
       "image": "https://i.guim.co.uk/img/media/95e34384afe0c0a139607d0223c434a9d7ca241d/93_0_2679_2142/master/2679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46f8982eaa56b460f3263d51dd8ac6ae",
       "publishedAt": "2026-08-28T13:20:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-c2FpbnQtbGF1cmVudA",
+      "title": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
+      "description": "The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says ‘Even though I’ve been working in film for over 20 years, I still have this desire to look beautiful on screen,” says Louis Garrel, on a video call from his bed inside a boat off the coast of Corsica. The French film star is lying on his stomach, occasionally kicking up his bare legs, ruffling his curls and running the nail of his thumb over his moustache. I think the person he sees on the laptop screen in front of him is me, but I am pretty certain he is flirting with his own reflection. The attraction between the Paris-born 43-year-old and the camera tends to be reciprocal. Long of limb, tousled of hair and chiselled of nose, Garrel has spent a career on screen as French cinema’s favourite Adonis – the man film-makers turn to when they need an erotic wrecking ball to smash up bourgeois twosomes and turn them into quivering menages a trois. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent",
+      "image": "https://i.guim.co.uk/img/media/c2012d6776968a4c30daac4de545cc58868613eb/0_0_3072_2458/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=111d07e3c6d640543562f2ed87bb5c2c",
+      "publishedAt": "2026-08-28T12:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZhbnMtZ3JhbnQtZ2Vl",
+      "title": "‘It’s the story of what happens when the music stops’: bringing tormented jazz legend Bill Evans to life",
+      "description": "Having directed documentaries about David Bowie, Radiohead and Joy Division, Grant Gee takes on a biopic of the turbulent and tragic American pianist In 1997, Grant Gee directed the video for Radiohead’s single No Surprises , a four-minute film that featured Thom Yorke miming the song inside a water-filled diver’s helmet, apparently almost drowning in the process. In the three decades since that promo, Gee has made a host of diverse feature-length films about artists: Radiohead, David Bowie, Joy Division, the Turkish Nobel laureate Orhan Pamuk , the émigré German novelist WG Sebald . They are often impressionistic, dreamlike explorations of art, memory, place and the strange pressures put upon artistic lives. “It’s a narrative form I’ve used again and again,” says Gee. “A character begins in one condition; a crisis slowly develops; the viewer watches that crisis in a forensic yet empathetic way; the crisis passes; the person returns to something like the original state, but transformed. Someone comes very close to drowning, but doesn’t drown. What does that do to them?” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/28/tormented-jazz-legend-bill-evans-grant-gee",
+      "image": "https://i.guim.co.uk/img/media/62de0cfc871cd6d9279b6437088dc6f5e78e9f58/575_0_4850_3881/master/4850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19eb6d1927bd72cdf6f814aa397a2801",
+      "publishedAt": "2026-08-28T07:00:51.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -278,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "The spells Practical Magic 2 stars wish they could cast",
-      "description": "The film Practical Magic 2 is having its UK premiere in London. It re-unites actors Sandra Bullock and Nicole Kidman in some of their best-known roles.",
-      "url": "https://www.bbc.co.uk/news/videos/c3v4lrp951xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0789/live/51609b30-a238-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-27T17:11:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -400,18 +424,6 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival",
-      "description": "Film directed by Yuval Abraham and Rachel Szor, co-directors of No Other Land along with Basel Adra and Hamdan Ballal , investigates ‘Israel’s calculated mass killing of Palestinian civilians’ during the war A new documentary about Israel’s bombing campaign in Gaza, directed by Oscar-winning directors Yuval Abraham and Rachel Szor and produced by the Guardian, is to receive its world premiere at the Venice film festival. The film, called NAZA, has been produced with Jim Wilson and executive produced by Jonathan Glazer, the team behind The Zone of Interest, and is the only documentary that will compete this year for Venice’s prestigious Golden Lion. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/24/gaza-documentary-produced-by-the-guardian-to-receive-world-premiere-at-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/322_73_2518_2016/master/2518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c7384728939db7893a571e898d7ec9",
-      "publishedAt": "2026-08-24T13:16:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bmctamFtZXMtYm9uZA",
       "title": "Nigel Havers: ‘My biggest disappointment? Not playing James Bond’",
       "description": "The actor on mucking out pigs as a teenager, an apology to his first wife and what makes him cry all the time Born in London, Nigel Havers, 74, was Bafta-nominated for his 1981 role in Chariots of Fire. His other films include A Passage to India and Empire of the Sun. On television he has appeared in Don’t Wait Up, The&nbsp;Charmer, Coronation Street, The&nbsp;Gentlemen and, most recently, Golden Boys. He has starred in West End plays and panto, and is touring his show, Talking B*ll*cks . He is married, has a daughter and lives in London. What is your greatest fear? Every actor has the same fear – ie, you’re never going to work again. Continue reading...",
@@ -446,30 +458,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-XQtdGltZS1mb3Jnb3Q",
-      "title": "‘We’re barely above porn’: why would a film-maker choose to make a deliberately bad ‘mockbuster’?",
-      "description": "With a tiny budget and six days, Anthony Frith directed a film for the studio behind Sharknado – and then made Mockbuster, a documentary about the experience Directors don’t tend to appreciate having their films eviscerated by critics. And us critics, well practised in lobbing proverbial grenades from the safety of our pretentiously book-lined, Cahiers du Cinéma-strewn offices, don’t tend to look an artist in the eyes and tell them that their work sucks. This is, however, exactly what I do to the Australian film-maker Anthony Frith. I’ve even prepared a zinger for the occasion. “Your film is a lemon that’s been eaten by a turkey then dumped into a vat of curdled mayonnaise,” I say. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/22/anthony-frith-documentary-mockbuster-the-land-that-time-forgot",
-      "image": "https://i.guim.co.uk/img/media/7d5a5d982338b71bfe1ab7ee435e8f0ea7060525/107_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd0310adb55bc3f6ae1e7fcd2ea8f2d4",
-      "publishedAt": "2026-08-21T15:00:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aGlzLW93bi1tb3ZpZQ",
-      "title": "‘It is the riskiest film I’ve ever made’: Pedro Almodóvar on being the villain in his own movie",
-      "description": "As his new film Bitter Christmas is released, the legendary Spanish director turns his fire on Donald Trump, Will Smith, Netflix – and himself Black sunglasses indoors and a tufty cloud of cotton-wool hair: it can only be Pedro Almodóvar, bourgeois arthouse darling nonpareil and master of everything from screwball romps (Women on the Verge of a Nervous Breakdown) to clammy thrillers (Live Flesh, The Skin I Live In) – and sumptuous melodramas such as his 24th film, Bitter Christmas, a cautionary tale about the perils of autofiction. We are sitting in the library of a London hotel and Almodóvar is dressed in a thin black windcheater, grey trousers and white trainers; add a whistle on a string and he could pass for a PE teacher. The 76-year-old director may have won more than 60 awards including two Oscars, five Baftas and six Goyas but when the shades come off today, he looks momentarily sorry for himself. He has been deaf in one ear since childhood, he tells me, and now the other one is giving up the ghost. In addition, a nasty stye has turned his left eye a gluey purple. Might he have picked it up while swimming? “I do swim almost every day because I have a pool,” he sighs. Never can those words have sounded so sorrowful. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/21/it-is-the-riskiest-film-ive-ever-made-pedro-almodovar-on-being-the-villain-in-his-own-movie",
-      "image": "https://i.guim.co.uk/img/media/9932bca5118115e4c921e2180af47a6ae1e9d7ce/1085_0_6049_4839/master/6049.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb5a6edbc37617faeca017babf91a00b",
-      "publishedAt": "2026-08-21T04:00:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-aXF1ZS1zcG9pbGVycw",
