@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:14:18.004Z",
+  "generatedAt": "2026-09-01T11:48:19.290Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-nMtZG9jdW1lbnRhcnk",
+      "title": "Super Nature review – crowd-sourced Super 8 film is a triumphant collage of hope for the natural world",
+      "description": "Film-maker Ed Sayers’ project gathered footage from collaborators all over the world, cleverly edited to combine human and animal contributions This delightful, fleet-footed film represents a labour of love both for its writer-director-producer-editor, Briton Ed Sayers, and his many, many collaborators who shot the film’s footage on Super 8 all over the world. Between them they’ve used decades-old rigs in newfangled setups with stock that, like several of the species seen here, would have gone extinct had it not been for the intervention of enthusiasts. The brief from Sayers was simply to film nature, so we get shots of all manner of flora and fauna, ranging from coral reefs to high deserts, places populated by minute bugs all the way up to whales. Given Super 8 reels can only capture a few minutes’ worth of stock, this must have been a fiendishly complex puzzle in the editing room, so all credit to Sayers not just for his own lovely footage and clever vision but for his nimble collaging of the whole thing together. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/super-nature-review-ed-sayers-documentary",
+      "image": "https://i.guim.co.uk/img/media/160efe4de2ebcc43e177e323c44208923f85f7f4/204_0_1850_1480/master/1850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=75357c23298112d9f8617c0a0f633ed0",
+      "publishedAt": "2026-09-01T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-llLWhpdHMtbWlzc2Vz",
+      "title": "Summer box office 2026: what can we learn from the hits and misses?",
+      "description": "It was a bumper season for Hollywood, almost back to pre-pandemic levels, with Tom Holland blockbusters winning out, but there was still a string of disappointments As the world continued to burn and temperatures reached worrying highs, most of us decided to take refuge in the cinema this summer. It provided some relief for audiences, but even more so for the industry at large, with the season pushing past the magic $4bn mark to become the biggest since 2019, up 20% from last year. There were the expected hits (Spider-Man never misses), but there were also unprecedented breakouts (we were obsessed with Obsession) and surprise underperformers (are kids Minions-ed out?) So at the end of a season with epic highs and cavernous lows, what lessons can Hollywood learn? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/summer-movie-hits-misses",
+      "image": "https://i.guim.co.uk/img/media/f611e07cf4e5f80cb2ee3b236b82715ef37a268d/0_0_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02edd04b6aca9014d81feecee8cbfbe9",
+      "publishedAt": "2026-09-01T09:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-N0aW9uLXRocmlsbGVy",
+      "title": "The Extractor review – Indonesian hostage-rescue thriller has surprising thread of gentleness at its core",
+      "description": "Iko Uwais directs and acts in the story of a band of elite soldiers who must rescue a group of researchers taken captive in the jungle Can an elite team of soldiers rescue a band of innocent hostages from a bunch of mean old terrorists? Yes, probably, since there are few (if any) action movies in which the hostages are wiped out and the terrorists win. Not to be confused with the Extraction action franchise starring Chris Hemsworth as a mercenary named Tyler, nor with action thriller Escape Plan: The Extractors, starring Dave Bautista as a prison security expert named Trent, this is an Indonesian action thriller in which actor/director Iko Uwais plays a soldier named Timur. The film was actually called Timur originally, but there’s no denying that The Extractor is a more commercial title (unless you are particularly interested in the medieval Mongol khanates ) and will attract more viewers to this tale of hostages, heroes and long-ago childhood friends. In some ways, though, the rebrand is a shame, because the new title suggests the film is more generic than it is. While the basic plot, in which a bunch of researchers are taken hostage in the jungle by an armed group of wrong ’uns, is hardly unique, there are sequences in the film that stand out from the direct-to-video action content mill. In Indonesia, timur means “east”, where the sun rises, and it carries the connotation of hopefulness. That softer feeling in the original title is a key part of the film’s identity, which includes sentimental flashbacks to the childhoods of various characters whose lives have taken tragically different paths. (Can you imagine a world in which a terrorist and a soldier knew each other as children? The Extractor can.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/the-extractor-review-sentimental-thread-brings-gentleness-indonesian-action-thriller",
+      "image": "https://i.guim.co.uk/img/media/58fbdd346617651411cac60967a7481224b2ad5c/177_0_3411_2730/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=39d3c8d69685ff5c1f5e9cdbd0ddf985",
+      "publishedAt": "2026-09-01T08:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-d2VsZmFyZS1zdGF0ZQ",
+      "title": "Beveridge revisited: Simon Callow film celebrates the radical co-founder of Britain’s welfare state",
+      "description": "Christine Edzard’s The Man With the Plan tours the country with a timely message about tackling want, disease, squalor, idleness and ignorance A new film that addresses issues fundamental to the new prime minister’s declared mission will star Simon Callow as a historical British political figure. The hero of The Man With the Plan is William Beveridge , who helped to lay the foundations of the postwar welfare state. It shows that the Liberal peer was much more radical than is usually assumed – and certainly far more so than Churchill anticipated when he asked Beveridge to draw up a report into the future of Britain’s fragmented social insurance and national health system after the second world war. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/beveridge-revisited-simon-callow-film-celebrates-the-radical-co-founder-of-britains-welfare-state",
+      "image": "https://i.guim.co.uk/img/media/6d83c790a5334b470cf69f00d40b2865501b124b/462_65_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=883666f53ad3e943db5fef16921b0b9f",
+      "publishedAt": "2026-09-01T07:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Y2tldHQtZW5kZ2FtZQ",
+      "title": "Pin de Fartie review – spoonerist remix of Samuel Beckett’s Endgame finds fresh absurdity in Argentina",
+      "description": "Beckett’s masterpiece is given a postmodern cinema slant, with characters in different locations, music and humour in a free and fanciful interpretation Remember remixes? Where you take a song and swap out parts of it with new or pre-existing material, changing it just enough to be still recognisable? Argentinean director Alejo Moguillansky applies this quintessentially postmodern aesthetic to film with a funky cinematic remix, or even series of remixes, of Samuel Beckett’s one-act play Fin de Partie, AKA Endgame. The result feels a little retro and possibly a bit too pleased with its own cleverness, and the spoonerist title is juvenile. But in the end this really achieves something with both the source material and the remix that’s fresh, pleasingly provocative, and at times moving. Beckett’s 1957 absurdist masterwork has just four characters on stage throughout, two of whom do most of the talking: cantankerous blind, disabled Hamm banters with his servant/slave Clov, while Hamm’s parents, Nagg and Nell, live in dustbins upstage and talk rather less. There’s an air of apocalyptic doom, much talk of drugs, food and, above all, time running out. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame",
+      "image": "https://i.guim.co.uk/img/media/a733487d161725b95ef1dc32888bceca76ecb939/1935_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8ef6ada5d25aa58d2c50ce2a6db68677",
+      "publishedAt": "2026-09-01T06:00:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-XQtMTIzNTIxMzc3My8",
       "title": "Trump Endorses Federal Film Tax Credit in Rambling Post While Slamming Hollywood as a ‘Disaster’",
@@ -160,54 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-2luZy1uaWdodG1hcmU",
-      "title": "Parasomnia review – sleep-schedule horror conjures up a succubus on the loose in waking nightmare",
-      "description": "Debut director James Ross II shows promise in this gore fest, but the fear factor suffers from an overly complex plot Sleep has been part of the horror genre repertoire since The Cabinet of Dr Caligari, and the anxieties around it are spiking as the “ sleep economy ” becomes a thing. This ambitiously structured gore fest about a woman suffering from waking nightmares comes with an all-black cast, but race isn’t a central preoccupation here. Instead, as night terrors burst the banks into reality, debut director James Ross II concentrates on maintaining an appropriately scrambled and claustrophobic experience – perhaps to the detriment of the fear factor. On her 15th birthday, Riley (Jasmine Mathews) is paralysed in a waking/sleep state at her foster home, able to observe but powerless to intervene to stop a care worker going berserk. Since this massacre, Riley keeps a strict sleep protocol as an adult, making sure anyone under the same roof drops off before her, which apparently protects them from the malevolent presence invading her nights. Old foster home pal David (Stephen Barrington) accepts an invitation to the house where Riley’s dad murdered her mum, but gets the willies when a pallid demon begins manifesting in the small hours. It turns out that Riley’s boyfriend, Cam (RJ Brown), has been lax in letting her fall asleep before him – and now her resident succubus is on the loose again. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/parasomnia-review-sleep-schedule-horror-conjures-up-a-succubus-on-the-loose-in-waking-nightmare",
-      "image": "https://i.guim.co.uk/img/media/c325224ba24b2af0dcc2eaf96378e92c1dbacd7c/1152_0_3375_2703/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c93603118f5ac0a37ee892b6e00cde70",
-      "publishedAt": "2026-08-31T10:00:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mVlbGdvb2QtbW92aWU",
-      "title": "‘Sometimes you just need a good cry’: why Little Women is my feelgood movie",
-      "description": "The latest in our series of writers highlighting their go-to comfort films is an ode to the teary 1994 adaptation of the classic novel I have an ongoing argument with some friends about how I refuse to watch Interstellar again, despite considering it a beautiful and well-crafted film. It’s just so sad, I tell them, even with its hopeful ending. A desperate, choking lump forms in my chest as soon as I hear the futuristic swells of Hans Zimmer’s score and I have to remove myself before I am overtaken by emotion. But at the same time, the movie I choose as my feelgood film is one that has reduced me to a sobbing, snotty mess time and time again, whether I’m watching it curled up with my cat on the couch, swaddled in blankets while sick in bed or jostling with my seatmate for the armrest on an airplane. And just like with the score from Interstellar, the moment I hear Thomas Newman’s wistful little oboe intro of the 1994 version of Little Women, I can feel my eyes well up with tears. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/little-women-1994-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/7d800bd9981474f97f38c78331adfe2c0b556ac8/300_0_3290_2631/master/3290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0cdcf0295969b2a722c85d5a4595e83",
-      "publishedAt": "2026-08-31T09:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "guardian-W9mLXRoZS1jdXJzZWQ",
-      "title": "Bel review – the powerful life force and haunting absence of a traumatised singer-songwriter",
-      "description": "Beldina Odenyo alchemised the pain of exile, loss and racism into music as Heir of the Cursed before her death in 2021, as this attentive tribute explores Instead of an artist in a booth, a lone amplifier plays the music of singer-songwriter Beldina Odenyo for a cluster of microphones to pick up during the posthumous recording of her debut album. It is a haunting encapsulation of the absence and presence at the heart of Louise Lockwood’s documentary, which makes a commendably thorough exploration of the mental illness that led to Odenyo killing herself in November 2021, and its roots: exile, loss and racism. Performing under the moniker Heir of the Cursed, a translation of the Tetela name of assassinated Congolese leader Patrice Lumumba , Odenyo was on the verge of bigger recognition at the end of 2021 after a successful performance at Edinburgh’s Usher Hall. But hemmed in by successive Covid lockdowns, the 31-year-old is clearly unwell in a discomfiting backstage interview. Squirming, monosyllabic, she seems to be regressing to the non-verbal state of shock in which she arrived in Dumfriesshire from Kenya as a young child. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/bel-review-belinda-odenyo-heir-of-the-cursed",
-      "image": "https://i.guim.co.uk/img/media/80ded2c6ed6c238e3f9b64a7f6e9bcc5ee1d3fe7/183_0_1665_1333/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e16a6be1dc4d38115c5f5ef84b9f88ad",
-      "publishedAt": "2026-08-31T08:00:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dvcm5vLWthcmFiYWto",
-      "title": "The Black Garden review – haunting study of growing up in war-torn Nagorno-Karabakh",
-      "description": "Alexis Pazoumian’s documentary follows Samvel and Avo, two preteen boys whose lives will be unavoidably scarred by brutal conflict After the Soviet Union collapsed in 1991, a decades-long territorial dispute exploded in the region of Nagorno-Karabakh, as its largely Armenian population fought against countless military campaigns from the Azerbaijani army. Shot over the course of three eventful years, which culminated in the surrender of Nagorno-Karabakh’s separatist government in 2023 , Alexis Pazoumian’s haunting documentary harnesses the collective turmoil that dominated generations of Armenians. From the elderly to the very young, the community are united by an unwavering sense of pride, one that carries them through never-ending bloodshed and displacement. The film opens with the harrowing sight of a bombed-out school in the small village of Talish, where childlike innocence contrasts with wartime trauma. Samvel and Avo, two preteen boys, roam through the wreckage and scavenge for remains of past normalcy, like the scattered notebooks left behind by their former classmates. The threat of the enemy, however, is drilled into every aspect of their daily life. At school, they learn how to assemble guns, and at family gatherings, they join in songs that speak of heroic valour. That the children here – boys and girls – will grow up to become soldiers is a foregone conclusion. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/the-black-garden-review-haunting-study-of-growing-up-in-war-torn-nagorno-karabakh",
-      "image": "https://i.guim.co.uk/img/media/18f7e3477e3cb0f163016e44384ca88a2c73f139/308_0_1793_1434/master/1793.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd78c1316bc867617ca3dbcad6d5a54d",
-      "publishedAt": "2026-08-31T06:00:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-nktMTIzNTIxMzM1OS8",
       "title": "‘Lanterns’ Review: Episode 3 Reveals John Stewart’s Stunning ‘OutKast’ Origin Story — Spoilers",
       "description": "In its best episode to date, HBO's original series examines what John Stewart, a Black man in America, had to do to earn the same job as his white predecessor.",
@@ -242,18 +254,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-W5nLWFydGlmaWNpYWw",
-      "title": "Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?",
-      "description": "Its moguls are ripe subjects for drama, and there is huge anticipation for forthcoming features The Social Reckoning and Artificial. But other projects have failed as the film industry is increasingly colonised by IT empires • Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026 • See all of our unmissable autumn arts recommendations here ‘I know there are easier enemies to make,” tech reporter Jeremy Allen White tells his colleague in a recent trailer for The Social Reckoning. “The mafia would be an easier enemy to make,” comes the reply. They’re talking about Mark Zuckerberg’s Meta, but they might as well be discussing big tech as a whole. As The Social Reckoning promises to underline, it’s become clear that these people are not on our side – “us” being the whole of humanity except billionaire tech overlords and their mates. But for an industry that loves a clear-cut baddie, Hollywood has barely landed a blow on the tech industry. Now it finds itself in mortal danger of being absorbed by it. Is it too late to fight back? The Social Reckoning’s predecessor, The Social Network, showed how this kind of thing is done. It was pacy, buzzy and full of weirder-than-life characters – not least the young Zuckerberg, portrayed by Jesse Eisenberg as an obnoxiously smart mogul-in-the-making, whose mission to connect the world stood in stark contrast to his own social deficiencies. Directed by David Fincher and co-written by Aaron Sorkin, it was also a commercial and critical hit, winning three Oscars. But a big part of what made The Social Network work, and makes its sequel such a threat, is that it was about the actual, real-world Silicon Valley, which is where a lot of recent entertainment has gone wrong. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/30/big-tech-hollywood-the-social-reckoning-artificial",
-      "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/930_99_920_736/master/920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c5fdcfd051d1aba634099299027b07f",
-      "publishedAt": "2026-08-30T04:00:45.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "guardian-cGFyZW50cy1kZWF0aA",
@@ -314,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "BBC director-general says he was not aware of 'severity' of cuts needed",
-      "description": "Matt Brittin succeeded Tim Davie as boss of the BBC in May.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zllwewlko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9a9a/live/4c69c590-a236-11f1-80a2-67c89a95284e.jpg",
-      "publishedAt": "2026-08-27T17:09:37.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-GwtbW9udHktc3RyaXA",
