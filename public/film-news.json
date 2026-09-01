@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T16:45:48.870Z",
+  "generatedAt": "2026-09-01T21:08:42.302Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,12 +16,24 @@
   },
   "articles": [
     {
+      "id": "indiewire-cy0xMjM1MjEzMjUwLw",
+      "title": "In the Neon World of ‘Buddy,’ Hints of Fascism Are Everywhere, Even in Talking Trains and Deranged Puppets",
+      "description": "Production designer Anna Kathleen tells IndieWire about building more than one world for a giant orange unicorn to rampage through.",
+      "url": "https://www.indiewire.com/features/craft/buddy-production-design-making-of-puppets-1235213250/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDBUDD_RT003_81dd6a.jpg?w=650",
+      "publishedAt": "2026-09-01T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-y1hbnRpc2VtaXRpc20",
       "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
-      "description": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized Paramount A collective of more than 170 prominent Jewish artists – including Todd Haynes , Joel Coen , Miranda July , Hannah Einbinder , Wallace Shawn and Naomi Klein – have signed an open letter supporting Mark Ruffalo . The actor had been accused of invoking antisemitic tropes after he criticized Paramount Skydance, the media company owned by David Ellison, a Donald Trump ally. Ruffalo had spoken out about the $111bn merger with Warner Bros Discovery (WBD). Continue reading...",
+      "description": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized Paramount A collective of more than 170 prominent Jewish artists and academics – including Todd Haynes , Joel Coen , Miranda July , Hannah Einbinder , Wallace Shawn and Naomi Klein – have signed an open letter supporting Mark Ruffalo . The actor had been accused of invoking antisemitic tropes after he criticized Paramount Skydance, the media company owned by David Ellison, a Donald Trump ally. Ruffalo had spoken out about the $111bn merger with Warner Bros Discovery (WBD). Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
       "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc9f2ade962ed21dc9f0e2f86aa6355",
-      "publishedAt": "2026-09-01T15:23:30.000Z",
+      "publishedAt": "2026-09-01T18:42:05.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -54,7 +66,7 @@
     {
       "id": "guardian-xlcy1jb29wZXItYmZp",
       "title": "‘Not just Hollywood crap’: Mike Leigh on the East End communist who brought world cinema to the UK",
-      "description": "A new season at the BFI celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Stayajjit Ray – and a young Mike Leigh Occasionally, vital pieces of the cultural jigsaw disappear without anyone really noticing. This, sadly, was the fate of Contemporary Films, the British film distributor that popularised sophisticated, grownup international cinema – foreign language mostly – in the UK, and heralded the arrival of the auteur generation with directors such as Ingmar Bergman, Satyajit Ray, Andrzej Wajda and Yasujiro Ozu. Contemporary, and its founder Charles Cooper, weren’t the only game in town – Kenneth Rive’s Gala was a fellow traveller – but Contemporary got there first, setting up shop in 1951, first with short films for the then popular film society sector, and moving into features with the 1952 Japanese film Children of Hiroshima . Its marketplace clout faded rapidly in the early 1990s, when it was a victim of changing industry practices. But amazingly, the company is still with us – and is planning a 75th anniversary series of screenings to showcase its history. Continue reading...",
+      "description": "A new season celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Satyajit Ray – and a young Mike Leigh Occasionally, vital pieces of the cultural jigsaw disappear without anyone really noticing. This, sadly, was the fate of Contemporary Films, the British film distributor that popularised sophisticated, grownup international cinema – foreign language mostly – in the UK, and heralded the arrival of the auteur generation with directors such as Ingmar Bergman, Satyajit Ray, Andrzej Wajda and Yasujiro Ozu. Contemporary, and its founder Charles Cooper, weren’t the only game in town – Kenneth Rive’s Gala was a fellow traveller – but Contemporary got there first, setting up shop in 1951, first with short films for the then popular film society sector, and moving into features with the 1952 Japanese film Children of Hiroshima . Its marketplace clout faded rapidly in the early 1990s, when it was a victim of changing industry practices. But amazingly, the company is still with us – and is planning a 75th anniversary series of screenings to showcase its history. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi",
       "image": "https://i.guim.co.uk/img/media/62c3f18d9e0f53387602448083420970b14e16c5/59_0_1754_1403/master/1754.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fced27f889e77d8db52e2d33da0e7d5",
       "publishedAt": "2026-09-01T14:05:03.000Z",
@@ -230,18 +242,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-5hLTEyMzUyMTI3MzYv",
-      "title": "‘Onslaught’ Review: Adam Wingard Goes Back to Basics with a Lean Military Slasher",
-      "description": "Adria Arjona plays a veteran turned protective mother in a thriller that draws heavy inspiration from the works of John Carpenter.",
-      "url": "https://www.indiewire.com/criticism/movies/onslaught-review-adria-arjona-1235212736/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC006.jpg?w=650",
-      "publishedAt": "2026-08-31T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
