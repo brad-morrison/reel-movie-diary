@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:48:19.290Z",
+  "generatedAt": "2026-09-01T16:45:48.870Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-y1hbnRpc2VtaXRpc20",
+      "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
+      "description": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized Paramount A collective of more than 170 prominent Jewish artists – including Todd Haynes , Joel Coen , Miranda July , Hannah Einbinder , Wallace Shawn and Naomi Klein – have signed an open letter supporting Mark Ruffalo . The actor had been accused of invoking antisemitic tropes after he criticized Paramount Skydance, the media company owned by David Ellison, a Donald Trump ally. Ruffalo had spoken out about the $111bn merger with Warner Bros Discovery (WBD). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
+      "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc9f2ade962ed21dc9f0e2f86aa6355",
+      "publishedAt": "2026-09-01T15:23:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjEzODAyLw",
+      "title": "Can AMC Kips Bay 15 Be Saved? Politicians and Activists Mobilize to Keep Beloved Movie Theater",
+      "description": "New York State Assemblymember Keith Powers and other lawmakers have reached out to NYU Langone to find out if the multiplex can be preserved.",
+      "url": "https://www.indiewire.com/news/general-news/can-amc-kips-bay-15-be-saved-petition-starts-1235213802/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-1219843152.jpg?w=650",
+      "publishedAt": "2026-09-01T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-I2LTEyMzUyMTM4MDgv",
+      "title": "Luca Guadagnino’s Sam Altman Movie ‘Artificial’ Will World Premiere at NYFF 2026",
+      "description": "After being dropped by Amazon MGM and promptly picked up by Neon, the film about the controversial founder of OpenAI will now begin its festival run this October.",
+      "url": "https://www.indiewire.com/news/festivals/luca-guadagninos-artificial-premiere-nyff-2026-1235213808/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Artificial_Full-Width-6000-x-4000-px.jpg?w=650",
+      "publishedAt": "2026-09-01T14:23:46.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-xlcy1jb29wZXItYmZp",
+      "title": "‘Not just Hollywood crap’: Mike Leigh on the East End communist who brought world cinema to the UK",
+      "description": "A new season at the BFI celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Stayajjit Ray – and a young Mike Leigh Occasionally, vital pieces of the cultural jigsaw disappear without anyone really noticing. This, sadly, was the fate of Contemporary Films, the British film distributor that popularised sophisticated, grownup international cinema – foreign language mostly – in the UK, and heralded the arrival of the auteur generation with directors such as Ingmar Bergman, Satyajit Ray, Andrzej Wajda and Yasujiro Ozu. Contemporary, and its founder Charles Cooper, weren’t the only game in town – Kenneth Rive’s Gala was a fellow traveller – but Contemporary got there first, setting up shop in 1951, first with short films for the then popular film society sector, and moving into features with the 1952 Japanese film Children of Hiroshima . Its marketplace clout faded rapidly in the early 1990s, when it was a victim of changing industry practices. But amazingly, the company is still with us – and is planning a 75th anniversary series of screenings to showcase its history. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi",
+      "image": "https://i.guim.co.uk/img/media/62c3f18d9e0f53387602448083420970b14e16c5/59_0_1754_1403/master/1754.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fced27f889e77d8db52e2d33da0e7d5",
+      "publishedAt": "2026-09-01T14:05:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjEzMzcyLw",
+      "title": "‘Mouse’ Trailer: Sophie Okonedo’s Big 2026 Continues with This Gem from the Filmmakers of ‘Ghostlight’",
+      "description": "Exclusive: Kelly O'Sullivan and Alex Thompson, the filmmakers behind \"Saint Frances\" and \"Ghostlight,\" return with another tremendously effective human drama.",
+      "url": "https://www.indiewire.com/news/trailers/mouse-trailer-sophie-okonedo-ghostlight-1235213372/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/202603480_1_ORG.jpg?w=650",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-XgtMTIzNTIxMzY3MS8",
+      "title": "‘La Bola Negra’ Teaser: Spanish Cannes Sensation Comes to Netflix and Movie Theaters",
+      "description": "Directed by Javier Calvo and Javier Ambrossi, the queer epic made major waves at Cannes and look to be Netflix's major Oscar push.",
+      "url": "https://www.indiewire.com/news/trailers/la-bola-negra-teaser-netflix-1235213671/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-XR1cm5pbmctcG9pbnQ",
+      "title": "‘Led us down such a dark path’: documentary explores how 9/11 changed America",
+      "description": "In Netflix film Turning Point: Generation 9/11, the lives of people forever impacted by the terrorist attack in 2001 are explored Twenty-five years on, memory is giving way to history. Soon the US will cross the point where half its population were born after 11 September 2001 or were too young to remember the day that terrorists crashed planes into the World Trade Center in New York, the Pentagon in northern Virginia and a field in Shanksville, Pennsylvania. “When I do that math, I get to the bomb at Hiroshima – that’s how distant it is,” says Brian Knappenberger, 56, director of a new Netflix documentary, Turning Point: Generation 9/11 . “When we talk about the second world war, for our generation it seemed like a long time ago but, for the current generation of 20-year-olds, that’s how long ago it was.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point",
+      "image": "https://i.guim.co.uk/img/media/48e1a2254ec595ce1362ac8092fbc3c34e59798c/248_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c37aaa7d1e9807eb93d1aef3d5c4bf9",
+      "publishedAt": "2026-09-01T11:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-nMtZG9jdW1lbnRhcnk",
       "title": "Super Nature review – crowd-sourced Super 8 film is a triumphant collage of hope for the natural world",
@@ -62,18 +146,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-Y2tldHQtZW5kZ2FtZQ",
-      "title": "Pin de Fartie review – spoonerist remix of Samuel Beckett’s Endgame finds fresh absurdity in Argentina",
-      "description": "Beckett’s masterpiece is given a postmodern cinema slant, with characters in different locations, music and humour in a free and fanciful interpretation Remember remixes? Where you take a song and swap out parts of it with new or pre-existing material, changing it just enough to be still recognisable? Argentinean director Alejo Moguillansky applies this quintessentially postmodern aesthetic to film with a funky cinematic remix, or even series of remixes, of Samuel Beckett’s one-act play Fin de Partie, AKA Endgame. The result feels a little retro and possibly a bit too pleased with its own cleverness, and the spoonerist title is juvenile. But in the end this really achieves something with both the source material and the remix that’s fresh, pleasingly provocative, and at times moving. Beckett’s 1957 absurdist masterwork has just four characters on stage throughout, two of whom do most of the talking: cantankerous blind, disabled Hamm banters with his servant/slave Clov, while Hamm’s parents, Nagg and Nell, live in dustbins upstage and talk rather less. There’s an air of apocalyptic doom, much talk of drugs, food and, above all, time running out. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame",
-      "image": "https://i.guim.co.uk/img/media/a733487d161725b95ef1dc32888bceca76ecb939/1935_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8ef6ada5d25aa58d2c50ce2a6db68677",
-      "publishedAt": "2026-09-01T06:00:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-XQtMTIzNTIxMzc3My8",
@@ -152,24 +224,12 @@
       "title": "16 Hot Sales Titles at Venice and TIFF 2026, from ‘Bucking Fastard’ to ‘Prima Facie’",
       "description": "New films by Paul Schrader, the Zellner Brothers, Casey Affleck, Tim Blake Nelson, and more could all be appealing to buyers.",
       "url": "https://www.indiewire.com/news/festivals/hot-sales-titles-venice-tiff-2026-bucking-fastard-1235212668/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Fall-Festival-Sales-2026.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Fall-Festival-Sales-2026-2.jpg?w=650",
       "publishedAt": "2026-08-31T17:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-EtYWRhbS13aW5nYXJk",
-      "title": "Onslaught review – super soldier slasher doesn’t go hard enough",
-      "description": "There’s a committed performance from a spunky Adria Arjona in the Guest director Adam Wingard’s decent B-movie but it’s missing some sharper weaponry There’s something rather fascinating about an indie director who heads to the A-list before returning to their roots, a wider skillset and different perspective gained for better or worse. Working within a stricter system – the tiniest of choices being agreed upon by the largest of committees – can often be a creatively crushing experience that we’ve heard gruesomely detailed by many who survived it but the expansion of what one is allowed to technically do with a bigger budget can also be instructive and enriching. The dream scenario is bringing back the good and allowing the bad to inspire new work that makes the most of how unshackled one again now is. There are plenty of examples of how this hasn’t worked. Neill Blomkamp following Elysium and Chappie with chintzy low-budget horror Demonic (easily his least effective film although since opening his own AI “studio” I imagine the worst is yet to come), Marc Forster following Quantum of Solace and World War Z with a blind Blake Lively film that, ironically, no one saw while Anna Boden and Ryan Fleck went from the greatness of Half Nelson to the blandness of Captain Marvel to the headache of Freaky Tales . But then we were also gifted with the hometown intimacy of Alfonso Cuarón’s Roma after he came back from space for Gravity and Hogwarts for the Prisoner of Azkaban while Karyn Kusama brushed off the nightmare of Æon Flux with the brilliantly creepy dinner party thriller The Invitation . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard",
-      "image": "https://i.guim.co.uk/img/media/1cc0372e6b4d65dc30988d6630bfdb19e46d1d2e/772_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=798a4e434461459ce188824492bd48cd",
-      "publishedAt": "2026-08-31T16:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-5hLTEyMzUyMTI3MzYv",
@@ -178,54 +238,6 @@
       "url": "https://www.indiewire.com/criticism/movies/onslaught-review-adria-arjona-1235212736/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC006.jpg?w=650",
       "publishedAt": "2026-08-31T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-FsLTEyMzUyMTM2NDAv",
-      "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ Will World Premiere at This Year’s New York Film Festival",
-      "description": "PTA’s latest captures the Geese frontman’s stripped-down 2025 set at the iconic venue.",
-      "url": "https://www.indiewire.com/news/festivals/paul-thomas-anderson-cameron-winter-at-carnegie-new-york-film-festival-1235213640/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
-      "publishedAt": "2026-08-31T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mYtMTIzNTIxMzYyOS8",
-      "title": "After a Decade-Plus Journey, Zack Snyder’s ‘The Last Photograph’ Will Finally Premiere at TIFF",
-      "description": "The filmmaker has been trying to get the dramatic actioner made for nearly two decades.",
-      "url": "https://www.indiewire.com/news/festivals/zack-snyder-the-last-photograph-premiere-tiff-1235213629/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TLP-TIFF-Still-Select-01-v2.jpg?w=650",
-      "publishedAt": "2026-08-31T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-y1hdHRlbmJvcm91Z2g",
-      "title": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
-      "description": "‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’ Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex. The children – loosely based on my sister Juliet, my brother Jonathan and myself – discover a man in their barn. Thinking he’s Jesus, they decide to hide him and protect him from the adults because they don’t want the same thing to happen to him as before. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
-      "image": "https://i.guim.co.uk/img/media/d9c7e76f7f0bed8c8b44adaf1fbc717900c96658/76_0_4550_3642/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6395cf8df821fa963d542590b76208f3",
-      "publishedAt": "2026-08-31T13:21:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIxMzM1OS8",
-      "title": "‘Lanterns’ Review: Episode 3 Reveals John Stewart’s Stunning ‘OutKast’ Origin Story — Spoilers",
-      "description": "In its best episode to date, HBO's original series examines what John Stewart, a Black man in America, had to do to earn the same job as his white predecessor.",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-3-review-outkast-john-stewart-origin-story-1235213359/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Lanterns-Episode-3-Aaron-Pierre-as-John-Stewart.jpg?w=650",
-      "publishedAt": "2026-08-31T02:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
@@ -241,18 +253,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjEzNjAyLw",
-      "title": "‘Coyote vs. Acme,’ Viewed as Unreleasable by Warner Bros., Just Beat a Jacob Elordi and Ridley Scott Movie at the Box Office",
-      "description": "\"Coyote vs. Acme\" opened in second place with $15.4 million while \"The Dog Stars\" flopped with $8 million.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-coyote-vs-acme-beats-jacob-elordi-ridley-scott-dog-stars-1235213602/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDCOVS_EC005.jpg?w=650",
-      "publishedAt": "2026-08-30T17:23:40.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
