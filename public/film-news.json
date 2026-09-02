@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-02T16:41:46.185Z",
+  "generatedAt": "2026-09-02T21:08:46.237Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -16,15 +16,63 @@
   },
   "articles": [
     {
-      "id": "guardian-VldC1iaW9waWMtaW5r",
-      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
-      "description": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said. Speaking at the Venice film festival ahead of the premiere of 28 Days Later director Danny Boyle’s Ink, Pearce said he had been messaging with the media tycoon’s daughter Elisabeth “and she did say ‘Dad’s very happy that you’re playing him’.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
-      "image": "https://i.guim.co.uk/img/media/27ddbdfa3ae25532d66c8d614641ad7d69ca4f32/68_55_5932_4745/master/5932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c631ced99f3cf83b279081c862327cbe",
-      "publishedAt": "2026-09-02T16:07:56.000Z",
+      "id": "indiewire-aC0xMjM1MjE0MTE4Lw",
+      "title": "‘Chronovisor’ Review: An Occult Thriller Turns Academic Obsession Into Something Beguiling and Wildly Compelling",
+      "description": "Jack Auen and Kevin Walker's debut film stars real-life professor Anne-Laure Sellier as a scholar who goes down a research rabbit hole tracking a device said to be able to record and film the past.",
+      "url": "https://www.indiewire.com/criticism/movies/chronovisor-movie-review-occult-thriller-jesus-photograph-1235214118/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Anne-Laure-Sellier_Courtesy-of-Grasshopper-Film.jpg?w=650",
+      "publishedAt": "2026-09-02T18:29:42.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1qYWNrLW9jb25uZWxs",
+      "title": "Ink review – Danny Boyle turns the birth of the Sun into a lurid tabloid frenzy",
+      "description": "Venice film festival Jack O’Connell is terrific as editor Larry Lamb in James Graham’s tale of Rupert Murdoch, Page 3 and the newspaper that transformed Fleet Street Danny Boyle presents us with a lurid, violent and thumpingly unsubtle movie full of Dutch angles, cartoony shocks and gargoyle closeups. It’s a chapter in the prehistory of modern media, adapted by James Graham from his 2017 stage play , filled with shame and fear and self-hate. It is in fact the story of the Sun newspaper, and how Rupert Murdoch (Guy Pearce) bought the ailing minor title in the late 60s and hired a tough Yorkshire newspaperman, Larry Lamb, to turn it into a raucous and gleefully vulgar circulation powerhouse. Ink summons up the energy and frenzy of tabloid papers of the era, but also – and not entirely intentionally – how strangely depressing they were. Audiences used to the super-rich anomie of the Roy family from TV’s Succession might find all this very unsexy. This is a world of officer-class Fleet Street execs having expense-account meals at Rules and the Savoy Grill in pinstripe suits, smoking and drinking and impassively writing salary offers on paper napkins and silently passing them across to each other. Meanwhile, the other ranks of journalists and print unions are covered in sweat and ink. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/ink-review-danny-boyle-jack-oconnell",
+      "image": "https://i.guim.co.uk/img/media/9c701fbda497b1678ae80db95e6a4e938dbff1ff/59_0_1600_1280/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c72582edf6f7259f6a4bbfbcb1f85058",
+      "publishedAt": "2026-09-02T18:24:34.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WZpbG0tZmVzdGl2YWw",
+      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
+      "description": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”. Kristy Matheson’s comments came as LFF announced its full programme for this year’s event, which runs from 7 to 19 October. Of the 251 titles, 109 (43%) are made by female film-makers, but only two of the 21 gala films are directed by women. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545",
+      "publishedAt": "2026-09-02T18:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2gtMTIzNTIxMzU0OS8",
+      "title": "‘Ink’ Review: Danny Boyle’s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
+      "description": "Venice: Jack O'Connell plays Larry Lamb opposite Guy Pearce's Murdoch in a stirringly acted but stylistically overcooked rumination on our clickbait-addled world.",
+      "url": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Ink-Stills-Press-Photos-First-Look-1920x1280-FINAL-LowRes-png.png?w=650",
+      "publishedAt": "2026-09-02T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "The Other Bennet Sister wraps filming Christmas special",
+      "description": "The producer of the show tells fans online that filming has finished for three special episodes.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4wz946wdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a71b/live/6c6f8380-1d51-11f1-a00b-6f91831af046.png",
+      "publishedAt": "2026-09-02T17:02:52.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -42,7 +90,7 @@
     {
       "id": "indiewire-2UtMTIzNTIxMzg3NC8",
       "title": "In Between ‘Midnight Run’ and ‘Goodfellas,’ Robert De Niro Gave One of His Best Performances in a Movie Barely Anyone Saw",
-      "description": "\"Jacknife\" boasts terrific work from De Niro, Ed Harris, and Kathy Bates but was largely overlooked when it was released in 1989; a new Blu-ray from boutique label Cinématographe offers an opportunity for rediscovery.",
+      "description": "\"Jacknife\" boasts terrific work from De Niro, Ed Harris, and Kathy Baker but was largely overlooked when it was released in 1989; a new Blu-ray from boutique label Cinématographe offers an opportunity for rediscovery.",
       "url": "https://www.indiewire.com/features/commentary/jacknife-great-overlooked-robert-de-niro-performance-1235213874/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/M8DJACK_EC006.jpg?w=650",
       "publishedAt": "2026-09-02T16:00:00.000Z",
@@ -110,18 +158,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
-      "title": "Fall 2: Deadpoint review – silly seat-edge sequel can’t reach heights of the original",
-      "description": "There are just about enough hand-over-mouth moments to please thrill-seekers in this B-movie follow-up but eyerolls soon prevail There was plenty of silliness but also plenty of suspense in 2022’s modestly successful don’t-look-down thriller Fall , a surprisingly well-made micro-budget marvel that ultimately found its audience on Netflix. While certain elements, such as the no-name leads and increasingly hokey script, might have made it seem like yet another churned out low-rent original for the streamer, it boasted more genuine thrills than we’ve come to expect there or really anywhere during this quantity over quality time for genre movies. A sequel was financially inevitable (the original cost just $3m) but narratively questionable, given that the self-contained survival tale did not lend itself to the elasticity of a franchise. So here we are with Fall 2: Deadpoint, a palm-sweating formula regurgitated with only moderately jolting results. The first film saw two young women trying to get over the loss of a loved one by, naturally, climbing up an abandoned TV tower. So now the sequel has two young women trying to get over the loss of a loved one (who died in the first film) by, naturally, attempting a sky-high plank walk on the side of a mountain in Thailand. History then repeats itself when chaos strikes, this time courtesy of a rockslide, and our heroines have something more than grief to worry about. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/fall-2-deadpoint-movie-review",
-      "image": "https://i.guim.co.uk/img/media/0d18a9464cce6225f4c85401d3ad2c290658e284/526_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2aba400ba0f159584933b747de752570",
-      "publishedAt": "2026-09-02T14:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-JlLTEyMzUyMTMxNzkv",
@@ -220,6 +256,42 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-y13aWxsZW0tZGFmb2U",
+      "title": "Late Fame review – Willem Dafoe superb as ever as twilight-years bohemian getting a second chance",
+      "description": "Samy Burch’s adaptation of an Arthur Schnitzler novella sees Dafoe’s ageing poet embraced by a younger cohort of capricious hipsters. It’s smart, literate and affecting There’s a marvellous tenderness and generosity to this elegant tale of autumnal regret; an intimate movie acted with effortless grace by Willem Dafoe. In fact, this is yet another of his almost numberless performances of intelligence and self-possession. Screenwriter Samy Burch has adapted a novella by Arthur Schnitzler, which has been directed by critic turned film-maker Kent Jones (who in 2015 made Hitchcock/Truffaut , a documentary that I very much admired). Their movie finds a new variation on the Schnitzlerian theme of life’s lost opportunities for love, lust and success, and how, as mortality’s shadow closes in, one might be tempted to risk everything for a last chance at worldly triumph. The main character here is a distant cousin – though a wiser cousin – to the doctor in Schnitzler’s Traumnovelle or Dream Story, filmed by Kubrick as Eyes Wide Shut. Dafoe plays Ed Saxberger, an old guy in New York who works in the post office, sorting mail, perhaps without the means to retire, living solo in a small but book-filled room in a humble walkup, drinking and playing pool with his buddies in the evening. One day, Saxberger is astonished to be accosted by a dandyish young hipster outside his apartment building; this is Meyers (played by Edmund Donovan), who knows something about Saxberger that nobody else does. Saxberger was once a talented young poet in the 70s New York bohemian scene and Meyers has found his long since out-of-print volume of poems, entitled Way Past Go. He declares Saxberger a neglected genius that he, and his similarly callow and excitable literary friends, are going to take up. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe",
+      "image": "https://i.guim.co.uk/img/media/16dc48a4225f643144f009379e3b2ba68e877958/211_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f3fe1b60228dfc38b0e99f297ad90aa3",
+      "publishedAt": "2026-09-02T08:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XNzYWJsZS1tb3ZpZXM",
+      "title": "Oasis, auteurs and seven hours of Bertolucci: 12 unmissable movies at the Venice film festival",
+      "description": "A backstage peek at the reunion tour and a new film from Burning director Lee Chang-dong are among this year’s most anticipated – plus offerings from Danny Boyle, Luca Guadagnino, Martin McDonagh and more Danny Boyle’s movie, adapted by James Graham from his own play , is a primal scene of modern Britain and its agonies over class, culture and empire. Rupert Murdoch buys the Sun newspaper in 1969 and turns it into a raucous circulation powerhouse of sexist smut and Tory politics, while gloating over the timid British establishment who winced at the colonial Australian press baron. Guy Pearce plays Murdoch and Jack O’Connell plays editor Larry Lamb. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/venice-film-festival-12-unmissable-movies",
+      "image": "https://i.guim.co.uk/img/media/8966ea85118eaeb109021acfadba4f0fbb83b66e/343_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56cdad57b16d95792556dbdf21e3ca7c",
+      "publishedAt": "2026-09-02T07:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1oaXBwby1ob3Jyb3I",
+      "title": "Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers",
+      "description": "A group of thinly drawn characters on a Louisiana tour fight for survival against a rampaging vegetarian This animal-attack horror plugs a gap with beasties – hippopotamuses – that may be deadly in real life but are hard to take seriously as a threat on screen. As someone says here, they have cute ears. Even the film’s title, evoking the kids’ game Hungry Hungry Hippos, diminishes the menace. That’s perhaps not the tone to set if you’re trying to persuade audiences that fatal consequences are in the offing. And as the script often reminds us, hippos are vegetarian, so hunger isn’t driving these multi-ton mammals to murder. Turns out they’re massively territorial, and especially dangerous when protecting their young. That, or they do just think killing people is fun. The film naturally spends less time worrying about the hippos’ motives and dwells more on the victims, who look pretty doomed given their thin characterisations. This lot certainly weren’t expecting to be attacked by a hippo when they woke up because they are on a bayou tour in Louisiana, where the biggest threats are normally alligators. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror",
+      "image": "https://i.guim.co.uk/img/media/04e82341950151a8b368d786b604fa5edb9b9e08/256_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=1ecc13bd404eadac6367c6de0b264994",
+      "publishedAt": "2026-09-02T06:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-WEtY29udHJvdmVyc3k",
       "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
       "description": "Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds to the Venice Biennale over the opening of Russia’s pavilion, likening it to “a punishment in kindergarten”. The Biennale drew heavy criticism this spring when it allowed Russia to use its pavilion for the first time since 2022, despite the ongoing full-scale invasion of Ukraine. Continue reading...",
@@ -230,6 +302,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "The Runner review – Gal Gadot stumbles through derivative high-speed, low-rent thriller",
+      "description": "A string of London locations can’t save Amazon’s overly familiar B-movie dragged down by another ineffective performance by the Wonder Woman star We’re propelled on to an extremely familiar journey in Amazon’s quickie action thriller The Runner, both in reheated premise and strategic aim. The film is yet another example of a real-time assassination nightmare as an ordinary citizen is placed in an extraordinary situation, forced to do something terrible by someone terrible. Think Johnny Depp in Nick of Time, Rachel McAdams in Red Eye, Shia LaBeouf in Eagle Eye, or more recently, Taron Egerton in Carry-On and Meghann Fahy in Drop , with technology increasingly a key component. We’re also faced with what’s another strained attempt to turn Gal Gadot into a movie star, a mission that’s proved close to impossible after she broke out in Wonder Woman. Her streaming vehicles, like Red Notice and Heart of Stone , might have proved easy at-home hits (the latter was also surprisingly entertaining), but on the big screen, playing both a Disney villain and an Agatha Christie victim proved to be of little interest to audiences, who chose meme-ing her worst moments over turning up to see them. An action-first film like The Runner, disposable and undemanding, might seem like the safest place for Gadot’s rather limited skill set, but even with a role that asks more of her physically than emotionally, it’s still a rather awkward stretch. Luckily, she’s paired with real on-the-ground London locations, from Kentish Town to Somerset House, the city proving to be a scene-stealing co-star. Gadot plays Maia, a single mother and lawyer, who says goodbye to her diabetic son at school and starts her run to work (surely her son’s diabetes will not become an important part of the plot, right? ). But her day is soon interrupted by a nefarious “freelancer” working for a local crime boss, voiced by Damian Lewis. He has kidnapped her son and hacked his insulin dispenser, forcing him into a hypoglycemic coma, his life hanging in the balance until Maia agrees to murder a key witness she was supposed to be representing in court that morning. The film’s slight novelty is that Maia must run five miles to the hotel where he’s staying within an hour, no interruptions allowed. The slight 2026 update is that, in what’s increasingly becoming a lazy crutch for screenwriters, AI is an important weapon. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/the-runner-amazon-thriller-movie-review",
+      "image": "https://i.guim.co.uk/img/media/af840cc6878189cd0a0d3a288d26ceba5cffe42e/61_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a2dccb5162372698288e575a468de020",
+      "publishedAt": "2026-09-02T04:05:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-3ItZml2ZS1tb250aHM",
@@ -280,28 +364,28 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-cy0xMjM1MjEzODAyLw",
-      "title": "Can AMC Kips Bay 15 Be Saved? Politicians and Activists Mobilize to Keep Beloved Movie Theater",
-      "description": "New York State Assemblymember Keith Powers and other lawmakers have reached out to NYU Langone to find out if the multiplex can be preserved.",
-      "url": "https://www.indiewire.com/news/general-news/can-amc-kips-bay-15-be-saved-petition-starts-1235213802/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-1219843152.jpg?w=650",
-      "publishedAt": "2026-09-01T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
+      "id": "guardian-nMtZG9jdW1lbnRhcnk",
+      "title": "Super Nature review – crowd-sourced Super 8 film is a triumphant collage of hope for the natural world",
+      "description": "Film-maker Ed Sayers’ project gathered footage from collaborators all over the world, cleverly edited to combine human and animal contributions This delightful, fleet-footed film represents a labour of love both for its writer-director-producer-editor, Briton Ed Sayers, and his many, many collaborators who shot the film’s footage on Super 8 all over the world. Between them they’ve used decades-old rigs in newfangled setups with stock that, like several of the species seen here, would have gone extinct had it not been for the intervention of enthusiasts. The brief from Sayers was simply to film nature, so we get shots of all manner of flora and fauna, ranging from coral reefs to high deserts, places populated by minute bugs all the way up to whales. Given Super 8 reels can only capture a few minutes’ worth of stock, this must have been a fiendishly complex puzzle in the editing room, so all credit to Sayers not just for his own lovely footage and clever vision but for his nimble collaging of the whole thing together. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/super-nature-review-ed-sayers-documentary",
+      "image": "https://i.guim.co.uk/img/media/160efe4de2ebcc43e177e323c44208923f85f7f4/204_0_1850_1480/master/1850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=75357c23298112d9f8617c0a0f633ed0",
+      "publishedAt": "2026-09-01T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
-      "id": "indiewire-I2LTEyMzUyMTM4MDgv",
-      "title": "Luca Guadagnino’s Sam Altman Movie ‘Artificial’ Will World Premiere at NYFF 2026",
-      "description": "After being dropped by Amazon MGM and promptly picked up by Neon, the film about the controversial founder of OpenAI will now begin its festival run this October.",
-      "url": "https://www.indiewire.com/news/festivals/luca-guadagninos-artificial-premiere-nyff-2026-1235213808/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Artificial_Full-Width-6000-x-4000-px.jpg?w=650",
-      "publishedAt": "2026-09-01T14:23:46.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
+      "id": "guardian-N0aW9uLXRocmlsbGVy",
+      "title": "The Extractor review – Indonesian hostage-rescue thriller has surprising thread of gentleness at its core",
+      "description": "Iko Uwais directs and acts in the story of a band of elite soldiers who must rescue a group of researchers taken captive in the jungle Can an elite team of soldiers rescue a band of innocent hostages from a bunch of mean old terrorists? Yes, probably, since there are few (if any) action movies in which the hostages are wiped out and the terrorists win. Not to be confused with the Extraction action franchise starring Chris Hemsworth as a mercenary named Tyler, nor with action thriller Escape Plan: The Extractors, starring Dave Bautista as a prison security expert named Trent, this is an Indonesian action thriller in which actor/director Iko Uwais plays a soldier named Timur. The film was actually called Timur originally, but there’s no denying that The Extractor is a more commercial title (unless you are particularly interested in the medieval Mongol khanates ) and will attract more viewers to this tale of hostages, heroes and long-ago childhood friends. In some ways, though, the rebrand is a shame, because the new title suggests the film is more generic than it is. While the basic plot, in which a bunch of researchers are taken hostage in the jungle by an armed group of wrong ’uns, is hardly unique, there are sequences in the film that stand out from the direct-to-video action content mill. In Indonesia, timur means “east”, where the sun rises, and it carries the connotation of hopefulness. That softer feeling in the original title is a key part of the film’s identity, which includes sentimental flashbacks to the childhoods of various characters whose lives have taken tragically different paths. (Can you imagine a world in which a terrorist and a soldier knew each other as children? The Extractor can.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/the-extractor-review-sentimental-thread-brings-gentleness-indonesian-action-thriller",
+      "image": "https://i.guim.co.uk/img/media/58fbdd346617651411cac60967a7481224b2ad5c/177_0_3411_2730/master/3411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=39d3c8d69685ff5c1f5e9cdbd0ddf985",
+      "publishedAt": "2026-09-01T08:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-d2VsZmFyZS1zdGF0ZQ",
@@ -310,6 +394,30 @@
       "url": "https://www.theguardian.com/film/2026/sep/01/beveridge-revisited-simon-callow-film-celebrates-the-radical-co-founder-of-britains-welfare-state",
       "image": "https://i.guim.co.uk/img/media/6d83c790a5334b470cf69f00d40b2865501b124b/462_65_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=883666f53ad3e943db5fef16921b0b9f",
       "publishedAt": "2026-09-01T07:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Y2tldHQtZW5kZ2FtZQ",
+      "title": "Pin de Fartie review – spoonerist remix of Samuel Beckett’s Endgame finds fresh absurdity in Argentina",
+      "description": "Beckett’s masterpiece is given a postmodern cinema slant, with characters in different locations, music and humour in a free and fanciful interpretation Remember remixes? Where you take a song and swap out parts of it with new or pre-existing material, changing it just enough to be still recognisable? Argentinean director Alejo Moguillansky applies this quintessentially postmodern aesthetic to film with a funky cinematic remix, or even series of remixes, of Samuel Beckett’s one-act play Fin de Partie, AKA Endgame. The result feels a little retro and possibly a bit too pleased with its own cleverness, and the spoonerist title is juvenile. But in the end this really achieves something with both the source material and the remix that’s fresh, pleasingly provocative, and at times moving. Beckett’s 1957 absurdist masterwork has just four characters on stage throughout, two of whom do most of the talking: cantankerous blind, disabled Hamm banters with his servant/slave Clov, while Hamm’s parents, Nagg and Nell, live in dustbins upstage and talk rather less. There’s an air of apocalyptic doom, much talk of drugs, food and, above all, time running out. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/pin-de-fartie-review-samuel-beckett-endgame",
+      "image": "https://i.guim.co.uk/img/media/a733487d161725b95ef1dc32888bceca76ecb939/1935_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8ef6ada5d25aa58d2c50ce2a6db68677",
+      "publishedAt": "2026-09-01T06:00:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-y1hdHRlbmJvcm91Z2g",
+      "title": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
+      "description": "‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’ Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex. The children – loosely based on my sister Juliet, my brother Jonathan and myself – discover a man in their barn. Thinking he’s Jesus, they decide to hide him and protect him from the adults because they don’t want the same thing to happen to him as before. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
+      "image": "https://i.guim.co.uk/img/media/d9c7e76f7f0bed8c8b44adaf1fbc717900c96658/76_0_4550_3642/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6395cf8df821fa963d542590b76208f3",
+      "publishedAt": "2026-08-31T13:21:16.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -325,6 +433,18 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-2YtYXV0dW1uLTIwMjY",
+      "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
+      "description": "Old favourites Shaun the Sheep, Dune, Jane Austen and Godzilla join Charles de Gaulle, the Peasants’ Revolt and queer identity in Spain • See all of our unmissable autumn arts recommendations here • Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? All release dates are UK and subject to change Willem Dafoe is typically grizzled and poetic for this study of a near-retirement postal worker who, it turns out, was a beatnik rhymester of cachet – but no lasting renown – back in the day, and who has now been rediscovered by a new generation of literary hipsters. Director Kent Jones, adapting a novella by Arthur “La Ronde” Schnitzler, was the longtime head of the New York film festival; he might be in for a spot of late fame himself. AP • 4 September Continue reading...",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "image": "https://i.guim.co.uk/img/media/1aa6de4209d5ad3467eaf48576d8e04ee6d39743/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be0d6fc3ce1064f208334a7000efd93a",
+      "publishedAt": "2026-08-30T04:00:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -412,120 +532,48 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1lZHktdGhyZWVxdWVs",
-      "title": "Super Troopers 3 review – misfiring cop comedy threequel",
-      "description": "The return of the country’s most incompetent police force fails to bring enough laughs or any real justification for its existence Super Troopers occupies a sacred corner of the millennial DVD shelf, a goofy rebuttal to the endless procession of just-the-facts-ma’am TV cops that reimagined America’s most mythologized authority figures as incompetent brats. The original is a testament to Y2K friendship – the college comedy troupe Broken Lizard, after losing out on an MTV show to The State, pooled their money to make a scrappy indie that became a cult classic. It had Brian Cox gleefully playing against his capital-A Actor persona (a novelty for American audiences in 2001) and offering a glimpse of the Logan Roy fury he would later perfect on Succession, only with lines such as “I’ll believe ya when me shit turns purple and smells like rainbow sherbet.” After generating more than $60m in post-release sales on a reported $3m budget, a film franchise was born. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/06/super-troopers-3-review-misfiring-cop-comedy-threequel",
-      "image": "https://i.guim.co.uk/img/media/ba42048d351cb24456338efa322e1f3710f60d76/374_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=0c270238d55e0706a5bff7da86e74c47",
-      "publishedAt": "2026-08-06T10:00:46.000Z",
+      "id": "guardian-LWh1Z2gtamFja21hbg",
+      "title": "The Death of Robin Hood review – Hugh Jackman darkens a heroic tale in grim drama",
+      "description": "A conceptually intriguing film that turns the outlaw hero into a selfish criminal struggles to find its footing despite some fantastic craftwork Spoiler: Robin Hood is going to die. In bluntly titled drama The Death of Robin Hood, that might be exactly what one is programmed to expect but, in this often intriguing revisionist tale, it’s what he leaves behind that might be more of a shock. With the gap between the ultra-rich and the rest of us continuing to expand at a riot-inducing pace (we now have our first trillionaire – congrats!), it would be tempting to use a folk hero of the past as a rousing symbol of what many of us would like to see in the present. But in writer-director Michael Sarnoski’s darker, grubbier take, Robin Hood takes from anyone and keeps it for himself, despite what the legend might say. In fact, as played by a dour Hugh Jackman , he’s plagued by stories told by fireside, painting him as someone to be heralded, and it’s only those whose lives he’s touched who know the truth, if they were lucky enough to survive. He’s then an outlaw running not just from the authorities, but from the aggrieved fathers and brothers who want to avenge what he ripped away from them. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jun/16/the-death-of-robin-hood-review-hugh-jackman",
+      "image": "https://i.guim.co.uk/img/media/f36a551cde024fed12281f06c8061b8f37af6e79/430_228_2527_2022/master/2527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b63f1f4d5e09623e61e583f8995a6609",
+      "publishedAt": "2026-06-16T09:00:18.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-ktbW92aWUtcmV2aWV3",
-      "title": "One Night Only review – sex is legal for 12 hours a year in bizarre romcom",
-      "description": "‘What if The Purge was for premarital sex?’ is the odd, gimmicky elevator pitch for this slickly made yet ungainly oddity that can’t quite get past the grimness of its conceit Going into a romcom, there are always the same questions. Will there be genuine chemistry? Will the rom and the com be equal in parts? And, for the last decade and change, will this be the one that finally resurrects a genre long past its prime? But for Universal’s glossy late summer offering One Night Only , notably the first wide-releasing romcom since April , there are more probing questions than usual. The film is the ungainly result of a four-cocktails-in elevator pitch which imagines a world where single people are only legally allowed to have sex on one night of the year, an idea that has seen it been referred to as “Sex Purge”. On paper, it’s the set-up for a grim Handmaid’s Tale -adjacent horror of a totalitarian state insisting extreme control over the body, but instead it’s used as the backdrop for a sunny meet-cute, screams of protest drowned out by a zippy Top 40 soundtrack. One sits down wondering not just if boy will end up with girl but also how the government would be able to enforce such tyranny and what horrifying punishments lay in store for those willing to pick personal freedom over state-mandated abstinence. If it sounds like far too much for a breezy summer romp to take on, then that’s because it most definitely is, an overstuffed yet undercooked soufflé that can’t quite, ahem, rise to the occasion … Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/05/one-night-only-movie-review",
-      "image": "https://i.guim.co.uk/img/media/1d6c6819718ca9a277b74066bdfc4c686063dbfb/752_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=0934a8920acd7cecedd5fd05ddfa031c",
-      "publishedAt": "2026-08-05T16:00:22.000Z",
+      "id": "guardian-XgtcGFzcy1yZXZpZXc",
+      "title": "Gail Daughtry and the Celebrity Sex Pass review – silly, scattershot Hollywood comedy",
+      "description": "Zoey Deutch is a small-town girl hunting down Jon Hamm for sex in David Wain’s disposable yet often funny lark There’s been the expected amount of heavy-weighted seriousness at this year’s Sundance – stories about sexual assault , climate change , opioid addiction and dementia – but also a remarkable amount of silliness. Perhaps realising we might be in desperate need of an uplift, the festival has given us a cartoonish dom-sub romance , a killer Barney horror , a pop star mockumentary , a Weekend at Bernie’s art world caper and a film where Olivia Colman shags a man made of wicker . But those films are all pretty stern-minded in comparison to David Wain’s disposable, dopey comedy Gail Daughtry and the Celebrity Sex Pass, a film without a single serious moment, driven by the sole purpose of making us laugh. It succeeds in fits and starts – I laughed more than I have at many a comedy in the past year – but its wild, scattershot humour is so hit and miss, too many jokes going nowhere, that it’s not quite the rousing win I wanted it to be. Wain has previously toyed with more conventional studio comedies like Wanderlust and Role Models (which for me was one of the best examples of the form in the 2000s) and spoofs, targeting 80s sex comedies with Wet Hot American Summer and romcoms with They Came Together. Gail Daughtry belongs in the latter group but it doesn’t have quite as direct of an aim, a Wizard of Oz-inspired, Hollywood-set action comedy about marriage, fame, espionage and the burning desire to have sex with Jon Hamm. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jan/27/gail-daughtry-and-the-celebrity-sex-pass-review",
+      "image": "https://i.guim.co.uk/img/media/1c2a3bddf70cd19f7896d14b38503410d5d938ea/518_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7ee74b7878ca069f93dd6af9123a4c76",
+      "publishedAt": "2026-01-27T16:45:51.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-XZpZXctZWxpLXJvdGg",
-      "title": "Ice Cream Man review – Eli Roth’s junky slasher is one of year’s worst horrors",
-      "description": "The Hostel and Thanksgiving director takes a massive stumble with a rushed retro horror made on the cheap A few years ago, Eli Roth realized his long-held ambition to make a movie out of Thanksgiving , the horror-movie trailer he made as a gag for the Quentin Tarantino/Robert Rodriguez anthology feature Grindhouse, back in 2007. Though he didn’t actually go so far as to make the scratched-up decades-ago slasher shown in the original trailer, Thanksgiving was still Roth’s most satisfying movie in ages, replete with ridiculous gore and a side of satirical commentary – a 2020s movie fit for an old video store’s VHS horror section despite its contemporary setting. Now Roth has founded a horror-focused company actually called the Horror Section, aimed at releasing movies, shows and “experiences” that appeal to the modern equivalent of those VHS-shelf gorehounds. After “presenting” a few other movies, Roth’s first direct contribution to the company is Ice Cream Man, exactly the kind of knowingly disreputable button-pusher befitting the company’s retro-sticker logo. (Indeed, Roth’s movie shares its title with a 1995 direct-to-video curiosity starring Clint Howard, though this one is unrelated.) Unfortunately, rather than a companion piece to the blackly funny murder-mystery of Thanksgiving, which riffed on Scream as much as 80s slashers, Roth’s latest feels like a demo reel for someone vastly less talented. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/05/ice-cream-man-review-eli-roth",
-      "image": "https://i.guim.co.uk/img/media/4a60c816de2b038389af85cf4a8c78475fa78a6f/277_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=f4d4fb0337395c923dc71486d7154d8f",
-      "publishedAt": "2026-08-05T10:00:15.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-RvbmlvLWJhbmRlcmFz",
-      "title": "Tony review – knives out in tasty reheat of Anthony Bourdain’s memoir",
-      "description": "Dominic Sessa stars as a conceited yet vulnerable young chef alongside Antonio Banderas – but the feelgood factor is compromised by what we know of the author For all the drugs and punch-ups, this is an unexpectedly sentimental coming-of-age story – or maybe origin myth – about the formative youthful kitchen experiences of legendary badass chef Anthony Bourdain. It is taken from the opening chapters in his bestselling memoir Kitchen Confidential; Canadian film-maker Matt Johnson directs and Dominic Sessa (the callow kid from Alexander Payne’s The Holdovers) plays the conceited, smug yet lonely and vulnerable young college student Tony. “Anthony” is in the future. It is the mid-1970s and Tony effectively runs away from home after failing to get a residential summer writing scholarship that he had assured everyone was in the bag. He shows up nearly penniless in the seaside vacation resort of Provincetown, Massachusetts – a place that is pretty similar to Amity Island in Jaws, which is showing at every drive-in. The reason is that he has a desperate crush on Nancy (Emilia Jones) who is there for the summer too and whom he desperately wants to impress with his smouldering intellectualism. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/29/tony-review-anthony-bourdain-bestselling-memoir-dominic-sessa-antonio-banderas",
-      "image": "https://i.guim.co.uk/img/media/8b2b01c6c49f1c3250230fc3c5be3175ab0ec350/598_0_4888_3913/master/4888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=da64292eae47babf7ac369c4c1a1765d",
-      "publishedAt": "2026-07-29T16:00:36.000Z",
+      "id": "guardian-aXRpY3VzLXJldmlldw",
+      "title": "Leviticus review – queer desire is a deadly curse in haunting horror",
+      "description": "Conversion therapy has gory results in a smart and surprisingly romantic debut feature from Australian writer-director Adrian Chiarella Something rather nasty is unfolding in Sundance horror Leviticus. If you asked the god-fearing residents of the isolated Australian town at its centre, they would say it’s the curse of homosexuality, quietly infecting the youth. If you asked the gay teens themselves, they would say it’s something far more horrifying. In writer-director Adrian Chiarella’s indelible debut feature, queer desire is not only a danger to one’s safety from the bigots that you live, work and pray with, but it’s also a supernatural affliction. We first see teens Naim (Joe Bird) and Ryan (Stacy Clausen) as they engage in a clandestine hang, that familiar dance of a play-fight leading into a kiss. For Naim, it’s a new world opening up, a reason to believe there might be something to be happy about in an otherwise dull new town with his warm yet clueless single mother (Mia Wasikowska). But when Naim sees Ryan engaging in a similar tryst with Hunter (Jeremy Blewitt), the son of the local preacher, he allows his heart to overrule his head and does something he’ll live to regret. Leviticus screened at the Sundance film festival; it is out on 18 June in Australia, 19 June in the US and 2 September in the UK Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jan/24/leviticus-review",
+      "image": "https://i.guim.co.uk/img/media/9b415a2a5676767e63acc7e46f62d6d701087096/500_0_2361_1890/master/2361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=75f84315644a0dc1348c82d6289dfc07",
+      "publishedAt": "2026-01-24T20:13:28.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-NoYXJrLXRocmlsbGVy",
-      "title": "The Devil’s Mouth review – Amazon’s shark thriller gives us just about enough to chew on",
-      "description": "A group of holidaying friends get trapped in a cave system with a bull shark in a solidly entertaining B-movie lifted by a toxic central friendship We’ve officially reached maximum shark movie this year , with about six released so far and even more on the way and so the drop of yet another one, in the middle of Shark Week, raises a number of questions: is it in any way essential? Will anyone ever come close to matching what Steven Spielberg achieved with Jaws or, more realistically, Renny Harlin with Deep Blue Sea? How junky are the shark effects? And most importantly, at least for those of us watching the majority of them, is it more of the same or is there an attempt to do something even slightly new with the swim, stalk, slash formula? Trying something a little different is in itself extremely hit-and-miss because while I appreciated last year’s unusually striking Dangerous Animals for smartly inserting a serial killer into the mix, the addition of a hurricane to this year’s Netflix one-star dud Thrash meant that the film was both a terrible shark horror and a terrible disaster thriller. In recent months, we’ve seen Harlin return to the subgenre with Deep Water weaving in a plane crash and this week’s Antonio Banderas-starring Above & Below adding a drug cartel which makes the week’s other shark movie, Amazon’s gen Z-led offering The Devil’s Mouth, seem somewhat quaint in comparison. The special ingredient here is something a little less grandiose, but more potentially intriguing: a toxic friendship. It’s a movie that asks the rare question: what if you finally came to terms with how awful your best friend is just as a bull shark starts picking you off? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/29/the-devils-mouth-review-amazon-shark-thriller",
-      "image": "https://i.guim.co.uk/img/media/1f1541bf743d344da2cd1510d362a9eea89a5c3c/356_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5602c36ff9d155265918d40e49500a96",
-      "publishedAt": "2026-07-29T07:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-R5bGUtc3VwZXJoZXJv",
-      "title": "Spider-Man: Brand New Day review – Zendaya saves Tom Holland’s semi-Cronenberg-style superhero",
-      "description": "Now 30, Holland is back as the vexed webslinger in a sometimes shocking, occasionally sluggish new instalment opposite his Odyssey castmate Just a few weeks ago, Tom Holland was telling us that his role as Telemachus in Christopher Nolan’s Odyssey was his “last chance to play a boy”. Well, Holland is back as the supposedly scrappy, gawky, arachnid young superhero Spider-Man. Not Spider-Boy admittedly, and these days Holland is actually a chunkier and more stacked Spidey than previously, flexing some pretty serious biceps. He is maturing in the role. But is the role maturing with him? The point is that this film is a reset. At the end of the last movie Spider-Man: No Way Home , courtesy of Dr Strange’s colossal psychic powers – which might have come in handy in this episode incidentally, part of the narrative-universe inconsistency that you just have to overlook – Peter Parker was able to erase everyone’s knowledge that he is, in fact, Spider-Man, and that included his goofy best friend Ned Leeds (Jacob Batalon) and more to the point, the love of his life MJ (Zendaya). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero",
-      "image": "https://i.guim.co.uk/img/media/6f0ba2597bf0cfbae35dbcebbe2d9d4b0e5031a2/220_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f173753bca9854485980f8c837a8c8a9",
-      "publishedAt": "2026-07-28T13:11:59.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WV3LWtldmluLWhhcnQ",
-      "title": "72 Hours review – Kevin Hart drags down Netflix midlife crisis comedy",
-      "description": "The overexposed actor falls flat in another disappointing vehicle that fails to make the most of its neat bachelor-party-with-a-twist concept 72 Hours is Kevin Hart’s midlife crisis comedy. He stars as Joe, a 40-year-old New York marketing executive whose once-reliable Midas touch has worn off. He’s no longer the office’s go-to translator of youth culture, yet he remains on the verge of a promotion – the final hurdle standing between him and happily-ever-after with his longtime girlfriend (Teyana Taylor), a doctor weighing an opportunity that could pull her away from the life they’ve built together in the city. All the while, crude texts and memes flood his phone from a random group chat populated by a pack of twentysomething guys planning a bachelor party in Miami – an annoyance that quickly becomes his ticket back to relevance. Joe not only drops everything to join these perfect strangers for the weekend; he upgrades the whole affair, picks up the tab and supplies the booze in hopes of harvesting content for his struggling campaign. It would be a fine set-up if it weren’t such an obvious metaphor for Hart’s own showbiz career. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/24/72-hours-movie-review-kevin-hart",
-      "image": "https://i.guim.co.uk/img/media/366984ff8046ee33f8c44e62c101abbf8a397830/610_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=4a22a052c20acfb4c92967ec034423b9",
-      "publishedAt": "2026-07-24T01:00:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mlldy1wYXJhbW91bnQ",
-      "title": "Avatar Aang: The Last Airbender review – engaging TV-to-movie adventure",
-      "description": "A feature-length continuation of the much-loved animated series provides enough for fans as well as the uninitiated Avatar just can’t catch a break at the movies. Not the blue-cat-people franchise that makes at least a billion dollars each time, mind you – though that mega-successful series is part of what vexes big-screen versions of Avatar: The Last Airbender, a Nickelodeon animated series that predates the release of the similar-named, different-premised James Cameron film. Following the anime-inspired, fan-beloved show’s three-season run on cable, the material was adapted into a live-action feature, The Last Airbender, by no less than M Night Shyamalan, released six months after Cameron’s megahit. The Last Airbender was a decent-sized hit, but loathed by fans and critics alike – even today’s crop of Shyamalan boosters can’t find much positive to say about it – and failed to kickstart the hoped-for live-action film series. (Netflix has since made an unrelated live-action adaptation as a TV show .) More recently, Paramount announced that an animated sequel film, Avatar Aang: The Last Airbender, following the characters years after the events of the series, would arrive in movie theaters – only to delay the release and eventually backtrack its theatrical status, turning it into a direct-to-streaming movie. The film was then leaked online, well ahead of its debut. Now it’s getting a token two-city theatrical release, simultaneously with its debut on Paramount+, to make sure it qualifies for this year’s Oscars. Given the franchise’s cinematic luck so far, the film-makers may not need to clear shelf space quite yet. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jul/22/avatar-aang-the-last-airbender-review-paramount",
-      "image": "https://i.guim.co.uk/img/media/9885751f9b2f3033d2f9a1889dd311eb4b388bc3/704_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4fec5d15123cc765ff8d9d043a99695d",
-      "publishedAt": "2026-07-22T11:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmFuLW9ic2Vzc2lvbg",
-      "title": "Teenage Sex and Death at Camp Miasma review – Gillian Anderson superb in queer slasher spectacular",
-      "description": "Young indie film-maker Kris tracks down Anderson’s Final Girl for a remake of a beloved horror, to find fantasy and reality collapsed Jane Schoenbrun unveils a very enjoyable display of transformative ecstasy and submissive rapture, treating us to a bizarre pop-cultural black mass of fiercely believed-in trash and kink. As before with Schoenbrun’s films, I found myself thinking of Gore Vidal’s (unfashionable) novels Myra Breckinridge and Myron. This is a film that somehow persuades you that the 80s slasher genre is an exalting and liberatingly progressive experience. As before, in their We’re All Going to the World’s Fair (2021) and I Saw the TV Glow (2024), Schoenbrun pulls off the trick of inventing an imaginary media phenomenon and treating it with complete fan-seriousness – an online horror game and cult scary TV show in the first two films and now a slasher movie franchise called Camp Miasma about a teen transgender killer called Little Death wearing a ceiling vent as a mask (why is never explained) who periodically emerges from a lake in a sleepaway camp where scantily clad young people will be brutally speared. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/may/14/teenage-sex-and-death-at-camp-miasma-review-seductive-gillian-anderson-fulfils-a-rapturous-slasher-fan-obsession",
-      "image": "https://i.guim.co.uk/img/media/a581616319d92190423bb479f72365498f037abe/982_0_3945_3159/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=fe39969dd2c8fced27dffc53d1b44d13",
-      "publishedAt": "2026-05-14T08:55:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dy1ncmVnZy1hcmFraQ",
-      "title": "I Want Your Sex review – vampy Olivia Wilde almost saves Gregg Araki’s tame dom-sub romp",
-      "description": "As a provocative artist using sex to wield power, the actor is electric but the writer-director’s return to his campy, dayglo roots is largely underwhelming While Sundance is traditionally focused on the importance of looking to the future of American film, a lineup filled with more first-timers than any other major festival, this year has been all about looking back. There are misty eyes over the loss of founder Robert Redford along with host state Utah and also for the many films that have premiered here over the years. Alongside more retrospective screenings than one usually expects, even the new films have a touch of old Sundance to them. On opening day, Rachel Lambert’s small-town drama Carousel conjured up memories of quiet character-driven indies of the late 90s and early 00s and then, on a Friday full of packed-out premieres, I Want Your Sex took us back to the era’s more in-your-face acts of provocation, made by renegade outsiders who would have otherwise struggled to find a place in the industry. It’s the new film from Gregg Araki, a film-maker who was at the forefront of this particular wave, one of Sundance’s most loved enfants terribles. He’s premiered most of his films here, from “heterosexual movie” The Doom Generation to magnum opus Mysterious Skin to all-time stoner comedy Smiley Face to 2014’s misbegotten drama White Bird in a Blizzard, his last film until now. I Want Your Sex screened at the Sundance film festival and is out in the US on 31 July and in the UK on 28 August. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/24/i-want-your-sex-review-gregg-araki",
-      "image": "https://i.guim.co.uk/img/media/c4ed2c4654d06defc19a856bdebf48514d69c767/354_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7b0c405c4caa5891680c9741db2c21db",
-      "publishedAt": "2026-01-24T16:15:34.000Z",
+      "id": "guardian-cXVpcmt5LWNvbWVkeQ",
+      "title": "The Incomer review – Domhnall Gleeson tries to lift aggressively quirky comedy",
+      "description": "Gleeson is a charming presence in the otherwise overly twee and consistently unfunny tale of isolated siblings dealing with a visitor Once upon a time, two siblings lived on an abandoned Scottish isle, isolated from the modern world and suspicious of all outsiders. The siblings, a brother and sister, believed themselves to be descended from the gulls that peppered the island’s scenic cliffs; they also believed, on some level, that they too were gulls – or, at least, they acted like it, flapping and squawking about. Debauched fairytales like these loom large over The Incomer, Scottish writer-director Louis Paxton’s odd and aggressively quaint first feature, which asks a high conceptual buy-in of its audience. From the first shots of Isla (Gayle Rankin) and Sandy (Grant O’Rourke) caw-caw-ing like birds and beating sacks labeled “incomer” with clubs, Paxton commits to an askew, often alienating angle of humor – quirky, at times juvenile, a touch dark, altogether difficult to settle into for anyone with an aversion to twee. The Incomer screened at the Sundance film festival; it is out on 4 September in the UK and 25 September in the US Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jan/24/the-incomer-review-domhnall-gleeson-tries-to-lift-aggressively-quirky-comedy",
+      "image": "https://i.guim.co.uk/img/media/b77f687852d820a9cdb355b5bce912174960e5eb/471_0_2232_1786/master/2232.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=2f4fb3cbf4fd5c5d9bd33e23e17e6dc3",
+      "publishedAt": "2026-01-24T14:51:40.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
