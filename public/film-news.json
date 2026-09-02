@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T04:46:26.826Z",
+  "generatedAt": "2026-09-02T11:29:09.719Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-WZpbG0tZmVzdGl2YWw",
+      "title": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
+      "description": "Hundreds of unseen images of the star feature at the Venice film festival, alongside virtual worlds exploring wildfires, wolves and the birth of stars David Bowie shares the bill with starmen, firefighters and Walt Disney wolves at the 10th anniversary edition of Venice Immersive, the film festival’s pioneering showcase for new forms of storytelling. David Bowie: Unseen Unheard – a 3D documentary featuring hundreds of previously unseen images – is among 69 XR (extended reality) pieces playing at the event’s regular base on Lazzaretto Vecchio, a repurposed small island off the Venice Lido. Venice Immersive’s 10th birthday marks a milestone for an event which aims to provide a bridge between emergent technology and traditional narrative cinema. But the programme’s organisers are at pains to emphasise the ongoing scope of a project that has in recent years prompted similar sections at the Cannes, Geneva and Toronto film festivals. “This is not a retrospective,” declares the official festival blurb that welcomes guests to the island. It almost sounds like a warning. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/david-bowie-unseen-unheard-documentary-venice-film-festival",
+      "image": "https://i.guim.co.uk/img/media/94f05bec8534008a5b3bcb0259e4bf0c09ddd536/130_39_2067_1654/master/2067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63a1a8fb607a0bab3b39c25c6644d744",
+      "publishedAt": "2026-09-02T10:36:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Film about enigmatic aristocrat up for six Bafta Cymru awards",
+      "description": "The Bafta Cymru awards nominations include Strictly Amy: Cancer and Me, Mr Burton and Cleddau.",
+      "url": "https://www.bbc.co.uk/news/articles/c70lwxve0y5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ca9a/live/3216a050-0b32-11f1-9972-d3f265c101c6.jpg",
+      "publishedAt": "2026-09-02T09:43:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cC0xMjM1MjE0MTc1Lw",
+      "title": "Venice’s ‘Burgundy’ Finds ‘The Truffle Hunters’ Directors Seduced by French Wine Country — Watch Exclusive Clip",
+      "description": "Michael Dweck and Gregory Kershaw's delightful new French confection will premiere out of competition in Italy before making its way through more fall festivals.",
+      "url": "https://www.indiewire.com/news/festivals/burgundy-documentary-new-movie-from-truffle-hunters-clip-1235214175/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bertrand-in-BURGUNDY-Beautiful-Stories.png?w=650",
+      "publishedAt": "2026-09-02T08:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y13aWxsZW0tZGFmb2U",
+      "title": "Late Fame review – Willem Dafoe superb as ever as twilight-years bohemian getting a second chance",
+      "description": "Samy Burch’s adaptation of an Arthur Schnitzler novella sees Dafoe’s ageing poet embraced by a younger cohort of capricious hipsters. It’s smart, literate and affecting There’s a marvellous tenderness and generosity to this elegant tale of autumnal regret; an intimate movie acted with effortless grace by Willem Dafoe. In fact, this is yet another of his almost numberless performances of intelligence and self-possession. Screenwriter Samy Burch has adapted a novella by Arthur Schnitzler, which has been directed by critic turned film-maker Kent Jones (who in 2015 made Hitchcock/Truffaut , a documentary that I very much admired). Their movie finds a new variation on the Schnitzlerian theme of life’s lost opportunities for love, lust and success, and how, as mortality’s shadow closes in, one might be tempted to risk everything for a last chance at worldly triumph. The main character here is a distant cousin – though a wiser cousin – to the doctor in Schnitzler’s Traumnovelle or Dream Story, filmed by Kubrick as Eyes Wide Shut. Dafoe plays Ed Saxberger, an old guy in New York who works in the post office, sorting mail, perhaps without the means to retire, living solo in a small but book-filled room in a humble walkup, drinking and playing pool with his buddies in the evening. One day, Saxberger is astonished to be accosted by a dandyish young hipster outside his apartment building; this is Meyers (played by Edmund Donovan), who knows something about Saxberger that nobody else does. Saxberger was once a talented young poet in the 70s New York bohemian scene and Meyers has found his long since out-of-print volume of poems, entitled Way Past Go. He declares Saxberger a neglected genius that he, and his similarly callow and excitable literary friends, are going to take up. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/late-fame-review-willem-dafoe",
+      "image": "https://i.guim.co.uk/img/media/16dc48a4225f643144f009379e3b2ba68e877958/211_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f3fe1b60228dfc38b0e99f297ad90aa3",
+      "publishedAt": "2026-09-02T08:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XNzYWJsZS1tb3ZpZXM",
+      "title": "Oasis, auteurs and seven hours of Bertolucci: 12 unmissable movies at the Venice film festival",
+      "description": "A backstage peek at the reunion tour and a new film from Burning director Lee Chang-dong are among this year’s most anticipated – plus offerings from Danny Boyle, Luca Guadagnino, Martin McDonagh and more Danny Boyle’s movie, adapted by James Graham from his own play , is a primal scene of modern Britain and its agonies over class, culture and empire. Rupert Murdoch buys the Sun newspaper in 1969 and turns it into a raucous circulation powerhouse of sexist smut and Tory politics, while gloating over the timid British establishment who winced at the colonial Australian press baron. Guy Pearce plays Murdoch and Jack O’Connell plays editor Larry Lamb. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/venice-film-festival-12-unmissable-movies",
+      "image": "https://i.guim.co.uk/img/media/8966ea85118eaeb109021acfadba4f0fbb83b66e/343_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56cdad57b16d95792556dbdf21e3ca7c",
+      "publishedAt": "2026-09-02T07:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WEtY29udHJvdmVyc3k",
+      "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
+      "description": "Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds to the Venice Biennale over the opening of Russia’s pavilion, likening it to “a punishment in kindergarten”. The Biennale drew heavy criticism this spring when it allowed Russia to use its pavilion for the first time since 2022, despite the ongoing full-scale invasion of Ukraine. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
+      "image": "https://i.guim.co.uk/img/media/032680b29cfbd0128ee751d2435d64e1aae45c2c/192_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfeee84450d9be085d414966deb6eca4",
+      "publishedAt": "2026-09-02T06:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1oaXBwby1ob3Jyb3I",
+      "title": "Hungry review – hippo horror sees multi-ton mammal run amok among bayou boat-trippers",
+      "description": "A group of thinly drawn characters on a Louisiana tour fight for survival against a rampaging vegetarian This animal-attack horror plugs a gap with beasties – hippopotamuses – that may be deadly in real life but are hard to take seriously as a threat on screen. As someone says here, they have cute ears. Even the film’s title, evoking the kids’ game Hungry Hungry Hippos, diminishes the menace. That’s perhaps not the tone to set if you’re trying to persuade audiences that fatal consequences are in the offing. And as the script often reminds us, hippos are vegetarian, so hunger isn’t driving these multi-ton mammals to murder. Turns out they’re massively territorial, and especially dangerous when protecting their young. That, or they do just think killing people is fun. The film naturally spends less time worrying about the hippos’ motives and dwells more on the victims, who look pretty doomed given their thin characterisations. This lot certainly weren’t expecting to be attacked by a hippo when they woke up because they are on a bayou tour in Louisiana, where the biggest threats are normally alligators. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/hungry-review-hippo-horror",
+      "image": "https://i.guim.co.uk/img/media/04e82341950151a8b368d786b604fa5edb9b9e08/256_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=1ecc13bd404eadac6367c6de0b264994",
+      "publishedAt": "2026-09-02T06:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
       "title": "The Runner review – Gal Gadot stumbles through derivative high-speed, low-rent thriller",
@@ -100,18 +184,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-xlcy1jb29wZXItYmZp",
-      "title": "‘Not just Hollywood crap’: Mike Leigh on the East End communist who brought world cinema to the UK",
-      "description": "A new season celebrates Contemporary Films and its founder Charles Cooper, who bet on Britain taking to Ingmar Bergman, Yasujiro Ozu, Satyajit Ray – and a young Mike Leigh Occasionally, vital pieces of the cultural jigsaw disappear without anyone really noticing. This, sadly, was the fate of Contemporary Films, the British film distributor that popularised sophisticated, grownup international cinema – foreign language mostly – in the UK, and heralded the arrival of the auteur generation with directors such as Ingmar Bergman, Satyajit Ray, Andrzej Wajda and Yasujiro Ozu. Contemporary, and its founder Charles Cooper, weren’t the only game in town – Kenneth Rive’s Gala was a fellow traveller – but Contemporary got there first, setting up shop in 1951, first with short films for the then popular film society sector, and moving into features with the 1952 Japanese film Children of Hiroshima . Its marketplace clout faded rapidly in the early 1990s, when it was a victim of changing industry practices. But amazingly, the company is still with us – and is planning a 75th anniversary series of screenings to showcase its history. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi",
-      "image": "https://i.guim.co.uk/img/media/62c3f18d9e0f53387602448083420970b14e16c5/59_0_1754_1403/master/1754.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fced27f889e77d8db52e2d33da0e7d5",
-      "publishedAt": "2026-09-01T14:05:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "indiewire-dC0xMjM1MjEzMzcyLw",
       "title": "‘Mouse’ Trailer: Sophie Okonedo’s Big 2026 Continues with This Gem from the Filmmakers of ‘Ghostlight’",
       "description": "Exclusive: Kelly O'Sullivan and Alex Thompson, the filmmakers behind \"Saint Frances\" and \"Ghostlight,\" return with another tremendously effective human drama.",
@@ -136,36 +208,12 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-XR1cm5pbmctcG9pbnQ",
-      "title": "‘Led us down such a dark path’: documentary explores how 9/11 changed America",
-      "description": "In Netflix film Turning Point: Generation 9/11, the lives of people forever impacted by the terrorist attack in 2001 are explored Twenty-five years on, memory is giving way to history. Soon the US will cross the point where half its population were born after 11 September 2001 or were too young to remember the day that terrorists crashed planes into the World Trade Center in New York, the Pentagon in northern Virginia and a field in Shanksville, Pennsylvania. “When I do that math, I get to the bomb at Hiroshima – that’s how distant it is,” says Brian Knappenberger, 56, director of a new Netflix documentary, Turning Point: Generation 9/11 . “When we talk about the second world war, for our generation it seemed like a long time ago but, for the current generation of 20-year-olds, that’s how long ago it was.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/9-11-documentary-netflix-turning-point",
-      "image": "https://i.guim.co.uk/img/media/48e1a2254ec595ce1362ac8092fbc3c34e59798c/248_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c37aaa7d1e9807eb93d1aef3d5c4bf9",
-      "publishedAt": "2026-09-01T11:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-nMtZG9jdW1lbnRhcnk",
-      "title": "Super Nature review – crowd-sourced Super 8 film is a triumphant collage of hope for the natural world",
-      "description": "Film-maker Ed Sayers’ project gathered footage from collaborators all over the world, cleverly edited to combine human and animal contributions This delightful, fleet-footed film represents a labour of love both for its writer-director-producer-editor, Briton Ed Sayers, and his many, many collaborators who shot the film’s footage on Super 8 all over the world. Between them they’ve used decades-old rigs in newfangled setups with stock that, like several of the species seen here, would have gone extinct had it not been for the intervention of enthusiasts. The brief from Sayers was simply to film nature, so we get shots of all manner of flora and fauna, ranging from coral reefs to high deserts, places populated by minute bugs all the way up to whales. Given Super 8 reels can only capture a few minutes’ worth of stock, this must have been a fiendishly complex puzzle in the editing room, so all credit to Sayers not just for his own lovely footage and clever vision but for his nimble collaging of the whole thing together. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/super-nature-review-ed-sayers-documentary",
-      "image": "https://i.guim.co.uk/img/media/160efe4de2ebcc43e177e323c44208923f85f7f4/204_0_1850_1480/master/1850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=75357c23298112d9f8617c0a0f633ed0",
-      "publishedAt": "2026-09-01T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-llLWhpdHMtbWlzc2Vz",
-      "title": "Summer box office 2026: what can we learn from the hits and misses?",
-      "description": "It was a bumper season for Hollywood, almost back to pre-pandemic levels, with Tom Holland blockbusters winning out, but there was still a string of disappointments As the world continued to burn and temperatures reached worrying highs, most of us decided to take refuge in the cinema this summer. It provided some relief for audiences, but even more so for the industry at large, with the season pushing past the magic $4bn mark to become the biggest since 2019, up 20% from last year. There were the expected hits (Spider-Man never misses), but there were also unprecedented breakouts (we were obsessed with Obsession) and surprise underperformers (are kids Minions-ed out?) So at the end of a season with epic highs and cavernous lows, what lessons can Hollywood learn? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/summer-movie-hits-misses",
-      "image": "https://i.guim.co.uk/img/media/f611e07cf4e5f80cb2ee3b236b82715ef37a268d/0_0_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02edd04b6aca9014d81feecee8cbfbe9",
-      "publishedAt": "2026-09-01T09:00:04.000Z",
+      "id": "guardian-d2VsZmFyZS1zdGF0ZQ",
+      "title": "Beveridge revisited: Simon Callow film celebrates the radical co-founder of Britain’s welfare state",
+      "description": "Christine Edzard’s The Man With the Plan tours the country with a timely message about tackling want, disease, squalor, idleness and ignorance A new film that addresses issues fundamental to the new prime minister’s declared mission will star Simon Callow as a historical British political figure. The hero of The Man With the Plan is William Beveridge , who helped to lay the foundations of the postwar welfare state. It shows that the Liberal peer was much more radical than is usually assumed – and certainly far more so than Churchill anticipated when he asked Beveridge to draw up a report into the future of Britain’s fragmented social insurance and national health system after the second world war. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/01/beveridge-revisited-simon-callow-film-celebrates-the-radical-co-founder-of-britains-welfare-state",
+      "image": "https://i.guim.co.uk/img/media/6d83c790a5334b470cf69f00d40b2865501b124b/462_65_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=883666f53ad3e943db5fef16921b0b9f",
+      "publishedAt": "2026-09-01T07:00:48.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -232,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMTMwODcv",
-      "title": "‘The Social Reckoning,’ ‘Cliff Booth,’ and ‘Artificial’ Had Reshoots. Why Is That a Disaster?",
-      "description": "Are three upcoming films from major directors really in trouble, or has a six-month awards season made us dumber (not smarter) about film production?",
-      "url": "https://www.indiewire.com/features/commentary/social-reckoning-cliff-booth-artificial-reshoots-problems-david-fincher-1235213087/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Untitled-August-27-2026-at-11.41.42-2.jpeg?w=650",
-      "publishedAt": "2026-08-31T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
       "description": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
@@ -292,18 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "description": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-28T05:11:16.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-5kLWVleW9yZS1kaWVz",
       "title": "Actor Peter Cullen, voice of Optimus Prime and Eeyore, dies aged 85",
       "description": "Montreal-born actor also voiced KARR in Knight Rider and the monster in Predator, having started his career on Canadian TV and radio Peter Cullen, the actor behind the voice of characters including Eeyore in Disney’s Winnie the Pooh franchise and Optimus Prime in Transformers, has died aged 85. He died on Wednesday at his home in Los Angeles, a statement said. Continue reading...",
@@ -328,42 +352,6 @@
       "category": "TV"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-      "description": "While country music and films brought her fame, her entrepreneurial zeal brought her fortune.",
-      "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40b0/live/6a960df0-a13a-11f1-9d37-9b3d56456ba1.jpg",
-      "publishedAt": "2026-08-26T23:03:46.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-nVzdGluLWJhbGRvbmk",
-      "title": "Judge awards Blake Lively $400,000 in legal fees in Justin Baldoni case",
-      "description": "Actor had sought $8m in attorney costs resulting from her protracted legal battle with It Ends With Us co-star Baldoni Blake Lively has been awarded more than $400,000 in attorneys’ fees after her 18-month legal battle with Justin Baldoni. On Wednesday, Judge Lewis Liman awarded the actor $363,245.40 in attorneys’ fees and $44,206.35 in costs, figures far lower than the $8m Lively had sought . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/26/blake-lively-legal-fees-justin-baldoni",
-      "image": "https://i.guim.co.uk/img/media/a4909801b2c2fb17855c960dd86c5fa79d88bfaf/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bd581aa0cf8c3da5156d3755cc09d0f",
-      "publishedAt": "2026-08-26T17:45:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton",
-      "description": "Tributes pour in from across the worlds of music, film and politics for the star, who died at the age of 80.",
-      "url": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2bdc/live/c4838000-a1de-11f1-b132-bb16290da3a7.jpg",
-      "publishedAt": "2026-08-26T17:26:12.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-i1waWN0dXJlLXNob3c",
       "title": "Farewell, Dr Frank-N-Furter: why Tim Curry’s Rocky Horror Show will go on",
       "description": "The versatile stage performer will always be remembered for his defining film role in The Rocky Horror Picture Show, which turned him into an icon of 70s underground cinema and proto-punk • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke and 50 years of stardom • Clowns, corsets and kings – a life in pictures Over the past decade, the issues of trans identity and gender fluidity couldn’t have been more contemporary, and Tim Curry was an integral part of what might be called their pre-history in pop culture. He was an icon – though maybe now a dimly remembered icon – of the 70s underground cinema and proto-punk. Curry was a good-looking actor with a tremendous speaking and singing voice, and a versatile performer – he got Tony nominations for his varied stage work on Broadway as Mozart in Amadeus, Alan Swann in My Favorite Year (the part Peter O’Toole played on screen) and as King Arthur in Monty Python’s Spamalot . But it was his strange destiny to be remembered for one role: at once indelibly prominent and weirdly peripheral. He was the sensational Dr Frank-N-Furter in the thoroughly outrageous Rocky Horror Picture Show (1975), the screen version of the 1973 stage show. Continue reading...",
@@ -376,42 +364,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "'I'm heartbroken' - Fans react to Dolly Parton's death",
-      "description": "The BBC spoke to gatherers at her Hollywood star in Los Angeles, and fans in Washington DC about the music icon's impact.",
-      "url": "https://www.bbc.co.uk/news/videos/c20ljnlpd3vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9fb5/live/30f28c40-a0db-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-25T23:21:08.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Life of the music legend whose songs touched millions",
-      "description": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You.",
-      "url": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c527/live/1d8fb230-a0b4-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-25T18:14:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-xheWluZy1ydWRlYm95",
-      "title": "Ali G: Who Iz I? trailer reveals return of Sacha Baron Cohen’s prank-playing rudeboy",
-      "description": "Comedian returns in new film, adding a retired US general to a list of pranked celebrities that include Buzz Aldrin and Donald Trump The first full trailer for Ali G: Who Iz I? has been released online, revealing some of the escapades and pranks – and their victims – that will appear in the second feature-length comedy starring the academically challenged west Staines rudeboy character created and played by Sacha Baron Cohen. Sporting new dreadlocks but still wearing the clothing that was favoured by young white Britons copying US hip-hop and Black streetwear fashions in the 00s, Ali is back to contend with the issues of the day – as well as the pregnancy of his long-term girlfriend, Julie. In the 20 years since the character has been away, he says that “the world went to crap: there was Covid, wars and Ed Sheeran”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/25/ali-g-who-iz-i-trailer-return-sacha-baron-cohen-prank-playing-rudeboy",
-      "image": "https://i.guim.co.uk/img/media/a9cad8d83f5284ddeb021c21b4ab594b93829183/694_116_883_707/master/883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58b63202ecf68936a8f08dcb04a509b8",
-      "publishedAt": "2026-08-25T14:31:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-bmctamFtZXMtYm9uZA",
       "title": "Nigel Havers: ‘My biggest disappointment? Not playing James Bond’",
       "description": "The actor on mucking out pigs as a teenager, an apology to his first wife and what makes him cry all the time Born in London, Nigel Havers, 74, was Bafta-nominated for his 1981 role in Chariots of Fire. His other films include A Passage to India and Empire of the Sun. On television he has appeared in Don’t Wait Up, The&nbsp;Charmer, Coronation Street, The&nbsp;Gentlemen and, most recently, Golden Boys. He has starred in West End plays and panto, and is touring his show, Talking B*ll*cks . He is married, has a daughter and lives in London. What is your greatest fear? Every actor has the same fear – ie, you’re never going to work again. Continue reading...",
@@ -422,18 +374,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
-      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues.",
-      "url": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg",
-      "publishedAt": "2026-08-21T23:41:33.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-hhcmJvdXItbWFydmVs",
