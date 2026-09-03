@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T04:42:00.221Z",
+  "generatedAt": "2026-09-03T11:26:00.197Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
+      "publishedAt": "2026-09-03T09:37:34.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-13aGFsZS1taXNzaW9u",
+      "title": "Star Trek IV: The Voyage Home review – Kirk, Spock and co on semi-intentionally hilarious save-the-whale mission",
+      "description": "Our heroes travel back through time to San Francisco in 1986 so they can commune with aliens threatening future Earth – it’s preposterously good fun Here is the fourth and silliest movie in the Star Trek franchise, now on rerelease for its 40th anniversary. Directed by Leonard Nimoy, it’s a film of pure shark-jumping or rather whale-jumping absurdity. The film’s opening credits proclaim, with sublime confidence in its own unquestioned pop-cultural importance in the field of space travel, that Star Trek IV is dedicated to the crew of the space shuttle Challenger, which had that year catastrophically exploded midair, killing all seven of them. Spock has been brought back to life, as the apparent end result of all the bizarre metempsychotic plot contortions of the previous film. But the permanent and irrevocable death of Kirk’s son seems to be passed over remarkably casually. The eerie boyishness of Shatner’s Kirk, with that beaming smile, almost makes you forget that he has been through an agonising bereavement. Hasn’t he? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/star-trek-iv-the-voyage-home-review-kirk-spock-and-co-on-semi-intentionally-hilarious-save-the-whale-mission",
+      "image": "https://i.guim.co.uk/img/media/f05955e6602167277eaf271a3ace07db7f70b8c8/174_0_1491_1193/master/1491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=62175fc54ca3d73fda117faa85dbe0c2",
+      "publishedAt": "2026-09-03T08:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-cnN0LXN1cGVyc3Rhcg",
+      "title": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
+      "description": "His destructive pace and power changed the game for ever, but behind the fame and ineffable exterior of this gentle giant was a life of chaos and emotional discord There’s an inevitable air of melancholy overhanging this profile of New Zealand rugby star Jonah Lomu; we all know how the story ended for this magnificent human specimen, who died in 2015 aged 40 as a result of a longterm kidney disorder. Lomu, of course, became a legend of the game after breaking into the All Blacks side – the ferociously high-achieving New Zealand national team, for anyone outside the rugby-appreciating universe – at the scarcely believable age of 19; his special combination of a tank-like physique, electric pace and ability to slalom at high speed gave him an almost unstoppable force in what is arguably the toughest contact sport of all. Lomu had the bulk and power of a forward (I liked the detail that he was sometimes drafted into the back of the scrum when they needed “more power”) but he was set loose on the wing, where he was twice the speed and three times the size of everyone else, and where his destructive instincts could wreak havoc. Well, modern rugby appears to have learned the Lomu lesson; everyone has bulked up – so its arguable whether he would have the same impact today. But as this film underlines, there was a lot more to Lomu’s story than steamrolling the hapless English backline; he had a complicated relationship both with his Tongan heritage and his superstar status, the combination of which seemed to overwhelm him. Interestingly, this film (directed by Gavin Fitzgerald and Vea Mafile’o) initially appears to push the by-now customary idea that Lomu’s Indigenous heritage was an ineffable source of strength, wisdom and insight; however it soon becomes clear that this wasn’t entirely the case. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar",
+      "image": "https://i.guim.co.uk/img/media/3bb8df19aa4399396c0c16c47714f4170a27b2b5/459_0_4082_3266/master/4082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7ffad7e66a8466ff780f3363d710df8c",
+      "publishedAt": "2026-09-03T06:00:45.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg",
+      "publishedAt": "2026-09-02T23:47:02.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-aC0xMjM1MjE0NDU2Lw",
       "title": "Can Rupert Murdoch Origin Story ‘Ink’ Push Danny Boyle, Jack O’Connell, Guy Pearce, and Netflix Into the Oscar Race?",
@@ -92,11 +140,23 @@
       "title": "The Other Bennet Sister wraps filming Christmas special",
       "description": "The producer of the show tells fans online that filming has finished for three special episodes.",
       "url": "https://www.bbc.co.uk/news/articles/c3v4wz946wdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a71b/live/6c6f8380-1d51-11f1-a00b-6f91831af046.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d78/live/05371690-a773-11f1-993c-a325009c1935.png",
       "publishedAt": "2026-09-02T17:02:52.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-VldC1iaW9waWMtaW5r",
+      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
+      "description": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said. Speaking at the Venice film festival ahead of the premiere of 28 Days Later director Danny Boyle’s Ink, Pearce said he had been messaging with the media tycoon’s daughter Elisabeth “and she did say ‘Dad’s very happy that you’re playing him’.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
+      "image": "https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69825c8dce7b6ca6cf95e5486e5a040a",
+      "publishedAt": "2026-09-02T16:07:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -142,30 +202,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/02/the-eyes-wide-shut-conspiracy-theory-did-someone-cut-a-crucial-20-minutes-from-kubricks-final-movie",
       "image": "https://i.guim.co.uk/img/media/104ba62a09f82cb36e87723ae9d5c15986009a1b/540_0_2537_2030/master/2537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77b12f0ac98b4f062989a16fdf9782de",
       "publishedAt": "2026-09-02T14:58:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-G9yLWlpLWZsb3BwZWQ",
-      "title": "Was Paul Mescal being ‘not masculine enough’ the reason Gladiator II flopped?",
-      "description": "Mescal’s nuanced performance in Ridley Scott’s belated sequel has been blamed by some for the film’s box office underperformance. May I suggest Jason Statham for Gladiator III? As you may be aware, The Dog Stars has not been particularly well received. Reviews have been lukewarm to poor and in its opening weekend, Ridley Scott’s post-apocalyptic thriller came in fifth, after Spider-Man and The Odyssey (both of which have been out for ever), the sixth Insidious movie and a Looney Tunes film that originally wasn’t even going to be released . Perhaps unexpectedly, people are now casting around looking to assign blame for the failure. In the lead up to the film, Josh Brolin said that he almost left the project due to Scott’s lack of rehearsal time. Perhaps there’s also a prosaic explanation, in that The Dog Stars is such a vague title for a film that audiences didn’t know if they were going to watch a survival thriller, a military movie or a cartoon about some singing puppies. But the most exciting theory concerns the film’s casting. Jacob Elordi plays the lead, but this came about late in the day. When the project was first announced, the role was to be played by Paul Mescal , who at the time was fresh from starring in Scott’s Gladiator II. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/was-paul-mescal-being-not-masculine-enough-the-reason-gladiator-ii-flopped",
-      "image": "https://i.guim.co.uk/img/media/c5001b01b85f37c602937fdbd76b9a69691ecc0f/170_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=31f7f267ea65d799d94985bcffb34a9b",
-      "publishedAt": "2026-09-02T14:36:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-W0td2l0aC1zZXhpc20",
-      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
-      "description": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggie Gyllenhaal said there is a “systemic problem” that explains why only two female directors are in the running for the Golden Lion at the Venice film festival this year. “It’s harder for women to get films financed,” said the actor-director, who is heading up the jury of the world’s oldest cinema showcase this year. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
-      "image": "https://i.guim.co.uk/img/media/2b6844dc580de889a8e9a0cee0e970cc5e497c93/483_511_3944_3156/master/3944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbcfe05e1221849bc7cdcf1d95fd6019",
-      "publishedAt": "2026-09-02T14:26:32.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -256,18 +292,6 @@
       "category": "Classics"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Film about enigmatic aristocrat up for six Bafta Cymru awards",
-      "description": "The Bafta Cymru awards nominations include Strictly Amy: Cancer and Me, Mr Burton and Cleddau.",
-      "url": "https://www.bbc.co.uk/news/articles/c70lwxve0y5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ca9a/live/3216a050-0b32-11f1-9972-d3f265c101c6.jpg",
-      "publishedAt": "2026-09-02T09:43:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-cC0xMjM1MjE0MTc1Lw",
       "title": "Venice’s ‘Burgundy’ Finds ‘The Truffle Hunters’ Directors Seduced by French Wine Country — Watch Exclusive Clip",
       "description": "Michael Dweck and Gregory Kershaw's delightful new French confection will premiere out of competition in Italy before making its way through more fall festivals.",
@@ -310,18 +334,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
       "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc9f2ade962ed21dc9f0e2f86aa6355",
       "publishedAt": "2026-09-01T18:42:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-d2VsZmFyZS1zdGF0ZQ",
-      "title": "Beveridge revisited: Simon Callow film celebrates the radical co-founder of Britain’s welfare state",
-      "description": "Christine Edzard’s The Man With the Plan tours the country with a timely message about tackling want, disease, squalor, idleness and ignorance A new film that addresses issues fundamental to the new prime minister’s declared mission will star Simon Callow as a historical British political figure. The hero of The Man With the Plan is William Beveridge , who helped to lay the foundations of the postwar welfare state. It shows that the Liberal peer was much more radical than is usually assumed – and certainly far more so than Churchill anticipated when he asked Beveridge to draw up a report into the future of Britain’s fragmented social insurance and national health system after the second world war. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/beveridge-revisited-simon-callow-film-celebrates-the-radical-co-founder-of-britains-welfare-state",
-      "image": "https://i.guim.co.uk/img/media/6d83c790a5334b470cf69f00d40b2865501b124b/462_65_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=883666f53ad3e943db5fef16921b0b9f",
-      "publishedAt": "2026-09-01T07:00:48.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
