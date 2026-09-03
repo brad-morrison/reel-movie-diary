@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T16:32:52.246Z",
+  "generatedAt": "2026-09-03T21:08:33.398Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9uLTEyMzUyMTI5NjEv",
+      "title": "From Assault Allegations to Fights Over Unpaid Bills: Bruin Theatre Chief Rui Pereira’s Scandals Go Back Years",
+      "description": "Accusations of assault, nonpayment, and unlicensed screenings are among the disputes that have followed the Bruin's controversial new operator from Toronto to Los Angeles. Pereira is also accused of racist and antisemitic speech, as well as online harassment.",
+      "url": "https://www.indiewire.com/news/breaking-news/bruin-theater-rui-pereira-kingsway-toronto-assault-allegation-investigation-1235212961/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_6081.jpeg?w=650",
+      "publishedAt": "2026-09-03T20:37:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxNDY5OC8",
+      "title": "‘Once Upon a Time in Harlem’ Trailer: William Greaves’ Portrait of Harlem Renaissance Luminaries Is a Living Piece of History",
+      "description": "The Sundance hit will play Telluride, TIFF, and NYFF this fall before Neon releases it in theaters on October 16.",
+      "url": "https://www.indiewire.com/news/trailers/once-upon-a-time-in-harlem-trailer-1235214698/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-26-at-10.10.35-AM.png?w=650",
+      "publishedAt": "2026-09-03T20:10:57.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjE0NjIzLw",
+      "title": "Inside Anonymous Content’s Comeback: A New CEO, a Controversial Elon Musk Doc, and Climate Change Drama ‘A Statement’ Have Hollywood Buzzing",
+      "description": "New chief Darren Walker on the management and production company's big fall.",
+      "url": "https://www.indiewire.com/features/interviews/anonymous-content-comeback-elon-musk-documentary-1235214623/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/11/GettyImages-1232792592.jpg?w=650",
+      "publishedAt": "2026-09-03T18:09:57.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FydGluLW1jZG9uYWdo",
+      "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "description": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b20f508970b55da4d0b004f6d15434c9",
+      "publishedAt": "2026-09-03T17:30:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxMzkxMi8",
+      "title": "‘Wild Horse Nine’ Review: Martin McDonagh’s Prickly but Unconvincing CIA Satire Recasts ‘In Bruges’ as the Stuff of a Classic Western",
+      "description": "Venice: John Malkovich and Sam Rockwell are two CIA agents vacationing on Easter Island in McDonagh's sardonic look at American interventionism.",
+      "url": "https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/WHN-03439_V1.jpg?w=650",
+      "publishedAt": "2026-09-03T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
+      "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6ac1/live/3a9b2fc0-a7a4-11f1-a7ad-37a1f7dc081c.png",
+      "publishedAt": "2026-09-03T17:03:12.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
     {
       "id": "indiewire-XctMTIzNTIxNDQ2Ny8",
       "title": "‘By Any Means’ Review: Tragic American History Takes the Shape of Classic Buddy Cop Tropes",
@@ -208,42 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-aC0xMjM1MjE0NDU2Lw",
-      "title": "Can Rupert Murdoch Origin Story ‘Ink’ Push Danny Boyle, Jack O’Connell, Guy Pearce, and Netflix Into the Oscar Race?",
-      "description": "At Venice, Oscar-winning director Danny Boyle likened Jack O'Connell's work in \"Ink\" to Al Pacino in \"The Godfather.\"",
-      "url": "https://www.indiewire.com/news/festivals/netflix-ink-oscar-odds-danny-boyle-jack-oconnell-murdoch-1235214456/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2293223046.jpg?w=650",
-      "publishedAt": "2026-09-02T23:31:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE0Mzk5Lw",
-      "title": "How Trump’s Call for a Federal Film Production Incentive Could Actually Help Hollywood",
-      "description": "Could the president's apparent support really bring production (and production jobs ) back to the U.S.?",
-      "url": "https://www.indiewire.com/features/commentary/trumps-film-tv-tax-incentive-productions-back-us-1235214399/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDBEBA_EC017.jpg?w=650",
-      "publishedAt": "2026-09-02T21:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjE0MTE4Lw",
-      "title": "‘Chronovisor’ Review: An Occult Thriller Turns Academic Obsession Into Something Beguiling and Wildly Compelling",
-      "description": "Jack Auen and Kevin Walker's debut film stars real-life professor Anne-Laure Sellier as a scholar who goes down a research rabbit hole tracking a device said to be able to record and film the past.",
-      "url": "https://www.indiewire.com/criticism/movies/chronovisor-movie-review-occult-thriller-jesus-photograph-1235214118/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Anne-Laure-Sellier_Courtesy-of-Grasshopper-Film.jpg?w=650",
-      "publishedAt": "2026-09-02T18:29:42.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-1qYWNrLW9jb25uZWxs",
       "title": "Ink review – Danny Boyle turns the birth of the Sun into a lurid tabloid frenzy",
       "description": "Venice film festival Jack O’Connell is terrific as editor Larry Lamb in James Graham’s tale of Rupert Murdoch, Page 3 and the newspaper that transformed Fleet Street Danny Boyle presents us with a lurid, violent and thumpingly unsubtle movie full of Dutch angles, cartoony shocks and gargoyle closeups. It’s a chapter in the prehistory of modern media, adapted by James Graham from his 2017 stage play , filled with shame and fear and self-hate. It is in fact the story of the Sun newspaper, and how Rupert Murdoch (Guy Pearce) bought the ailing minor title in the late 60s and hired a tough Yorkshire newspaperman, Larry Lamb, to turn it into a raucous and gleefully vulgar circulation powerhouse. Ink summons up the energy and frenzy of tabloid papers of the era, but also – and not entirely intentionally – how strangely depressing they were. Audiences used to the super-rich anomie of the Roy family from TV’s Succession might find all this very unsexy. This is a world of officer-class Fleet Street execs having expense-account meals at Rules and the Savoy Grill in pinstripe suits, smoking and drinking and impassively writing salary offers on paper napkins and silently passing them across to each other. Meanwhile, the other ranks of journalists and print unions are covered in sweat and ink. Continue reading...",
@@ -254,42 +290,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-WZpbG0tZmVzdGl2YWw",
-      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
-      "description": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”. Kristy Matheson’s comments came as LFF announced its full programme for this year’s event, which runs from 7 to 19 October. Of the 251 titles, 109 (43%) are made by female film-makers, but only two of the 21 gala films are directed by women. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545",
-      "publishedAt": "2026-09-02T18:00:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2gtMTIzNTIxMzU0OS8",
-      "title": "‘Ink’ Review: Danny Boyle’s Rupert Murdoch Pressure Cooker Is a Journalism Thriller Tabloid-Ready for Our Political Apocalypse",
-      "description": "Venice: Jack O'Connell plays Larry Lamb opposite Guy Pearce's Murdoch in a stirringly acted but stylistically overcooked rumination on our clickbait-addled world.",
-      "url": "https://www.indiewire.com/criticism/movies/ink-movie-review-danny-boyle-rupert-murdoch-1235213549/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Ink-Stills-Press-Photos-First-Look-1920x1280-FINAL-LowRes-png.png?w=650",
-      "publishedAt": "2026-09-02T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "The Other Bennet Sister wraps filming Christmas special",
-      "description": "The producer of the show tells fans online that filming has finished for three special episodes.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4wz946wdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4d78/live/05371690-a773-11f1-993c-a325009c1935.png",
-      "publishedAt": "2026-09-02T17:02:52.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-VldC1iaW9waWMtaW5r",
