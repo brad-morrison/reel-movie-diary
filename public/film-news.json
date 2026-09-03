@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T11:26:00.197Z",
+  "generatedAt": "2026-09-03T16:32:52.246Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -16,8 +16,152 @@
   },
   "articles": [
     {
+      "id": "indiewire-XctMTIzNTIxNDQ2Ny8",
+      "title": "‘By Any Means’ Review: Tragic American History Takes the Shape of Classic Buddy Cop Tropes",
+      "description": "Elegance Bratton directs Mark Wahlberg and Yahya Abdul-Mateen II in a film that selectively blends true events into entertaining popcorn fare.",
+      "url": "https://www.indiewire.com/criticism/movies/by-any-means-review-1235214467/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/BYANYMEANS_2024-04-23_EJA-01110_R.jpg?w=650",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE0Mzc2Lw",
+      "title": "‘Too Much Sugar’ Review: Robert Greene Continues Pushing Art as Therapy to New Heights",
+      "description": "Venice: This hybrid documentary about a self-aggrandizing Missouri man becomes an exploration of how the other people in his life are just as worthy of cinematic treatments.",
+      "url": "https://www.indiewire.com/criticism/movies/too-much-sugar-review-1235214376/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-02-at-12.20.37-PM.png?w=650",
+      "publishedAt": "2026-09-03T15:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjA4MDU0Lw",
+      "title": "‘La Bola Negra’: Before Netflix’s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors",
+      "description": "\"Los Javis\" are still creating films together, even after their 13-year romance died. \"There's a political statement behind creating a big, bold, gay, period, epic drama,\" Javier Ambrossi told IndieWire.",
+      "url": "https://www.indiewire.com/features/interviews/netflix-la-bola-negra-gay-epic-breakup-filmmakers-interview-oscars-1235208054/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/P106HD91.jpg?w=650",
+      "publishedAt": "2026-09-03T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-NoLTEyMzUyMTM2MTIv",
+      "title": "Telluride 2026: New Movies Starring Andrew Scott, Julianne Moore, and John Malkovich Anchor This Year’s Likely Oscar Contenders",
+      "description": "The show will go on, festival director Julie Huntsinger told IndieWire, despite mudslides and intense competition for high-profile titles.",
+      "url": "https://www.indiewire.com/news/festivals/telluride-films-andrew-scott-julianne-moore-john-malkovich-1235213612/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/08/IMG_0388.jpeg?w=650",
+      "publishedAt": "2026-09-03T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNDU0Ny8",
+      "title": "‘Bucking Fastard’ Review: The Mara Sisters Commit to Werner Herzog’s Wonderfully Weird Bit as Lovestruck Twins Who Move and Speak in Unison",
+      "description": "Venice: The German fabulist's touching, eccentric, technically complex, and unclassifiable new film is destined to polarize.",
+      "url": "https://www.indiewire.com/criticism/movies/bucking-fastard-review-werner-herzog-mara-sisters-twins-1235214547/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bucking-Fastard.jpeg?w=650",
+      "publishedAt": "2026-09-03T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-EtYXdmdWwtdGhpbmdz",
+      "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
+      "description": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright and film-maker Martin McDonagh has said, as his Oscar-tipped film about a rueful CIA agent premieres at the Venice film festival. “I’ve been very interested in the truth of what the CIA has been doing over the last 60 years, and the awful things they’ve done all around the world,” McDonagh said about Wild Horse Nine, his first film since his 2022 tragicomedy The Banshees of Inisherin . “I think maybe something that’s not talked about enough. We know what the KGB are like, but we probably don’t question the CIA’s activity as much as we ought to.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
+      "image": "https://i.guim.co.uk/img/media/dfd856c59e53370ebfa44143ae2345bc95ddf861/149_0_3199_2561/master/3199.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee1167e2757782bfc548bcd179e9a35d",
+      "publishedAt": "2026-09-03T14:21:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjE0MjQyLw",
+      "title": "‘Mayday’ Directors John Francis Daley and Jonathan Goldstein on the Cold War Thriller and Their Plans for a ‘Dark’ ‘Star Trek’ Reboot",
+      "description": "The filmmakers tell IndieWire about turning Kenneth Branagh into an action hero, working with Ryan Reynolds and the scrapped \"Dungeons &#38; Dragons\" sequel.",
+      "url": "https://www.indiewire.com/features/interviews/mayday-john-francis-daley-jonathan-goldstein-dark-star-trek-reboot-1235214242/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Mayday_Photo_0110.jpg?w=650",
+      "publishedAt": "2026-09-03T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5kLTEyMzUyMTQxNzAv",
+      "title": "Fans Will Always Argue About Who Is the Best James Bond, but ‘Live and Let Die’ Makes the Answer Clear",
+      "description": "The 1973 cross between spy movie and Blaxploitation flick, which screens in 35mm this weekend at Quentin Tarantino's Vista Theater, marked Roger Moore's debut as Bond and set the tone for over a decade of great entertainment to follow.",
+      "url": "https://www.indiewire.com/features/commentary/live-and-let-die-roger-moore-best-james-bond-1235214170/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDLIAN_EC042.jpg?w=650",
+      "publishedAt": "2026-09-03T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-i1wcmlzb24tZ3VhcmQ",
+      "title": "Falling House review – fierce tale of an Iranian prison guard holding his family hostage",
+      "description": "Venice film festival: Mohsen Gharaei’s powerfully acted domestic drama watches as the failing patriarch attempts to contain family rebellion Iran is a prison and everybody is inside: cons and non-cons; parents and their children. That’s the message hammered home, never subtly but with terrific force and conviction, throughout the course of Mohsen Gharaei’s hothouse domestic drama, which plays in the Orizzonti section in Venice. It’s about a low-level jailer, crushed by life, who returns from the day job and proceeds to incarcerate his own family. He does so out of love and to reassert his authority, to protect his wife and kids from the world and from their own foolish notions. For him, it’s a bone-headed busman’s holiday. For his family, it’s a nightmarish tragicomic staycation. Veteran Iranian actor Farhad Aslani is perfectly cast as Rashid Hafizhi, Gharaei’s misguided prison guard. Rashid is a burly bear of a man who nonetheless carries an air of bewilderment and defeat, as though he’s smart enough to know that everyone in the vicinity is just that little bit smarter than him. He’s been falsely accused of aiding and abetting a jailbreak and is facing imminent eviction from his rented family home. Then, just when it seems his day can’t get any worse, Rashid learns that his cherished eldest daughter, Ensi (Laleh Marzban), is planning to run off to seek work as a model in Turkey. Modelling in Iran is a non-starter, she explains. Ensi has to cover her arms and neck for each job, while the power supply is so unstable and the lights have a tendency to cut out in the middle of a photoshoot. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/falling-house-review-mohsen-gharaei-iran-prison-guard",
+      "image": "https://i.guim.co.uk/img/media/eb60534c1de15a4dfab1eb285f507e7652c48f8e/622_0_2957_2366/master/2957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=50ca4be5db28cc5c25416df0c10bd499",
+      "publishedAt": "2026-09-03T12:15:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-W4tZmlsbS1yYW5rZWQ",
+      "title": "Tall tales: the 20 best giants in film – ranked!",
+      "description": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG , alas, but one of Steven Spielberg’s worst films, reducing Roald Dahl’s story to digital pap. Mo-cap Mark Rylance, whose cutesy ungrammatical babbling should have been left on the printed page, is the 24ft Big Friendly Giant who kidnaps an orphan girl, Sophie. Ugh. Big Creepy Giant, more like. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
+      "image": "https://i.guim.co.uk/img/media/f3a807684f26412f9913f7d5df30939f7b5cfa03/1069_4_3921_3136/master/3921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=587daaa43f843a49705702f7a97b3004",
+      "publishedAt": "2026-09-03T12:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-9jLTEyMzUyMTQ1MzYv",
+      "title": "‘Everest: The Other Side’ Review: A Grieving Ski Mountaineer Scales the Face of Death in Chai Vasarhelyi and Jimmy Chin’s Climbing Doc",
+      "description": "Venice: Haunted by tragedies this NatGeo doc never flinches at, Jim Morrison makes the dangerous attempt to climb up and ski down the Everest's North Face in another spellbinding chronicle from the Oscar-winning \"Free Solo\" team.",
+      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/everest_the_other_side.jpg?w=600",
+      "publishedAt": "2026-09-03T12:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
+      "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg",
+      "publishedAt": "2026-09-03T11:47:51.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
       "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
       "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
@@ -42,7 +186,7 @@
     {
       "id": "guardian-cnN0LXN1cGVyc3Rhcg",
       "title": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
-      "description": "His destructive pace and power changed the game for ever, but behind the fame and ineffable exterior of this gentle giant was a life of chaos and emotional discord There’s an inevitable air of melancholy overhanging this profile of New Zealand rugby star Jonah Lomu; we all know how the story ended for this magnificent human specimen, who died in 2015 aged 40 as a result of a longterm kidney disorder. Lomu, of course, became a legend of the game after breaking into the All Blacks side – the ferociously high-achieving New Zealand national team, for anyone outside the rugby-appreciating universe – at the scarcely believable age of 19; his special combination of a tank-like physique, electric pace and ability to slalom at high speed gave him an almost unstoppable force in what is arguably the toughest contact sport of all. Lomu had the bulk and power of a forward (I liked the detail that he was sometimes drafted into the back of the scrum when they needed “more power”) but he was set loose on the wing, where he was twice the speed and three times the size of everyone else, and where his destructive instincts could wreak havoc. Well, modern rugby appears to have learned the Lomu lesson; everyone has bulked up – so its arguable whether he would have the same impact today. But as this film underlines, there was a lot more to Lomu’s story than steamrolling the hapless English backline; he had a complicated relationship both with his Tongan heritage and his superstar status, the combination of which seemed to overwhelm him. Interestingly, this film (directed by Gavin Fitzgerald and Vea Mafile’o) initially appears to push the by-now customary idea that Lomu’s Indigenous heritage was an ineffable source of strength, wisdom and insight; however it soon becomes clear that this wasn’t entirely the case. Continue reading...",
+      "description": "His destructive pace and power changed the game for ever, but behind the fame and impassive exterior of this gentle giant was a life of chaos and emotional discord There’s an inevitable air of melancholy overhanging this profile of New Zealand rugby star Jonah Lomu; we all know how the story ended for this magnificent human specimen, who died in 2015 aged 40 as a result of a longterm kidney disorder. Lomu, of course, became a legend of the game after breaking into the All Blacks side – the ferociously high-achieving New Zealand national team, for anyone outside the rugby-appreciating universe – at the scarcely believable age of 19; his special combination of a tank-like physique, electric pace and ability to slalom at high speed gave him an almost unstoppable force in what is arguably the toughest contact sport of all. Lomu had the bulk and power of a forward (I liked the detail that he was sometimes drafted into the back of the scrum when they needed “more power”) but he was set loose on the wing, where he was twice the speed and three times the size of everyone else, and where his destructive instincts could wreak havoc. Well, modern rugby appears to have learned the Lomu lesson; everyone has bulked up – so its arguable whether he would have the same impact today. But as this film underlines, there was a lot more to Lomu’s story than steamrolling the hapless English backline; he had a complicated relationship both with his Tongan heritage and his superstar status, the combination of which seemed to overwhelm him. Interestingly, this film (directed by Gavin Fitzgerald and Vea Mafile’o) initially appears to push the by-now customary idea that Lomu’s Indigenous heritage was an ineffable source of strength, wisdom and insight; however it soon becomes clear that this wasn’t entirely the case. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar",
       "image": "https://i.guim.co.uk/img/media/3bb8df19aa4399396c0c16c47714f4170a27b2b5/459_0_4082_3266/master/4082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7ffad7e66a8466ff780f3363d710df8c",
       "publishedAt": "2026-09-03T06:00:45.000Z",
@@ -160,30 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LXdhci1icm9tYW5jZQ",
-      "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
-      "description": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed every red-blooded young guy in America adored Top Gun and wanted to be a US Navy fighter pilot. It’s got some outrageous close-quarter fight scenes – and who knew Branagh could bust out martial arts moves? Is he going to follow Bob Odenkirk into an unexpected action movie career? The final sequences of automotive mayhem in and around Moscow might remind you of the heady days of Roger Moore as James Bond. Reynolds is Troy Kelly (callsign “Assassin”), a supercool fighter pilot in 1987, who is always doing brave and brilliant stuff that isn’t in the rulebook, and cracking wise in the accepted Reynolds manner. But when his spy plane is shot down deep inside snowy and forested Soviet territory, Troy awakens from his coma to find himself in the log cabin of retired KGB man Nikolai Ustinov, cheerfully played by Branagh, who is a secret fan of all things American and obsessively rewatches Top Gun on samizdat VHS. He suggests to the stunned Troy that he simply stays in his cabin, watching the film with him, until the cold war is over. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
-      "image": "https://i.guim.co.uk/img/media/b9ac1c75c1002b269d9c1e0d89d05f043d62d5c3/918_0_2003_1603/master/2003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2cd5468b0a594678b069886a67942706",
-      "publishedAt": "2026-09-02T16:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIxMzg3NC8",
-      "title": "In Between ‘Midnight Run’ and ‘Goodfellas,’ Robert De Niro Gave One of His Best Performances in a Movie Barely Anyone Saw",
-      "description": "\"Jacknife\" boasts terrific work from De Niro, Ed Harris, and Kathy Baker but was largely overlooked when it was released in 1989; a new Blu-ray from boutique label Cinématographe offers an opportunity for rediscovery.",
-      "url": "https://www.indiewire.com/features/commentary/jacknife-great-overlooked-robert-de-niro-performance-1235213874/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/M8DJACK_EC006.jpg?w=650",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ci1icm9zLW1lcmdlcg",
       "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
       "description": "‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusations George Clooney has defended Mark Ruffalo’s right to criticise the proposed $111bn Paramount takeover of Warner Bros Discovery , saying he is concerned about the consequences of further consolidation in Hollywood. Speaking in Venice ahead of receiving the festival’s Golden Lion for lifetime achievement, Clooney said he supported Ruffalo’s “ability to speak freely” about the proposed merger, while expressing his own doubts about the deal. Continue reading...",
@@ -196,87 +316,15 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-tzLWZpbmFsLW1vdmll",
-      "title": "The Eyes Wide Shut conspiracy theory: did someone cut a crucial 20 minutes from Kubrick’s final movie?",
-      "description": "For years some have claimed a key part of the thriller was excised after the director’s sudden death – and that it provided clues to the real-life behaviour of rich predators. Now, his daughter has spoken out Name: The Eyes Wide Shut conspiracy Age: The erotic psychological thriller Eyes Wide Shut starring Tom Cruise and Nicole Kidman (married at the time, though that isn’t so important now) was released in 1999. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/the-eyes-wide-shut-conspiracy-theory-did-someone-cut-a-crucial-20-minutes-from-kubricks-final-movie",
-      "image": "https://i.guim.co.uk/img/media/104ba62a09f82cb36e87723ae9d5c15986009a1b/540_0_2537_2030/master/2537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77b12f0ac98b4f062989a16fdf9782de",
-      "publishedAt": "2026-09-02T14:58:00.000Z",
+      "id": "guardian-W0td2l0aC1zZXhpc20",
+      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
+      "description": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggie Gyllenhaal said there is a “systemic problem” that explains why only two female directors are in the running for the Golden Lion at the Venice film festival this year. “It’s harder for women to get films financed,” said the actor-director, who is heading up the jury of the world’s oldest cinema showcase this year. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
+      "image": "https://i.guim.co.uk/img/media/2b6844dc580de889a8e9a0cee0e970cc5e497c93/483_511_3944_3156/master/3944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbcfe05e1221849bc7cdcf1d95fd6019",
+      "publishedAt": "2026-09-02T14:26:32.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-jYtMTIzNTIxNDIzNi8",
-      "title": "Venice Jury President Maggie Gyllenhaal Decries ‘Systemic’ Lack of Female Directors in Competition",
-      "description": "\"The Lost Daughter\" director admits the lack of female directors in this year’s competition is also something she’s asked about, but festival director Alberto Barbera claimed “there is no prejudice.\"",
-      "url": "https://www.indiewire.com/news/festivals/maggie-gyllenhaal-lack-female-directors-venice-2026-1235214236/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2293136272.jpg?w=650",
-      "publishedAt": "2026-09-02T14:20:33.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold So Far: ‘Babies,’ ‘Ink,’ and ‘Elsinore’ Lead Early Deals From Venice and TIFF",
-      "description": "A24, Netflix, Apple, and Amazon are all coming into the fall season with multiple titles in tow, but they should all still be buying.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
-      "publishedAt": "2026-09-02T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjEzOTE1Lw",
-      "title": "‘Ink’ Teaser: Guy Pearce Plays Rupert Murdoch in Danny Boyle’s Biopic About the Rise of The Sun Tabloid",
-      "description": "Based on the 2017 play by James Graham, \"Ink\" also stars Jack O'Connell and Claire Foy.",
-      "url": "https://www.indiewire.com/news/trailers/ink-teaser-guy-pearce-rupert-murdoch-1235213915/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/INK_05484_R.jpg?w=650",
-      "publishedAt": "2026-09-02T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-WEtMTIzNTIxNDEyNS8",
-      "title": "Streamers Were Scared of Trump and Wouldn’t Touch ‘Ask E. Jean’ — 5 Companies Are Teaming Up to Launch It on VOD",
-      "description": "Exclusive: Kinema, in collaboration with a group of distributors, is making the documentary about E. Jean Carroll and her defamation battle against President Trump available online.",
-      "url": "https://www.indiewire.com/news/breaking-news/streamers-wouldnt-touch-ask-e-jean-trump-vod-release-kinema-1235214125/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/MCDASEJ_EC001.jpg?w=650",
-      "publishedAt": "2026-09-02T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjE0MTI2Lw",
-      "title": "‘East of Eden’ Trailer: Florence Pugh Is One of Literature’s Most Iconic Villains in Zoe Kazan’s Ambitious Steinbeck Adaptation",
-      "description": "Famously adapted by Kazan's grandfather Elia Kazan into a James Dean film, John Steinbeck's novel is a generational tale of two families in California's Salinas Valley.",
-      "url": "https://www.indiewire.com/news/trailers/east-of-eden-netflix-trailer-florence-pugh-1235214126/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AAAAQfylrmB3fUhy6LNXv9juXCeNwmQxJa5HDKepxo8RNYGS3IvdYsOe2MmghLvcO1v6kOGdISQyTo7mGvLCRsoaYGvuEGeVH90-nROUQC32LK33_aZ6Fd-H5oGIGqYV1QvkXfwZ3-KgHNJdwBKqn1dVdcqi.jpg?w=650",
-      "publishedAt": "2026-09-02T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-aS0xMjM1MjE0MjQwLw",
-      "title": "George Clooney Says AI Will ‘Hurt Us’ and Questions Paramount and Warner Bros. Merger: ‘I Don’t Know How This Goes Through’",
-      "description": "At the 2026 Venice Film Festival, Clooney says he doesn't understand how the merger \"financially ends up making sense for the people who are trying to do it.”",
-      "url": "https://www.indiewire.com/news/festivals/george-clooney-questions-paramount-warner-bros-merger-slams-ai-1235214240/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107XQCP.jpg?w=650",
-      "publishedAt": "2026-09-02T12:19:49.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -292,30 +340,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-cC0xMjM1MjE0MTc1Lw",
-      "title": "Venice’s ‘Burgundy’ Finds ‘The Truffle Hunters’ Directors Seduced by French Wine Country — Watch Exclusive Clip",
-      "description": "Michael Dweck and Gregory Kershaw's delightful new French confection will premiere out of competition in Italy before making its way through more fall festivals.",
-      "url": "https://www.indiewire.com/news/festivals/burgundy-documentary-new-movie-from-truffle-hunters-clip-1235214175/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bertrand-in-BURGUNDY-Beautiful-Stories.png?w=650",
-      "publishedAt": "2026-09-02T08:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-WEtY29udHJvdmVyc3k",
-      "title": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
-      "description": "Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds to the Venice Biennale over the opening of Russia’s pavilion, likening it to “a punishment in kindergarten”. The Biennale drew heavy criticism this spring when it allowed Russia to use its pavilion for the first time since 2022, despite the ongoing full-scale invasion of Ukraine. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
-      "image": "https://i.guim.co.uk/img/media/032680b29cfbd0128ee751d2435d64e1aae45c2c/192_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfeee84450d9be085d414966deb6eca4",
-      "publishedAt": "2026-09-02T06:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-3ItZml2ZS1tb250aHM",
       "title": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
       "description": "He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar? Domhnall Gleeson has got so much new stuff coming up, someone recently joked that this was the “summer of Domhnall”. Now the phrase is all over the internet, and Gleeson is mortified: “The worry is that somebody will say this to me now thinking that I believe it.” He doesn’t know where it came from – possibly his co-star Gayle Rankin on his new movie The Incomer. “It’s certainly not something I’m trying to push … but it would be great if it could be the headline.” He’s in a good mood when we meet at a London hotel on a hot afternoon. You could say he’s good at interviews – charming, funny, garrulous, the perfect chatshow guest. He could just be acting , admittedly, but he seems to be a genuinely good-natured, grounded sort of guy. Continue reading...",
@@ -326,18 +350,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-y1hbnRpc2VtaXRpc20",
-      "title": "Todd Haynes and Wallace Shawn among signatories of letter backing Mark Ruffalo amid antisemitism charge",
-      "description": "More than 170 Jewish artists, also including Joel Coen, Hannah Einbinder and Miranda July, have supported the actor after he criticized Paramount A collective of more than 170 prominent Jewish artists and academics – including Todd Haynes , Joel Coen , Miranda July , Hannah Einbinder , Wallace Shawn and Naomi Klein – have signed an open letter supporting Mark Ruffalo . The actor had been accused of invoking antisemitic tropes after he criticized Paramount Skydance, the media company owned by David Ellison, a Donald Trump ally. Ruffalo had spoken out about the $111bn merger with Warner Bros Discovery (WBD). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/01/jewish-artist-support-mark-ruffalo-antisemitism",
-      "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc9f2ade962ed21dc9f0e2f86aa6355",
-      "publishedAt": "2026-09-01T18:42:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
