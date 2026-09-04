@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:30:09.904Z",
+  "generatedAt": "2026-09-04T16:29:07.929Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XQtMTIzNTIxMzc1Ni8",
+      "title": "Director Michael Dinner Loves a Challenge — and He Had Plenty of Them on ‘Silo’",
+      "description": "Dinner tells IndieWire about his work on the ambitious Apple TV series, which forced him to wrap his head around a complex backstory and thousands of visual effects shots.",
+      "url": "https://www.indiewire.com/features/podcast/michael-dinner-on-apple-tv-silo-filmmaker-toolkit-1235213756/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDSILO_G2170.jpg?w=650",
+      "publishedAt": "2026-09-04T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-dHJpYy1mYWNpbGl0eQ",
+      "title": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
+      "description": "Venice film festival Director Cédric Kahn combines compassion with coolly detailed forensic scrutiny in this genre-challenging film which puts a troubled love triangle at the centre of the story Veteran French director Cédric Kahn brings us a movie in a classic French vein: a docu-realist study of an institution, in this case a state psychiatric facility for teenagers between 15 and 18; with scenes in treatment suites, recreation areas, dorms and interview rooms. It’s something to compare perhaps with Laurent Cantet’s The Class , or Nicolas Philibert’s On the Adamant , or Canadian film-maker Denis Côte’s That Kind of Summer . Kahn’s film is powerful and committed, although sometimes the acting comes close to shouty improv youth theatre. The tone is of course one of compassion, combined with coolly detailed forensic scrutiny, though audiences might be intrigued at Kahn’s use of Purcell’s Funeral Sentences on the soundtrack, music notably used by Kubrick in A Clockwork Orange, a film in which delinquent youth are treated more roughly. Kahn himself plays one of the senior medical staff, part of the gallery of authority figures – doctors, nurses, orderlies, therapists and a nervous intern – who are almost as affected by the institutional drama as the troubled young people themselves. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility",
+      "image": "https://i.guim.co.uk/img/media/07497806616cca9ec590d9935b51cbc13d7e97eb/243_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b628955b8faea3de8a026cb77f5cfae1",
+      "publishedAt": "2026-09-04T15:00:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNDgxNS8",
+      "title": "‘15/18 (A Place to Heal)’ Review: A Taboo-Busting Dramedy Set Inside a Psychiatric Ward for Teens",
+      "description": "Cédric Kahn’s deftly handled film offers a searing but hilarious critique of life inside a French hospital.",
+      "url": "https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/15-18-ok.jpg?w=650",
+      "publishedAt": "2026-09-04T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LWRlYXRoLWhhbWxldA",
+      "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
+      "description": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his final performance as Hamlet, just months before his death, are less familiar. Now, a new film is bringing that haunting production back to life. Elsinore, directed by Simon Stone and starring Andrew Scott as the Scottish actor, will premiere at Telluride this weekend before opening the London film festival in October . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
+      "image": "https://i.guim.co.uk/img/media/ca3314382a104716e2002ac81b57bc7902b17f3c/0_827_2364_1890/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=787b443899bfc70619d3abf1709b860f",
+      "publishedAt": "2026-09-04T14:03:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-YtZGllcy1hZ2VkLTc3",
+      "title": "Latcho Drom director Tony Gatlif dies aged 77",
+      "description": "Film-maker acclaimed for his celebrations of Roma culture had been working on a ‘historical film project’ in Provence Tony Gatlif, the French director of more than 20 films that mostly concentrated on celebrating Roma culture across the world, has died aged 77. His family said in a statement to AFP that Gatlif died on Wednesday of “a health issue” while working on a “historical film project” in Arles in Provence, France. “The beauty of his films, his generosity, his joy, his poetry, and his love of music will remain with us forever.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "image": "https://i.guim.co.uk/img/media/2eacc9a4ce176888fc5a73655cb74fa77b21ef54/1408_220_1886_1509/master/1886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e0c25b1154b66fa1bc429d39ada86b",
+      "publishedAt": "2026-09-04T13:25:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-J5LTEyMzUyMTQ4MDgv",
+      "title": "‘Queer Edward II’ Review: Intimate Derek Jarman Documentary Channels the Power of Articulate, Angry and Artful Queer Protest",
+      "description": "Venice: BTS footage from the 1991 film “Edward II” is given urgent personal and political context in this electrifying debut feature.",
+      "url": "https://www.indiewire.com/criticism/movies/queer-edward-ii-review-derek-jarman-documentary-1235214808/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/queer_edward_ii.jpg?w=650",
+      "publishedAt": "2026-09-04T13:14:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "'Not only did I survive, I thrived' - Meera Syal",
+      "description": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0fae/live/8fafb3b0-a7b2-11f1-b5cf-8556ae508a51.png",
+      "publishedAt": "2026-09-04T12:28:31.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mFybWFuLWF0LXdvcms",
+      "title": "Queer Edward II review – funny, touching time capsule of Derek Jarman at work",
+      "description": "Venice film festival : Filmed during the making of his queer royal feature, while the director was living with HIV, the candid footage includes uproarious scenes at a Cliff Richard rehearsal There could hardly be a more vivid time-capsule film about the publicly funded British arts scene in the early 1990s than this engrossing fly-on-the-wall documentary about Derek Jarman and his movie Edward II. Based on the play by Christopher Marlowe, it is about the 14th-century English king and his love affair with his court favourite, Piers Gaveston, with Steven Waddington and Andrew Tiernan as the leads and Tilda Swinton as Queen Isabella. This film uses the tremendously funny and candid making-of footage shot at the time by Seamus McGarvey, who had worked as a camera assistant on earlier Jarman films War Requiem and The Garden, and whose distinguished career as a cinematographer lay ahead. Jarman emerges as an effortless leader with a beaming patrician authority, rather like David Lean or Richard Attenborough, the kind of chief whom subordinates instinctively wish to please while keeping from him the grubby problems that they themselves have to deal with, such as paying quarrelsome extras or handling tabloid press questions. Jarman had had his HIV diagnosis for five years at this stage, managing the situation with meds which McGarvey’s camera notices. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/queer-edward-ii-review-funny-touching-time-capsule-of-derek-jarman-at-work",
+      "image": "https://i.guim.co.uk/img/media/57546a02937c5f6b14d07f0f768bccbf7f364edc/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94f3644b4be8886f6b783c09c077ed22",
+      "publishedAt": "2026-09-04T12:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZXJpY2hvLXZlbmljZQ",
+      "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+      "description": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber, wood and adobe which is attended by around 300 Bedouin boys and girls. The Israeli authorities denied the villagers an official building permit and ruled that the entire settlement is illegal. For the past eight years the school has been operating under threat of imminent demolition, a symbol of resistance to widespread settler violence. It is only international pressure, says the veteran Israeli writer-director Amos Gitai, that has kept the place upright and still open. “The school has become a litmus paper. It is a test of how far the international community will go [to protect the rights of the people of Khan al-Ahmar]. For once, on this issue, Europe stood up and said no.” As for the future, who can tell? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+      "image": "https://i.guim.co.uk/img/media/ca14f57ef552cff8ac53e3505921b4d242227192/31_0_2089_1672/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8b63f2e1da77656d79f8468a34fedf1",
+      "publishedAt": "2026-09-04T11:55:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
       "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
@@ -28,20 +136,8 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-mQtZG9jdW1lbnRhcnk",
-      "title": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
-      "description": "In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitors For the past 26 years, some 22,000 blind and visually impaired schoolchildren from around the world have competed in the Braille Challenge: a literacy test against a loudly ticking clock. It has all the theater of a Model UN competition, all the stakes of a make-or-break standardized exam and young competitors from first grade through high school juggling their own expectations, ambitions and emotions – with a degree of difficulty that is surely unfathomable to most. Brailled It is a new film that immerses viewers in the ups and downs of the 2024 edition of the Braille Challenge, which saw more than 1,100 students descend on the University of Southern California campus. But instead of Emmy-winning director David Grabias steering a phalanx of camera and sound operators through the scenes, as he has done for past documentary projects on climate change and immigration policy, he strapped cameras to the competitors and left them to their own devices. “Every documentary is a collaboration, and you’re giving agency to your participants,” he says. “But this was: you’re going to go off and make the film, and we’ll help put it together .” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary",
-      "image": "https://i.guim.co.uk/img/media/b41c0396f2f24ae4365f67b2dd3d2286828d0a65/344_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fad010dba6020f8be0974b2aaf71d8a",
-      "publishedAt": "2026-09-04T09:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-XItMTIzNTIxNDU4Ni8",
-      "title": "George Clooney-Backed Lebanese Heist Thriller ‘Furies’ Set to Electrify Venice — Watch First Clip",
+      "title": "George Clooney-Backed Lebanese Heist Thriller ‘Furies,’ Produced by RT Features, Set to Electrify Venice — Watch First Clip",
       "description": "Exclusive: Director Rami Kodeih's exciting new feature follows two women who hatch a scheme to rob a Beirut bank, and take back their own money. Watch a first clip.",
       "url": "https://www.indiewire.com/news/festivals/furies-movie-venice-clip-george-clooney-heist-thriller-1235214586/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-4-1.jpeg?w=547",
@@ -64,18 +160,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-FsLXBhbmljLWZhYmxl",
-      "title": "Faces of Death review – rework of notorious video nasty turns horror voyeurism into moral panic fable",
-      "description": "A retelling of the 1978 ‘video nasty’ follows an online content moderator faced with steadily more appalling footage but reverts to generic bloodletting Emerging amid the original 1970s home-rental boom, John Alan Schwartz’s 1978 film Faces of Death was an ultra-morbid extension of the so-called “ mondo ” genre. Mashing up gruesome footage – much of it faked, some of it legit enough to provoke ghoulish chatter – it achieved sleepover notoriety and then received a further publicity boost upon making the DPP’s “video nasty” list. What comes now, nearly half a century later, is less a reboot than postmodern rethink. Daniel Goldhaber, who broke through with 2022’s tense social-activism thriller How to Blow Up a Pipeline , has patched some of the original’s images into a more conventional digital-age horror narrative that initially resembles an American equivalent of Prano Bailey-Bond’s Censor : a film worrying away at what our ravenous eyes now consume and how good it can really be for us. A thoroughly committed Barbie Ferreira plays Margot, a pill-popping content moderator sequestered within a tech firm’s faceless HQ, attaching appropriate warnings to user-generated footage. Off the clock, she’s dogged by memories (and viral footage) of a horrendous train-track trauma; her workload, meanwhile, gets even more challenging after repurposed Faces of Death clips creep on to her watchlist in pristine HD. Her supervisor (Jermaine Fowler) insists she should wave these through, as DIY horror is doing excellent numbers, but the situation intensifies once it becomes clear that a masked bad guy (Dacre Montgomery) is staging his own remake, involving real victims. More bodies drop, more pills are popped; and the project’s underlying intelligence, alas, begins to turn against itself. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/faces-of-death-review-rework-of-notorious-video-nasty-turns-horror-voyeurism-into-moral-panic-fable",
-      "image": "https://i.guim.co.uk/img/media/01c5d14803a39ac92397f95cdd1d65124bf75ec4/378_0_2505_2004/master/2505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=4d267b4ef5a49c0504b7b46fa3ab44a1",
-      "publishedAt": "2026-09-04T06:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
       "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
@@ -90,7 +174,7 @@
     {
       "id": "guardian-b3VyLWludGVydmlldw",
       "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
-      "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 83, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a grandfather, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
+      "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 84, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a grandfather, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
       "url": "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview",
       "image": "https://i.guim.co.uk/img/media/2d8d1583e7df0b44fd5e6e072443961d3c56f6d7/812_668_3504_2802/master/3504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=839239539e4e3c0bf8d7cddadda61ad2",
       "publishedAt": "2026-09-04T04:00:56.000Z",
@@ -160,18 +244,6 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-Z2lhbm5pLWFtZWxpbw",
-      "title": "Nessun Dolore review – sketchy Roman fable of liberal white guilt",
-      "description": "Venice film festival A white man’s eyes are opened to cruelty and racism when a young boy is thrust into his life in Gianni Amelio’s bold but ultimately naive drama From the heart of Rome, and broadly in an Italian tradition of sentimentalist realism, film-maker Gianni Amelio brings us a fairytale of the city, about the liberal white guilt of those who live a prosperous pain-free existence and those whom Frantz Fanon called the wretched of the earth. There is some incidental interest and the film is beautifully shot, but finally it buckles under the weight of its own preposterousness and naivety. It is also sketchy about how and why people go into and come out of prison; the final shot, a supposedly heartwarming visionary moment of redemption and reconciliation, looks absurd. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/nessun-dolore-review-painless-gianni-amelio",
-      "image": "https://i.guim.co.uk/img/media/1c06cb01cf32df129fd999e5cff64e20eaedcabc/0_316_2200_1760/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=8222bf43ffc76d3187c5868a9b160fad",
-      "publishedAt": "2026-09-03T20:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-eS0xMjM1MjE0NjIzLw",
       "title": "Inside Anonymous Content’s Comeback: A New CEO, a Controversial Elon Musk Doc, and Climate Change Drama ‘A Statement’ Have Hollywood Buzzing",
       "description": "New chief Darren Walker on the management and production company's big fall.",
@@ -182,18 +254,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-FydGluLW1jZG9uYWdo",
-      "title": "Wild Horse Nine review – Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-      "description": "Venice film festival Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
-      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b20f508970b55da4d0b004f6d15434c9",
-      "publishedAt": "2026-09-03T17:30:44.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-XctMTIzNTIxMzkxMi8",
@@ -218,18 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "guardian-VnYW5jZS1icmF0dG9u",
-      "title": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
-      "description": "Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutality Black people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdles on their path to the ballot box: 11 states in the south quickly introduced a poll tax requiring an annual fee to be allowed to vote. The practice unambiguously targeted poor Black communities in an early form of thinly veiled racist voter suppression. Vernon Dahmer wouldn’t stand for it. In January 1966 the Hattiesburg, Mississippi-based Black activist and NAACP chapter head promised to cover the fee for those struggling to afford it. “It’s a proclamation that we here, that we matter,” he says in an early scene in By Any Means, a considered, if blunt, drama inspired by the real-life aftermath of Dahmer’s murder by the Ku Klux Klan. It is Mississippi in the mid-60s and Wayne Strider (a sturdy Yahya Abdul-Mateen II ) is new to the local FBI unit, having recently moved back to his home state from Chicago, and is dealing with bosses who turn a blind eye to racist crimes. “White guys can get away with murder,” says one Black colleague while shaking his head. After his boss receives a message from President Johnson to prioritize the Dahmer murder case, Strider is teamed up with a widely feared mobster, Gregory Scarpa ( Mark Wahlberg with a rather distracting prosthetic nose), who has been shipped in from Brooklyn as part of an off-book mission to track down the Klansmen and bring justice to the killers. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton",
-      "image": "https://i.guim.co.uk/img/media/f9b5e5f43976d560de9f915724be8d8a0c23bc62/310_0_3250_2601/master/3250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd4f089126bf22534362db52f24117f2",
-      "publishedAt": "2026-09-03T16:00:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-XctMTIzNTIxNDQ2Ny8",
@@ -268,30 +316,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-NoLTEyMzUyMTM2MTIv",
-      "title": "Telluride 2026: New Movies Starring Andrew Scott, Julianne Moore, and John Malkovich Anchor This Year’s Likely Oscar Contenders",
-      "description": "The show will go on, festival director Julie Huntsinger told IndieWire, despite mudslides and intense competition for high-profile titles.",
-      "url": "https://www.indiewire.com/news/festivals/telluride-films-andrew-scott-julianne-moore-john-malkovich-1235213612/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/08/IMG_0388.jpeg?w=650",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIxNDU0Ny8",
-      "title": "‘Bucking Fastard’ Review: The Mara Sisters Commit to Werner Herzog’s Wonderfully Weird Bit as Lovestruck Twins Who Move and Speak in Unison",
-      "description": "Venice: The German fabulist's touching, eccentric, technically complex, and unclassifiable new film is destined to polarize.",
-      "url": "https://www.indiewire.com/criticism/movies/bucking-fastard-review-werner-herzog-mara-sisters-twins-1235214547/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bucking-Fastard.jpeg?w=650",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-EtYXdmdWwtdGhpbmdz",
       "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
       "description": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright and film-maker Martin McDonagh has said, as his Oscar-tipped film about a rueful CIA agent premieres at the Venice film festival. “I’ve been very interested in the truth of what the CIA has been doing over the last 60 years, and the awful things they’ve done all around the world,” McDonagh said about Wild Horse Nine, his first film since his 2022 tragicomedy The Banshees of Inisherin . “I think maybe something that’s not talked about enough. We know what the KGB are like, but we probably don’t question the CIA’s activity as much as we ought to.” Continue reading...",
@@ -301,18 +325,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjE0MjQyLw",
-      "title": "‘Mayday’ Directors John Francis Daley and Jonathan Goldstein on the Cold War Thriller and Their Plans for a ‘Dark’ ‘Star Trek’ Reboot",
-      "description": "The filmmakers tell IndieWire about turning Kenneth Branagh into an action hero, working with Ryan Reynolds and the scrapped \"Dungeons &#38; Dragons\" sequel.",
-      "url": "https://www.indiewire.com/features/interviews/mayday-john-francis-daley-jonathan-goldstein-dark-star-trek-reboot-1235214242/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Mayday_Photo_0110.jpg?w=650",
-      "publishedAt": "2026-09-03T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
