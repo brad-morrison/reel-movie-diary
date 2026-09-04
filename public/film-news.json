@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T16:29:07.929Z",
+  "generatedAt": "2026-09-04T20:50:57.939Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XctMTIzNTIxNDk1NC8",
+      "title": "‘Chronovisor’ Directors Measured Twice and Cut Film Once to Tell a Text-Based Thriller",
+      "description": "Directors Jack Auen and Kevin Walker tell IndieWire about using every page and graphic to spin a conspiracy thriller from the archival evidence of a time-travel hoax.",
+      "url": "https://www.indiewire.com/features/craft/chronovisor-directors-kevin-walker-jack-auen-interview-1235214954/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDCHRO_EC088.jpg?w=650",
+      "publishedAt": "2026-09-04T20:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE0ODA1Lw",
+      "title": "‘The Basics of Philosophy’ Review: Paul Schrader’s Lurid Study of a Predatory Intellectual Is Quietly Explosive, but Not Dangerous Enough",
+      "description": "Venice: Jack Huston plays a philosophy professor reliving his past sins in a Schrader provocation that finds the director confronting his own.",
+      "url": "https://www.indiewire.com/criticism/movies/the-basics-of-philosophy-review-paul-schrader-1235214805/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Basics-of-Philosophy-Jack-x-Sofia-Still.jpg.webp?w=650",
+      "publishedAt": "2026-09-04T19:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIxMzU2Mi8",
+      "title": "‘Furies’ Review: An Anarchic Lebanese Heist Thriller Blazes Past Borders and Genre Cliches",
+      "description": "Venice: George Clooney executive-produces this exuberantly directed and absorbing thriller about economic collapse in Beirut from director Rami Kodeih.",
+      "url": "https://www.indiewire.com/criticism/movies/furies-review-lebanese-heist-movie-1235213562/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-4-1.jpeg?w=547",
+      "publishedAt": "2026-09-04T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WMtMTIzNTIxNDgxNC8",
+      "title": "Abel Ferrara Only Went Hollywood Once, but It Resulted in a Horror Classic",
+      "description": "The maverick director of indie landmarks like \"King of New York\" and \"The Bad Lieutenant\" had a bad time in the studio system, but the movie that resulted — the 1993 horror film \"Body Snatchers\" — is a miracle of both personal expression and studio scale.",
+      "url": "https://www.indiewire.com/features/commentary/abel-ferrara-body-snatchers-studio-horror-classic-1235214814/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDBOSN_EC002.jpg?w=650",
+      "publishedAt": "2026-09-04T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE0ODcxLw",
+      "title": "‘Mr. Nelson, Did You Kill People?’ Review: Shinya Tsukamoto Directs a Bizarre Misfire About a Black Soldier in Vietnam",
+      "description": "Venice: Stilted dialogue, oppressive sound design, and a gawking cultural gaze yield one of the most unpleasant films of this year’s competition.",
+      "url": "https://www.indiewire.com/criticism/movies/mr-nelson-did-you-kill-people-review-1235214871/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-04-at-8.44.31-AM.png?w=650",
+      "publishedAt": "2026-09-04T17:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-XQtMTIzNTIxMzc1Ni8",
       "title": "Director Michael Dinner Loves a Challenge — and He Had Plenty of Them on ‘Silo’",
@@ -244,30 +304,6 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-eS0xMjM1MjE0NjIzLw",
-      "title": "Inside Anonymous Content’s Comeback: A New CEO, a Controversial Elon Musk Doc, and Climate Change Drama ‘A Statement’ Have Hollywood Buzzing",
-      "description": "New chief Darren Walker on the management and production company's big fall.",
-      "url": "https://www.indiewire.com/features/interviews/anonymous-content-comeback-elon-musk-documentary-1235214623/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/11/GettyImages-1232792592.jpg?w=650",
-      "publishedAt": "2026-09-03T18:09:57.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxMzkxMi8",
-      "title": "‘Wild Horse Nine’ Review: Martin McDonagh’s Prickly but Unconvincing CIA Satire Recasts ‘In Bruges’ as the Stuff of a Classic Western",
-      "description": "Venice: John Malkovich and Sam Rockwell are two CIA agents vacationing on Easter Island in McDonagh's sardonic look at American interventionism.",
-      "url": "https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/WHN-03439_V1.jpg?w=650",
-      "publishedAt": "2026-09-03T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Catherine Zeta-Jones praised by fans for using Welsh accent in TV series",
       "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
@@ -277,42 +313,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNDQ2Ny8",
-      "title": "‘By Any Means’ Review: Tragic American History Takes the Shape of Classic Buddy Cop Tropes",
-      "description": "Elegance Bratton directs Mark Wahlberg and Yahya Abdul-Mateen II in a film that selectively blends true events into entertaining popcorn fare.",
-      "url": "https://www.indiewire.com/criticism/movies/by-any-means-review-1235214467/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/BYANYMEANS_2024-04-23_EJA-01110_R.jpg?w=650",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE0Mzc2Lw",
-      "title": "‘Too Much Sugar’ Review: Robert Greene Continues Pushing Art as Therapy to New Heights",
-      "description": "Venice: This hybrid documentary about a self-aggrandizing Missouri man becomes an exploration of how the other people in his life are just as worthy of cinematic treatments.",
-      "url": "https://www.indiewire.com/criticism/movies/too-much-sugar-review-1235214376/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-02-at-12.20.37-PM.png?w=650",
-      "publishedAt": "2026-09-03T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjA4MDU0Lw",
-      "title": "‘La Bola Negra’: Before Netflix’s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors",
-      "description": "\"Los Javis\" are still creating films together, even after their 13-year romance died. \"There's a political statement behind creating a big, bold, gay, period, epic drama,\" Javier Ambrossi told IndieWire.",
-      "url": "https://www.indiewire.com/features/interviews/netflix-la-bola-negra-gay-epic-breakup-filmmakers-interview-oscars-1235208054/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/P106HD91.jpg?w=650",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "TV"
     },
     {
