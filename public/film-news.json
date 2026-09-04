@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:08:33.398Z",
+  "generatedAt": "2026-09-04T04:44:52.217Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-b3VyLWludGVydmlldw",
+      "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
+      "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 83, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a grandfather, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview",
+      "image": "https://i.guim.co.uk/img/media/2d8d1583e7df0b44fd5e6e072443961d3c56f6d7/812_668_3504_2802/master/3504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=839239539e4e3c0bf8d7cddadda61ad2",
+      "publishedAt": "2026-09-04T04:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMTQ2NDAv",
+      "title": "John Malkovich Could Finally Win an Oscar as ‘Wild Horse Nine’ Emerges as First Major Academy Awards Contender of the Fall",
+      "description": "After receiving raves at Venice, Martin McDonagh's latest spy comedy is the perfect showcase for two-time nominee John Malkovich.",
+      "url": "https://www.indiewire.com/news/festivals/john-malkovich-wild-horse-nine-best-actor-oscar-chances-1235214640/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2293370754.jpg?w=650",
+      "publishedAt": "2026-09-03T21:25:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-9uLTEyMzUyMTI5NjEv",
       "title": "From Assault Allegations to Fights Over Unpaid Bills: Bruin Theatre Chief Rui Pereira’s Scandals Go Back Years",
@@ -40,6 +64,18 @@
       "category": "Trailers"
     },
     {
+      "id": "guardian-Z2lhbm5pLWFtZWxpbw",
+      "title": "Nessun Dolore review – sketchy Roman fable of liberal white guilt",
+      "description": "Venice film festival A white man’s eyes are opened to cruelty and racism when a young boy is thrust into his life in Gianni Amelio’s bold but ultimately naive drama From the heart of Rome, and broadly in an Italian tradition of sentimentalist realism, film-maker Gianni Amelio brings us a fairytale of the city, about the liberal white guilt of those who live a prosperous pain-free existence and those whom Frantz Fanon called the wretched of the earth. There is some incidental interest and the film is beautifully shot, but finally it buckles under the weight of its own preposterousness and naivety. It is also sketchy about how and why people go into and come out of prison; the final shot, a supposedly heartwarming visionary moment of redemption and reconciliation, looks absurd. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/nessun-dolore-review-painless-gianni-amelio",
+      "image": "https://i.guim.co.uk/img/media/1c06cb01cf32df129fd999e5cff64e20eaedcabc/0_316_2200_1760/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=8222bf43ffc76d3187c5868a9b160fad",
+      "publishedAt": "2026-09-03T20:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-eS0xMjM1MjE0NjIzLw",
       "title": "Inside Anonymous Content’s Comeback: A New CEO, a Controversial Elon Musk Doc, and Climate Change Drama ‘A Statement’ Have Hollywood Buzzing",
       "description": "New chief Darren Walker on the management and production company's big fall.",
@@ -53,8 +89,8 @@
     },
     {
       "id": "guardian-FydGluLW1jZG9uYWdo",
-      "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-      "description": "Venice film festival: Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
+      "title": "Wild Horse Nine review – Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "description": "Venice film festival Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
       "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b20f508970b55da4d0b004f6d15434c9",
       "publishedAt": "2026-09-03T17:30:44.000Z",
@@ -88,6 +124,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-VnYW5jZS1icmF0dG9u",
+      "title": "By Any Means review – Mark Wahlberg and Yahya Abdul-Mateen II drama provokes with horror of 1960s racism",
+      "description": "Elegance Bratton’s civil rights drama in the Jim Crow south confronts you with almost unbearable brutality Black people officially won the unrestricted right to vote in the US in 1965 but many still encountered hurdles on their path to the ballot box: 11 states in the south quickly introduced a poll tax requiring an annual fee to be allowed to vote. The practice unambiguously targeted poor Black communities in an early form of thinly veiled racist voter suppression. Vernon Dahmer wouldn’t stand for it. In January 1966 the Hattiesburg, Mississippi-based Black activist and NAACP chapter head promised to cover the fee for those struggling to afford it. “It’s a proclamation that we here, that we matter,” he says in an early scene in By Any Means, a considered, if blunt, drama inspired by the real-life aftermath of Dahmer’s murder by the Ku Klux Klan. It is Mississippi in the mid-60s and Wayne Strider (a sturdy Yahya Abdul-Mateen II ) is new to the local FBI unit, having recently moved back to his home state from Chicago, and is dealing with bosses who turn a blind eye to racist crimes. “White guys can get away with murder,” says one Black colleague while shaking his head. After his boss receives a message from President Johnson to prioritize the Dahmer murder case, Strider is teamed up with a widely feared mobster, Gregory Scarpa ( Mark Wahlberg with a rather distracting prosthetic nose), who has been shipped in from Brooklyn as part of an off-book mission to track down the Klansmen and bring justice to the killers. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-elegance-bratton",
+      "image": "https://i.guim.co.uk/img/media/f9b5e5f43976d560de9f915724be8d8a0c23bc62/310_0_3250_2601/master/3250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd4f089126bf22534362db52f24117f2",
+      "publishedAt": "2026-09-03T16:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-XctMTIzNTIxNDQ2Ny8",
       "title": "‘By Any Means’ Review: Tragic American History Takes the Shape of Classic Buddy Cop Tropes",
       "description": "Elegance Bratton directs Mark Wahlberg and Yahya Abdul-Mateen II in a film that selectively blends true events into entertaining popcorn fare.",
@@ -109,6 +157,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-hhcGxpbi1zaXN0ZXJz",
+      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
+      "description": "Venice film festival: Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama Werner Herzog is such a unique film-maker that even a dud from him has some interest, but sadly a dud is what this is. It is a fiction feature based on a true story which – despite a few laughs – systematically wastes the audience’s time, as well as the talents of its formidable female leads, real-life sisters Rooney and Kate Mara. You can almost feel this pointless, aimless film making it up as it goes along, losing its way, line by line, scene by scene. It is inspired by the story of twins Freda and Greta Chaplin from York in the UK; they eerily spoke in unison and in the 1980s were the subject of a highly publicised court case for harassing a neighbour. Herzog’s movie transplants their story to Ireland, in which the Maras play weirdly but comically interdependent sisters Jean and Joan Holbrook whose lives are sent in all sorts of loopy directions. Orlando Bloom plays the roguish neighbour who breaks the women’s hearts (Herzog imagines them as a short-lived throuple), and Domhnall Gleeson is a caring social worker who tries to make them less dysfunctional by taking their case after they move away from the scene of their sexual resentment and legal shame. (During the trial they shout out the spoonerism of the title.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
+      "image": "https://i.guim.co.uk/img/media/53104fe19e0d47cffed48247933dbc592ea18b33/289_0_2524_2019/master/2524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=cedb8289030cdfab9f40d66eb6af1060",
+      "publishedAt": "2026-09-03T15:00:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -208,18 +268,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-9jLTEyMzUyMTQ1MzYv",
-      "title": "‘Everest: The Other Side’ Review: A Grieving Ski Mountaineer Scales the Face of Death in Chai Vasarhelyi and Jimmy Chin’s Climbing Doc",
-      "description": "Venice: Haunted by tragedies this NatGeo doc never flinches at, Jim Morrison makes the dangerous attempt to climb up and ski down the Everest's North Face in another spellbinding chronicle from the Oscar-winning \"Free Solo\" team.",
-      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/everest_the_other_side.jpg?w=600",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
       "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
@@ -244,30 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-13aGFsZS1taXNzaW9u",
-      "title": "Star Trek IV: The Voyage Home review – Kirk, Spock and co on semi-intentionally hilarious save-the-whale mission",
-      "description": "Our heroes travel back through time to San Francisco in 1986 so they can commune with aliens threatening future Earth – it’s preposterously good fun Here is the fourth and silliest movie in the Star Trek franchise, now on rerelease for its 40th anniversary. Directed by Leonard Nimoy, it’s a film of pure shark-jumping or rather whale-jumping absurdity. The film’s opening credits proclaim, with sublime confidence in its own unquestioned pop-cultural importance in the field of space travel, that Star Trek IV is dedicated to the crew of the space shuttle Challenger, which had that year catastrophically exploded midair, killing all seven of them. Spock has been brought back to life, as the apparent end result of all the bizarre metempsychotic plot contortions of the previous film. But the permanent and irrevocable death of Kirk’s son seems to be passed over remarkably casually. The eerie boyishness of Shatner’s Kirk, with that beaming smile, almost makes you forget that he has been through an agonising bereavement. Hasn’t he? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/star-trek-iv-the-voyage-home-review-kirk-spock-and-co-on-semi-intentionally-hilarious-save-the-whale-mission",
-      "image": "https://i.guim.co.uk/img/media/f05955e6602167277eaf271a3ace07db7f70b8c8/174_0_1491_1193/master/1491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=62175fc54ca3d73fda117faa85dbe0c2",
-      "publishedAt": "2026-09-03T08:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cnN0LXN1cGVyc3Rhcg",
-      "title": "Lomu review – fascinatingly nuanced tribute to rugby’s first superstar",
-      "description": "His destructive pace and power changed the game for ever, but behind the fame and impassive exterior of this gentle giant was a life of chaos and emotional discord There’s an inevitable air of melancholy overhanging this profile of New Zealand rugby star Jonah Lomu; we all know how the story ended for this magnificent human specimen, who died in 2015 aged 40 as a result of a longterm kidney disorder. Lomu, of course, became a legend of the game after breaking into the All Blacks side – the ferociously high-achieving New Zealand national team, for anyone outside the rugby-appreciating universe – at the scarcely believable age of 19; his special combination of a tank-like physique, electric pace and ability to slalom at high speed gave him an almost unstoppable force in what is arguably the toughest contact sport of all. Lomu had the bulk and power of a forward (I liked the detail that he was sometimes drafted into the back of the scrum when they needed “more power”) but he was set loose on the wing, where he was twice the speed and three times the size of everyone else, and where his destructive instincts could wreak havoc. Well, modern rugby appears to have learned the Lomu lesson; everyone has bulked up – so its arguable whether he would have the same impact today. But as this film underlines, there was a lot more to Lomu’s story than steamrolling the hapless English backline; he had a complicated relationship both with his Tongan heritage and his superstar status, the combination of which seemed to overwhelm him. Interestingly, this film (directed by Gavin Fitzgerald and Vea Mafile’o) initially appears to push the by-now customary idea that Lomu’s Indigenous heritage was an ineffable source of strength, wisdom and insight; however it soon becomes clear that this wasn’t entirely the case. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/lomu-review-fascinatingly-nuanced-tribute-to-rugbys-first-superstar",
-      "image": "https://i.guim.co.uk/img/media/3bb8df19aa4399396c0c16c47714f4170a27b2b5/459_0_4082_3266/master/4082.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7ffad7e66a8466ff780f3363d710df8c",
-      "publishedAt": "2026-09-03T06:00:45.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
       "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
@@ -280,16 +304,16 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1qYWNrLW9jb25uZWxs",
-      "title": "Ink review – Danny Boyle turns the birth of the Sun into a lurid tabloid frenzy",
-      "description": "Venice film festival Jack O’Connell is terrific as editor Larry Lamb in James Graham’s tale of Rupert Murdoch, Page 3 and the newspaper that transformed Fleet Street Danny Boyle presents us with a lurid, violent and thumpingly unsubtle movie full of Dutch angles, cartoony shocks and gargoyle closeups. It’s a chapter in the prehistory of modern media, adapted by James Graham from his 2017 stage play , filled with shame and fear and self-hate. It is in fact the story of the Sun newspaper, and how Rupert Murdoch (Guy Pearce) bought the ailing minor title in the late 60s and hired a tough Yorkshire newspaperman, Larry Lamb, to turn it into a raucous and gleefully vulgar circulation powerhouse. Ink summons up the energy and frenzy of tabloid papers of the era, but also – and not entirely intentionally – how strangely depressing they were. Audiences used to the super-rich anomie of the Roy family from TV’s Succession might find all this very unsexy. This is a world of officer-class Fleet Street execs having expense-account meals at Rules and the Savoy Grill in pinstripe suits, smoking and drinking and impassively writing salary offers on paper napkins and silently passing them across to each other. Meanwhile, the other ranks of journalists and print unions are covered in sweat and ink. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/ink-review-danny-boyle-jack-oconnell",
-      "image": "https://i.guim.co.uk/img/media/9c701fbda497b1678ae80db95e6a4e938dbff1ff/59_0_1600_1280/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c72582edf6f7259f6a4bbfbcb1f85058",
-      "publishedAt": "2026-09-02T18:24:34.000Z",
+      "id": "guardian-WZpbG0tZmVzdGl2YWw",
+      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
+      "description": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”. Kristy Matheson’s comments came as LFF announced its full programme for this year’s event, which runs from 7 to 19 October. Of the 251 titles, 109 (43%) are made by female film-makers, but only two of the 21 gala films are directed by women. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
+      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545",
+      "publishedAt": "2026-09-02T18:00:07.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Movies"
     },
     {
       "id": "guardian-VldC1iaW9waWMtaW5r",
@@ -326,18 +350,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-WZpbG0tZmVzdGl2YWw",
-      "title": "‘He was always a bit of a groundbreaker’: David Bowie enters a new dimension in ‘extended reality’ documentary",
-      "description": "Hundreds of unseen images of the star feature at the Venice film festival, alongside virtual worlds exploring wildfires, wolves and the birth of stars David Bowie shares the bill with starmen, firefighters and Walt Disney wolves at the 10th anniversary edition of Venice Immersive, the film festival’s pioneering showcase for new forms of storytelling. David Bowie: Unseen Unheard – a 3D documentary featuring hundreds of previously unseen images – is among 69 XR (extended reality) pieces playing at the event’s regular base on Lazzaretto Vecchio, a repurposed small island off the Venice Lido. Venice Immersive’s 10th birthday marks a milestone for an event which aims to provide a bridge between emergent technology and traditional narrative cinema. But the programme’s organisers are at pains to emphasise the ongoing scope of a project that has in recent years prompted similar sections at the Cannes, Geneva and Toronto film festivals. “This is not a retrospective,” declares the official festival blurb that welcomes guests to the island. It almost sounds like a warning. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/david-bowie-unseen-unheard-documentary-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/94f05bec8534008a5b3bcb0259e4bf0c09ddd536/130_39_2067_1654/master/2067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63a1a8fb607a0bab3b39c25c6644d744",
-      "publishedAt": "2026-09-02T10:36:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-3ItZml2ZS1tb250aHM",
@@ -386,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-GwtbW9udHktc3RyaXA",
-      "title": "Robert Carlyle: ‘When we did The Full Monty strip, the reaction from the crowd was terrifying’",
-      "description": "The actor on which star he’d devour first on a lifeboat, why he prefers pigeons to dogs and how Trainspotting put the Scottish accent on the map You’re stranded on a lifeboat with Ewan McGregor , Ewen Bremner , Jonny Lee Miller , Kevin McKidd , Peter Mullan , James Cosmo , Keith Allen and Irvine Welsh . Who do you eat first? DarkAnaemicI77 I suppose you have to think about who’s the healthiest and has looked after their body best. I reckon Ewan would be a wee bit too chewy, and Irvine a wee bit pickled. I’ll go for Kevin McKidd because he’s been out in LA for 20 years, eating good food. Did you really not like Zippy the West Highland terrier who played Wee Jock in Hamish Macbeth ? Campbell97 Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/27/robert-carlyle-interview-full-monty-strip",
-      "image": "https://i.guim.co.uk/img/media/a7216b844b2eddd1e5187ee6236aa73ff33599d1/0_480_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=576db5ce9c03dd6c45e6b4f9776e1002",
-      "publishedAt": "2026-08-27T14:00:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
