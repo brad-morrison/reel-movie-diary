@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T04:44:52.217Z",
+  "generatedAt": "2026-09-04T11:30:09.904Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-S1nb3QtdGhlLWNob3A",
+      "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "description": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ripped apart in order to create space for James Gunn and Peter Safran’s brand-new DCU. We almost certainly did need a clean break from the likes of Ben Affleck (Batman) and Henry Cavill (Superman), if only to persuade audiences that this really was a proper reboot. The question, as Gal Gadot may have been pondering this week, is quite why some of the old universe’s supporting players were smuggled safely into the new continuity while others were left sprawling amid the ruins. Speaking on the Happy Sad Confused podcast , Gadot, who starred in two solo Wonder Woman movies for director Patty Jenkins, revealed that nobody at DC Studios ever formally told her she had been dropped. One minute, Gadot says, she was being assured by Gunn and Safran that they would develop a third instalment with her; the next, she was looking on in mounting alarm as the entire infrastructure of the previous DC continuum was blown to smithereens. “They were like, ‘We’re going to develop it with you, the third one,’” she said. “But I saw the way everybody else was handled, right? And I, you know – the Henry [Cavill] situation was unfortunate. I was in the middle of that. The Henry situation was not handled elegantly, to say the least. Same with Patty – it was not handled elegantly.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
+      "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bd3429b51214bb7674b201763edfbfdf",
+      "publishedAt": "2026-09-04T10:19:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mQtZG9jdW1lbnRhcnk",
+      "title": "A remarkable documentary made by blind students: ‘We were stunned by the footage’",
+      "description": "In Brailled It, the tension and stakes of the annual Braille Challenge are brought to the screen by three of the competitors For the past 26 years, some 22,000 blind and visually impaired schoolchildren from around the world have competed in the Braille Challenge: a literacy test against a loudly ticking clock. It has all the theater of a Model UN competition, all the stakes of a make-or-break standardized exam and young competitors from first grade through high school juggling their own expectations, ambitions and emotions – with a degree of difficulty that is surely unfathomable to most. Brailled It is a new film that immerses viewers in the ups and downs of the 2024 edition of the Braille Challenge, which saw more than 1,100 students descend on the University of Southern California campus. But instead of Emmy-winning director David Grabias steering a phalanx of camera and sound operators through the scenes, as he has done for past documentary projects on climate change and immigration policy, he strapped cameras to the competitors and left them to their own devices. “Every documentary is a collaboration, and you’re giving agency to your participants,” he says. “But this was: you’re going to go off and make the film, and we’ll help put it together .” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/brailled-it-blind-documentary",
+      "image": "https://i.guim.co.uk/img/media/b41c0396f2f24ae4365f67b2dd3d2286828d0a65/344_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fad010dba6020f8be0974b2aaf71d8a",
+      "publishedAt": "2026-09-04T09:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxNDU4Ni8",
+      "title": "George Clooney-Backed Lebanese Heist Thriller ‘Furies’ Set to Electrify Venice — Watch First Clip",
+      "description": "Exclusive: Director Rami Kodeih's exciting new feature follows two women who hatch a scheme to rob a Beirut bank, and take back their own money. Watch a first clip.",
+      "url": "https://www.indiewire.com/news/festivals/furies-movie-venice-clip-george-clooney-heist-thriller-1235214586/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-4-1.jpeg?w=547",
+      "publishedAt": "2026-09-04T07:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-RlbWVudGlhLWRyYW1h",
+      "title": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
+      "description": "Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition rarely seen on screen The first time we see Martin and Leslie, the elderly couple at the centre of Lance Hammer’s wrenching new film, Queen at Sea, they are walking together up a set of stone steps: one of their regular outings, we assume, in days filled with pottering and quiet companionship. They have their backs to us, and we can’t see their destination beyond a bleached sky that fills the top half of the screen. Symbolically, it may be deemed a bit on the nose: two people near the end of their lives, moving gently towards the white light of oblivion. There’s a whiff of sentimentality about it. But any doubts about this story’s willingness to confront difficult truths are blasted away by the next scene. Leslie’s daughter, Amanda, played by Juliette Binoche, pays a visit to the couple’s house in drizzly, middle-class north London, her teenage daughter in tow. Unable to find her mother and stepfather, she arrives at the bedroom door. Opening it, she finds Martin (Tom Courtenay) on top of Leslie (Anna Calder-Marshall), who lies impassively beneath him, the mask of dementia obvious on her face. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama",
+      "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/521_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced5526df0b2acbfc026b814f5a72ded",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FsLXBhbmljLWZhYmxl",
+      "title": "Faces of Death review – rework of notorious video nasty turns horror voyeurism into moral panic fable",
+      "description": "A retelling of the 1978 ‘video nasty’ follows an online content moderator faced with steadily more appalling footage but reverts to generic bloodletting Emerging amid the original 1970s home-rental boom, John Alan Schwartz’s 1978 film Faces of Death was an ultra-morbid extension of the so-called “ mondo ” genre. Mashing up gruesome footage – much of it faked, some of it legit enough to provoke ghoulish chatter – it achieved sleepover notoriety and then received a further publicity boost upon making the DPP’s “video nasty” list. What comes now, nearly half a century later, is less a reboot than postmodern rethink. Daniel Goldhaber, who broke through with 2022’s tense social-activism thriller How to Blow Up a Pipeline , has patched some of the original’s images into a more conventional digital-age horror narrative that initially resembles an American equivalent of Prano Bailey-Bond’s Censor : a film worrying away at what our ravenous eyes now consume and how good it can really be for us. A thoroughly committed Barbie Ferreira plays Margot, a pill-popping content moderator sequestered within a tech firm’s faceless HQ, attaching appropriate warnings to user-generated footage. Off the clock, she’s dogged by memories (and viral footage) of a horrendous train-track trauma; her workload, meanwhile, gets even more challenging after repurposed Faces of Death clips creep on to her watchlist in pristine HD. Her supervisor (Jermaine Fowler) insists she should wave these through, as DIY horror is doing excellent numbers, but the situation intensifies once it becomes clear that a masked bad guy (Dacre Montgomery) is staging his own remake, involving real victims. More bodies drop, more pills are popped; and the project’s underlying intelligence, alas, begins to turn against itself. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/faces-of-death-review-rework-of-notorious-video-nasty-turns-horror-voyeurism-into-moral-panic-fable",
+      "image": "https://i.guim.co.uk/img/media/01c5d14803a39ac92397f95cdd1d65124bf75ec4/378_0_2505_2004/master/2505.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=4d267b4ef5a49c0504b7b46fa3ab44a1",
+      "publishedAt": "2026-09-04T06:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg",
+      "publishedAt": "2026-09-04T04:06:41.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-b3VyLWludGVydmlldw",
       "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
@@ -26,6 +98,30 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+      "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg",
+      "publishedAt": "2026-09-04T00:34:18.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
+      "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c1c/live/c6206300-a603-11f1-83fc-0df57e6b3866.jpg",
+      "publishedAt": "2026-09-03T23:00:34.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-VzLTEyMzUyMTQ2NDAv",
@@ -113,10 +209,10 @@
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Fans praise Catherine Zeta-Jones for using her Welsh accent in new series",
+      "title": "Catherine Zeta-Jones praised by fans for using Welsh accent in TV series",
       "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
       "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6ac1/live/3a9b2fc0-a7a4-11f1-a7ad-37a1f7dc081c.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/874e/live/a17bd8d0-a834-11f1-b3a7-d5de760fef6e.png",
       "publishedAt": "2026-09-03T17:03:12.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -157,18 +253,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-hhcGxpbi1zaXN0ZXJz",
-      "title": "Bucking Fastard review – Herzog’s starry twins soap provokes a syncing feeling",
-      "description": "Venice film festival: Rooney and Kate Mara play the real-life Chaplin sisters who spoke in unsettling unison in this silly, pointless drama Werner Herzog is such a unique film-maker that even a dud from him has some interest, but sadly a dud is what this is. It is a fiction feature based on a true story which – despite a few laughs – systematically wastes the audience’s time, as well as the talents of its formidable female leads, real-life sisters Rooney and Kate Mara. You can almost feel this pointless, aimless film making it up as it goes along, losing its way, line by line, scene by scene. It is inspired by the story of twins Freda and Greta Chaplin from York in the UK; they eerily spoke in unison and in the 1980s were the subject of a highly publicised court case for harassing a neighbour. Herzog’s movie transplants their story to Ireland, in which the Maras play weirdly but comically interdependent sisters Jean and Joan Holbrook whose lives are sent in all sorts of loopy directions. Orlando Bloom plays the roguish neighbour who breaks the women’s hearts (Herzog imagines them as a short-lived throuple), and Domhnall Gleeson is a caring social worker who tries to make them less dysfunctional by taking their case after they move away from the scene of their sexual resentment and legal shame. (During the trial they shout out the spoonerism of the title.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/bucking-fastard-review-werner-herzog-rooney-kate-mara-chaplin-sisters",
-      "image": "https://i.guim.co.uk/img/media/53104fe19e0d47cffed48247933dbc592ea18b33/289_0_2524_2019/master/2524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=cedb8289030cdfab9f40d66eb6af1060",
-      "publishedAt": "2026-09-03T15:00:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -232,42 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-5kLTEyMzUyMTQxNzAv",
-      "title": "Fans Will Always Argue About Who Is the Best James Bond, but ‘Live and Let Die’ Makes the Answer Clear",
-      "description": "The 1973 cross between spy movie and Blaxploitation flick, which screens in 35mm this weekend at Quentin Tarantino's Vista Theater, marked Roger Moore's debut as Bond and set the tone for over a decade of great entertainment to follow.",
-      "url": "https://www.indiewire.com/features/commentary/live-and-let-die-roger-moore-best-james-bond-1235214170/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDLIAN_EC042.jpg?w=650",
-      "publishedAt": "2026-09-03T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-i1wcmlzb24tZ3VhcmQ",
-      "title": "Falling House review – fierce tale of an Iranian prison guard holding his family hostage",
-      "description": "Venice film festival: Mohsen Gharaei’s powerfully acted domestic drama watches as the failing patriarch attempts to contain family rebellion Iran is a prison and everybody is inside: cons and non-cons; parents and their children. That’s the message hammered home, never subtly but with terrific force and conviction, throughout the course of Mohsen Gharaei’s hothouse domestic drama, which plays in the Orizzonti section in Venice. It’s about a low-level jailer, crushed by life, who returns from the day job and proceeds to incarcerate his own family. He does so out of love and to reassert his authority, to protect his wife and kids from the world and from their own foolish notions. For him, it’s a bone-headed busman’s holiday. For his family, it’s a nightmarish tragicomic staycation. Veteran Iranian actor Farhad Aslani is perfectly cast as Rashid Hafizhi, Gharaei’s misguided prison guard. Rashid is a burly bear of a man who nonetheless carries an air of bewilderment and defeat, as though he’s smart enough to know that everyone in the vicinity is just that little bit smarter than him. He’s been falsely accused of aiding and abetting a jailbreak and is facing imminent eviction from his rented family home. Then, just when it seems his day can’t get any worse, Rashid learns that his cherished eldest daughter, Ensi (Laleh Marzban), is planning to run off to seek work as a model in Turkey. Modelling in Iran is a non-starter, she explains. Ensi has to cover her arms and neck for each job, while the power supply is so unstable and the lights have a tendency to cut out in the middle of a photoshoot. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/falling-house-review-mohsen-gharaei-iran-prison-guard",
-      "image": "https://i.guim.co.uk/img/media/eb60534c1de15a4dfab1eb285f507e7652c48f8e/622_0_2957_2366/master/2957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=50ca4be5db28cc5c25416df0c10bd499",
-      "publishedAt": "2026-09-03T12:15:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-W4tZmlsbS1yYW5rZWQ",
-      "title": "Tall tales: the 20 best giants in film – ranked!",
-      "description": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG , alas, but one of Steven Spielberg’s worst films, reducing Roald Dahl’s story to digital pap. Mo-cap Mark Rylance, whose cutesy ungrammatical babbling should have been left on the printed page, is the 24ft Big Friendly Giant who kidnaps an orphan girl, Sophie. Ugh. Big Creepy Giant, more like. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
-      "image": "https://i.guim.co.uk/img/media/f3a807684f26412f9913f7d5df30939f7b5cfa03/1069_4_3921_3136/master/3921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=587daaa43f843a49705702f7a97b3004",
-      "publishedAt": "2026-09-03T12:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
       "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
@@ -286,18 +334,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
       "publishedAt": "2026-09-03T09:37:34.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg",
-      "publishedAt": "2026-09-02T23:47:02.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -334,18 +370,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger",
       "image": "https://i.guim.co.uk/img/media/2fc05e47101ed329d255ab0edc1316a8976fa59e/220_90_5599_4478/master/5599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a464e18fa1cb7c4965f92cc66c185c3",
       "publishedAt": "2026-09-02T15:08:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-W0td2l0aC1zZXhpc20",
-      "title": "Maggie Gyllenhaal says film industry has a ‘systemic problem’ with sexism",
-      "description": "Speaking at the opening of the Venice film festival, the actor-director addressed why the jury of which she is chair will only be shown two films made by female film-makers Maggie Gyllenhaal said there is a “systemic problem” that explains why only two female directors are in the running for the Golden Lion at the Venice film festival this year. “It’s harder for women to get films financed,” said the actor-director, who is heading up the jury of the world’s oldest cinema showcase this year. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/maggie-gyllenhaal-says-film-industry-has-a-systemic-problem-with-sexism",
-      "image": "https://i.guim.co.uk/img/media/2b6844dc580de889a8e9a0cee0e970cc5e497c93/483_511_3944_3156/master/3944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbcfe05e1221849bc7cdcf1d95fd6019",
-      "publishedAt": "2026-09-02T14:26:32.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
