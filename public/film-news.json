@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T10:44:40.653Z",
+  "generatedAt": "2026-09-05T15:20:53.493Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-FpLTEyMzUyMDYxMTAv",
+      "title": "What I Learned Watching Six Hours of Gen-AI Short Films for the Reply AI Film Festival",
+      "description": "IndieWire's Brian Welk reflects on his experience as a jury member for the upcoming AI film festival taking place in Venice.",
+      "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650",
+      "publishedAt": "2026-09-05T15:12:10.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VuLTEyMzUyMTUwNjgv",
+      "title": "‘Primetime’ Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating ‘To Catch a Predator’ Thriller",
+      "description": "Venice: Lance Oppenheim scuzzies up his fiction feature debut about hidden-camera, reality-TV exploitation with a grim style and often twisted performances from Merritt Wever, Skyler Gisondo, and singer/songwriter Phoebe Bridgers.",
+      "url": "https://www.indiewire.com/criticism/movies/a24-primetime-movie-review-robert-pattinson-chris-hansen-1235215068/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-1.png?w=650",
+      "publishedAt": "2026-09-05T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTUwNzYv",
+      "title": "‘Citizen Osama’ Review: A Direct, Disarming View of Daily Horrors in Gaza from the POV of a Journalist and New Father",
+      "description": "Venice: Filmed in secret, Ahmed Hassouna’s discerning doc wears its heart unassumingly on its sleeve and holds its no-frills camera setup sturdily in its hands.",
+      "url": "https://www.indiewire.com/criticism/movies/citizen-osama-review-1235215076/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/al_mowaten_osama_citizen_osama-1.jpg?w=650",
+      "publishedAt": "2026-09-05T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjE1MDg0Lw",
+      "title": "‘The Row’ Review: One Man’s Tragedy-Inspired Voyages Across the Pacific Are Turned Into a Branding Exercise",
+      "description": "Telluride: Tez Steinberg’s two solo rowing expeditions are impressive, even if Bryan Fogel’s profile feels unexamined.",
+      "url": "https://www.indiewire.com/criticism/movies/the-row-review-telluride-documentary-1235215084/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-10.20.59-AM.png?w=650",
+      "publishedAt": "2026-09-05T14:33:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZS1yb29uZXktbWFyYQ",
+      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333b08359550864299def07f653a62d5",
+      "publishedAt": "2026-09-05T12:15:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-HQtMTIzNTIxNDU4NC8",
       "title": "‘Elsinore’ Review: Andrew Scott’s Towering Performance as a Dying Actor Can’t Overcome AIDS-Movie Awards Bait Clichés",
@@ -148,54 +208,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-WUtMTIzNTIxMzU2Mi8",
-      "title": "‘Furies’ Review: An Anarchic Lebanese Heist Thriller Blazes Past Borders and Genre Cliches",
-      "description": "Venice: George Clooney executive-produces this exuberantly directed and absorbing thriller about economic collapse in Beirut from director Rami Kodeih.",
-      "url": "https://www.indiewire.com/criticism/movies/furies-review-lebanese-heist-movie-1235213562/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-4-1.jpeg?w=547",
-      "publishedAt": "2026-09-04T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WMtMTIzNTIxNDgxNC8",
-      "title": "Abel Ferrara Only Went Hollywood Once, but It Resulted in a Horror Classic",
-      "description": "The maverick director of indie landmarks like \"King of New York\" and \"The Bad Lieutenant\" had a bad time in the studio system, but the movie that resulted — the 1993 horror film \"Body Snatchers\" — is a miracle of both personal expression and studio scale.",
-      "url": "https://www.indiewire.com/features/commentary/abel-ferrara-body-snatchers-studio-horror-classic-1235214814/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDBOSN_EC002.jpg?w=650",
-      "publishedAt": "2026-09-04T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE0ODcxLw",
-      "title": "‘Mr. Nelson, Did You Kill People?’ Review: Shinya Tsukamoto Directs a Bizarre Misfire About a Black Soldier in Vietnam",
-      "description": "Venice: Stilted dialogue, oppressive sound design, and a gawking cultural gaze yield one of the most unpleasant films of this year’s competition.",
-      "url": "https://www.indiewire.com/criticism/movies/mr-nelson-did-you-kill-people-review-1235214871/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-04-at-8.44.31-AM.png?w=650",
-      "publishedAt": "2026-09-04T17:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XQtMTIzNTIxMzc1Ni8",
-      "title": "Director Michael Dinner Loves a Challenge — and He Had Plenty of Them on ‘Silo’",
-      "description": "Dinner tells IndieWire about his work on the ambitious Apple TV series, which forced him to wrap his head around a complex backstory and thousands of visual effects shots.",
-      "url": "https://www.indiewire.com/features/podcast/michael-dinner-on-apple-tv-silo-filmmaker-toolkit-1235213756/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/TCDSILO_G2170.jpg?w=650",
-      "publishedAt": "2026-09-04T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-dHJpYy1mYWNpbGl0eQ",
       "title": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
       "description": "Venice film festival Director Cédric Kahn combines compassion with coolly detailed forensic scrutiny in this genre-challenging film which puts a troubled love triangle at the centre of the story Veteran French director Cédric Kahn brings us a movie in a classic French vein: a docu-realist study of an institution, in this case a state psychiatric facility for teenagers between 15 and 18; with scenes in treatment suites, recreation areas, dorms and interview rooms. It’s something to compare perhaps with Laurent Cantet’s The Class , or Nicolas Philibert’s On the Adamant , or Canadian film-maker Denis Côte’s That Kind of Summer . Kahn’s film is powerful and committed, although sometimes the acting comes close to shouty improv youth theatre. The tone is of course one of compassion, combined with coolly detailed forensic scrutiny, though audiences might be intrigued at Kahn’s use of Purcell’s Funeral Sentences on the soundtrack, music notably used by Kubrick in A Clockwork Orange, a film in which delinquent youth are treated more roughly. Kahn himself plays one of the senior medical staff, part of the gallery of authority figures – doctors, nurses, orderlies, therapists and a nervous intern – who are almost as affected by the institutional drama as the troubled young people themselves. Continue reading...",
@@ -230,18 +242,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-mFybWFuLWF0LXdvcms",
-      "title": "Queer Edward II review – funny, touching time capsule of Derek Jarman at work",
-      "description": "Venice film festival : Filmed during the making of his queer royal feature, while the director was living with HIV, the candid footage includes uproarious scenes at a Cliff Richard rehearsal There could hardly be a more vivid time-capsule film about the publicly funded British arts scene in the early 1990s than this engrossing fly-on-the-wall documentary about Derek Jarman and his movie Edward II. Based on the play by Christopher Marlowe, it is about the 14th-century English king and his love affair with his court favourite, Piers Gaveston, with Steven Waddington and Andrew Tiernan as the leads and Tilda Swinton as Queen Isabella. This film uses the tremendously funny and candid making-of footage shot at the time by Seamus McGarvey, who had worked as a camera assistant on earlier Jarman films War Requiem and The Garden, and whose distinguished career as a cinematographer lay ahead. Jarman emerges as an effortless leader with a beaming patrician authority, rather like David Lean or Richard Attenborough, the kind of chief whom subordinates instinctively wish to please while keeping from him the grubby problems that they themselves have to deal with, such as paying quarrelsome extras or handling tabloid press questions. Jarman had had his HIV diagnosis for five years at this stage, managing the situation with meds which McGarvey’s camera notices. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/queer-edward-ii-review-funny-touching-time-capsule-of-derek-jarman-at-work",
-      "image": "https://i.guim.co.uk/img/media/57546a02937c5f6b14d07f0f768bccbf7f364edc/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94f3644b4be8886f6b783c09c077ed22",
-      "publishedAt": "2026-09-04T12:00:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZXJpY2hvLXZlbmljZQ",
