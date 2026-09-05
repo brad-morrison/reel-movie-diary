@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:20:53.493Z",
+  "generatedAt": "2026-09-05T20:29:13.478Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
+      "description": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created “Hello … hello … It’s good to be back.” With these words – and the unfortunate possibility of a royalty payment to a certain disgraced ex-pop star – this highly enjoyable fan-worship documentary revives the memory of last year’s staggering and already mythic Oasis reunion tour . It also recollects how effortlessly funny the Gallagher brothers are, like a great comic double act. There’s a big laugh in the tense scene in the rehearsal room, when Liam finally shows up after Noel and everyone else had been there for hours – and the very first thing that comes out of his mouth is a fierce and magnificently sullen objection to the baffles on the drum kit: “They’re giving me the hump.” Yet to the surprise of many who did not believe, and these biblical echoes are strangely appropriate, Liam and Noel did not fall out; the resulting stadium tour put a fresh coat of paint on the word “phenomenon”. Middle-aged and elderly people together with young people sporting bucket hats, some accompanied by their pets in bucket hats, sang their hearts out as if it was the 90s again and Manchester City had just won the World Cup 10-0 (although this film was evidently completed before Wonderwall’s moment at this year’s World Cup ). Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
+      "image": "https://i.guim.co.uk/img/media/86ca6bbb64324fed082554641f9fcbd4d2ba9db2/451_0_2624_2100/master/2624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=873a22f5a7ab94f5f5e00847ad6a54d7",
+      "publishedAt": "2026-09-05T19:30:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTUxMDMv",
+      "title": "‘Oasis: Don’t Look Back in Anger’ Review: The Gallaghers’ Concert Doc Is a Reason for Celebration",
+      "description": "While the setlist might be a bit long for more casual fans, this joyous chronicle of the Oasis reunion tour offers an inspiring tale of forgiveness and reconciliation.",
+      "url": "https://www.indiewire.com/criticism/movies/oasis-dont-look-back-in-anger-concert-documentary-review-1235215103/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/dont_look_back_in_anger.jpg?w=650",
+      "publishedAt": "2026-09-05T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-notMTIzNTIxNTA3My8",
+      "title": "Robert Pattinson Won’t Be the Only ‘Primetime’ Star to Generate Oscar Buzz",
+      "description": "Outside of Pattinson's big swing as \"To Catch a Predator\" host Chris Hansen, Lance Oppenheim's feature debut \"Primetime\" serves as a showcase for stars Merritt Wever and Skyler Gisondo as well.",
+      "url": "https://www.indiewire.com/news/festivals/robert-pattinson-primetime-cast-oscar-buzz-1235215073/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1081B2D.jpg?w=650",
+      "publishedAt": "2026-09-05T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIxNTA4Ny8",
+      "title": "‘Elsinore’ and ‘The Liberation’ Launch TV Stars Andrew Scott and Carrie Coon Into the Oscar Race",
+      "description": "Telluride Day One boasted two world premieres with heart-rending performances.",
+      "url": "https://www.indiewire.com/awards/predictions/elsinore-the-liberation-andrew-scott-carrie-coon-oscar-race-1235215087/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/scottIMG_3098_ce9599.jpeg?w=650",
+      "publishedAt": "2026-09-05T16:01:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIxNDgwMS8",
+      "title": "‘The Difficult Bride’ Turns South Asia’s Beloved Wedding Tropes Into Feminist Folk Horror at Venice",
+      "description": "Venice: One of the few female filmmakers to break out of Bangladesh, Rubaiyat Hossain’s fourth feature resists genre categorizations. But it makes a meal of a creepy urban myth the director heard as a seven-year-old girl involving a now-shuttered elite beauty salon in Dhaka.",
+      "url": "https://www.indiewire.com/features/interviews/the-difficult-bride-movie-rubaiyat-hossain-venice-1235214801/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/the_difficult_bride.jpg?w=650",
+      "publishedAt": "2026-09-05T15:51:32.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-FpLTEyMzUyMDYxMTAv",
       "title": "What I Learned Watching Six Hours of Gen-AI Short Films for the Reply AI Film Festival",
@@ -52,16 +112,16 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-eS0xMjM1MjE1MDg0Lw",
-      "title": "‘The Row’ Review: One Man’s Tragedy-Inspired Voyages Across the Pacific Are Turned Into a Branding Exercise",
-      "description": "Telluride: Tez Steinberg’s two solo rowing expeditions are impressive, even if Bryan Fogel’s profile feels unexamined.",
-      "url": "https://www.indiewire.com/criticism/movies/the-row-review-telluride-documentary-1235215084/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-10.20.59-AM.png?w=650",
-      "publishedAt": "2026-09-05T14:33:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
+      "id": "guardian-Utb2R5c3NleS1kdW5l",
+      "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
+      "description": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite recently becoming a father for the first time. “Once you get the momentum going, it’s strangely not that hard,” said Pattinson at the Venice film festival. “Once you start spinning plates, it gets quite addictive.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
+      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72ef7f65e0947ed5d1b9f946331d98a2",
+      "publishedAt": "2026-09-05T14:42:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-ZS1yb29uZXktbWFyYQ",
@@ -172,54 +232,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-24tMTIzNTIxNDk4OS8",
-      "title": "Inside the Telluride Opening Day Brunch: John Malkovich, Carrie Coon, and the Questions on Everyone’s Minds",
-      "description": "We take you inside the opening-day brunch in the Colorado mountains with the stars and filmmakers behind this year's lineup.",
-      "url": "https://www.indiewire.com/awards/industry/inside-telluride-brunch-john-malkovich-carrie-coon-1235214989/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3093-e1788562025629.jpeg?w=650",
-      "publishedAt": "2026-09-04T22:49:32.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNDk1NC8",
-      "title": "‘Chronovisor’ Directors Measured Twice and Cut Film Once to Tell a Text-Based Thriller",
-      "description": "Directors Jack Auen and Kevin Walker tell IndieWire about using every page and graphic to spin a conspiracy thriller from the archival evidence of a time-travel hoax.",
-      "url": "https://www.indiewire.com/features/craft/chronovisor-directors-kevin-walker-jack-auen-interview-1235214954/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDCHRO_EC088.jpg?w=650",
-      "publishedAt": "2026-09-04T20:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE0ODA1Lw",
-      "title": "‘The Basics of Philosophy’ Review: Paul Schrader’s Lurid Study of a Predatory Intellectual Is Quietly Explosive, but Not Dangerous Enough",
-      "description": "Venice: Jack Huston plays a philosophy professor reliving his past sins in a Schrader provocation that finds the director confronting his own.",
-      "url": "https://www.indiewire.com/criticism/movies/the-basics-of-philosophy-review-paul-schrader-1235214805/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Basics-of-Philosophy-Jack-x-Sofia-Still.jpg.webp?w=650",
-      "publishedAt": "2026-09-04T19:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dHJpYy1mYWNpbGl0eQ",
-      "title": "15/18 A Place to Heal review – heartfelt docu-realist study of a French teen psychiatric facility",
-      "description": "Venice film festival Director Cédric Kahn combines compassion with coolly detailed forensic scrutiny in this genre-challenging film which puts a troubled love triangle at the centre of the story Veteran French director Cédric Kahn brings us a movie in a classic French vein: a docu-realist study of an institution, in this case a state psychiatric facility for teenagers between 15 and 18; with scenes in treatment suites, recreation areas, dorms and interview rooms. It’s something to compare perhaps with Laurent Cantet’s The Class , or Nicolas Philibert’s On the Adamant , or Canadian film-maker Denis Côte’s That Kind of Summer . Kahn’s film is powerful and committed, although sometimes the acting comes close to shouty improv youth theatre. The tone is of course one of compassion, combined with coolly detailed forensic scrutiny, though audiences might be intrigued at Kahn’s use of Purcell’s Funeral Sentences on the soundtrack, music notably used by Kubrick in A Clockwork Orange, a film in which delinquent youth are treated more roughly. Kahn himself plays one of the senior medical staff, part of the gallery of authority figures – doctors, nurses, orderlies, therapists and a nervous intern – who are almost as affected by the institutional drama as the troubled young people themselves. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/1518-a-place-to-heal-review-heartfelt-docu-realist-study-of-a-french-teen-psychiatric-facility",
-      "image": "https://i.guim.co.uk/img/media/07497806616cca9ec590d9935b51cbc13d7e97eb/243_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b628955b8faea3de8a026cb77f5cfae1",
-      "publishedAt": "2026-09-04T15:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-LWRlYXRoLWhhbWxldA",
       "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
       "description": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his final performance as Hamlet, just months before his death, are less familiar. Now, a new film is bringing that haunting production back to life. Elsinore, directed by Simon Stone and starring Andrew Scott as the Scottish actor, will premiere at Telluride this weekend before opening the London film festival in October . Continue reading...",
@@ -232,11 +244,23 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-YtZGllcy1hZ2VkLTc3",
+      "title": "Latcho Drom director Tony Gatlif dies aged 77",
+      "description": "Film-maker acclaimed for his celebrations of Roma culture had been working on a ‘historical film project’ in Provence Tony Gatlif, the French director of more than 20 films that mostly concentrated on celebrating Roma culture across the world, has died aged 77. His family said in a statement to AFP that Gatlif died on Wednesday of “a health issue” while working on a “historical film project” in Arles in Provence, France. “The beauty of his films, his generosity, his joy, his poetry, and his love of music will remain with us forever.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
+      "image": "https://i.guim.co.uk/img/media/2eacc9a4ce176888fc5a73655cb74fa77b21ef54/1408_220_1886_1509/master/1886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e0c25b1154b66fa1bc429d39ada86b",
+      "publishedAt": "2026-09-04T13:25:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Not only did I survive, I thrived' - Meera Syal",
+      "title": "'Not only did I survive, I thrived' - Meera Syal after assaults",
       "description": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
       "url": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0fae/live/8fafb3b0-a7b2-11f1-b5cf-8556ae508a51.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b939/live/d76832c0-a93f-11f1-a24a-1f5107675b0f.png",
       "publishedAt": "2026-09-04T12:28:31.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -244,12 +268,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZXJpY2hvLXZlbmljZQ",
-      "title": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
-      "description": "The writer-director once called Israel’s ‘one-man New Wave’ is in Venice with The Road to Jericho, a new and poetic attempt to highlight the plight of those in the occupied West Bank The Palestinian village of Khan al-Ahmar sits off dust-blown Highway-1, between Jerusalem and Jericho in the Israeli-occupied West Bank. At the village centre is the “school of tires”, a fragile construction of rubber, wood and adobe which is attended by around 300 Bedouin boys and girls. The Israeli authorities denied the villagers an official building permit and ruled that the entire settlement is illegal. For the past eight years the school has been operating under threat of imminent demolition, a symbol of resistance to widespread settler violence. It is only international pressure, says the veteran Israeli writer-director Amos Gitai, that has kept the place upright and still open. “The school has become a litmus paper. It is a test of how far the international community will go [to protect the rights of the people of Khan al-Ahmar]. For once, on this issue, Europe stood up and said no.” As for the future, who can tell? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
-      "image": "https://i.guim.co.uk/img/media/ca14f57ef552cff8ac53e3505921b4d242227192/31_0_2089_1672/master/2089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8b63f2e1da77656d79f8468a34fedf1",
-      "publishedAt": "2026-09-04T11:55:19.000Z",
+      "id": "guardian-S1nb3QtdGhlLWNob3A",
+      "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
+      "description": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ripped apart in order to create space for James Gunn and Peter Safran’s brand-new DCU. We almost certainly did need a clean break from the likes of Ben Affleck (Batman) and Henry Cavill (Superman), if only to persuade audiences that this really was a proper reboot. The question, as Gal Gadot may have been pondering this week, is quite why some of the old universe’s supporting players were smuggled safely into the new continuity while others were left sprawling amid the ruins. Speaking on the Happy Sad Confused podcast , Gadot, who starred in two solo Wonder Woman movies for director Patty Jenkins, revealed that nobody at DC Studios ever formally told her she had been dropped. One minute, Gadot says, she was being assured by Gunn and Safran that they would develop a third instalment with her; the next, she was looking on in mounting alarm as the entire infrastructure of the previous DC continuum was blown to smithereens. “They were like, ‘We’re going to develop it with you, the third one,’” she said. “But I saw the way everybody else was handled, right? And I, you know – the Henry [Cavill] situation was unfortunate. I was in the middle of that. The Henry situation was not handled elegantly, to say the least. Same with Patty – it was not handled elegantly.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
+      "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bd3429b51214bb7674b201763edfbfdf",
+      "publishedAt": "2026-09-04T10:19:34.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -376,18 +400,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ci1icm9zLW1lcmdlcg",
-      "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row",
-      "description": "‘I worry whenever big companies are consolidating,’ Clooney said at Venice film festival, supporting Ruffalo’s right to criticise the deal amid antisemitism accusations George Clooney has defended Mark Ruffalo’s right to criticise the proposed $111bn Paramount takeover of Warner Bros Discovery , saying he is concerned about the consequences of further consolidation in Hollywood. Speaking in Venice ahead of receiving the festival’s Golden Lion for lifetime achievement, Clooney said he supported Ruffalo’s “ability to speak freely” about the proposed merger, while expressing his own doubts about the deal. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/george-clooney-defends-mark-ruffalo-paramount-warner-bros-merger",
-      "image": "https://i.guim.co.uk/img/media/2fc05e47101ed329d255ab0edc1316a8976fa59e/220_90_5599_4478/master/5599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a464e18fa1cb7c4965f92cc66c185c3",
-      "publishedAt": "2026-09-02T15:08:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-3ItZml2ZS1tb250aHM",
       "title": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
       "description": "He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar? Domhnall Gleeson has got so much new stuff coming up, someone recently joked that this was the “summer of Domhnall”. Now the phrase is all over the internet, and Gleeson is mortified: “The worry is that somebody will say this to me now thinking that I believe it.” He doesn’t know where it came from – possibly his co-star Gayle Rankin on his new movie The Incomer. “It’s certainly not something I’m trying to push … but it would be great if it could be the headline.” He’s in a good mood when we meet at a London hotel on a hot afternoon. You could say he’s good at interviews – charming, funny, garrulous, the perfect chatshow guest. He could just be acting , admittedly, but he seems to be a genuinely good-natured, grounded sort of guy. Continue reading...",
@@ -470,18 +482,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-l0LWFzLWRpcmVjdG9y",
-      "title": "Out of the blue: James Cameron’s surprise departure would be good for Avatar",
-      "description": "The director has yet again hinted that he may step away – but if he does actually relinquish control, it would likely benefit the franchise After directing the highest-grossing film trilogy of all time, and having spent more than two decades bending technology, studio executives and several hundred million dollars’ worth of underwater motion capture to his will, James Cameron this week signalled that he may be ready to hand the future of the Avatar franchise to another director. Indeed, he bent Hollywood to his will so completely that it became almost impossible in the early 2010s to watch a blockbuster without uncomfortable plastic glasses, and without objects on the screen being hurled pointlessly towards the audience. Still, the Canadian film-maker now appears to be seriously considering handing over everyone’s favourite multibillion-dollar bioluminescent space jungle to someone else. “There’s been momentum in the Avatar universe for 21 years at this point because we started in 2005,” Cameron told Denise Donlon in an interview for Canada’s governor general’s performing arts awards. “It’s been kind of an unbroken continuum. So this is the point where I’m looking at the landscape and asking, ‘What are the other stories I want to tell? How many of them do I need to direct myself versus writing and/or producing with other film-makers?’” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/07/james-cameron-avatar-trilogy-quit-as-director",
-      "image": "https://i.guim.co.uk/img/media/bfc154926262c9677b6633718f0713ecb81de66d/822_0_2162_1730/master/2162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1013f9c2a75f024b8efa882742a9dde4",
-      "publishedAt": "2026-08-07T12:21:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-1lZHktdGhyZWVxdWVs",
