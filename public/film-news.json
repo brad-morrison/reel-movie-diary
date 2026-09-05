@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:40:24.238Z",
+  "generatedAt": "2026-09-05T10:44:40.653Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-HQtMTIzNTIxNDU4NC8",
+      "title": "‘Elsinore’ Review: Andrew Scott’s Towering Performance as a Dying Actor Can’t Overcome AIDS-Movie Awards Bait Clichés",
+      "description": "Telluride: Scott vividly portrays \"Gandhi\" and \"Chariots of Fire\" star Ian Charleson, who made \"Hamlet\" his final role at the National Theatre, but the movie around him sinks into forgettability.",
+      "url": "https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
+      "publishedAt": "2026-09-05T05:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-ZC0xMjM1MjE1MDYxLw",
       "title": "‘The Idiot(s)’ Review: Johnny Flynn and Aimee Lou Wood Suffer Rapturously in Surreal Russian Lit Biopic",
@@ -193,18 +205,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNDgxNS8",
-      "title": "‘15/18 (A Place to Heal)’ Review: A Taboo-Busting Dramedy Set Inside a Psychiatric Ward for Teens",
-      "description": "Cédric Kahn’s deftly handled film offers a searing but hilarious critique of life inside a French hospital.",
-      "url": "https://www.indiewire.com/criticism/movies/15-18-a-place-to-heal-movie-review-1235214815/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/15-18-ok.jpg?w=650",
-      "publishedAt": "2026-09-04T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
