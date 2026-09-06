@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T01:09:11.016Z",
+  "generatedAt": "2026-09-06T06:40:49.265Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-dGljYWwtbWFnaWMtMg",
+      "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
+      "description": "After her role in the fantasy series, the actor felt lost. Now she’s getting relationship advice from Sandra Bullock and Nicole Kidman, and following a Sex and the City star’s mantra: never be anywhere you aren’t enjoying yourself Maisie Williams has dabbled in witchcraft exactly once. The actor was getting ready to audition for a&nbsp;part in a film. “I wanted it so badly that I went on to Etsy, and I&nbsp;paid a&nbsp;witch to manifest me the role,” she says, poker-faced. “It&nbsp;didn’t work, and that was where my days of witchcraft ended,” she adds, breaking into an infectious cackle. Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2",
+      "image": "https://i.guim.co.uk/img/media/9f4daa50e0d53bc833cff96ce16fa3efb95d0a03/0_415_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b20f9d2f221a5cd6ca16657b2eba778b",
+      "publishedAt": "2026-09-06T05:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-mstMTIzNTIxNTExNy8",
       "title": "Danny Boyle Talks Returning to Telluride and Fighting to Make His Tabloid Sensation ‘Ink’",
@@ -430,18 +442,6 @@
       "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent",
       "image": "https://i.guim.co.uk/img/media/c2012d6776968a4c30daac4de545cc58868613eb/0_0_3072_2458/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=111d07e3c6d640543562f2ed87bb5c2c",
       "publishedAt": "2026-08-28T12:00:57.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZhbnMtZ3JhbnQtZ2Vl",
-      "title": "‘It’s the story of what happens when the music stops’: bringing tormented jazz legend Bill Evans to life",
-      "description": "Having directed documentaries about David Bowie, Radiohead and Joy Division, Grant Gee takes on a biopic of the turbulent and tragic American pianist In 1997, Grant Gee directed the video for Radiohead’s single No Surprises , a four-minute film that featured Thom Yorke miming the song inside a water-filled diver’s helmet, apparently almost drowning in the process. In the three decades since that promo, Gee has made a host of diverse feature-length films about artists: Radiohead, David Bowie, Joy Division, the Turkish Nobel laureate Orhan Pamuk , the émigré German novelist WG Sebald . They are often impressionistic, dreamlike explorations of art, memory, place and the strange pressures put upon artistic lives. “It’s a narrative form I’ve used again and again,” says Gee. “A character begins in one condition; a crisis slowly develops; the viewer watches that crisis in a forensic yet empathetic way; the crisis passes; the person returns to something like the original state, but transformed. Someone comes very close to drowning, but doesn’t drown. What does that do to them?” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/28/tormented-jazz-legend-bill-evans-grant-gee",
-      "image": "https://i.guim.co.uk/img/media/62de0cfc871cd6d9279b6437088dc6f5e78e9f58/575_0_4850_3881/master/4850.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19eb6d1927bd72cdf6f814aa397a2801",
-      "publishedAt": "2026-08-28T07:00:51.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
