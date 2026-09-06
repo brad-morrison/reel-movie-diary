@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:29:13.478Z",
+  "generatedAt": "2026-09-06T01:09:11.016Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-mstMTIzNTIxNTExNy8",
+      "title": "Danny Boyle Talks Returning to Telluride and Fighting to Make His Tabloid Sensation ‘Ink’",
+      "description": "The Oscar winner also explains his decision to use AI tools in 30 seconds of the film: \"I didn't want an imitation Thatcher.\"",
+      "url": "https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_9930.jpeg?w=650",
+      "publishedAt": "2026-09-06T00:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTUxNDMv",
+      "title": "‘The Illusion of an Everlasting Summer’ Review: A Photographer’s Portrait of Two Argentine Cousins Poignantly Captures the Passage of Time",
+      "description": "Telluride: Alessandra Sanguinetti chronicles the shared and separate lives of Guillermina and Belinda from childhood into their mid-thirties.",
+      "url": "https://www.indiewire.com/criticism/movies/the-illusion-of-an-everlasting-summer-review-1235215143/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-8.12.09-PM.png?w=650",
+      "publishedAt": "2026-09-06T00:28:29.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE0OTU2Lw",
+      "title": "‘Making Marie Antoinette’ Review: Eleanor Coppola’s Tender Documentary About Her Daughter’s Masterpiece Doubles as a Wistful Self-Portrait",
+      "description": "Telluride: Two generations of women see each other through the years in this marvelous documentary cobbled together from 80 hours of \"Marie Antoinette\" set footage.",
+      "url": "https://www.indiewire.com/criticism/movies/making-marie-antoinette-documentary-movie-review-1235214956/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MA_800dpi_8_Credit_Sofia-Coppola.jpeg?w=650",
+      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
       "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
@@ -124,6 +160,18 @@
       "category": "Movies"
     },
     {
+      "id": "indiewire-eS0xMjM1MjE1MDg0Lw",
+      "title": "‘The Row’ Review: A Man Rows Across the Atlantic in a Documentary that Makes His Inspirational Voyage Feel More Like a Vanity Project",
+      "description": "Telluride: Tez Steinberg’s two solo rowing expeditions are impressive, even if Bryan Fogel’s profile feels unexamined.",
+      "url": "https://www.indiewire.com/criticism/movies/the-row-review-telluride-documentary-1235215084/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-10.20.59-AM.png?w=650",
+      "publishedAt": "2026-09-05T14:33:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-ZS1yb29uZXktbWFyYQ",
       "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
       "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
@@ -148,30 +196,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-ZC0xMjM1MjE1MDYxLw",
-      "title": "‘The Idiot(s)’ Review: Johnny Flynn and Aimee Lou Wood Suffer Rapturously in Surreal Russian Lit Biopic",
-      "description": "Małgorzata Szumowska and Michał Englert’s Dostoevsky drama finds dark comedy in a brilliantly strange marriage, but strains to make that suffering meaningful.",
-      "url": "https://www.indiewire.com/criticism/movies/the-idiots-review-johnny-flynn-aimee-lou-wood-1235215061/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.39.43-PM.png?w=650",
-      "publishedAt": "2026-09-05T04:34:28.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-N0LTEyMzUyMTUwMzEv",
-      "title": "This September, ‘Remember Me’: The 2010 Robert Pattinson Film That Sounds Like Something He Made Up",
-      "description": "Never forget Emilie de Ravin co-starring in this miserable love story from director Allen Coulter, technically about a guy who hates his dad and dates a cop's daughter for revenge.",
-      "url": "https://www.indiewire.com/news/general-news/robert-pattinson-remember-me-2010-september-11-twist-1235215031/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDREME_EC038.jpg?w=650",
-      "publishedAt": "2026-09-05T03:59:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bW9zcy1iYWNocmFjaA",
       "title": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
       "description": "Telluride film festival In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt Andrew Haigh’s mysterious and beautiful new film is adapted by him from the 2006 story by Colm Tóibín , transplanting the action from the 1930s Spanish Pyrenees to the wintry, vertiginous landscapes of Colorado about the time of the Korean war. It is a poignant, subversive study of grief and desire, and the terrible, infantilised loneliness of men without women; it is fiercely acted, and wonderfully shot by cinematographer André Turpin. Lester, played by Ebon Moss-Bachrach, is a grizzled, hardened farmsteader in the remote hills whose family has a certain sufficiency from their livestock; he makes a precarious living breeding rabbits for their meat and fur. One son, Tommy (Kit Connor) is leaving for military service, leaving behind his shy brother Mikey (Fred Hechinger); Mikey has secret gay longings, which are nourished by furtive glimpses of glossy Cosmopolitan magazines, with their impossibly exotic visions of big-city fashion and design. Continue reading...",
@@ -184,18 +208,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTQ4MjIv",
-      "title": "‘A Long Winter’ Review: Andrew Haigh Goes Cold with an Immaculately Crafted Coming-of-Age Story Too Restrained for Its Own Good",
-      "description": "Fred Hechinger and Eben Moss-Bachrach are terrific in a queer period drama about a young man trying to escape his father's shadow in 1950s Colorado.",
-      "url": "https://www.indiewire.com/criticism/movies/a-long-winter-movie-review-1235214822/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/A-Long-Winter_NYFF64_02.jpg?w=650",
-      "publishedAt": "2026-09-05T02:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-1hbmQtbW9ydGFsaXR5",
       "title": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
       "description": "Telluride film festival Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on Mike Leigh’s new film – perhaps his last – is a poignant, intergenerational drama of happy-sad acceptance that life goes on, until it doesn’t go on. And then you have to come to terms with the mortality of your elderly parents and by that same token, with the end that is waiting for you too. The decency and clarity of the film are a tonic. It is a movie with one of Leigh’s overtly positive and even sugary titles, like Life Is Sweet (1990) or Happy-Go-Lucky (2008), as distinct from his darker ones: Secrets & Lies (1996) or Hard Truths (2024). But his sweet titles are not simply satirical and intended to mean the opposite: it is more complicated and elusive, and even the contrast here between the two heroines’ private and professional lives isn’t straightforwardly a matter of irony. As so often, the dialogue has that unique Leigh cartoonish quality that isn’t caricature, and the characters often speak with an almost wartime chirpiness in a world of peckers kept up and noses kept clean. This is a perkiness that the thirtysomethings have unexpectedly inherited and modified from their old mum and dad, and Leigh leaves it to the audience to judge the consequent tone of the drama and the appropriate tone of their response. Continue reading...",
@@ -205,18 +217,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjE0NjY2Lw",
-      "title": "‘Tender Loving Care’ Review: Kate O’Flynn Astonishes in Mike Leigh’s Simple but Profoundly Moving Final Film",
-      "description": "A drama about a week in the life of two social workers, Leigh's supposed swan song pierces with the directness of a closing statement.",
-      "url": "https://www.indiewire.com/criticism/movies/tender-loving-care-review-mike-leigh-1235214666/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/img_54050.webp?w=650",
-      "publishedAt": "2026-09-05T01:47:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
