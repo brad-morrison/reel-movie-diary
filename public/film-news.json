@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:36:13.236Z",
+  "generatedAt": "2026-09-06T18:30:24.304Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-xpLTEyMzUyMTI4OTYv",
+      "title": "‘The Echo Chamber’ Review: Luca Marinelli and Alicia Vikander Are Sublime in a Brooding Addiction Romance Directed from Bertolucci’s Last Script",
+      "description": "Venice: A tragic (and tragically handsome) Marinelli plays a drug-addicted music producer enmeshed in Vikander's codependent, unrequited care in Andrea Pallaoro's intimately sad feature. Susan Sarandon co-stars as a chain-smoking singer/songwriter.",
+      "url": "https://www.indiewire.com/criticism/movies/the-echo-chamber-movie-review-luca-marinelli-1235212896/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Echo-Chamber.webp?w=650",
+      "publishedAt": "2026-09-06T17:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-I2LTEyMzUyMTUxOTUv",
+      "title": "Creative Arts Emmys Night 1: Strong Showings for Bad Bunny, the Muppets, and ‘The Traitors’",
+      "description": "The two-part ceremony is set to continue on Sunday night.",
+      "url": "https://www.indiewire.com/awards/results/creative-arts-emmys-night-1-results-2026-1235215195/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-02-at-4.15.33-PM.png?w=650",
+      "publishedAt": "2026-09-06T16:19:57.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-bWF5LWVsLXRvdWtoeQ",
+      "title": "Cult of male genius holding female film-makers back, says Woman Unknown director",
+      "description": "May el-Toukhy says we must end veneration of male directors that causes ‘structural problem’ for women The enduring cult of male genius is keeping down female film-makers, one of the only two female directors in the running for the top prize at this year’s Venice film festival has warned. “I’ve never ever read an article where a female director is promoted as a genius,” said the Danish-Egyptian director May el-Toukhy, whose film Woman Unknown has been selected for the Golden Lion competition on the Lido this year. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy",
+      "image": "https://i.guim.co.uk/img/media/a297281439e54e9839d34234711a26ed50f45290/256_0_2559_2048/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0c5aa6881db5af6209c5b2960e8b37",
+      "publishedAt": "2026-09-06T16:16:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FuZC1mcmllbmRzaGlw",
+      "title": "Possible Love review – a tale of two couples is finely judged study of exploitation and friendship",
+      "description": "Acclaimed Korean director Lee Chang-dong returns with an inspired account of an unhappy married couple befriended by a documentary maker and her wealthy husband Korean auteur Lee Chang-dong brings to Venice his first feature for eight years. It is a finely judged, beautifully acted and rather novelistic work, in which a character at one point actually compares her surroundings to something from a novel. It is expansive and diffuse in terms of storytelling scope and dramatic focus, rich in intelligence while paying its audience the compliment of treating them as intelligent also. There are moments of pure inspiration in the superb flashback scenes of two characters’ early lives, and I rather regretted that these flashbacks were phased out relatively early on and that more was not made of their relationship with the present. Possible Love is perhaps a little contrived and self-aware and unsure how much emphasis to lay on its moments of irony and comedy, but it is made with such fluency and verve. It is a tale of two couples. Jeon Do-yeon (from Lee’s Secret Sunshine) and Sul Kyung-gu play Mi-ok and Ho-seok, a deeply unhappy married couple from a blue-collar background with a young son. Ho-seok is angry, depressed and struggling with a drinking problem after a catastrophic end to a strike at the factory where he worked. While at the funeral of a colleague of Ho-seok’s, who has taken his own life, he and Mi-ok meet a fashionable and wealthy couple who are making a documentary about the injustice of the way the factory workers were treated. (This couple have a dog instead of a child.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship",
+      "image": "https://i.guim.co.uk/img/media/07ad374a58c4eb6a8b75717180f4390e37b9fb71/440_0_2594_2076/master/2594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9bfac8d7318ef8f5d8e86b39adb5d0c9",
+      "publishedAt": "2026-09-06T14:30:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNTE4MS8",
+      "title": "‘The Difficult Bride’ Review: A Haunted Bridal Parlor Drama with Untapped Potential",
+      "description": "Venice: Rubaiyat Hossain’s drama about a taxing bride-to-be feels a little too easy.",
+      "url": "https://www.indiewire.com/criticism/movies/the-difficult-bride-review-rubaiyat-hossain-1235215181/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Difficult-Bride_Rubaiyat-Hossain_2.jpg?w=650",
+      "publishedAt": "2026-09-06T14:30:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTUxMzYv",
+      "title": "‘Possible Love’ Review: Two Married Couples Begin to Covet Each Others’ Lives in the Latest Stunner from ‘Burning’ Director Lee Chang-dong",
+      "description": "Class conflict achieves vivid new dimension in this sprawling Netflix drama about the relationship between a rich documentary filmmaker and her blue collar subjects.",
+      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/POSSIBLE-love.jpg?w=650",
+      "publishedAt": "2026-09-06T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XQtb2YtcG9saXRpY3M",
+      "title": "Wim Wenders clarifies that he does not believe film-makers should stay out of politics",
+      "description": "Director’s controversial comments earlier this year warned of films that ‘enter the field of politics’ The director Wim Wenders has clarified personal views on the relationship between cinema and politics that caused controversy earlier in the year, saying at the Venice film festival that he does not believe film-makers ought to stay out of politics altogether. During the Berlin film festival, the veteran German director, who was acting as the jury president, had said at a press conference that “we have to stay out of politics because if we make movies that are dedicatedly political, we enter the field of politics.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics",
+      "image": "https://i.guim.co.uk/img/media/38a3d6144a4ee5ca034ca05a34318dc01fd3479d/53_77_3070_2457/master/3070.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0ea8f7129fe847fac6b5ac91d3fa606",
+      "publishedAt": "2026-09-06T14:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTUxNzMv",
+      "title": "‘The Debut’ Review: Julianne Moore Shines in Jesse Eisenberg’s Story of Midlife Reinvention in Community Theater",
+      "description": "Telluride: Paul Giamatti is the overbearing director to Moore's aspiring actress in a film that celebrates the small spaces that birth future stars.",
+      "url": "https://www.indiewire.com/criticism/movies/the-debut-review-jesse-eisenberg-julianne-moore-1235215173/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-06-at-9.12.03-AM.png?w=650",
+      "publishedAt": "2026-09-06T13:31:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-jYtMTIzNTIxNTE2MC8",
+      "title": "Susan Sarandon Says Roles Are Still Being ‘Taken Away’ from Her Amid Support of Palestine",
+      "description": "”There are still very strongly held positions within my industry that are held by Zionists and who have not relaxed their feelings toward me,” she said at the Venice Film Festival.",
+      "url": "https://www.indiewire.com/news/festivals/susan-sarandon-blacklisted-palestine-venice-2026-1235215160/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2293667196-e1788697641772.jpg?w=650",
+      "publishedAt": "2026-09-06T12:48:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1pcmUtZmFyLXJpZ2h0",
+      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
+      "description": "Director Alexandre Smia says film about Russia detonating nuclear warhead – and US refusing to respond – is not unrealistic Russia has detonated a nuclear warhead over the Black Sea to underline its desire to revenge an assassination attempt on the Russian president. Germany and Italy urge restraint. The American president opts out of the standoff altogether and moots taking out Ukraine’s leader to appease Moscow. A new thriller, which has brought nuclear anxiety to the red carpets of the Venice film festival this week, plays through what would happen next. In Jupiter, which premiered on the Lido on Friday, the duty to square up to the Kremlin and enter the stress-inducing mind games of the nuclear deterrent falls on the fictional French president Paul Archambault (played by the hulking French actor Denis Ménochet), who is backed in his mission by the British prime minister. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
+      "image": "https://i.guim.co.uk/img/media/13c996d65823dc2d6593a1047578e04c76f97c5a/221_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1ed081a12c06200a5bdbc4c48b4e254",
+      "publishedAt": "2026-09-06T10:37:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-dGljYWwtbWFnaWMtMg",
       "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
@@ -112,54 +232,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-2UtMTIzNTIxNDgwMS8",
-      "title": "‘The Difficult Bride’ Turns South Asia’s Beloved Wedding Tropes Into Feminist Folk Horror at Venice",
-      "description": "Venice: One of the few female filmmakers to break out of Bangladesh, Rubaiyat Hossain’s fourth feature resists genre categorizations. But it makes a meal of a creepy urban myth the director heard as a seven-year-old girl involving a now-shuttered elite beauty salon in Dhaka.",
-      "url": "https://www.indiewire.com/features/interviews/the-difficult-bride-movie-rubaiyat-hossain-venice-1235214801/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/the_difficult_bride.jpg?w=650",
-      "publishedAt": "2026-09-05T15:51:32.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-FpLTEyMzUyMDYxMTAv",
-      "title": "What I Learned Watching Six Hours of Gen-AI Short Films for the Reply AI Film Festival",
-      "description": "IndieWire's Brian Welk reflects on his experience as a jury member for the upcoming AI film festival taking place in Venice.",
-      "url": "https://www.indiewire.com/features/commentary/what-i-learned-watching-6-hours-gen-ai-short-films-reply-ai-1235206110/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AIFF_2026_A-Face_.00_00_16_11.Immagine011.png?w=650",
-      "publishedAt": "2026-09-05T15:12:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VuLTEyMzUyMTUwNjgv",
-      "title": "‘Primetime’ Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating ‘To Catch a Predator’ Thriller",
-      "description": "Venice: Lance Oppenheim scuzzies up his fiction feature debut about hidden-camera, reality-TV exploitation with a grim style and often twisted performances from Merritt Wever, Skyler Gisondo, and singer/songwriter Phoebe Bridgers.",
-      "url": "https://www.indiewire.com/criticism/movies/a24-primetime-movie-review-robert-pattinson-chris-hansen-1235215068/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-1.png?w=650",
-      "publishedAt": "2026-09-05T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTUwNzYv",
-      "title": "‘Citizen Osama’ Review: A Direct, Disarming View of Daily Horrors in Gaza from the POV of a Journalist and New Father",
-      "description": "Venice: Filmed in secret, Ahmed Hassouna’s discerning doc wears its heart unassumingly on its sleeve and holds its no-frills camera setup sturdily in its hands.",
-      "url": "https://www.indiewire.com/criticism/movies/citizen-osama-review-1235215076/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/al_mowaten_osama_citizen_osama-1.jpg?w=650",
-      "publishedAt": "2026-09-05T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-Utb2R5c3NleS1kdW5l",
       "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
       "description": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite recently becoming a father for the first time. “Once you get the momentum going, it’s strangely not that hard,” said Pattinson at the Venice film festival. “Once you start spinning plates, it gets quite addictive.” Continue reading...",
@@ -172,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-eS0xMjM1MjE1MDg0Lw",
-      "title": "‘The Row’ Review: A Man Rows Across the Atlantic in a Documentary that Makes His Inspirational Voyage Feel More Like a Vanity Project",
-      "description": "Telluride: Tez Steinberg’s two solo rowing expeditions are impressive, even if Bryan Fogel’s profile feels unexamined.",
-      "url": "https://www.indiewire.com/criticism/movies/the-row-review-telluride-documentary-1235215084/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-10.20.59-AM.png?w=650",
-      "publishedAt": "2026-09-05T14:33:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ZS1yb29uZXktbWFyYQ",
       "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
       "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
@@ -194,54 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-HQtMTIzNTIxNDU4NC8",
-      "title": "‘Elsinore’ Review: Andrew Scott’s Towering Performance as a Dying Actor Can’t Overcome AIDS-Movie Awards Bait Clichés",
-      "description": "Telluride: Scott vividly portrays \"Gandhi\" and \"Chariots of Fire\" star Ian Charleson, who made \"Hamlet\" his final role at the National Theatre, but the movie around him sinks into forgettability.",
-      "url": "https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
-      "publishedAt": "2026-09-05T05:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bW9zcy1iYWNocmFjaA",
-      "title": "A Long Winter review – hope, desire and subversion in Andrew Haigh’s beautiful winter western",
-      "description": "Telluride film festival In a remote Colorado farmstead, a family with a mother gone missing finds a strange buoyancy and freedom as they wait for the snows to melt Andrew Haigh’s mysterious and beautiful new film is adapted by him from the 2006 story by Colm Tóibín , transplanting the action from the 1930s Spanish Pyrenees to the wintry, vertiginous landscapes of Colorado about the time of the Korean war. It is a poignant, subversive study of grief and desire, and the terrible, infantilised loneliness of men without women; it is fiercely acted, and wonderfully shot by cinematographer André Turpin. Lester, played by Ebon Moss-Bachrach, is a grizzled, hardened farmsteader in the remote hills whose family has a certain sufficiency from their livestock; he makes a precarious living breeding rabbits for their meat and fur. One son, Tommy (Kit Connor) is leaving for military service, leaving behind his shy brother Mikey (Fred Hechinger); Mikey has secret gay longings, which are nourished by furtive glimpses of glossy Cosmopolitan magazines, with their impossibly exotic visions of big-city fashion and design. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/a-long-winter-review-andrew-haigh-ebon-moss-bachrach",
-      "image": "https://i.guim.co.uk/img/media/4dbd95a4b8ce5476e3dc122aa9c565ba6b838282/480_0_1994_1596/master/1994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=a1564464cb4ab1d8a922f14bfbe08023",
-      "publishedAt": "2026-09-05T02:30:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1hbmQtbW9ydGFsaXR5",
-      "title": "Tender Loving Care review – Mike Leigh’s tender and elusive study of love and mortality",
-      "description": "Telluride film festival Alice Bailey Johnson and Kate O’Flynn lead a complicated, quietly heartbreaking drama about friendship, ageing parents and the sadness of lives moving inexorably on Mike Leigh’s new film – perhaps his last – is a poignant, intergenerational drama of happy-sad acceptance that life goes on, until it doesn’t go on. And then you have to come to terms with the mortality of your elderly parents and by that same token, with the end that is waiting for you too. The decency and clarity of the film are a tonic. It is a movie with one of Leigh’s overtly positive and even sugary titles, like Life Is Sweet (1990) or Happy-Go-Lucky (2008), as distinct from his darker ones: Secrets & Lies (1996) or Hard Truths (2024). But his sweet titles are not simply satirical and intended to mean the opposite: it is more complicated and elusive, and even the contrast here between the two heroines’ private and professional lives isn’t straightforwardly a matter of irony. As so often, the dialogue has that unique Leigh cartoonish quality that isn’t caricature, and the characters often speak with an almost wartime chirpiness in a world of peckers kept up and noses kept clean. This is a perkiness that the thirtysomethings have unexpectedly inherited and modified from their old mum and dad, and Leigh leaves it to the audience to judge the consequent tone of the drama and the appropriate tone of their response. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/tender-loving-care-review-mike-leighs-tender-and-elusive-study-of-love-and-mortality",
-      "image": "https://i.guim.co.uk/img/media/753159ada7b8f541585e2ff5378b140cd07331ee/694_0_6980_5584/master/6980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=5c9bf2da2f6ecdeb952e38073aa06b53",
-      "publishedAt": "2026-09-05T01:47:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-b3ktam9lLWxhd2xvcg",
-      "title": "Act 3 review – queer art history and life reflections from masters of metatextuality",
-      "description": "Telluride film festival Christine Molloy and Joe Lawlor’s absorbing documentary is a parallel take on their relationship and a nascent drama on artists Claude Cahun and Marcel Moore Christine Molloy and Joe Lawlor are artists and film-makers from Ireland who have created eerie and suspenseful psychological dramas in parallel with a strand of complex and self-questioning essay movies. They explore ideas about history and identity, ruminating on their creative selves and metatextually examining (or re-examining) their own work. You may call it the “Alfred Hitchcock” and “Chris Marker” sides to their work. Sometimes, their documentaries act as a kind of commentary on the fiction feature they are developing at the same time: like The Future Tense, a film about the ideas encountered during a planned movie about the pro-IRA English heiress Rose Dugdale, a project which came to fruition as the drama Baltimore . Now, they have made a strangely mesmeric, deeply personal, mysteriously stylised film called Act 3, which may itself yet herald a conventional drama about its notional subject. It is structured around Molloy and Lawlor having a weirdly self-aware dialogue about their lives together over 40 years, filmed singly in shot-reverse-shot (was each holding the camera on the other?) but speaking quietly and slowly, as if under hypnosis. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/act-3-review-christine-molloy-joe-lawlor",
-      "image": "https://i.guim.co.uk/img/media/1aa40b5dc4b2ceb68c6ad36b27d422ffe58e87a6/613_0_2903_2322/master/2903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=a37987d988971c371833e968dd1a5263",
-      "publishedAt": "2026-09-04T23:30:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-LWRlYXRoLWhhbWxldA",
@@ -394,18 +406,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
       "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545",
       "publishedAt": "2026-09-02T18:00:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-VldC1iaW9waWMtaW5r",
-      "title": "Rupert Murdoch ‘very happy’ that Guy Pearce plays him in Fleet Street biopic Ink",
-      "description": "Actor says the press baron’s daughter Elisabeth told him her father was pleased, ‘but he hadn’t seen the film at that point’ Rupert Murdoch is “very happy” that he’s being portrayed by Guy Pearce in a new film about the origins of British tabloid the Sun, the Australian actor has said. Speaking at the Venice film festival ahead of the premiere of 28 Days Later director Danny Boyle’s Ink, Pearce said he had been messaging with the media tycoon’s daughter Elisabeth “and she did say ‘Dad’s very happy that you’re playing him’.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/rupert-murdoch-very-happy-that-guy-pearce-plays-him-in-fleet-street-biopic-ink",
-      "image": "https://i.guim.co.uk/img/media/0da888fc25409a334fb73a68fb1362937c97cdbe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69825c8dce7b6ca6cf95e5486e5a040a",
-      "publishedAt": "2026-09-02T16:07:56.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
