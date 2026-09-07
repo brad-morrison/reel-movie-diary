@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T06:55:35.383Z",
+  "generatedAt": "2026-09-07T12:41:51.490Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
+      "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg",
+      "publishedAt": "2026-09-07T11:03:33.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-WtvbGF5LWxlYmVkZXY",
+      "title": "In the Shadows of Nuremberg review – trial-adjacent thriller aims to be Russian answer to Saving Private Ryan",
+      "description": "A trivial personal plotline and a strain of maudlin patriotism undermine Nikolay Lebedev’s shaky telling of the Soviet side of the story Taking place in the wings of the Nuremberg trial, this Soviet-side political thriller, first released back in 2023, features a scene in which the crowd turns on a boa-draped Hollywood floozy in town to entertain the troops. A case of mea culpa for director Nikolay Lebedev, who trivialises the momentous issues emerging from the courtroom by dressing the legal stuff up with a tenuous and shakily handled plotline about a missing soldier, in an attempt to make his film the Russian answer to Saving Private Ryan . After his brother goes MIA in the vicinity of the soon-to-be-historic city, Red Army intelligence officer Igor Volgin (Sergey Kempo) wangles a post translating for the Soviet delegation. He’s approached by Lena (Lyubov Aksyonova), a Russian wastrel with a perfectly coiffed bob despite months of forced labour in a German munitions factory; she claims to have run into his sibling, an artist, in captivity. But she is also feeding information to Helmut (Wolfgang Cerny), a Nazi resistance diehard who believes Göring (Carsten Norgaard) and company should be accountable only to German courts. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/in-the-shadows-of-nuremberg-review-nikolay-lebedev",
+      "image": "https://i.guim.co.uk/img/media/50bdcbd980daf2d84ee84c5ced067d07159a8395/317_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7692356b6ff2a22c15be6dc20408c81b",
+      "publishedAt": "2026-09-07T10:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTUyNjgv",
+      "title": "‘You Can See Everything’ Review: Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd",
+      "description": "Telluride: Everything we thought we knew about the beleaguered Theranos founder and convicted fraudster may or may not be true, according to A24's made-in-secret new documentary.",
+      "url": "https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
+      "publishedAt": "2026-09-07T09:59:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
+      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "description": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has made his feature debut with a strangely overwrought and heavy-footed drama-thriller, which for all its elaborate neon-lit atmosphere of noir danger isn’t at all sure what it wants to say about media or morality, or anything else. The subject is the controversial top-rated US TV reality show To Catch a Predator which ran from 2004 to 2008; that title was evidently taken from the Hitchcock movie To Catch a Thief, which in turn was inspired by the phrase “Set a thief to catch a thief”. In search of prey, the show’s researchers baited paedophiles in online chatrooms posing as children, lured them to “sting houses” where actors played underage teens on the front porch to get the abusers inside, where they can be clearly filmed expressing criminal intentions. But before anything could happen, sonorous host Chris Hansen appeared from nowhere and confronted these cringing abusers – which made for fantastic television. After this the cops made an arrest, and they and the state prosecutor did the heavy lifting of overseeing due process and presumably debating the merits of entrapment in court, although this obvious issue is not raised in the movie. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
+      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
+      "publishedAt": "2026-09-07T09:42:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-i1zb3ZpZXQtdW5pb24",
+      "title": "Imperium review – Sergei Loznitsa’s archive collage collates everyday life in cold-war Soviet Union",
+      "description": "Venice film festival: The Two Prosecutors director cuts together documentary footage shot by a TV crew in the 1970s to try and get across what daily life in the USSR was like Here is an archive-compilation documentary from Sergei Loznitsa, a hypnotic panorama of early 1970s life across the vast reaches of the Soviet Union, or maybe we should call it the Soviet empire. Loznitsa gives it the Latin title Imperium, perhaps to recall the Romans before their decline and fall. His material is taken from fascinating footage shot between 1970 and 1973 by a visiting Italian camera crew who presumably had the necessary permissions and were well enough liked by the authorities to keep coming back. The effect is part Potemkin village, part seance, part ethnographic study; there are no interviews or voiceover, just ambient footage. (The Italians may have intended this material as B-roll to be fitted into a more conventional film.) Imperium has sometimes the eerie quality of a ghost story with phantoms drifting placidly across the screen, gazing blankly into the camera, occasionally grimacing or grinning, but destined never to see the film of which they are a part. We don’t see the gulags, of course, or really anything like agencies of the state, apart from the soldiers at the October Revolution parades in Red Square. Many of the former Soviet state capitals featured here nowadays have tourist-attraction KGB museums based in their brutal former HQs; that kind of thing is obviously absent here. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union",
+      "image": "https://i.guim.co.uk/img/media/67665caf36cfa953dddbdcfe933b08b105039fdc/5_0_1200_961/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f36d93fe73b9ff63208787c08c57797d",
+      "publishedAt": "2026-09-07T09:39:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZlZWxnb29kLW1vdmll",
+      "title": "‘Swiftly enchanted’: why Bedknobs and Broomsticks is my feelgood movie",
+      "description": "The latest in our series of writers recommending their most rewatched comfort films is a reminder that Disney’s kids fantasy is more than a Mary Poppins knock-off “ Filigree, apogee, pedigree, perigee !” – the four incantatory words I blame for receiving a shonky Paul Daniels Magic Set as a child in the 80s. In Bedknobs and Broomsticks, it’s the spell that Angela Lansbury’s patriotic Nazi-vanquishing witch Eglantine Price casts to transform people into fluffy rabbits; a trick I yearned to pull off. When it became clear I wouldn’t deter the Third Reich with three plastic thimbles, a deck of playing cards and a flaccid wand, my conjuring kit was mothballed – but my irrational love of the Disney film remains to this day. For me, it originally fell into the category of the crackling VHS that your parents taped off ITV at Christmas then would repeatedly plonk you in front of to shut you up – to the point I can even recall the adverts . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/bedknobs-and-broomsticks-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/29ad25cfa18de7b93de2986fc86b55abdbc8fd9c/651_598_3801_3040/master/3801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409249886a90ef7fd88b993d267193d1",
+      "publishedAt": "2026-09-07T09:00:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-W5hZ2FzYWtpLWJvbWI",
+      "title": "Okurimono review – a heartbreaking dispatch from survivors of the Nagasaki bomb",
+      "description": "Laurence Lévesque’s powerful documentary follows a woman who discovers a support network among her mother’s generation of survivors of the nuclear blast No words are spoken during the first five minutes of Laurence Lévesque’s documentary. In a rustic house on the island city of Nagasaki, a Japanese woman in her 60s, Noriko, draws back the curtains to let in the glow of dawn. The tranquil mood, however, is deceptive. Once her childhood home, the place holds a lifetime of secrets, which Norkia only discovers after her parents’ death. While clearing out the house, she comes across letters received by her mother that shed light on her turmoil as a survivor of Nagasaki’s atomic bombing in 1945. Noriko has always known her mother was a hibakusha – a term referring to people who survived the nuclear bombs. Already scarred by psychological and physical trauma, the victims also faced ostracism in the postwar period, with many barred from work or marriage. Perhaps due to the stigma, Noriko’s mother mentioned little of this to Noriko and her siblings. The letters, however, reveal a moving network of support among the hibakusha , as well as those who lost their loved ones in the bombings. In one heartbreaking note, a grieving mother speaks of sending a healthy son into the army, only to receive his hair and clipped nails in return. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/okurimono-review-heartbreaking-documentary-nagasaki-bomb",
+      "image": "https://i.guim.co.uk/img/media/8efeaeb796986e9aeb43ee979d481183de55a260/316_20_2674_2140/master/2674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d143cb3a52d62e08ab32d8d68396b366",
+      "publishedAt": "2026-09-07T08:23:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-MtaW4taG9uZy1rb25n",
       "title": "Unidentified Murder review – playful sendup of alien abduction and true crime influencers in Hong Kong",
@@ -56,7 +140,7 @@
       "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
       "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
       "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9efb/live/965f7290-aa96-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-09-07T01:31:41.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -98,18 +182,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-1tYXktZWwtdG91a2h5",
-      "title": "Woman Unknown review – postwar paranoia with some deliciously dastardly Du Maurier touches",
-      "description": "Venice film festival A nanny becomes the new lady of a prosperous Copenhagen house as accused Nazi sympathisers are violently shamed in May el-Toukhy’s shrewd, painful portrait of survival Here is an elegantly appointed drama-thriller from May el-Toukhy, about sexual shame and political paranoia in postwar Denmark, with something of Alfred Hitchcock’s Rebecca , which it consciously recalls. As director and co-writer, El-Toukhy has created a shrewd and painful movie about the terrible things you need to do to survive, and what it takes to forget those things afterwards. The scene is a prosperous, upper-middle-class apartment in Copenhagen just after the second world war, when the Danish resistance was permitted the powers of a secret-police militia to detain and interrogate those suspected of having given assistance to the Nazis. Christian (Carsten Bjørnlund) is a ageing factory owner and widower who has evidently fallen in love with his infant daughter’s nanny: this is Marie (fiercely and convincingly played by Mathilde Arcel). Or at any rate, he sees that the child needs a new mother, finds Marie attractive and appreciates her submissive attitude. They are now engaged. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/06/woman-unknown-review-kvinde-ukendt-may-el-toukhy",
-      "image": "https://i.guim.co.uk/img/media/3aaec4925ac5170cd7a5c44b57de59a8727cd53b/716_788_4685_3749/master/4685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d0a8fc39c77f5b415a97df6630707d5a",
-      "publishedAt": "2026-09-06T20:15:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-HktMTIzNTIxNTE5OC8",
@@ -160,30 +232,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-bWF5LWVsLXRvdWtoeQ",
-      "title": "Cult of male genius holding female film-makers back, says Woman Unknown director",
-      "description": "May el-Toukhy says we must end veneration of male directors that causes ‘structural problem’ for women The enduring cult of male genius is keeping down female film-makers, one of the only two female directors in the running for the top prize at this year’s Venice film festival has warned. “I’ve never ever read an article where a female director is promoted as a genius,” said the Danish-Egyptian director May el-Toukhy, whose film Woman Unknown has been selected for the Golden Lion competition on the Lido this year. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/06/cult-male-genius-holding-female-film-makers-back-woman-unknown-director-may-el-toukhy",
-      "image": "https://i.guim.co.uk/img/media/a297281439e54e9839d34234711a26ed50f45290/256_0_2559_2048/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0c5aa6881db5af6209c5b2960e8b37",
-      "publishedAt": "2026-09-06T16:16:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-FuZC1mcmllbmRzaGlw",
-      "title": "Possible Love review – a tale of two couples is finely judged study of exploitation and friendship",
-      "description": "Acclaimed Korean director Lee Chang-dong returns with an inspired account of an unhappy married couple befriended by a documentary maker and her wealthy husband Korean auteur Lee Chang-dong brings to Venice his first feature for eight years. It is a finely judged, beautifully acted and rather novelistic work, in which a character at one point actually compares her surroundings to something from a novel. It is expansive and diffuse in terms of storytelling scope and dramatic focus, rich in intelligence while paying its audience the compliment of treating them as intelligent also. There are moments of pure inspiration in the superb flashback scenes of two characters’ early lives, and I rather regretted that these flashbacks were phased out relatively early on and that more was not made of their relationship with the present. Possible Love is perhaps a little contrived and self-aware and unsure how much emphasis to lay on its moments of irony and comedy, but it is made with such fluency and verve. It is a tale of two couples. Jeon Do-yeon (from Lee’s Secret Sunshine) and Sul Kyung-gu play Mi-ok and Ho-seok, a deeply unhappy married couple from a blue-collar background with a young son. Ho-seok is angry, depressed and struggling with a drinking problem after a catastrophic end to a strike at the factory where he worked. While at the funeral of a colleague of Ho-seok’s, who has taken his own life, he and Mi-ok meet a fashionable and wealthy couple who are making a documentary about the injustice of the way the factory workers were treated. (This couple have a dog instead of a child.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship",
-      "image": "https://i.guim.co.uk/img/media/07ad374a58c4eb6a8b75717180f4390e37b9fb71/440_0_2594_2076/master/2594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9bfac8d7318ef8f5d8e86b39adb5d0c9",
-      "publishedAt": "2026-09-06T14:30:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-W4tMTIzNTIxNTE4MS8",
       "title": "‘The Difficult Bride’ Review: A Haunted Bridal Parlor Drama with Untapped Potential",
       "description": "Venice: Rubaiyat Hossain’s drama about a taxing bride-to-be feels a little too easy.",
@@ -206,18 +254,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-XQtb2YtcG9saXRpY3M",
-      "title": "Wim Wenders clarifies that he does not believe film-makers should stay out of politics",
-      "description": "Director’s controversial comments earlier this year warned of films that ‘enter the field of politics’ The director Wim Wenders has clarified personal views on the relationship between cinema and politics that caused controversy earlier in the year, saying at the Venice film festival that he does not believe film-makers ought to stay out of politics altogether. During the Berlin film festival, the veteran German director, who was acting as the jury president, had said at a press conference that “we have to stay out of politics because if we make movies that are dedicatedly political, we enter the field of politics.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/06/wim-wenders-clarifies-does-not-believe-film-makers-stay-out-of-politics",
-      "image": "https://i.guim.co.uk/img/media/38a3d6144a4ee5ca034ca05a34318dc01fd3479d/53_77_3070_2457/master/3070.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0ea8f7129fe847fac6b5ac91d3fa606",
-      "publishedAt": "2026-09-06T14:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "indiewire-JlLTEyMzUyMTUxNzMv",
@@ -244,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1pcmUtZmFyLXJpZ2h0",
-      "title": "French thriller Jupiter brings nuclear anxiety to red carpets of Venice",
-      "description": "Director Alexandre Smia says film about Russia detonating nuclear warhead – and US refusing to respond – is not unrealistic Russia has detonated a nuclear warhead over the Black Sea to underline its desire to revenge an assassination attempt on the Russian president. Germany and Italy urge restraint. The American president opts out of the standoff altogether and moots taking out Ukraine’s leader to appease Moscow. A new thriller, which has brought nuclear anxiety to the red carpets of the Venice film festival this week, plays through what would happen next. In Jupiter, which premiered on the Lido on Friday, the duty to square up to the Kremlin and enter the stress-inducing mind games of the nuclear deterrent falls on the fictional French president Paul Archambault (played by the hulking French actor Denis Ménochet), who is backed in his mission by the British prime minister. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/06/jupiter-alexandre-smia-nato-disintegration-russia-ire-far-right",
-      "image": "https://i.guim.co.uk/img/media/13c996d65823dc2d6593a1047578e04c76f97c5a/221_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1ed081a12c06200a5bdbc4c48b4e254",
-      "publishedAt": "2026-09-06T10:37:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-dGljYWwtbWFnaWMtMg",
       "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
       "description": "After her role in the fantasy series, the actor felt lost. Now she’s getting relationship advice from Sandra Bullock and Nicole Kidman, and following a Sex and the City star’s mantra: never be anywhere you aren’t enjoying yourself Maisie Williams has dabbled in witchcraft exactly once. The actor was getting ready to audition for a&nbsp;part in a film. “I wanted it so badly that I went on to Etsy, and I&nbsp;paid a&nbsp;witch to manifest me the role,” she says, poker-faced. “It&nbsp;didn’t work, and that was where my days of witchcraft ended,” she adds, breaking into an infectious cackle. Continue reading...",
@@ -268,16 +292,28 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-mstMTIzNTIxNTExNy8",
-      "title": "Danny Boyle Talks Returning to Telluride and Fighting to Make His Tabloid Sensation ‘Ink’",
-      "description": "The Oscar winner also explains his decision to use AI tools in 30 seconds of the film: \"I didn't want an imitation Thatcher.\"",
-      "url": "https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_9930.jpeg?w=650",
-      "publishedAt": "2026-09-06T00:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
+      "id": "guardian-Utb2R5c3NleS1kdW5l",
+      "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
+      "description": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite recently becoming a father for the first time. “Once you get the momentum going, it’s strangely not that hard,” said Pattinson at the Venice film festival. “Once you start spinning plates, it gets quite addictive.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
+      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72ef7f65e0947ed5d1b9f946331d98a2",
+      "publishedAt": "2026-09-05T14:42:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZS1yb29uZXktbWFyYQ",
+      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333b08359550864299def07f653a62d5",
+      "publishedAt": "2026-09-05T12:15:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-LWRlYXRoLWhhbWxldA",
@@ -286,18 +322,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/04/like-a-tired-boxer-battered-by-applause-as-andrew-scotts-biopic-premieres-richard-eyre-remembers-ian-charlesons-superb-near-death-hamlet",
       "image": "https://i.guim.co.uk/img/media/ca3314382a104716e2002ac81b57bc7902b17f3c/0_827_2364_1890/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=787b443899bfc70619d3abf1709b860f",
       "publishedAt": "2026-09-04T14:03:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-YtZGllcy1hZ2VkLTc3",
-      "title": "Latcho Drom director Tony Gatlif dies aged 77",
-      "description": "Film-maker acclaimed for his celebrations of Roma culture had been working on a ‘historical film project’ in Provence Tony Gatlif, the French director of more than 20 films that mostly concentrated on celebrating Roma culture across the world, has died aged 77. His family said in a statement to AFP that Gatlif died on Wednesday of “a health issue” while working on a “historical film project” in Arles in Provence, France. “The beauty of his films, his generosity, his joy, his poetry, and his love of music will remain with us forever.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/latcho-drom-director-tony-gatlif-dies-aged-77",
-      "image": "https://i.guim.co.uk/img/media/2eacc9a4ce176888fc5a73655cb74fa77b21ef54/1408_220_1886_1509/master/1886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26e0c25b1154b66fa1bc429d39ada86b",
-      "publishedAt": "2026-09-04T13:25:41.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -328,18 +352,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg",
-      "publishedAt": "2026-09-04T04:06:41.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-b3VyLWludGVydmlldw",
       "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
       "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 84, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a great father, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
@@ -358,54 +370,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg",
       "publishedAt": "2026-09-04T00:34:18.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Why Northern Ireland was the 'perfect place' for Robin Hood's death",
-      "description": "The Death of Robin Hood, which stars Hugh Jackman and Jodie Comer, was filmed entirely in Northern Ireland.",
-      "url": "https://www.bbc.co.uk/news/articles/ce9eg0zz8k4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7c1c/live/c6206300-a603-11f1-83fc-0df57e6b3866.jpg",
-      "publishedAt": "2026-09-03T23:00:34.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-EtYXdmdWwtdGhpbmdz",
-      "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
-      "description": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright and film-maker Martin McDonagh has said, as his Oscar-tipped film about a rueful CIA agent premieres at the Venice film festival. “I’ve been very interested in the truth of what the CIA has been doing over the last 60 years, and the awful things they’ve done all around the world,” McDonagh said about Wild Horse Nine, his first film since his 2022 tragicomedy The Banshees of Inisherin . “I think maybe something that’s not talked about enough. We know what the KGB are like, but we probably don’t question the CIA’s activity as much as we ought to.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/martin-mcdonagh-wild-horse-nine-cia-awful-things",
-      "image": "https://i.guim.co.uk/img/media/dfd856c59e53370ebfa44143ae2345bc95ddf861/149_0_3199_2561/master/3199.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee1167e2757782bfc548bcd179e9a35d",
-      "publishedAt": "2026-09-03T14:21:51.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-      "description": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg",
-      "publishedAt": "2026-09-03T11:47:51.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg",
-      "publishedAt": "2026-09-03T09:37:34.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
