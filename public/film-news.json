@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T01:07:46.122Z",
+  "generatedAt": "2026-09-07T06:55:35.383Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,54 @@
   },
   "articles": [
     {
+      "id": "guardian-MtaW4taG9uZy1rb25n",
+      "title": "Unidentified Murder review – playful sendup of alien abduction and true crime influencers in Hong Kong",
+      "description": "Childhood friends claim to have witnessed the disappearance of a schoolkid in this low-budget comedy caper that pushes limits of storytelling Modestly scaled and intricately structured, Kwok Ka-Hei and Jack Lee Chun-Kit’s comedy is a capriciously playful send-up of true crime aficionados and wannabe influencers, done with affection rather than malice. It revolves around a (fictional) 25-year-old case that captivates the whole of Hong Kong. Back when they were seven, childhood friends Mark (Ling Man-lung) and Kit (Ronald Lam Tsz-kit) claimed to have witnessed the abduction by aliens of their classmate Ho in the woods of Tung Tau Hill. On the 25th anniversary of this supposed incident, the pair re-enter the internet’s consciousness after an interview on an online chatshow about unsolved mysteries. Cashing in on their viral fame, Mark’s girlfriend Man (Renci Yeung) hires actor Kim (Peter Chan Charm-man) to pretend to be Ho, all in the hope of racking up views on her social channels. Just when the cameras are all set up, Man watches in horror as the staged reunion leads to a real murder … or does it? The film unfolds in a series of increasingly tricksy complications and reversals. All of a sudden, apparent victims are revealed to be scheming masterminds, and vice versa. As most of the actions take place in the forest where the abduction supposedly occurred, the plot derives comic relief from the increasingly blurred line between truth and playacting. Largely shot with handheld cameras, it has a visual style that lends authenticity to representations of online media, though occasionally this distracts from the physical comedy performed by the cast. The constant twists also turn into bit of a competitive sport, meaning the film becomes more of a writing exercise than anything else. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/unidentified-review-playful-sendup-of-alien-abduction-and-true-influencers-in-hong-kong",
+      "image": "https://i.guim.co.uk/img/media/c83195ff14924333403a87231103899602412cec/180_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f5f5b6d9ab57807a5ffac63570a503fb",
+      "publishedAt": "2026-09-07T06:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-mF0dXJlLXVudGFtZWQ",
+      "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
+      "description": "Epic plankton blooms make filming in the North Sea notoriously difficult. But a new documentary gives a rare glimpse of the kaleidoscopic life – seals, sharks, tuna, orcas and shorthorn sculpins – lurking beneath its waves The North Sea, as even its greatest admirers will concede, often glowers an unappetising grey or brown. And we assume that its dull exterior is matched by sediment-filled waters where little life dwells. For years, the friends and family of Peter van Rodijnen wondered why the Dutch cinematographer and diving fanatic spent so much time exploring “this murky bowl of soup”. But, inspired by a childhood of watching Jacques Cousteau’s adventures in rather more enticingly temperate waters, Van Rodijnen’s dedication to North Sea diving gradually revealed its hidden wonders. Over 20 years, as camera technology improved, Van Rodijnen obtained more and more amazing footage of marine life near his home on the Netherlands coast. Nearly a decade ago, he teamed up with director Mark Verkerk. “We started with the idea,” says Van Rodijnen, “that if somebody can make a movie about the North Sea, it’s got to be us.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
+      "image": "https://i.guim.co.uk/img/media/133cf01dccae88c5760a3bf553f4ee5572f3a55e/2404_906_4703_3762/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17cfe7dbf4b1bb029ab50df67ee3084b",
+      "publishedAt": "2026-09-07T04:00:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE0NjI5Lw",
+      "title": "‘Lanterns’ Review: Episode 4 Is All About ‘The Weenie&#039;(s) — Spoilers",
+      "description": "There are three weenies in \"The Weenie\": a secret compound that may hide the Manhunter, William Macon's, um, \"elephant\" in the room, and John Stewart himself. Each weenie tells a story, and each story tells us a lot about \"Lanterns.\"",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-4-Aaron-Pierre-as-John-Stewart-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
+      "publishedAt": "2026-09-07T02:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+      "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ec15/live/7c3bfdd0-a798-11f1-b64a-71b1e45ff5c7.jpg",
+      "publishedAt": "2026-09-07T01:31:41.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-J5LTEyMzUyMTUyMTkv",
       "title": "A24 Reveals Telluride Secret Screening: It’s Nathan Fielder and Lance Oppenheim’s Documentary About Elizabeth Holmes",
       "description": "\"You Can See Everything\" will hit theaters this October.",
@@ -25,6 +73,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Zm9yLXBhbGVzdGluZQ",
+      "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
+      "description": "Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for Palestinians, despite what she ⁠described as a broader shift ⁠in public opinion against ​US support for Israel. Speaking at the Venice film festival, where she is promoting her latest movie The Echo Chamber, Sarandon said some parts of the film industry continued to ⁠shun her over her activism. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
+      "image": "https://i.guim.co.uk/img/media/1f492e3655b3de42d32bf8c27a9ea31f3b901d74/352_0_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeb91daa5a6a9495dbb536b0c9ac890a",
+      "publishedAt": "2026-09-07T00:17:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -220,42 +280,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTUxNDMv",
-      "title": "‘The Illusion of an Everlasting Summer’ Review: A Photographer’s Portrait of Two Argentine Cousins Poignantly Captures the Passage of Time",
-      "description": "Telluride: Alessandra Sanguinetti chronicles the shared and separate lives of Guillermina and Belinda from childhood into their mid-thirties.",
-      "url": "https://www.indiewire.com/criticism/movies/the-illusion-of-an-everlasting-summer-review-1235215143/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-05-at-8.12.09-PM.png?w=650",
-      "publishedAt": "2026-09-06T00:28:29.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
-      "description": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created “Hello … hello … It’s good to be back.” With these words – and the unfortunate possibility of a royalty payment to a certain disgraced ex-pop star – this highly enjoyable fan-worship documentary revives the memory of last year’s staggering and already mythic Oasis reunion tour . It also recollects how effortlessly funny the Gallagher brothers are, like a great comic double act. There’s a big laugh in the tense scene in the rehearsal room, when Liam finally shows up after Noel and everyone else had been there for hours – and the very first thing that comes out of his mouth is a fierce and magnificently sullen objection to the baffles on the drum kit: “They’re giving me the hump.” Yet to the surprise of many who did not believe, and these biblical echoes are strangely appropriate, Liam and Noel did not fall out; the resulting stadium tour put a fresh coat of paint on the word “phenomenon”. Middle-aged and indeedelderly people in bucket hats, together with young people in bucket hats, some accompanied by their pets in bucket hats, sang their hearts out as if it was the 90s again and Manchester City had just won the World Cup 10-0 (although this film was evidently completed before Wonderwall’s moment at this year’s World Cup ). Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
-      "image": "https://i.guim.co.uk/img/media/86ca6bbb64324fed082554641f9fcbd4d2ba9db2/451_0_2624_2100/master/2624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=873a22f5a7ab94f5f5e00847ad6a54d7",
-      "publishedAt": "2026-09-05T19:30:44.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-Utb2R5c3NleS1kdW5l",
-      "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
-      "description": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite recently becoming a father for the first time. “Once you get the momentum going, it’s strangely not that hard,” said Pattinson at the Venice film festival. “Once you start spinning plates, it gets quite addictive.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
-      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72ef7f65e0947ed5d1b9f946331d98a2",
-      "publishedAt": "2026-09-05T14:42:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LWRlYXRoLWhhbWxldA",
       "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet",
       "description": "In 1989, the Chariots of Fire actor took on the incredible task of playing Shakespeare’s prince while terminally ill from Aids. This weekend sees the world premiere of Elsinore, a new film about the episode, itself heavily-tipped for awards Ian Charleson was one of the finest actors of his generation and an important figure in the fight for gay rights. Yet the extraordinary circumstances of his final performance as Hamlet, just months before his death, are less familiar. Now, a new film is bringing that haunting production back to life. Elsinore, directed by Simon Stone and starring Andrew Scott as the Scottish actor, will premiere at Telluride this weekend before opening the London film festival in October . Continue reading...",
@@ -352,18 +376,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Catherine Zeta-Jones praised by fans for using Welsh accent in TV series",
-      "description": "The Hollywood actress is starring in a new thriller series using her natural Swansea accent.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzn8r8w79o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/874e/live/a17bd8d0-a834-11f1-b3a7-d5de760fef6e.png",
-      "publishedAt": "2026-09-03T17:03:12.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
       "id": "guardian-EtYXdmdWwtdGhpbmdz",
       "title": "Martin McDonagh says CIA has ‘done awful things all around the world’",
       "description": "McDonagh’s new film, Wild Horse Nine, stars John Malkovich as an agent in 1970s Chile who feels ‘guilt and regret’ over his role in global interventions The US’s history of intervening in democratic processes around the world deserves more attention in the light of current political developments, playwright and film-maker Martin McDonagh has said, as his Oscar-tipped film about a rueful CIA agent premieres at the Venice film festival. “I’ve been very interested in the truth of what the CIA has been doing over the last 60 years, and the awful things they’ve done all around the world,” McDonagh said about Wild Horse Nine, his first film since his 2022 tragicomedy The Banshees of Inisherin . “I think maybe something that’s not talked about enough. We know what the KGB are like, but we probably don’t question the CIA’s activity as much as we ought to.” Continue reading...",
@@ -397,18 +409,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-WZpbG0tZmVzdGl2YWw",
-      "title": "Female film-makers still being squeezed out of industry, London film festival director says",
-      "description": "Over 40% of films in LFF programme are female-made, but only two of 21 gala films are directed by women Female film-makers are still being squeezed out of the industry as they progress beyond their debut films, the director of the London film festival has said, adding that “the dial does not seem to be moving”. Kristy Matheson’s comments came as LFF announced its full programme for this year’s event, which runs from 7 to 19 October. Of the 251 titles, 109 (43%) are made by female film-makers, but only two of the 21 gala films are directed by women. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/02795ef029d96996045f4b0f505c6e0736bcf677/464_0_4383_3507/master/4383.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eaf11b6bcf4a5095b5d2266c4d91545",
-      "publishedAt": "2026-09-02T18:00:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
