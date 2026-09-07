@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T18:30:24.304Z",
+  "generatedAt": "2026-09-07T01:07:46.122Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-J5LTEyMzUyMTUyMTkv",
+      "title": "A24 Reveals Telluride Secret Screening: It’s Nathan Fielder and Lance Oppenheim’s Documentary About Elizabeth Holmes",
+      "description": "\"You Can See Everything\" will hit theaters this October.",
+      "url": "https://www.indiewire.com/news/festivals/telluride-2026-secret-screening-nathan-fielder-documentary-1235215219/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
+      "publishedAt": "2026-09-07T00:37:16.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTUyMTAv",
+      "title": "Jesse Eisenberg’s ‘The Debut’ Serves Up an Oscar-Worthy Julianne Moore — Here’s How He Did It",
+      "description": "Paul Giamatti offers stalwart support as a domineering director shaping a novice actress in a New Jersey community theater.",
+      "url": "https://www.indiewire.com/features/interviews/jesse-eisenberg-the-debut-interview-1235215210/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3119.jpeg?w=650",
+      "publishedAt": "2026-09-06T22:45:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1tYXktZWwtdG91a2h5",
+      "title": "Woman Unknown review – postwar paranoia with some deliciously dastardly Du Maurier touches",
+      "description": "Venice film festival A nanny becomes the new lady of a prosperous Copenhagen house as accused Nazi sympathisers are violently shamed in May el-Toukhy’s shrewd, painful portrait of survival Here is an elegantly appointed drama-thriller from May el-Toukhy, about sexual shame and political paranoia in postwar Denmark, with something of Alfred Hitchcock’s Rebecca , which it consciously recalls. As director and co-writer, El-Toukhy has created a shrewd and painful movie about the terrible things you need to do to survive, and what it takes to forget those things afterwards. The scene is a prosperous, upper-middle-class apartment in Copenhagen just after the second world war, when the Danish resistance was permitted the powers of a secret-police militia to detain and interrogate those suspected of having given assistance to the Nazis. Christian (Carsten Bjørnlund) is a ageing factory owner and widower who has evidently fallen in love with his infant daughter’s nanny: this is Marie (fiercely and convincingly played by Mathilde Arcel). Or at any rate, he sees that the child needs a new mother, finds Marie attractive and appreciates her submissive attitude. They are now engaged. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/woman-unknown-review-kvinde-ukendt-may-el-toukhy",
+      "image": "https://i.guim.co.uk/img/media/3aaec4925ac5170cd7a5c44b57de59a8727cd53b/716_788_4685_3749/master/4685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d0a8fc39c77f5b415a97df6630707d5a",
+      "publishedAt": "2026-09-06T20:15:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIxNTE5OC8",
+      "title": "‘Woman Unknown’ Review: May el-Toukhy’s Paranoid Period Thriller Depicts the Degradation of Women Accused of Sleeping with Nazis",
+      "description": "This harrowing fictionalization of the Danish resistance’s witch hunts will make you despair for humanity.",
+      "url": "https://www.indiewire.com/criticism/movies/woman-unknown-movie-review-may-el-toukhy-1235215198/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
+      "publishedAt": "2026-09-06T20:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIxNTE3OC8",
+      "title": "‘Hombre Al Agua’ Review: Gael García Bernal’s Meta Reflection on Narrative Fascinates and Frustrates",
+      "description": "Venice: Gael García Bernal’s third directorial outing is rich with layers but leaves his protagonist too much of a blank slate.",
+      "url": "https://www.indiewire.com/criticism/movies/hombre-al-agua-review-gael-garcia-bernal-1235215178/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/hombre_al_agua.jpg?w=650",
+      "publishedAt": "2026-09-06T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-xpLTEyMzUyMTI4OTYv",
       "title": "‘The Echo Chamber’ Review: Luca Marinelli and Alicia Vikander Are Sublime in a Brooding Addiction Romance Directed from Bertolucci’s Last Script",
@@ -172,18 +232,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-dy0xMjM1MjE0OTU2Lw",
-      "title": "‘Making Marie Antoinette’ Review: Eleanor Coppola’s Tender Documentary About Her Daughter’s Masterpiece Doubles as a Wistful Self-Portrait",
-      "description": "Telluride: Two generations of women see each other through the years in this marvelous documentary cobbled together from 80 hours of \"Marie Antoinette\" set footage.",
-      "url": "https://www.indiewire.com/criticism/movies/making-marie-antoinette-documentary-movie-review-1235214956/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MA_800dpi_8_Credit_Sofia-Coppola.jpeg?w=650",
-      "publishedAt": "2026-09-06T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
       "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
       "description": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created “Hello … hello … It’s good to be back.” With these words – and the unfortunate possibility of a royalty payment to a certain disgraced ex-pop star – this highly enjoyable fan-worship documentary revives the memory of last year’s staggering and already mythic Oasis reunion tour . It also recollects how effortlessly funny the Gallagher brothers are, like a great comic double act. There’s a big laugh in the tense scene in the rehearsal room, when Liam finally shows up after Noel and everyone else had been there for hours – and the very first thing that comes out of his mouth is a fierce and magnificently sullen objection to the baffles on the drum kit: “They’re giving me the hump.” Yet to the surprise of many who did not believe, and these biblical echoes are strangely appropriate, Liam and Noel did not fall out; the resulting stadium tour put a fresh coat of paint on the word “phenomenon”. Middle-aged and indeedelderly people in bucket hats, together with young people in bucket hats, some accompanied by their pets in bucket hats, sang their hearts out as if it was the 90s again and Manchester City had just won the World Cup 10-0 (although this film was evidently completed before Wonderwall’s moment at this year’s World Cup ). Continue reading...",
@@ -196,60 +244,12 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTUxMDMv",
-      "title": "‘Oasis: Don’t Look Back in Anger’ Review: The Gallaghers’ Concert Doc Is a Reason for Celebration",
-      "description": "While the setlist might be a bit long for more casual fans, this joyous chronicle of the Oasis reunion tour offers an inspiring tale of forgiveness and reconciliation.",
-      "url": "https://www.indiewire.com/criticism/movies/oasis-dont-look-back-in-anger-concert-documentary-review-1235215103/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/dont_look_back_in_anger.jpg?w=650",
-      "publishedAt": "2026-09-05T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-notMTIzNTIxNTA3My8",
-      "title": "Robert Pattinson Won’t Be the Only ‘Primetime’ Star to Generate Oscar Buzz",
-      "description": "Outside of Pattinson's big swing as \"To Catch a Predator\" host Chris Hansen, Lance Oppenheim's feature debut \"Primetime\" serves as a showcase for stars Merritt Wever and Skyler Gisondo as well.",
-      "url": "https://www.indiewire.com/news/festivals/robert-pattinson-primetime-cast-oscar-buzz-1235215073/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1081B2D.jpg?w=650",
-      "publishedAt": "2026-09-05T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIxNTA4Ny8",
-      "title": "‘Elsinore’ and ‘The Liberation’ Launch TV Stars Andrew Scott and Carrie Coon Into the Oscar Race",
-      "description": "Telluride Day One boasted two world premieres with heart-rending performances.",
-      "url": "https://www.indiewire.com/awards/predictions/elsinore-the-liberation-andrew-scott-carrie-coon-oscar-race-1235215087/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/scottIMG_3098_ce9599.jpeg?w=650",
-      "publishedAt": "2026-09-05T16:01:03.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-Utb2R5c3NleS1kdW5l",
       "title": "Robert Pattinson says he had ‘twice as much time’ after birth of first child",
       "description": "Actor says of busy 2026 in which he has had several big roles: ‘Once you start spinning plates, it gets quite addictive’ Robert Pattinson has talked about the “addictive” nature of working on several films simultaneously, having starred in several of this year’s most highly anticipated productions, despite recently becoming a father for the first time. “Once you get the momentum going, it’s strangely not that hard,” said Pattinson at the Venice film festival. “Once you start spinning plates, it gets quite addictive.” Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/05/robert-pattinson-venice-film-festival-primetime-odyssey-dune",
       "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72ef7f65e0947ed5d1b9f946331d98a2",
       "publishedAt": "2026-09-05T14:42:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZS1yb29uZXktbWFyYQ",
-      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
-      "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
-      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333b08359550864299def07f653a62d5",
-      "publishedAt": "2026-09-05T12:15:04.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
