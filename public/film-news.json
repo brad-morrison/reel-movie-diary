@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:41:05.775Z",
+  "generatedAt": "2026-09-08T18:35:37.981Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,138 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-Yy0xMjM1MjE1NTU4Lw",
+      "title": "Telluride Boosts Oscar Chances, from ‘Wild Horse Nine’ to ‘La Bola Negra,’ but Is A24’s Controversial Elizabeth Holmes Doc a Contender Too?",
+      "description": "The mountain festival, along with Venice, always clarifies the ongoing award contenders. Toronto is next up.",
+      "url": "https://www.indiewire.com/awards/predictions/telluride-oscar-analysis-john-malkovich-a24-elizabeth-holmes-doc-1235215558/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970.jpg?w=650",
+      "publishedAt": "2026-09-08T18:21:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Oasis' Cardiff reunion gig was 'hugely emotional' say film-makers",
+      "description": "Filmmakers describe the gig as a \"hugely emotional\" experience that took Noel Gallagher by surprise.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qry7vq9gjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f73/live/eef75230-aba7-11f1-8e72-a346833ed029.png",
+      "publishedAt": "2026-09-08T17:20:24.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1maWxtLWZlc3RpdmFs",
+      "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
+      "description": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire Even the formidable pairing of Penélope Cruz and Javier Bardem can’t save this new movie from writer-director Florian Zeller – his first created directly for the screen, and not adapted from his own stage original. It’s shallow and unsatisfying, a drama without the intimate, authentic passion of his previous movies like The Father (2021) or The Son (2022). Bunker has nothing that interesting or original to say about its metaphorically showcased theme of alienation and inequality; the central relationship is left unexplored in favour of so-so home-invasion suspense styling – although one extended marital-argument scene showed what might have been achieved if their relationship was the film’s point – and the violent finale ending is outrageously glib, silly and unconvincing. An off-camera paramedic or doctor actually has to be heard explaining in a brief sentence afterwards what is supposed to have happened. Very lame. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival",
+      "image": "https://i.guim.co.uk/img/media/fbd3272badbf1b060dc22e2e24898b2529b204a3/1168_0_5252_4202/master/5252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=99eee3fa0ef4440cfc30e901a19bdf8a",
+      "publishedAt": "2026-09-08T17:00:45.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V6LTEyMzUyMTUzNzcv",
+      "title": "‘Bunker’ Review: A Tech Billionaire Asks Javier Bardem to Build a Doomsday Ark in Florian Zeller’s Heavy-Handed Social Thriller",
+      "description": "Venice: Bardem co-stars with real-life wife Penélope Cruz in a movie that fails to make worthwhile use of their individual talents or shared personal history.",
+      "url": "https://www.indiewire.com/criticism/movies/bunker-review-javier-bardem-penelope-cruz-1235215377/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/javier-bardem-bunker.jpg?w=650",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-FuLTEyMzUyMTUxOTIv",
+      "title": "‘Practical Magic 2’ Review: Sandra Bullock and Nicole Kidman Break Hearts in a Spellbinding Sequel",
+      "description": "Let yourself fall in love with Susanne Bier’s touching follow-up to the witchy 1998 cult film.",
+      "url": "https://www.indiewire.com/criticism/movies/practical-magic-2-review-sandra-bullock-nicole-kidman-1235215192/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPRMA_WB002.jpg?w=650",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTU1MTEv",
+      "title": "‘Alpha Gang’ Review: Léa Seydoux Leads an All-Star Cast of Motorcycle-Loving Aliens in the Zellner Brothers’ Wacky Sci-Fi Pastiche",
+      "description": "Dave Bautista, Chris Pine, and Lily Rose-Depp are among the other rockabilly ETs, who take human form but can't handle human emotion.",
+      "url": "https://www.indiewire.com/criticism/movies/alpha-gang-movie-review-1235215511/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Alpha_Gang_Still_Hero.jpg?w=650",
+      "publishedAt": "2026-09-08T15:47:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WVudGFyeS12ZW5pY2U",
+      "title": "Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’",
+      "description": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence • Musk review – epic study of the world’s richest and most banal man Elon Musk is sowing “deliberate division” via his social media platform X that will be catastrophic unless regulated, the mother of one of the 14 confirmed children fathered by the world’s richest man has warned. In Musk, a new documentary by veteran film-maker Alex Gibney, former Maga influencer Ashley St Clair says Musk told her in a text message he wanted to have a child with her because he needed to have “a legion of children before the civil war”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice",
+      "image": "https://i.guim.co.uk/img/media/4b10e778f19932f664888b0abb5b35a911e8b1ad/295_0_4425_3540/master/4425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b02e50d3dfb920f8ba8dae308d244bd9",
+      "publishedAt": "2026-09-08T15:05:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VwLTEyMzUyMTQ5ODgv",
+      "title": "The Downtown Festival Sets 2026 Film Lineup, Including Paul Schrader, Ethan Hawke and Siyou Tan",
+      "description": "The third annual edition of the festival will run from October 9 through October 18 across Lower Manhattan.",
+      "url": "https://www.indiewire.com/news/festivals/downtown-festival-2026-film-lineup-1235214988/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Basics-of-Philosophy-Jack-x-Sofia-Still.jpg.webp?w=650",
+      "publishedAt": "2026-09-08T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Vsb24tbXVzay1maWxt",
+      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
+      "description": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Venice film festival this year. The Oscar-winning 72-year-old, who has in previous films taken on the US military, the Catholic church, Vladimir Putin and Scientology, has been investigating the tech tycoon’s ascent and speaking to people in his orbit since late 2022, before his Maga turn and Trump 2.0. The result clocks in at just under four hours and presents a comprehensive answer to how on earth one man managed to amass so much money and political influence. It is shocking less for any individual new pieces of information Gibney has unearthed than for its totality. Here are six things the film tells us: Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
+      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/1625_570_934_748/master/934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60eb365c31b2e4a78e2d44d7539ec64f",
+      "publishedAt": "2026-09-08T13:34:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-N0LTEyMzUyMTQzNzMv",
+      "title": "TIFF Finally Has a Formal Film Market, but Sellers and Buyers Still Don’t Know What to Expect",
+      "description": "The inaugural TIFF Market is bringing hundreds of buyers up north for the first time in years, but could it slow sales for festival titles or result in more packages this fall?",
+      "url": "https://www.indiewire.com/news/festivals/tiff-film-market-what-to-expect-1235214373/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2172281556.jpg?w=650",
+      "publishedAt": "2026-09-08T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-W1hbi1lbG9uLWZpbG0",
+      "title": "Musk review – epic study of the world’s richest and most banal man",
+      "description": "Venice film festival: Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary ‘Elon is a nuke.” The speaker is Ashley St Clair, a former conservative Maga influencer and one of Elon Musk’s former girlfriends-slash-baby mommas. She is a fascinating expert witness in Alex Gibney’s four-hour epic study of the world’s richest and dullest man: the overgrown brattish South-African-born trillionaire plutocrat, ersatz visionary and Trump courtier who owns Tesla cars, SpaceX rocket ships, Starlink satellites on which nation states’ military capabilities are increasingly reliant, X (formerly Twitter) which shapes the collective “incel” id of billions and GrokAI whose vast server farms daily guzzle oceans of precious water. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
+      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/384_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=39aba95ba5efd6d3d85dc0943d9414f3",
+      "publishedAt": "2026-09-08T12:32:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-ay0xMjM1MjE1NDMzLw",
       "title": "‘Musk’ Review: Alex Gibney’s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here",
@@ -70,30 +202,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
       "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a05d436d6642f1eb6434312ff3c5187a",
       "publishedAt": "2026-09-08T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dHQtaWFuLW9naWx2eQ",
-      "title": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
-      "description": "Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension Proceeding from an old-school title pun – yes, the heroine goes by the name Ros Knight – the latest from resourceful microbudget producer Jonathan Sothcott surely has one optimistic eye on filling the void left by the withdrawal of 007 from public life. Here is the gender-flipped Bond some have been seeking: the adventures of a no-nonsense, tough-talking security operative (Jeanine Nerissa Sothcott) who is tasked with recovering a lethal bioweapon pilfered from a scaled-down Porton Down during the prologue. Everything, in truth, proves a bit reined-in. This austerity actioner spends less on its set pieces than the Broccolis typically did on keeping one Aston Martin refuelled; the Sothcotts’ car of choice, emblematically, is the dinkiest of Minis. In essence, it’s Bond without the attendant glamour, hanging around drizzly marinas and parky-looking country lanes, in dim light that hopefully obscures some of the more obvious budget limitations. What money there is here has wisely been spent on human resources, faces who might still look good on the promotional material: a cameoing Michael Paré as a shady Felix Leiter type, Roger Moore’s son Geoffrey as our gal’s understandably worried-looking lover, Nick Moran giving cut-price Colin Firth as a meddling bureaucrat. The pick of the players is a spry, characterful Ian Ogilvy as Ros’s estranged father, helpfully identifying where the real power lies on a chessboard and generally steadying scenes whenever matters get a bit too threadbare. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
-      "image": "https://i.guim.co.uk/img/media/f0e11570aece0ad08bb1f10dbaf4959098c88160/87_0_845_676/master/845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd60bf947744663c45682189be8a77d4",
-      "publishedAt": "2026-09-08T08:00:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cml0dWFsLXdpc2RvbQ",
-      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
-      "description": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film takes the less-travelled path in charting the daily life of a pair of Czech twins a long way off conventional routes themselves. František and Ondřej Klišík are slowly going mad – or maybe closing in on enlightenment – in a cabin in the Šumava mountains and, extrapolating a short story about the brothers by Aleš Palán, director Miro Remo succumbs productively to the prevailing cabin fever – not only egging these longbeards on in their squabbling and loopy philosophising, but pitching in with his own fabulism and surrealism. Closing on 60, “Franta” and “Ondra” still farm their smallholding with the help of Nandy, a mutinous bull ill-chosen as a draught animal. In their downtime, they booze, banter and bicker, lament their lack of prospects with the fairer sex, and blow off steam in epic arm-wrestling bouts. Despite an arm lost to a sawmill accident, it’s Franta who’s usually the victor; he is also possessed by a quixotic streak absent in his bluff sibling. Letting loose streams of poetry into the air like bunting, wishing “joy to all conscious beings”, he is also constructing his own Da Vinci-style perpetual flying machine. “Your aversion to my perpetuum is a little annoying,” he informs the exasperated Ondra. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
-      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f4cb947a50036cec5bdcfb54ba4a2a7d",
-      "publishedAt": "2026-09-08T06:00:29.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -160,30 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
-      "description": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to call film-makers “storytellers”, despite the fact that film-makers don’t necessarily have to deliver conventional narrative and that so many of them are in any case no good at the old-fashioned business of storytelling. But this last point certainly doesn’t apply to Italian director Paolo Strippoli who has brought to Venice an uproarious edge-of-the-seat gripper in which Valeria Bruni Tedeschi gives us the funniest performance of the festival and the best of her career. It’s a satirical nightmare about a wealthy woman’s Faustian bargain, like one of Roald Dahl’s Tales of the Unexpected – as elegantly designed and beautifully shot as anything by Paolo Sorrentino and with smart, subversive things to say about body image and body fascism and about a cosseted, self-involved Italian matriarch who eternally congratulates herself on sacrificing herself – or wanting to sacrifice herself – for her children. At the centre of this bizarre drama is Anna (superbly played by Jasmine Trinca) who is complacently marred to wealthy alpha-male Bari businessman Walter (Adriano Giannini): they have two children: Alice (Romana Maggiora Vergone) and Tobia (Andrea Genovese). Each family member gets a chapter. At a spectacular party at their gorgeous home, whose clear purpose is to make friends and neighbours jealous, a terrible accident happens, just after the children discover an ominous spiral of ants in the grass. While praying desperately for a miracle, Anna is visited by “ L’estranea ” of the film’s Italian title, the mysterious stranger hilariously played by Tedeschi, who appears to know all about this rich, picture-perfect family and offers to solve their problems. But she wants something in return, a sadistic deal that cuts to the heart of both parents’ selfishness. Anna had always wanted to act in her youth but her father forbade it – now she has been obsessively pushing Alice into acting and is morbidly upset at any physical problem that Alice has which damages this proxy ambition. As for macho Walter, he is thrilled at Tobia’s skills at football, and sponsors his son’s youth team; he is disgusted (rather than compassionate) at a weight issue that Tobia has which gets him dropped from the side. And all the time Anna sombrely considers the sacrifices she has secretly brokered for other people to make with this smirking, skittish Mephistopheles in order to keep her family safe. But has she done wrong? Is she guilty of some obvious sin which is being punished? No. It is just a deadpan tale of supernatural cruelty meted out to someone whose only crime is smugness, vanity and being rude to her domestic staff. It all climaxes in an apocalyptic finale: an enjoyable and macabre family affair. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=2606de0170adb25316c3a54af26aebd5",
-      "publishedAt": "2026-09-07T17:30:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aC1vZi1wYXJhZGlzZQ",
-      "title": "The Pervert’s Guide to Utopias review – Slavoj Žižek goes in search of paradise",
-      "description": "Venice film festival: Inserting himself into settings from Apocalypse Now to The Handmaid’s Tale, the pop-cultural critic finds it hard to locate the perfect ending – even with spoilers The great pop-cultural critic and postmodern Marxist is back, with more entertaining and semi-serious provocations and deconstructive insights, notionally into the idea of “utopias”, as they appear in the movies and TV, having already done “cinema” and “ideology”. I was incidentally hoping for a Slavoj Žižek aria about how unexpectedly great and profoundly important threequels are. This is of course delivered emphatically in that amazing voice, now as universally recognised as Werner Herzog’s. Is it too late for a cameo on The Simpsons? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-perverts-guide-to-utopias-review-slavoj-zizek-goes-in-search-of-paradise",
-      "image": "https://i.guim.co.uk/img/media/b1a8d305d52c4a3613b8ef9c4cec346df4b28100/570_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0d10b3c0370f7dd6bf320824284cbe2c",
-      "publishedAt": "2026-09-07T16:31:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
       "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
@@ -194,42 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNTIwMy8",
-      "title": "‘Look Back’ Review: Hirokazu Kore-eda’s Hyper-Faithful Adaptation Draws Rich and Dazzling New Textures from Manga and Anime",
-      "description": "Venice: Two girls bond over their love of creating manga in a bittersweet tragedy that gains as much as it loses during the jump to live-action.",
-      "url": "https://www.indiewire.com/criticism/movies/look-back-live-action-movie-review-1235215203/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Look-Back-2026-teaser-poster-1-featured.webp?w=650",
-      "publishedAt": "2026-09-07T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjE1MjcxLw",
-      "title": "Werner Herzog on David Lynch, AI, and Why His Unhinged New Film ‘Bucking Fastard’ Skipped Cannes for Venice",
-      "description": "Venice: \"Somehow, as a director, I've always managed to get the very, very best out of my actors,\" the documentary grandmaster tells IndieWire. The film stars Rooney and Kate Mara as twins who move and speak in near-perfect unison.",
-      "url": "https://www.indiewire.com/features/interviews/werner-herzog-interview-david-lynch-ai-bucking-fastard-1235215271/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZNUN.jpg?w=650",
-      "publishedAt": "2026-09-07T13:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjE1MjcwLw",
-      "title": "Rob Reiner Wins Posthumous Emmy, Julie Andrews, ‘Widow’s Bay’ Among Others Honored at Creative Arts Emmys",
-      "description": "Night two of the Creative Arts Emmys also saw a strong showing from the recently canceled \"Spider-Noir.\"",
-      "url": "https://www.indiewire.com/awards/results/rob-reiner-julie-andrews-widows-bay-creative-arts-emmys-winners-list-1235215270/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/GettyImages-2234602456.jpg?w=650",
-      "publishedAt": "2026-09-07T12:47:40.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -244,30 +292,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMTUyNjgv",
-      "title": "‘You Can See Everything’ Review: Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd",
-      "description": "Telluride: Everything we thought we knew about the beleaguered Theranos founder and convicted fraudster may or may not be true, according to A24's made-in-secret new documentary.",
-      "url": "https://www.indiewire.com/criticism/movies/you-can-see-everything-review-nathan-fielder-1235215268/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
-      "publishedAt": "2026-09-07T09:59:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE0NjI5Lw",
-      "title": "‘Lanterns’ Review: Episode 4 Is All About ‘The Weenie&#039;(s) — Spoilers",
-      "description": "There are three weenies in \"The Weenie\": a secret compound that may hide the Manhunter, William Macon's, um, \"elephant\" in the room, and John Stewart himself. Each weenie tells a story, and each story tells us a lot about \"Lanterns.\"",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-review-episode-4-review-the-weenie-spoilers-1235214629/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-4-Aaron-Pierre-as-John-Stewart-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
-      "publishedAt": "2026-09-07T02:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
       "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
@@ -277,18 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-J5LTEyMzUyMTUyMTkv",
-      "title": "A24 Reveals Telluride Secret Screening: It’s Nathan Fielder and Lance Oppenheim’s Documentary About Elizabeth Holmes",
-      "description": "\"You Can See Everything\" will hit theaters this October.",
-      "url": "https://www.indiewire.com/news/festivals/telluride-2026-secret-screening-nathan-fielder-documentary-1235215219/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
-      "publishedAt": "2026-09-07T00:37:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -364,6 +376,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-RlbWVudGlhLWRyYW1h",
+      "title": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
+      "description": "Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition rarely seen on screen The first time we see Martin and Leslie, the elderly couple at the centre of Lance Hammer’s wrenching new film, Queen at Sea, they are walking together up a set of stone steps: one of their regular outings, we assume, in days filled with pottering and quiet companionship. They have their backs to us, and we can’t see their destination beyond a bleached sky that fills the top half of the screen. Symbolically, it may be deemed a bit on the nose: two people near the end of their lives, moving gently towards the white light of oblivion. There’s a whiff of sentimentality about it. But any doubts about this story’s willingness to confront difficult truths are blasted away by the next scene. Leslie’s daughter, Amanda, played by Juliette Binoche, pays a visit to the couple’s house in drizzly, middle-class north London, her teenage daughter in tow. Unable to find her mother and stepfather, she arrives at the bedroom door. Opening it, she finds Martin (Tom Courtenay) on top of Leslie (Anna Calder-Marshall), who lies impassively beneath him, the mask of dementia obvious on her face. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama",
+      "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/521_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced5526df0b2acbfc026b814f5a72ded",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-b3VyLWludGVydmlldw",
       "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
       "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 84, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a great father, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
@@ -386,18 +410,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-3ItZml2ZS1tb250aHM",
-      "title": "The year of Domhnall Gleeson: ‘No one talks about actors’ dedication. But I had a perm for five months!’",
-      "description": "He started in the Harry Potter films and has since become ubiquitous, playing every type of character: romcom leads, evil villains, comical idiots. He even starred in a Taylor Swift video. So how does he stay so under the radar? Domhnall Gleeson has got so much new stuff coming up, someone recently joked that this was the “summer of Domhnall”. Now the phrase is all over the internet, and Gleeson is mortified: “The worry is that somebody will say this to me now thinking that I believe it.” He doesn’t know where it came from – possibly his co-star Gayle Rankin on his new movie The Incomer. “It’s certainly not something I’m trying to push … but it would be great if it could be the headline.” He’s in a good mood when we meet at a London hotel on a hot afternoon. You could say he’s good at interviews – charming, funny, garrulous, the perfect chatshow guest. He could just be acting , admittedly, but he seems to be a genuinely good-natured, grounded sort of guy. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/the-year-of-domhnall-gleeson-no-one-talks-about-actors-dedication-but-i-had-a-perm-for-five-months",
-      "image": "https://i.guim.co.uk/img/media/d843a013a76d05bfacbf53018558047efbb26379/1159_959_4948_3959/master/4948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76b55856f31b50d587fa74b7dc7bd6e6",
-      "publishedAt": "2026-09-02T04:00:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
