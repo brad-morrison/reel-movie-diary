@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T01:04:15.790Z",
+  "generatedAt": "2026-09-08T06:44:57.644Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-cml0dWFsLXdpc2RvbQ",
+      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
+      "description": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film takes the less-travelled path in charting the daily life of a pair of Czech twins a long way off conventional routes themselves. František and Ondřej Klišík are slowly going mad – or maybe closing in on enlightenment – in a cabin in the Šumava mountains and, extrapolating a short story about the brothers by Aleš Palán, director Miro Remo succumbs productively to the prevailing cabin fever – not only egging these longbeards on in their squabbling and loopy philosophising, but pitching in with his own fabulism and surrealism. Closing on 60, “Franta” and “Ondra” still farm their smallholding with the help of Nandy, a mutinous bull ill-chosen as a draught animal. In their downtime, they booze, banter and bicker, lament their lack of prospects with the fairer sex, and blow off steam in epic arm-wrestling bouts. Despite an arm lost to a sawmill accident, it’s Franta who’s usually the victor; he is also possessed by a quixotic streak absent in his bluff sibling. Letting loose streams of poetry into the air like bunting, wishing “joy to all conscious beings”, he is also constructing his own Da Vinci-style perpetual flying machine. “Your aversion to my perpetuum is a little annoying,” he informs the exasperated Ondra. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
+      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f4cb947a50036cec5bdcfb54ba4a2a7d",
+      "publishedAt": "2026-09-08T06:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Y2FsbGllLWtob3VyaQ",
+      "title": "‘It’s not good to walk through the world feeling like prey’: Thelma & Louise’s writer on turning a movie classic into a musical",
+      "description": "It was her very first film and it won her an Oscar. But can Callie Khouri now make it work on stage with songs? She talks about what made her write it – and how little has changed since ‘I have a world-class case of beginner’s luck,” says Callie Khouri, who won an Oscar for her very first screenplay, Thelma & Louise . She also scored a hit with her first TV series, Nashville , which lasted six seasons. And at 68, she is taking on another first by penning a musical theatre version of Thelma & Louise, hoping her luck hasn’t run out. “I hope that this is not the end of that streak,” she laughs. “That I don’t hit a wall here and slide down it like Wile E Coyote.” Thelma & Louise isn’t an obvious bet for a musical. A story that features an abusive marriage, attempted rape, murder and double suicide doesn’t scream “jazz hands”, and Khouri had turned down offers before. “My agent said, ‘There’s a guy who wants to meet you to talk about doing Thelma as a stage musical,’” says Khouri. “And I just thought, ‘Well, that’s nuts!’” But the iconic 90s film – starring Susan Sarandon and Geena Davis (and a young Brad Pitt) – is an ultimately triumphant piece of cinema: a feminist road movie driven by the power of female friendship, which still captures imaginations. Khouri was eventually convinced. It’s been a decade in the pipeline, but things took off when uber-producer Sonia Friedman came on board, and now it has premiered at London’s Young Vic, starring Rachel Tucker and Amy Lennox. Continue reading...",
+      "url": "https://www.theguardian.com/stage/2026/sep/08/thelma-and-louise-writer-prey-musical-callie-khouri",
+      "image": "https://i.guim.co.uk/img/media/9d6f8ae0c3883befc6242dd136e61e6432f8f778/0_36_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac05a3da4cac4b51647d406ce70cffc",
+      "publishedAt": "2026-09-08T04:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMTUzNzAv",
       "title": "‘Musk’ Teaser: The Wealthiest Man in the World Becomes Alex Gibney’s Latest Documentary Subject",
@@ -92,7 +116,7 @@
       "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
       "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
       "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ca95/live/e665b360-aac5-11f1-9bcd-4de40c4158ea.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e125/live/6738e420-ab49-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-09-07T15:43:11.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -202,18 +226,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
       "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
       "publishedAt": "2026-09-07T09:42:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-i1zb3ZpZXQtdW5pb24",
-      "title": "Imperium review – Sergei Loznitsa’s archive collage collates everyday life in cold-war Soviet Union",
-      "description": "Venice film festival: The Two Prosecutors director cuts together documentary footage shot by a TV crew in the 1970s to try and get across what daily life in the USSR was like Here is an archive-compilation documentary from Sergei Loznitsa, a hypnotic panorama of early 1970s life across the vast reaches of the Soviet Union, or maybe we should call it the Soviet empire. Loznitsa gives it the Latin title Imperium, perhaps to recall the Romans before their decline and fall. His material is taken from fascinating footage shot between 1970 and 1973 by a visiting Italian camera crew who presumably had the necessary permissions and were well enough liked by the authorities to keep coming back. The effect is part Potemkin village, part seance, part ethnographic study; there are no interviews or voiceover, just ambient footage. (The Italians may have intended this material as B-roll to be fitted into a more conventional film.) Imperium has sometimes the eerie quality of a ghost story with phantoms drifting placidly across the screen, gazing blankly into the camera, occasionally grimacing or grinning, but destined never to see the film of which they are a part. We don’t see the gulags, of course, or really anything like agencies of the state, apart from the soldiers at the October Revolution parades in Red Square. Many of the former Soviet state capitals featured here nowadays have tourist-attraction KGB museums based in their brutal former HQs; that kind of thing is obviously absent here. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/imperium-review-sergei-loznitsas-archive-collage-pieces-together-normal-life-in-cold-war-soviet-union",
-      "image": "https://i.guim.co.uk/img/media/67665caf36cfa953dddbdcfe933b08b105039fdc/5_0_1200_961/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f36d93fe73b9ff63208787c08c57797d",
-      "publishedAt": "2026-09-07T09:39:26.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -397,18 +409,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-c2FpbnQtbGF1cmVudA",
-      "title": "‘I don’t care if I look good’: French heartthrob Louis Garrel on fashion, fatherhood and his radically dorky new role",
-      "description": "The star has long been French cinema’s favourite tousle-haired Adonis, which makes his latest performance – as a schlubby, stay-at-home dad – all the more surprising. ‘I appreciate people laughing at me,’ he says ‘Even though I’ve been working in film for over 20 years, I still have this desire to look beautiful on screen,” says Louis Garrel, on a video call from his bed inside a boat off the coast of Corsica. The French film star is lying on his stomach, occasionally kicking up his bare legs, ruffling his curls and running the nail of his thumb over his moustache. I think the person he sees on the laptop screen in front of him is me, but I am pretty certain he is flirting with his own reflection. The attraction between the Paris-born 43-year-old and the camera tends to be reciprocal. Long of limb, tousled of hair and chiselled of nose, Garrel has spent a career on screen as French cinema’s favourite Adonis – the man film-makers turn to when they need an erotic wrecking ball to smash up bourgeois twosomes and turn them into quivering menages a trois. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/28/louis-garrel-interview-just-an-illusion-movie-heartbeats-dreamers-saint-laurent",
-      "image": "https://i.guim.co.uk/img/media/c2012d6776968a4c30daac4de545cc58868613eb/0_0_3072_2458/master/3072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=111d07e3c6d640543562f2ed87bb5c2c",
-      "publishedAt": "2026-08-28T12:00:57.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
