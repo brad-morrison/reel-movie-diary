@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T18:34:19.173Z",
+  "generatedAt": "2026-09-08T01:04:15.790Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,42 @@
   },
   "articles": [
     {
+      "id": "indiewire-VyLTEyMzUyMTUzNzAv",
+      "title": "‘Musk’ Teaser: The Wealthiest Man in the World Becomes Alex Gibney’s Latest Documentary Subject",
+      "description": "Bleecker Street will release the documentary in theaters on October 16.",
+      "url": "https://www.indiewire.com/news/trailers/musk-documentary-teaser-1235215370/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-07-at-5.18.25-PM.png?w=650",
+      "publishedAt": "2026-09-07T21:50:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE1MzAwLw",
+      "title": "Sandra Hüller’s Star Keeps Rising, but She’s Still Adjusting to Life in the Public Eye",
+      "description": "The Telluride Tributee breaks down a massive year that includes \"Fatherland,\" \"Rose,\" \"Project Hail Mary,\" and \"Digger.\"",
+      "url": "https://www.indiewire.com/features/interviews/sandra-huller-telluride-interview-1235215300/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3108.jpeg?w=650",
+      "publishedAt": "2026-09-07T21:01:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxNTIwOS8",
+      "title": "From ‘Scream 7’ to ‘Coyote vs. Acme,’ We’re Living in the Age of the Protest Ticket",
+      "description": "Paramount’s “Scream 7” survived a spring boycott, while Ketchup Entertainment’s “Coyote vs. Acme” benefited from a buy cott in a marketplace increasingly defined by voting with your wallet.",
+      "url": "https://www.indiewire.com/features/commentary/coyote-vs-acme-scream-7-box-office-protest-ticket-analysis-1235215209/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/coyote-vs-ghostface.png?w=650",
+      "publishedAt": "2026-09-07T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-Zy0xMjM1MjE1Mjg5Lw",
       "title": "‘Monsters of God’ Director Eric Goode Breaks Down the Finale Reveal: ‘He Was Like an Alcoholic Running a Liquor Store’",
       "description": "The Emmy-nominated documentarian discusses the moment in his HBO series that revealed \"sometimes it's only the bars that separates the guard from the prisoner\" and what made \"Tiger King\" a \"liability\" to his passion project.",
@@ -26,6 +62,30 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
+      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
+      "description": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to call film-makers “storytellers”, despite the fact that film-makers don’t necessarily have to deliver conventional narrative and that so many of them are in any case no good at the old-fashioned business of storytelling. But this last point certainly doesn’t apply to Italian director Paolo Strippoli who has brought to Venice an uproarious edge-of-the-seat gripper in which Valeria Bruni Tedeschi gives us the funniest performance of the festival and the best of her career. It’s a satirical nightmare about a wealthy woman’s Faustian bargain, like one of Roald Dahl’s Tales of the Unexpected – as elegantly designed and beautifully shot as anything by Paolo Sorrentino and with smart, subversive things to say about body image and body fascism and about a cosseted, self-involved Italian matriarch who eternally congratulates herself on sacrificing herself – or wanting to sacrifice herself – for her children. At the centre of this bizarre drama is Anna (superbly played by Jasmine Trinca) who is complacently marred to wealthy alpha-male Bari businessman Walter (Adriano Giannini): they have two children: Alice (Romana Maggiora Vergone) and Tobia (Andrea Genovese). Each family member gets a chapter. At a spectacular party at their gorgeous home, whose clear purpose is to make friends and neighbours jealous, a terrible accident happens, just after the children discover an ominous spiral of ants in the grass. While praying desperately for a miracle, Anna is visited by “ L’estranea ” of the film’s Italian title, the mysterious stranger hilariously played by Tedeschi, who appears to know all about this rich, picture-perfect family and offers to solve their problems. But she wants something in return, a sadistic deal that cuts to the heart of both parents’ selfishness. Anna had always wanted to act in her youth but her father forbade it – now she has been obsessively pushing Alice into acting and is morbidly upset at any physical problem that Alice has which damages this proxy ambition. As for macho Walter, he is thrilled at Tobia’s skills at football, and sponsors his son’s youth team; he is disgusted (rather than compassionate) at a weight issue that Tobia has which gets him dropped from the side. And all the time Anna sombrely considers the sacrifices she has secretly brokered for other people to make with this smirking, skittish Mephistopheles in order to keep her family safe. But has she done wrong? Is she guilty of some obvious sin which is being punished? No. It is just a deadpan tale of supernatural cruelty meted out to someone whose only crime is smugness, vanity and being rude to her domestic staff. It all climaxes in an apocalyptic finale: an enjoyable and macabre family affair. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
+      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=2606de0170adb25316c3a54af26aebd5",
+      "publishedAt": "2026-09-07T17:30:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-aC1vZi1wYXJhZGlzZQ",
+      "title": "The Pervert’s Guide to Utopias review – Slavoj Žižek goes in search of paradise",
+      "description": "Venice film festival: Inserting himself into settings from Apocalypse Now to The Handmaid’s Tale, the pop-cultural critic finds it hard to locate the perfect ending – even with spoilers The great pop-cultural critic and postmodern Marxist is back, with more entertaining and semi-serious provocations and deconstructive insights, notionally into the idea of “utopias”, as they appear in the movies and TV, having already done “cinema” and “ideology”. I was incidentally hoping for a Slavoj Žižek aria about how unexpectedly great and profoundly important threequels are. This is of course delivered emphatically in that amazing voice, now as universally recognised as Werner Herzog’s. Is it too late for a cameo on The Simpsons? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/the-perverts-guide-to-utopias-review-slavoj-zizek-goes-in-search-of-paradise",
+      "image": "https://i.guim.co.uk/img/media/b1a8d305d52c4a3613b8ef9c4cec346df4b28100/570_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0d10b3c0370f7dd6bf320824284cbe2c",
+      "publishedAt": "2026-09-07T16:31:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -160,30 +220,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-ZlZWxnb29kLW1vdmll",
-      "title": "‘Swiftly enchanted’: why Bedknobs and Broomsticks is my feelgood movie",
-      "description": "The latest in our series of writers recommending their most rewatched comfort films is a reminder that Disney’s kids fantasy is more than a Mary Poppins knock-off “ Filigree, apogee, pedigree, perigee !” – the four incantatory words I blame for receiving a shonky Paul Daniels magic set as a child in the 80s. In Bedknobs and Broomsticks, it’s the spell that Angela Lansbury’s patriotic Nazi-vanquishing witch Eglantine Price casts to transform people into fluffy rabbits; a trick I yearned to pull off. When it became clear I wouldn’t deter the Third Reich with three plastic thimbles, a deck of playing cards and a flaccid wand, my conjuring kit was mothballed – but my irrational love of the Disney film remains to this day. For me, it originally fell into the category of the crackling VHS that your parents taped off ITV at Christmas then would repeatedly plonk you in front of to shut you up – to the point I can even recall the adverts . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/bedknobs-and-broomsticks-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/29ad25cfa18de7b93de2986fc86b55abdbc8fd9c/651_598_3801_3040/master/3801.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409249886a90ef7fd88b993d267193d1",
-      "publishedAt": "2026-09-07T09:00:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-W5hZ2FzYWtpLWJvbWI",
-      "title": "Okurimono review – a heartbreaking dispatch from survivors of the Nagasaki bomb",
-      "description": "Laurence Lévesque’s powerful documentary follows a woman who discovers a support network among her mother’s generation of survivors of the nuclear blast No words are spoken during the first five minutes of Laurence Lévesque’s documentary. In a rustic house in the city of Nagasaki, a Japanese woman in her 60s, Noriko, draws back the curtains to let in the glow of dawn. The tranquil mood, however, is deceptive. Once her childhood home, the place holds a lifetime of secrets, which Norkia only discovers after her parents’ death. While clearing out the house, she comes across letters received by her mother that shed light on her turmoil as a survivor of Nagasaki’s atomic bombing in 1945. Noriko has always known her mother was a hibakusha – a term referring to people who survived the nuclear bombs. Already scarred by psychological and physical trauma, the victims also faced ostracism in the postwar period, with many barred from work or marriage. Perhaps due to the stigma, Noriko’s mother mentioned little of this to Noriko and her siblings. The letters, however, reveal a moving network of support among the hibakusha , as well as those who lost their loved ones in the bombings. In one heartbreaking note, a grieving mother speaks of sending a healthy son into the army, only to receive his hair and clipped nails in return. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/okurimono-review-heartbreaking-documentary-nagasaki-bomb",
-      "image": "https://i.guim.co.uk/img/media/8efeaeb796986e9aeb43ee979d481183de55a260/316_20_2674_2140/master/2674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d143cb3a52d62e08ab32d8d68396b366",
-      "publishedAt": "2026-09-07T08:23:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-cy0xMjM1MjE0NjI5Lw",
       "title": "‘Lanterns’ Review: Episode 4 Is All About ‘The Weenie&#039;(s) — Spoilers",
       "description": "There are three weenies in \"The Weenie\": a secret compound that may hide the Manhunter, William Macon's, um, \"elephant\" in the room, and John Stewart himself. Each weenie tells a story, and each story tells us a lot about \"Lanterns.\"",
@@ -254,42 +290,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIxNTE3OC8",
-      "title": "‘Hombre Al Agua’ Review: Gael García Bernal’s Meta Reflection on Narrative Fascinates and Frustrates",
-      "description": "Venice: Gael García Bernal’s third directorial outing is rich with layers but leaves his protagonist too much of a blank slate.",
-      "url": "https://www.indiewire.com/criticism/movies/hombre-al-agua-review-gael-garcia-bernal-1235215178/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/hombre_al_agua.jpg?w=650",
-      "publishedAt": "2026-09-06T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-xpLTEyMzUyMTI4OTYv",
-      "title": "‘The Echo Chamber’ Review: Luca Marinelli and Alicia Vikander Are Sublime in a Brooding Addiction Romance Directed from Bertolucci’s Last Script",
-      "description": "Venice: A tragic (and tragically handsome) Marinelli plays a drug-addicted music producer enmeshed in Vikander's codependent, unrequited care in Andrea Pallaoro's intimately sad feature. Susan Sarandon co-stars as a chain-smoking singer/songwriter.",
-      "url": "https://www.indiewire.com/criticism/movies/the-echo-chamber-movie-review-luca-marinelli-1235212896/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Echo-Chamber.webp?w=650",
-      "publishedAt": "2026-09-06T17:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-I2LTEyMzUyMTUxOTUv",
-      "title": "Creative Arts Emmys Night 1: Strong Showings for Bad Bunny, the Muppets, and ‘The Traitors’",
-      "description": "The two-part ceremony is set to continue on Sunday night.",
-      "url": "https://www.indiewire.com/awards/results/creative-arts-emmys-night-1-results-2026-1235215195/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-02-at-4.15.33-PM.png?w=650",
-      "publishedAt": "2026-09-06T16:19:57.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-bWF5LWVsLXRvdWtoeQ",
