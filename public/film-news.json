@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T06:44:57.644Z",
+  "generatedAt": "2026-09-08T12:41:05.775Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ay0xMjM1MjE1NDMzLw",
+      "title": "‘Musk’ Review: Alex Gibney’s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here",
+      "description": "Venice: At nearly four hours, Gibney's documentary boasts a damning and exhaustively researched portrait of Elon Musk, even if the access proves to be less so.",
+      "url": "https://www.indiewire.com/criticism/movies/musk-documentary-review-alex-gibney-elon-musk-1235215433/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-07-at-5.18.25-PM.png?w=650",
+      "publishedAt": "2026-09-08T12:05:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XBsZS1pbi1jcmlzaXM",
+      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
+      "description": "The directing duo behind uplifting mega-hit Intouchables return for this heartwarming coming-of-age drama, but it is the parents in the story who pull focus Olivier Nakache and Éric Toledano are the French directors who created the uplifting mega-hit Intouchables , about a wealthy quadriplegic and his carer. Now the pair bring their brand of squishy heartwarming charm to the 1980s, with this nostalgic movie about a 13-year-old boy growing up in the Paris suburbs. It’s funny and sweet but I couldn’t help feeling the film-makers missed a trick; their coming-of-age plot is all very well, but Louis Garrel and Call My Agent! star Camille Cottin give such funny and charismatic performances as the boy’s bickering parents, a portrait of their marriage in crisis would have been 10 times more entertaining. The film opens with Vincent (Simon Boublil) preparing for his barmitzvah against a fractious atmosphere at home. The country is gripped by recession and money is tight. His dad, Yves (Garrel) was laid off months ago, but every morning puts on a suit and pretends to go out to work; Garrel is terrific, likable but fundamentally unreliable. Vincent’s mum is a go-getting secretary, who can see that the future is technology and signs up for an IT course. At school, Vincent has a massive crush on a girl who cannot remember his name, or chooses not to – she calls him “Thingummy”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
+      "image": "https://i.guim.co.uk/img/media/8dac00cf1ad2b83aad9ee651550b66c4bac6bd0a/58_0_964_771/master/964.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=29b7dd894092af11d7e6a1ef9057b2a2",
+      "publishedAt": "2026-09-08T12:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjE1NDQ4Lw",
+      "title": "Alex Gibney Warns Elon Musk’s DOGE Data Could Be Used ‘for an AI to Influence the Election’",
+      "description": "The Oscar-winning documentarian premieres his scary, four-hour Elon Musk documentary at Venice, where he spoke during a press conference about the film's biggest revelations.",
+      "url": "https://www.indiewire.com/news/festivals/elon-musk-doge-data-could-influence-election-alex-gibney-1235215448/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P115WQQZ.jpg?w=650",
+      "publishedAt": "2026-09-08T11:32:27.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-9uLW93ZW4td2lsc29u",
+      "title": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
+      "description": "Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the gonzo B-movie treatment – physics-defying car chases, knee-smashing violence and the like – to the practice of organ transportation. Donor delivery is not the direction you think things are going in upon first meeting Hank Malone, Alan Ritchson’s outlandishly muscled fixer, of sorts, in Runner, the latest attempt from faith-based distributor Angel Studios to enter the market of more straightforward base entertainment. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
+      "image": "https://i.guim.co.uk/img/media/74828c2c5544b0946196d227b8efe6e76b3aade5/273_0_1614_1292/master/1614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0948e317dbe43bf2bc621b2f74e88bb1",
+      "publishedAt": "2026-09-08T11:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-10YWxraW5nLWhlYWRz",
+      "title": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
+      "description": "Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses No one could argue that rock’n’roll legend Eddie Cochran isn’t worthy of a birth-to-untimely-death bio-doc; it’s almost shocking that this is the first one to be made. But if truth be told, director Kirsty Bell’s effort is stretched so thin to make a feature-length running time you can practically see through the screen. Also it’s so old-fashioned in its structure it plays almost like a tongue-in-cheek parody. The film deploys just about every scrap of archive material featuring Cochran that the budget could afford (which means we see precious little of his performance in The Girl Can’t Help It), plus scads of rostrum-mounted newspaper articles. That’s still not enough to make more than a long short film, so Bell has inserted endearingly tacky dramatic recreations with actors playing Cochran and his mother, whom the rocker reportedly phoned regularly while on tour. In these performed conversations Cochran confides to mom about, for instance, his fears that he’ll die an early death like his friend Buddy Holly. (And sure enough he did, in 1960 in a car accident on the road between Bristol and Heathrow.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
+      "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a05d436d6642f1eb6434312ff3c5187a",
+      "publishedAt": "2026-09-08T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dHQtaWFuLW9naWx2eQ",
+      "title": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
+      "description": "Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension Proceeding from an old-school title pun – yes, the heroine goes by the name Ros Knight – the latest from resourceful microbudget producer Jonathan Sothcott surely has one optimistic eye on filling the void left by the withdrawal of 007 from public life. Here is the gender-flipped Bond some have been seeking: the adventures of a no-nonsense, tough-talking security operative (Jeanine Nerissa Sothcott) who is tasked with recovering a lethal bioweapon pilfered from a scaled-down Porton Down during the prologue. Everything, in truth, proves a bit reined-in. This austerity actioner spends less on its set pieces than the Broccolis typically did on keeping one Aston Martin refuelled; the Sothcotts’ car of choice, emblematically, is the dinkiest of Minis. In essence, it’s Bond without the attendant glamour, hanging around drizzly marinas and parky-looking country lanes, in dim light that hopefully obscures some of the more obvious budget limitations. What money there is here has wisely been spent on human resources, faces who might still look good on the promotional material: a cameoing Michael Paré as a shady Felix Leiter type, Roger Moore’s son Geoffrey as our gal’s understandably worried-looking lover, Nick Moran giving cut-price Colin Firth as a meddling bureaucrat. The pick of the players is a spry, characterful Ian Ogilvy as Ros’s estranged father, helpfully identifying where the real power lies on a chessboard and generally steadying scenes whenever matters get a bit too threadbare. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
+      "image": "https://i.guim.co.uk/img/media/f0e11570aece0ad08bb1f10dbaf4959098c88160/87_0_845_676/master/845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd60bf947744663c45682189be8a77d4",
+      "publishedAt": "2026-09-08T08:00:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-cml0dWFsLXdpc2RvbQ",
       "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
@@ -30,7 +102,7 @@
     {
       "id": "guardian-Y2FsbGllLWtob3VyaQ",
       "title": "‘It’s not good to walk through the world feeling like prey’: Thelma & Louise’s writer on turning a movie classic into a musical",
-      "description": "It was her very first film and it won her an Oscar. But can Callie Khouri now make it work on stage with songs? She talks about what made her write it – and how little has changed since ‘I have a world-class case of beginner’s luck,” says Callie Khouri, who won an Oscar for her very first screenplay, Thelma & Louise . She also scored a hit with her first TV series, Nashville , which lasted six seasons. And at 68, she is taking on another first by penning a musical theatre version of Thelma & Louise, hoping her luck hasn’t run out. “I hope that this is not the end of that streak,” she laughs. “That I don’t hit a wall here and slide down it like Wile E Coyote.” Thelma & Louise isn’t an obvious bet for a musical. A story that features an abusive marriage, attempted rape, murder and double suicide doesn’t scream “jazz hands”, and Khouri had turned down offers before. “My agent said, ‘There’s a guy who wants to meet you to talk about doing Thelma as a stage musical,’” says Khouri. “And I just thought, ‘Well, that’s nuts!’” But the iconic 90s film – starring Susan Sarandon and Geena Davis (and a young Brad Pitt) – is an ultimately triumphant piece of cinema: a feminist road movie driven by the power of female friendship, which still captures imaginations. Khouri was eventually convinced. It’s been a decade in the pipeline, but things took off when uber-producer Sonia Friedman came on board, and now it has premiered at London’s Young Vic, starring Rachel Tucker and Amy Lennox. Continue reading...",
+      "description": "It was her very first film and it won her an Oscar. But can Callie Khouri now make it work on stage with songs? She talks about the outrages that made her write it – and how little has changed since ‘I have a world-class case of beginner’s luck,” says Callie Khouri, who won an Oscar for her very first screenplay, Thelma & Louise . She also scored a hit with her first TV series, Nashville , which lasted six seasons. And at 68, she is taking on another first by penning a musical theatre version of Thelma & Louise, hoping her luck hasn’t run out. “I hope that this is not the end of that streak,” she laughs. “That I don’t hit a wall here and slide down it like Wile E Coyote.” Thelma & Louise isn’t an obvious bet for a musical. A story that features an abusive marriage, attempted rape, murder and double suicide doesn’t scream “jazz hands”, and Khouri had turned down offers before. “My agent said, ‘There’s a guy who wants to meet you to talk about doing Thelma as a stage musical,’” says Khouri. “And I just thought, ‘Well, that’s nuts!’” But the iconic 90s film – starring Susan Sarandon and Geena Davis (and a young Brad Pitt) – is an ultimately triumphant piece of cinema: a feminist road movie driven by the power of female friendship, which still captures imaginations. Khouri was eventually convinced. It’s been a decade in the pipeline, but things took off when uber-producer Sonia Friedman came on board, and now it has premiered at London’s Young Vic, starring Rachel Tucker and Amy Lennox. Continue reading...",
       "url": "https://www.theguardian.com/stage/2026/sep/08/thelma-and-louise-writer-prey-musical-callie-khouri",
       "image": "https://i.guim.co.uk/img/media/9d6f8ae0c3883befc6242dd136e61e6432f8f778/0_36_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac05a3da4cac4b51647d406ce70cffc",
       "publishedAt": "2026-09-08T04:00:28.000Z",
@@ -160,30 +232,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-aWV0LWV4cGVydGlzZQ",
-      "title": "Boatbuilders review – a gentle study of craftsmen’s quiet expertise",
-      "description": "Venice film festival: Luke Lorentzen’s light-touch documentary follows a team of Maine craftsmen constructing a high-spec sailboat for a super-rich guy who seems kind of nice The Brooklin Boat Yard stands in a quiet harbour on the coast of Maine and makes high-spec yachts for rich men and women to sail. Its latest client is Graham Green, a millionaire financier who has commissioned the team to build him a 56ft cruising sailboat, the Kiandra, complete with maple worktops and a Sonos sound system. Green plans to sail the boat around the world, while its creators will stay in Brooklin, raise their kids and make boats. These men know their place. “We’re just the fucking help,” one confides. Boatbuilders is directed with the lightest of touches by 33-year-old Luke Lorentzen, who has already proved himself a past master in unhurried, observational documentaries about work. Midnight Family , his 2019 debut, spotlighted the travails of a private ambulance business in Mexico City, while 2023’s A Still Small Voice trailed a chaplain at Mount Sinai hospital in New York. Neither, though, immersed themselves in their subject to quite the level of Boatbuilders, which covers the process from lumber cutting to launch and from one summer through to the following spring. The leaves turn to gold, then the snow starts to fly, but down at the boatyard the job continues on schedule. The craftsmen plane and glue and discuss their lives. Boatbuilders screened at the Venice film festival Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/boatbuilders-review-a-gentle-study-of-craftsmens-quiet-expertise",
-      "image": "https://i.guim.co.uk/img/media/53c38bb689fc03804399e00bac1a7dbd52a9fb7b/171_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e4f725a97e4051ebb0c2c2c9749c1767",
-      "publishedAt": "2026-09-07T12:30:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-h1YWwtYXdha2VuaW5n",
-      "title": "The Last Bath review – self-mortifying nun struggles with profoundly uneasy sexual awakening",
-      "description": "Anabela Moreira is an impressively intense lead as the sister who finds herself in charge of her wayward teenage nephew A sharp, self-abnegating performance from Anabela Moreira elevates this passionate – largely in the religious sense – Portuguese debut, which is only now arriving in the UK after festival screenings dating back to 2020. As senior nun Josefina, she wears a permanent cowl of careworn melancholy, suggesting a woman for whom, even after she is summoned to look after her bereaved 15-year-old nephew Alexandre (Martim Canavarro), holding the world at arm’s length is standard practice. Watching him slam into girl drivers on the fairground dodgems, it seems clear that desire is for other people. Or maybe not. Josefina is called back to her childhood village after the death of her father, who – in her wantaway sister’s absence – was Alexandre’s guardian. Traumatised by finding the body and spoiled because he was the first birth in the locality for years, the teenager requires mollycoddling. So Josefina finds herself in uncomfortable proximity to this coltish overgrown boy, who looks like a male model in waiting; bathing him, letting him sleep in her bed after he has wet his, inspecting his penis infection. She suffers it, presumably for love and our Lord. But when it becomes clear that he may be shipped off to a foster home if she doesn’t stick around, her inner motivations come into sharper focus. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-last-bath-review-self-mortifying-nun-struggles-with-profoundly-uneasy-sexual-awakening",
-      "image": "https://i.guim.co.uk/img/media/22aba0a0c8a6d7a56f4b6cae9294b9024aa6c781/365_0_1008_806/master/1008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3d997cdca38e89b68ce2527c9e0c4b55",
-      "publishedAt": "2026-09-07T12:00:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
       "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
@@ -196,18 +244,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-WtvbGF5LWxlYmVkZXY",
-      "title": "In the Shadows of Nuremberg review – trial-adjacent thriller aims to be Russian answer to Saving Private Ryan",
-      "description": "A trivial personal plotline and a strain of maudlin patriotism undermine Nikolay Lebedev’s shaky telling of the Soviet side of the story Taking place in the wings of the Nuremberg trial, this Soviet-side political thriller, first released back in 2023, features a scene in which the crowd turns on a boa-draped Hollywood floozy in town to entertain the troops. A case of mea culpa for director Nikolay Lebedev, who trivialises the momentous issues emerging from the courtroom by dressing the legal stuff up with a tenuous and shakily handled plotline about a missing soldier, in an attempt to make his film the Russian answer to Saving Private Ryan . After his brother goes MIA in the vicinity of the soon-to-be-historic city, Red Army intelligence officer Igor Volgin (Sergey Kempo) wangles a post translating for the Soviet delegation. He’s approached by Lena (Lyubov Aksyonova), a Russian wastrel with a perfectly coiffed bob despite months of forced labour in a German munitions factory; she claims to have run into his sibling, an artist, in captivity. But she is also feeding information to Helmut (Wolfgang Cerny), a Nazi resistance diehard who believes Göring (Carsten Norgaard) and company should be accountable only to German courts. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/in-the-shadows-of-nuremberg-review-nikolay-lebedev",
-      "image": "https://i.guim.co.uk/img/media/50bdcbd980daf2d84ee84c5ced067d07159a8395/317_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7692356b6ff2a22c15be6dc20408c81b",
-      "publishedAt": "2026-09-07T10:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-VyLTEyMzUyMTUyNjgv",
       "title": "‘You Can See Everything’ Review: Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Documentary Is Boundary-Pushing and Absurd",
       "description": "Telluride: Everything we thought we knew about the beleaguered Theranos founder and convicted fraudster may or may not be true, according to A24's made-in-secret new documentary.",
@@ -217,18 +253,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
-      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "description": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has made his feature debut with a strangely overwrought and heavy-footed drama-thriller, which for all its elaborate neon-lit atmosphere of noir danger isn’t at all sure what it wants to say about media or morality, or anything else. The subject is the controversial top-rated US TV reality show To Catch a Predator which ran from 2004 to 2008; that title was evidently taken from the Hitchcock movie To Catch a Thief, which in turn was inspired by the phrase “Set a thief to catch a thief”. In search of prey, the show’s researchers baited paedophiles in online chatrooms posing as children, lured them to “sting houses” where actors played underage teens on the front porch to get the abusers inside, where they can be clearly filmed expressing criminal intentions. But before anything could happen, sonorous host Chris Hansen appeared from nowhere and confronted these cringing abusers – which made for fantastic television. After this the cops made an arrest, and they and the state prosecutor did the heavy lifting of overseeing due process and presumably debating the merits of entrapment in court, although this obvious issue is not raised in the movie. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
-      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
-      "publishedAt": "2026-09-07T09:42:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -278,30 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTUyMTAv",
-      "title": "Jesse Eisenberg’s ‘The Debut’ Serves Up an Oscar-Worthy Julianne Moore — Here’s How He Did It",
-      "description": "Paul Giamatti offers stalwart support as a domineering director shaping a novice actress in a New Jersey community theater.",
-      "url": "https://www.indiewire.com/features/interviews/jesse-eisenberg-the-debut-interview-1235215210/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3119.jpeg?w=650",
-      "publishedAt": "2026-09-06T22:45:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HktMTIzNTIxNTE5OC8",
-      "title": "‘Woman Unknown’ Review: May el-Toukhy’s Paranoid Period Thriller Depicts the Degradation of Women Accused of Sleeping with Nazis",
-      "description": "This harrowing fictionalization of the Danish resistance’s witch hunts will make you despair for humanity.",
-      "url": "https://www.indiewire.com/criticism/movies/woman-unknown-movie-review-may-el-toukhy-1235215198/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
-      "publishedAt": "2026-09-06T20:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-bWF5LWVsLXRvdWtoeQ",
@@ -398,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
-      "description": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-31T01:47:54.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
