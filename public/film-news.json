@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:45:37.482Z",
+  "generatedAt": "2026-09-09T12:41:17.399Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Actor Noel Clarke charged with sexual offences",
+      "description": "He has been charged with sexual offences including sexual assault, voyeurism and exposure.",
+      "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0bd3/live/d32e72b0-ac4a-11f1-96a2-2f464854ded4.jpg",
+      "publishedAt": "2026-09-09T12:32:22.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTU0NDIv",
+      "title": "‘Joie de Vivre’ Review: Luca Guadagnino’s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out",
+      "description": "Venice: Guadagnino's epic chronicle of his filmmaking idol wends and wades its way through Bertolucci's complicated career — but where the hell is \"The Dreamers\"? This fascinating, often exhilarating documentary has plenty to chew on.",
+      "url": "https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/joie-de-vivre.jpg?w=650",
+      "publishedAt": "2026-09-09T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Y290dGluLWxhdXJlLQ",
+      "title": "Call My Agent! The Movie review – the gang get back together and c’est formidable",
+      "description": "The screwball French comedy is back as a film that actually works, thanks to putting Andréa and Noémie at the heart of chaotic events and bringing all the old faces back At last: a beloved-TV-show-to-film-spinoff that doesn’t suck! The original French series is a screwball-speed office comedy about a boutique Parisian talent agency, and was a ratings and critical success in its homeland when it started back in 2015. Its acquisition by Netflix grew the audience internationally and spawned a stable full of remakes across Europe and Asia. In the meantime, several members of the original French cast have become proper stars in their own right, especially Camille Cottin and Laure Calamy, and this sequel, set five years on, is smart to put these two at the heart of the latest instalment. And of course, there are the obligatory turns from properly famous actors playing themselves, including Laetitia Casta, Vincent Macaigne, Laurent Lafitte and some guy named George Clooney, best known these days for appearances on vaporettos in the Venice lagoon. Like many great sitcoms, this one always understood that failure, rather than success, keeps the wider narrative arc more interesting and relatable. So the last episode of the series left the gang at talent agency ASK (which stood for Agence Samuel Kerr, after the founder, who died in the first episode), dispersed to new gigs and careers; the band, in effect, broke up. Five years on, the stars have aligned to bring them all back together to work on Andréa (Cottin) and Noémie’s (Calamy) new film project, so the title Call My Agent! The Movie works on more than one level. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/call-my-agent-the-movie-review-camille-cottin-laure-",
+      "image": "https://i.guim.co.uk/img/media/034747e481a2d8f2b05ad395feb768fbc9e331b7/401_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=0752875cef601581dd94d7ecee434214",
+      "publishedAt": "2026-09-09T12:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Qtb2YtdGhlLWJlYXN0",
+      "title": "Inglourious baristas: why is Brad Pitt making coffee for 16 abusive dogs?",
+      "description": "In new film The Heart of the Beast, the A-lister’s bond with his loyal mutt proves crucial. In Spike Jonze’s new advert, Pitt is rather more subservient Brad Pitt has a new movie out this month, The Heart of the Beast, about an emotionally damaged man who forms a life-saving bond with a dog. If that sounds familiar, maybe it is because you have seen The Call of the Wild. Or maybe it is because you have seen A Dog’s Way Home. Or maybe it is because you have seen Dog. Or, look, you get the idea. But perhaps Brad Pitt knows that getting people to see something as unimaginative as The Heart of the Beast is an uphill struggle, because that would explain why he has just made an advert that looks and feels much more like the Brad Pitt dog movie that deserves to be made. In short, it is an advert where Brad Pitt gets loudly disparaged by a number of dogs for an extended period of time. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/brad-pitt-coffee-the-heart-of-the-beast",
+      "image": "https://i.guim.co.uk/img/media/651a7ae8094cddb3cff0986edea2741fa82537f1/760_0_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4befc76dcfa677f1c068e4dbbda728e",
+      "publishedAt": "2026-09-09T10:30:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Gx5LWRpc3R1cmJpbmc",
+      "title": "Blue Film review – polarising sex worker drama is well-acted and deeply disturbing",
+      "description": "A camboy meets up with a convicted paedophile who turns out to be his old English teacher in Elliot Tuttle’s uncomfortable drama There have reportedly been audience walk-outs at screenings of this indie drama from young American film-maker Elliot Tuttle, a two-hander about a sex worker hired for the night by his former English teacher, a convicted paedophile. In interviews Tuttle has said his film was rejected by several major festivals. What makes it so uncomfortable is not the sex; mostly what we see on screen is two men talking. But early on a mood of skin-crawling unease seeps in, and it remains for every second of the film’s 82-minute run time. Kieron Moore plays Aaron Eagle (not his real name), a Los Angeles sex worker and camboy. In the video content he livestreams, Aaron is a dom; gym-perfected and tattooed, he hurls homophobic insults at his fans. One night, he arranges to meet a client who offers to pay $50,000 for one night. The retirement-age man who answers the door of the Airbnb turns out to be Aaron’s former English teacher Mr Grant (Reed Birney), who was sacked after attempting to rape a 12-year-old pupil. Aaron was not the victim, but the teacher says he has always been in love with Aaron – though he is no longer sexually attracted to him. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/blue-film-review-polarising-sex-worker-drama-is-well-acted-and-deeply-disturbing",
+      "image": "https://i.guim.co.uk/img/media/63115fa919766391532cbd28a056999e2662436b/753_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd49c15ed30ac56bffca9b9714cc8914",
+      "publishedAt": "2026-09-09T10:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Shane Richie pleads not guilty to drink-driving",
+      "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8de1/live/db9d5a10-ac36-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-09T09:40:38.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
+      "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
+      "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e3c7/live/91a3af60-ac2f-11f1-b1d1-571ed4d7ff2c.png",
+      "publishedAt": "2026-09-09T09:40:31.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Do you know the lone, crying Oasis fan? The search is on by film-makers to find him",
+      "description": "Filmmakers describe the gig as a \"hugely emotional\" experience that took Noel Gallagher by surprise.",
+      "url": "https://www.bbc.co.uk/news/articles/c9qry7vq9gjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2995/live/9f45ade0-ac24-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-09T08:24:03.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WNhbGx5LWF0dHVuZWQ",
+      "title": "Yuja review – portrait of star pianist who is intellectually curious and deeply musically attuned",
+      "description": "Musician is also rattled to find her appearance gets far more attention than her playing in this reflective documentary from Lorna Tucker As well as her film about her own difficult teenage years , British director Lorna Tucker is probably best known for her documentaries on famous women with big personalities: Vivienne Westwood ( Westwood: Punk, Icon, Activist ), Katharine Hepburn (Call Me Kate) and Greta Garbo ( Garbo: Where Did You Go? ). Her latest subject, pianist Yuja Wang, is another high-achiever – but not someone with quite the same name recognition unless you’re a devotee of classical music, a field in which she is ranked among the very best alive. Wang certainly has a flamboyant side, expressed in her highly expressive, virtuoso performances and her sartorial style on stage. In fact some shocking pull quotes illustrate how her dress sense has been bizarrely over-examined in the press; she has been likened to a stripper for her outfits, and the New Yorker, of all publications, once described her as “fat” , which hardly seems germane to any discussion of her ability to play Tchaikovsky or Ligeti. But Wang’s biography and the texture of her daily life are very different from that of Tucker’s previous subjects. She was a child prodigy from an artistic Beijing family who came of age just in time to break records for views on YouTube. Sure, her life here looks glamorous in one way, with a lush New York apartment she barely ever sees because she’s constantly on the road. But her life is also one of perpetual practice and striving for perfection, the loneliness of the long-distance soloist. It’s a regimen that leaves almost no time for relationships or family, or even many friendships with peers who understand what she is going through – apart from a few mentors or collaborators such as fellow pianist Emanuel Ax or composer Teddy Abrams, with whom she recently won a Grammy. Still, she comes across as an effervescent character, intellectually curious and deeply attuned to the music she plays. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/yuja-review-portrait-of-star-pianist-who-is-intellectually-curious-and-deeply-musically-attuned",
+      "image": "https://i.guim.co.uk/img/media/aae87c99702c6e6abd76e38ca28c161ff996c834/698_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0511f083f04478396c5728bc531ac457",
+      "publishedAt": "2026-09-09T08:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-m9lbC1nYWxsYWdoZXI",
       "title": "‘Would they fight or hug?’ The Oasis comeback film’s makers on shooting fans, vicars, police – and the Gallaghers",
@@ -88,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Oasis' Cardiff reunion gig was 'hugely emotional' say film-makers",
-      "description": "Filmmakers describe the gig as a \"hugely emotional\" experience that took Noel Gallagher by surprise.",
-      "url": "https://www.bbc.co.uk/news/articles/c9qry7vq9gjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5f73/live/eef75230-aba7-11f1-8e72-a346833ed029.png",
-      "publishedAt": "2026-09-08T17:20:24.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-1maWxtLWZlc3RpdmFs",
       "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
       "description": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire Even the formidable pairing of Penélope Cruz and Javier Bardem can’t save this new movie from writer-director Florian Zeller – his first created directly for the screen, and not adapted from his own stage original. It’s shallow and unsatisfying, a drama without the intimate, authentic passion of his previous movies like The Father (2021) or The Son (2022). Bunker has nothing that interesting or original to say about its metaphorically showcased theme of alienation and inequality; the central relationship is left unexplored in favour of so-so home-invasion suspense styling – although one extended marital-argument scene showed what might have been achieved if their relationship was the film’s point – and the violent finale ending is outrageously glib, silly and unconvincing. An off-camera paramedic or doctor actually has to be heard explaining in a brief sentence afterwards what is supposed to have happened. Very lame. Continue reading...",
@@ -121,30 +217,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-C1tb3ZpZS1vcGVuYWk",
-      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
-      "description": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? The first teaser trailer of Luca Guadagnino ’s Artificial has been released. After being dropped by Amazon MGM Studios in June, the biopic of the OpenAI tech executive Sam Altman will be released in the US on 25 December by Neon after it premieres at the New York film festival this October. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/635_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5897299d613b933f9e27b47aa65fe9",
-      "publishedAt": "2026-09-08T16:31:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
-      "description": "A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be had Much has changed in the universe, cosmic and otherwise, since the Owens witches last graced the big screen with their practical magic of sleeping draughts, midnight margaritas and generational love curses. For one, movies like the 1998 cult-ish classic Practical Magic – a compellingly bizarre mashup of genres, aspirational 90s fashion and sisterly affection starring Sandra Bullock and Nicole Kidman in their movie-star primes as lovelorn sorceresses in Puritan-lite Massachusetts – largely stopped reaching theaters. For another, nostalgia cycles only intensified and tightened, our algorithms clogged with unsolicited sequels and dupes for Bullock’s impeccable vintage 90s Levi’s. Which makes Practical Magic 2, reuniting both Kidman and Bullock, and Stockard Channing and Dianne Wiest as their lovingly eccentric aunts, somewhat of an anomaly, at once a seeming inevitability and, as a matrilineal romance comedy (though decidedly not a romcom) starring two 60-year-old women , an oddity . There’s no circumventing nostalgia bait, but Practical Magic remains so idiosyncratic in tone and, well, kookiness, that a sequel somewhat appeals. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
-      "image": "https://i.guim.co.uk/img/media/eb81f8d4a1478f5ffd85c38600de8d3153415339/394_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd1dc3371e3a7aeea712053cf7eee117",
-      "publishedAt": "2026-09-08T16:05:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -172,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-WVudGFyeS12ZW5pY2U",
-      "title": "Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’",
-      "description": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence Musk review – epic study of the world’s richest and most banal man Elon Musk is sowing “deliberate division” via his social media platform X that will be catastrophic unless regulated, the mother of one of the 14 confirmed children fathered by the world’s richest man has warned. In Musk, a new documentary by veteran film-maker Alex Gibney, former Maga influencer Ashley St Clair says Musk told her in a text message he wanted to have a child with her because he needed to have “a legion of children before the civil war”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice",
-      "image": "https://i.guim.co.uk/img/media/4b10e778f19932f664888b0abb5b35a911e8b1ad/295_0_4425_3540/master/4425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b02e50d3dfb920f8ba8dae308d244bd9",
-      "publishedAt": "2026-09-08T15:05:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-VwLTEyMzUyMTQ5ODgv",
       "title": "The Downtown Festival Sets 2026 Film Lineup, Including Paul Schrader, Ethan Hawke and Siyou Tan",
       "description": "The third annual edition of the festival will run from October 9 through October 18 across Lower Manhattan.",
@@ -193,18 +253,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Vsb24tbXVzay1maWxt",
-      "title": "State handouts, 10,000 lasers – and Trump’s election: six things we learned from the Elon Musk film",
-      "description": "Alex Gibney’s marathon documentary delivers numerous eye-raising insights into the broligarch’s business deals, early idealism and apocalyptic appetite for fathering children Veteran documentarian Alex Gibney’s film about the richest broligarch on the planet has been one of the most eagerly anticipated films at the Venice film festival this year. The Oscar-winning 72-year-old, who has in previous films taken on the US military, the Catholic church, Vladimir Putin and Scientology, has been investigating the tech tycoon’s ascent and speaking to people in his orbit since late 2022, before his Maga turn and Trump 2.0. The result clocks in at just under four hours and presents a comprehensive answer to how on earth one man managed to amass so much money and political influence. It is shocking less for any individual new pieces of information Gibney has unearthed than for its totality. Here are six things the film tells us: Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/state-handouts-10000-lasers-and-trumps-election-six-things-we-learned-from-the-elon-musk-film",
-      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/1625_570_934_748/master/934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60eb365c31b2e4a78e2d44d7539ec64f",
-      "publishedAt": "2026-09-08T13:34:15.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -256,18 +304,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMTUzNzAv",
-      "title": "‘Musk’ Teaser: The Wealthiest Man in the World Becomes Alex Gibney’s Latest Documentary Subject",
-      "description": "Bleecker Street will release the documentary in theaters on October 16.",
-      "url": "https://www.indiewire.com/news/trailers/musk-documentary-teaser-1235215370/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-07-at-5.18.25-PM.png?w=650",
-      "publishedAt": "2026-09-07T21:50:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
       "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
@@ -278,18 +314,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
-      "description": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg",
-      "publishedAt": "2026-09-07T11:03:33.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -398,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
-      "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg",
-      "publishedAt": "2026-09-04T00:34:18.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
