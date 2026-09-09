@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T18:35:37.981Z",
+  "generatedAt": "2026-09-09T01:03:26.813Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,11 +16,59 @@
   },
   "articles": [
     {
+      "id": "indiewire-cy0xMjM1MjE1Njk0Lw",
+      "title": "Summer Box Office Hit an All-Time High in 2026 — We’re So Back, Right? And 4 Other Takeaways",
+      "description": "A $4.765 billion summer was powered equally by \"Spider-Man\" and Christopher Nolan as it was \"Obsession\" and A24.",
+      "url": "https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/MON1420_TRL_comp_SPI_v0153.1270-copy.jpg?w=650",
+      "publishedAt": "2026-09-08T22:10:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2stMTIzNTIxNTU3NC8",
+      "title": "‘Company’ Review: Casey Affleck’s Nesting Doll Narrative Is Pretty but Directionless",
+      "description": "Venice: Tales within tales stretch further back in time, revealing a rigid meta-narrative shot by 8 different DPs.",
+      "url": "https://www.indiewire.com/criticism/movies/company-movie-review-casey-affleck-1235215574/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-08-at-9.57.49-AM.png?w=650",
+      "publishedAt": "2026-09-08T19:50:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-VlcHktYW50aG9sb2d5",
+      "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
+      "description": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men Gather ye ’round the glowing screen for a Casey Affleck campfire tale. It contains superstitions and murder and human oddities of all stripes. An old hermit in his shack. Something nasty in the woodshed. If you like the first tale, fill your boots, settle back, because here comes another and another; each sparked by the embers of its neighbour and playing out with the same deliberately theatrical panache. Affleck’s picture roams and rambles like a creepy cracker-barrel Jackanory. Actually there is much to relish in Company, Affleck’s third film as a director, even if many of its elements feel like off-the-peg eccentricities; a little too laundered and self-consciously strange. It begins in tried and tested fashion with the arrival of a mysterious stranger on a dark winter’s night. The stranger takes a seat and spins a tale, at which point December 1975 melts into 1953, then 1903, before finally the film crosses the ocean to Europe at the tail end of the plague. Nick Nolte is a hermit pining for his lost daughter, while Ben Mendelsohn plays a mean, mordant farmer who reaches for his handgun too readily. Both men, one suspects, are destined for a bloody end. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
+      "image": "https://i.guim.co.uk/img/media/a1c5588bd7c78279dcba5b232e64c9a11ec683d0/612_0_1003_802/master/1003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=36e72de0f5785737996a3fc68b001a11",
+      "publishedAt": "2026-09-08T19:45:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-mUtMTIzNTIxNTY0Ny8",
+      "title": "As ‘Christine’ Turns 10, Rebecca Hall and Its Filmmakers Fear a Series of Corporate Bankruptcies Could Make the Film Disappear",
+      "description": "Exclusive: Released in 2016, \"Christine\" was embraced by critics, but the failure of its distributor and financier has left its future in question.",
+      "url": "https://www.indiewire.com/news/business/christine-10th-anniversary-rebecca-hall-fights-to-preserve-1235215647/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2021/08/christine.png?w=650",
+      "publishedAt": "2026-09-08T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
       "id": "indiewire-Yy0xMjM1MjE1NTU4Lw",
       "title": "Telluride Boosts Oscar Chances, from ‘Wild Horse Nine’ to ‘La Bola Negra,’ but Is A24’s Controversial Elizabeth Holmes Doc a Contender Too?",
       "description": "The mountain festival, along with Venice, always clarifies the ongoing award contenders. Toronto is next up.",
       "url": "https://www.indiewire.com/awards/predictions/telluride-oscar-analysis-john-malkovich-a24-elizabeth-holmes-doc-1235215558/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970-1.jpg?w=650",
       "publishedAt": "2026-09-08T18:21:49.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -61,6 +109,30 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-C1tb3ZpZS1vcGVuYWk",
+      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
+      "description": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? The first teaser trailer of Luca Guadagnino ’s Artificial has been released. After being dropped by Amazon MGM Studios in June, the biopic of the OpenAI tech executive Sam Altman will be released in the US on 25 December by Neon after it premieres at the New York film festival this October. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
+      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/635_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5897299d613b933f9e27b47aa65fe9",
+      "publishedAt": "2026-09-08T16:31:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
+      "description": "A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be had Much has changed in the universe, cosmic and otherwise, since the Owens witches last graced the big screen with their practical magic of sleeping draughts, midnight margaritas and generational love curses. For one, movies like the 1998 cult-ish classic Practical Magic – a compellingly bizarre mashup of genres, aspirational 90s fashion and sisterly affection starring Sandra Bullock and Nicole Kidman in their movie-star primes as lovelorn sorceresses in Puritan-lite Massachusetts – largely stopped reaching theaters. For another, nostalgia cycles only intensified and tightened, our algorithms clogged with unsolicited sequels and dupes for Bullock’s impeccable vintage 90s Levi’s. Which makes Practical Magic 2, reuniting both Kidman and Bullock, and Stockard Channing and Dianne Wiest as their lovingly eccentric aunts, somewhat of an anomaly, at once a seeming inevitability and, as a matrilineal romance comedy (though decidedly not a romcom) starring two 60-year-old women , an oddity . There’s no circumventing nostalgia bait, but Practical Magic remains so idiosyncratic in tone and, well, kookiness, that a sequel somewhat appeals. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
+      "image": "https://i.guim.co.uk/img/media/eb81f8d4a1478f5ffd85c38600de8d3153415339/394_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd1dc3371e3a7aeea712053cf7eee117",
+      "publishedAt": "2026-09-08T16:05:39.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -160,18 +232,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-XBsZS1pbi1jcmlzaXM",
-      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
-      "description": "The directing duo behind uplifting mega-hit Intouchables return for this heartwarming coming-of-age drama, but it is the parents in the story who pull focus Olivier Nakache and Éric Toledano are the French directors who created the uplifting mega-hit Intouchables , about a wealthy quadriplegic and his carer. Now the pair bring their brand of squishy heartwarming charm to the 1980s, with this nostalgic movie about a 13-year-old boy growing up in the Paris suburbs. It’s funny and sweet but I couldn’t help feeling the film-makers missed a trick; their coming-of-age plot is all very well, but Louis Garrel and Call My Agent! star Camille Cottin give such funny and charismatic performances as the boy’s bickering parents, a portrait of their marriage in crisis would have been 10 times more entertaining. The film opens with Vincent (Simon Boublil) preparing for his barmitzvah against a fractious atmosphere at home. The country is gripped by recession and money is tight. His dad, Yves (Garrel) was laid off months ago, but every morning puts on a suit and pretends to go out to work; Garrel is terrific, likable but fundamentally unreliable. Vincent’s mum is a go-getting secretary, who can see that the future is technology and signs up for an IT course. At school, Vincent has a massive crush on a girl who cannot remember his name, or chooses not to – she calls him “Thingummy”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
-      "image": "https://i.guim.co.uk/img/media/8dac00cf1ad2b83aad9ee651550b66c4bac6bd0a/58_0_964_771/master/964.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=29b7dd894092af11d7e6a1ef9057b2a2",
-      "publishedAt": "2026-09-08T12:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-eS0xMjM1MjE1NDQ4Lw",
       "title": "Alex Gibney Warns Elon Musk’s DOGE Data Could Be Used ‘for an AI to Influence the Election’",
       "description": "The Oscar-winning documentarian premieres his scary, four-hour Elon Musk documentary at Venice, where he spoke during a press conference about the film's biggest revelations.",
@@ -182,30 +242,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-9uLW93ZW4td2lsc29u",
-      "title": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
-      "description": "Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the gonzo B-movie treatment – physics-defying car chases, knee-smashing violence and the like – to the practice of organ transportation. Donor delivery is not the direction you think things are going in upon first meeting Hank Malone, Alan Ritchson’s outlandishly muscled fixer, of sorts, in Runner, the latest attempt from faith-based distributor Angel Studios to enter the market of more straightforward base entertainment. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
-      "image": "https://i.guim.co.uk/img/media/74828c2c5544b0946196d227b8efe6e76b3aade5/273_0_1614_1292/master/1614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0948e317dbe43bf2bc621b2f74e88bb1",
-      "publishedAt": "2026-09-08T11:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-10YWxraW5nLWhlYWRz",
-      "title": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
-      "description": "Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses No one could argue that rock’n’roll legend Eddie Cochran isn’t worthy of a birth-to-untimely-death bio-doc; it’s almost shocking that this is the first one to be made. But if truth be told, director Kirsty Bell’s effort is stretched so thin to make a feature-length running time you can practically see through the screen. Also it’s so old-fashioned in its structure it plays almost like a tongue-in-cheek parody. The film deploys just about every scrap of archive material featuring Cochran that the budget could afford (which means we see precious little of his performance in The Girl Can’t Help It), plus scads of rostrum-mounted newspaper articles. That’s still not enough to make more than a long short film, so Bell has inserted endearingly tacky dramatic recreations with actors playing Cochran and his mother, whom the rocker reportedly phoned regularly while on tour. In these performed conversations Cochran confides to mom about, for instance, his fears that he’ll die an early death like his friend Buddy Holly. (And sure enough he did, in 1960 in a car accident on the road between Bristol and Heathrow.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
-      "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a05d436d6642f1eb6434312ff3c5187a",
-      "publishedAt": "2026-09-08T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-Y2FsbGllLWtob3VyaQ",
@@ -230,42 +266,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE1MzAwLw",
-      "title": "Sandra Hüller’s Star Keeps Rising, but She’s Still Adjusting to Life in the Public Eye",
-      "description": "The Telluride Tributee breaks down a massive year that includes \"Fatherland,\" \"Rose,\" \"Project Hail Mary,\" and \"Digger.\"",
-      "url": "https://www.indiewire.com/features/interviews/sandra-huller-telluride-interview-1235215300/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3108.jpeg?w=650",
-      "publishedAt": "2026-09-07T21:01:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIxNTIwOS8",
-      "title": "From ‘Scream 7’ to ‘Coyote vs. Acme,’ We’re Living in the Age of the Protest Ticket",
-      "description": "Paramount’s “Scream 7” survived a spring boycott, while Ketchup Entertainment’s “Coyote vs. Acme” benefited from a buy cott in a marketplace increasingly defined by voting with your wallet.",
-      "url": "https://www.indiewire.com/features/commentary/coyote-vs-acme-scream-7-box-office-protest-ticket-analysis-1235215209/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/coyote-vs-ghostface.png?w=650",
-      "publishedAt": "2026-09-07T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjE1Mjg5Lw",
-      "title": "‘Monsters of God’ Director Eric Goode Breaks Down the Finale Reveal: ‘He Was Like an Alcoholic Running a Liquor Store’",
-      "description": "The Emmy-nominated documentarian discusses the moment in his HBO series that revealed \"sometimes it's only the bars that separates the guard from the prisoner\" and what made \"Tiger King\" a \"liability\" to his passion project.",
-      "url": "https://www.indiewire.com/features/interviews/monsters-of-god-eric-goode-interview-finale-tiger-king-1235215289/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/director-eric-goode-in-penang-malaysia.jpg?w=650",
-      "publishedAt": "2026-09-07T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
