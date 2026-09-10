@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:35:17.661Z",
+  "generatedAt": "2026-09-10T01:01:50.794Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-aC0xMjM1MjE1OTg5Lw",
+      "title": "The Traditional Film Industry’s Collapse Is Right on Schedule — Opinion",
+      "description": "The most dangerous thing a producer can do during times of uncertainty is wait.",
+      "url": "https://www.indiewire.com/features/commentary/film-industry-collapse-on-schedule-a-producers-path-1235215989/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-09-at-5.26.39-PM.png?w=650",
+      "publishedAt": "2026-09-10T00:36:48.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMTU5MzMv",
+      "title": "‘Avengers: Doomsday’ Has Already Made $50 Million in Pre-Sales — And People Are Buying Disney’s Infinity Vision Gambit",
+      "description": "70 percent of domestic pre-sales — or $35 million — have come from the new certification invented in response to \"Dune: Part Three\" hoarding IMAX screens.",
+      "url": "https://www.indiewire.com/news/box-office/avengers-doomsday-50-million-pre-sales-infinity-vision-1235215933/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDAVDO_WD003.jpg?w=650",
+      "publishedAt": "2026-09-09T21:31:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxNTkzMS8",
+      "title": "After ‘Bunker’ Scores a Huge Venice Ovation, Will the Film and Penélope Cruz and Javier Bardem Be Major Oscar Contenders?",
+      "description": "Though \"Bunker\" was embraced at its world premiere, it is unlikely the marital drama will earn either Penélope Cruz and Javier Bardem a second Academy Award.",
+      "url": "https://www.indiewire.com/news/festivals/bunker-penelope-cruz-javier-bardem-venice-ovation-oscar-chances-1235215931/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1081KRN.jpg?w=650",
+      "publishedAt": "2026-09-09T21:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-FkLTEyMzUyMTM4OTIv",
+      "title": "‘The Paper’ Review: Season 2 Can’t Deliver Its One, Big, Diabolical Idea",
+      "description": "In Season 1, \"The Office\" spinoff struggled to define its main character. In Season 2, he may be the villain.",
+      "url": "https://www.indiewire.com/criticism/shows/the-paper-season-2-review-the-office-spinoff-bad-1235213892/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Paper-Season-2-Ned-and-Mare-relationship-wtf-e1788894814782.jpg?w=650",
+      "publishedAt": "2026-09-09T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-Ni0xMjM1MjE1Njk3Lw",
       "title": "Can ‘Practical Magic 2&#8242; Wave a Wand and Save Warner Bros.’ Rough Year at the Box Office?",
@@ -160,18 +208,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTU3OTkv",
-      "title": "‘Union Town’ Review: Barbara Kopple Returns to Her Labor Roots by Unevenly Covering the Plight of New York Delivery Workers",
-      "description": "Venice: The third in Kopple’s informal strike trilogy sets its sights on the workers battling with UPS, Amazon, and food-delivery apps with mixed results.",
-      "url": "https://www.indiewire.com/criticism/movies/union-town-review-1235215799/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-08-at-6.16.58-PM.png?w=650",
-      "publishedAt": "2026-09-09T13:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-LW1vdmllLXJldmlldw",
       "title": "The Uprising review – the peasants are revolting in muddled historical epic",
       "description": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet and Chris Pine’s least remembered roles are in the medieval set films The King and Outlaw King (no relation), Ridley Scott’s The Last Duel made back only a third of its $100m budget and earlier this year, the Saudi-backed seventh-century drama Desert Warrior starring Anthony Mackie and Ben Kingsley quietly became one of the biggest flops of all time. Last week, it was reported that Scott blamed the failure of Gladiator II on Paul Mescal not being “masculine enough” in a logical leap which only makes sense if your barometer for masculinity is a man who throws hotel phones and yells at producers in storage closets. On paper, The Uprising should be different: it’s a historical epic from a blue-chip director (the Bourne trilogy’s Paul Greengrass ), a nuanced, introspective leading man ( Andrew Garfield ) and a milieu that uncomfortably chimes with the western world’s backslide into repressive authoritarianism (The Peasants’ Revolt of 1381). In reality, it is a disjointed slog through the mud with the emotional depth of a History Channel rerun. Continue reading...",
@@ -181,18 +217,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNDk2Ny8",
-      "title": "‘The Uprising’ Review: Paul Greengrass Turns the Peasants’ Revolt of 1381 Into an Unapologetic Work of 21st Century Populism",
-      "description": "...that doubles as an origin story for a fictional character we wouldn't dare reveal.",
-      "url": "https://www.indiewire.com/criticism/movies/the-uprising-review-1235214967/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/4261_D027_00165rc.jpg?w=650",
-      "publishedAt": "2026-09-09T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -206,18 +230,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTU0NDIv",
-      "title": "‘Joie de Vivre’ Review: Luca Guadagnino’s Obsessive Bertolucci Doc Is a 7-Hour Cinema Paradiso Even More Fascinating for What It Leaves Out",
-      "description": "Venice: Guadagnino's epic chronicle of his filmmaking idol wends and wades its way through Bertolucci's complicated career — but where the hell is \"The Dreamers\"? This fascinating, often exhilarating documentary has plenty to chew on.",
-      "url": "https://www.indiewire.com/criticism/movies/luca-guadagnino-bertolucci-documentary-joie-de-vivre-review-1235215442/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/joie-de-vivre.jpg?w=650",
-      "publishedAt": "2026-09-09T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-Y290dGluLWxhdXJlLQ",
@@ -289,18 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE1Njk0Lw",
-      "title": "Summer Box Office Hit an All-Time High in 2026 — We’re So Back, Right? And 4 Other Takeaways",
-      "description": "A $4.765 billion summer was powered equally by \"Spider-Man\" and Christopher Nolan as it was \"Obsession\" and A24.",
-      "url": "https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/MON1420_TRL_comp_SPI_v0153.1270-copy.jpg?w=650",
-      "publishedAt": "2026-09-08T22:10:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
