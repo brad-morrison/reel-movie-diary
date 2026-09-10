@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T06:45:10.311Z",
+  "generatedAt": "2026-09-10T12:41:34.534Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-nktMTIzNTIxNTM4OC8",
+      "title": "All Kids Out of the Pool: An Oral History of the Adult Swim Launch",
+      "description": "As Adult Swim spends September re-airing the shows that put it on the map in 2001, its original creators and execs tell IndieWire how an experimental programming block became one of the biggest counterculture brands of the 21st century.",
+      "url": "https://www.indiewire.com/features/interviews/adult-swim-25th-anniversary-oral-history-1235215388/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-09-at-1.46.42-PM.png?w=650",
+      "publishedAt": "2026-09-10T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-dGljYWwtbWFnaWMtMg",
+      "title": "Two times a charm: Is Sandra Bullock and Nicole Kidman’s agelessness the real trick of Practical Magic 2?",
+      "description": "A film about sisterhood with fifty- and sixtysomething female leads is something to cheer – but would it have been made if its stars had aged like mere mortals since the 1998 original? Would Hollywood have brought Practical Magic back from the dead if the intervening 28 years looked more visible on Sandra Bullock and Nicole Kidman? An awkward question, as it risks subjecting their faces to the invasive scrutiny older female actors already endure. Their return as leads in their late 50s and early 60s should count as progress. Yet it reveals a condition of female stardom: age can increase a female actor’s nostalgic value, provided it does not show too clearly on her face. In Practical Magic 2, Bullock, 62, and Kidman, 59, return as sisters Sally and Gillian Owens. Dianne Wiest, 78, and Stockard Channing, 82, are back too. Joey King and Maisie Williams play Sally’s adult daughters, but Sally and Gillian remain central. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/sandra-bullock-nicole-kidman-agelessness-practical-magic-2",
+      "image": "https://i.guim.co.uk/img/media/b56e9a54acdb490b3313cd5bd806239191fc3cc7/605_0_3467_2774/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6036c01d508d683b048041d37d6deb35",
+      "publishedAt": "2026-09-10T09:00:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-NsYXVkZS1jaGFicm9s",
+      "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
+      "description": "Claude Chabrol’s 1969 film charts a complex marriage in which a husband suspects his wife is cheating on him Writer-director Claude Chabrol’s eerie 1969 masterpiece of frozen emotions and unspoken truths is now rereleased, alongside a Chabrol season at London’s BFI Southbank. This is the suspense thriller remade by Adrian Lyne in 2002 as Unfaithful with Richard Gere and Diane Lane and (partly) remade again this year as Minotaur , a bitter and brilliant theme-variation by the Russian director Andrey Zvyagintsev. As for the original, watched again now, it does not in fact look like a classic noir thriller in the style of Chabrol’s hero Hitchcock, which is how it is often described, but more like something by Buñuel: an elaborate absurdist joke at the expense of the French bourgeoisie, a ballet of repression and fear. The unfaithful woman of the title is the glacially beautiful but glassy-eyed Hélène, played by Chabrol’s then wife Stéphane Audran. She is cheating on Charles, played by Michel Bouquet, her prosperous husband and the father of their adored 10-year-old son. Charles has begun to suspect something is going on during his wife’s frequent trips to Paris, where she supposedly has appointments with the beautician, goes shopping or visits the cinema, but in fact has sex with the divorced writer Victor Pegala (Maurice Ronet) at his dishevelled bachelor flat. Charles phones the beauty parlour where she is supposed to be getting a treatment; she isn’t there. We see how this only confirms suspicions which have clearly accumulated in his mind like silt over months or even years. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/la-femme-infidele-review-claude-chabrol",
+      "image": "https://i.guim.co.uk/img/media/0fbdbb7289dafe835f7715bac9f4c13f53fec057/362_0_2952_2362/master/2952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=20353f6047bc077f5e8c30c704bfbf75",
+      "publishedAt": "2026-09-10T08:00:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-YXN0LXJldGVsbGluZw",
       "title": "Pressure review – stormy weather in tense D-day forecast retelling",
@@ -208,36 +244,12 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-Mi0xMjM1MjE0Nzk5Lw",
-      "title": "From ‘Heathers’ to ‘Practical Magic 2,’ Denise Di Novi Keeps Her Filmmaking Personal",
-      "description": "The producer of movies as varied as \"Ed Wood,\" \"Sisterhood of the Traveling Pants,\" and \"Catwoman\" tells IndieWire about what motivates her choices, and how she keeps a grounded perspective on the work regardless of the critics and the box office.",
-      "url": "https://www.indiewire.com/features/interviews/denise-di-novi-interview-heathers-practical-magic-2-1235214799/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPRMA_WB008.jpg?w=650",
-      "publishedAt": "2026-09-09T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LWtocnpoYW5vdnNreQ",
       "title": "DAU review – Ilya Krzhanovsky’s crazed Soviet inferno reaches its central character",
       "description": "Venice film festival: The director’s bleak epic project about the scientist Lev Landau finally focuses on the genius maudit who inspired the series How would it be if Christopher Nolan got sidetracked while making Oppenheimer, and decided to spend 20 years and millions of dollars of other people’s money reconstructing the Los Alamos HQ in all its minute detail, which would be the site of a gigantic immersive multimedia project, releasing epic and sexually explicit sidebar movies about … someone who worked in the commissary … or a scary incidental guy from the CIA … before finally getting round to the fundamental main-event movie with Cillian Murphy as the A-bomb’s father? Perhaps it would be something like Ilya Krzhanovsky’s authentically mad, obsessively sexual, and spectacularly pessimistic epic project about the Soviet scientist and Nobel laureate Lev Landau, or “Dau”, whose work spanned the 1920s to the postwar and cold war eras, and whose notional endorsement of free love the DAU movies escalate into a dissolute sex addiction. Khrzhanovsky gives this a kind of classical Hellenic distinction by fictionalising a Greek background for our mysterious horny hero, whose indulgences coexist with his self-questioning obsession with his own genius and loneliness. It would be vulgar and irrelevant to wonder if Khrzhanovsky, like any artist, is in fact working on a self-portrait. But you surely can’t work on a (still unfinished) project like this without a strong personal connection. Here, at all events, is the latest Dau iteration, a more conventionally conceived biopic about Lev Landau (although we don’t see him getting the Nobel – perhaps that’s a separate film). Apparently this is the feature that Khrzhanovsky originally envisioned before the creative Big Bang that created the Dau multimedia universe. His first offshoot picture DAU. Natasha (2020) was about two women who work in the canteen of Dau’s research institute, a place drenched in sexual tension and political paranoia and violence. The next film to come was the grisly epic DAU. Degeneration (2020), set in the late 60s with Dau himself – still here a peripheral character – on his deathbed. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/09/dau-review-venice-film-festival-ilya-khrzhanovsky",
       "image": "https://i.guim.co.uk/img/media/deb280e05c5eeea492646e2c2aa89ec9e54a0153/812_0_2767_2214/master/2767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=db136df3a358aae6f51b78e1528af644",
       "publishedAt": "2026-09-09T13:45:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-LW1vdmllLXJldmlldw",
-      "title": "The Uprising review – the peasants are revolting in muddled historical epic",
-      "description": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet and Chris Pine’s least remembered roles are in the medieval set films The King and Outlaw King (no relation), Ridley Scott’s The Last Duel made back only a third of its $100m budget and earlier this year, the Saudi-backed seventh-century drama Desert Warrior starring Anthony Mackie and Ben Kingsley quietly became one of the biggest flops of all time. Last week, it was reported that Scott blamed the failure of Gladiator II on Paul Mescal not being “masculine enough” in a logical leap which only makes sense if your barometer for masculinity is a man who throws hotel phones and yells at producers in storage closets. On paper, The Uprising should be different: it’s a historical epic from a blue-chip director (the Bourne trilogy’s Paul Greengrass ), a nuanced, introspective leading man ( Andrew Garfield ) and a milieu that uncomfortably chimes with the western world’s backslide into repressive authoritarianism (The Peasants’ Revolt of 1381). In reality, it is a disjointed slog through the mud with the emotional depth of a History Channel rerun. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c70adbdc52a8efa578dc8ebef0cc48e0b9d8ac9d/893_0_4214_3375/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=191a05a2f95608b4dbc5e5f0110b6721",
-      "publishedAt": "2026-09-09T13:00:02.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -254,18 +266,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-Y290dGluLWxhdXJlLQ",
-      "title": "Call My Agent! The Movie review – the gang get back together and c’est formidable",
-      "description": "The screwball French comedy is back as a film that actually works, thanks to putting Andréa and Noémie at the heart of chaotic events and bringing all the old faces back At last: a beloved-TV-show-to-film-spinoff that doesn’t suck! The original French series is a screwball-speed office comedy about a boutique Parisian talent agency, and was a ratings and critical success in its homeland when it started back in 2015. Its acquisition by Netflix grew the audience internationally and spawned a stable full of remakes across Europe and Asia. In the meantime, several members of the original French cast have become proper stars in their own right, especially Camille Cottin and Laure Calamy, and this sequel, set five years on, is smart to put these two at the heart of the latest instalment. And of course, there are the obligatory turns from properly famous actors playing themselves, including Laetitia Casta, Vincent Macaigne, Laurent Lafitte and some guy named George Clooney, best known these days for appearances on vaporettos in the Venice lagoon. Like many great sitcoms, this one always understood that failure, rather than success, keeps the wider narrative arc more interesting and relatable. So the last episode of the series left the gang at talent agency ASK (which stood for Agence Samuel Kerr, after the founder, who died in the first episode), dispersed to new gigs and careers; the band, in effect, broke up. Five years on, the stars have aligned to bring them all back together to work on Andréa (Cottin) and Noémie’s (Calamy) new film project, so the title Call My Agent! The Movie works on more than one level. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/call-my-agent-the-movie-review-camille-cottin-laure-",
-      "image": "https://i.guim.co.uk/img/media/034747e481a2d8f2b05ad395feb768fbc9e331b7/1038_1256_5597_4478/master/5597.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=57a635ceb86458f1e35d2c3641ffa6c1",
-      "publishedAt": "2026-09-09T12:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
