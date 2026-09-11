@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:40:35.745Z",
+  "generatedAt": "2026-09-11T18:34:23.114Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,162 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ei0xMjM1MjE2MTMyLw",
+      "title": "‘Makikiraan Po (Let Us Through, Dear Ancestors)’ Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama",
+      "description": "Venice: The Filipino filmmaker’s swift return to his signature black-and-white converses thematically with last year’s bracing epic \"Magellan.\"",
+      "url": "https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/makikiraan_po.jpg?w=650",
+      "publishedAt": "2026-09-11T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bS0xMjM1MjE2MDk3Lw",
+      "title": "‘American Hostage’ Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate",
+      "description": "Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics — or getting anyone killed.",
+      "url": "https://www.indiewire.com/criticism/shows/american-hostage-review-jon-hamm-series-mgm-1235216097/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/American-Hostage-series-release-date-Jon-Hamm-show.jpg?w=650",
+      "publishedAt": "2026-09-11T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-95LTEyMzUyMTYwOTkv",
+      "title": "‘Lovers in the Blue Night’ Review: Anuparna Roy Returns with a Dreamy, Pained Drama About Desire and Displacement",
+      "description": "Venice: Four restless migrants in Mumbai grapple with forbidden desires and lost futures in this compelling tale from the director of \"Songs of Forgotten Trees.\"",
+      "url": "https://www.indiewire.com/criticism/movies/lovers-in-the-blue-night-review-anuparna-roy-1235216099/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lovers-in-the-Blue-Night.jpg?w=650",
+      "publishedAt": "2026-09-11T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
+      "title": "Gore, gimps and a potty-mouthed magpie: welcome to the Lisbon horror festival where nightmares are a dream",
+      "description": "MotelX – Portugal’s only film festival dedicated to horror – hopes to inspire local film-makers by showcasing world-class scares. Now in its 20th edition, its directors say truly nerve-shredding cinema is its holy grail If horror happens in the dark, the midnight movie showing was once the perfect way of gauging the genre’s health. But those days may be over. “When we were a film club, our first ever cinema screening was Takashi Miike’s Ichi the Killer in 2003, and it was full,” says Pedro Souto, co-director of Lisbon’s horror-centric MotelX festival . “But you don’t have that many people at midnight any more. I don’t know why.” He’s right: the midnight slot I attend – of the gore-bathed Indonesian kung fu flick Ikatan Darah – is only half full. Only a few appreciative chuckles when meat-cleavers plunge into craniums suggest the old midnight spirit still lives. No need to panic, though: horror has simply embraced the light. With the genre exploding in the 2010s and 2020s, and blockbusting grosses this year for the likes of Obsession and Backrooms , MotelX is able to gorge itself on this cultural jugular. Now in its 20th edition, the festival has expanded to 11 days, with more than 170 films from 40 countries. Flashy branding – a howling gimp and the signature X, both in inflatable PVC – is dotted on around city billboards. At the opening ceremony, a gigantic birthday cake – the self-same gimp emerging from a lake of gelatine “blood” – is massacred by the punters within 20 minutes. Crowds seem abundant at most screenings, dominated by a heatwave look (dark singlets, shorts and sweaty tattoos) best described as “goth Decathlon”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/motelx-lisbon-portugal-horror-film-festival",
+      "image": "https://i.guim.co.uk/img/media/d7545fc1b2442cfc8195ee28f885ab9c45fffb2d/690_0_4272_3418/master/4272.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9637e367432b7330c9a7a3a57e6c040",
+      "publishedAt": "2026-09-11T15:23:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-dXZhbC1hYnJhaGFtLQ",
+      "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
+      "description": "Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killing On a darkened rooftop in Tel Aviv, Israeli intelligence officers outline the details of their work. These men tell us how they helped develop an AI mapping tool that trawled for phone signals and recommended apartment buildings in Gaza to bomb. Indirectly, they admit, they are responsible for thousands of deaths, but they never spoke up because that wasn’t their place. “My role is technical,” says one. “I’m just a small cog,” says another. NAZA – directed by the Israeli film-makers Rachel Szor and Yuval Abraham and produced by the Guardian – is a chilling documentary about a mass slaughter that was authorised at the highest levels of government. But it is also, primarily, about the process, the system, the little links in the killing chain. Szor and Abraham build their film around the accounts of 24 anonymised military and intelligence insiders. NAZA, we learn, is an acronym used by the intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. The Israel Defense Forces prefer to target Hamas terrorists in their homes at night – and if they live with their family, or in heavily populated neighbourhoods, too bad. At one point, a source claims, approval was given to kill 500 NAZA for one Hamas member. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
+      "image": "https://i.guim.co.uk/img/media/bf763d1433b5f7659ac79441f0f30488503ef798/0_1240_5460_4367/master/5460.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7dc89bb29475390a884a921d6919609",
+      "publishedAt": "2026-09-11T15:18:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-JpLTEyMzUyMTYyNjUv",
+      "title": "‘A Bit of Light’ Review: Ali Asgari’s Iranian Answer to ‘It’s a Wonderful Life’ Is a Bit of a Miracle",
+      "description": "Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.",
+      "url": "https://www.indiewire.com/criticism/movies/a-bit-of-light-review-ali-asgari-1235216265/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/a-bit-of-light.jpeg?w=547",
+      "publishedAt": "2026-09-11T15:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VkLTEyMzUyMTU5MTIv",
+      "title": "‘One Minute to Midnight’ Review: Melvil Poupaud Reckons with His Past in a Too-Talky Parisian Drama",
+      "description": "Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.",
+      "url": "https://www.indiewire.com/criticism/movies/one-minute-to-midnight-review-melvil-poupaud-1235215912/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/One_Minute_to_Midnight_01.webp?w=650",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTYyMTUv",
+      "title": "How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for Penélope Cruz and Javier Bardem",
+      "description": "As \"Bunker\" prepares to premiere at TIFF, Florian Zeller admits one of his married cast members didn't like the comparison to Cruise and Kidman.",
+      "url": "https://www.indiewire.com/features/interviews/how-mark-zuckerberg-eyes-wide-shut-inspired-bunker-1235216215/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1081KS5.jpg?w=650",
+      "publishedAt": "2026-09-11T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE2MDY3Lw",
+      "title": "How Two Oscars Breakouts Are Charting New Paths for Indian Cinema at TIFF with ‘Dorothy’ and ‘Termite’",
+      "description": "TIFF: “Dorothy” director Karthik Subbaraj and producer Guneet Monga Kapoor hint at why this large-canvas Tamil gangster film is so special, while Shaunak Sen discusses “Termite,” his first foray into directing fiction, and a feature documentary he is co-producing with Joaquin Phoenix and Rooney Mara.",
+      "url": "https://www.indiewire.com/features/interviews/tiff-indian-movies-dorothy-termite-interviews-1235216067/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images-1.jpeg?w=632",
+      "publishedAt": "2026-09-11T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Yy0xMjM1MjE2MTA0Lw",
+      "title": "‘Burgundy’ Review: A Warm, Witty Winemaking Vibe Documentary You’ll Want to Pair with a Glass of Red",
+      "description": "Venice: But you don't need to be wine-drunk to savor the \"The Truffle Hunters\" directors Michael Dweck and Gregory Kershaw's airy immersion into ancient French tradition.",
+      "url": "https://www.indiewire.com/criticism/movies/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1235216104/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bertrand-in-BURGUNDY-Beautiful-Stories.png?w=650",
+      "publishedAt": "2026-09-11T13:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNTg3NC8",
+      "title": "One of the Year’s Best Film Books Celebrates the Unsung Artists That Turned ‘The Women’ Into a Classic",
+      "description": "The author of \"Jungle Red: The Making of MGM's 'The Women'\" tells IndieWire why she wanted to explore the making of the 1939 classic and how women both famous (Joan Crawford, Norma Shearer) and forgotten (screenwriter Jane Murfin) contributed to its greatness.",
+      "url": "https://www.indiewire.com/features/interviews/illeana-douglas-on-the-women-1235215874/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MBDWOME_EC059.jpg?w=650",
+      "publishedAt": "2026-09-11T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-lnLTEyMzUyMTYyMDEv",
+      "title": "Def Leppard Documentary Coming to Theaters Courtesy of Bleecker Street and Crosswalk",
+      "description": "Metal fans rejoice! A new doc will look at the highs and lows of the legendary band.",
+      "url": "https://www.indiewire.com/news/business/def-leppard-doc-theaters-2027-jeff-feuerzeig-1235216201/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Def-Leppard-2-Photo-Credit-Ross-Halfin-1.jpg?w=650",
+      "publishedAt": "2026-09-11T12:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5nLTEyMzUyMTYyMTAv",
+      "title": "Korean Star Jeon Do-yeon’s Outstanding ‘Possible Love’ Performance Could Earn Venice’s Best Actress Prize — or Lee Chang-dong the Golden Lion",
+      "description": "Venice: IndieWire talks to Jeon at the festival about reuniting with director Lee after his 2007 \"Secret Sunshine\" earned her a history-making Best Actress prize at Cannes.",
+      "url": "https://www.indiewire.com/features/interviews/possible-love-star-jeon-do-yeon-interview-lee-chang-dong-1235216210/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2293779714.jpg?w=650",
+      "publishedAt": "2026-09-11T12:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-dy0xMjM1MjE2MTUzLw",
       "title": "‘Moonfish’ Review: This Existential Outer Space Abandonment Saga Is a Bizarro ‘Project Hail Mary’",
@@ -64,18 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-HktMTIzNTIxMzY1Ny8",
-      "title": "‘Being Heumann’ Review: Siân Heder’s ‘CODA’ Follow-Up Is an Essential Biopic That’s Not Afraid to Have Some Fun",
-      "description": "TIFF: Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.",
-      "url": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-3-1.jpeg?w=632",
-      "publishedAt": "2026-09-11T03:44:41.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-LXZpZGVvLW50d25mYg",
       "title": "Documentary NAZA gets 25-minute standing ovation at Venice film festival premiere – video",
       "description": "The documentary NAZA about the civilian death toll in Gaza was received with a 25-minute standing ovation at its Venice film festival premiere. The Guardian-produced film takes its title from an Israeli military term for expected 'collateral casualties' and is built around testimony from intelligence officers and soldiers involved in the war Continue reading...",
@@ -100,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ci0xMjM1MjE2MTQyLw",
-      "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
-      "description": "For Toronto-based fans of the beloved physical media distributor, the just-opened Cinema Cellar is a must-shop. IndieWire stopped by on opening day.",
-      "url": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_4582-2.jpg?w=650",
-      "publishedAt": "2026-09-10T22:41:07.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-N0YXJub25lLXRyaWNr",
       "title": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
       "description": "Venice film festival The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity It’s always good to see the veteran Italian star Toni Servillo at Venice; in fact, the festival is pretty much unthinkable without him. But this initially promising prospect – adapted from a novel by Domenico Starnone – is a minor, quibbling tonal oddity, unsure if it wants to be scary or sentimental. Servillo lends it as much gravitas as he can: his mere presence is valuable ballast and the streetscape scenes of Naples are handled with a connoisseur’s touch by director Mario Martone, whose previous Naples-set movie Nostalgia was far superior. Daniele (played by Servillo) is a septuagenarian book illustrator whose old-fashioned, hand-drawn artistry is something he testily treasures. He has come back to his family home in Naples, to the gloomy apartment where he was brought up, just behind the train station, and where his grownup daughter Betta (Serena Rossi) now lives with her husband and their five-year-old son Mario (newcomer Lorenzo Perrotta), who is adorable and as bright as a button, but also borderline insufferable. Continue reading...",
@@ -124,144 +256,12 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTU3NDgv",
-      "title": "‘Colin from Accounts’ Final Season Is for the F*ck-Ups",
-      "description": "The Australian romantic-comedy series returns with a third and final season that sees its central couple summoning the courage to decide what's right for them, even if it looks wrong to everyone else.",
-      "url": "https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Colin-From-Accounts-Season-3-Patrick-Brammall-as-Gordon-Harriet-Dyer-as-Ashley.jpg?w=650",
-      "publishedAt": "2026-09-10T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-3UtMTIzNTIxNTk0MS8",
-      "title": "Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off",
-      "description": "The director of \"If I Tell You\" says years of training on shows as varied as \"American Horror Story,\" \"Matlock,\" and \"NCIS: Hawai'i\" helped her develop a clear, precise visual language for her powerful debut feature.",
-      "url": "https://www.indiewire.com/features/interviews/tessa-blake-on-if-i-tell-you-1235215941/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/if-i-tell-you-2.jpeg?w=650",
-      "publishedAt": "2026-09-10T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIxNTkyOC8",
-      "title": "Cody Fern Wrote His Directing Debut ‘Closing Night’ for Sarah Paulson: ‘She’s Like a Bugatti’",
-      "description": "Ahead of the Toronto International Film Festival, the \"American Horror Story\" star and first-time filmmaker talks directing a powerhouse coterie of actresses: not only Paulson, but also Naomi Watts and Dianne Wiest.",
-      "url": "https://www.indiewire.com/features/interviews/cody-fern-directorial-debut-closing-night-sarah-paulson-1235215928/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2216336205.jpg?w=650",
-      "publishedAt": "2026-09-10T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIxNjA0Ni8",
-      "title": "New Documentary ‘Capturing Bigfoot’ Blows the Legend of the Sasquatch Wide Open — Watch Trailer",
-      "description": "Exclusive: Marq Evans and Tamir Ardon's deep dive into the infamous Patterson-Gimlin film was an audience favorite at SXSW this year; on National Bigfoot Day, it will finally be unleashed in North American theaters.",
-      "url": "https://www.indiewire.com/news/trailers/capturing-bigfoot-trailer-documentary-1235216046/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/capturing-bigfoot.jpeg?w=650",
-      "publishedAt": "2026-09-10T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-XItMTIzNTE5MTE3NC8",
-      "title": "Cannes 2026 Movies Sold: Sumerian Buys ‘Low Expectations’ Starring Indie Singer Girl in Red",
-      "description": "Eivind Landsvik directed the Directors' Fortnight title that also stars Anders Danielsen Lie.",
-      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LOW-EXPECTATIONS_STILL-01.jpg?w=650",
-      "publishedAt": "2026-09-10T16:40:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNjExNi8",
-      "title": "‘Arrested Memory’ Review: Sabu Plays Amnesia for Gentle Comedy",
-      "description": "Venice: The Japanese genre auteur's approach to memory loss is more interested in slapstick than existential rumination, but that doesn't dampen his affection for his characters.",
-      "url": "https://www.indiewire.com/criticism/movies/arrested-memory-review-1235216116/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-10-at-9.23.55-AM.png?w=650",
-      "publishedAt": "2026-09-10T16:38:21.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-hpLTEyMzUyMTU4NDEv",
-      "title": "‘All of a Sudden’ Trailer: Ryusuke Hamaguchi’s Epic Two-Hander Stars Virginie Efira and Tao Okamoto",
-      "description": "Exclusive: A hit out of Cannes, the film is Japan's entry for Best International Feature. It may go even further than that.",
-      "url": "https://www.indiewire.com/news/trailers/all-of-a-sudden-trailer-ryusuke-hamaguchi-1235215841/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/ALL-OF-A-SUDDEN-Film-Still-1.webp?w=650",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTU5MjAv",
-      "title": "Louis Garrel Looks Back on the X-Rated Classic ‘The Dreamers’ and Being ‘Shocked’ by His Sex Scenes with Isabelle Huppert in ‘Ma Mère’",
-      "description": "Venice: The French actor/filmmaker stars in Nanni Moretti's frothy comedy of romantic destiny, \"It Will Happen Tonight,\" during a Venice Film Festival haunted by the ghost of \"The Dreamers\" director Bernardo Bertolucci across the programming.",
-      "url": "https://www.indiewire.com/features/interviews/louis-garrel-looks-back-the-dreamers-sex-scenes-1235215920/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2293680037.jpg?w=650",
-      "publishedAt": "2026-09-10T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-XRsaWYtb2JpdHVhcnk",
       "title": "Tony Gatlif obituary",
       "description": "Algerian-born French director of more than 20 films that celebrated Roma culture The French film director Tony Gatlif, who has died aged 77, was regularly described as “cinema’s Gypsy auteur”, so often did his films focus on Roma communities and their music. Between 1975 and 2025, Gatlif directed more than 20 films, beginning with La Tête en Ruine (The Ruined Head). That film was never released, and he struggled throughout the 1970s and 80s to get funding for his films, and then to find a distributor, before finally breaking through with Latcho Drom (1993, the title being Romany for “good journey”). An international arthouse hit, Latcho Drom is a meditative travelogue that blends footage of staged musical performances in contemporary Roma communities in Istanbul, Romania, Hungary, Slovakia, France and Spain, with historic recreations of such communities in Rajasthan and an Egyptian oasis. Latcho Drom conveys the centuries-long migration from Asia to western Europe of a nomadic people we now call Gypsies or Roma, as a fable told entirely in images and music. There is no voiceover, talking heads or text; instead Gatlif lets the striking settings and musical performances enchant viewers. It is an idealised portrait of the Roma, not a documentary (as some labelled it), and while Gatlif portrays the discrimination and persecution Roma communities experience, his emphasis was on celebrating Roma beauty and artistry. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/10/tony-gatlif-obituary",
       "image": "https://i.guim.co.uk/img/media/0b99931e5826045d8bbcc2fc14aec6eee52e770e/531_0_2760_2209/master/2760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfb155f9573dcde8938cd10dbfacfba3",
       "publishedAt": "2026-09-10T15:28:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-XctaXNyYWVsLWdhemE",
-      "title": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
-      "description": "Venice film festival: Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the Guardian Here is a disquieting documentary about what Israel’s military chiefs in Gaza reputedly call “Naza”, meaning civilian collateral damage – itself a queasy euphemism. The calculated “Naza” number is the amount of projected civilian deaths from each military strike, and perhaps it will come to have the same connotations as the US military term “body count” during Vietnam. The directors are Yuval Abraham and Rachel Szor, two of the film-makers behind No Other Land , which was about attacks by the Israel Defense Forces on Palestinian West Bank villages. NAZA is executive produced by Jonathan Glazer and James Wilson and appears under the production auspices of the Guardian, in which some of the stories have already appeared. There are flaws: interviews were conducted on the condition of anonymity, but if no-one can be persuaded to put their name and face to their words (and of course it is terribly dangerous) then the impact of this as testimony is lessened. But even so, the film is casting a chilling light on what is happening now in Gaza. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/300_124_2444_1955/master/2444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=a86d3b7a8b843d96b1f5c79a4fb0f7b8",
-      "publishedAt": "2026-09-10T15:15:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTUzOTUv",
-      "title": "‘NAZA’ Review: The Israeli Directors of ‘No Other Land’ Illuminate the Mechanics of Genocide in Another Essential Documentary",
-      "description": "Rooftop interviews in Tel Aviv play host to monstrous revelations about AI-assisted massacres.",
-      "url": "https://www.indiewire.com/criticism/movies/naza-documentary-review-1235215395/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
-      "publishedAt": "2026-09-10T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-LWl2ZS1ldmVyLW1ldA",
-      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
-      "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
-      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
-      "publishedAt": "2026-09-10T14:00:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -302,42 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Actor Noel Clarke charged with sexual offences",
-      "description": "Clarke has been charged with offences including sexual assault. BBC News has asked him for a comment.",
-      "url": "https://www.bbc.co.uk/news/articles/c86x0y3wd9do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0bd3/live/d32e72b0-ac4a-11f1-96a2-2f464854ded4.jpg",
-      "publishedAt": "2026-09-09T12:51:24.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Shane Richie pleads not guilty to drink-driving",
-      "description": "The 62-year-old actor was arrested by police at a petrol station forecourt in July 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c89j012xkvpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8de1/live/db9d5a10-ac36-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-09T09:40:38.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Nicolas Cage's driveway collapses as sinkhole opens up at his Malibu home",
-      "description": "A 30ft crater opened up outside the actor's home in Malibu after heavy rain in Southern California.",
-      "url": "https://www.bbc.co.uk/news/articles/c790l73ryp3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e3c7/live/91a3af60-ac2f-11f1-b1d1-571ed4d7ff2c.png",
-      "publishedAt": "2026-09-09T09:40:31.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-VlcHktYW50aG9sb2d5",
