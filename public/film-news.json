@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:32:55.994Z",
+  "generatedAt": "2026-09-11T01:01:36.988Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ci0xMjM1MjE2MTQyLw",
+      "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
+      "description": "For Toronto-based fans of the beloved physical media distributor, the just-opened Cinema Cellar is a must-shop. IndieWire stopped by on opening day.",
+      "url": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_4582-2.jpg?w=650",
+      "publishedAt": "2026-09-10T22:41:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-N0YXJub25lLXRyaWNr",
+      "title": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
+      "description": "Venice film festival The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity It’s always good to see the veteran Italian star Toni Servillo at Venice; in fact, the festival is pretty much unthinkable without him. But this initially promising prospect – adapted from a novel by Domenico Starnone – is a minor, quibbling tonal oddity, unsure if it wants to be scary or sentimental. Servillo lends it as much gravitas as he can: his mere presence is valuable ballast and the streetscape scenes of Naples are handled with a connoisseur’s touch by director Mario Martone, whose previous Naples-set movie Nostalgia was far superior. Daniele (played by Servillo) is a septuagenarian book illustrator whose old-fashioned, hand-drawn artistry is something he testily treasures. He has come back to his family home in Naples, to the gloomy apartment where he was brought up, just behind the train station, and where his grownup daughter Betta (Serena Rossi) now lives with her husband and their five-year-old son Mario (newcomer Lorenzo Perrotta), who is adorable and as bright as a button, but also borderline insufferable. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick",
+      "image": "https://i.guim.co.uk/img/media/22e603c51e490287f916dbf84a81eeb426b16338/241_0_5016_4015/master/5016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=41a95ebd76ae656483b11b22d9503171",
+      "publishedAt": "2026-09-10T19:45:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTU3NDgv",
+      "title": "‘Colin from Accounts’ Final Season Is for the F*ck-Ups",
+      "description": "The Australian romantic-comedy series returns with a third and final season that sees its central couple summoning the courage to decide what's right for them, even if it looks wrong to everyone else.",
+      "url": "https://www.indiewire.com/criticism/shows/colin-from-accounts-final-season-review-1235215748/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Colin-From-Accounts-Season-3-Patrick-Brammall-as-Gordon-Harriet-Dyer-as-Ashley.jpg?w=650",
+      "publishedAt": "2026-09-10T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-3UtMTIzNTIxNTk0MS8",
       "title": "Tessa Blake Directed Over 50 Hours of Television Before Embarking on Her First Feature. The Experience Paid Off",
@@ -160,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-WwtMTIzNTIxNjA4OC8",
-      "title": "Nathan Fielder and Lance Oppenheim’s ‘You Can See Everything’ New York Premiere Set for NYFF",
-      "description": "The wildly acclaimed Elizabeth Holmes documentary will play New York Film Festival on September 30.",
-      "url": "https://www.indiewire.com/news/festivals/you-can-see-everything-new-york-film-festival-1235216088/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/you-can-see.webp?w=650",
-      "publishedAt": "2026-09-10T14:15:38.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LWl2ZS1ldmVyLW1ldA",
       "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
       "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
@@ -181,18 +205,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-m4tMTIzNTIxMzg0OS8",
-      "title": "To Follow Her Best Picture Win, Siân Heder Opted to Make ‘the Hardest Story She Could Imagine’",
-      "description": "TIFF: For \"Being Heumann,\" Heder takes on a seminal moment in the life of the remarkable disability activist Judy Heumann. She imagined a risky film, populated by all manner of disabled performers, that felt more \"Dog Dog Afternoon\" than cultural vegetables. All that? It was scary. It was worth it.",
-      "url": "https://www.indiewire.com/features/interviews/sian-heder-best-picture-coda-next-film-being-heumann-1235213849/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2275084345-e1788361886393.jpg?w=650",
-      "publishedAt": "2026-09-10T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -232,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-Ym90dG9tLWhvcnJvcg",
-      "title": "‘He goes to the dark side’: behind the scenes on the Shaun the Sheep horror movie",
-      "description": "Aardman’s hero is back in The Beast of Mossy Bottom – a terrifying tale of frankenfood, pitchfork-wielding villagers and a monster with suspiciously stiff orange hair. Our writer meets its makers and moulds her very own Shaun The Aztec West industrial estate in Bristol was opened by Margaret Thatcher in December 1989. One hundred and sixty acres of breeze block and mirrored glass, it is home to about 7,000 employees and 100 companies, including EDF, EE, HSBC, Co-op Legal and Spandex. It has its own gym, spa, church and morgue. Step inside Unit 1410, though, and bucolic England is magically restored. A farm complete with sheep. Rolling fields in autumn colours. A small parish town boasting post office, war memorial, chippy. It looks lush. But before you hit up Rightmove, I should say: Mossingham is only two feet tall. And plasticine. It’s January 2026 and Aardman animations are about halfway through production on Shaun the Sheep: The Beast of Mossy Bottom. The 300-odd staff in this shed are full speed ahead – which means each of the 30 animators is rattling out almost two seconds of footage a day . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/shaun-the-sheep-aardman-beast-of-mossy-bottom-horror",
-      "image": "https://i.guim.co.uk/img/media/c0dfc7653ab46dab6890928b94a4764a569e4392/643_166_5235_4188/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93251163bc98fa4ccd29109dee0473f9",
-      "publishedAt": "2026-09-10T04:00:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-FpbmUtY3JpdGljaXNt",
       "title": "Russian director refuses to denounce lead actor despite criticism from Ukraine",
       "description": "Ilya Khrzhanovsky’s DAU, about physicist Lev Landau, stars Russian conductor Teodor Currentzis, who has refused to speak out against Putin’s war The director of a controversial new Russian film has said “everyone pays for his own choice” when asked about his lead’s refusal to condemn Russia’s war in Ukraine. In film-maker Ilya Khrzhanovsky’s DAU, which premiered at the Venice film festival on Wednesday, Greek-Russian star conductor Teodor Currentzis plays the eponymously nicknamed protagonist, Nobel prize-winning quantum physicist Lev Landau. Continue reading...",
@@ -254,6 +254,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
+    },
+    {
+      "id": "guardian-aWRhcml0eS1xdW90ZQ",
+      "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
+      "description": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement John Malkovich has cancelled a planned trip to Israel next year to appear on stage after a PR firm hired by the show attributed quotes to the actor that the company had written. Malkovich, who is a leading Oscar contender for his role in Martin McDonagh’s Wild Horse Nine , was due to appear in The Music Critic, a theatrical-musical satire composed by the Jewish violinist Aleksey Igudesman, in Tel Aviv’s Charles Bronfman Auditorium on 13 April. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
+      "image": "https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8241697b7237458a557e02ec967f343",
+      "publishedAt": "2026-09-09T15:23:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-LW1vdmllLXJldmlldw",
@@ -469,18 +481,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Zm9yLXBhbGVzdGluZQ",
-      "title": "Susan Sarandon says she is losing movie roles because of her support for Palestine",
-      "description": "Oscar-winning actor says she and other outspoken critics of Israel have found it ‘impossible’ to get hired by major studios The Oscar-winning actor Susan Sarandon has said she is still losing work because of her outspoken support for Palestinians, despite what she ⁠described as a broader shift ⁠in public opinion against ​US support for Israel. Speaking at the Venice film festival, where she is promoting her latest movie The Echo Chamber, Sarandon said some parts of the film industry continued to ⁠shun her over her activism. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/susan-sarandon-says-she-is-losing-movie-roles-because-of-her-support-for-palestine",
-      "image": "https://i.guim.co.uk/img/media/1f492e3655b3de42d32bf8c27a9ea31f3b901d74/352_0_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eeb91daa5a6a9495dbb536b0c9ac890a",
-      "publishedAt": "2026-09-07T00:17:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
