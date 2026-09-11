@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T06:44:35.582Z",
+  "generatedAt": "2026-09-11T12:40:35.745Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-dy0xMjM1MjE2MTUzLw",
+      "title": "‘Moonfish’ Review: This Existential Outer Space Abandonment Saga Is a Bizarro ‘Project Hail Mary’",
+      "description": "Venice: Daniel Zvereff writes and directs this sparse, gray film about what it means to grieve our own humanity in real time.",
+      "url": "https://www.indiewire.com/criticism/movies/moonfish-movie-review-1235216153/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-10-at-3.19.04-PM.png?w=650",
+      "publishedAt": "2026-09-11T12:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-nMtaG9tZS10cnV0aHM",
+      "title": "‘Danny Boyle, please make another film about drugs’: Venice film festival’s feedback wall takes no prisoners",
+      "description": "The written forum allows members of the public to vent their fury at the movies they’ve seen – and the festival organisers In an industry that is reliant on the fickle vagaries of taste, film festivals exist to establish facts. The reason why film-makers still go through the rigmarole of ferrying their cast to the red carpets of Venice, Cannes or Sundance is the need for empirical evidence of unambiguous quality: a solid-gold prize, a top score on the critics’ grid, a record-timed standing ovation that will convince every doubter that this is a great film . Film festivals, in turn, need beautiful A-listers to attract coverage and sponsorship, and hence there is a constant risk that these annual events become gigantic hype machines, in which every turkey is a classic and every half-hearted performance a masterclass. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/venice-film-festival-public-feedback-wall-delivers-home-truths",
+      "image": "https://i.guim.co.uk/img/media/dd16c79b87f402b3cce56347d3b845a8b367807b/0_410_3024_2419/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=412d2f8d92b5c7c5b1350ef359ddb34f",
+      "publishedAt": "2026-09-11T08:59:59.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-ktcmlnaHRzLWRyYW1h",
+      "title": "Being Heumann review – Coda director’s disability rights drama is well-intentioned but clunky",
+      "description": "Toronto film festival: the rousing story of Judith Heumann makes for obvious dramatic fodder and at times this biopic finds a rebellious groove but too much feels cut-and-paste On my way to Toronto, I wheeled my suitcase toward the taxi that would take me to the airport, finding the curb cut in the sidewalk so that my luggage could roll seamlessly down to the street. What a nice convenience provided by municipal governments all over the United States, one that so many of us take wholly for granted. But there was a fierce struggle for their existence, once deemed a radical, far too costly alteration to the nation’s infrastructure. (The same was argued about ramps and other means of accessibility.) They now exist ubiquitously across the country largely because of the tireless efforts of disability rights activists like Judith Heumann, one of the most prominent leaders of that cause from the 1970s until her death in 2023. Those who’ve seen Heumann in the Netflix documentary Crip Camp will remember her wit and tartness and zeal. That spark has now been bluntly captured in writer-director Sian Heder’s Being Heumann, a biopic covering the first major political act of Heumann’s long war on government indifference. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/being-heumann-review-coda-director-sian-heder-disability-rights-drama",
+      "image": "https://i.guim.co.uk/img/media/40ab030ae950587f921e7024d1e0ba4e157076b8/1128_546_4570_3656/master/4570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=6704bfbeddee1949d58de37c46cac6f3",
+      "publishedAt": "2026-09-11T04:43:27.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-cmRpY3Qtb24tcHVscA",
       "title": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
@@ -56,7 +92,7 @@
       "title": "People long for simpler times, say Practical Magic reboot stars",
       "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
       "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bcdf/live/d9d20260-ac56-11f1-9e64-05835b0b18f8.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/905e/live/454e9fb0-adc1-11f1-a540-61c3f7fc4e6c.jpg",
       "publishedAt": "2026-09-11T00:51:17.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -220,48 +256,12 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-RzLTEyMzUyMTMyNzIv",
-      "title": "No One Knows Better Than Filmmaker Scott Waugh Why Authenticity Is the Ultimate Special Effect",
-      "description": "The stunt performer-turned-filmmaker comes from the kind of Hollywood lineage that epitomized one essential ethos: put your audience inside your story.",
-      "url": "https://www.indiewire.com/features/commentary/filmmaker-scott-waugh-authenticity-special-effect-stunts-1235213272/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Scott-Waugh-1_Courtesy-of-Angel-Studios.png?w=650",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LWl2ZS1ldmVyLW1ldA",
       "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
       "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
       "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
       "publishedAt": "2026-09-10T14:00:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aWNlLXdvcmxkd2lkZQ",
-      "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
-      "description": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbusters – The Odyssey and Spider-Man: Brand New Day – have officially made box office history. The films were credited as the driving force behind the US’s biggest summer season of all time, taking $4.761bn (£3.51bn) from 1 May-7 September, beating 2013’s $4.756bn. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
-      "image": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99b895b661c2376390903cd89b877a5e",
-      "publishedAt": "2026-09-10T13:57:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-dGljYWwtbWFnaWMtMg",
-      "title": "Two times a charm: Is Sandra Bullock and Nicole Kidman’s agelessness the real trick of Practical Magic 2?",
-      "description": "A film about sisterhood with fifty- and sixtysomething female leads is something to cheer – but would it have been made if its stars had aged like mere mortals since the 1998 original? Would Hollywood have brought Practical Magic back from the dead if the intervening 28 years looked more visible on Sandra Bullock and Nicole Kidman? An awkward question, as it risks subjecting their faces to the invasive scrutiny older female actors already endure. Their return as leads in their late 50s and early 60s should count as progress. Yet it reveals a condition of female stardom: age can increase a female actor’s nostalgic value, provided it does not show too clearly on her face. In Practical Magic 2, Bullock, 62, and Kidman, 59, return as sisters Sally and Gillian Owens. Dianne Wiest, 78, and Stockard Channing, 82, are back too. Joey King and Maisie Williams play Sally’s adult daughters, but Sally and Gillian remain central. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/sandra-bullock-nicole-kidman-agelessness-practical-magic-2",
-      "image": "https://i.guim.co.uk/img/media/b56e9a54acdb490b3313cd5bd806239191fc3cc7/605_0_3467_2774/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6036c01d508d683b048041d37d6deb35",
-      "publishedAt": "2026-09-10T09:00:54.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
