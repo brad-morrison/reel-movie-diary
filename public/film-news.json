@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:01:36.988Z",
+  "generatedAt": "2026-09-11T06:44:35.582Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-cmRpY3Qtb24tcHVscA",
+      "title": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
+      "description": "Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record When the director Garth Jennings first moved to Paris, Jarvis Cocker, who was living there, dropped in on his old friend. “And I nearly got you arrested,” the Pulp frontman recalls. It was bonfire night, and Cocker had taken some welcoming fireworks over to Jennings’ place. “It turned out Garth’s apartment was quite near to the – not an army base, but what’s it called?” “The École Militaire ,” says Jennings. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp",
+      "image": "https://i.guim.co.uk/img/media/0a9627b107d02453093f91a5ff9d02c2e9b43f82/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c21bf5fff1de2484efc34d2a1114dbcb",
+      "publishedAt": "2026-09-11T04:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIxMzY1Ny8",
+      "title": "‘Being Heumann’ Review: Siân Heder’s ‘CODA’ Follow-Up Is an Essential Biopic That’s Not Afraid to Have Some Fun",
+      "description": "TIFF: Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.",
+      "url": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-3-1.jpeg?w=632",
+      "publishedAt": "2026-09-11T03:44:41.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LXZpZGVvLW50d25mYg",
+      "title": "Documentary NAZA gets 25-minute standing ovation at Venice film festival premiere – video",
+      "description": "The documentary NAZA about the civilian death toll in Gaza was received with a 25-minute standing ovation at its Venice film festival premiere. The Guardian-produced film takes its title from an Israeli military term for expected 'collateral casualties' and is built around testimony from intelligence officers and soldiers involved in the war Continue reading...",
+      "url": "https://www.theguardian.com/film/video/2026/sep/11/documentary-naza-gets-25-minute-standing-ovation-at-venice-film-festival-premiere-video-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/177d171dfd24d920f8c1b8520f6b8dea6d90563f/310_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c901a83a3d120bc1c7608045af160999",
+      "publishedAt": "2026-09-11T01:02:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "People long for simpler times, say Practical Magic reboot stars",
+      "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bcdf/live/d9d20260-ac56-11f1-9e64-05835b0b18f8.jpg",
+      "publishedAt": "2026-09-11T00:51:17.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-ci0xMjM1MjE2MTQyLw",
       "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
@@ -184,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-GUtMTIzNTIxNTc4Ni8",
-      "title": "Zach Cregger Weighs in on the Physical Media Debate Ahead of Sony’s ‘Resident Evil’",
-      "description": "The filmmaker told IndieWire that digital downloads suit his chaotic collecting habits just fine — but he also sympathizes with customers concerned they could lose access to media they’ve already paid for.",
-      "url": "https://www.indiewire.com/features/interviews/zach-cregger-physical-media-debate-1235215786/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P101Z1V6-e1788923280919.jpg?w=650",
-      "publishedAt": "2026-09-10T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LWl2ZS1ldmVyLW1ldA",
       "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
       "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
@@ -230,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-NsYXVkZS1jaGFicm9s",
-      "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
-      "description": "Claude Chabrol’s 1969 film charts a complex marriage in which a husband suspects his wife is cheating on him Writer-director Claude Chabrol’s eerie 1969 masterpiece of frozen emotions and unspoken truths is now rereleased, alongside a Chabrol season at London’s BFI Southbank. This is the suspense thriller remade by Adrian Lyne in 2002 as Unfaithful with Richard Gere and Diane Lane and (partly) remade again this year as Minotaur , a bitter and brilliant theme-variation by the Russian director Andrey Zvyagintsev. As for the original, watched again now, it does not in fact look like a classic noir thriller in the style of Chabrol’s hero Hitchcock, which is how it is often described, but more like something by Buñuel: an elaborate absurdist joke at the expense of the French bourgeoisie, a ballet of repression and fear. The unfaithful woman of the title is the glacially beautiful but glassy-eyed Hélène, played by Chabrol’s then wife Stéphane Audran. She is cheating on Charles, played by Michel Bouquet, her prosperous husband and the father of their adored 10-year-old son. Charles has begun to suspect something is going on during his wife’s frequent trips to Paris, where she supposedly has appointments with the beautician, goes shopping or visits the cinema, but in fact has sex with the divorced writer Victor Pegala (Maurice Ronet) at his dishevelled bachelor flat. Charles phones the beauty parlour where she is supposed to be getting a treatment; she isn’t there. We see how this only confirms suspicions which have clearly accumulated in his mind like silt over months or even years. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/la-femme-infidele-review-claude-chabrol",
-      "image": "https://i.guim.co.uk/img/media/0fbdbb7289dafe835f7715bac9f4c13f53fec057/362_0_2952_2362/master/2952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=20353f6047bc077f5e8c30c704bfbf75",
-      "publishedAt": "2026-09-10T08:00:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-FpbmUtY3JpdGljaXNt",
@@ -358,18 +382,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
       "image": "https://i.guim.co.uk/img/media/eb81f8d4a1478f5ffd85c38600de8d3153415339/394_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd1dc3371e3a7aeea712053cf7eee117",
       "publishedAt": "2026-09-08T16:05:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WVudGFyeS12ZW5pY2U",
-      "title": "Elon Musk told ex-girlfriend he needed ‘a legion of children before the civil war’",
-      "description": "Ashley St Clair was speaking at the Venice film premiere of Alex Gibney’s documentary Musk, where she warned of his dangerous influence Musk review – epic study of the world’s richest and most banal man Elon Musk is sowing “deliberate division” via his social media platform X that will be catastrophic unless regulated, the mother of one of the 14 confirmed children fathered by the world’s richest man has warned. In Musk, a new documentary by veteran film-maker Alex Gibney, former Maga influencer Ashley St Clair says Musk told her in a text message he wanted to have a child with her because he needed to have “a legion of children before the civil war”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/elon-musk-ashley-st-clair-documentary-venice",
-      "image": "https://i.guim.co.uk/img/media/4b10e778f19932f664888b0abb5b35a911e8b1ad/295_0_4425_3540/master/4425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b02e50d3dfb920f8ba8dae308d244bd9",
-      "publishedAt": "2026-09-08T15:05:13.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -496,6 +508,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-ZS1yb29uZXktbWFyYQ",
+      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
+      "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
+      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333b08359550864299def07f653a62d5",
+      "publishedAt": "2026-09-05T12:15:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
       "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
       "description": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ripped apart in order to create space for James Gunn and Peter Safran’s brand-new DCU. We almost certainly did need a clean break from the likes of Ben Affleck (Batman) and Henry Cavill (Superman), if only to persuade audiences that this really was a proper reboot. The question, as Gal Gadot may have been pondering this week, is quite why some of the old universe’s supporting players were smuggled safely into the new continuity while others were left sprawling amid the ruins. Speaking on the Happy Sad Confused podcast , Gadot, who starred in two solo Wonder Woman movies for director Patty Jenkins, revealed that nobody at DC Studios ever formally told her she had been dropped. One minute, Gadot says, she was being assured by Gunn and Safran that they would develop a third instalment with her; the next, she was looking on in mounting alarm as the entire infrastructure of the previous DC continuum was blown to smithereens. “They were like, ‘We’re going to develop it with you, the third one,’” she said. “But I saw the way everybody else was handled, right? And I, you know – the Henry [Cavill] situation was unfortunate. I was in the middle of that. The Henry situation was not handled elegantly, to say the least. Same with Patty – it was not handled elegantly.” Continue reading...",
@@ -518,18 +542,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-b3VyLWludGVydmlldw",
-      "title": "‘Why not try to be the best in the world, just for the fun of it?’ Art Garfunkel on a rich, restless life – and reconciling with Paul Simon",
-      "description": "He taught maths and walked across Europe, trying to leave his demons behind. As he goes back on tour aged 84, the folk-pop legend explains how he came back to singing As Art Garfunkel is keen to point out, “I am a singer – there, use that as the title of your article” – but he was never just a singer. “I’ve been an actor. I am a writer,” he continues. “I’ve walked across countries, taken freighters across oceans. I’ve read the dictionary. I’ve read two books a month for 60 years: Darwin, Herodotus, Balzac, Proust, Tolstoy. I’ve taught maths. I have two great kids and I’m a great father, but it always does seem to come back to the singing.” Which is understandable, given that in Simon and Garfunkel (with songwriter Paul Simon) he sold more albums than any other pop duo in history. Garfunkel’s oft-called “angelic” tones powered classic chart-toppers including The Sound of Silence and Bridge Over Troubled Water, and he became a successful solo artist. However, until a year ago, he was hardly singing at all and hadn’t toured since 2019. “I found myself lying on a pillow in a dream state, thinking about the meaning of being alive,” he reveals. “What is my day? What am I supposed to do with myself?” Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/sep/04/art-garfunkel-what-a-wonderful-world-tour-interview",
-      "image": "https://i.guim.co.uk/img/media/2d8d1583e7df0b44fd5e6e072443961d3c56f6d7/812_668_3504_2802/master/3504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=839239539e4e3c0bf8d7cddadda61ad2",
-      "publishedAt": "2026-09-04T04:00:56.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-i1waWN0dXJlLXNob3c",
