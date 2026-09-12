@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:40:56.285Z",
+  "generatedAt": "2026-09-12T12:36:08.280Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-mV0aC1kYXktbm92ZWw",
+      "title": "Luke Evans: ‘As I child I was in love with Harrison Ford as Indiana Jones’",
+      "description": "The Hobbit and Fast & Furious actor on the joy of strawberry laces, hating that he’s so hard on himself, and his sneaky way of leaving a meeting Born in south Wales, Luke Evans, 47, left school at 16 and trained at London Studio Centre before appearing in various West End shows. His films include Clash of the Titans, the Fast & Furious franchise, The Hobbit trilogy and Beauty and the Beast. He has released two albums and a memoir , was Tony-nominated for his role in The Rocky Horror Show on Broadway, and stars in The Party, an ITV adaptation of Elizabeth Day’s novel. He lives in Lisbon with his partner. When were you happiest? I’m always happy. Continue reading...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/luke-evans-actor-interview-the-party-itv-elizabeth-day-novel",
+      "image": "https://i.guim.co.uk/img/media/cc102fe43bd0c1ef6ed906c3f0ebd603bc1b523b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef5d4aac97609fe7668f801119ef6065",
+      "publishedAt": "2026-09-12T09:00:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-5pY2UtaW1tZXJzaXZl",
+      "title": "Extended reality takes visitors from the ruins of West Bank to 17th-century Amsterdam at Venice Immersive",
+      "description": "From frivolous to serious, virtual nosy passersby to the impact of climate change, the groundbreaking festival draws to a close – but this year the exhibits live on The first installation one encounters on visiting Venice Immersive, the film festival’s reliably head-spinning showcase for new media, is a chest-high metal box fitted with an eyepiece and two speakers. On peering inside you see a view of yourself from about 20ft above. You see the other guests walking past, a couple of pigeons on the ground. When one of these passersby lingers at your side for just a moment too long, the obvious impulse is to glance up from the eyepiece in order to see what they want. It is at this point that the experience blooms into a Lynchian nightmare. The passerby is not real – or rather, he’s only real in the box. He wears a blue suit and speaks with a heavy French accent and tells a tale that would sit badly in polite company. He says that I must have too much time on my hands, to stand hunched over this eyepiece for several minutes on end. “Why do people keep looking inside this box?” he demands. “What is it that they hope to see? It is not reality.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/extended-reality-takes-visitors-from-the-ruins-of-west-bank-to-17th-century-amsterdam-at-venice-immersive",
+      "image": "https://i.guim.co.uk/img/media/af980df5ff44d6b942f74ea758b190b8c5f8bdc4/242_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a884d0d844927ea33c0ddaedc4cceea",
+      "publishedAt": "2026-09-12T07:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-XItMTIzNTIxNjE2NC8",
       "title": "‘The Face of Horror’ Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
@@ -26,6 +50,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "How a BBC strike exterminated Doctor Who adventure",
+      "description": "Marcus Hearn recalls the stories his father told him about the filming of episodes in Cambridge.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6d0c/live/3e4afb80-ac3d-11f1-aa42-a9647fd0ba61.jpg",
+      "publishedAt": "2026-09-12T05:15:01.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-V3LTEyMzUyMTYxNzgv",
@@ -230,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-cmRpY3Qtb24tcHVscA",
-      "title": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
-      "description": "Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record When the director Garth Jennings first moved to Paris, Jarvis Cocker, who was living there, dropped in on his old friend. “And I nearly got you arrested,” the Pulp frontman recalls. It was bonfire night, and Cocker had taken some welcoming fireworks over to Jennings’ place. “It turned out Garth’s apartment was quite near to the – not an army base, but what’s it called?” “The École Militaire ,” says Jennings. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp",
-      "image": "https://i.guim.co.uk/img/media/0a9627b107d02453093f91a5ff9d02c2e9b43f82/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c21bf5fff1de2484efc34d2a1114dbcb",
-      "publishedAt": "2026-09-11T04:00:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-LXZpZGVvLW50d25mYg",
@@ -482,18 +506,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-ZS1yb29uZXktbWFyYQ",
-      "title": "‘I don’t like the term neurodivergence – it sounds like political correctness’: Werner Herzog on fans, fanaticism and baby foxes",
-      "description": "The Bavarian auteur talks directing Kate and Rooney Mara in Bucking Fastard and his popularity on Instagram In outsider visionaries such as Aguirre, Fitzcarraldo or Timothy Treadwell, renegade German director Werner Herzog has created some of cinema’s most memorable monomaniacs – characters singularly obsessed with finding mythical cities made of gold, with building opera houses in the middle of the rainforest, or with befriending wild grizzly bears. But suggestions that they could be role models for the modern-day neurodiversity movement send this famously fearless film-maker running for the hills. “I don’t like the term neurodivergence and ADHD, or whatever – it sounds like political correctness, which scares me under the table,” Herzog said at the Venice film festival. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/05/werner-herzog-bucking-fastard-kate-rooney-mara",
-      "image": "https://i.guim.co.uk/img/media/7484afeb58539a9eb48f787f74282aa8895fa8a9/397_0_3931_3143/master/3931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=333b08359550864299def07f653a62d5",
-      "publishedAt": "2026-09-05T12:15:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
