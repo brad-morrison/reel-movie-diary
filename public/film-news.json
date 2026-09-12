@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:00:49.947Z",
+  "generatedAt": "2026-09-12T06:40:56.285Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XItMTIzNTIxNjE2NC8",
+      "title": "‘The Face of Horror’ Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
+      "description": "TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a sophomore feature as visually striking and blunt in its messaging as \"The Love Witch.\"",
+      "url": "https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_Face_of_Horror_Still_HERO.jpg?w=650",
+      "publishedAt": "2026-09-12T06:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTYxNzgv",
+      "title": "‘The Stunt Driver’ Review: Jay Baruchel Plays a Canadian Daredevil Trying to Pull Off an Impossible Stunt in a Fun 1970s Throwback",
+      "description": "TIFF: Michael Dowse’s tribute to Ken Carter mines comedy and tragedy from the stuntman’s unwavering dedication to jumping the Saint Lawrence River in a rocket car.",
+      "url": "https://www.indiewire.com/criticism/movies/the-stunt-driver-movie-review-1235216178/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Stunt-Driver_01.webp?w=650",
+      "publishedAt": "2026-09-12T02:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-XktMTIzNTIxNDg4MC8",
       "title": "‘Trash Mountain’ Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
@@ -194,30 +218,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMTYyMTUv",
-      "title": "How Mark Zuckerberg’s Doomsday Escape Plan and ‘Eyes Wide Shut’ Inspired Florian Zeller to Create ‘Bunker’ for Penélope Cruz and Javier Bardem",
-      "description": "As \"Bunker\" prepares to premiere at TIFF, Florian Zeller admits one of his married cast members didn't like the comparison to Cruise and Kidman.",
-      "url": "https://www.indiewire.com/features/interviews/how-mark-zuckerberg-eyes-wide-shut-inspired-bunker-1235216215/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1081KS5.jpg?w=650",
-      "publishedAt": "2026-09-11T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE2MDY3Lw",
-      "title": "How Two Oscars Breakouts Are Charting New Paths for Indian Cinema at TIFF with ‘Dorothy’ and ‘Termite’",
-      "description": "TIFF: “Dorothy” director Karthik Subbaraj and producer Guneet Monga Kapoor hint at why this large-canvas Tamil gangster film is so special, while Shaunak Sen discusses “Termite,” his first foray into directing fiction, and a feature documentary he is co-producing with Joaquin Phoenix and Rooney Mara.",
-      "url": "https://www.indiewire.com/features/interviews/tiff-indian-movies-dorothy-termite-interviews-1235216067/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images-1.jpeg?w=632",
-      "publishedAt": "2026-09-11T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-nMtaG9tZS10cnV0aHM",
