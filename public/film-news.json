@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:34:23.114Z",
+  "generatedAt": "2026-09-12T01:00:49.947Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,78 @@
   },
   "articles": [
     {
+      "id": "indiewire-XktMTIzNTIxNDg4MC8",
+      "title": "‘Trash Mountain’ Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
+      "description": "TIFF: Kris Rey directs a tender gem from Hearon's own script (written alongside Ruby Caster) about the pleasures and perils of returning home under duress.",
+      "url": "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TRASH-MOUNTAIN-Still.jpeg?w=650",
+      "publishedAt": "2026-09-11T23:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold So Far: ‘Rapinoe’ About US Women’s Soccer Icon Lands at HBO Documentary Films",
+      "description": "Rebecca Huntt directed the documentary about Megan Rapinoe that premiered at TIFF on Thursday.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Rapinoe_Still_Hero.jpeg?w=650",
+      "publishedAt": "2026-09-11T22:01:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-S1qYW1lcy1tY2F2b3k",
+      "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
+      "description": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama Erin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doherty and McAvoy perform with ferocious commitment. There’s something of Atom Egoyan or even M Night Shyamalan here … and I even found myself wondering if Williams intended us to think of Shakespeare’s Hamlet and Laertes’ lines about his father, Polonius: “… to his good friends thus wide I’ll ope my arms / And like the kind life-rend’ring pelican, / Repast them with my blood.” We are in a downbeat British town, perhaps somewhere in the London estuary, a place to which a candy factory provides employment. Mina (played by Doherty) is a smart, capable single mum to 9-year-old Jamie (Smylie Bradwell); she works on the production line in cap and hairnet like all the others: much liked by everyone there. She is not fussed by the absence of Jamie’s dad and is perfectly content with hanging out with her friends and her sister (Liv Hill). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
+      "image": "https://i.guim.co.uk/img/media/1b5808a995b901e5b3d38dbc1bd8e375b3ae4001/107_47_1007_806/master/1007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=8d70108164e512a22fa730628cc1411c",
+      "publishedAt": "2026-09-11T20:30:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjE2MzQ0Lw",
+      "title": "Is Josh Giuliano the Next Curry Barker or Kane Parsons? Blumhouse Atomic Monster Seems to Think So",
+      "description": "After Giuliano's feature directing debut \"River\" premiered at TIFF, the horror company made a deal to produce his next film, \"Occupant.\"",
+      "url": "https://www.indiewire.com/news/breaking-news/josh-giuliano-next-curry-barker-kane-parsons-blumhouse-obsession-1235216344/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-3.59.22-PM.png?w=650",
+      "publishedAt": "2026-09-11T20:18:20.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMTYzMTcv",
+      "title": "From Nathan Fielder’s Buzzy Elizabeth Holmes Doc to Robert Pattinson’s Divisive ‘Primetime’: Venice and Telluride’s Winners and Losers",
+      "description": "\"Screen Talk\" co-hosts Anne Thompson and Ryan Lattanzio convene after seeing a ton of movies in Colorado and Italy. What played well, and what didn't?",
+      "url": "https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-1.png?w=650",
+      "publishedAt": "2026-09-11T19:37:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIxNjMwNC8",
+      "title": "‘The Housewife’ Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight",
+      "description": "TIFF: In the feature debut from Ben Shirinian and first-time screenwriter Alyssa Hill, an inherently chilling story about evil hiding within ordinary American life is done in by an uneven cast and script that connects too many dots.",
+      "url": "https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images.jpg?w=650",
+      "publishedAt": "2026-09-11T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-ei0xMjM1MjE2MTMyLw",
       "title": "‘Makikiraan Po (Let Us Through, Dear Ancestors)’ Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama",
       "description": "Venice: The Filipino filmmaker’s swift return to his signature black-and-white converses thematically with last year’s bracing epic \"Magellan.\"",
@@ -28,6 +100,18 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "River review – so-so survival slasher offers more of the same and little else",
+      "description": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror It would be unwise and unfair to expect that Toronto’s genre-led Midnight Madness strand would open with quite the same jolt as it did last year with the record-breaking horror hit Obsession . That film was an outlier in almost every respect , both as it premiered and as it was unleashed on wider crowds, the highest-grossing festival acquisition of all time topping out at over $513m worldwide and sparking genuine Oscar buzz. But it hasn’t curbed the thirst, or wider speculation, over whether anything might come even remotely close to what Curry Barker achieved and whether the festival might start to rival Sundance as the smartest place for new and exciting horror film-makers to premiere their debut projects. The jury is out with the festival having just begun, but the Midnight strand is off to a far less notable start this time around with the mostly unremarkable survival slasher River, a film directed with flashes of artfulness but written with an overwhelm of familiarity. Writer-director debuts have increasingly tended to follow that pattern (it’s OK not to do everything!) and I think Joshua Giuliano has at least shown enough visual potential here to ably steer someone else’s script to screen next time. River is premiering at the Toronto film festival and will be out in cinemas and available on Shudder in 2027 Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
+      "image": "https://i.guim.co.uk/img/media/0e6919ca3b872dc01748d62a8c7b5c346fc87ca0/926_0_4628_3703/master/4628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=88cbe8b9e3d3703b945292b58fdc7eb5",
+      "publishedAt": "2026-09-11T18:08:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-bS0xMjM1MjE2MDk3Lw",
       "title": "‘American Hostage’ Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate",
       "description": "Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics — or getting anyone killed.",
@@ -37,6 +121,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XNld2lmZS1yZXZpZXc",
+      "title": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
+      "description": "Toronto film festival: the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfire The first scene of the 60s-set drama The Housewife is a closeup of a whistling kettle, an early “wink, wink” sign that we’re watching a story where tensions are set to boil but also that we’re watching a film of minimal subtlety. Perhaps if it had been pitched closer to its adjacently named cousin The Housemaid , as a silly, sensationalist thriller, such heavy-handed decision-making would feel more well-suited. But instead, while some scenes flirt with the idea of something juicier, this is a stuffy and stodgy slab of self-serious, old-school Oscar bait complete with all the shouting, crying, throwing and finger-pointing one would expect. Think overcooked rather than slow simmer. The Housewife is premiering at the Toronto film festival and is seeking distribution Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review",
+      "image": "https://i.guim.co.uk/img/media/db51913ee9a246c3eff0a84bbcea1e6d4ce39d4e/551_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=797ba299a30c984e09445e0b4e2fabde",
+      "publishedAt": "2026-09-11T15:39:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -124,66 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-Yy0xMjM1MjE2MTA0Lw",
-      "title": "‘Burgundy’ Review: A Warm, Witty Winemaking Vibe Documentary You’ll Want to Pair with a Glass of Red",
-      "description": "Venice: But you don't need to be wine-drunk to savor the \"The Truffle Hunters\" directors Michael Dweck and Gregory Kershaw's airy immersion into ancient French tradition.",
-      "url": "https://www.indiewire.com/criticism/movies/burgundy-review-michael-dweck-gregory-kershaw-wine-doc-1235216104/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Bertrand-in-BURGUNDY-Beautiful-Stories.png?w=650",
-      "publishedAt": "2026-09-11T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIxNTg3NC8",
-      "title": "One of the Year’s Best Film Books Celebrates the Unsung Artists That Turned ‘The Women’ Into a Classic",
-      "description": "The author of \"Jungle Red: The Making of MGM's 'The Women'\" tells IndieWire why she wanted to explore the making of the 1939 classic and how women both famous (Joan Crawford, Norma Shearer) and forgotten (screenwriter Jane Murfin) contributed to its greatness.",
-      "url": "https://www.indiewire.com/features/interviews/illeana-douglas-on-the-women-1235215874/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MBDWOME_EC059.jpg?w=650",
-      "publishedAt": "2026-09-11T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-lnLTEyMzUyMTYyMDEv",
-      "title": "Def Leppard Documentary Coming to Theaters Courtesy of Bleecker Street and Crosswalk",
-      "description": "Metal fans rejoice! A new doc will look at the highs and lows of the legendary band.",
-      "url": "https://www.indiewire.com/news/business/def-leppard-doc-theaters-2027-jeff-feuerzeig-1235216201/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Def-Leppard-2-Photo-Credit-Ross-Halfin-1.jpg?w=650",
-      "publishedAt": "2026-09-11T12:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5nLTEyMzUyMTYyMTAv",
-      "title": "Korean Star Jeon Do-yeon’s Outstanding ‘Possible Love’ Performance Could Earn Venice’s Best Actress Prize — or Lee Chang-dong the Golden Lion",
-      "description": "Venice: IndieWire talks to Jeon at the festival about reuniting with director Lee after his 2007 \"Secret Sunshine\" earned her a history-making Best Actress prize at Cannes.",
-      "url": "https://www.indiewire.com/features/interviews/possible-love-star-jeon-do-yeon-interview-lee-chang-dong-1235216210/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2293779714.jpg?w=650",
-      "publishedAt": "2026-09-11T12:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE2MTUzLw",
-      "title": "‘Moonfish’ Review: This Existential Outer Space Abandonment Saga Is a Bizarro ‘Project Hail Mary’",
-      "description": "Venice: Daniel Zvereff writes and directs this sparse, gray film about what it means to grieve our own humanity in real time.",
-      "url": "https://www.indiewire.com/criticism/movies/moonfish-movie-review-1235216153/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-10-at-3.19.04-PM.png?w=650",
-      "publishedAt": "2026-09-11T12:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-nMtaG9tZS10cnV0aHM",
       "title": "‘Danny Boyle, please make another film about drugs’: Venice film festival’s feedback wall takes no prisoners",
       "description": "The written forum allows members of the public to vent their fury at the movies they’ve seen – and the festival organisers In an industry that is reliant on the fickle vagaries of taste, film festivals exist to establish facts. The reason why film-makers still go through the rigmarole of ferrying their cast to the red carpets of Venice, Cannes or Sundance is the need for empirical evidence of unambiguous quality: a solid-gold prize, a top score on the critics’ grid, a record-timed standing ovation that will convince every doubter that this is a great film . Film festivals, in turn, need beautiful A-listers to attract coverage and sponsorship, and hence there is a constant risk that these annual events become gigantic hype machines, in which every turkey is a classic and every half-hearted performance a masterclass. Continue reading...",
@@ -194,18 +230,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-ktcmlnaHRzLWRyYW1h",
-      "title": "Being Heumann review – Coda director’s disability rights drama is well-intentioned but clunky",
-      "description": "Toronto film festival: the rousing story of Judith Heumann makes for obvious dramatic fodder and at times this biopic finds a rebellious groove but too much feels cut-and-paste On my way to Toronto, I wheeled my suitcase toward the taxi that would take me to the airport, finding the curb cut in the sidewalk so that my luggage could roll seamlessly down to the street. What a nice convenience provided by municipal governments all over the United States, one that so many of us take wholly for granted. But there was a fierce struggle for their existence, once deemed a radical, far too costly alteration to the nation’s infrastructure. (The same was argued about ramps and other means of accessibility.) They now exist ubiquitously across the country largely because of the tireless efforts of disability rights activists like Judith Heumann, one of the most prominent leaders of that cause from the 1970s until her death in 2023. Those who’ve seen Heumann in the Netflix documentary Crip Camp will remember her wit and tartness and zeal. That spark has now been bluntly captured in writer-director Sian Heder’s Being Heumann, a biopic covering the first major political act of Heumann’s long war on government indifference. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/being-heumann-review-coda-director-sian-heder-disability-rights-drama",
-      "image": "https://i.guim.co.uk/img/media/40ab030ae950587f921e7024d1e0ba4e157076b8/1128_546_4570_3656/master/4570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=6704bfbeddee1949d58de37c46cac6f3",
-      "publishedAt": "2026-09-11T04:43:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-cmRpY3Qtb24tcHVscA",
@@ -244,24 +268,24 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-N0YXJub25lLXRyaWNr",
-      "title": "Scherzetto review – Toni Servillo brings gravitas to a dithering Neapolitan ghost story",
-      "description": "Venice film festival The Venice fixture plays an illustrator haunted by his boyhood in Mario Martone’s part spooky, part sentimental oddity It’s always good to see the veteran Italian star Toni Servillo at Venice; in fact, the festival is pretty much unthinkable without him. But this initially promising prospect – adapted from a novel by Domenico Starnone – is a minor, quibbling tonal oddity, unsure if it wants to be scary or sentimental. Servillo lends it as much gravitas as he can: his mere presence is valuable ballast and the streetscape scenes of Naples are handled with a connoisseur’s touch by director Mario Martone, whose previous Naples-set movie Nostalgia was far superior. Daniele (played by Servillo) is a septuagenarian book illustrator whose old-fashioned, hand-drawn artistry is something he testily treasures. He has come back to his family home in Naples, to the gloomy apartment where he was brought up, just behind the train station, and where his grownup daughter Betta (Serena Rossi) now lives with her husband and their five-year-old son Mario (newcomer Lorenzo Perrotta), who is adorable and as bright as a button, but also borderline insufferable. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/scherzetto-review-toni-servillo-mario-martone-domenico-starnone-trick",
-      "image": "https://i.guim.co.uk/img/media/22e603c51e490287f916dbf84a81eeb426b16338/241_0_5016_4015/master/5016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=41a95ebd76ae656483b11b22d9503171",
-      "publishedAt": "2026-09-10T19:45:44.000Z",
+      "id": "guardian-LWl2ZS1ldmVyLW1ldA",
+      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
+      "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
+      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
+      "publishedAt": "2026-09-10T14:00:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Movies"
     },
     {
-      "id": "guardian-XRsaWYtb2JpdHVhcnk",
-      "title": "Tony Gatlif obituary",
-      "description": "Algerian-born French director of more than 20 films that celebrated Roma culture The French film director Tony Gatlif, who has died aged 77, was regularly described as “cinema’s Gypsy auteur”, so often did his films focus on Roma communities and their music. Between 1975 and 2025, Gatlif directed more than 20 films, beginning with La Tête en Ruine (The Ruined Head). That film was never released, and he struggled throughout the 1970s and 80s to get funding for his films, and then to find a distributor, before finally breaking through with Latcho Drom (1993, the title being Romany for “good journey”). An international arthouse hit, Latcho Drom is a meditative travelogue that blends footage of staged musical performances in contemporary Roma communities in Istanbul, Romania, Hungary, Slovakia, France and Spain, with historic recreations of such communities in Rajasthan and an Egyptian oasis. Latcho Drom conveys the centuries-long migration from Asia to western Europe of a nomadic people we now call Gypsies or Roma, as a fable told entirely in images and music. There is no voiceover, talking heads or text; instead Gatlif lets the striking settings and musical performances enchant viewers. It is an idealised portrait of the Roma, not a documentary (as some labelled it), and while Gatlif portrays the discrimination and persecution Roma communities experience, his emphasis was on celebrating Roma beauty and artistry. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/tony-gatlif-obituary",
-      "image": "https://i.guim.co.uk/img/media/0b99931e5826045d8bbcc2fc14aec6eee52e770e/531_0_2760_2209/master/2760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfb155f9573dcde8938cd10dbfacfba3",
-      "publishedAt": "2026-09-10T15:28:26.000Z",
+      "id": "guardian-aWNlLXdvcmxkd2lkZQ",
+      "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
+      "description": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and Africa As well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbusters – The Odyssey and Spider-Man: Brand New Day – have officially made box office history. The films were credited as the driving force behind the US’s biggest summer season of all time, taking $4.761bn (£3.51bn) from 1 May-7 September, beating 2013’s $4.756bn. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
+      "image": "https://i.guim.co.uk/img/media/f3206997a753b107b0fbecf0231589cdaef64144/115_0_4334_3466/master/4334.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99b895b661c2376390903cd89b877a5e",
+      "publishedAt": "2026-09-10T13:57:06.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -326,18 +350,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-C1tb3ZpZS1vcGVuYWk",
-      "title": "Andrew Garfield takes on Sam Altman in creepy first teaser for Artificial",
-      "description": "Luca Guadagnino-directed film will be released by Neon after being dropped by Amazon amid OpenAI partnership Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning? The first teaser trailer of Luca Guadagnino ’s Artificial has been released. After being dropped by Amazon MGM Studios in June, the biopic of the OpenAI tech executive Sam Altman will be released in the US on 25 December by Neon after it premieres at the New York film festival this October. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/andrew-garfield-sam-altman-artificial-movie-openai",
-      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/635_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a5897299d613b933f9e27b47aa65fe9",
-      "publishedAt": "2026-09-08T16:31:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
@@ -490,18 +502,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
       "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bd3429b51214bb7674b201763edfbfdf",
       "publishedAt": "2026-09-04T10:19:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-RlbWVudGlhLWRyYW1h",
-      "title": "‘If you can’t understand what sex is, it’s irrelevant if you seem to be enjoying it’: how Queen at Sea upended the dementia drama",
-      "description": "Lance Hammer’s first film in 18 years is a heart-wrenching masterpiece about family, mental decline and sexual consent. He and supporting actor Juliette Binoche discuss how they brought unabashed realism to a condition rarely seen on screen The first time we see Martin and Leslie, the elderly couple at the centre of Lance Hammer’s wrenching new film, Queen at Sea, they are walking together up a set of stone steps: one of their regular outings, we assume, in days filled with pottering and quiet companionship. They have their backs to us, and we can’t see their destination beyond a bleached sky that fills the top half of the screen. Symbolically, it may be deemed a bit on the nose: two people near the end of their lives, moving gently towards the white light of oblivion. There’s a whiff of sentimentality about it. But any doubts about this story’s willingness to confront difficult truths are blasted away by the next scene. Leslie’s daughter, Amanda, played by Juliette Binoche, pays a visit to the couple’s house in drizzly, middle-class north London, her teenage daughter in tow. Unable to find her mother and stepfather, she arrives at the bedroom door. Opening it, she finds Martin (Tom Courtenay) on top of Leslie (Anna Calder-Marshall), who lies impassively beneath him, the mask of dementia obvious on her face. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/04/if-you-cant-understand-what-sex-is-its-irrelevant-if-you-seem-to-be-enjoying-it-how-queen-at-sea-upended-the-dementia-drama",
-      "image": "https://i.guim.co.uk/img/media/0ae9b3ec0d5c5dc0d5129a1b8b2c8d9147261f63/521_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced5526df0b2acbfc026b814f5a72ded",
-      "publishedAt": "2026-09-04T07:00:00.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
