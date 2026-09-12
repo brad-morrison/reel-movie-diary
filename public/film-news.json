@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T12:36:08.280Z",
+  "generatedAt": "2026-09-12T18:31:24.075Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -16,8 +16,200 @@
   },
   "articles": [
     {
+      "id": "indiewire-XItMTIzNTIxNjQ5Mi8",
+      "title": "Courteney Cox Had a Vision for Her ‘Evil Genius,’ and ‘Friends’ — Surprisingly — Played an Important Role",
+      "description": "TIFF: Cox's first directorial outing didn't pan out how she wanted it to (\"They probably burned it\"), but as she tells IndieWire, her spin on the shocking real life \"pizza bomber\" story is her brand-new calling card.",
+      "url": "https://www.indiewire.com/features/interviews/courteney-cox-evil-genius-friends-pizza-bomber-1235216492/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2263634851.jpg?w=650",
+      "publishedAt": "2026-09-12T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xvLTEyMzUyMTY0MzQv",
+      "title": "Tim Blake Nelson on His 12-Year Battle to Make ‘The Life and Deaths of Wilson Shedd’ and Joining ‘Task’ Season 2",
+      "description": "TIFF: The filmmaker talks about casting Amanda Seyfried and Scoot McNairy: \"I like to write roles I could never play,\" he tells IndieWire.",
+      "url": "https://www.indiewire.com/features/interviews/tim-blake-nelson-wilson-shedd-task-season-2-mark-ruffalo-1235216434/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TLDWS_0508_CBB_0015.jpg?w=650",
+      "publishedAt": "2026-09-12T17:51:47.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WktMTIzNTIxNjUxMi8",
+      "title": "Venice Jury President Maggie Gyllenhaal on Her Short ‘Flesh Impact,’ Casting Ellen Burstyn, and AI",
+      "description": "Venice: 2026 competition jury president Maggie Gyllenhaal speaks to IndieWire about also attending the festival as the director of \"Flesh Impact,\" starring Golden Lion recipient Ellen Burstyn, and why her AI experiment failed.",
+      "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
+      "publishedAt": "2026-09-12T17:23:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNjQ4NS8",
+      "title": "Venice Film Festival Reveals 2026 Award Winners",
+      "description": "Who will win the Golden Lion from Maggie Gyllenhaal's competition jury? Venice will name all the winners today at the Sala Grande ceremony.",
+      "url": "https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
+      "publishedAt": "2026-09-12T17:04:41.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE2NTA5Lw",
+      "title": "‘Everybody Wants to F*ck Me’ Review: Taron Egerton Does ‘Obsession’ to Every Woman on Earth in Cynical Horror Comedy That Trips Over Its Dick",
+      "description": "TIFF: A London soft boi gets cursed with his ultimate fantasy in a scattered movie that shares his fear of commitment.",
+      "url": "https://www.indiewire.com/criticism/movies/everybody-wants-to-fuck-me-movie-review-1235216509/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/image-w1280.webp?w=650",
+      "publishedAt": "2026-09-12T16:38:54.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
+      "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg",
+      "publishedAt": "2026-09-12T16:32:27.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNjI3NC8",
+      "title": "After the Heartbreak of ‘Blade,’ ‘Your Mother Your Mother Your Mother’ Director Bassam Tariq Still Thanks Marvel for Helping Him ‘Think Big’",
+      "description": "TIFF: The filmmaker tells IndieWire how (and why) he re-teamed with star Mahershala Ali after they both exited \"Blade,\" and how that experience influenced his latest feature, already picking up lots of buzz on the festival circuit.",
+      "url": "https://www.indiewire.com/features/interviews/your-mother-your-mother-your-mother-bassam-tariq-interview-1235216274/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/YMX3_00324_R_rgb.jpg?w=650",
+      "publishedAt": "2026-09-12T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-G9uLWNvb2wtdW5jbGU",
+      "title": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
+      "description": "The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his meritocratic, democratic instincts. A brilliant and inexhaustibly creative man, self-effacingly charming and quietly spoken in a world of loudmouths and show-offs, and hypervigilant for new talent, was more like a cross between an entrepreneur, an enigmatically clever and kindly Cambridge don and the movie world’s favourite cool uncle, or maybe cool great-uncle. Respectively son and nephew of directors Ralph Thomas and Gerald Thomas (of Doctor in the House and Carry On fame), he was born into the industry and as an independent producer combined the confidence of an old-fashioned studio boss with the soul of a cineaste, backing his own instincts and passions, befriending film-makers and doggedly pursuing projects over years. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-film-producer-kindly-cambridge-don-cool-uncle",
+      "image": "https://i.guim.co.uk/img/media/b2637884dabdcfd9f884733e29083a53156ee297/555_0_2919_2336/master/2919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=88ddc7451d81435311ebddd7b86ed677",
+      "publishedAt": "2026-09-12T15:42:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNjI0OC8",
+      "title": "On ‘Lanterns,’ the Costumes Have a Bird’s-Eye View of the Characters",
+      "description": "Costume designer Cynthia Ann Summers tells IndieWire about taking inspiration from Tippi Hedren and Anthony Bourdain for HBO's latest superpowered mystery series.",
+      "url": "https://www.indiewire.com/features/craft/lanterns-costumes-interview-1235216248/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/aaron-pierre-laura-linney.jpg?w=650",
+      "publishedAt": "2026-09-12T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-dGFyb24tZWdlcnRvbg",
+      "title": "Everybody Wants to F*ck Me review – Taron Egerton is hounded in sharp-toothed dating nightmare",
+      "description": "Toronto film festival: It’s Get Out meets the viral Shitty Media Men list in this hugely entertaining mix of dark comedy and stalker thriller with a brilliant alternating turn from Taron Egerton Everyone knows an Adam. He’s not like those other guys, the ones who won’t take no for an answer and speak lasciviously about women to their mates. He’s doing the work, listening to and uplifting female voices, working at an all-female gallery while being constantly aware of his cis white male privilege. He has a Mubi tote bag, reads Edna O’Brien’s Country Girl in Hackney cafes, has a poster of Cléo from 5 to 7 in his apartment and has even named his dog after his favourite Haim sister. He is … a nice guy. In first-time writer-director Jonathan Schey’s canny debut Everybody Wants to Fuck Me, Adam is also a fraud. Everybody Wants to Fuck Me is premiering at the Toronto film festival and will be released at a later date Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/everybody-wants-to-fck-me-review-taron-egerton",
+      "image": "https://i.guim.co.uk/img/media/057779f23aa49f6c37b6cacd1674e6fdafbe67c2/425_0_4167_3334/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3e328df8ab3b0ad290067286a94fb023",
+      "publishedAt": "2026-09-12T15:27:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-FkLTEyMzUyMTY0NzEv",
+      "title": "Jeremy Thomas, Oscar-Winning Producer for Bertolucci, Cronenberg, and Herzog’s ‘Bucking Fastard,’ Dead at 77",
+      "description": "Jeremy Thomas won the Best Picture Oscar in 1988 for Bernardo Bertolucci's \"The Last Emperor.\" He's a key talking head in Luca Guadagnino's new documentary about the Italian filmmaker,\" \"Joie de Vivre,\" which just premiered in Venice.",
+      "url": "https://www.indiewire.com/news/breaking-news/jeremy-thomas-producer-dead-1235216471/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P115OA75.jpg?w=650",
+      "publishedAt": "2026-09-12T14:40:50.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RpLTEyMzUyMTYzMzIv",
+      "title": "‘The Julia Set’ Review: Chase Infiniti Is a Genius in a Movie Lacking Serious Brain Power",
+      "description": "TIFF: The \"One Battle After Another\" breakout heads to college in Niki Byrne's confounding mash-up of \"Good Will Hunting\" verve and \"Sleeping with the Enemy\" shlock.",
+      "url": "https://www.indiewire.com/criticism/movies/the-julia-set-review-chase-infiniti-1235216332/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/THE-JULIA-SET.jpg?w=650",
+      "publishedAt": "2026-09-12T14:02:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-eHktYmVhc3QtZGllcw",
+      "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
+      "description": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including Sexy Beast, High-Rise and the multi-Oscar-winning The Last Emperor, has died aged 77. A representative for Thomas said he died on Friday “peacefully, at his country home in Oxfordshire, surrounded by his family and loved ones”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
+      "image": "https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21c3a25d44e9edd895fe0e668f8cbc3e",
+      "publishedAt": "2026-09-12T14:01:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE2MzU4Lw",
+      "title": "‘Iron Boy’ Review: A Beautifully Hand-Painted Coming-of-Age Story with a Dash of Magical Realism",
+      "description": "TIFF: Former Pixar animator Louis Clichy delivers a lovely film about a boy in an iron corset and his family's struggles to keep their French farm afloat.",
+      "url": "https://www.indiewire.com/criticism/movies/iron-boy-review-1235216358/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
+      "publishedAt": "2026-09-12T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ctcmViZWwtd2lsc29u",
+      "title": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
+      "description": "Toronto film festival: the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe There were plentiful on-paper delights for certain music fans of a certain generation promised at Toronto’s splashy Friday-night premiere of pop comedy Girl Group. Posed as a tribute to the Spice Girls and the fizzy boom of girl power-fuelled music that came in their wake, its cast includes OG member Mel C, All Saints’ Shaznay Lewis, and Pussycat Dolls’ Ashley Roberts and Nicole Scherzinger while its soundtrack includes Glee-like covers of Destiny’s Child, En Vogue and Fifth Harmony, a feast for those who have recently felt famished. At a time when such music is still sadly rather thin on the ground, save for the manufactured kids pop of Katseye and the often effective yet more boutiquey throwback R&B of Flo, it seemed to be a reminder of how thrilling it all used to be back when such girl-pop supremacy felt impossibly never-ending, a form of nostalgia-bait that many of us could fully get behind. But there are not enough pandering nods to the past that will get even the most dedicated pop girlie through the five-alarm catastrophe that unfolded for those of us who bravely decided to stay awake (someone in front of me wisely chose the release of sleep within the first 30 minutes). Hailing from Live Nation Studios, also behind the Weeknd’s roundly ridiculed vanity project Hurry Up Tomorrow , but lit and shot like a pharmaceutical commercial, it barely even feels like a real movie let alone one that should be premiering at such a prestigious festival. It’s the clumsy handiwork of Rebel Wilson, a once in-demand comedy star who has been trying to chase her career highs in the years since. In a theoretically admirable move, she’s moved behind the camera to take control and reintroduce the kind of broad comedies she used to be a part of before they faded from the mainstream. Her directorial debut, a cheap and cheerful adaptation of Australian stage musical The Deb , was ultimately best known for being the subject of a nasty and prolonged court case , but it showed us how Wilson saw herself as a film-maker and which of her films she was most eager to relive *coughs* Pitch Perfect *ends cough*. Girl Group sees her return once again to that territory – female friendship, musical numbers, unfriendly competition – but with even lesser results. Girl Group is premiering at the Toronto film festival and is seeking distribution Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/girl-group-review-rebel-wilson",
+      "image": "https://i.guim.co.uk/img/media/365ce48b19c915ff59d8a1c617da6b54d11ee4ad/526_0_1757_1406/master/1757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=9c351f325e3c6c2835eaa8f58ca5185b",
+      "publishedAt": "2026-09-12T13:20:23.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNjI0Ny8",
+      "title": "Caleb Hearon Never Expected to Make ‘Trash Mountain’ — or Play His First Starring Role in It",
+      "description": "TIFF: The rising comedian co-wrote the Kris Rey-directed dramedy, inspired by his own life. But as he tells IndieWire, long before there was a script or a movie, there was just a burning desire to get the story down on paper.",
+      "url": "https://www.indiewire.com/features/interviews/caleb-hearon-never-expected-trash-mountain-interview-1235216247/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294790347-e1789186260385.jpg?w=650",
+      "publishedAt": "2026-09-12T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-mV0aC1kYXktbm92ZWw",
-      "title": "Luke Evans: ‘As I child I was in love with Harrison Ford as Indiana Jones’",
+      "title": "Luke Evans: ‘As a child I was in love with Harrison Ford as Indiana Jones’",
       "description": "The Hobbit and Fast & Furious actor on the joy of strawberry laces, hating that he’s so hard on himself, and his sneaky way of leaving a meeting Born in south Wales, Luke Evans, 47, left school at 16 and trained at London Studio Centre before appearing in various West End shows. His films include Clash of the Titans, the Fast & Furious franchise, The Hobbit trilogy and Beauty and the Beast. He has released two albums and a memoir , was Tony-nominated for his role in The Rocky Horror Show on Broadway, and stars in The Party, an ITV adaptation of Elizabeth Day’s novel. He lives in Lisbon with his partner. When were you happiest? I’m always happy. Continue reading...",
       "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/luke-evans-actor-interview-the-party-itv-elizabeth-day-novel",
       "image": "https://i.guim.co.uk/img/media/cc102fe43bd0c1ef6ed906c3f0ebd603bc1b523b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef5d4aac97609fe7668f801119ef6065",
@@ -42,7 +234,7 @@
     {
       "id": "indiewire-XItMTIzNTIxNjE2NC8",
       "title": "‘The Face of Horror’ Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
-      "description": "TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a sophomore feature as visually striking and blunt in its messaging as \"The Love Witch.\"",
+      "description": "TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a feature as visually striking and blunt in its messaging as \"The Love Witch.\"",
       "url": "https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_Face_of_Horror_Still_HERO.jpg?w=650",
       "publishedAt": "2026-09-12T06:00:00.000Z",
@@ -64,42 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTYxNzgv",
-      "title": "‘The Stunt Driver’ Review: Jay Baruchel Plays a Canadian Daredevil Trying to Pull Off an Impossible Stunt in a Fun 1970s Throwback",
-      "description": "TIFF: Michael Dowse’s tribute to Ken Carter mines comedy and tragedy from the stuntman’s unwavering dedication to jumping the Saint Lawrence River in a rocket car.",
-      "url": "https://www.indiewire.com/criticism/movies/the-stunt-driver-movie-review-1235216178/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Stunt-Driver_01.webp?w=650",
-      "publishedAt": "2026-09-12T02:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XktMTIzNTIxNDg4MC8",
-      "title": "‘Trash Mountain’ Review: Caleb Hearon Turns Leading Man in This Gentle Coming-of-Age Dramedy",
-      "description": "TIFF: Kris Rey directs a tender gem from Hearon's own script (written alongside Ruby Caster) about the pleasures and perils of returning home under duress.",
-      "url": "https://www.indiewire.com/criticism/movies/trash-mountain-review-caleb-hearon-kris-rey-1235214880/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TRASH-MOUNTAIN-Still.jpeg?w=650",
-      "publishedAt": "2026-09-11T23:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold So Far: ‘Rapinoe’ About US Women’s Soccer Icon Lands at HBO Documentary Films",
-      "description": "Rebecca Huntt directed the documentary about Megan Rapinoe that premiered at TIFF on Thursday.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Rapinoe_Still_Hero.jpeg?w=650",
-      "publishedAt": "2026-09-11T22:01:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-S1qYW1lcy1tY2F2b3k",
       "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
       "description": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama Erin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doherty and McAvoy perform with ferocious commitment. There’s something of Atom Egoyan or even M Night Shyamalan here … and I even found myself wondering if Williams intended us to think of Shakespeare’s Hamlet and Laertes’ lines about his father, Polonius: “… to his good friends thus wide I’ll ope my arms / And like the kind life-rend’ring pelican, / Repast them with my blood.” We are in a downbeat British town, perhaps somewhere in the London estuary, a place to which a candy factory provides employment. Mina (played by Doherty) is a smart, capable single mum to 9-year-old Jamie (Smylie Bradwell); she works on the production line in cap and hairnet like all the others: much liked by everyone there. She is not fussed by the absence of Jamie’s dad and is perfectly content with hanging out with her friends and her sister (Liv Hill). Continue reading...",
@@ -109,54 +265,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MjE2MzQ0Lw",
-      "title": "Is Josh Giuliano the Next Curry Barker or Kane Parsons? Blumhouse Atomic Monster Seems to Think So",
-      "description": "After Giuliano's feature directing debut \"River\" premiered at TIFF, the horror company made a deal to produce his next film, \"Occupant.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/josh-giuliano-next-curry-barker-kane-parsons-blumhouse-obsession-1235216344/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-3.59.22-PM.png?w=650",
-      "publishedAt": "2026-09-11T20:18:20.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMTYzMTcv",
-      "title": "From Nathan Fielder’s Buzzy Elizabeth Holmes Doc to Robert Pattinson’s Divisive ‘Primetime’: Venice and Telluride’s Winners and Losers",
-      "description": "\"Screen Talk\" co-hosts Anne Thompson and Ryan Lattanzio convene after seeing a ton of movies in Colorado and Italy. What played well, and what didn't?",
-      "url": "https://www.indiewire.com/features/podcast/fall-film-festival-winners-losers-telluride-venice-1235216317/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-1.png?w=650",
-      "publishedAt": "2026-09-11T19:37:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIxNjMwNC8",
-      "title": "‘The Housewife’ Review: Naomi Watts Stuns, but This True Story Flounders Under Its Own Weight",
-      "description": "TIFF: In the feature debut from Ben Shirinian and first-time screenwriter Alyssa Hill, an inherently chilling story about evil hiding within ordinary American life is done in by an uneven cast and script that connects too many dots.",
-      "url": "https://www.indiewire.com/criticism/movies/the-housewife-review-naomi-watts-true-story-1235216304/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images.jpg?w=650",
-      "publishedAt": "2026-09-11T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ei0xMjM1MjE2MTMyLw",
-      "title": "‘Makikiraan Po (Let Us Through, Dear Ancestors)’ Review: Lav Diaz and Isabel Sandoval Team Up for a Mournful, Modest Anti-Colonial Drama",
-      "description": "Venice: The Filipino filmmaker’s swift return to his signature black-and-white converses thematically with last year’s bracing epic \"Magellan.\"",
-      "url": "https://www.indiewire.com/criticism/movies/let-us-through-dear-ancestors-review-lav-diaz-1235216132/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/makikiraan_po.jpg?w=650",
-      "publishedAt": "2026-09-11T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -172,54 +280,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-bS0xMjM1MjE2MDk3Lw",
-      "title": "‘American Hostage’ Review: Jon Hamm Anchors a Tepid Period Drama on Timely Threats to the Fourth Estate",
-      "description": "Inspired by a true story, co-creators Shawn Ryan and Eileen Myers' eight-episode period drama follows Indianapolis radio reporter Fred Heckman (Jon Hamm) as he tries to cover a hostage crisis without compromising his ethics — or getting anyone killed.",
-      "url": "https://www.indiewire.com/criticism/shows/american-hostage-review-jon-hamm-series-mgm-1235216097/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/American-Hostage-series-release-date-Jon-Hamm-show.jpg?w=650",
-      "publishedAt": "2026-09-11T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-XNld2lmZS1yZXZpZXc",
-      "title": "The Housewife review – Naomi Watts is a secret suburban Nazi in an overcooked melodrama",
-      "description": "Toronto film festival: the chilling true story of a woman who tried to hide from her wartime crimes gets turned into a strangely inert misfire The first scene of the 60s-set drama The Housewife is a closeup of a whistling kettle, an early “wink, wink” sign that we’re watching a story where tensions are set to boil but also that we’re watching a film of minimal subtlety. Perhaps if it had been pitched closer to its adjacently named cousin The Housemaid , as a silly, sensationalist thriller, such heavy-handed decision-making would feel more well-suited. But instead, while some scenes flirt with the idea of something juicier, this is a stuffy and stodgy slab of self-serious, old-school Oscar bait complete with all the shouting, crying, throwing and finger-pointing one would expect. Think overcooked rather than slow simmer. The Housewife is premiering at the Toronto film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/toronto-film-festival-housewife-review",
-      "image": "https://i.guim.co.uk/img/media/db51913ee9a246c3eff0a84bbcea1e6d4ce39d4e/551_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=797ba299a30c984e09445e0b4e2fabde",
-      "publishedAt": "2026-09-11T15:39:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-95LTEyMzUyMTYwOTkv",
-      "title": "‘Lovers in the Blue Night’ Review: Anuparna Roy Returns with a Dreamy, Pained Drama About Desire and Displacement",
-      "description": "Venice: Four restless migrants in Mumbai grapple with forbidden desires and lost futures in this compelling tale from the director of \"Songs of Forgotten Trees.\"",
-      "url": "https://www.indiewire.com/criticism/movies/lovers-in-the-blue-night-review-anuparna-roy-1235216099/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lovers-in-the-Blue-Night.jpg?w=650",
-      "publishedAt": "2026-09-11T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "Gore, gimps and a potty-mouthed magpie: welcome to the Lisbon horror festival where nightmares are a dream",
-      "description": "MotelX – Portugal’s only film festival dedicated to horror – hopes to inspire local film-makers by showcasing world-class scares. Now in its 20th edition, its directors say truly nerve-shredding cinema is its holy grail If horror happens in the dark, the midnight movie showing was once the perfect way of gauging the genre’s health. But those days may be over. “When we were a film club, our first ever cinema screening was Takashi Miike’s Ichi the Killer in 2003, and it was full,” says Pedro Souto, co-director of Lisbon’s horror-centric MotelX festival . “But you don’t have that many people at midnight any more. I don’t know why.” He’s right: the midnight slot I attend – of the gore-bathed Indonesian kung fu flick Ikatan Darah – is only half full. Only a few appreciative chuckles when meat-cleavers plunge into craniums suggest the old midnight spirit still lives. No need to panic, though: horror has simply embraced the light. With the genre exploding in the 2010s and 2020s, and blockbusting grosses this year for the likes of Obsession and Backrooms , MotelX is able to gorge itself on this cultural jugular. Now in its 20th edition, the festival has expanded to 11 days, with more than 170 films from 40 countries. Flashy branding – a howling gimp and the signature X, both in inflatable PVC – is dotted on around city billboards. At the opening ceremony, a gigantic birthday cake – the self-same gimp emerging from a lake of gelatine “blood” – is massacred by the punters within 20 minutes. Crowds seem abundant at most screenings, dominated by a heatwave look (dark singlets, shorts and sweaty tattoos) best described as “goth Decathlon”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/motelx-lisbon-portugal-horror-film-festival",
-      "image": "https://i.guim.co.uk/img/media/d7545fc1b2442cfc8195ee28f885ab9c45fffb2d/690_0_4272_3418/master/4272.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9637e367432b7330c9a7a3a57e6c040",
-      "publishedAt": "2026-09-11T15:23:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-dXZhbC1hYnJhaGFtLQ",
       "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
       "description": "Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killing On a darkened rooftop in Tel Aviv, Israeli intelligence officers outline the details of their work. These men tell us how they helped develop an AI mapping tool that trawled for phone signals and recommended apartment buildings in Gaza to bomb. Indirectly, they admit, they are responsible for thousands of deaths, but they never spoke up because that wasn’t their place. “My role is technical,” says one. “I’m just a small cog,” says another. NAZA – directed by the Israeli film-makers Rachel Szor and Yuval Abraham and produced by the Guardian – is a chilling documentary about a mass slaughter that was authorised at the highest levels of government. But it is also, primarily, about the process, the system, the little links in the killing chain. Szor and Abraham build their film around the accounts of 24 anonymised military and intelligence insiders. NAZA, we learn, is an acronym used by the intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. The Israel Defense Forces prefer to target Hamas terrorists in their homes at night – and if they live with their family, or in heavily populated neighbourhoods, too bad. At one point, a source claims, approval was given to kill 500 NAZA for one Hamas member. Continue reading...",
@@ -232,30 +292,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-JpLTEyMzUyMTYyNjUv",
-      "title": "‘A Bit of Light’ Review: Ali Asgari’s Iranian Answer to ‘It’s a Wonderful Life’ Is a Bit of a Miracle",
-      "description": "Venice: On the eve of the current Iran war, a doctor prepares for suicide in a day-in-the-life drama that offers a mighty and coherent outlook on the big questions.",
-      "url": "https://www.indiewire.com/criticism/movies/a-bit-of-light-review-ali-asgari-1235216265/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/a-bit-of-light.jpeg?w=547",
-      "publishedAt": "2026-09-11T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-VkLTEyMzUyMTU5MTIv",
-      "title": "‘One Minute to Midnight’ Review: Melvil Poupaud Reckons with His Past in a Too-Talky Parisian Drama",
-      "description": "Venice: Poupaud plays a former culture writer on an apology tour in a Nicolas Pariser film that could've been an article. Or a play.",
-      "url": "https://www.indiewire.com/criticism/movies/one-minute-to-midnight-review-melvil-poupaud-1235215912/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/One_Minute_to_Midnight_01.webp?w=650",
-      "publishedAt": "2026-09-11T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-nMtaG9tZS10cnV0aHM",
       "title": "‘Danny Boyle, please make another film about drugs’: Venice film festival’s feedback wall takes no prisoners",
       "description": "The written forum allows members of the public to vent their fury at the movies they’ve seen – and the festival organisers In an industry that is reliant on the fickle vagaries of taste, film festivals exist to establish facts. The reason why film-makers still go through the rigmarole of ferrying their cast to the red carpets of Venice, Cannes or Sundance is the need for empirical evidence of unambiguous quality: a solid-gold prize, a top score on the critics’ grid, a record-timed standing ovation that will convince every doubter that this is a great film . Film festivals, in turn, need beautiful A-listers to attract coverage and sponsorship, and hence there is a constant risk that these annual events become gigantic hype machines, in which every turkey is a classic and every half-hearted performance a masterclass. Continue reading...",
@@ -266,6 +302,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
+    },
+    {
+      "id": "guardian-cmRpY3Qtb24tcHVscA",
+      "title": "‘People think fame is a magic wand’: Jarvis Cocker on old songs, young fans and his granny’s verdict on Pulp",
+      "description": "Before the release of a joyful film on the history of the Sheffield band, frontman Cocker and director Garth Jennings talk dark times, taking inspiration from Abba – and why there could yet be another record When the director Garth Jennings first moved to Paris, Jarvis Cocker, who was living there, dropped in on his old friend. “And I nearly got you arrested,” the Pulp frontman recalls. It was bonfire night, and Cocker had taken some welcoming fireworks over to Jennings’ place. “It turned out Garth’s apartment was quite near to the – not an army base, but what’s it called?” “The École Militaire ,” says Jennings. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/11/people-think-fame-is-a-magic-wand-jarvis-cocker-on-old-songs-young-fans-and-his-grannys-verdict-on-pulp",
+      "image": "https://i.guim.co.uk/img/media/0a9627b107d02453093f91a5ff9d02c2e9b43f82/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c21bf5fff1de2484efc34d2a1114dbcb",
+      "publishedAt": "2026-09-11T04:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-LXZpZGVvLW50d25mYg",
@@ -326,18 +374,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-aWRhcml0eS1xdW90ZQ",
-      "title": "John Malkovich cancels Israel trip over fabricated solidarity quote",
-      "description": "The Wild Horse Nine actor had been due to appear on stage in The Music Critic in Tel Aviv – but pulled out over PR firm’s ‘unacceptable and untenable’ attribution of statement John Malkovich has cancelled a planned trip to Israel next year to appear on stage after a PR firm hired by the show attributed quotes to the actor that the company had written. Malkovich, who is a leading Oscar contender for his role in Martin McDonagh’s Wild Horse Nine , was due to appear in The Music Critic, a theatrical-musical satire composed by the Jewish violinist Aleksey Igudesman, in Tel Aviv’s Charles Bronfman Auditorium on 13 April. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/john-malkovich-cancels-israel-trip-over-fabricated-solidarity-quote",
-      "image": "https://i.guim.co.uk/img/media/0184002764d0a71a861badf631cfa1930aeac460/172_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8241697b7237458a557e02ec967f343",
-      "publishedAt": "2026-09-09T15:23:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-LW1vdmllLXJldmlldw",
@@ -448,18 +484,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-Y2FsbGllLWtob3VyaQ",
-      "title": "‘It’s not good to walk through the world feeling like prey’: Thelma & Louise’s writer on turning a movie classic into a musical",
-      "description": "It was her very first film and it won her an Oscar. But can Callie Khouri now make it work on stage with songs? She talks about the outrages that made her write it – and how little has changed since ‘I have a world-class case of beginner’s luck,” says Callie Khouri, who won an Oscar for her very first screenplay, Thelma & Louise . She also scored a hit with her first TV series, Nashville , which lasted six seasons. And at 68, she is taking on another first by penning a musical theatre version of Thelma & Louise, hoping her luck hasn’t run out. “I hope that this is not the end of that streak,” she laughs. “That I don’t hit a wall here and slide down it like Wile E Coyote.” Thelma & Louise isn’t an obvious bet for a musical. A story that features an abusive marriage, attempted rape, murder and double suicide doesn’t scream “jazz hands”, and Khouri had turned down offers before. “My agent said, ‘There’s a guy who wants to meet you to talk about doing Thelma as a stage musical,’” says Khouri. “And I just thought, ‘Well, that’s nuts!’” But the iconic 90s film – starring Susan Sarandon and Geena Davis (and a young Brad Pitt) – is an ultimately triumphant piece of cinema: a feminist road movie driven by the power of female friendship, which still captures imaginations. Khouri was eventually convinced. It’s been a decade in the pipeline, but things took off when uber-producer Sonia Friedman came on board, and now it has premiered at London’s Young Vic, starring Rachel Tucker and Amy Lennox. Continue reading...",
-      "url": "https://www.theguardian.com/stage/2026/sep/08/thelma-and-louise-writer-prey-musical-callie-khouri",
-      "image": "https://i.guim.co.uk/img/media/9d6f8ae0c3883befc6242dd136e61e6432f8f778/0_36_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ac05a3da4cac4b51647d406ce70cffc",
-      "publishedAt": "2026-09-08T04:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-ZmlsbS1mZXN0aXZhbA",
       "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
       "description": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to call film-makers “storytellers”, despite the fact that film-makers don’t necessarily have to deliver conventional narrative and that so many of them are in any case no good at the old-fashioned business of storytelling. But this last point certainly doesn’t apply to Italian director Paolo Strippoli who has brought to Venice an uproarious edge-of-the-seat gripper in which Valeria Bruni Tedeschi gives us the funniest performance of the festival and the best of her career. It’s a satirical nightmare about a wealthy woman’s Faustian bargain, like one of Roald Dahl’s Tales of the Unexpected – as elegantly designed and beautifully shot as anything by Paolo Sorrentino and with smart, subversive things to say about body image and body fascism and about a cosseted, self-involved Italian matriarch who eternally congratulates herself on sacrificing herself – or wanting to sacrifice herself – for her children. At the centre of this bizarre drama is Anna (superbly played by Jasmine Trinca) who is complacently marred to wealthy alpha-male Bari businessman Walter (Adriano Giannini): they have two children: Alice (Romana Maggiora Vergone) and Tobia (Andrea Genovese). Each family member gets a chapter. At a spectacular party at their gorgeous home, whose clear purpose is to make friends and neighbours jealous, a terrible accident happens, just after the children discover an ominous spiral of ants in the grass. While praying desperately for a miracle, Anna is visited by “ L’estranea ” of the film’s Italian title, the mysterious stranger hilariously played by Tedeschi, who appears to know all about this rich, picture-perfect family and offers to solve their problems. But she wants something in return, a sadistic deal that cuts to the heart of both parents’ selfishness. Anna had always wanted to act in her youth but her father forbade it – now she has been obsessively pushing Alice into acting and is morbidly upset at any physical problem that Alice has which damages this proxy ambition. As for macho Walter, he is thrilled at Tobia’s skills at football, and sponsors his son’s youth team; he is disgusted (rather than compassionate) at a weight issue that Tobia has which gets him dropped from the side. And all the time Anna sombrely considers the sacrifices she has secretly brokered for other people to make with this smirking, skittish Mephistopheles in order to keep her family safe. But has she done wrong? Is she guilty of some obvious sin which is being punished? No. It is just a deadpan tale of supernatural cruelty meted out to someone whose only crime is smugness, vanity and being rude to her domestic staff. It all climaxes in an apocalyptic finale: an enjoyable and macabre family affair. Continue reading...",
@@ -494,18 +518,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-dGljYWwtbWFnaWMtMg",
-      "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
-      "description": "After her role in the fantasy series, the actor felt lost. Now she’s getting relationship advice from Sandra Bullock and Nicole Kidman, and following a Sex and the City star’s mantra: never be anywhere you aren’t enjoying yourself Maisie Williams has dabbled in witchcraft exactly once. The actor was getting ready to audition for a&nbsp;part in a film. “I wanted it so badly that I went on to Etsy, and I&nbsp;paid a&nbsp;witch to manifest me the role,” she says, poker-faced. “It&nbsp;didn’t work, and that was where my days of witchcraft ended,” she adds, breaking into an infectious cackle. Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2",
-      "image": "https://i.guim.co.uk/img/media/9f4daa50e0d53bc833cff96ce16fa3efb95d0a03/0_415_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b20f9d2f221a5cd6ca16657b2eba778b",
-      "publishedAt": "2026-09-06T05:00:56.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
