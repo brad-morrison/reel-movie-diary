@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:31:24.075Z",
+  "generatedAt": "2026-09-13T01:08:45.823Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ci0xMjM1MjE2NjcyLw",
+      "title": "‘River’ Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
+      "description": "TIFF: Jane Levy and Jessica Rothe lead Joshua Giuliano's slasher that finds evil in beauty, while reminding us that horror is not simply a vehicle for scares.",
+      "url": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/River_Still_HERO.jpg?w=650",
+      "publishedAt": "2026-09-12T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNjQwMi8",
+      "title": "‘Purgatory’ Review: This Charming Catholic Coming-of-Age Story Never Quite Ascends",
+      "description": "TIFF: A 13-year-old in the 1980s navigates her parents’ separation in this comedy that relies on boilerplate beats.",
+      "url": "https://www.indiewire.com/criticism/movies/purgatory-review-1235216402/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-6.32.49-PM.png?w=650",
+      "publishedAt": "2026-09-12T21:25:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-lhbC1qdXJ5LXByaXpl",
+      "title": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
+      "description": "May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA May el-Toukhy’s Woman Unknown has scooped the Golden Lion at the Venice film festival, at an awards ceremony that also saw the Gaza documentary NAZA win the jury prize. Set in the immediate aftermath of Danish liberation from Nazi occupation, the Egyptian-Danish director’s film tells the story of a young housemaid, Marie (Mathilde Arcel), who is about to marry her widowed employer but anxious about him discovering a shameful secret in her past: during the war, Marie had an intimate relationship with a German soldier. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
+      "image": "https://i.guim.co.uk/img/media/e728a70a17ef1893740beef47281ee0b88d48838/316_0_3616_2894/master/3616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25a0ee940b7097f5142147e4c72f6af7",
+      "publishedAt": "2026-09-12T21:17:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WJsZS1sb3ZlLW5hemE",
+      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA",
+      "description": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice film festival just redeem itself on the sexism issue? It made a really good choice for the top prize, giving it to a female director, and it’s a good winners’ list all round. Having been pilloried for failing to include enough women film-makers , the festival awarded the Golden Lion to Woman Unknown , by the Danish-Egyptian director May el-Toukhy, her gripping and stylish drama-thriller about sexual shame, political paranoia and the return of the repressed in Denmark after the second world war. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
+      "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ab04c6b5271cb32852ef3d1ca53a1e82",
+      "publishedAt": "2026-09-12T21:07:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNjY1MS8",
+      "title": "Venice Prizes Elevate John Malkovich, ‘Possible Love,’ and ‘NAZA’ to Oscar Frontrunners",
+      "description": "While \"Woman Unknown\" won the Golden Lion and is now automatically eligible for Best International Feature, the Venice jury prizes solidify three other competition titles as major Oscar contenders.",
+      "url": "https://www.indiewire.com/awards/predictions/venice-john-malkovich-possible-love-naza-oscar-frontrunners-1235216651/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294929582.jpg?w=650",
+      "publishedAt": "2026-09-12T20:57:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTYzODgv",
+      "title": "‘Edward Said: Between Worlds’ Brings an Articulate Palestinian Spokesman Back to Life",
+      "description": "With producers Jigsaw, Dogwoof, Impact Partners, and Louverture behind it, the movie is seeking distribution at the Toronto International Film Festival.",
+      "url": "https://www.indiewire.com/awards/consider-this/edward-said-between-worlds-palestinian-spokesman-interview-1235216388/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Press-Photo_15.jpg?w=650",
+      "publishedAt": "2026-09-12T19:06:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNjQ4NS8",
+      "title": "Venice Film Festival Reveals 2026 Award Winners: ‘Woman Unknown’ Takes the Golden Lion",
+      "description": "See all this year's 2026 Venice Film Festival award winners here.",
+      "url": "https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
+      "publishedAt": "2026-09-12T18:58:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-XItMTIzNTIxNjQ5Mi8",
       "title": "Courteney Cox Had a Vision for Her ‘Evil Genius,’ and ‘Friends’ — Surprisingly — Played an Important Role",
@@ -46,18 +130,6 @@
       "url": "https://www.indiewire.com/features/interviews/venice-maggie-gyllenhaal-interview-flesh-impact-burstyn-ai-1235216512/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294186054.jpg?w=650",
       "publishedAt": "2026-09-12T17:23:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIxNjQ4NS8",
-      "title": "Venice Film Festival Reveals 2026 Award Winners",
-      "description": "Who will win the Golden Lion from Maggie Gyllenhaal's competition jury? Venice will name all the winners today at the Sala Grande ceremony.",
-      "url": "https://www.indiewire.com/awards/results/venice-film-festival-2026-award-winners-1235216485/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
-      "publishedAt": "2026-09-12T17:04:41.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
@@ -137,7 +209,7 @@
     },
     {
       "id": "indiewire-FkLTEyMzUyMTY0NzEv",
-      "title": "Jeremy Thomas, Oscar-Winning Producer for Bertolucci, Cronenberg, and Herzog’s ‘Bucking Fastard,’ Dead at 77",
+      "title": "Jeremy Thomas, Oscar-Winning Producer for Bertolucci and Cronenberg, Dead at 77",
       "description": "Jeremy Thomas won the Best Picture Oscar in 1988 for Bernardo Bertolucci's \"The Last Emperor.\" He's a key talking head in Luca Guadagnino's new documentary about the Italian filmmaker,\" \"Joie de Vivre,\" which just premiered in Venice.",
       "url": "https://www.indiewire.com/news/breaking-news/jeremy-thomas-producer-dead-1235216471/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P115OA75.jpg?w=650",
@@ -146,18 +218,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-RpLTEyMzUyMTYzMzIv",
-      "title": "‘The Julia Set’ Review: Chase Infiniti Is a Genius in a Movie Lacking Serious Brain Power",
-      "description": "TIFF: The \"One Battle After Another\" breakout heads to college in Niki Byrne's confounding mash-up of \"Good Will Hunting\" verve and \"Sleeping with the Enemy\" shlock.",
-      "url": "https://www.indiewire.com/criticism/movies/the-julia-set-review-chase-infiniti-1235216332/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/THE-JULIA-SET.jpg?w=650",
-      "publishedAt": "2026-09-12T14:02:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-eHktYmVhc3QtZGllcw",
@@ -172,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dy0xMjM1MjE2MzU4Lw",
-      "title": "‘Iron Boy’ Review: A Beautifully Hand-Painted Coming-of-Age Story with a Dash of Magical Realism",
-      "description": "TIFF: Former Pixar animator Louis Clichy delivers a lovely film about a boy in an iron corset and his family's struggles to keep their French farm afloat.",
-      "url": "https://www.indiewire.com/criticism/movies/iron-boy-review-1235216358/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
-      "publishedAt": "2026-09-12T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ctcmViZWwtd2lsc29u",
       "title": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
       "description": "Toronto film festival: the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe There were plentiful on-paper delights for certain music fans of a certain generation promised at Toronto’s splashy Friday-night premiere of pop comedy Girl Group. Posed as a tribute to the Spice Girls and the fizzy boom of girl power-fuelled music that came in their wake, its cast includes OG member Mel C, All Saints’ Shaznay Lewis, and Pussycat Dolls’ Ashley Roberts and Nicole Scherzinger while its soundtrack includes Glee-like covers of Destiny’s Child, En Vogue and Fifth Harmony, a feast for those who have recently felt famished. At a time when such music is still sadly rather thin on the ground, save for the manufactured kids pop of Katseye and the often effective yet more boutiquey throwback R&B of Flo, it seemed to be a reminder of how thrilling it all used to be back when such girl-pop supremacy felt impossibly never-ending, a form of nostalgia-bait that many of us could fully get behind. But there are not enough pandering nods to the past that will get even the most dedicated pop girlie through the five-alarm catastrophe that unfolded for those of us who bravely decided to stay awake (someone in front of me wisely chose the release of sleep within the first 30 minutes). Hailing from Live Nation Studios, also behind the Weeknd’s roundly ridiculed vanity project Hurry Up Tomorrow , but lit and shot like a pharmaceutical commercial, it barely even feels like a real movie let alone one that should be premiering at such a prestigious festival. It’s the clumsy handiwork of Rebel Wilson, a once in-demand comedy star who has been trying to chase her career highs in the years since. In a theoretically admirable move, she’s moved behind the camera to take control and reintroduce the kind of broad comedies she used to be a part of before they faded from the mainstream. Her directorial debut, a cheap and cheerful adaptation of Australian stage musical The Deb , was ultimately best known for being the subject of a nasty and prolonged court case , but it showed us how Wilson saw herself as a film-maker and which of her films she was most eager to relive *coughs* Pitch Perfect *ends cough*. Girl Group sees her return once again to that territory – female friendship, musical numbers, unfriendly competition – but with even lesser results. Girl Group is premiering at the Toronto film festival and is seeking distribution Continue reading...",
@@ -194,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNjI0Ny8",
-      "title": "Caleb Hearon Never Expected to Make ‘Trash Mountain’ — or Play His First Starring Role in It",
-      "description": "TIFF: The rising comedian co-wrote the Kris Rey-directed dramedy, inspired by his own life. But as he tells IndieWire, long before there was a script or a movie, there was just a burning desire to get the story down on paper.",
-      "url": "https://www.indiewire.com/features/interviews/caleb-hearon-never-expected-trash-mountain-interview-1235216247/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294790347-e1789186260385.jpg?w=650",
-      "publishedAt": "2026-09-12T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-mV0aC1kYXktbm92ZWw",
@@ -232,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XItMTIzNTIxNjE2NC8",
-      "title": "‘The Face of Horror’ Review: Anna Biller Brings Her Brand of Technicolor Feminism to a Tale of Chivalry (or Lack Thereof)",
-      "description": "TIFF: The medieval setting proves a perfect match for Biller's sensibilities, as she crafts a feature as visually striking and blunt in its messaging as \"The Love Witch.\"",
-      "url": "https://www.indiewire.com/criticism/movies/the-face-of-horror-review-anna-biller-1235216164/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_Face_of_Horror_Still_HERO.jpg?w=650",
-      "publishedAt": "2026-09-12T06:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "How a BBC strike exterminated Doctor Who adventure",
       "description": "Marcus Hearn recalls the stories his father told him about the filming of episodes in Cambridge.",
@@ -254,30 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-S1qYW1lcy1tY2F2b3k",
-      "title": "Faith review – intense performances power startling and unsettling tale of mysterious suitor",
-      "description": "Toronto film festival: Erin Doherty plays a happily single mother in a downbeat town courted by an enigmatic James McAvoy in this expertly taut drama Erin Doherty and James McAvoy both bring their A-game in this startling, involving movie from British writer-director Paul Andrew Williams, whose productivity and creativity continue to be an industry tonic. It’s an eerie mystery drama that Doherty and McAvoy perform with ferocious commitment. There’s something of Atom Egoyan or even M Night Shyamalan here … and I even found myself wondering if Williams intended us to think of Shakespeare’s Hamlet and Laertes’ lines about his father, Polonius: “… to his good friends thus wide I’ll ope my arms / And like the kind life-rend’ring pelican, / Repast them with my blood.” We are in a downbeat British town, perhaps somewhere in the London estuary, a place to which a candy factory provides employment. Mina (played by Doherty) is a smart, capable single mum to 9-year-old Jamie (Smylie Bradwell); she works on the production line in cap and hairnet like all the others: much liked by everyone there. She is not fussed by the absence of Jamie’s dad and is perfectly content with hanging out with her friends and her sister (Liv Hill). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/faith-review-erin-doherty-james-mcavoy",
-      "image": "https://i.guim.co.uk/img/media/1b5808a995b901e5b3d38dbc1bd8e375b3ae4001/107_47_1007_806/master/1007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=8d70108164e512a22fa730628cc1411c",
-      "publishedAt": "2026-09-11T20:30:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "River review – so-so survival slasher offers more of the same and little else",
-      "description": "Toronto film festival: strong performances from two experienced scream queens and some surprisingly thoughtful direction can’t elevate yet another stalk-by-numbers horror It would be unwise and unfair to expect that Toronto’s genre-led Midnight Madness strand would open with quite the same jolt as it did last year with the record-breaking horror hit Obsession . That film was an outlier in almost every respect , both as it premiered and as it was unleashed on wider crowds, the highest-grossing festival acquisition of all time topping out at over $513m worldwide and sparking genuine Oscar buzz. But it hasn’t curbed the thirst, or wider speculation, over whether anything might come even remotely close to what Curry Barker achieved and whether the festival might start to rival Sundance as the smartest place for new and exciting horror film-makers to premiere their debut projects. The jury is out with the festival having just begun, but the Midnight strand is off to a far less notable start this time around with the mostly unremarkable survival slasher River, a film directed with flashes of artfulness but written with an overwhelm of familiarity. Writer-director debuts have increasingly tended to follow that pattern (it’s OK not to do everything!) and I think Joshua Giuliano has at least shown enough visual potential here to ably steer someone else’s script to screen next time. River is premiering at the Toronto film festival and will be out in cinemas and available on Shudder in 2027 Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/11/river-movie-review",
-      "image": "https://i.guim.co.uk/img/media/0e6919ca3b872dc01748d62a8c7b5c346fc87ca0/926_0_4628_3703/master/4628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=88cbe8b9e3d3703b945292b58fdc7eb5",
-      "publishedAt": "2026-09-11T18:08:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-dXZhbC1hYnJhaGFtLQ",
