@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-13T06:45:28.230Z",
+  "generatedAt": "2026-09-13T12:37:10.247Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-mV2aWV3LWFhcmRtYW4",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom review – Aardman’s spooky-season caper sparkles with fun",
+      "description": "There’s trouble afoot when Shaun’s pumpkin-supersizing serum ends up in a balding farmer’s hair growth bottle in this third cinematic adventure Summer is over and Halloween is on the way … not for a fair bit, of course, but if all the UK’s Halloween merch and continuing pop culture content is up to the standard of this film, then no one is going to be complaining. This is the third in Aardman’s thoroughly enjoyable and cleverly written Shaun the Sheep stop-motion franchise of what are effectively silent movies, with a few intelligible words. It is the story of gutsy and heroic sheep involved in amazing adventures in the sleepy village of Mossy Bottom, starring characters who first appeared in the Wallace and Gromit short film A Close Shave . This one is another excellent family film, crammed as ever with top visual gags, great throwaway references and, of course, a homemade Heath Robinson contraption, so often to be found in Aardman films. We get nods to The Archers, The Wombles and The Simpsons; there’s a wacky chase worthy of What’s Up, Doc?; a homage to the notorious waxing scene from Judd Apatow’s The 40-Year-Old Virgin; and even what appears to be a brief visual walk-on for George Bernard Shaw as Bigfoot. As ever with Shaun the Sheep and Aardman Animations generally, the standard of writing is extremely high and the script here, from Mark Burton and Giles Pilbrow, sparkles with good-natured fun. One high-street hairdressing salon in the wool-producing district where it’s set is called Barber Black Sheep – and if no real-life shop has stolen this joke yet, they ought to. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/13/shaun-the-sheep-the-beast-of-mossy-bottom-review-aardman",
+      "image": "https://i.guim.co.uk/img/media/3fa9cebb392048db5203664fcabbb1c911e7f258/592_0_3600_2883/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=20099938418f10f48e793781e4f49416",
+      "publishedAt": "2026-09-13T11:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-by0xMjM1MjE2NDY0Lw",
       "title": "‘Vintage Violence’ Review: Too Much Is Never Enough in Eugene Kotlyarenko’s Overstimulating Crime Comedy",
@@ -74,6 +86,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
+      "description": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5584/live/43fdac50-adda-11f1-8b98-35ffe039e825.jpg",
+      "publishedAt": "2026-09-12T23:41:52.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-ci0xMjM1MjE2NjcyLw",
@@ -364,48 +388,60 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-FpbmUtY3JpdGljaXNt",
-      "title": "Russian director refuses to denounce lead actor despite criticism from Ukraine",
-      "description": "Ilya Khrzhanovsky’s DAU, about physicist Lev Landau, stars Russian conductor Teodor Currentzis, who has refused to speak out against Putin’s war The director of a controversial new Russian film has said “everyone pays for his own choice” when asked about his lead’s refusal to condemn Russia’s war in Ukraine. In film-maker Ilya Khrzhanovsky’s DAU, which premiered at the Venice film festival on Wednesday, Greek-Russian star conductor Teodor Currentzis plays the eponymously nicknamed protagonist, Nobel prize-winning quantum physicist Lev Landau. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/dau-director-defends-russian-lead-actor-ukraine-criticism",
-      "image": "https://i.guim.co.uk/img/media/77336536e4a8152a1fd6ba9a0d3689f0e8d42289/223_0_2479_1983/master/2479.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57a181acbb42d0ba7669ca60da3948c1",
-      "publishedAt": "2026-09-09T16:41:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "guardian-LW1vdmllLXJldmlldw",
-      "title": "The Uprising review – the peasants are revolting in muddled historical epic",
-      "description": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet and Chris Pine’s least remembered roles are in the medieval set films The King and Outlaw King (no relation), Ridley Scott’s The Last Duel made back only a third of its $100m budget and earlier this year, the Saudi-backed seventh-century drama Desert Warrior starring Anthony Mackie and Ben Kingsley quietly became one of the biggest flops of all time. Last week, it was reported that Scott blamed the failure of Gladiator II on Paul Mescal not being “masculine enough” in a logical leap which only makes sense if your barometer for masculinity is a man who throws hotel phones and yells at producers in storage closets. On paper, The Uprising should be different: it’s a historical epic from a blue-chip director (the Bourne trilogy’s Paul Greengrass ), a nuanced, introspective leading man ( Andrew Garfield ) and a milieu that uncomfortably chimes with the western world’s backslide into repressive authoritarianism (The Peasants’ Revolt of 1381). In reality, it is a disjointed slog through the mud with the emotional depth of a History Channel rerun. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c70adbdc52a8efa578dc8ebef0cc48e0b9d8ac9d/893_0_4214_3375/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=191a05a2f95608b4dbc5e5f0110b6721",
-      "publishedAt": "2026-09-09T13:00:02.000Z",
+      "id": "guardian-NsYXVkZS1jaGFicm9s",
+      "title": "La Femme Infidèle review – Chabrol’s eerie domestic thriller is a brilliant ballet of repression and fear",
+      "description": "Claude Chabrol’s 1969 film charts a complex marriage in which a husband suspects his wife is cheating on him Writer-director Claude Chabrol’s eerie 1969 masterpiece of frozen emotions and unspoken truths is now rereleased, alongside a Chabrol season at London’s BFI Southbank. This is the suspense thriller remade by Adrian Lyne in 2002 as Unfaithful with Richard Gere and Diane Lane and (partly) remade again this year as Minotaur , a bitter and brilliant theme-variation by the Russian director Andrey Zvyagintsev. As for the original, watched again now, it does not in fact look like a classic noir thriller in the style of Chabrol’s hero Hitchcock, which is how it is often described, but more like something by Buñuel: an elaborate absurdist joke at the expense of the French bourgeoisie, a ballet of repression and fear. The unfaithful woman of the title is the glacially beautiful but glassy-eyed Hélène, played by Chabrol’s then wife Stéphane Audran. She is cheating on Charles, played by Michel Bouquet, her prosperous husband and the father of their adored 10-year-old son. Charles has begun to suspect something is going on during his wife’s frequent trips to Paris, where she supposedly has appointments with the beautician, goes shopping or visits the cinema, but in fact has sex with the divorced writer Victor Pegala (Maurice Ronet) at his dishevelled bachelor flat. Charles phones the beauty parlour where she is supposed to be getting a treatment; she isn’t there. We see how this only confirms suspicions which have clearly accumulated in his mind like silt over months or even years. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/la-femme-infidele-review-claude-chabrol",
+      "image": "https://i.guim.co.uk/img/media/0fbdbb7289dafe835f7715bac9f4c13f53fec057/362_0_2952_2362/master/2952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=20353f6047bc077f5e8c30c704bfbf75",
+      "publishedAt": "2026-09-10T08:00:18.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-VlcHktYW50aG9sb2d5",
-      "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "description": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men Gather ye ’round the glowing screen for a Casey Affleck campfire tale. It contains superstitions and murder and human oddities of all stripes. An old hermit in his shack. Something nasty in the woodshed. If you like the first tale, fill your boots, settle back, because here comes another and another; each sparked by the embers of its neighbour and playing out with the same deliberately theatrical panache. Affleck’s picture roams and rambles like a creepy cracker-barrel Jackanory. Actually there is much to relish in Company, Affleck’s third film as a director, even if many of its elements feel like off-the-peg eccentricities; a little too laundered and self-consciously strange. It begins in tried and tested fashion with the arrival of a mysterious stranger on a dark winter’s night. The stranger takes a seat and spins a tale, at which point December 1975 melts into 1953, then 1903, before finally the film crosses the ocean to Europe at the tail end of the plague. Nick Nolte is a hermit pining for his lost daughter, while Ben Mendelsohn plays a mean, mordant farmer who reaches for his handgun too readily. Both men, one suspects, are destined for a bloody end. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
-      "image": "https://i.guim.co.uk/img/media/a1c5588bd7c78279dcba5b232e64c9a11ec683d0/612_0_1003_802/master/1003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=36e72de0f5785737996a3fc68b001a11",
-      "publishedAt": "2026-09-08T19:45:48.000Z",
+      "id": "guardian-YXN0LXJldGVsbGluZw",
+      "title": "Pressure review – stormy weather in tense D-day forecast retelling",
+      "description": "Andrew Scott finds levels of complexity in a stoic character based on meteorologist James Stagg, the man who persuaded Eisenhower to delay Operation Overlord, for this slick wartime drama The historic gamble of D-day 1944 gets a new perspective in this slick and watchable, if slightly cheesy and unreflective, period drama, whose staginess reflects its origins in theatre; David Haig adapts his play with the director Anthony Maras. Andrew Scott – in RAF uniform, short-back-and-sides and ’tache – plays James Stagg, a brilliant Scottish meteorologist attached to the military during the war. Stagg arrives at the top-secret allied base of Southwick House in Hampshire stubbornly intent on telling allied Cmdr Dwight “Ike” Eisenhower, bullishly played by Brendan Fraser, that he has an outlier forecast of bad weather, which means D-day should be delayed from Eisenhower’s planned date of 5 June. This is to the rage of Col Irving P Krick (Chris Messina), the swaggeringly gung-ho American meteorologist who has always had Ike’s confidence until now. And if we were unsure about this character’s brash-Yank status, in his opening scene he literally shimmies and bops to the Andrews Sisters’ Boogie-Woogie Bugle Boy in the operations room to the uptight, thin-lipped astonishment of Stagg who, as overall commanding officer, tells the Americans to get that piano out of there. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/pressure-review-stormy-weather-in-tense-d-day-forecast-retelling",
+      "image": "https://i.guim.co.uk/img/media/f5924553782334e57f4033195958bdd98e4c0f4a/36_0_2497_1998/master/2497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ee8e880d7970bc1996454c187dd44eff",
+      "publishedAt": "2026-09-10T06:00:19.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-1maWxtLWZlc3RpdmFs",
-      "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "description": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire Even the formidable pairing of Penélope Cruz and Javier Bardem can’t save this new movie from writer-director Florian Zeller – his first created directly for the screen, and not adapted from his own stage original. It’s shallow and unsatisfying, a drama without the intimate, authentic passion of his previous movies like The Father (2021) or The Son (2022). Bunker has nothing that interesting or original to say about its metaphorically showcased theme of alienation and inequality; the central relationship is left unexplored in favour of so-so home-invasion suspense styling – although one extended marital-argument scene showed what might have been achieved if their relationship was the film’s point – and the violent finale ending is outrageously glib, silly and unconvincing. An off-camera paramedic or doctor actually has to be heard explaining in a brief sentence afterwards what is supposed to have happened. Very lame. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/fbd3272badbf1b060dc22e2e24898b2529b204a3/1168_0_5252_4202/master/5252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=99eee3fa0ef4440cfc30e901a19bdf8a",
-      "publishedAt": "2026-09-08T17:00:45.000Z",
+      "id": "guardian-Y290dGluLWxhdXJlLQ",
+      "title": "Call My Agent! The Movie review – the gang get back together and c’est formidable",
+      "description": "The screwball French comedy is back as a film that actually works, thanks to putting Andréa and Noémie at the heart of chaotic events and bringing all the old faces back At last: a beloved-TV-show-to-film-spinoff that doesn’t suck! The original French series is a screwball-speed office comedy about a boutique Parisian talent agency, and was a ratings and critical success in its homeland when it started back in 2015. Its acquisition by Netflix grew the audience internationally and spawned a stable full of remakes across Europe and Asia. In the meantime, several members of the original French cast have become proper stars in their own right, especially Camille Cottin and Laure Calamy, and this sequel, set five years on, is smart to put these two at the heart of the latest instalment. And of course, there are the obligatory turns from properly famous actors playing themselves, including Laetitia Casta, Vincent Macaigne, Laurent Lafitte and some guy named George Clooney, best known these days for appearances on vaporettos in the Venice lagoon. Like many great sitcoms, this one always understood that failure, rather than success, keeps the wider narrative arc more interesting and relatable. So the last episode of the series left the gang at talent agency ASK (which stood for Agence Samuel Kerr, after the founder, who died in the first episode), dispersed to new gigs and careers; the band, in effect, broke up. Five years on, the stars have aligned to bring them all back together to work on Andréa (Cottin) and Noémie’s (Calamy) new film project, so the title Call My Agent! The Movie works on more than one level. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/call-my-agent-the-movie-review-camille-cottin-laure-",
+      "image": "https://i.guim.co.uk/img/media/034747e481a2d8f2b05ad395feb768fbc9e331b7/1038_1256_5597_4478/master/5597.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=57a635ceb86458f1e35d2c3641ffa6c1",
+      "publishedAt": "2026-09-09T12:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Gx5LWRpc3R1cmJpbmc",
+      "title": "Blue Film review – polarising sex worker drama is well-acted and deeply disturbing",
+      "description": "A camboy meets up with a convicted paedophile who turns out to be his old English teacher in Elliot Tuttle’s uncomfortable drama There have reportedly been audience walk-outs at screenings of this indie drama from young American film-maker Elliot Tuttle, a two-hander about a sex worker hired for the night by his former English teacher, a convicted paedophile. In interviews Tuttle has said his film was rejected by several major festivals. What makes it so uncomfortable is not the sex; mostly what we see on screen is two men talking. But early on a mood of skin-crawling unease seeps in, and it remains for every second of the film’s 82-minute run time. Kieron Moore plays Aaron Eagle (not his real name), a Los Angeles sex worker and camboy. In the video content he livestreams, Aaron is a dom; gym-perfected and tattooed, he hurls homophobic insults at his fans. One night, he arranges to meet a client who offers to pay $50,000 for one night. The retirement-age man who answers the door of the Airbnb turns out to be Aaron’s former English teacher Mr Grant (Reed Birney), who was sacked after attempting to rape a 12-year-old pupil. Aaron was not the victim, but the teacher says he has always been in love with Aaron – though he is no longer sexually attracted to him. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/blue-film-review-polarising-sex-worker-drama-is-well-acted-and-deeply-disturbing",
+      "image": "https://i.guim.co.uk/img/media/63115fa919766391532cbd28a056999e2662436b/753_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd49c15ed30ac56bffca9b9714cc8914",
+      "publishedAt": "2026-09-09T10:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WNhbGx5LWF0dHVuZWQ",
+      "title": "Yuja review – portrait of star pianist who is intellectually curious and deeply musically attuned",
+      "description": "Musician is also rattled to find her appearance gets far more attention than her playing in this reflective documentary from Lorna Tucker As well as her film about her own difficult teenage years , British director Lorna Tucker is probably best known for her documentaries on famous women with big personalities: Vivienne Westwood ( Westwood: Punk, Icon, Activist ), Katharine Hepburn (Call Me Kate) and Greta Garbo ( Garbo: Where Did You Go? ). Her latest subject, pianist Yuja Wang, is another high-achiever – but not someone with quite the same name recognition unless you’re a devotee of classical music, a field in which she is ranked among the very best alive. Wang certainly has a flamboyant side, expressed in her highly expressive, virtuoso performances and her sartorial style on stage. In fact some shocking pull quotes illustrate how her dress sense has been bizarrely over-examined in the press; she has been likened to a stripper for her outfits, and the New Yorker, of all publications, once described her as “fat” , which hardly seems germane to any discussion of her ability to play Tchaikovsky or Ligeti. But Wang’s biography and the texture of her daily life are very different from that of Tucker’s previous subjects. She was a child prodigy from an artistic Beijing family who came of age just in time to break records for views on YouTube. Sure, her life here looks glamorous in one way, with a lush New York apartment she barely ever sees because she’s constantly on the road. But her life is also one of perpetual practice and striving for perfection, the loneliness of the long-distance soloist. It’s a regimen that leaves almost no time for relationships or family, or even many friendships with peers who understand what she is going through – apart from a few mentors or collaborators such as fellow pianist Emanuel Ax or composer Teddy Abrams, with whom she recently won a Grammy. Still, she comes across as an effervescent character, intellectually curious and deeply attuned to the music she plays. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/09/yuja-review-portrait-of-star-pianist-who-is-intellectually-curious-and-deeply-musically-attuned",
+      "image": "https://i.guim.co.uk/img/media/aae87c99702c6e6abd76e38ca28c161ff996c834/698_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0511f083f04478396c5728bc531ac457",
+      "publishedAt": "2026-09-09T08:00:04.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -424,72 +460,12 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-W1hbi1lbG9uLWZpbG0",
-      "title": "Musk review – epic study of the world’s richest and most banal man",
-      "description": "Venice film festival: Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary ‘Elon is a nuke.” The speaker is Ashley St Clair, a former conservative Maga influencer and one of Elon Musk’s former girlfriends-slash-baby mommas. She is a fascinating expert witness in Alex Gibney’s four-hour epic study of the world’s richest and dullest man: the overgrown brattish South-African-born trillionaire plutocrat, ersatz visionary and Trump courtier who owns Tesla cars, SpaceX rocket ships, Starlink satellites on which nation states’ military capabilities are increasingly reliant, X (formerly Twitter) which shapes the collective incel id of billions and GrokAI whose vast server farms daily guzzle oceans of precious water. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
-      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/384_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=39aba95ba5efd6d3d85dc0943d9414f3",
-      "publishedAt": "2026-09-08T12:32:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-9uLW93ZW4td2lsc29u",
-      "title": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
-      "description": "Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the gonzo B-movie treatment – physics-defying car chases, knee-smashing violence and the like – to the practice of organ transportation. Donor delivery is not the direction you think things are going in upon first meeting Hank Malone, Alan Ritchson’s outlandishly muscled fixer, of sorts, in Runner, the latest attempt from faith-based distributor Angel Studios to enter the market of more straightforward base entertainment. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
-      "image": "https://i.guim.co.uk/img/media/74828c2c5544b0946196d227b8efe6e76b3aade5/273_0_1614_1292/master/1614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0948e317dbe43bf2bc621b2f74e88bb1",
-      "publishedAt": "2026-09-08T11:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-10YWxraW5nLWhlYWRz",
-      "title": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
-      "description": "Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses No one could argue that rock’n’roll legend Eddie Cochran isn’t worthy of a birth-to-untimely-death bio-doc; it’s almost shocking that this is the first one to be made. But if truth be told, director Kirsty Bell’s effort is stretched so thin to make a feature-length running time you can practically see through the screen. Also it’s so old-fashioned in its structure it plays almost like a tongue-in-cheek parody. The film deploys just about every scrap of archive material featuring Cochran that the budget could afford (which means we see precious little of his performance in The Girl Can’t Help It), plus scads of rostrum-mounted newspaper articles. That’s still not enough to make more than a long short film, so Bell has inserted endearingly tacky dramatic recreations with actors playing Cochran and his mother, whom the rocker reportedly phoned regularly while on tour. In these performed conversations Cochran confides to mom about, for instance, his fears that he’ll die an early death like his friend Buddy Holly. (And sure enough he did, in 1960 in a car accident on the road between Bristol and Heathrow.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
-      "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a05d436d6642f1eb6434312ff3c5187a",
-      "publishedAt": "2026-09-08T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dHQtaWFuLW9naWx2eQ",
-      "title": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
-      "description": "Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension Proceeding from an old-school title pun – yes, the heroine goes by the name Ros Knight – the latest from resourceful microbudget producer Jonathan Sothcott surely has one optimistic eye on filling the void left by the withdrawal of 007 from public life. Here is the gender-flipped Bond some have been seeking: the adventures of a no-nonsense, tough-talking security operative (Jeanine Nerissa Sothcott) who is tasked with recovering a lethal bioweapon pilfered from a scaled-down Porton Down during the prologue. Everything, in truth, proves a bit reined-in. This austerity actioner spends less on its set pieces than the Broccolis typically did on keeping one Aston Martin refuelled; the Sothcotts’ car of choice, emblematically, is the dinkiest of Minis. In essence, it’s Bond without the attendant glamour, hanging around drizzly marinas and parky-looking country lanes, in dim light that hopefully obscures some of the more obvious budget limitations. What money there is here has wisely been spent on human resources, faces who might still look good on the promotional material: a cameoing Michael Paré as a shady Felix Leiter type, Roger Moore’s son Geoffrey as our gal’s understandably worried-looking lover, Nick Moran giving cut-price Colin Firth as a meddling bureaucrat. The pick of the players is a spry, characterful Ian Ogilvy as Ros’s estranged father, helpfully identifying where the real power lies on a chessboard and generally steadying scenes whenever matters get a bit too threadbare. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
-      "image": "https://i.guim.co.uk/img/media/f0e11570aece0ad08bb1f10dbaf4959098c88160/87_0_845_676/master/845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd60bf947744663c45682189be8a77d4",
-      "publishedAt": "2026-09-08T08:00:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cml0dWFsLXdpc2RvbQ",
-      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
-      "description": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film takes the less-travelled path in charting the daily life of a pair of Czech twins a long way off conventional routes themselves. František and Ondřej Klišík are slowly going mad – or maybe closing in on enlightenment – in a cabin in the Šumava mountains and, extrapolating a short story about the brothers by Aleš Palán, director Miro Remo succumbs productively to the prevailing cabin fever – not only egging these longbeards on in their squabbling and loopy philosophising, but pitching in with his own fabulism and surrealism. Closing on 60, “Franta” and “Ondra” still farm their smallholding with the help of Nandy, a mutinous bull ill-chosen as a draught animal. In their downtime, they booze, banter and bicker, lament their lack of prospects with the fairer sex, and blow off steam in epic arm-wrestling bouts. Despite an arm lost to a sawmill accident, it’s Franta who’s usually the victor; he is also possessed by a quixotic streak absent in his bluff sibling. Letting loose streams of poetry into the air like bunting, wishing “joy to all conscious beings”, he is also constructing his own Da Vinci-style perpetual flying machine. “Your aversion to my perpetuum is a little annoying,” he informs the exasperated Ondra. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
-      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f4cb947a50036cec5bdcfb54ba4a2a7d",
-      "publishedAt": "2026-09-08T06:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
-      "description": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to call film-makers “storytellers”, despite the fact that film-makers don’t necessarily have to deliver conventional narrative and that so many of them are in any case no good at the old-fashioned business of storytelling. But this last point certainly doesn’t apply to Italian director Paolo Strippoli who has brought to Venice an uproarious edge-of-the-seat gripper in which Valeria Bruni Tedeschi gives us the funniest performance of the festival and the best of her career. It’s a satirical nightmare about a wealthy woman’s Faustian bargain, like one of Roald Dahl’s Tales of the Unexpected – as elegantly designed and beautifully shot as anything by Paolo Sorrentino and with smart, subversive things to say about body image and body fascism and about a cosseted, self-involved Italian matriarch who eternally congratulates herself on sacrificing herself – or wanting to sacrifice herself – for her children. At the centre of this bizarre drama is Anna (superbly played by Jasmine Trinca) who is complacently marred to wealthy alpha-male Bari businessman Walter (Adriano Giannini): they have two children: Alice (Romana Maggiora Vergone) and Tobia (Andrea Genovese). Each family member gets a chapter. At a spectacular party at their gorgeous home, whose clear purpose is to make friends and neighbours jealous, a terrible accident happens, just after the children discover an ominous spiral of ants in the grass. While praying desperately for a miracle, Anna is visited by “ L’estranea ” of the film’s Italian title, the mysterious stranger hilariously played by Tedeschi, who appears to know all about this rich, picture-perfect family and offers to solve their problems. But she wants something in return, a sadistic deal that cuts to the heart of both parents’ selfishness. Anna had always wanted to act in her youth but her father forbade it – now she has been obsessively pushing Alice into acting and is morbidly upset at any physical problem that Alice has which damages this proxy ambition. As for macho Walter, he is thrilled at Tobia’s skills at football, and sponsors his son’s youth team; he is disgusted (rather than compassionate) at a weight issue that Tobia has which gets him dropped from the side. And all the time Anna sombrely considers the sacrifices she has secretly brokered for other people to make with this smirking, skittish Mephistopheles in order to keep her family safe. But has she done wrong? Is she guilty of some obvious sin which is being punished? No. It is just a deadpan tale of supernatural cruelty meted out to someone whose only crime is smugness, vanity and being rude to her domestic staff. It all climaxes in an apocalyptic finale: an enjoyable and macabre family affair. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=2606de0170adb25316c3a54af26aebd5",
-      "publishedAt": "2026-09-07T17:30:13.000Z",
+      "id": "guardian-XBsZS1pbi1jcmlzaXM",
+      "title": "Just an Illusion review – Louis Garrel and Camille Cottin sizzle as an 80s couple in crisis",
+      "description": "The directing duo behind uplifting mega-hit Intouchables return for this heartwarming coming-of-age drama, but it is the parents in the story who pull focus Olivier Nakache and Éric Toledano are the French directors who created the uplifting mega-hit Intouchables , about a wealthy quadriplegic and his carer. Now the pair bring their brand of squishy heartwarming charm to the 1980s, with this nostalgic movie about a 13-year-old boy growing up in the Paris suburbs. It’s funny and sweet but I couldn’t help feeling the film-makers missed a trick; their coming-of-age plot is all very well, but Louis Garrel and Call My Agent! star Camille Cottin give such funny and charismatic performances as the boy’s bickering parents, a portrait of their marriage in crisis would have been 10 times more entertaining. The film opens with Vincent (Simon Boublil) preparing for his barmitzvah against a fractious atmosphere at home. The country is gripped by recession and money is tight. His dad, Yves (Garrel) was laid off months ago, but every morning puts on a suit and pretends to go out to work; Garrel is terrific, likable but fundamentally unreliable. Vincent’s mum is a go-getting secretary, who can see that the future is technology and signs up for an IT course. At school, Vincent has a massive crush on a girl who cannot remember his name, or chooses not to – she calls him “Thingummy”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/08/just-an-illusion-review-louis-garrel-and-camille-cottin-sizzle-as-an-80s-couple-in-crisis",
+      "image": "https://i.guim.co.uk/img/media/8dac00cf1ad2b83aad9ee651550b66c4bac6bd0a/58_0_964_771/master/964.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=29b7dd894092af11d7e6a1ef9057b2a2",
+      "publishedAt": "2026-09-08T12:00:03.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -520,12 +496,72 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "Oasis: Don’t Look Back in Anger review – mammoth tour movie brings the joy and poignancy of reunion",
+      "description": "The Gallagher brothers’ comeback concerts are given the full fan-worship treatment, but it’s impossible to begrudge the euphoria they have created “Hello … hello … It’s good to be back.” With these words – and the unfortunate possibility of a royalty payment to a certain disgraced ex-pop star – this highly enjoyable fan-worship documentary revives the memory of last year’s staggering and already mythic Oasis reunion tour . It also recollects how effortlessly funny the Gallagher brothers are, like a great comic double act. There’s a big laugh in the tense scene in the rehearsal room, when Liam finally shows up after Noel and everyone else had been there for hours – and the very first thing that comes out of his mouth is a fierce and magnificently sullen objection to the baffles on the drum kit: “They’re giving me the hump.” Yet to the surprise of many who did not believe, and these biblical echoes are strangely appropriate, Liam and Noel did not fall out; the resulting stadium tour put a fresh coat of paint on the word “phenomenon”. Middle-aged and indeed elderly people in bucket hats, together with young people in bucket hats, some accompanied by their pets in bucket hats, sang their hearts out as if it was the 90s again and Manchester City had just won the World Cup 10-0 (although this film was evidently completed before Wonderwall’s moment at this year’s World Cup ). Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/sep/05/oasis-dont-look-back-in-anger-tour-movie-review",
+      "image": "https://i.guim.co.uk/img/media/86ca6bbb64324fed082554641f9fcbd4d2ba9db2/451_0_2624_2100/master/2624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=873a22f5a7ab94f5f5e00847ad6a54d7",
+      "publishedAt": "2026-09-05T19:30:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
       "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
       "description": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ripped apart in order to create space for James Gunn and Peter Safran’s brand-new DCU. We almost certainly did need a clean break from the likes of Ben Affleck (Batman) and Henry Cavill (Superman), if only to persuade audiences that this really was a proper reboot. The question, as Gal Gadot may have been pondering this week, is quite why some of the old universe’s supporting players were smuggled safely into the new continuity while others were left sprawling amid the ruins. Speaking on the Happy Sad Confused podcast , Gadot, who starred in two solo Wonder Woman movies for director Patty Jenkins, revealed that nobody at DC Studios ever formally told her she had been dropped. One minute, Gadot says, she was being assured by Gunn and Safran that they would develop a third instalment with her; the next, she was looking on in mounting alarm as the entire infrastructure of the previous DC continuum was blown to smithereens. “They were like, ‘We’re going to develop it with you, the third one,’” she said. “But I saw the way everybody else was handled, right? And I, you know – the Henry [Cavill] situation was unfortunate. I was in the middle of that. The Henry situation was not handled elegantly, to say the least. Same with Patty – it was not handled elegantly.” Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
       "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bd3429b51214bb7674b201763edfbfdf",
       "publishedAt": "2026-09-04T10:19:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-W4tZmlsbS1yYW5rZWQ",
+      "title": "Tall tales: the 20 best giants in film – ranked!",
+      "description": "On the 300th anniversary of Gulliver’s Travels, we celebrate the biggest film stars of them all – from a stone colossus to a metal-munching alien and a 50ft woman on the rampage Not a first-person-shooter BFG , alas, but one of Steven Spielberg’s worst films, reducing Roald Dahl’s story to digital pap. Mo-cap Mark Rylance, whose cutesy ungrammatical babbling should have been left on the printed page, is the 24ft Big Friendly Giant who kidnaps an orphan girl, Sophie. Ugh. Big Creepy Giant, more like. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/best-giants-in-film-ranked",
+      "image": "https://i.guim.co.uk/img/media/f3a807684f26412f9913f7d5df30939f7b5cfa03/1069_4_3921_3136/master/3921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=587daaa43f843a49705702f7a97b3004",
+      "publishedAt": "2026-09-03T12:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
+      "title": "Fall 2 (aka Fall 2: Deadpoint) review – silly seat-edge sequel can’t reach heights of the original",
+      "description": "There are just about enough hand-over-mouth moments to please thrill-seekers in this B-movie follow-up but eyerolls soon prevail There was plenty of silliness but also plenty of suspense in 2022’s modestly successful don’t-look-down thriller Fall , a surprisingly well-made micro-budget marvel that ultimately found its audience on Netflix. While certain elements, such as the no-name leads and increasingly hokey script, might have made it seem like yet another churned out low-rent original for the streamer, it boasted more genuine thrills than we’ve come to expect there or really anywhere during this quantity over quality time for genre movies. A sequel was financially inevitable (the original cost just $3m) but narratively questionable, given that the self-contained survival tale did not lend itself to the elasticity of a franchise. So here we are with Fall 2: Deadpoint, a palm-sweating formula regurgitated with only moderately jolting results. The first film saw two young women trying to get over the loss of a loved one by, naturally, climbing up an abandoned TV tower. So now the sequel has two young women trying to get over the loss of a loved one (who died in the first film) by, naturally, attempting a sky-high plank walk on the side of a mountain in Thailand. History then repeats itself when chaos strikes, this time courtesy of a rockslide, and our heroines have something more than grief to worry about. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/fall-2-deadpoint-movie-review",
+      "image": "https://i.guim.co.uk/img/media/0d18a9464cce6225f4c85401d3ad2c290658e284/526_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2aba400ba0f159584933b747de752570",
+      "publishedAt": "2026-09-02T14:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XNzYWJsZS1tb3ZpZXM",
+      "title": "Oasis, auteurs and seven hours of Bertolucci: 12 unmissable movies at the Venice film festival",
+      "description": "A backstage peek at the reunion tour and a new film from Burning director Lee Chang-dong are among this year’s most anticipated – plus offerings from Danny Boyle, Luca Guadagnino, Martin McDonagh and more Danny Boyle’s movie, adapted by James Graham from his own play , is a primal scene of modern Britain and its agonies over class, culture and empire. Rupert Murdoch buys the Sun newspaper in 1969 and turns it into a raucous circulation powerhouse of sexist smut and Tory politics, while gloating over the timid British establishment who winced at the colonial Australian press baron. Guy Pearce plays Murdoch and Jack O’Connell plays editor Larry Lamb. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/venice-film-festival-12-unmissable-movies",
+      "image": "https://i.guim.co.uk/img/media/8966ea85118eaeb109021acfadba4f0fbb83b66e/343_0_1705_1365/master/1705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56cdad57b16d95792556dbdf21e3ca7c",
+      "publishedAt": "2026-09-02T07:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1hdHRlbmJvcm91Z2g",
+      "title": "‘The whistling on the theme tune? That’s Dickie Attenborough!’ Hayley Mills on Whistle Down the Wind",
+      "description": "‘I’d just made two films in America. Shooting on a Lancashire farm was very different. There was mud everywhere – and we’d be eating dripping, jam butties and fried eggs in buns’ Whistle Down the Wind was originally a novel written by my mother, Mary Hayley Bell, about three children living on a farm in Sussex. The children – loosely based on my sister Juliet, my brother Jonathan and myself – discover a man in their barn. Thinking he’s Jesus, they decide to hide him and protect him from the adults because they don’t want the same thing to happen to him as before. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/aug/31/whistle-down-the-wind-hayley-mills-attenborough",
+      "image": "https://i.guim.co.uk/img/media/d9c7e76f7f0bed8c8b44adaf1fbc717900c96658/76_0_4550_3642/master/4550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6395cf8df821fa963d542590b76208f3",
+      "publishedAt": "2026-08-31T13:21:16.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -566,6 +602,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
+    },
+    {
+      "id": "guardian-dyZWF0LWphenotbWFu",
+      "title": "Everybody Digs Bill Evans review – absorbing delve into the tumultuous world of the great jazz man",
+      "description": "Grant Gee’s film thoroughly inhabits the creative and personal torment experienced by the American pianist – with a terrific supporting Bill Pullman turn This elusive, ruminative and very absorbing movie presents its successive scenes like a sequence of unresolved chords carrying the listener on a journey without a destination – and is, incidentally, one of those rare films featuring a wonderful supporting turn that does not undermine or upstage the rest. It’s a film about music, particularly, about what remains when a musician cannot play and is left to consider the terrible sacrifices made, without conscious consent, to this all-consuming vocation that creates family pain and jealousy almost as a toxic byproduct. It’s a drama to put you in mind of Glenn Gould and Hilary du Pré, sister of Jacqueline. Screenwriter Mark O’Halloran has adapted the 2013 novel Intermission by Owen Martell about renowned jazz pianist Bill Evans. It focuses on a period of emotional devastation for Evans, when no music was possible – perhaps a restorative intermission, perhaps the start of a calamitous new aridity – when his close friend and bassist Scott LaFaro was killed in a car crash in his 20s. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/feb/13/everybody-digs-bill-evans-review-absorbing-delve-into-the-tumultuous-world-of-the-great-jazz-man",
+      "image": "https://i.guim.co.uk/img/media/566d4a8c5d9424b528da7600eef298bf82723b2c/363_0_2364_1892/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b0f8b41acae502be8638d6843275146e",
+      "publishedAt": "2026-02-13T18:00:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     }
   ]
 }
