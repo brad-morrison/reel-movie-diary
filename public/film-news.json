@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T01:08:45.823Z",
+  "generatedAt": "2026-09-13T06:45:28.230Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-by0xMjM1MjE2NDY0Lw",
+      "title": "‘Vintage Violence’ Review: Too Much Is Never Enough in Eugene Kotlyarenko’s Overstimulating Crime Comedy",
+      "description": "TIFF: Gonzo bloodshed and manic camerawork are the focus in this over-the-top crime caper set in the Japanese vintage underworld.",
+      "url": "https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-1.jpeg?w=632",
+      "publishedAt": "2026-09-13T06:05:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1tb3RoZXItcmV2aWV3",
+      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Your Mother Your Mother Your Mother is premiering at the Toronto film festival and opens in select theaters in New York City and Los Angeles on 25 September, following a wider release on 2 October and 9 October Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
+      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fc78efc8b9a5dcec82d38a828e204be7",
+      "publishedAt": "2026-09-13T04:01:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE2NjI3Lw",
+      "title": "‘Your Mother Your Mother Your Mother’ Review: Faith, Family, and Firearms Drive Bassam Tariq’s Intriguingly Strange Action-Drama",
+      "description": "Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.",
+      "url": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/hero-image.fill_.size_1200x675.v1785962044.webp?w=650",
+      "publishedAt": "2026-09-13T04:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-2FsaW5kLWVsZWF6YXI",
+      "title": "Misty Green review – Chris Rock’s jumbled LA drama saved by fiery Rosalind Eleazar",
+      "description": "Toronto film festival: There’s a stunning lead performance from the breakout British actor but the film surrounding her can’t quite match what she’s bringing There’s a mighty, all-guns-blazing performance at the centre of Chris Rock ’s cynical Hollywood-set spiral Misty Green, a spark of fire almost put out by the relative dampness of the film surrounding. British actor Rosalind Eleazar, best known for her work in Slow Horses , has probably vaulted herself into a strangely underpopulated best actress race with her turn as a struggling actor trying to grapple her way back to the middle. Eleazar does enough here to go much higher. Misty has an Emmy for her role on still beloved TV series Red Eye but it sits on the shelf of an apartment paid for by a married, and recently deceased, benefactor, right next to the empty liquor bottles and a rolled-up bill used for last night’s cocaine. The film throws us into her final week there, as a brittle, short-tempered widow (Amy Landecker) gives her seven days to find somewhere else to live, not easy in a city like LA and even harder when she’s unable to find work. Her lack of employment is both a result of an industry that doesn’t have a place for someone like her (she’s “too black to be with Leo, not black enough to be with Damson, not a nepo baby and not a Brit”) and also her difficult temperament, stuck in a “one-sided beef with Shonda” and choosing wild, drug-fuelled nights over bright-eyed morning auditions. Misty Green is premiering at the Toronto film festival and is out in US cinemas on 9 October and will premiere at the London film festival in October with an Australian release to be announced Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/misty-green-review-chris-rocks-rosalind-eleazar",
+      "image": "https://i.guim.co.uk/img/media/c9bc0962974e7943bfc9e1cb95165f2f27439952/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=30d54ad15820215babbc30528391b8bf",
+      "publishedAt": "2026-09-13T03:30:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-NrLTEyMzUyMTYyODIv",
+      "title": "‘Misty Green’ Review: Rosalind Eleazar Stuns in Chris Rock’s Raw but Unfocused Hollywood Character Study",
+      "description": "TIFF: The \"Slow Horses\" star is tremendous as a faded Black TV actress whose tendency for self-sabotage threatens to derail her comeback role.",
+      "url": "https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https___cdn.sanity.io_images_xq1bjtf4_production_363fc46d9a1774bdd289e121ce9db18f03698689-6000x4000-H-2026.webp?w=650",
+      "publishedAt": "2026-09-13T03:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-ci0xMjM1MjE2NjcyLw",
       "title": "‘River’ Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
@@ -53,7 +113,7 @@
     },
     {
       "id": "guardian-WJsZS1sb3ZlLW5hemE",
-      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA",
+      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love and NAZA",
       "description": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice film festival just redeem itself on the sexism issue? It made a really good choice for the top prize, giving it to a female director, and it’s a good winners’ list all round. Having been pilloried for failing to include enough women film-makers , the festival awarded the Golden Lion to Woman Unknown , by the Danish-Egyptian director May el-Toukhy, her gripping and stylish drama-thriller about sexual shame, political paranoia and the return of the repressed in Denmark after the second world war. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
       "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ab04c6b5271cb32852ef3d1ca53a1e82",
@@ -160,18 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XctMTIzNTIxNjI3NC8",
-      "title": "After the Heartbreak of ‘Blade,’ ‘Your Mother Your Mother Your Mother’ Director Bassam Tariq Still Thanks Marvel for Helping Him ‘Think Big’",
-      "description": "TIFF: The filmmaker tells IndieWire how (and why) he re-teamed with star Mahershala Ali after they both exited \"Blade,\" and how that experience influenced his latest feature, already picking up lots of buzz on the festival circuit.",
-      "url": "https://www.indiewire.com/features/interviews/your-mother-your-mother-your-mother-bassam-tariq-interview-1235216274/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/YMX3_00324_R_rgb.jpg?w=650",
-      "publishedAt": "2026-09-12T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-G9uLWNvb2wtdW5jbGU",
       "title": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
       "description": "The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his meritocratic, democratic instincts. A brilliant and inexhaustibly creative man, self-effacingly charming and quietly spoken in a world of loudmouths and show-offs, and hypervigilant for new talent, was more like a cross between an entrepreneur, an enigmatically clever and kindly Cambridge don and the movie world’s favourite cool uncle, or maybe cool great-uncle. Respectively son and nephew of directors Ralph Thomas and Gerald Thomas (of Doctor in the House and Carry On fame), he was born into the industry and as an independent producer combined the confidence of an old-fashioned studio boss with the soul of a cineaste, backing his own instincts and passions, befriending film-makers and doggedly pursuing projects over years. Continue reading...",
@@ -182,18 +230,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNjI0OC8",
-      "title": "On ‘Lanterns,’ the Costumes Have a Bird’s-Eye View of the Characters",
-      "description": "Costume designer Cynthia Ann Summers tells IndieWire about taking inspiration from Tippi Hedren and Anthony Bourdain for HBO's latest superpowered mystery series.",
-      "url": "https://www.indiewire.com/features/craft/lanterns-costumes-interview-1235216248/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/aaron-pierre-laura-linney.jpg?w=650",
-      "publishedAt": "2026-09-12T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-dGFyb24tZWdlcnRvbg",
@@ -208,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-FkLTEyMzUyMTY0NzEv",
-      "title": "Jeremy Thomas, Oscar-Winning Producer for Bertolucci and Cronenberg, Dead at 77",
-      "description": "Jeremy Thomas won the Best Picture Oscar in 1988 for Bernardo Bertolucci's \"The Last Emperor.\" He's a key talking head in Luca Guadagnino's new documentary about the Italian filmmaker,\" \"Joie de Vivre,\" which just premiered in Venice.",
-      "url": "https://www.indiewire.com/news/breaking-news/jeremy-thomas-producer-dead-1235216471/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P115OA75.jpg?w=650",
-      "publishedAt": "2026-09-12T14:40:50.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-eHktYmVhc3QtZGllcw",
       "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
       "description": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including Sexy Beast, High-Rise and the multi-Oscar-winning The Last Emperor, has died aged 77. A representative for Thomas said he died on Friday “peacefully, at his country home in Oxfordshire, surrounded by his family and loved ones”. Continue reading...",
@@ -232,36 +256,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ctcmViZWwtd2lsc29u",
-      "title": "Girl Group review – Rebel Wilson’s dreadful music comedy is a spice-free wannabe",
-      "description": "Toronto film festival: the actor turned writer-director’s ode to girl groups is a shoddily made and embarrassingly unfunny catastrophe There were plentiful on-paper delights for certain music fans of a certain generation promised at Toronto’s splashy Friday-night premiere of pop comedy Girl Group. Posed as a tribute to the Spice Girls and the fizzy boom of girl power-fuelled music that came in their wake, its cast includes OG member Mel C, All Saints’ Shaznay Lewis, and Pussycat Dolls’ Ashley Roberts and Nicole Scherzinger while its soundtrack includes Glee-like covers of Destiny’s Child, En Vogue and Fifth Harmony, a feast for those who have recently felt famished. At a time when such music is still sadly rather thin on the ground, save for the manufactured kids pop of Katseye and the often effective yet more boutiquey throwback R&B of Flo, it seemed to be a reminder of how thrilling it all used to be back when such girl-pop supremacy felt impossibly never-ending, a form of nostalgia-bait that many of us could fully get behind. But there are not enough pandering nods to the past that will get even the most dedicated pop girlie through the five-alarm catastrophe that unfolded for those of us who bravely decided to stay awake (someone in front of me wisely chose the release of sleep within the first 30 minutes). Hailing from Live Nation Studios, also behind the Weeknd’s roundly ridiculed vanity project Hurry Up Tomorrow , but lit and shot like a pharmaceutical commercial, it barely even feels like a real movie let alone one that should be premiering at such a prestigious festival. It’s the clumsy handiwork of Rebel Wilson, a once in-demand comedy star who has been trying to chase her career highs in the years since. In a theoretically admirable move, she’s moved behind the camera to take control and reintroduce the kind of broad comedies she used to be a part of before they faded from the mainstream. Her directorial debut, a cheap and cheerful adaptation of Australian stage musical The Deb , was ultimately best known for being the subject of a nasty and prolonged court case , but it showed us how Wilson saw herself as a film-maker and which of her films she was most eager to relive *coughs* Pitch Perfect *ends cough*. Girl Group sees her return once again to that territory – female friendship, musical numbers, unfriendly competition – but with even lesser results. Girl Group is premiering at the Toronto film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/girl-group-review-rebel-wilson",
-      "image": "https://i.guim.co.uk/img/media/365ce48b19c915ff59d8a1c617da6b54d11ee4ad/526_0_1757_1406/master/1757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=9c351f325e3c6c2835eaa8f58ca5185b",
-      "publishedAt": "2026-09-12T13:20:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-mV0aC1kYXktbm92ZWw",
       "title": "Luke Evans: ‘As a child I was in love with Harrison Ford as Indiana Jones’",
       "description": "The Hobbit and Fast & Furious actor on the joy of strawberry laces, hating that he’s so hard on himself, and his sneaky way of leaving a meeting Born in south Wales, Luke Evans, 47, left school at 16 and trained at London Studio Centre before appearing in various West End shows. His films include Clash of the Titans, the Fast & Furious franchise, The Hobbit trilogy and Beauty and the Beast. He has released two albums and a memoir , was Tony-nominated for his role in The Rocky Horror Show on Broadway, and stars in The Party, an ITV adaptation of Elizabeth Day’s novel. He lives in Lisbon with his partner. When were you happiest? I’m always happy. Continue reading...",
       "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/luke-evans-actor-interview-the-party-itv-elizabeth-day-novel",
       "image": "https://i.guim.co.uk/img/media/cc102fe43bd0c1ef6ed906c3f0ebd603bc1b523b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef5d4aac97609fe7668f801119ef6065",
       "publishedAt": "2026-09-12T09:00:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-5pY2UtaW1tZXJzaXZl",
-      "title": "Extended reality takes visitors from the ruins of West Bank to 17th-century Amsterdam at Venice Immersive",
-      "description": "From frivolous to serious, virtual nosy passersby to the impact of climate change, the groundbreaking festival draws to a close – but this year the exhibits live on The first installation one encounters on visiting Venice Immersive, the film festival’s reliably head-spinning showcase for new media, is a chest-high metal box fitted with an eyepiece and two speakers. On peering inside you see a view of yourself from about 20ft above. You see the other guests walking past, a couple of pigeons on the ground. When one of these passersby lingers at your side for just a moment too long, the obvious impulse is to glance up from the eyepiece in order to see what they want. It is at this point that the experience blooms into a Lynchian nightmare. The passerby is not real – or rather, he’s only real in the box. He wears a blue suit and speaks with a heavy French accent and tells a tale that would sit badly in polite company. He says that I must have too much time on my hands, to stand hunched over this eyepiece for several minutes on end. “Why do people keep looking inside this box?” he demands. “What is it that they hope to see? It is not reality.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/extended-reality-takes-visitors-from-the-ruins-of-west-bank-to-17th-century-amsterdam-at-venice-immersive",
-      "image": "https://i.guim.co.uk/img/media/af980df5ff44d6b942f74ea758b190b8c5f8bdc4/242_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a884d0d844927ea33c0ddaedc4cceea",
-      "publishedAt": "2026-09-12T07:00:29.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
