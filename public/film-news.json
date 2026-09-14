@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:42:20.035Z",
+  "generatedAt": "2026-09-14T18:34:58.012Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,174 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ZvLTEyMzUyMTY5MDAv",
+      "title": "‘Prima Facie’ Review: Cynthia Erivo Stars in Tonally Confused Screen Treatment of Provocative #MeToo Stage Play",
+      "description": "TIFF: Erivo plays a formidable barrister who is forced to confront the system she once trusted in this disappointing screen version of the celebrated production.",
+      "url": "https://www.indiewire.com/criticism/movies/prima-facie-movie-review-cynthia-erivo-1235216900/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Prima-Facie_01a.webp?w=650",
+      "publishedAt": "2026-09-14T18:16:47.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE2ODM4Lw",
+      "title": "‘Anchors Aweigh’ Review: One Man’s Alt-Comedy Millennial Meltdown Gets a Hybrid Documentary Gloss in Matt Barats’ Second Feature",
+      "description": "Finally, a (very funny) movie that dares to ask: \"What if Ross McElwee were an idiot?\"",
+      "url": "https://www.indiewire.com/criticism/movies/anchors-aweigh-movie-review-matt-barats-1235216838/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AnchorsAweigh_Still_HERO.jpg?w=650",
+      "publishedAt": "2026-09-14T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Luke Evans reveals his secret to surviving Hollywood",
+      "description": "The star discusses his \"emotional connection\" to his character in a new ITV drama, The Party.",
+      "url": "https://www.bbc.co.uk/news/articles/cr50zqlmg7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4969/live/6cb45670-b056-11f1-9902-771b6dd8af6a.jpg",
+      "publishedAt": "2026-09-14T17:01:07.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTY4NzYv",
+      "title": "‘The Last Photograph’ Review: Zack Snyder’s Shallow Two-Hander Is a Dull, Grotesquely Violent Revenge Thriller",
+      "description": "TIFF: A superficial departure from his grandiose norm, Snyder’s homage to “The Searchers” purports to have morality on its mind, but mostly just wants to get back to killing.",
+      "url": "https://www.indiewire.com/criticism/movies/the-last-photograph-review-zack-snyder-1235216876/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TLP_TIFF_Still_Select_01_v2_-_Reformatted.webp?w=650",
+      "publishedAt": "2026-09-14T16:26:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-b21hcy1vYml0dWFyeQ",
+      "title": "Jeremy Thomas obituary",
+      "description": "Film producer who enjoyed his greatest success with the 1987 epic The Last Emperor for which he won an Oscar Asked whether he had ever cautioned restraint from a director, the film producer Jeremy Thomas replied: “My nature would be to go further and see what we can get away with.” Thomas, who has died aged 77, was an expert in getting away with it. A taste for irreverence ran in his family: he was the son of Ralph Thomas , director of the Doctor … comedies that began in 1954 with Doctor in the House, and the nephew of Gerald Thomas, who made all 31 Carry On titles. Jeremy’s own films, however, were risky rather than risque. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
+      "image": "https://i.guim.co.uk/img/media/e309f533d7a91c5cb7107d3901b3de39e7660482/305_35_2191_1753/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1bbe20ff2299cbcb4dacd92d392a5c3",
+      "publishedAt": "2026-09-14T16:08:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3ItMTIzNTIxNjg1NC8",
+      "title": "‘Idiocracy’ at 20: How a Failed Comedy Became an Unlikely Metaphor for America",
+      "description": "IndieWire talks to co-writer Etan Cohen, former 20th Century chairman Tom Rothman, and more about how Mike Judge's movie that once had a nonexistent theatrical release became one of the definitive films about the U.S.",
+      "url": "https://www.indiewire.com/features/interviews/idiocracy-turns-20-how-failed-comedy-became-metaphor-1235216854/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDIDIO_FE008.jpg?w=650",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-HMtMTIzNTIxNjgzNi8",
+      "title": "‘Closing Night’ Review: Even Sarah Paulson and Naomi Watts Can’t Save This Mangled Misfire of a Melodrama",
+      "description": "TIFF: Cody Fern's feature directorial debut lured a murderer's row of exceptional acting talents, but its wildly uneven tone and handle on tricky material do none of them any favors.",
+      "url": "https://www.indiewire.com/criticism/movies/closing-night-review-sarah-paulson-naomi-watts-1235216836/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Closing-Night.jpg?w=650",
+      "publishedAt": "2026-09-14T14:38:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Y2hpbGQtY3Jhd2xlcg",
+      "title": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
+      "description": "‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’ I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I pitched them a project – actually a feature-length version of my student graduation film – about zombies on an oil rig. They liked it but said it was too expensive, so on the train back to Newcastle I was asking myself what would make a really scary horror film that could be contained and so made on a budget. I was thinking of things set in the dark and was like, well … caves . At the back of my mind was a school trip to a lead mine where the guide had said, “OK, everybody, turn your lights off” and, for the first time, I experienced a darkness that I just couldn’t fathom. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler",
+      "image": "https://i.guim.co.uk/img/media/319516ea75c79346800cbb6f3b3a518ff1b5c89e/859_496_1736_1389/master/1736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c2d4293c7b80526633be59b81e4a9a",
+      "publishedAt": "2026-09-14T14:23:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE2ODQ1Lw",
+      "title": "‘Ladies and Gentlemen, Brian Mulroney’ Review: Matthew Rankin’s Psychedelic Tour Through Mid-Century Canadian Conservative Politics",
+      "description": "The story of Brian Mulroney’s political ascent doubles as a critique of televisual culture and a snapshot of a less extreme political era.",
+      "url": "https://www.indiewire.com/criticism/movies/ladies-and-gentlemen-brian-mulroney-movie-review-1235216845/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images-4.jpeg?w=650",
+      "publishedAt": "2026-09-14T14:08:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE2ODMwLw",
+      "title": "‘Evil Genius’ Review: Patricia Arquette and David Harbour Take on a Horrifying True Crime Story",
+      "description": "TIFF: Courteney Cox directs a grating, mean-spirited exercise in punching down based on the notorious 2003 case.",
+      "url": "https://www.indiewire.com/criticism/movies/evil-genius-review-patricia-arquette-david-harbour-bomber-1235216830/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/EVIL-GENIUS-TIFF-Still.jpg?w=650",
+      "publishedAt": "2026-09-14T13:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XYtMTIzNTIxNjgyNS8",
+      "title": "‘Minotaur’ Trailer: Thrilling, Cannes-Winning Russian Noir Updates ‘Unfaithful’ for Even More Hopeless Times",
+      "description": "Andrey Zvyagintsev nearly died in the years between making Oscar nominee \"Loveless\" and his latest, \"Minotaur,\" due to COVID complications. He's back in full miserable glory.",
+      "url": "https://www.indiewire.com/news/trailers/minotaur-trailer-zvyagintsev-1235216825/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.22.34 PM.png?w=650",
+      "publishedAt": "2026-09-14T13:25:24.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "bbc-F9jYW1wYWlnbj1yc3M",
+      "title": "This is what women in sport look like - female athletes hit back",
+      "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-14T13:17:47.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTY3OTEv",
+      "title": "Andrew Scott Knew How to Play Hamlet, but ‘Elsinore’ Required Him to Channel Another Actor",
+      "description": "\"Elsinore\" is wowing audiences and critics on the fall festival circuit, with Scott now in the Best Actor race.",
+      "url": "https://www.indiewire.com/awards/consider-this/andrew-scott-elsinore-hamlet-ian-charleson-interview-1235216791/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294951423.jpg?w=650",
+      "publishedAt": "2026-09-14T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-XRzaWRlLXRoZS1ib3g",
+      "title": "In an age of superhero fatigue, Marvel’s best shot is to think small – and outside the box",
+      "description": "Sebastian Stan says he pitched Marvel a mid-budget thriller starring his Winter Soldier character. Perhaps the studio should give it – and other modestly scaled vehicles – the green light Blink a little and you might think we are back in 2019. The latest Spider-Man film, Brand New Day, has just passed $2.4bn at the global box office, to become the third-highest grossing film of all time behind Avatar and Avengers: Endgame. Meanwhile Avengers: Doomsday is reported to have already earned more than $50m in US ticket presales alone, despite the fact that it doesn’t come out until December. Clearly we are in the middle of a superhero renaissance. And yet it doesn’t really feel like it, largely because it is something of a turnaround for Marvel, after a pretty disappointing 2025 in which all three of the studio’s releases underperformed. Captain America: Brave New World took $415m worldwide, Thunderbolts* managed $382m and even the well-reviewed The Fantastic Four: First Steps stalled at $521m, against a reported $200m budget. These are hardly Madame Web numbers but they do suggest there is still a problem about what to do with all those superheroes who cannot sustain a $300m multiversal extravaganza. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/superhero-fatigue-marvel-best-shot-think-small-outside-the-box",
+      "image": "https://i.guim.co.uk/img/media/68db37f2579030e478f576913eb23782c8ee2cb0/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6cbdfdb70b32865d415c386d0090a259",
+      "publishedAt": "2026-09-14T12:46:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-9oLTEyMzUyMTY3NzUv",
       "title": "‘The Surgeon’ Review: Michelle Yeoh Doctors a Gang of Mobsters to Death in a Fun Little Action Movie That Gets by on Its Grossness",
@@ -28,16 +196,28 @@
       "category": "Reviews"
     },
     {
-      "id": "bbc-F9jYW1wYWlnbj1yc3M",
-      "title": "This is what women in sport look like - Hunt",
-      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-14T09:43:18.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-C1idW5ueS1zdGlsbHo",
+      "title": "Barrio Triste review – raw and dynamic portrait of anarchic slum life in 1980s Medellín",
+      "description": "Bad Bunny collaborator Stillz’s debut feature shot using Betacam focuses on vibes over plot Best known as the creative mind behind the music videos of Puerto Rican rapper and singer Bad Bunny, Stillz has risen to the top of the industry as an in-demand director and photographer. Interestingly, for his feature-film debut, Stillz has turned away from the glitz and glamour of celebrity to fix his lens on the underdog. Shot on Betacam video and set in the crime-ridden neighbourhoods of 1980s Medellín, Barrio Triste opens with an unexpected act of rebellion: having snatched a camera from a television crew, a group of young men head out on an anarchic joyride and film their exploits in the process. Previously rendered invisible by the system, they have inserted themselves into a tool of mainstream media. There are moments of crisis here and there – the restless band of youths attempt a robbery and even kill a hostage – yet the primary focus seems to be on vibes rather than plot. The ever-roving camera not only channels the agitated psyche of the main characters but also drums up the chaotic pace of Medellín’s underbelly. One particularly memorable sequence moves from the peculiar sight of a punk duo practising on a rooftop to the garbage-strewn streets, during which seemingly benign interactions can quickly escalate into heated altercations. Echoing the handheld cinematography, life in the slums is unmoored and precarious, as if the ground might give way at any second. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/barrio-triste-review-anarchic-slum-life-1980s-medellin-bad-bunny-stillz",
+      "image": "https://i.guim.co.uk/img/media/c9129e33858b6aa6b07c46b38ead8971906f2a5f/26_0_1749_1400/master/1749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=acf0a6b3c30201f435c4d038add9b2f6",
+      "publishedAt": "2026-09-14T12:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZvdXJpdGUtcm9kZW50",
+      "title": "The Route to Cappyness review – capybara boosterism is an ode to the internet’s favourite rodent",
+      "description": "From a cappy-cafe owner in Japan to an escaped capybara in the UK, this homespun film takes the temperature of an international obsession One of Midlands-based film-maker Sharon Walia’s previous works was The Keepers of the Pigs , proudly described on her production company’s website as “the first ever documentary about guinea pigs”. So it makes zoological sense that her latest film takes on capybaras, guinea pigs’ ridiculously cute semi-aquatic cousins that are indigenous to Latin America, and relatively recently became ubiquitous on social media in memes and short films alike. As glimpsed here, there was even a capybara in the recent Academy Award-winning animated feature Flow , some pro-cappy boosterism that captured the creatures’ chill vibe and snuffly sweetness. Walia’s celebration of the species stays on script, rejoicing in the animals’ natural geniality, friendliness to other species in their natural habitat, and their compelling, remunerative charm that seems to have bolstered the fortunes of several animal attractions around the world. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/the-route-to-cappyness-review-capybara-boosterism-is-an-ode-to-the-internets-favourite-rodent",
+      "image": "https://i.guim.co.uk/img/media/03d41308c30ffa53a3973a71766573a4d69f6365/0_282_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=89a599e66e7abda5ff3b3d298ac4ff10",
+      "publishedAt": "2026-09-14T10:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-mVlbGdvb2QtbW92aWU",
@@ -58,42 +238,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/14/goody-goody-review-childbirth-drama",
       "image": "https://i.guim.co.uk/img/media/2cfcf462d1cff0a56fb8ce7fea6e532133fb79b9/203_0_5838_4672/master/5838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a15c0003d16acb4edb46a13420aeb43f",
       "publishedAt": "2026-09-14T08:00:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-plbnNoaXAtbnR3bmZi",
-      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-      "description": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f94f6898296463d5ccfcd2ac09fe4e2c",
-      "publishedAt": "2026-09-14T07:28:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-bC1hZ2UtbWluZHNldA",
-      "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
-      "description": "Digital-age Australian psychodrama tracks the shut-in mania of dangerously disaffected male fan, but doesn’t get inside his mind If the parasocial phenomenon is a kind of hell, then Max Wren, protagonist of this Australian digital-age psychodrama, resides in the ninth circle. Self-barricading in a basement room surrounded by screens, working on a documentary about the object of his disaffection (an enigmatic influencer called Lenore), this obsessive shut-in makes Eminem’s Stan look like the Dalai Lama. Touching on subjects including the attention economy, the male gaze, and incel isolation and misogyny, director David Ward feels both Max and Lenore’s pain. But his ungainly debut film doesn’t fully transcend its stage origins to capture the splintered headspace of the terminally online. Like films about fictional pop stars that feature unconvincing music, it doesn’t help that the quickfire résumé of Lenore’s career only half-conveys her magnetism. A one-time beauty influencer called Veronica Brand, she later graduates to more extreme performance art-type stunts, such as livestreaming her miscarriage; a move that, spliced without her knowledge into a children’s TV broadcast, forced her into hiding. But this performative vulnerability, including hints of her abusive dad, apparently won her legions of OnlyFans-style acolytes. Not just Max, but also his colleague Sam (Sam Macdonald), a brash interloper outraged to find he was nothing special to Lenore and who turns up at Max’s door offering exclusive footage of her. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/lenore-review-incels-obsession-with-online-influencer-turns-into-anatomy-of-dislocated-digital-age-mindset",
-      "image": "https://i.guim.co.uk/img/media/2f75e6c5307a034f48dfaf0555bd1a2129342ca9/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ef3c391f8c0f42457be869f8b0157b70",
-      "publishedAt": "2026-09-14T06:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-i1zaGVkZC1yZXZpZXc",
-      "title": "The Life and Deaths of Wilson Shedd review – Amanda Seyfried compels in wrenching prison drama",
-      "description": "Toronto film festival: Tim Blake Nelson writes and directs a challenging, and unsettling, look at empathy and forgiveness that strikes a haunting note There are troubling questions posed in Tim Blake Nelson’s effectively glum prison drama The Life and Deaths of Wilson Shedd, a film that will rank among the most overwhelmingly feel-awful experiences of this year’s Toronto film festival . It’s a story told in a disarmingly folksy manner with plucked guitar strings and down south homespun wisdom before it quietly reveals itself to be about something far more serious and startling, elements of an escape thriller but mostly an unsettling moral drama. It’s likely to upset and enrage some but even those who might feel offended will at least feel something , a quality not to be sniffed at during a festival that can often pick politeness over provocation. It’s the new film from actor turned writer-director Nelson, whose work has often tended to confront and dissect difficult issues. He went to Auschwitz in The Grey Zone, transported Shakespearean tragedy to high school in O, and handled both rape and suicide in his debut Eye of God. It’s a fine line between grimness for the sake of grimness and being unwilling to shy away from grimness, and at times I wondered whether I was being overly prodded, whether certain scenes were bordering on exploitative. I left rattled by what I’d seen and what I was being forced to reckon with, but I think Nelson just about justifies himself and how far he goes partly because he does, in crucial moments, avoid showing more than is needed. The Life and Deaths of Wilson Shedd is premiering at the Toronto film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/13/life-and-deaths-of-wilson-shedd-review",
-      "image": "https://i.guim.co.uk/img/media/6ce022ad5fe746be60b44e004346081742488577/318_0_1328_1063/master/1328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c94ffb855cc23938104630f0e917cc32",
-      "publishedAt": "2026-09-14T03:30:21.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -124,42 +268,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-mV2aWV3LXRvcm9udG8",
-      "title": "Love of Your Life review – Margaret Qualley eats, grieves and loves in Amazon’s transporting saga",
-      "description": "Toronto film festival: the actor gives one of her best performances to date in a smoothly made globe-trotting drama of a woman’s life after the loss of her husband There’s a jump scare about 30 minutes into the glossy romantic drama Love of Your Life that’s about as effective as anything you’ll see in a horror movie this year. The film is focused on the life and loves of Maya (Margaret Qualley), a twentysomething Boston nurse who meet-cutes with the nerdy and idiosyncratic Felix (Gabriel Basso) during the purchase of a nightstand. We follow the initial giddy rush of their courting as they progress all the way to an impromptu wedding over the course of a few years, marked by Maya’s change in age announced in text. But just as we’re about to process the unsettling introduction of Felix using Chekhov’s inhaler, a news report interrupts the sunny tone. Spoiler: it’s March 2020. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto",
-      "image": "https://i.guim.co.uk/img/media/fe8ee98b03cbaba5fc6fea1346573ede5c0cda71/795_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=853eec304c0219ccbe83b80539d3f838",
-      "publishedAt": "2026-09-14T02:30:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V5LTEyMzUyMTYzMjEv",
-      "title": "‘Love of Your Life’ Review: Margaret Qualley Plays a Woman Adrift in the Kind of Lush and Tender Romantic Drama Hollywood Rarely Makes Anymore",
-      "description": "TIFF: Rachel Morrison's second feature stars Margaret Qualley as a Boston nurse who beautifully crashes out after her marriage dies.",
-      "url": "https://www.indiewire.com/criticism/movies/love-of-your-life-movie-review-margaret-qualley-1235216321/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LOYL_TIFF_FirstLook.jpg?w=650",
-      "publishedAt": "2026-09-14T02:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE2MjcxLw",
-      "title": "‘Lanterns’ Review: Episode 5 Lights Up Rushville with a Sh*tstorm of Consequences — Spoilers",
-      "description": "Hal's recklessness finally catches up to him, John's dubiousness pays hard-won dividends, and one case comes to a definitive, devastating end — leaving three full episodes to address that other investigation.",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-5-review-lights-out-rushville-spoilers-1235216271/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-5-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
-      "publishedAt": "2026-09-14T02:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
       "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
@@ -169,90 +277,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE2NzU0Lw",
-      "title": "‘How We Stand’ Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale",
-      "description": "TIFF: Marie Clements' \"How We Stand\" ambitiously seeks to examine hidden and violent sociopolitical aspects of recent Indigenous history through a deeply personal lens.",
-      "url": "https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/how_we_stand_01.webp?w=650",
-      "publishedAt": "2026-09-13T20:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-1wLTEyMzUyMTY3MDcv",
-      "title": "Why Do Men Keep Telling Anna Biller She’s ‘Camp’?",
-      "description": "TIFF: After nearly quitting filmmaking, \"The Love Witch\" director returns with \"The Face of Horror\" — and tells IndieWire why she believes her bloody medieval tragedy is already being misunderstood.",
-      "url": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1082M4T-e1789310363601.jpg?w=650",
-      "publishedAt": "2026-09-13T19:33:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mctMTIzNTIxNjczMy8",
-      "title": "‘The Uprising’ Bombs at Box Office Despite Last-Ditch Scramble to Market Film as Robin Hood Origin Story",
-      "description": "Paul Greengrass's historical epic opens with an anemic $3.25 million, becoming the latest film about the outlaw to fall flat.",
-      "url": "https://www.indiewire.com/news/box-office/the-uprising-bombs-box-office-robin-hood-marketing-1235216733/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/4261_D027_00165rc.jpg?w=650",
-      "publishedAt": "2026-09-13T19:20:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMTY0MTYv",
-      "title": "From Tragedy to ‘Everest’: Inside Jimmy Chin and Chai Vasarhelyi’s Most Ambitious Film Yet",
-      "description": "Summiting the North Side of Everest and skiing down was a feat. So was filming it. In the NatGeo documentary \"Everest: The Other Side,\" we not only witness ski-mountaineer Jim Morrison's athletic heroism, but also Jimmy Chin's filmmaking prowess. This could be an Oscar contender.",
-      "url": "https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3104.jpeg?w=650",
-      "publishedAt": "2026-09-13T18:40:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5lLTEyMzUyMTY2MTcv",
-      "title": "‘I Play Rocky’ Review: Sylvester Stallone’s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
-      "description": "TIFF: Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.",
-      "url": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp?w=650",
-      "publishedAt": "2026-09-13T18:30:04.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-GUtMTIzNTIxNjE1NS8",
-      "title": "‘Mr. Irrelevant’ Trailer: David Corenswet Toughs and Smiles His Way to the NFL as Last Draft Pick John Tuggle",
-      "description": "Jonathan Levine directs the inspiring sports story that opens in theaters from Paramount and Skydance Sports on Christmas Day.",
-      "url": "https://www.indiewire.com/news/trailers/mr-irrelevant-trailer-david-corenswet-john-tuggle-1235216155/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MRIR_21081R_1.jpg?w=650",
-      "publishedAt": "2026-09-13T17:25:54.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIxNjY2NC8",
-      "title": "‘Practical Magic 2,’ the Sequel to a 28-Year-Old Box Office Bomb, Opens to Lackluster $30 Million",
-      "description": "Hey Hollywood, stop giving us sequels we didn't ask for to movies that opened way too long ago for us to care.",
-      "url": "https://www.indiewire.com/news/box-office/practical-magic-2-box-office-bomb-sandra-bullock-nicole-kidman-1235216664/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPRMA_WB008.jpg?w=650",
-      "publishedAt": "2026-09-13T16:01:49.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -266,30 +290,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LWNhbGViLWhlYXJvbg",
-      "title": "Trash Mountain review – Caleb Hearon’s coming home indie is a funny if familiar journey",
-      "description": "Toronto film festival : a city-dwelling gay guy has to go home to rural Missouri after his father dies in this Sundance-by-numbers comedy drama that has its moments It might be premiering at Toronto 2026 but we’re very much back at Sundance in the late 2000s/early 2010s with Trash Mountain, an indie-by-numbers not without its charms. It’s the story of a city-living twentysomething who has to travel back to his rural hometown after the death of his father and contains a lot of what that logline would suggest. Awkwardly bumping into an old schoolmate in the dollar store – check. Brief romance with a charming local – check. Wacky grandmother played by an esteemed character actor – check. Scene of a stuffy local shocked at lead character’s bracing humour – check. Scene of a wise local giving lead character salient and miraculously well-timed advice – check. It’s not as if these elements haven’t worked well before and it’s not as if some of them don’t work well here (especially when compared to a recent heinous example ), it’s just often harder to stomach such obvious formula in a film that is positioned as something so personal made somewhat outside of the system (despite boasting Jurassic World director Colin Trevorrow and Lilly Wachowski, who was originally set to direct, as producers, it was made in 18 days on a shoestring budget). Trash Mountain is premiering at the Toronto film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/13/trash-mountain-review-caleb-hearon",
-      "image": "https://i.guim.co.uk/img/media/723a63e21e1874731da162030db5f6689868374f/761_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ec46f2f588d3157b0c57c849eebf78fa",
-      "publishedAt": "2026-09-13T12:28:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mV2aWV3LWFhcmRtYW4",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom review – Aardman’s spooky-season caper sparkles with fun",
-      "description": "There’s trouble afoot when Shaun’s pumpkin-supersizing serum ends up in a balding farmer’s hair growth bottle in this third cinematic adventure Summer is over and Halloween is on the way … not for a fair bit, of course, but if all the UK’s Halloween merch and continuing pop culture content is up to the standard of this film, then no one is going to be complaining. This is the third in Aardman’s thoroughly enjoyable and cleverly written Shaun the Sheep stop-motion franchise of what are effectively silent movies, with a few intelligible words. It is the story of gutsy and heroic sheep involved in amazing adventures in the sleepy village of Mossy Bottom, starring characters who first appeared in the Wallace and Gromit short film A Close Shave . This one is another excellent family film, crammed as ever with top visual gags, great throwaway references and, of course, a homemade Heath Robinson contraption, so often to be found in Aardman films. We get nods to The Archers, The Wombles and The Simpsons; there’s a wacky chase worthy of What’s Up, Doc?; a homage to the notorious waxing scene from Judd Apatow’s The 40-Year-Old Virgin; and even what appears to be a brief visual walk-on for George Bernard Shaw as Bigfoot. As ever with Shaun the Sheep and Aardman Animations generally, the standard of writing is extremely high and the script here, from Mark Burton and Giles Pilbrow, sparkles with good-natured fun. One high-street hairdressing salon in the wool-producing district where it’s set is called Barber Black Sheep – and if no real-life shop has stolen this joke yet, they ought to. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/13/shaun-the-sheep-the-beast-of-mossy-bottom-review-aardman",
-      "image": "https://i.guim.co.uk/img/media/3fa9cebb392048db5203664fcabbb1c911e7f258/592_0_3600_2883/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=20099938418f10f48e793781e4f49416",
-      "publishedAt": "2026-09-13T11:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -316,6 +316,30 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-lhbC1qdXJ5LXByaXpl",
+      "title": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
+      "description": "May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA May el-Toukhy’s Woman Unknown has scooped the Golden Lion at the Venice film festival, at an awards ceremony that also saw the Gaza documentary NAZA win the jury prize. Set in the immediate aftermath of Danish liberation from Nazi occupation, the Egyptian-Danish director’s film tells the story of a young housemaid, Marie (Mathilde Arcel), who is about to marry her widowed employer but anxious about him discovering a shameful secret in her past: during the war, Marie had an intimate relationship with a German soldier. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
+      "image": "https://i.guim.co.uk/img/media/e728a70a17ef1893740beef47281ee0b88d48838/316_0_3616_2894/master/3616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25a0ee940b7097f5142147e4c72f6af7",
+      "publishedAt": "2026-09-12T21:17:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WJsZS1sb3ZlLW5hemE",
+      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love and NAZA",
+      "description": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice film festival just redeem itself on the sexism issue? It made a really good choice for the top prize, giving it to a female director, and it’s a good winners’ list all round. Having been pilloried for failing to include enough women film-makers , the festival awarded the Golden Lion to Woman Unknown , by the Danish-Egyptian director May el-Toukhy, her gripping and stylish drama-thriller about sexual shame, political paranoia and the return of the repressed in Denmark after the second world war. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
+      "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ab04c6b5271cb32852ef3d1ca53a1e82",
+      "publishedAt": "2026-09-12T21:07:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
       "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
@@ -325,6 +349,18 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-G9uLWNvb2wtdW5jbGU",
+      "title": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
+      "description": "The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his meritocratic, democratic instincts. A brilliant and inexhaustibly creative man, self-effacingly charming and quietly spoken in a world of loudmouths and show-offs, and hypervigilant for new talent, was more like a cross between an entrepreneur, an enigmatically clever and kindly Cambridge don and the movie world’s favourite cool uncle, or maybe cool great-uncle. Respectively son and nephew of directors Ralph Thomas and Gerald Thomas (of Doctor in the House and Carry On fame), he was born into the industry and as an independent producer combined the confidence of an old-fashioned studio boss with the soul of a cineaste, backing his own instincts and passions, befriending film-makers and doggedly pursuing projects over years. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-film-producer-kindly-cambridge-don-cool-uncle",
+      "image": "https://i.guim.co.uk/img/media/b2637884dabdcfd9f884733e29083a53156ee297/555_0_2919_2336/master/2919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=88ddc7451d81435311ebddd7b86ed677",
+      "publishedAt": "2026-09-12T15:42:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -578,30 +614,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-hhcmJvdXItbWFydmVs",
-      "title": "David Harbour has blown Tony Stark’s cover in Avengers: Doomsday. It might just be what Marvel needs",
-      "description": "The actor, who plays Red Guardian in the film, made a cryptic comment to Variety that raised more Robert Downey Jr-shaped questions than answers. But was it a clanger, or expert trolling? Nobody knows exactly what solemn blood oaths Marvel uses to prevent spoilers. But we do know that Andrew Garfield spent most of the run-up to 2021’s Spider-Man: No Way Home – in which he would eventually turn up as one of two secret Spideys – behaving as if Kevin Feige was standing behind him, holding up a giant card saying: YOU HAVE NEVER MET TOBEY MAGUIRE . So we can imagine it’s pretty full on. Why, then, has Avengers: Doomsday star David Harbour this week apparently blurted out the biggest Marvel secret since Ben Kingsley’s Mandarin in Iron Man 3? Invited by Variety magazine to offer up a line from Doomsday “completely out of context”, Harbour thought for a moment, adopted the Russian accent of his Red Guardian character and came out with : “You … are Tony Stark.” Which is quite a thing to say about a film whose entire marketing campaign so far has depended on us accepting that Iron Man remains dead, and that the actor who used to play him, Robert Downey Jr, is playing Victor von Doom instead. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/21/avengers-doomsday-robert-downey-jr-tony-stark-david-harbour-marvel",
-      "image": "https://i.guim.co.uk/img/media/5265b5bc6b4d40f51ab3ace99869c720fa129b2e/200_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=da5f5841b23b47b42195c69f4830bcf1",
-      "publishedAt": "2026-08-21T15:37:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aXF1ZS1zcG9pbGVycw",
-      "title": "Chris Carter is mistaken if he thinks more gore will bring The X-Files: I Want to Believe back to life",
-      "description": "The director’s cut includes a host more body parts but no more insight into the villains’ personalities. What could be a gothic masterstroke is turned into a dreary procedural in the snow Warning: this article contains spoilers Everyone loves a director’s cut. But unlike some, The X-Files: I Want to Believe – Vrach Frankenshteyn, which debuted on Friday on Disney+, is not the kind of director’s cut that will radically alter critical perspectives on the original 2008 film . Much has been made, mainly by director and X-Files creator Chris Carter , of the new version’s grisly additions. But there is still so much about this movie that is underwritten, preposterous and lacking in basic dramatic intrigue that upping its body horror quotient merely makes the same old problems slightly more unpleasant to look at. Perhaps unsurprisingly, this new version is hidden away behind the “Extras” tab for the original film. For those who have sensibly forgotten, I Want to Believe reunites Mulder (David Duchovny) and Scully (Gillian Anderson) several years after their departure from the FBI, when a female agent disappears and the bureau’s only lead comes from a disgraced former Catholic priest (Billy Connolly) who claims to be receiving psychic visions. So far, so X-Files. The priest, Father Joe, is a convicted paedophile who abused dozens of altar boys, which gives Scully some fairly understandable reservations about accepting his apparent supernatural gifts at face value. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/17/chris-carter-x-files-i-want-to-believe-directors-cut-critique-spoilers",
-      "image": "https://i.guim.co.uk/img/media/de77119a1d63b39ebd19832a537bb70bde8c0ac9/175_0_2492_1993/master/2492.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=11f236631b33c8534606131af4b2926d",
-      "publishedAt": "2026-08-17T10:14:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     }
   ]
 }
