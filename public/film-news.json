@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:57:08.117Z",
+  "generatedAt": "2026-09-14T12:42:20.035Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9oLTEyMzUyMTY3NzUv",
+      "title": "‘The Surgeon’ Review: Michelle Yeoh Doctors a Gang of Mobsters to Death in a Fun Little Action Movie That Gets by on Its Grossness",
+      "description": "Roshan Sethi M.D.'s second feature is a \"Taken\" riff that trades guns for scalpels to great effect.",
+      "url": "https://www.indiewire.com/criticism/movies/the-surgeon-movie-review-michelle-yeoh-1235216775/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TSU_4K-Scope_-aces-r709_1.194.1-H-2026.webp?w=650",
+      "publishedAt": "2026-09-14T12:10:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-F9jYW1wYWlnbj1yc3M",
+      "title": "This is what women in sport look like - Hunt",
+      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-14T09:43:18.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mVlbGdvb2QtbW92aWU",
+      "title": "‘I never pass up a rewatch’: why Valley Girl is my feelgood movie",
+      "description": "The latest in our series of writers explaining their most rewatched comfort films brings us back to 1980s LA As a teenager growing up in the 1990s, I was deeply obsessed with all things 1980s pop culture. Chalk it up to nostalgia for my Care Bears-filled childhood – or a stubborn adolescent desire to separate myself from the Dave Matthews Band-loving, khaki-wearing kids at my high school. (Mission accomplished: it’s safe to say I was the only person I knew rocking a bandana tied around my pants leg or a Wild Boys-era Duran Duran shirt.) Back then, I was especially drawn to 1980s teen movies. In my own life, I was having zero luck finding a New Romantic Romeo; instead, I pined after artsy, sensitive boys who didn’t know I existed. But throughout these films, even the most awkward characters managed to find a happy ending, with the ultimate examples being Samantha (Molly Ringwald) in Sixteen Candles landing hunky Jake Ryan or Stacy (Jennifer Jason Leigh) linking up with Rat (Brian Backer) in Fast Times at Ridgemont High. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/711bbc03ae93b11a385f2f4665bb4a37310ff7e8/210_0_2360_1888/master/2360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b13c066b575ecbe6a261298420899992",
+      "publishedAt": "2026-09-14T09:00:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-WxkYmlydGgtZHJhbWE",
+      "title": "Goody Goody review – intriguing natural childbirth horror lurches into demonic occult blowout",
+      "description": "After Samantha Robinson decides a forest cabin in deep winter is the perfect spot to bear her child, it’s going to be a very bad shift for the doula and midwife Conception, pregnancy and childbirth are defining human experiences, and so remain perennial themes for horror, from Rosemary’s Baby to the Alien franchise to Prevenge . Occupying a no-woman’s-land between life and death, they’re innately anxiety-inducing, perhaps making it harder for film-makers to supply a truly individual take. Debut director Raymond Creamer comes close by initially digging into the interpersonal dynamics around the home-birthing pool of a headstrong mother-to-be, before he defaults into a schlocky creature feature. Goody (Samantha Robinson) is in the pool, ready for battle, soaking in good vibes beamed at her by husband Jayson (Colby Hollman), his doula sister Candace (Zoe Renee) and their rock, midwife Sarah (Colleen Foy). But shaken by weirdly spaced contractions, Sarah takes Jason aside and admits that she has a bad feeling. It’s not purely premonition: a flashback reveals, in contrast to the new-age love-in around the tub, Goody’s insistence against Sarah’s advice that she give birth in winter at their forest cabin. The midwife fears it will make going to hospital too difficult should anything go wrong – and only agrees to supervise because Goody will probably go ahead solo if she pulls out. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/goody-goody-review-childbirth-drama",
+      "image": "https://i.guim.co.uk/img/media/2cfcf462d1cff0a56fb8ce7fea6e532133fb79b9/203_0_5838_4672/master/5838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a15c0003d16acb4edb46a13420aeb43f",
+      "publishedAt": "2026-09-14T08:00:27.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-plbnNoaXAtbnR3bmZi",
+      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
+      "description": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f94f6898296463d5ccfcd2ac09fe4e2c",
+      "publishedAt": "2026-09-14T07:28:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-bC1hZ2UtbWluZHNldA",
       "title": "Lenore review – incel’s obsession with online influencer turns into anatomy of dislocated digital-age mindset",
@@ -100,23 +160,11 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-plbnNoaXAtbnR3bmZi",
-      "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-      "description": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f94f6898296463d5ccfcd2ac09fe4e2c",
-      "publishedAt": "2026-09-14T00:54:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
       "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
       "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ee34/live/754b5420-8b33-11f1-b170-2de1c3aec73b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a8ab/live/1b6694c0-b017-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-13T23:21:00.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -208,18 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ZvLTEyMzUyMTYyNTUv",
-      "title": "How Susanna White Brought Lauded One-Woman Play ‘Prima Facie’ to the Big Screen (Casting Cynthia Erivo Helped)",
-      "description": "TIFF: The director tells IndieWire that turning the celebrated one-woman play into a feature film with multiple locations, characters, and some extremely demanding scenes was exactly the kind of challenge she loves. Plus: a major star.",
-      "url": "https://www.indiewire.com/features/interviews/prima-facie-movie-adaptation-susanna-white-cynthia-erivo-1235216255/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2292594199-e1789149056244.jpg?w=650",
-      "publishedAt": "2026-09-13T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-Zlc3RpdmFsLXZpZGVv",
       "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
       "description": "NAZA, a new film directed by Yuval Abraham and Rachel Szor and produced by the Guardian, has been awarded the special jury prize at the 83rd Venice film festival. Shot at night on the rooftops of Tel Aviv, NAZA reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza. Abraham, in his prize acceptance speech, said: 'It's really important Isrealis watch this film. It's our country that is doing these crimes' ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Continue reading...",
@@ -268,30 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1tb3RoZXItcmV2aWV3",
-      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
-      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fc78efc8b9a5dcec82d38a828e204be7",
-      "publishedAt": "2026-09-13T04:01:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-2FsaW5kLWVsZWF6YXI",
-      "title": "Misty Green review – Chris Rock’s jumbled LA drama saved by fiery Rosalind Eleazar",
-      "description": "Toronto film festival: There’s a stunning lead performance from the breakout British actor but the film surrounding her can’t quite match what she’s bringing There’s a mighty, all-guns-blazing performance at the centre of Chris Rock ’s cynical Hollywood-set spiral Misty Green, a spark of fire almost put out by the relative dampness of the film surrounding. British actor Rosalind Eleazar, best known for her work in Slow Horses , has probably vaulted herself into a strangely underpopulated best actress race with her turn as a struggling actor trying to grapple her way back to the middle. Eleazar does enough here to go much higher. Misty has an Emmy for her role on still beloved TV series Red Eye but it sits on the shelf of an apartment paid for by a married, and recently deceased, benefactor, right next to the empty liquor bottles and a rolled-up bill used for last night’s cocaine. The film throws us into her final week there, as a brittle, short-tempered widow (Amy Landecker) gives her seven days to find somewhere else to live, not easy in a city like LA and even harder when she’s unable to find work. Her lack of employment is both a result of an industry that doesn’t have a place for someone like her (she’s “too black to be with Leo, not black enough to be with Damson, not a nepo baby and not a Brit”) and also her difficult temperament, stuck in a “one-sided beef with Shonda” and choosing wild, drug-fuelled nights over bright-eyed morning auditions. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/misty-green-review-chris-rocks-rosalind-eleazar",
-      "image": "https://i.guim.co.uk/img/media/c9bc0962974e7943bfc9e1cb95165f2f27439952/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=30d54ad15820215babbc30528391b8bf",
-      "publishedAt": "2026-09-13T03:30:51.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
       "description": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars",
@@ -337,18 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "How a BBC strike exterminated Doctor Who adventure",
-      "description": "Marcus Hearn recalls the stories his father told him about the filming of episodes in Cambridge.",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6d0c/live/3e4afb80-ac3d-11f1-aa42-a9647fd0ba61.jpg",
-      "publishedAt": "2026-09-12T05:15:01.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
