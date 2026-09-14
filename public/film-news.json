@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:32:03.926Z",
+  "generatedAt": "2026-09-14T01:09:00.782Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ci0xMjM1MjE2NzU0Lw",
+      "title": "‘How We Stand’ Review: Amber Midthunder Stars in a Richly Drawn, Magical-Realist Indigenous Tale",
+      "description": "TIFF: Marie Clements' \"How We Stand\" ambitiously seeks to examine hidden and violent sociopolitical aspects of recent Indigenous history through a deeply personal lens.",
+      "url": "https://www.indiewire.com/criticism/movies/how-we-stand-review-amber-midthunder-1235216754/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/how_we_stand_01.webp?w=650",
+      "publishedAt": "2026-09-13T20:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-1wLTEyMzUyMTY3MDcv",
+      "title": "Why Do Men Keep Telling Anna Biller She’s ‘Camp’?",
+      "description": "TIFF: After nearly quitting filmmaking, \"The Love Witch\" director returns with \"The Face of Horror\" — and tells IndieWire why she believes her bloody medieval tragedy is already being misunderstood.",
+      "url": "https://www.indiewire.com/features/interviews/anna-biller-interview-the-face-of-horror-tragedy-camp-1235216707/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1082M4T-e1789310363601.jpg?w=650",
+      "publishedAt": "2026-09-13T19:33:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mctMTIzNTIxNjczMy8",
+      "title": "‘The Uprising’ Bombs at Box Office Despite Last-Ditch Scramble to Market Film as Robin Hood Origin Story",
+      "description": "Paul Greengrass's historical epic opens with an anemic $3.25 million, becoming the latest film about the outlaw to fall flat.",
+      "url": "https://www.indiewire.com/news/box-office/the-uprising-bombs-box-office-robin-hood-marketing-1235216733/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/4261_D027_00165rc.jpg?w=650",
+      "publishedAt": "2026-09-13T19:20:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMTY0MTYv",
+      "title": "From Tragedy to ‘Everest’: Inside Jimmy Chin and Chai Vasarhelyi’s Most Ambitious Film Yet",
+      "description": "Summiting the North Side of Everest and skiing down was a feat. So was filming it. In the NatGeo documentary \"Everest: The Other Side,\" we not only witness ski-mountaineer Jim Morrison's athletic heroism, but also Jimmy Chin's filmmaking prowess. This could be an Oscar contender.",
+      "url": "https://www.indiewire.com/awards/consider-this/everest-the-other-side-interview-telluride-jim-morrison-1235216416/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3104.jpeg?w=650",
+      "publishedAt": "2026-09-13T18:40:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-5lLTEyMzUyMTY2MTcv",
       "title": "‘I Play Rocky’ Review: Sylvester Stallone’s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
@@ -160,18 +208,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-by0xMjM1MjE2NDY0Lw",
-      "title": "‘Vintage Violence’ Review: Too Much Is Never Enough in Eugene Kotlyarenko’s Overstimulating Crime Comedy",
-      "description": "TIFF: Gonzo bloodshed and manic camerawork are the focus in this over-the-top crime caper set in the Japanese vintage underworld.",
-      "url": "https://www.indiewire.com/criticism/movies/vintage-violence-review-eugene-kotlyarenko-1235216464/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-1.jpeg?w=632",
-      "publishedAt": "2026-09-13T06:05:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-1tb3RoZXItcmV2aWV3",
       "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
       "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Continue reading...",
@@ -181,18 +217,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE2NjI3Lw",
-      "title": "‘Your Mother Your Mother Your Mother’ Review: Faith, Family, and Firearms Drive Bassam Tariq’s Intriguingly Strange Action-Drama",
-      "description": "Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.",
-      "url": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/hero-image.fill_.size_1200x675.v1785962044.webp?w=650",
-      "publishedAt": "2026-09-13T04:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -208,18 +232,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-NrLTEyMzUyMTYyODIv",
-      "title": "‘Misty Green’ Review: Rosalind Eleazar Stuns in Chris Rock’s Raw but Unfocused Hollywood Character Study",
-      "description": "TIFF: The \"Slow Horses\" star is tremendous as a faded Black TV actress whose tendency for self-sabotage threatens to derail her comeback role.",
-      "url": "https://www.indiewire.com/criticism/movies/misty-green-movie-review-chris-rock-1235216282/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https___cdn.sanity.io_images_xq1bjtf4_production_363fc46d9a1774bdd289e121ce9db18f03698689-6000x4000-H-2026.webp?w=650",
-      "publishedAt": "2026-09-13T03:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
       "description": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars",
@@ -230,18 +242,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE2NjcyLw",
-      "title": "‘River’ Review: Jane Levy Anchors a Fearlessly Cruel and Visceral Survival Slasher",
-      "description": "TIFF: Jane Levy and Jessica Rothe lead Joshua Giuliano's slasher that finds evil in beauty, while reminding us that horror is not simply a vehicle for scares.",
-      "url": "https://www.indiewire.com/criticism/movies/river-movie-review-jane-levy-slasher-1235216672/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/River_Still_HERO.jpg?w=650",
-      "publishedAt": "2026-09-12T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-lhbC1qdXJ5LXByaXpl",
