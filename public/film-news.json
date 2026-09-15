@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:47:08.895Z",
+  "generatedAt": "2026-09-15T12:41:25.657Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-dy0xMjM1MjE3MTIyLw",
+      "title": "‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words",
+      "description": "Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present.",
+      "url": "https://www.indiewire.com/criticism/movies/edward-said-between-worlds-documentary-movie-review-1235217122/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Still_Hero.jpg?w=650",
+      "publishedAt": "2026-09-15T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
+      "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+      "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg",
+      "publishedAt": "2026-09-15T12:06:19.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-d29tYW4tdW5rbm93bg",
+      "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
+      "description": "Mathilde Arcel, who won the Volpi Cup on Saturday for her role in Golden Lion winner Woman Unknown, said job offers have now begun to arrive The winner of this year’s best actress prize at the Venice film festival has revealed that she is on unemployment benefits and had to fly to back to Copenhagen to report to the job centre before receiving her award. On Saturday night, Danish actor Mathilde Arcel won the prestigious Volpi Cup for her first leading role in a feature film, May el-Toukhy’s post-second world war drama Woman Unknown, which also won the Golden Lion award for best film. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/mathilde-arcel-job-centre-venice-film-festival-volpi-cup-woman-unknown",
+      "image": "https://i.guim.co.uk/img/media/fe3ca0c3c52441d4281bfcd22389234903c8399b/212_0_2120_1696/master/2120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=229eaabd1cd3d28faf58a6cad95abc9d",
+      "publishedAt": "2026-09-15T10:37:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-nN0LXRoZS1yb21hbnM",
+      "title": "Legend of Destruction review – starry voices grace animated telling of the Jewish revolt against the Romans",
+      "description": "Eight years in the making, the innovative film uses painted still images – it’s like being read a graphic novel by a cast including Oscar Isaac, Evangeline Lilly and Elliott Gould This Israeli animated film has been largely hanging around in limbo since it was finished in 2021 after taking eight years to complete – though this may or may not be due to the international opprobrium that Israel has attracted in the intervening period. It’s actually a rather fascinating film, if oddly told and a bit severe. Legend of Destruction isn’t about the current conflict, taking place as it does in the first century, 66 years after the birth of Christ – although of course, if you squint a bit, parallels with current events are there to be discerned. Revolutions fracture from within, hegemons topple due to their own greedy self-destruction, and in the end ordinary people are the ones who suffer and die as cities burn. Fill in the blanks as you see fit. Cleaving pretty closely to the known facts as recorded by Flavius Josephus’ The Jewish War and the Talmud, the script by director Gidi Dar and Shuli Rand recounts how Jewish resistance rose up in Judea, particularly in Jerusalem, against the occupying Romans and the reigning Jewish elite, including the Temple’s high priests and queen Berenice of Cilicia (Evangeline Lilly), over excessive taxation. Our protagonist narrator is ordinary schlemiel Ben Batich (voiced in this English language version by Oscar Isaac), who becomes a leader of one faction after he snaps and can no longer agree with the pleas for patience and tolerance from his mother (Marilu Henner) and rabbi uncle Yohanan ben Zakkai (Elliott Gould). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
+      "image": "https://i.guim.co.uk/img/media/2affff4a06a87cec1249905a2ca7d7639c9be259/409_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=bffa2963ed5c09c898ffdf507be9aa7c",
+      "publishedAt": "2026-09-15T10:00:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LW1leGljYW4tdG93bg",
+      "title": "Night of the Coyotes review – border-crossing role-play is tourist attraction in struggling Mexican town",
+      "description": "Clara Trischler’s absorbing feature sees residents of the small town of El Alberto hired to play characters in a re-enactment of the migrant experience In contrast to other migration documentaries, which focus on the new life that awaits those who have crossed the border, Clara Trischler’s absorbing second feature trains its gaze on those who are left behind. The suspenseful opening plunges us into a whirl of familiar images: tense whispers in the dead of night as a ragtag group of people stumble, and even crawl, their way towards an unseen border. All of a sudden a blinding light intrudes, guns are fired in the air: a police car has arrived on the scene. This terrifying sequence of events is later revealed to be make-believe. In the small Mexican town of El Alberto, whose population has been depleted by a steady flow of migration to the US, role-playing re-enactments function as both a means of deterrent and, oddly enough, a tourist attraction. Advertised as Caminata Nocturna – “night hike” in Spanish – these events recruit local residents to perform as specific characters, including the fearsome “coyotes”, AKA human traffickers. The attendees experience the full scale of a border-crossing operation, from being loaded on vans to intimidation from their coyotes, and police interrogation. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/night-of-the-coyotes-review-role-playing-migrants-highlight-loss-in-a-depleted-mexican-town",
+      "image": "https://i.guim.co.uk/img/media/fc5f543fd1f1ef56c9e3a52ad72e497efe3cc44f/571_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5ee6677cf0b280a9a42e43a294e8d182",
+      "publishedAt": "2026-09-15T08:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-VnbmFuY3ktY29tZWR5",
       "title": "Premature review – sunny charm provides screwball energy for surprise-pregnancy comedy",
@@ -40,11 +100,23 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-b2JhbWEtdmVuaXNvbg",
+      "title": "Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’",
+      "description": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet. He talks about naysayers, elephant tusks – and the wonders of venison Benedict Cumberbatch is dreading stepping outside. He’s speaking to me from his air-conditioned hotel room in Soho at the peak of the summer heat. Few doubt that climate breakdown was a major cause of those scorchers, with nature, farming and water supplies all placed under huge strain. By midsummer, according to a report co-authored by the Met Office , there were 2,700 excess deaths in England and Wales due to the searing heat. But for Cumberbatch, in a bittersweet way, the record-breaking temperatures have come at a good time. The actor has been on a tour to promote his new documentary, How to Live on Earth. “The irony is not lost on anyone,” he says. “We’re living in the results of climate breakdown so stepping outside is – literally – a call to action.” Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison",
+      "image": "https://i.guim.co.uk/img/media/eab2ae04d2bb6cbcc8adfd716c17352fd3ad7bf9/1686_1544_4511_3609/master/4511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51bb62ca2168e9e1c329b0fe54a18afa",
+      "publishedAt": "2026-09-15T04:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
       "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
       "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c1f8/live/817a3690-b0b7-11f1-b8f0-8f0427d95d2f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4e1b/live/15051b70-b0ed-11f1-a540-61c3f7fc4e6c.jpg",
       "publishedAt": "2026-09-15T03:50:06.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -172,18 +244,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-VzLTEyMzUyMTYzOTYv",
-      "title": "Rhea Seehorn Wins Emmy for Lead Actress in a Drama Series",
-      "description": "The \"Pluribus\" star finally broke an Emmy shutout streak that lasted for the entirety of \"Better Call Saul.\"",
-      "url": "https://www.indiewire.com/awards/results/rhea-seehorn-wins-emmy-lead-actress-drama-series-pluriubus-1235216396/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/Pluribus-finale-Carol-actor-Rhea-Seehorn-Episode-9.jpg?w=650",
-      "publishedAt": "2026-09-15T00:31:35.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
       "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
@@ -256,42 +316,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-C1idW5ueS1zdGlsbHo",
-      "title": "Barrio Triste review – raw and dynamic portrait of anarchic slum life in 1980s Medellín",
-      "description": "Bad Bunny collaborator Stillz’s debut feature shot using Betacam focuses on vibes over plot Best known as the creative mind behind the music videos of Puerto Rican rapper and singer Bad Bunny, Stillz has risen to the top of the industry as an in-demand director and photographer. Interestingly, for his feature-film debut, Stillz has turned away from the glitz and glamour of celebrity to fix his lens on the underdog. Shot on Betacam video and set in the crime-ridden neighbourhoods of 1980s Medellín, Barrio Triste opens with an unexpected act of rebellion: having snatched a camera from a television crew, a group of young men head out on an anarchic joyride and film their exploits in the process. Previously rendered invisible by the system, they have inserted themselves into a tool of mainstream media. There are moments of crisis here and there – the restless band of youths attempt a robbery and even kill a hostage – yet the primary focus seems to be on vibes rather than plot. The ever-roving camera not only channels the agitated psyche of the main characters but also drums up the chaotic pace of Medellín’s underbelly. One particularly memorable sequence moves from the peculiar sight of a punk duo practising on a rooftop to the garbage-strewn streets, during which seemingly benign interactions can quickly escalate into heated altercations. Echoing the handheld cinematography, life in the slums is unmoored and precarious, as if the ground might give way at any second. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/barrio-triste-review-anarchic-slum-life-1980s-medellin-bad-bunny-stillz",
-      "image": "https://i.guim.co.uk/img/media/c9129e33858b6aa6b07c46b38ead8971906f2a5f/26_0_1749_1400/master/1749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=acf0a6b3c30201f435c4d038add9b2f6",
-      "publishedAt": "2026-09-14T12:00:57.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZvdXJpdGUtcm9kZW50",
-      "title": "The Route to Cappyness review – capybara boosterism is an ode to the internet’s favourite rodent",
-      "description": "From a cappy-cafe owner in Japan to an escaped capybara in the UK, this homespun film takes the temperature of an international obsession One of Midlands-based film-maker Sharon Walia’s previous works was The Keepers of the Pigs , proudly described on her production company’s website as “the first ever documentary about guinea pigs”. So it makes zoological sense that her latest film takes on capybaras, guinea pigs’ ridiculously cute semi-aquatic cousins that are indigenous to Latin America, and relatively recently became ubiquitous on social media in memes and short films alike. As glimpsed here, there was even a capybara in the recent Academy Award-winning animated feature Flow , some pro-cappy boosterism that captured the creatures’ chill vibe and snuffly sweetness. Walia’s celebration of the species stays on script, rejoicing in the animals’ natural geniality, friendliness to other species in their natural habitat, and their compelling, remunerative charm that seems to have bolstered the fortunes of several animal attractions around the world. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/the-route-to-cappyness-review-capybara-boosterism-is-an-ode-to-the-internets-favourite-rodent",
-      "image": "https://i.guim.co.uk/img/media/03d41308c30ffa53a3973a71766573a4d69f6365/0_282_1440_1152/master/1440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=89a599e66e7abda5ff3b3d298ac4ff10",
-      "publishedAt": "2026-09-14T10:00:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mVlbGdvb2QtbW92aWU",
-      "title": "‘I never pass up a rewatch’: why Valley Girl is my feelgood movie",
-      "description": "The latest in our series of writers explaining their most rewatched comfort films brings us back to 1980s LA As a teenager growing up in the 1990s, I was deeply obsessed with all things 1980s pop culture. Chalk it up to nostalgia for my Care Bears-filled childhood – or a stubborn adolescent desire to separate myself from the Dave Matthews Band-loving, khaki-wearing kids at my high school. (Mission accomplished: it’s safe to say I was the only person I knew rocking a bandana tied around my pants leg or a Wild Boys-era Duran Duran shirt.) Back then, I was especially drawn to 1980s teen movies. In my own life, I was having zero luck finding a New Romantic Romeo; instead, I pined after artsy, sensitive boys who didn’t know I existed. But throughout these films, even the most awkward characters managed to find a happy ending, with the ultimate examples being Samantha (Molly Ringwald) in Sixteen Candles landing hunky Jake Ryan or Stacy (Jennifer Jason Leigh) linking up with Rat (Brian Backer) in Fast Times at Ridgemont High. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/valley-girl-my-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/711bbc03ae93b11a385f2f4665bb4a37310ff7e8/210_0_2360_1888/master/2360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b13c066b575ecbe6a261298420899992",
-      "publishedAt": "2026-09-14T09:00:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-Zlc3RpdmFsLXZpZGVv",
       "title": "NAZA director says 'it's important Israelis watch this film' after win at Venice festival – video",
       "description": "NAZA, a new film directed by Yuval Abraham and Rachel Szor and produced by the Guardian, has been awarded the special jury prize at the 83rd Venice film festival. Shot at night on the rooftops of Tel Aviv, NAZA reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza. Abraham, in his prize acceptance speech, said: 'It's really important Isrealis watch this film. It's our country that is doing these crimes' ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Continue reading...",
@@ -301,18 +325,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "'Forget Notting Hill - we set our new romcom in the east end of Glasgow'",
-      "description": "Romantic comedy Premature is out in cinemas next Friday, despite a microscopic budget.",
-      "url": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1884/live/656efe20-adfd-11f1-bc1f-3f186ca4140c.png",
-      "publishedAt": "2026-09-13T09:41:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -421,18 +433,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-LWl2ZS1ldmVyLW1ldA",
-      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
-      "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
-      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
-      "publishedAt": "2026-09-10T14:00:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
