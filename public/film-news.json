@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:41:25.657Z",
+  "generatedAt": "2026-09-15T18:33:29.546Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-YS0xMjM1MjE3Mjc3Lw",
+      "title": "A Federal Tax Incentive for Filming Could Bring in Extra $125 Billion in Production Spend — and Impact Without It Could Be Devastating",
+      "description": "An MPA-commissioned study estimated 143,500 new jobs added through 2035 if President Trump puts in place filming incentives on a federal level.",
+      "url": "https://www.indiewire.com/news/business/federal-tax-incentive-filming-study-mpa-1235217277/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2153261033.jpg?w=650",
+      "publishedAt": "2026-09-15T18:24:06.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XYtMTIzNTIxNzI0Ni8",
+      "title": "‘The Liberation’ Review: Carrie Coon Joins a Cult, and One of Her Best Performances Follows",
+      "description": "TIFF: Guy Nattiv's film draws on his grandmother's horrifying experiences, giving the actress a role she can really sink her teeth into. The rest of the film could benefit from that bite, though.",
+      "url": "https://www.indiewire.com/criticism/movies/the-liberation-review-carrie-coon-cult-guy-nattiv-1235217246/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
+      "publishedAt": "2026-09-15T17:17:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-HVzdHJ5LXN1cHBvcnQ",
+      "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
+      "description": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym euphemistically used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. It includes interviews with 24 Israeli military or intelligence soldiers and officers who outlined the AI-powered targeting systems used to bombard Gaza, resulting in the mass killing of Palestinian civilians. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
+      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/451_0_4488_3592/master/4488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b519ef90deb7217b7503eea71e24536a",
+      "publishedAt": "2026-09-15T16:44:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIxNjI3OS8",
+      "title": "JustWatch, Which Tells You Where Things Are Streaming, Is Launching Its Own Streaming Service",
+      "description": "JustWatch TV launches next month for TVOD, AVOD, and SVOD viewing with content partnerships with Paramount, New Regency, Fremantle, Bleecker Street, and Vortex Media.",
+      "url": "https://www.indiewire.com/news/general-news/justwatch-launches-streaming-service-1235216279/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2021/06/AdobeStock_182960573.jpeg?w=650",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIxNzIxNi8",
+      "title": "Hollywood’s Next Revolution Will Be Independent, Say Aisha Tyler and Kirsten Vangsness",
+      "description": "On the Emmys carpet, the “Criminal Minds: Evolution” stars said artists should stop asking permission.",
+      "url": "https://www.indiewire.com/features/interviews/aisha-tyler-kirsten-vangsness-emmys-indie-revolution-1235217216/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P101Y758.jpg?w=650",
+      "publishedAt": "2026-09-15T15:14:10.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE3MTUxLw",
+      "title": "‘Glaxo’ Review: Benjamín Naishtat’s Period Drama Revisits Argentina’s Dirty War In a Not-Quite-There Period Drama",
+      "description": "Though handsome enough, the writer-director’s fifth film is a disappointment after his previous two films.",
+      "url": "https://www.indiewire.com/criticism/movies/glaxo-movie-review-1235217151/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Glaxo.jpg?w=650",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "How city's market became a CBeebies TV set",
+      "description": "The show, filmed in Coventry, aims to help young children explore food through their senses",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpn03803o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4cbb/live/6f29d4f0-b0f3-11f1-9707-2187f52634c5.jpg",
+      "publishedAt": "2026-09-15T14:13:48.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNzIxOC8",
+      "title": "Rose Abdoo Can’t Wait for the ‘Gilmore Girls’ Documentary — and Says It ‘Gets Greater Later’ at 63",
+      "description": "For the 2026 Emmys, the \"Hacks\" actress talked about her legacy in Stars Hollow, reflected on sharing the screen with Jean Smart, and discussed embarking on a new chapter with CBS’s “Eternally Yours.”",
+      "url": "https://www.indiewire.com/features/interviews/rose-abdoo-gilmore-girls-documentary-interview-1235217218/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/rose-abdoo.png?w=650",
+      "publishedAt": "2026-09-15T13:41:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-R2LTEyMzUyMTcyMTcv",
+      "title": "Michelle Khare Says YouTube’s Upload Button Is Changing Who Gets to Make Prestige TV",
+      "description": "The 2026 IndieWire Honors Pulse Award winner caught up with us on the Emmys carpet to chat about her next stunt — and the wave of ambitious storytellers bypassing Hollywood gatekeepers.",
+      "url": "https://www.indiewire.com/features/interviews/michelle-khare-says-youtube-changing-who-gets-to-make-tv-1235217217/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1083AUB-e1789456658479.jpg?w=650",
+      "publishedAt": "2026-09-15T13:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-mUtMTIzNTIxNjkzMC8",
+      "title": "Neil Jordan on Making His Homoerotic ‘Interview with the Vampire’ for a Major Studio with A-List Stars",
+      "description": "On the occasion of a new 4K UHD release, the director of \"Mona Lisa\" and \"The Crying Game\" looks back on one of his boldest projects: a sensual, provocative vampire film he made with Tom Cruise, Brad Pitt, and a young Kirsten Dunst.",
+      "url": "https://www.indiewire.com/features/interviews/neil-jordan-tom-cruise-interview-with-the-vampire-1235216930/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDINWI_EC032.jpg?w=650",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-dy0xMjM1MjE3MTIyLw",
       "title": "‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words",
@@ -32,12 +152,36 @@
       "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
       "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
       "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f175/live/10dbc040-b0f1-11f1-9707-2187f52634c5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/95eb/live/1525c960-b11a-11f1-a540-61c3f7fc4e6c.jpg",
       "publishedAt": "2026-09-15T12:06:19.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-ZXZpZXctcGFpbnRlcg",
+      "title": "James McNeill Whistler review – painter’s work shines through attention-grabbing life story",
+      "description": "The latest Exhibition on Screen documentary does a good job balancing the famous scandals with the subtle brilliance of his art Timed to coincide with Tate Britain’s impressive gallery show – which closes at the end of September, so you haven’t long if you’ve missed it so far – this latest from the Exhibition on Screen strand does a fine job in outlining the ins and outs, and ups and downs of this still somewhat divisive artist who, Whistler’s Mother notwithstanding, is still probably most famous for winning a farthing in damages in his “flinging a pot of paint” libel action against John Ruskin. The film assembles the customary lineup of notables including the Tate’s Carol Jacobi, critic Rachel Campbell-Johnston and art historian Stephen Calloway, the latter of whom’s dandyish attire and Colonel Sanders goatee suggests he has very much bought into the Whistler aesthetic. In fact, as all the interviewees are keen to point out, Whistler’s self-constructed persona, always with an eye to making a splash, is as significant an element of his artistic presence as the art itself – even if, as I can’t be alone in thinking, there’s something fundamentally irritating about his southern-genteel attudinising even at a century and a half’s distance. Be that as it may, the film gets to grips with Whistler’s instinctive brilliance as an artist, his natural flair for boundary-pushing and forward-thinking idealism. The big life episodes – his arrival in London, painting his mother, the brouhaha over the Peacock Room , the court case and subsequent bankruptcy – are recounted, but there is impressive detail on the actual art: from the dynamics behind his brooding Wapping picture to the temper tantrums (not his) that made Harmony in Grey and Green, his portrait of the eight-year-old Cicely Alexander so distinctive. And while Whistler’s dealings with the women in his life wouldn’t exactly pass modern-era scrutiny, his pictures of them are genuinely brilliant, with especial attention given to a wonderfully tender sketch of his wife Beatrix , terminally ill in a hotel bedroom. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/james-mcneill-whistler-review-painter",
+      "image": "https://i.guim.co.uk/img/media/37cc74348c984903d3292e9226575c03805f1eb0/0_137_5851_4680/master/5851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a36cd2e11da14dcbd301d741efedffca",
+      "publishedAt": "2026-09-15T12:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dWxpYW5uZS1tb29yZQ",
+      "title": "The Debut review – Julianne Moore is a thrill in Jesse Eisenberg’s oddball comedy",
+      "description": "Toronto film festival: riotous lead performance holds together third movie from actor turned film-maker, about a housewife who joins a local musical Jesse Eisenberg’s last two directorial efforts – the prickly comedy When You Finish Saving the World and the slightly softer A Real Pain – are small films rooted in the real world. They have their little idiosyncrasies, their bits of cinematic flair, but they keep their feet grounded in the here and now. For his third film, Eisenberg has said goodbye to all that (or most of that) and run headlong at the surreal and the absurd, borrowing from Charlie Kaufman and other oddballs to tell a small story in a big way. The Debut is about a repressed housewife, Mona (Julianne Moore), who decides to audition for a role in a community theater production of a musical called Nosy Neighbors, one of those gassy Manhattan trifles that were so ubiquitous on Broadway a half century ago. Mona’s kids are about to fly the nest, and her husband barely seems to notice her when she’s standing right next to him. So why not have a little creative adventure? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/the-debut-review-julianne-moore",
+      "image": "https://i.guim.co.uk/img/media/ae94f03afd4c97b0dfaa2e93d416e5292834ed4e/453_0_4526_3622/master/4526.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=3c8645f445015c3d08f3f713ac853b41",
+      "publishedAt": "2026-09-15T11:51:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-d29tYW4tdW5rbm93bg",
@@ -58,30 +202,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
       "image": "https://i.guim.co.uk/img/media/2affff4a06a87cec1249905a2ca7d7639c9be259/409_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=bffa2963ed5c09c898ffdf507be9aa7c",
       "publishedAt": "2026-09-15T10:00:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-LW1leGljYW4tdG93bg",
-      "title": "Night of the Coyotes review – border-crossing role-play is tourist attraction in struggling Mexican town",
-      "description": "Clara Trischler’s absorbing feature sees residents of the small town of El Alberto hired to play characters in a re-enactment of the migrant experience In contrast to other migration documentaries, which focus on the new life that awaits those who have crossed the border, Clara Trischler’s absorbing second feature trains its gaze on those who are left behind. The suspenseful opening plunges us into a whirl of familiar images: tense whispers in the dead of night as a ragtag group of people stumble, and even crawl, their way towards an unseen border. All of a sudden a blinding light intrudes, guns are fired in the air: a police car has arrived on the scene. This terrifying sequence of events is later revealed to be make-believe. In the small Mexican town of El Alberto, whose population has been depleted by a steady flow of migration to the US, role-playing re-enactments function as both a means of deterrent and, oddly enough, a tourist attraction. Advertised as Caminata Nocturna – “night hike” in Spanish – these events recruit local residents to perform as specific characters, including the fearsome “coyotes”, AKA human traffickers. The attendees experience the full scale of a border-crossing operation, from being loaded on vans to intimidation from their coyotes, and police interrogation. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/night-of-the-coyotes-review-role-playing-migrants-highlight-loss-in-a-depleted-mexican-town",
-      "image": "https://i.guim.co.uk/img/media/fc5f543fd1f1ef56c9e3a52ad72e497efe3cc44f/571_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=5ee6677cf0b280a9a42e43a294e8d182",
-      "publishedAt": "2026-09-15T08:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-VnbmFuY3ktY29tZWR5",
-      "title": "Premature review – sunny charm provides screwball energy for surprise-pregnancy comedy",
-      "description": "First-time director Kevin Walls creates a film sweet-natured enough to cancel out some comedy misfires as flatmates Eilidh and Cameron prepare for parenthood The pram in the hallway is the enemy of good art, or so the famous quote goes . This sunny Scottish comedy, made on a minuscule budget, deals with the bit before the pram, when an art school dropout in her 20s gets unexpectedly up the duff. It’s directed by first-timer Kevin Walls, who gives his film the screwball-ish energy of things being skew-whiffly the wrong way round; a couple are going on their first date at three months pregnant, having a baby at an age most people are putting it off to establish their careers. It’s sweet-natured with just about enough charm to cancel out a couple of thunderously awful comedy moments. Elle Watson is artist Eilidh, who works as a barista in a museum cafe. She has a friends-with-benefits setup with her flatmate Cameron (James Rottger); he has a job in finance and, after two degrees, a mountain of student debt and years in a mind-numbing entry-level position, he’s finally lined up an interview for his dream job. It would be crazy to have the baby, but Eilidh doesn’t take the abortion tablets. She can’t give Cameron a coherent reason why not; fair enough, it’s her decision, a gut feeling. Walls sensibly doesn’t go anywhere near the pro-choice/anti-abortion debate. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/premature-review-sunny-charm-provides-screwball-energy-for-surprise-pregnancy-comedy",
-      "image": "https://i.guim.co.uk/img/media/ac4253394bba6e601549810df17c21663c462c66/975_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1361b9d457ed610a7913d8b22a0674ad",
-      "publishedAt": "2026-09-15T06:00:29.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -148,100 +268,16 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-WstMTIzNTIxNzAxOS8",
-      "title": "‘Wild Wild East’ Review: Jan Holoubek’s Nazi-Era Noir Western from Poland Loses Its Nerve",
-      "description": "TIFF: The Polish director’s latest sets up a compelling moral morass but settles for easy answers to its thorny questions.",
-      "url": "https://www.indiewire.com/criticism/movies/wild-wild-east-review-jan-holoubek-1235217019/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Wild-Wild-East_Still_01.jpg?w=650",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-LWFuZHJldy1zY290dA",
+      "title": "Elsinore review – Andrew Scott is astonishing as Ian Charleson in devastating Aids drama",
+      "description": "Toronto film festival: the actor gives his greatest screen performance to date as the Chariots of Fire star who spends his final months playing Hamlet on stage It was an endlessly parodied cliche that any queer film released during a certain period would be about one thing and one thing only: Aids. In 1993, Philadelphia showed a wider audience a mostly clean and palatable version of the crisis, and won Oscars for doing so, and for a time, when gay men weren’t acting as sassy friends to women in need, they were coughing up blood in lonely hospital beds. The inevitable and understandable pushback, allowing for a wider breadth of stories, brought us more “queer joy” and “chosen family” but it also allowed some to forget just what a time of unimaginable annihilation it was. It also reframed the period as an onslaught of Aids movies when the majority of them existed on the outskirts still , films such as Buddies, Longtime Companion and Jeffrey seen by mostly queer arthouse audiences. If anything, I’d argue that something so relatively recent and horrifying has been rather under-explored on screen especially in comparison with other, even fresher tragedies (Aids has killed more than 44 million people worldwide compared with just more than 7 million for Covid). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/14/elsinore-movie-review-andrew-scott",
+      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/430_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=50da9e04753b95dc1890e0467f9671fa",
+      "publishedAt": "2026-09-14T21:59:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-I2LTEyMzUyMTY4ODMv",
-      "title": "Primetime Emmy Award 2026 Winners Revealed (Full List)",
-      "description": "See all the winners of tonight's Emmy Awards, dominated by \"The Pitt,\" \"DTF St. Louis,\" and \"Widow's Bay.\"",
-      "url": "https://www.indiewire.com/awards/results/emmy-winners-list-2026-1235216883/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P10839MD.jpg?w=650",
-      "publishedAt": "2026-09-15T02:56:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTY0MDAv",
-      "title": "‘Widow’s Bay’ Wins Emmy for Outstanding Comedy Series",
-      "description": "No two episodes of Katie Dippold's genre-bending series were alike, and the TV Academy recognized the creativity.",
-      "url": "https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010603.jpg?w=650",
-      "publishedAt": "2026-09-15T02:55:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTYzODMv",
-      "title": "‘The Pitt’ Wins Second Consecutive Emmy for Outstanding Drama Series",
-      "description": "The HBO Max medical drama secured another victory in the category, cementing itself as the show to beat at future ceremonies.",
-      "url": "https://www.indiewire.com/awards/results/the-pitt-wins-emmy-outstanding-drama-series-1235216383/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/The-Pitt-Season-2-Episode-15-Shawn-Hatosy-Noah-Wyle.jpg?w=650",
-      "publishedAt": "2026-09-15T02:42:09.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-tlLTEyMzUyMTY5OTYv",
-      "title": "‘Bad Lieutenant: Tokyo’ Review: Takashi Miike Can’t Elevate an Uneven Entry Into an Unlikely Franchise",
-      "description": "TIFF: The Japanese genre legend brings some, but not enough, of his signature style to this yakuza neo-noir.",
-      "url": "https://www.indiewire.com/criticism/movies/bad-lieutenant-tokyo-review-takashi-miike-1235216996/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/04_BAD-LIEUTENANT-TOKYO_courtesyNEON-1.jpeg?w=650",
-      "publishedAt": "2026-09-15T02:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIxNjg0OS8",
-      "title": "‘DTF St. Louis’ Wins Emmy for Outstanding Limited Series",
-      "description": "Steven Conrad's HBO series aced the top category at Monday night's Emmy Awards, besting fellow nominees \"Beef\" and \"Love Story\" — both of which were once considered frontrunners.",
-      "url": "https://www.indiewire.com/awards/results/dtf-st-louis-wins-emmy-best-limited-series-1235216849/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/DTF-St-Louis-Emmy-wins-Jason-Bateman-David-Harbour.jpg?w=650",
-      "publishedAt": "2026-09-15T02:17:14.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE2MTE4Lw",
-      "title": "‘The Late Show with Stephen Colbert’ Wins Emmy for 2026 Outstanding Variety Series",
-      "description": "The Variety Series in 2026 was an \"area award\" able to recognize multiple nominees that received at least 90 percent of the vote.",
-      "url": "https://www.indiewire.com/awards/results/colbert-wins-emmy-variety-series-1235216118/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/3211230_0693.jpg?w=650",
-      "publishedAt": "2026-09-15T01:41:49.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XktMTIzNTIxNTg0NS8",
-      "title": "Matthew Rhys Wins Emmy for Best Actor in a Comedy for ‘Widow’s Bay’",
-      "description": "The star of the smash hit Apple TV series is no stranger to Emmys glory (he had even won earlier in the night), but this win marks his first triumph in a Comedy category. Sunset cocktails for all!",
-      "url": "https://www.indiewire.com/awards/results/matthew-rhys-wins-emmy-best-actor-comedy-widows-bay-1235215845/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2290075914.jpg?w=650",
-      "publishedAt": "2026-09-15T01:18:15.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -256,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-b21hcy1vYml0dWFyeQ",
-      "title": "Jeremy Thomas obituary",
-      "description": "Film producer who enjoyed his greatest success with the 1987 epic The Last Emperor for which he won an Oscar Asked whether he had ever cautioned restraint from a director, the film producer Jeremy Thomas replied: “My nature would be to go further and see what we can get away with.” Thomas, who has died aged 77, was an expert in getting away with it. A taste for irreverence ran in his family: he was the son of Ralph Thomas , director of the Doctor … comedies that began in 1954 with Doctor in the House, and the nephew of Gerald Thomas, who made all 31 Carry On titles. Jeremy’s own films, however, were risky rather than risque. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/jeremy-thomas-obituary",
-      "image": "https://i.guim.co.uk/img/media/e309f533d7a91c5cb7107d3901b3de39e7660482/305_35_2191_1753/master/2191.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1bbe20ff2299cbcb4dacd92d392a5c3",
-      "publishedAt": "2026-09-14T16:08:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-plbnNoaXAtbnR3bmZi",
       "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
       "description": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
@@ -278,18 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-Y2hpbGQtY3Jhd2xlcg",
-      "title": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
-      "description": "‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’ I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I pitched them a project – actually a feature-length version of my student graduation film – about zombies on an oil rig. They liked it but said it was too expensive, so on the train back to Newcastle I was asking myself what would make a really scary horror film that could be contained and so made on a budget. I was thinking of things set in the dark and was like, well … caves . At the back of my mind was a school trip to a lead mine where the guide had said, “OK, everybody, turn your lights off” and, for the first time, I experienced a darkness that I just couldn’t fathom. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/sep/14/eye-how-we-made-cave-horror-classic-the-descent-child-crawler",
-      "image": "https://i.guim.co.uk/img/media/319516ea75c79346800cbb6f3b3a518ff1b5c89e/859_496_1736_1389/master/1736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c2d4293c7b80526633be59b81e4a9a",
-      "publishedAt": "2026-09-14T14:23:56.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "bbc-F9jYW1wYWlnbj1yc3M",
@@ -436,6 +448,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-LWl2ZS1ldmVyLW1ldA",
+      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
+      "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
+      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
+      "publishedAt": "2026-09-10T14:00:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-LW1vdmllLXJldmlldw",
       "title": "The Uprising review – the peasants are revolting in muddled historical epic",
       "description": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet and Chris Pine’s least remembered roles are in the medieval set films The King and Outlaw King (no relation), Ridley Scott’s The Last Duel made back only a third of its $100m budget and earlier this year, the Saudi-backed seventh-century drama Desert Warrior starring Anthony Mackie and Ben Kingsley quietly became one of the biggest flops of all time. Last week, it was reported that Scott blamed the failure of Gladiator II on Paul Mescal not being “masculine enough” in a logical leap which only makes sense if your barometer for masculinity is a man who throws hotel phones and yells at producers in storage closets. On paper, The Uprising should be different: it’s a historical epic from a blue-chip director (the Bourne trilogy’s Paul Greengrass ), a nuanced, introspective leading man ( Andrew Garfield ) and a milieu that uncomfortably chimes with the western world’s backslide into repressive authoritarianism (The Peasants’ Revolt of 1381). In reality, it is a disjointed slog through the mud with the emotional depth of a History Channel rerun. Continue reading...",
@@ -574,18 +598,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/04/gal-gadot-wonder-woman-was-one-of-dcs-few-successes-its-a-mystery-why-she-got-the-chop",
       "image": "https://i.guim.co.uk/img/media/b0ededce123a17aadcdf366c299d2e7221a952a6/305_0_2737_2190/master/2737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bd3429b51214bb7674b201763edfbfdf",
       "publishedAt": "2026-09-04T10:19:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-i1waWN0dXJlLXNob3c",
-      "title": "Farewell, Dr Frank-N-Furter: why Tim Curry’s Rocky Horror Show will go on",
-      "description": "The versatile stage performer will always be remembered for his defining film role in The Rocky Horror Picture Show, which turned him into an icon of 70s underground cinema and proto-punk • Tim Curry, star of The Rocky Horror Picture Show and Stephen King’s It, dies aged 80 • Tim Curry on sexuality, surviving a stroke and 50 years of stardom • Clowns, corsets and kings – a life in pictures Over the past decade, the issues of trans identity and gender fluidity couldn’t have been more contemporary, and Tim Curry was an integral part of what might be called their pre-history in pop culture. He was an icon – though maybe now a dimly remembered icon – of the 70s underground cinema and proto-punk. Curry was a good-looking actor with a tremendous speaking and singing voice, and a versatile performer – he got Tony nominations for his varied stage work on Broadway as Mozart in Amadeus, Alan Swann in My Favorite Year (the part Peter O’Toole played on screen) and as King Arthur in Monty Python’s Spamalot . But it was his strange destiny to be remembered for one role: at once indelibly prominent and weirdly peripheral. He was the sensational Dr Frank-N-Furter in the thoroughly outrageous Rocky Horror Picture Show (1975), the screen version of the 1973 stage show. Continue reading...",
-      "url": "https://www.theguardian.com/film/filmblog/2026/aug/26/dr-frank-n-furter-tim-curry-rocky-horror-picture-show",
-      "image": "https://i.guim.co.uk/img/media/af1f0cb91c70bff8898bbc6633435ab0ef358fd2/0_179_2432_1945/master/2432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b95abab13c12dea8f60767765964e77",
-      "publishedAt": "2026-08-26T16:02:23.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
