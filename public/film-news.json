@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T18:34:58.012Z",
+  "generatedAt": "2026-09-15T01:04:41.701Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VzLTEyMzUyMTYzOTYv",
+      "title": "Rhea Seehorn Wins Emmy for Lead Actress in a Drama Series",
+      "description": "The \"Pluribus\" star finally broke an Emmy shutout streak that lasted for the entirety of \"Better Call Saul.\"",
+      "url": "https://www.indiewire.com/awards/results/rhea-seehorn-wins-emmy-lead-actress-drama-series-pluriubus-1235216396/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/Pluribus-finale-Carol-actor-Rhea-Seehorn-Episode-9.jpg?w=650",
+      "publishedAt": "2026-09-15T00:31:35.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-tzLTEyMzUyMTY3OTQv",
+      "title": "Jean Smart Wins the Emmy for Outstanding Lead Actress in a Comedy Series for ‘Hacks’",
+      "description": "Smart completes a historic five-for-five run as Deborah Vance, winning for every season of the series.",
+      "url": "https://www.indiewire.com/awards/results/jean-smart-wins-emmy-outstanding-lead-actress-comedy-hacks-1235216794/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107OGQU.jpg?w=650",
+      "publishedAt": "2026-09-15T00:13:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-I2LTEyMzUyMTY4ODMv",
+      "title": "Primetime Emmy Awards Reveal 2026 Winners (Updating Live)",
+      "description": "Follow along for all the winners of tonight's Emmy Awards, airing on NBC at 5 p.m. PT/8 p.m. ET.",
+      "url": "https://www.indiewire.com/awards/results/emmy-winners-list-2026-1235216883/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294791223.jpg?w=650",
+      "publishedAt": "2026-09-14T23:55:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE2OTQzLw",
+      "title": "‘Wild Horse Nine’: How John Malkovich Nailed the Role of His Career",
+      "description": "Now 72, Malkovich says he enjoyed channeling his jaded CIA spy's fearless rage. It could win him an Oscar.",
+      "url": "https://www.indiewire.com/awards/consider-this/john-malkovich-interview-wild-horse-nine-oscars-1235216943/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970-1.jpg?w=650",
+      "publishedAt": "2026-09-14T22:36:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNjgwOS8",
+      "title": "Director Xavier Tera and Producer Jeremy O. Harris Go Global with Venice Breakout ‘The Color of the Sun’",
+      "description": "Venice: The director and the producer of the FIPRESCI International Critics’ Prize winner for Best Film from Orizzonti discuss the challenges of making a film in Okinawa, and keeping people interested the indie.",
+      "url": "https://www.indiewire.com/features/interviews/xavier-tera-jeremy-o-harris-interview-the-color-of-the-sun-1235216809/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294279493.jpg?w=650",
+      "publishedAt": "2026-09-14T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Zi0xMjM1MjE2ODY4Lw",
+      "title": "Universal Pictures and Blumhouse Atomic Monster Closing Huge Deal for Joshua Giuliano’s Slasher Film ‘River’",
+      "description": "Exclusive: The horror film could sell for more than $10 million, making it one of TIFF's biggest pacts.",
+      "url": "https://www.indiewire.com/news/breaking-news/universal-pictures-blumhouse-atomic-monster-slasher-film-river-tiff-1235216868/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/River_Still_HERO.jpg?w=650",
+      "publishedAt": "2026-09-14T19:36:12.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NoLTEyMzUyMTMyNzkv",
+      "title": "‘A Talent for Murder’ Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith",
+      "description": "TIFF: Anton Corbijn directs the pair in a two-hander with real bite, as adapted by Joanna Murray-Smith from her devilish play \"Switzerland.\"",
+      "url": "https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg?w=650",
+      "publishedAt": "2026-09-14T19:16:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-W0tMTIzNTIxNjkwMy8",
+      "title": "How to Watch the 2026 Primetime Emmys",
+      "description": "TV's biggest night has arrived. Here's how to make sure you don't miss a moment.",
+      "url": "https://www.indiewire.com/news/general-news/2026-emmys-how-to-watch-stream-1235216903/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1028186.jpg?w=650",
+      "publishedAt": "2026-09-14T19:09:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
+      "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-14T18:26:20.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-ZvLTEyMzUyMTY5MDAv",
       "title": "‘Prima Facie’ Review: Cynthia Erivo Stars in Tonally Confused Screen Treatment of Provocative #MeToo Stage Play",
@@ -38,18 +146,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Luke Evans reveals his secret to surviving Hollywood",
-      "description": "The star discusses his \"emotional connection\" to his character in a new ITV drama, The Party.",
-      "url": "https://www.bbc.co.uk/news/articles/cr50zqlmg7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4969/live/6cb45670-b056-11f1-9902-771b6dd8af6a.jpg",
-      "publishedAt": "2026-09-14T17:01:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "indiewire-VyLTEyMzUyMTY4NzYv",
@@ -88,18 +184,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-HMtMTIzNTIxNjgzNi8",
-      "title": "‘Closing Night’ Review: Even Sarah Paulson and Naomi Watts Can’t Save This Mangled Misfire of a Melodrama",
-      "description": "TIFF: Cody Fern's feature directorial debut lured a murderer's row of exceptional acting talents, but its wildly uneven tone and handle on tricky material do none of them any favors.",
-      "url": "https://www.indiewire.com/criticism/movies/closing-night-review-sarah-paulson-naomi-watts-1235216836/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Closing-Night.jpg?w=650",
-      "publishedAt": "2026-09-14T14:38:25.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-Y2hpbGQtY3Jhd2xlcg",
       "title": "‘The eye-gouging was very, very satisfying’: how we made cave horror classic The Descent",
       "description": "‘The child crawler whose head I crush with my boot was only 11, bless him. It was actually me stamping on a cauliflower’ I was introduced to Christian Colson at Celador Films off the back of [2002 horror film] Dog Soldiers, and I pitched them a project – actually a feature-length version of my student graduation film – about zombies on an oil rig. They liked it but said it was too expensive, so on the train back to Newcastle I was asking myself what would make a really scary horror film that could be contained and so made on a budget. I was thinking of things set in the dark and was like, well … caves . At the back of my mind was a school trip to a lead mine where the guide had said, “OK, everybody, turn your lights off” and, for the first time, I experienced a darkness that I just couldn’t fathom. Continue reading...",
@@ -110,42 +194,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE2ODQ1Lw",
-      "title": "‘Ladies and Gentlemen, Brian Mulroney’ Review: Matthew Rankin’s Psychedelic Tour Through Mid-Century Canadian Conservative Politics",
-      "description": "The story of Brian Mulroney’s political ascent doubles as a critique of televisual culture and a snapshot of a less extreme political era.",
-      "url": "https://www.indiewire.com/criticism/movies/ladies-and-gentlemen-brian-mulroney-movie-review-1235216845/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/images-4.jpeg?w=650",
-      "publishedAt": "2026-09-14T14:08:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE2ODMwLw",
-      "title": "‘Evil Genius’ Review: Patricia Arquette and David Harbour Take on a Horrifying True Crime Story",
-      "description": "TIFF: Courteney Cox directs a grating, mean-spirited exercise in punching down based on the notorious 2003 case.",
-      "url": "https://www.indiewire.com/criticism/movies/evil-genius-review-patricia-arquette-david-harbour-bomber-1235216830/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/EVIL-GENIUS-TIFF-Still.jpg?w=650",
-      "publishedAt": "2026-09-14T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XYtMTIzNTIxNjgyNS8",
-      "title": "‘Minotaur’ Trailer: Thrilling, Cannes-Winning Russian Noir Updates ‘Unfaithful’ for Even More Hopeless Times",
-      "description": "Andrey Zvyagintsev nearly died in the years between making Oscar nominee \"Loveless\" and his latest, \"Minotaur,\" due to COVID complications. He's back in full miserable glory.",
-      "url": "https://www.indiewire.com/news/trailers/minotaur-trailer-zvyagintsev-1235216825/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.22.34 PM.png?w=650",
-      "publishedAt": "2026-09-14T13:25:24.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "bbc-F9jYW1wYWlnbj1yc3M",
@@ -160,18 +208,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTY3OTEv",
-      "title": "Andrew Scott Knew How to Play Hamlet, but ‘Elsinore’ Required Him to Channel Another Actor",
-      "description": "\"Elsinore\" is wowing audiences and critics on the fall festival circuit, with Scott now in the Best Actor race.",
-      "url": "https://www.indiewire.com/awards/consider-this/andrew-scott-elsinore-hamlet-ian-charleson-interview-1235216791/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294951423.jpg?w=650",
-      "publishedAt": "2026-09-14T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XRzaWRlLXRoZS1ib3g",
       "title": "In an age of superhero fatigue, Marvel’s best shot is to think small – and outside the box",
       "description": "Sebastian Stan says he pitched Marvel a mid-budget thriller starring his Winter Soldier character. Perhaps the studio should give it – and other modestly scaled vehicles – the green light Blink a little and you might think we are back in 2019. The latest Spider-Man film, Brand New Day, has just passed $2.4bn at the global box office, to become the third-highest grossing film of all time behind Avatar and Avengers: Endgame. Meanwhile Avengers: Doomsday is reported to have already earned more than $50m in US ticket presales alone, despite the fact that it doesn’t come out until December. Clearly we are in the middle of a superhero renaissance. And yet it doesn’t really feel like it, largely because it is something of a turnaround for Marvel, after a pretty disappointing 2025 in which all three of the studio’s releases underperformed. Captain America: Brave New World took $415m worldwide, Thunderbolts* managed $382m and even the well-reviewed The Fantastic Four: First Steps stalled at $521m, against a reported $200m budget. These are hardly Madame Web numbers but they do suggest there is still a problem about what to do with all those superheroes who cannot sustain a $300m multiversal extravaganza. Continue reading...",
@@ -181,18 +217,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-9oLTEyMzUyMTY3NzUv",
-      "title": "‘The Surgeon’ Review: Michelle Yeoh Doctors a Gang of Mobsters to Death in a Fun Little Action Movie That Gets by on Its Grossness",
-      "description": "Roshan Sethi M.D.'s second feature is a \"Taken\" riff that trades guns for scalpels to great effect.",
-      "url": "https://www.indiewire.com/criticism/movies/the-surgeon-movie-review-michelle-yeoh-1235216775/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TSU_4K-Scope_-aces-r709_1.194.1-H-2026.webp?w=650",
-      "publishedAt": "2026-09-14T12:10:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -242,42 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE2NjIwLw",
-      "title": "‘The Life and Deaths of Wilson Shedd’ Review: Amanda Seyfried Falls for a Convicted Killer in Tim Blake Nelson’s Sad and Sober Death Penalty Drama",
-      "description": "TIFF: Scoot McNairy seduces his prison writing teacher in a true-life drama with no easy answers.",
-      "url": "https://www.indiewire.com/criticism/movies/the-life-and-deaths-of-wilson-shedd-movie-review-1235216620/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/THE-LIFE-AND-DEATHS-OF-WILSON-SHED.webp?w=650",
-      "publishedAt": "2026-09-14T03:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-20tMTIzNTIxMzE5OC8",
-      "title": "‘All That She Wants’ Review: It’s Time to Welcome Annie Murphy to the Rom-Com Queen Club",
-      "description": "TIFF: Filmmakers (and real-life spouses) Scarlett Bermingham and Andrew Rhymer direct Murphy and Cooper Raiff in a warm rom-com about generational disconnect, real chemistry, and hard choices. It's adorable.",
-      "url": "https://www.indiewire.com/criticism/movies/all-that-she-wants-movie-review-annie-murphy-rom-com-1235213198/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ALL_THAT_SHE_WANTS-01.webp?w=650",
-      "publishedAt": "2026-09-14T03:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing",
-      "description": "Beef stars Oscar Isaac and Carey Mulligan are among the nominees at the ceremony in Los Angeles.",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a8ab/live/1b6694c0-b017-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-13T23:21:00.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-Zlc3RpdmFsLXZpZGVv",
@@ -337,18 +325,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-      "description": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg",
-      "publishedAt": "2026-09-12T16:32:27.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -578,18 +554,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
-      "description": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9efb/live/965f7290-aa96-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-07T01:31:41.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
