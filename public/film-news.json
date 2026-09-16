@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:42:17.302Z",
+  "generatedAt": "2026-09-16T18:35:14.623Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-JlLTEyMzUyMTczNjgv",
+      "title": "NewFest Lineup Showcases ‘La Bola Negra’ NYC Premiere, Plus ‘Elsinore,’ ‘Club Kid,’ and More",
+      "description": "Exclusive: New York City's premier LGBTQ+ film festival runs October 15-25 with 144 films representing 23 countries.",
+      "url": "https://www.indiewire.com/news/festivals/newfest-2026-lineup-la-bola-negra-nyc-premiere-1235217368/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bC0xMjM1MjE3NDA5Lw",
+      "title": "‘Stuffed’ Review: There Are No Certainties in Life Besides Death and Taxidermy in This Zany, Bleakly Romantic Body Horror Musical",
+      "description": "Infectious tunes and killer performances from Jodie Comer and Harry Melling have Theo Rhys' film destined for cult classic status.",
+      "url": "https://www.indiewire.com/criticism/movies/stuffed-movie-review-harry-melling-jodie-comer-musical-1235217409/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/STUFFED_REC709_4096x1716_01_21_53_12.jpg?w=650",
+      "publishedAt": "2026-09-16T16:11:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-QtbW92aWUtcmV2aWV3",
+      "title": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
+      "description": "The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in there! Girl, get out of the house! Guys, ignore that distress signal! But genre aficionados may find themselves falling a little bit in love with Bryan (Austin Abrams), the hapless de facto hero of the new horror film Resident Evil. It’s not that Bryan is traditionally hunky, or even a caricatured version of a square-jawed warrior, like Bruce Campbell in his later Evil Dead outings. But Abrams is in possession of a Campbell-ish charm, even in the face of his character’s repeated blundering, as well as an everyman relatability that makes this wild carnival-ride movie play a little closer to the ground. Bryan is a courier – a glorified Postmates driver, in his own estimation – who postpones the end of his shift to take one last night-time run, driving an important item from one hospital to another in a snowstorm without the proper tires or four-wheel drive. After all, the distance and urgency means double pay. When he hits a mysterious woman who emerges suddenly on to a slick road, he’s drawn into a hellish outbreak that will look familiar to fans of the Resident Evil video game series (or maybe the previous six-movie Milla Jovovich franchise, which apparently drifted afield from the games’ storylines). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
+      "image": "https://i.guim.co.uk/img/media/fbbc7a8cc12b46d1a7d2687cfe582e06d6dc9753/715_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5c1403dad3fe242bcd7aa69603b2777d",
+      "publishedAt": "2026-09-16T16:00:23.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTc0MDMv",
+      "title": "‘Resident Evil’ Review: Zach Cregger’s Relentless Adaptation Is the Future of Video Game Movies, Even When Too Goofy for Its Own Good",
+      "description": "Austin Abrams dives into the heart of a zombie apocalypse in a lean, mean, 85-minute thrill ride that captures the experience of playing the \"Resident Evil\" games.",
+      "url": "https://www.indiewire.com/criticism/movies/resident-evil-movie-review-2026-zach-cregger-1235217403/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-FzLTEyMzUyMTczODQv",
+      "title": "‘Sacrifice’ Trailer: Anya Taylor-Joy, Chris Evans, John Malkovich, and Charli XCX Take Aim at Celebrity Vapidity",
+      "description": "In Romain Gavras' English-language debut, a Ruben Östlund-ish set-up gets a fiery edge.",
+      "url": "https://www.indiewire.com/news/trailers/sacrifice-trailer-anya-taylor-joy-chris-evans-romain-gavras-1235217384/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/08/Sacrifice_STILL_Graded_SRC-RES_R2_000001.jpg?w=650",
+      "publishedAt": "2026-09-16T15:10:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjE3MzYyLw",
+      "title": "Woodstock Film Festival Unveils 2026 Lineup Featuring ‘The Debut,’ ‘I Play Rocky,’ ‘Club Kid,’ and More",
+      "description": "Exclusive: Woodstock Film Festival will also include awards contenders like \"Musk,\" \"Possible Love,\" and \"Being Heumann.\"",
+      "url": "https://www.indiewire.com/news/festivals/woodstock-film-festival-2026-lineup-the-debut-musk-club-kid-1235217362/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Club-Kid.jpg?w=650",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZXZpZXctZXN0b25pYQ",
+      "title": "Smile at Last review – photo-love-story style parable of a teen abandoned at a tough Soviet youth facility",
+      "description": "With handheld camerawork, this unsentimental rite of passage film follows Mari, who tries to escape from a residential home in Estonia This intriguing 1985 film from Estonia uses nonprofessionals and handheld camerawork, which brings faces looming up to the screen. It is directed by Leida Laius and Arvo Iho and based on the YA novel Stepmother by Estonian author Silvia Rannamaa. The Estonian title Naerata Ometi is translated here as Smile at Last; perhaps it should be Give Us a Smile as it is what a boorish, bullying guy tells a shy, unhappy young woman. It is at one level a kind of coming-of-age story, but entirely without that genre’s usual, sentimental sense of something finally learned or gained from an emotional rite of passage – something finally to smile about, in fact. Actually, it is more of a mysterious parable, couched in the language of soap opera or photo-love story, depicting the Soviet state and its gruesome pretension to be caring or nurturing. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/smile-at-last-review-estonia",
+      "image": "https://i.guim.co.uk/img/media/d988dd61375d7c58040ba1c8b3124383eeff2ecc/537_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=6c88f4c3e835eb362734dd9faa2d052b",
+      "publishedAt": "2026-09-16T14:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7462/live/9fd94070-b1b8-11f1-bdcf-d393eb724fa3.jpg",
+      "publishedAt": "2026-09-16T13:29:39.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-i1kaWVzLWFnZWQtODU",
+      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "description": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol , Guzmán died on Tuesday in Paris after a cardiorespiratory arrest. Guzmán’s chief preoccupation throughout his career was the carnage unleashed by Augusto Pinochet’s coup in 1973 against Salvador Allende, Chile’s elected president. He later told the Guardian : “I’m a film-maker who was very marked by the ways of the dictator. It has remained with me for ever. I cannot leave it behind.” However, he resisted the idea that he was an activist, political film-maker, adding: “I’m not a sociologist. Neither am I a politician. I make films that are metaphorical and poetic; I interpret reality through my own personal way of looking.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "image": "https://i.guim.co.uk/img/media/43b24454f17b84b616666f19f2c396e773ad772e/0_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc04cc1b3fb35f230fb25ca87645ece",
+      "publishedAt": "2026-09-16T13:15:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MTc0Mzg2Lw",
+      "title": "‘The History of Concrete’ Review: John Wilson Illustrates How to Get Over a Beloved TV Show with a Moving and Hilarious Meditation on Death",
+      "description": "DMX, Hallmark movies, Kim Kardashian, and public diarrhea are just some of the countless things mixed into John Wilson's excellent debut feature.",
+      "url": "https://www.indiewire.com/criticism/movies/the-history-of-concrete-movie-review-john-wilson-1235174386/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/dfe02nui4The_History_of_Concrete-Still_3.jpg?w=650",
+      "publishedAt": "2026-09-16T12:51:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-ZS0xMjM1MjE3MzM1Lw",
       "title": "How to Make IndieWire a Preferred Source on Google",
@@ -100,16 +220,16 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
-      "description": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely contained chamber-piece movies, where a handful of characters find themselves in a usually remote house, dialogue taking obvious precedence over action. There were some highlights, such Kevin Williamson’s timely slasher Sick , and some considerable low points, such as Sam Levinson’s vapid drama Malcolm & Marie , but while we had plenty of them, none of them rivalled some of the greatest and smartest pre-pandemic examples. The very best tended to be based on plays and quite often starred Michael Caine. He was in Anthony Shaffer’s Sleuth, which went from Tony to Oscar success back in the 1970s, and then the arguably even better Deathtrap in the decade after, which Sidney Lumet adapted from Ira Levin’s deviously plotted play. In between there was also an under-seen TV movie called One of My Wives Is Missing , based on 60s play Trap for a Single Man, which was notably lesser but still delivered a similarly specific brand of twisty, talky thrills. There would be secrets, surprises, reversals and usually at least one dead body by the end of it, a subgenre entirely indebted to the work of Agatha Christie (who reportedly loved Sleuth on stage so much that she dedicated a picture of herself to be hung in the house used in the big screen adaptation). The bar is therefore held rather high, a puzzle that requires an ingenious level of writing that needs to be smart without smug and shocking without feeling cheap. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=57736b885b83a9edb64da4c385f8619d",
-      "publishedAt": "2026-09-15T21:58:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
+      "id": "bbc-F9jYW1wYWlnbj1yc3M",
+      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
+      "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b2e/live/510c03c0-b1a8-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-15T22:04:38.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-dy0xMjM1MjE3MzQyLw",
@@ -148,78 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-8tbW92aWUtcmV2aWV3",
-      "title": "Bad Lieutenant: Tokyo review – Takashi Miike follows Ferrara and Herzog with a disappointment",
-      "description": "Toronto film festival: There’s a surprisingly tame quality to the gorehound’s contribution to the rough and ready franchise and a general aimlessness that frustrates Abel Ferrera’s Bad Lieutenant, starring Harvey Keitel as the eponymous coke-addled cop stumbling into crime scenes and contributing to the injustices, felt like it had us rooting around the mouldy and corroded interior of a back-alley dumpster, searching for a soul. A Takashi Miike adaptation seemed an appealingly foul idea. The maestro behind Audition and Ichi The Killer is known for punishing audiences with J-horror violence but with a formal elegance that we couldn’t look away from. His Bad Lieutenant: Tokyo should have been the perfect marriage of moral degradation and corporal desecrations. The movie lives up to its promise when those extremes are giddily on the same page. But more often than not Bad Lieutenant: Tokyo is a confounding and frustrating mess, a smorgasbord of good ideas (and some bad ones) at odds with each other, barely held together by Shun Oguri’s wily performance. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/bad-lieutenant-tokyo-movie-review",
-      "image": "https://i.guim.co.uk/img/media/7c7a74056129c3518a65b9c65bc21d808985cf74/409_0_3100_2480/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e3e4dea34265607121104238c2fff92d",
-      "publishedAt": "2026-09-15T19:14:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cC0xMjM1MjE3MjYyLw",
-      "title": "Watch Brit Rock Legends Get Introspective in ‘PULP: What Do You Do for an Encore?’ — Exclusive Clip",
-      "description": "Catch an exclusive look at “PULP: What Do You Do for an Encore?\" before the MUBI concert film heads to U.S. theaters for one night only on September 24.",
-      "url": "https://www.indiewire.com/news/trailers/pulp-what-do-you-do-for-an-encore-exclusive-clip-1235217262/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Jarvis-Cocker_Joseph-Lynn.jpg?w=650",
-      "publishedAt": "2026-09-15T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIxNjUwMC8",
-      "title": "‘The Color of the Sun’ Review: Teen Angst and Alienation Get a Sensuous Study in Okinawa",
-      "description": "Venice: Xavier Tera's alternatingly unsettling and languorous debut lingers on a Japanese teen's fixation on a more self-assured American military brat. Both understand each other's language, but neither speaks it.",
-      "url": "https://www.indiewire.com/criticism/movies/the-color-of-the-sun-review-jeremy-o-harris-1235216500/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/113675-THE_COLOR_OF_THE_SUN_-_Actor_Naoto_Shimajiri-H-2026.webp?w=650",
-      "publishedAt": "2026-09-15T18:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-di0xMjM1MjE3MjcxLw",
-      "title": "Inside the 2026 Emmys, Where TV’s Brightest Talents Shared the Spotlight with Its Long-Term Challenges",
-      "description": "The 2026 Emmys provided much to celebrate at the ceremony and after parties, with several records broken. It also highlighted some unfortunate changes that have happened in the TV space.",
-      "url": "https://www.indiewire.com/awards/industry/inside-emmys-parties-2026-best-worst-times-for-tv-1235217271/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1083AWX.jpg?w=650",
-      "publishedAt": "2026-09-15T18:35:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-YS0xMjM1MjE3Mjc3Lw",
-      "title": "A Federal Tax Incentive for Filming Could Bring in Extra $125 Billion in Production Spend — and Impact Without It Could Be Devastating",
-      "description": "An MPA-commissioned study estimated 143,500 new jobs added through 2035 if President Trump puts in place filming incentives on a federal level.",
-      "url": "https://www.indiewire.com/news/business/federal-tax-incentive-filming-study-mpa-1235217277/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2153261033.jpg?w=650",
-      "publishedAt": "2026-09-15T18:24:06.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XYtMTIzNTIxNzI0Ni8",
-      "title": "‘The Liberation’ Review: Carrie Coon Joins a Cult, and One of Her Best Performances Follows",
-      "description": "TIFF: Guy Nattiv's film draws on his grandmother's horrifying experiences, giving the actress a role she can really sink her teeth into. The rest of the film could benefit from that bite, though.",
-      "url": "https://www.indiewire.com/criticism/movies/the-liberation-review-carrie-coon-cult-guy-nattiv-1235217246/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
-      "publishedAt": "2026-09-15T17:17:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-HVzdHJ5LXN1cHBvcnQ",
       "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
       "description": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym euphemistically used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. It includes interviews with 24 Israeli military or intelligence soldiers and officers who outlined the AI-powered targeting systems used to bombard Gaza, resulting in the mass killing of Palestinian civilians. Continue reading...",
@@ -230,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIxNjI3OS8",
-      "title": "JustWatch, Which Tells You Where Things Are Streaming, Is Launching Its Own Streaming Service",
-      "description": "JustWatch TV launches next month for TVOD, AVOD, and SVOD viewing with content partnerships with Paramount, New Regency, Fremantle, Bleecker Street, and Vortex Media.",
-      "url": "https://www.indiewire.com/news/general-news/justwatch-launches-streaming-service-1235216279/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2021/06/AdobeStock_182960573.jpeg?w=650",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -304,18 +340,6 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-      "description": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-14T18:26:20.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-plbnNoaXAtbnR3bmZi",
       "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
       "description": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
@@ -325,18 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-F9jYW1wYWlnbj1yc3M",
-      "title": "This is what women in sport look like - female athletes hit back",
-      "description": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-14T13:17:47.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -358,30 +370,6 @@
       "url": "https://www.theguardian.com/world/video/2026/sep/13/naza-directors-yuval-abraham-speech-venice-film-festival-video",
       "image": "https://i.guim.co.uk/img/media/b8d30d2e97bfe08c1e5593727a33b35770fb6dff/498_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=154ab25a6b0d52124663ddc499c90616",
       "publishedAt": "2026-09-13T13:48:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-      "description": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5584/live/43fdac50-adda-11f1-8b98-35ffe039e825.jpg",
-      "publishedAt": "2026-09-12T23:41:52.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-lhbC1qdXJ5LXByaXpl",
-      "title": "Woman Unknown wins Venice film festival as NAZA takes special jury prize",
-      "description": "May el-Toukhy becomes eighth female director to take Golden Lion as Lee Chang-dong’s Possible Love and Guardian-produced exposé of Israel’s Gaza killings also awarded Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love – and NAZA May el-Toukhy’s Woman Unknown has scooped the Golden Lion at the Venice film festival, at an awards ceremony that also saw the Gaza documentary NAZA win the jury prize. Set in the immediate aftermath of Danish liberation from Nazi occupation, the Egyptian-Danish director’s film tells the story of a young housemaid, Marie (Mathilde Arcel), who is about to marry her widowed employer but anxious about him discovering a shameful secret in her past: during the war, Marie had an intimate relationship with a German soldier. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/woman-unknown-wins-venice-film-festival-as-naza-takes-special-jury-prize",
-      "image": "https://i.guim.co.uk/img/media/e728a70a17ef1893740beef47281ee0b88d48838/316_0_3616_2894/master/3616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25a0ee940b7097f5142147e4c72f6af7",
-      "publishedAt": "2026-09-12T21:17:08.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -445,18 +433,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "People long for simpler times, say Practical Magic reboot stars",
-      "description": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/905e/live/454e9fb0-adc1-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-11T00:51:17.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -577,18 +553,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
-      "description": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
-      "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e125/live/6738e420-ab49-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-07T15:43:11.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Reviews"
     },
     {
