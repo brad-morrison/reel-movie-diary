@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:33:29.546Z",
+  "generatedAt": "2026-09-16T01:04:04.478Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-95LTEyMzUyMTczNTkv",
+      "title": "‘Faith’ Review: Erin Doherty’s Grieving Mother Approaches Sublimation in a Drama with Otherworldly Overtones",
+      "description": "TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.",
+      "url": "https://www.indiewire.com/criticism/movies/faith-review-erin-doherty-james-mcavoy-1235217359/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-15-at-4.39.17-PM.png?w=650",
+      "publishedAt": "2026-09-15T23:45:20.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE3MzQyLw",
+      "title": "‘At Night’ Review: A Feminist Feature Debut Refutes the Idea of Monolithic Womanhood",
+      "description": "TIFF: First-time feature filmmaker Beatrice Gibson adapts the poetry of Alice Notley into a spellbinding work of autofiction.",
+      "url": "https://www.indiewire.com/criticism/movies/at-night-review-1235217342/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-15-at-1.34.14-PM.png?w=650",
+      "publishedAt": "2026-09-15T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-J5LTEyMzUyMTcyNjQv",
+      "title": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch",
+      "description": "Exclusive: Director Piotr Winiewicz and the AI that was trained on Herzog’s body of work, with his permission, will do Q&#38;As when the film screens.",
+      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
+      "publishedAt": "2026-09-15T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTcyODQv",
+      "title": "Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel",
+      "description": "TIFF: As the newly-minted Tony winner introduces \"A Talent for Murder\" to festival audiences, he goes long with IndieWire on everything from \"Beautiful Creatures\" to \"Oppenheimer,\" \"Solo\" to \"Hail, Caesar!,\" and never taking any of it for granted.",
+      "url": "https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2295261213.jpg?w=650",
+      "publishedAt": "2026-09-15T19:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cC0xMjM1MjE3MjYyLw",
+      "title": "Watch Brit Rock Legends Get Introspective in ‘PULP: What Do You Do for an Encore?’ — Exclusive Clip",
+      "description": "Catch an exclusive look at “PULP: What Do You Do for an Encore?\" before the MUBI concert film heads to U.S. theaters for one night only on September 24.",
+      "url": "https://www.indiewire.com/news/trailers/pulp-what-do-you-do-for-an-encore-exclusive-clip-1235217262/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Jarvis-Cocker_Joseph-Lynn.jpg?w=650",
+      "publishedAt": "2026-09-15T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxNjUwMC8",
+      "title": "‘The Color of the Sun’ Review: Teen Angst and Alienation Get a Sensuous Study in Okinawa",
+      "description": "Venice: Xavier Tera's alternatingly unsettling and languorous debut lingers on a Japanese teen's fixation on a more self-assured American military brat. Both understand each other's language, but neither speaks it.",
+      "url": "https://www.indiewire.com/criticism/movies/the-color-of-the-sun-review-jeremy-o-harris-1235216500/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/113675-THE_COLOR_OF_THE_SUN_-_Actor_Naoto_Shimajiri-H-2026.webp?w=650",
+      "publishedAt": "2026-09-15T18:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-di0xMjM1MjE3MjcxLw",
+      "title": "Inside the 2026 Emmys, Where TV’s Brightest Talents Shared the Spotlight with Its Long-Term Challenges",
+      "description": "The 2026 Emmys provided much to celebrate at the ceremony and after parties, with several records broken. It also highlighted some unfortunate changes that have happened in the TV space.",
+      "url": "https://www.indiewire.com/awards/industry/inside-emmys-parties-2026-best-worst-times-for-tv-1235217271/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1083AWX.jpg?w=650",
+      "publishedAt": "2026-09-15T18:35:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-YS0xMjM1MjE3Mjc3Lw",
       "title": "A Federal Tax Incentive for Filming Could Bring in Extra $125 Billion in Production Spend — and Impact Without It Could Be Devastating",
@@ -100,59 +184,11 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-XctMTIzNTIxNzIxOC8",
-      "title": "Rose Abdoo Can’t Wait for the ‘Gilmore Girls’ Documentary — and Says It ‘Gets Greater Later’ at 63",
-      "description": "For the 2026 Emmys, the \"Hacks\" actress talked about her legacy in Stars Hollow, reflected on sharing the screen with Jean Smart, and discussed embarking on a new chapter with CBS’s “Eternally Yours.”",
-      "url": "https://www.indiewire.com/features/interviews/rose-abdoo-gilmore-girls-documentary-interview-1235217218/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/rose-abdoo.png?w=650",
-      "publishedAt": "2026-09-15T13:41:45.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-R2LTEyMzUyMTcyMTcv",
-      "title": "Michelle Khare Says YouTube’s Upload Button Is Changing Who Gets to Make Prestige TV",
-      "description": "The 2026 IndieWire Honors Pulse Award winner caught up with us on the Emmys carpet to chat about her next stunt — and the wave of ambitious storytellers bypassing Hollywood gatekeepers.",
-      "url": "https://www.indiewire.com/features/interviews/michelle-khare-says-youtube-changing-who-gets-to-make-tv-1235217217/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P1083AUB-e1789456658479.jpg?w=650",
-      "publishedAt": "2026-09-15T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-mUtMTIzNTIxNjkzMC8",
-      "title": "Neil Jordan on Making His Homoerotic ‘Interview with the Vampire’ for a Major Studio with A-List Stars",
-      "description": "On the occasion of a new 4K UHD release, the director of \"Mona Lisa\" and \"The Crying Game\" looks back on one of his boldest projects: a sensual, provocative vampire film he made with Tom Cruise, Brad Pitt, and a young Kirsten Dunst.",
-      "url": "https://www.indiewire.com/features/interviews/neil-jordan-tom-cruise-interview-with-the-vampire-1235216930/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDINWI_EC032.jpg?w=650",
-      "publishedAt": "2026-09-15T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE3MTIyLw",
-      "title": "‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words",
-      "description": "Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present.",
-      "url": "https://www.indiewire.com/criticism/movies/edward-said-between-worlds-documentary-movie-review-1235217122/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Still_Hero.jpg?w=650",
-      "publishedAt": "2026-09-15T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
       "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
       "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/95eb/live/1525c960-b11a-11f1-a540-61c3f7fc4e6c.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6304/live/3024d1b0-b152-11f1-8912-fb2bed4049e7.jpg",
       "publishedAt": "2026-09-15T12:06:19.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -208,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-N0LTEyMzUyMTY5MTMv",
-      "title": "The Emmys Gave TV Fans Winners Worth Cherishing — and a Ceremony for Somebody Else",
-      "description": "Kate O'Flynn, Rhea Seehorn, and Matthew Rhys (twice!) comprised a field of Emmy winners tailor-made to thrill die-hard TV fans, but the telecast meant to honor them had other priorities.",
-      "url": "https://www.indiewire.com/criticism/shows/emmys-2026-review-mariska-hargitay-host-1235216913/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Emmys-2026-Kate-OFlynn-Widows-Bay-win.jpg?w=650",
-      "publishedAt": "2026-09-15T04:37:04.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-b2JhbWEtdmVuaXNvbg",
       "title": "Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’",
       "description": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet. He talks about naysayers, elephant tusks – and the wonders of venison Benedict Cumberbatch is dreading stepping outside. He’s speaking to me from his air-conditioned hotel room in Soho at the peak of the summer heat. Few doubt that climate breakdown was a major cause of those scorchers, with nature, farming and water supplies all placed under huge strain. By midsummer, according to a report co-authored by the Met Office , there were 2,700 excess deaths in England and Wales due to the searing heat. But for Cumberbatch, in a bittersweet way, the record-breaking temperatures have come at a good time. The actor has been on a tour to promote his new documentary, How to Live on Earth. “The irony is not lost on anyone,” he says. “We’re living in the results of climate breakdown so stepping outside is – literally – a call to action.” Continue reading...",
@@ -241,30 +265,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE3MDE0Lw",
-      "title": "John Mulaney’s Bleeped Oral Sex Joke to Colman Domingo Dancing with Mariska Hargitay, 5 Emmy Moments Not Seen (or Heard) on TV",
-      "description": "The lengthy In Memoriam segment also confused a few attendees at the 2026 Emmys.",
-      "url": "https://www.indiewire.com/awards/results/2026-emmys-what-you-missed-on-tv-john-mulaney-oral-sex-joke-1235217014/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2295305472.jpg?w=650",
-      "publishedAt": "2026-09-15T03:37:34.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjE3MDc2Lw",
-      "title": "Emmy Awards Snubs and Surprises: Harrison Ford’s Shocking Loss, Allison Janney’s Upset Win, and Matthew Rhys’ Record-Breaking Night",
-      "description": "\"Beef\" Season 2 was clearly sacrificed to the eldritch power that haunts \"Widow's Bay.\"",
-      "url": "https://www.indiewire.com/awards/results/emmy-awards-snubs-surprises-harrison-ford-allison-janney-1235217076/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2295315912.jpg?w=650",
-      "publishedAt": "2026-09-15T03:10:19.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "TV"
     },
     {
