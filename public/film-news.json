@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:04:04.478Z",
+  "generatedAt": "2026-09-16T12:42:17.302Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,78 @@
   },
   "articles": [
     {
+      "id": "indiewire-ZS0xMjM1MjE3MzM1Lw",
+      "title": "How to Make IndieWire a Preferred Source on Google",
+      "description": "You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.",
+      "url": "https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-11-at-1.41.40-PM.png?w=650",
+      "publishedAt": "2026-09-16T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxNzM2NS8",
+      "title": "The Final Trailer for ‘Wildwood’ Provides Deepest Look Yet at an Epic Adventure",
+      "description": "Laika's sixth stop-motion feature will be available in 4DX, DBOX, and Dolby Cinema.",
+      "url": "https://www.indiewire.com/news/trailers/wildwood-final-trailer-1235217365/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650",
+      "publishedAt": "2026-09-16T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-VldC1ha3JhbS1raGFu",
+      "title": "In-I in Motion review – Juliette Binoche pulls back the curtain on dance duet with Akram Khan",
+      "description": "The actor makes her directing debut with a raw, fascinating film about her 2008 collaboration with the British dancer In the way that wedding rehearsals can be more emotional than the big day – all the untidy feelings that will be tucked away for the cameras still on show – this documentary from Juliette Binoche feels raw and unguarded. It goes behind the scenes of Binoche’s collaboration with British dancer Akram Khan; their dance-theatre piece, a love story entitled In-I, premiered in London to mixed reviews in 2008 . Now, all these years later, Binoche makes her directing debut with a film that is essentially a study of their artistic process. And it’s unexpectedly fascinating, watching two world-famous performers pushing themselves outside their comfort zones, exposed and vulnerable – particularly Binoche, who had never danced professionally before. In-I in Motion is a film of two halves, ending with a performance on stage in front of an audience, the set designed by artist Anish Kapoor: a vast screen in murderous red. The first half is more interesting, shot fly-on-the-wall style during the months it took to create the piece in a studio. Binoche and Khan work with acting coach Susan Batson, who at one point thunders: “THIS IS FULL OF SHIT!” (never mind La Binoche’s Oscar). For some audiences, it will have a whiff of theatrical cringe; the endless stewing and fretting over how to achieve something truthful is ripe for spoof. But the pure intensity and focus is thrilling to watch. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/in-i-in-motion-review-juliette-binoche-dance-duet-akram-khan",
+      "image": "https://i.guim.co.uk/img/media/e798f1fcb44e3eef92689229d862bb243abb8e27/1230_0_5625_4500/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=979e6f5bf0bdf6dcf5879d1aae7effa1",
+      "publishedAt": "2026-09-16T12:00:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-aW5nLXRoZS1jYWtlcw",
+      "title": "Your mission, Tom Cruise, is to improve at interviews. And please keep sending the cakes",
+      "description": "He risks his life for entertainment, but getting an anecdote out of him is a trickier matter. Happily, Cruise is no stranger to knuckling down and pulling off the impossible By now, we’ve grown used to watching Tom Cruise excel at everything he does. Running in films? The best. Risking his life in action scenes so preposterously dangerous that audiences need to have their sphincters manually unclenched with a crowbar? Absolutely, none better. Singlehandedly ensuring that theatrical exhibition didn’t go extinct after Covid? The man deserves all the praise in the world for that. But nobody is perfect. Live long enough and a few flaws will worm their way to the surface. This is as true for Tom Cruise as it is for anyone else. And while I realise that this might do me out of a cake this Christmas , the following really needs to be said: Tom Cruise isn’t very good at interviews. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/your-mission-tom-cruise-is-to-improve-at-interviews-and-please-keep-sending-the-cakes",
+      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/241_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=136c7020de89792e8845d5666cdfb2cf",
+      "publishedAt": "2026-09-16T10:24:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-GF5YW8tbWl5YXpha2k",
+      "title": "Whisper of the Heart review – Studio Ghibli deep cut is pep talk on how to live the artistic life",
+      "description": "Hayao Miyazaki-scripted 90s teen romance sees an aspiring writer drawn to a potential soulmate thanks to library books and a curmudgeonly cat While 2013’s The Wind Rises and 2023’s The Boy and the Heron saw Hayao Miyazaki break his wizard’s staff, artistically speaking, this lesser-known Studio Ghibli cut from 1995, based on his screenplay, shows he was dwelling on creative responsibilities from early on. Featuring a typical Ghibli protagonist on the brink of adulthood – aspiring schoolkid writer Shizuku (voiced by Yōko Honna) – this teen romance doubles up as an earnest pep talk on how to commit to the artistic life. It’s not quite as sophisticated, though, in its understanding of the interplay between imagination and reality as Miyazaki’s later masterpieces. It also features highly inventive use of that 2010s soundtrack favourite: John Denver’s Take Me Home, Country Roads . Shizuku shows off her fledgling penmanship for a school performance of the song devising hilarious Japanese lyrics that satirise Tokyo’s “concrete roads”. But while her writing shows promise, her love life remains in the fantasy realm. Mainlining library books, she realises that the same name, Seiji Amasawa, keeps appearing on the lists of previous borrowers. It feels like fate is pointing her towards a soulmate – especially when a curmudgeonly cat leads her “like in a story” to an intriguing curio shop near the library. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/whisper-of-the-heart-review-studio-ghibli-deep-cut-hayao-miyazaki",
+      "image": "https://i.guim.co.uk/img/media/553eae5974f4ebdf9ca20e905cbdc2b15d090151/686_0_2924_2341/master/2924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=cfd83dcaba603323eb2cf5dd5d3f710c",
+      "publishedAt": "2026-09-16T10:00:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-W5kaWFuLXJvbWFuY2U",
+      "title": "The Cycle of Love review – a 6,000-mile bike ride caps a real life Swedish-Indian romance",
+      "description": "One Oscar-winning director, one horoscope-prompted meet-cute and a continent-crossing cyclist – is this the start of documentaries that make you happy-cry? Here is a story that on the face of it seems so wildly unlikely it can only be true. Indeed, the very concept of a romantic documentary sounds almost oxymoronic, an indication of how much nonfiction films have become synonymous with grim histories full of suffering and injustice. Let’s hope this sweet work, directed by Orlando von Einsiedel (who’s made his share of hardcore, suffering-intensive docs including Oscar-winning short The White Helmets) launches a new trend in nonfiction film-making for stuff that makes you happy-cry. The basic meet-cute happened in 1975, when PK (played by Chirag Lobo in the film’s extensive re-enactments) met Lotta (Mina Dale) in Delhi. He was a poor street artist, a Dalit, the lowest possible caste, once called Untouchables. The real PK Mahanandia appears on screen to explain how he had left his rural village for Delhi in order to get away from all that caste hierarchy. When he met Lotta he pretty much knew he’d met the woman of his dreams because he’d been carrying a horoscope his father had commissioned for him when he was a baby that prophesised he’d fall in love with a woman whose family owned a jungle. Lotta, a backpacker from Sweden, hailed from a clan back home that owned a forest, so that was good enough for PK to believe he’d met his fate. After a chaste holiday romance bloomed between these two crazy kids, she went back to Sweden and he decided to bicycle the 6,000 miles all the way there from India to prove his love. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/the-cycle-of-love-review-a-6000-mile-bike-ride-caps-a-real-life-swedish-indian-romance",
+      "image": "https://i.guim.co.uk/img/media/b39a5c477545e1c8ffd3a2e08543d8182e1ea9e6/300_0_2026_1621/master/2026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=62b02d6c9700f8ce0c9c3547dbe60246",
+      "publishedAt": "2026-09-16T08:00:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-95LTEyMzUyMTczNTkv",
       "title": "‘Faith’ Review: Erin Doherty’s Grieving Mother Approaches Sublimation in a Drama with Otherworldly Overtones",
       "description": "TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.",
@@ -25,6 +97,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ItbW92aWUtcmV2aWV3",
+      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
+      "description": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely contained chamber-piece movies, where a handful of characters find themselves in a usually remote house, dialogue taking obvious precedence over action. There were some highlights, such Kevin Williamson’s timely slasher Sick , and some considerable low points, such as Sam Levinson’s vapid drama Malcolm & Marie , but while we had plenty of them, none of them rivalled some of the greatest and smartest pre-pandemic examples. The very best tended to be based on plays and quite often starred Michael Caine. He was in Anthony Shaffer’s Sleuth, which went from Tony to Oscar success back in the 1970s, and then the arguably even better Deathtrap in the decade after, which Sidney Lumet adapted from Ira Levin’s deviously plotted play. In between there was also an under-seen TV movie called One of My Wives Is Missing , based on 60s play Trap for a Single Man, which was notably lesser but still delivered a similarly specific brand of twisty, talky thrills. There would be secrets, surprises, reversals and usually at least one dead body by the end of it, a subgenre entirely indebted to the work of Agatha Christie (who reportedly loved Sleuth on stage so much that she dedicated a picture of herself to be hung in the house used in the big screen adaptation). The bar is therefore held rather high, a puzzle that requires an ingenious level of writing that needs to be smart without smug and shocking without feeling cheap. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
+      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=57736b885b83a9edb64da4c385f8619d",
+      "publishedAt": "2026-09-15T21:58:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -62,6 +146,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-8tbW92aWUtcmV2aWV3",
+      "title": "Bad Lieutenant: Tokyo review – Takashi Miike follows Ferrara and Herzog with a disappointment",
+      "description": "Toronto film festival: There’s a surprisingly tame quality to the gorehound’s contribution to the rough and ready franchise and a general aimlessness that frustrates Abel Ferrera’s Bad Lieutenant, starring Harvey Keitel as the eponymous coke-addled cop stumbling into crime scenes and contributing to the injustices, felt like it had us rooting around the mouldy and corroded interior of a back-alley dumpster, searching for a soul. A Takashi Miike adaptation seemed an appealingly foul idea. The maestro behind Audition and Ichi The Killer is known for punishing audiences with J-horror violence but with a formal elegance that we couldn’t look away from. His Bad Lieutenant: Tokyo should have been the perfect marriage of moral degradation and corporal desecrations. The movie lives up to its promise when those extremes are giddily on the same page. But more often than not Bad Lieutenant: Tokyo is a confounding and frustrating mess, a smorgasbord of good ideas (and some bad ones) at odds with each other, barely held together by Shun Oguri’s wily performance. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/15/bad-lieutenant-tokyo-movie-review",
+      "image": "https://i.guim.co.uk/img/media/7c7a74056129c3518a65b9c65bc21d808985cf74/409_0_3100_2480/master/3100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e3e4dea34265607121104238c2fff92d",
+      "publishedAt": "2026-09-15T19:14:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "indiewire-cC0xMjM1MjE3MjYyLw",
@@ -128,7 +224,7 @@
       "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
       "description": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym euphemistically used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. It includes interviews with 24 Israeli military or intelligence soldiers and officers who outlined the AI-powered targeting systems used to bombard Gaza, resulting in the mass killing of Palestinian civilians. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
-      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/451_0_4488_3592/master/4488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b519ef90deb7217b7503eea71e24536a",
+      "image": "https://i.guim.co.uk/img/media/111c31690202c6b76fa105e1cc307538272e4f19/597_81_4088_3270/master/4088.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b4bde5541a51fa34018c9e204865f59",
       "publishedAt": "2026-09-15T16:44:12.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -146,30 +242,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIxNzIxNi8",
-      "title": "Hollywood’s Next Revolution Will Be Independent, Say Aisha Tyler and Kirsten Vangsness",
-      "description": "On the Emmys carpet, the “Criminal Minds: Evolution” stars said artists should stop asking permission.",
-      "url": "https://www.indiewire.com/features/interviews/aisha-tyler-kirsten-vangsness-emmys-indie-revolution-1235217216/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P101Y758.jpg?w=650",
-      "publishedAt": "2026-09-15T15:14:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE3MTUxLw",
-      "title": "‘Glaxo’ Review: Benjamín Naishtat’s Period Drama Revisits Argentina’s Dirty War In a Not-Quite-There Period Drama",
-      "description": "Though handsome enough, the writer-director’s fifth film is a disappointment after his previous two films.",
-      "url": "https://www.indiewire.com/criticism/movies/glaxo-movie-review-1235217151/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Glaxo.jpg?w=650",
-      "publishedAt": "2026-09-15T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -196,30 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZXZpZXctcGFpbnRlcg",
-      "title": "James McNeill Whistler review – painter’s work shines through attention-grabbing life story",
-      "description": "The latest Exhibition on Screen documentary does a good job balancing the famous scandals with the subtle brilliance of his art Timed to coincide with Tate Britain’s impressive gallery show – which closes at the end of September, so you haven’t long if you’ve missed it so far – this latest from the Exhibition on Screen strand does a fine job in outlining the ins and outs, and ups and downs of this still somewhat divisive artist who, Whistler’s Mother notwithstanding, is still probably most famous for winning a farthing in damages in his “flinging a pot of paint” libel action against John Ruskin. The film assembles the customary lineup of notables including the Tate’s Carol Jacobi, critic Rachel Campbell-Johnston and art historian Stephen Calloway, the latter of whom’s dandyish attire and Colonel Sanders goatee suggests he has very much bought into the Whistler aesthetic. In fact, as all the interviewees are keen to point out, Whistler’s self-constructed persona, always with an eye to making a splash, is as significant an element of his artistic presence as the art itself – even if, as I can’t be alone in thinking, there’s something fundamentally irritating about his southern-genteel attudinising even at a century and a half’s distance. Be that as it may, the film gets to grips with Whistler’s instinctive brilliance as an artist, his natural flair for boundary-pushing and forward-thinking idealism. The big life episodes – his arrival in London, painting his mother, the brouhaha over the Peacock Room , the court case and subsequent bankruptcy – are recounted, but there is impressive detail on the actual art: from the dynamics behind his brooding Wapping picture to the temper tantrums (not his) that made Harmony in Grey and Green, his portrait of the eight-year-old Cicely Alexander so distinctive. And while Whistler’s dealings with the women in his life wouldn’t exactly pass modern-era scrutiny, his pictures of them are genuinely brilliant, with especial attention given to a wonderfully tender sketch of his wife Beatrix , terminally ill in a hotel bedroom. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/james-mcneill-whistler-review-painter",
-      "image": "https://i.guim.co.uk/img/media/37cc74348c984903d3292e9226575c03805f1eb0/0_137_5851_4680/master/5851.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a36cd2e11da14dcbd301d741efedffca",
-      "publishedAt": "2026-09-15T12:00:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dWxpYW5uZS1tb29yZQ",
-      "title": "The Debut review – Julianne Moore is a thrill in Jesse Eisenberg’s oddball comedy",
-      "description": "Toronto film festival: riotous lead performance holds together third movie from actor turned film-maker, about a housewife who joins a local musical Jesse Eisenberg’s last two directorial efforts – the prickly comedy When You Finish Saving the World and the slightly softer A Real Pain – are small films rooted in the real world. They have their little idiosyncrasies, their bits of cinematic flair, but they keep their feet grounded in the here and now. For his third film, Eisenberg has said goodbye to all that (or most of that) and run headlong at the surreal and the absurd, borrowing from Charlie Kaufman and other oddballs to tell a small story in a big way. The Debut is about a repressed housewife, Mona (Julianne Moore), who decides to audition for a role in a community theater production of a musical called Nosy Neighbors, one of those gassy Manhattan trifles that were so ubiquitous on Broadway a half century ago. Mona’s kids are about to fly the nest, and her husband barely seems to notice her when she’s standing right next to him. So why not have a little creative adventure? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/the-debut-review-julianne-moore",
-      "image": "https://i.guim.co.uk/img/media/ae94f03afd4c97b0dfaa2e93d416e5292834ed4e/453_0_4526_3622/master/4526.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=3c8645f445015c3d08f3f713ac853b41",
-      "publishedAt": "2026-09-15T11:51:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-d29tYW4tdW5rbm93bg",
       "title": "Venice best actress winner says she signed on at Danish job centre days before her victory",
       "description": "Mathilde Arcel, who won the Volpi Cup on Saturday for her role in Golden Lion winner Woman Unknown, said job offers have now begun to arrive The winner of this year’s best actress prize at the Venice film festival has revealed that she is on unemployment benefits and had to fly to back to Copenhagen to report to the job centre before receiving her award. On Saturday night, Danish actor Mathilde Arcel won the prestigious Volpi Cup for her first leading role in a feature film, May el-Toukhy’s post-second world war drama Woman Unknown, which also won the Golden Lion award for best film. Continue reading...",
@@ -230,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-nN0LXRoZS1yb21hbnM",
-      "title": "Legend of Destruction review – starry voices grace animated telling of the Jewish revolt against the Romans",
-      "description": "Eight years in the making, the innovative film uses painted still images – it’s like being read a graphic novel by a cast including Oscar Isaac, Evangeline Lilly and Elliott Gould This Israeli animated film has been largely hanging around in limbo since it was finished in 2021 after taking eight years to complete – though this may or may not be due to the international opprobrium that Israel has attracted in the intervening period. It’s actually a rather fascinating film, if oddly told and a bit severe. Legend of Destruction isn’t about the current conflict, taking place as it does in the first century, 66 years after the birth of Christ – although of course, if you squint a bit, parallels with current events are there to be discerned. Revolutions fracture from within, hegemons topple due to their own greedy self-destruction, and in the end ordinary people are the ones who suffer and die as cities burn. Fill in the blanks as you see fit. Cleaving pretty closely to the known facts as recorded by Flavius Josephus’ The Jewish War and the Talmud, the script by director Gidi Dar and Shuli Rand recounts how Jewish resistance rose up in Judea, particularly in Jerusalem, against the occupying Romans and the reigning Jewish elite, including the Temple’s high priests and queen Berenice of Cilicia (Evangeline Lilly), over excessive taxation. Our protagonist narrator is ordinary schlemiel Ben Batich (voiced in this English language version by Oscar Isaac), who becomes a leader of one faction after he snaps and can no longer agree with the pleas for patience and tolerance from his mother (Marilu Henner) and rabbi uncle Yohanan ben Zakkai (Elliott Gould). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/legend-of-destruction-review-starry-voices-grace-animated-telling-of-thejewish-revolt-against-the-romans",
-      "image": "https://i.guim.co.uk/img/media/2affff4a06a87cec1249905a2ca7d7639c9be259/409_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=bffa2963ed5c09c898ffdf507be9aa7c",
-      "publishedAt": "2026-09-15T10:00:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-b2JhbWEtdmVuaXNvbg",
@@ -266,18 +302,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "guardian-LWFuZHJldy1zY290dA",
-      "title": "Elsinore review – Andrew Scott is astonishing as Ian Charleson in devastating Aids drama",
-      "description": "Toronto film festival: the actor gives his greatest screen performance to date as the Chariots of Fire star who spends his final months playing Hamlet on stage It was an endlessly parodied cliche that any queer film released during a certain period would be about one thing and one thing only: Aids. In 1993, Philadelphia showed a wider audience a mostly clean and palatable version of the crisis, and won Oscars for doing so, and for a time, when gay men weren’t acting as sassy friends to women in need, they were coughing up blood in lonely hospital beds. The inevitable and understandable pushback, allowing for a wider breadth of stories, brought us more “queer joy” and “chosen family” but it also allowed some to forget just what a time of unimaginable annihilation it was. It also reframed the period as an onslaught of Aids movies when the majority of them existed on the outskirts still , films such as Buddies, Longtime Companion and Jeffrey seen by mostly queer arthouse audiences. If anything, I’d argue that something so relatively recent and horrifying has been rather under-explored on screen especially in comparison with other, even fresher tragedies (Aids has killed more than 44 million people worldwide compared with just more than 7 million for Covid). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/elsinore-movie-review-andrew-scott",
-      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/430_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=50da9e04753b95dc1890e0467f9671fa",
-      "publishedAt": "2026-09-14T21:59:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -388,18 +412,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-eHktYmVhc3QtZGllcw",
-      "title": "Jeremy Thomas, British producer of The Last Emperor and Sexy Beast, dies aged 77",
-      "description": "An outstanding figure in the UK film industry, Thomas was noted for collaborations with directors including Bernardo Bertolucci and David Cronenberg Jeremy Thomas, the distinguished British producer of films including Sexy Beast, High-Rise and the multi-Oscar-winning The Last Emperor, has died aged 77. A representative for Thomas said he died on Friday “peacefully, at his country home in Oxfordshire, surrounded by his family and loved ones”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-producer-the-last-emperor-sexy-beast-dies",
-      "image": "https://i.guim.co.uk/img/media/6b06745edf445ea166680dbd5bbe6451c687cab1/0_68_1000_800/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21c3a25d44e9edd895fe0e668f8cbc3e",
-      "publishedAt": "2026-09-12T14:01:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-mV0aC1kYXktbm92ZWw",
       "title": "Luke Evans: ‘As a child I was in love with Harrison Ford as Indiana Jones’",
       "description": "The Hobbit and Fast & Furious actor on the joy of strawberry laces, hating that he’s so hard on himself, and his sneaky way of leaving a meeting Born in south Wales, Luke Evans, 47, left school at 16 and trained at London Studio Centre before appearing in various West End shows. His films include Clash of the Titans, the Fast & Furious franchise, The Hobbit trilogy and Beauty and the Beast. He has released two albums and a memoir , was Tony-nominated for his role in The Rocky Horror Show on Broadway, and stars in The Party, an ITV adaptation of Elizabeth Day’s novel. He lives in Lisbon with his partner. When were you happiest? I’m always happy. Continue reading...",
@@ -445,18 +457,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-LWl2ZS1ldmVyLW1ldA",
-      "title": "Alex Winter: ‘Michael Winner was the most erudite sociopath I’ve ever met’",
-      "description": "The Bill & Ted actor answers your questions about working with Keanu Reeves, whether there will be a fourth instalment and nights out in Brixton with the Death Wish director You were born in London but grew up in America . When do you feel most British? DonarudoToranpu The UK is still my second home. I’ve worked there a lot as an adult. When I’m back in London, I like walking on Hampstead Heath, so I would say that’s where I feel most at home. Having played Marko in The Lost Boys and then John Polidori in Haunted Summer , have you been tempted to take on another vampire-related role? And was getting staked to death while you were sleeping a bit of a disappointing end for Marko – what would have been your preferred way of going out in style? Death by stereo, perhaps? Finbarre and MoreorLesPaul I’d love to do another vampire movie. I love those characters. They’re interesting and great fun to play. There are some really good vampire movies – I’m grateful I was in one that has, for some reason that none of us can figure out, really stood the test of time. And I love Marko’s death. As an actor, the first time you get staked is the most memorable. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/10/alex-winter-michael-winner-was-the-most-erudite-sociopath-ive-ever-met",
-      "image": "https://i.guim.co.uk/img/media/55afbe33584009d12b73fb46846e5e934f2cf57b/208_0_6233_4987/master/6233.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3007c78aabff622d5f031939e5e85e85",
-      "publishedAt": "2026-09-10T14:00:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
