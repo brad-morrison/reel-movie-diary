@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:35:14.623Z",
+  "generatedAt": "2026-09-17T01:03:59.957Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-cy0xMjM1MjE3NDIxLw",
+      "title": "As the ‘Digger’ Awards Campaign Launches, Will Tom Cruise Do What it Takes to Win an Oscar?",
+      "description": "Warners is going all in to promote Hollywood's last movie star, but \"Digger\" faces box office hurdles and a star unaccustomed to navigating the awards season gauntlet.",
+      "url": "https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB012.jpg?w=650",
+      "publishedAt": "2026-09-16T22:17:41.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-XctY2FycmllLWNvb24",
+      "title": "The Liberation review – Carrie Coon joins all-female cult in unsettling drama",
+      "description": "Toronto film festival: Director Guy Nattiv draws on personal experience for an 80s-set tale of a woman abandoning her family for a creepy commune We remain fascinated and horrified by the hows and whys of cult narratives, how someone could be so seduced by something so unknown and why they would then risk everything for it. Oscar-winning writer-director Guy Nattiv has been personally affected by these questions for most of his life, his grandmother joining a cult when he was a child and never coming back. His attempt to try to understand who she was and why she acted in such a way has led to unsettling drama The Liberation, a fictionalised tale that acts as a form of therapy for him and a mostly successful antidote to more sensationalist cult stories for us. Enough Netflix docuseries and schlocky horror movies have given us a more extreme and often violent idea of how cults infect and destroy vulnerable people but Nattiv opts for a more thoughtful slow-burn. He’s recruited a suitably thoughtful actor in Carrie Coon, no stranger to this particular psychology having broken out in The Leftovers, one of the more intelligent cult dramas in recent years. The Liberation is screening at the Toronto film festival and will be released later this year Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/liberation-movie-review-carrie-coon",
+      "image": "https://i.guim.co.uk/img/media/ece0e82c2b0b48b402b1a7723c76b0dc4759f8cb/649_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7cb3f03a99628f9d9a636a3712dd2346",
+      "publishedAt": "2026-09-16T18:22:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-JlLTEyMzUyMTczNjgv",
       "title": "NewFest Lineup Showcases ‘La Bola Negra’ NYC Premiere, Plus ‘Elsinore,’ ‘Club Kid,’ and More",
@@ -196,20 +220,8 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-W5kaWFuLXJvbWFuY2U",
-      "title": "The Cycle of Love review – a 6,000-mile bike ride caps a real life Swedish-Indian romance",
-      "description": "One Oscar-winning director, one horoscope-prompted meet-cute and a continent-crossing cyclist – is this the start of documentaries that make you happy-cry? Here is a story that on the face of it seems so wildly unlikely it can only be true. Indeed, the very concept of a romantic documentary sounds almost oxymoronic, an indication of how much nonfiction films have become synonymous with grim histories full of suffering and injustice. Let’s hope this sweet work, directed by Orlando von Einsiedel (who’s made his share of hardcore, suffering-intensive docs including Oscar-winning short The White Helmets) launches a new trend in nonfiction film-making for stuff that makes you happy-cry. The basic meet-cute happened in 1975, when PK (played by Chirag Lobo in the film’s extensive re-enactments) met Lotta (Mina Dale) in Delhi. He was a poor street artist, a Dalit, the lowest possible caste, once called Untouchables. The real PK Mahanandia appears on screen to explain how he had left his rural village for Delhi in order to get away from all that caste hierarchy. When he met Lotta he pretty much knew he’d met the woman of his dreams because he’d been carrying a horoscope his father had commissioned for him when he was a baby that prophesised he’d fall in love with a woman whose family owned a jungle. Lotta, a backpacker from Sweden, hailed from a clan back home that owned a forest, so that was good enough for PK to believe he’d met his fate. After a chaste holiday romance bloomed between these two crazy kids, she went back to Sweden and he decided to bicycle the 6,000 miles all the way there from India to prove his love. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/16/the-cycle-of-love-review-a-6000-mile-bike-ride-caps-a-real-life-swedish-indian-romance",
-      "image": "https://i.guim.co.uk/img/media/b39a5c477545e1c8ffd3a2e08543d8182e1ea9e6/300_0_2026_1621/master/2026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=62b02d6c9700f8ce0c9c3547dbe60246",
-      "publishedAt": "2026-09-16T08:00:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-95LTEyMzUyMTczNTkv",
-      "title": "‘Faith’ Review: Erin Doherty’s Grieving Mother Approaches Sublimation in a Drama with Otherworldly Overtones",
+      "title": "‘Faith’ Review: Erin Doherty Approaches Sublimation in a Drama with Otherworldly Overtones",
       "description": "TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.",
       "url": "https://www.indiewire.com/criticism/movies/faith-review-erin-doherty-james-mcavoy-1235217359/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-15-at-4.39.17-PM.png?w=650",
@@ -254,18 +266,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMTcyODQv",
-      "title": "Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel",
-      "description": "TIFF: As the newly-minted Tony winner introduces \"A Talent for Murder\" to festival audiences, he goes long with IndieWire on everything from \"Beautiful Creatures\" to \"Oppenheimer,\" \"Solo\" to \"Hail, Caesar!,\" and never taking any of it for granted.",
-      "url": "https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2295261213.jpg?w=650",
-      "publishedAt": "2026-09-15T19:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-HVzdHJ5LXN1cHBvcnQ",
