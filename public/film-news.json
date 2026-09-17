@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:03:59.957Z",
+  "generatedAt": "2026-09-17T06:47:43.573Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-mRhbC03MHMtc3R5bGU",
+      "title": "The Watergate Caper: Richard Nixon and the Death of the American Dream review – political scandal, 70s style",
+      "description": "Shane O’Sullivan’s documentary weaves archive clips and snippets from films old and new to draw out the highlights of the crisis that rocked the US Judging by his past work, the Irish-born, London-based writer and film-maker Shane O’Sullivan may have a chronic case of born-too-late nostalgia. It manifests as a fascination with the politics and counterculture of the late 1960s and 70s, and that’s clearly a theme in O’Sullivan’s previous works, which include: a book and film about the assassination of Robert Kennedy; the acclaimed feature doc Children of the Revolution about the female leaders of the Baader-Meinhof Group and the Japanese Red Army; and a film about Lee Harvey Oswald . His latest takes aim at the big kahuna itself: Watergate – the crime, the scandal and the cultural phenomenon. It is explored through a hailstorm of archive clips and snippets of feature films, all nimbly stitched together, with a deadpan voiceover by the great Harry Shearer. The result is, of course, nostalgic, but also feels fresh and immediate, especially thanks to the use of moments from more recent features about, but not from, the period, including a Watergate-hearings-obsessed teenage Christina Ricci in The Ice Storm from 1997, the comic ineptitude of the Watergate burglars as represented in 1999 spoof Dick, or Shea Whigham’s skewering of break-in mastermind G Gordon Liddy from recent TV miniseries Gaslit. These performed moments all play nicely with O’Sullivan’s selection of clips from more contemporaneous, Watergate-adjacent classics such as Medium Cool, All the President’s Men and Taxi Driver. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/17/the-watergate-caper-richard-nixon-and-the-death-of-the-american-dream-review-political-scandal-70s-style",
+      "image": "https://i.guim.co.uk/img/media/27566afdee9211a2b3d53c1702d404c9a2d3f380/280_0_2564_2052/master/2564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=8429d78e19fad2f92a880df73444afc5",
+      "publishedAt": "2026-09-17T06:00:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Boy, 13, is new voice of Thomas the Tank Engine",
+      "description": "A new Thomas series also stars The Gentleman actor Henry Golding.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b111/live/589eab30-b1b0-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-17T04:56:41.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-LXByaXZhdGUtaGVsbA",
+      "title": "‘I thank God for killing me and bringing me back’: Nicolas Winding Refn on the emergency op that inspired his new sci-fi horror",
+      "description": "Notorious for ultra-violent movies like Drive and The Neon Demon, the Dane had lost the will to direct until ‘the Tom Cruise of surgeons’ saved his life – and triggered an astonishing creative rebirth Nicolas Winding Refn has his phone out, showing me one of the goriest scenes he’s ever been involved in. Given that the Danish director’s movies have involved hands getting sliced off, eyeballs being gouged out and a son reaching deep inside his mother’s womb, that’s certainly saying something. In this video, the camera is fixed upon a beating heart when suddenly – slash! – it gets sliced open with a knife. We travel into the open chamber, as needles arrive to pierce through the muscle. Unsettling and compelling, could this be a future Palme d’Or winner? Unlikely. You see, Refn isn’t the director of this footage; he’s actually the guy lying conked out in the operating room while a surgeon attends to him. Requesting that someone films your own heart surgery is a very Nicolas Winding Refn thing to do. “At first they said no,” says the film-maker known for Drive, Bronson and The Neon Demon. “But then they said, ‘As it’s you, we’ll record it.’” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell",
+      "image": "https://i.guim.co.uk/img/media/e40bca9f7c21fda0a8777e4ad62698620a1db4aa/1443_779_3412_2729/master/3412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4e22bd98f0b2fd05988dfb90d9d2171",
+      "publishedAt": "2026-09-17T04:00:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-cy0xMjM1MjE3NDIxLw",
       "title": "As the ‘Digger’ Awards Campaign Launches, Will Tom Cruise Do What it Takes to Win an Oscar?",
@@ -190,30 +226,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/16/in-i-in-motion-review-juliette-binoche-dance-duet-akram-khan",
       "image": "https://i.guim.co.uk/img/media/e798f1fcb44e3eef92689229d862bb243abb8e27/1230_0_5625_4500/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=979e6f5bf0bdf6dcf5879d1aae7effa1",
       "publishedAt": "2026-09-16T12:00:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aW5nLXRoZS1jYWtlcw",
-      "title": "Your mission, Tom Cruise, is to improve at interviews. And please keep sending the cakes",
-      "description": "He risks his life for entertainment, but getting an anecdote out of him is a trickier matter. Happily, Cruise is no stranger to knuckling down and pulling off the impossible By now, we’ve grown used to watching Tom Cruise excel at everything he does. Running in films? The best. Risking his life in action scenes so preposterously dangerous that audiences need to have their sphincters manually unclenched with a crowbar? Absolutely, none better. Singlehandedly ensuring that theatrical exhibition didn’t go extinct after Covid? The man deserves all the praise in the world for that. But nobody is perfect. Live long enough and a few flaws will worm their way to the surface. This is as true for Tom Cruise as it is for anyone else. And while I realise that this might do me out of a cake this Christmas , the following really needs to be said: Tom Cruise isn’t very good at interviews. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/16/your-mission-tom-cruise-is-to-improve-at-interviews-and-please-keep-sending-the-cakes",
-      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/241_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=136c7020de89792e8845d5666cdfb2cf",
-      "publishedAt": "2026-09-16T10:24:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-GF5YW8tbWl5YXpha2k",
-      "title": "Whisper of the Heart review – Studio Ghibli deep cut is pep talk on how to live the artistic life",
-      "description": "Hayao Miyazaki-scripted 90s teen romance sees an aspiring writer drawn to a potential soulmate thanks to library books and a curmudgeonly cat While 2013’s The Wind Rises and 2023’s The Boy and the Heron saw Hayao Miyazaki break his wizard’s staff, artistically speaking, this lesser-known Studio Ghibli cut from 1995, based on his screenplay, shows he was dwelling on creative responsibilities from early on. Featuring a typical Ghibli protagonist on the brink of adulthood – aspiring schoolkid writer Shizuku (voiced by Yōko Honna) – this teen romance doubles up as an earnest pep talk on how to commit to the artistic life. It’s not quite as sophisticated, though, in its understanding of the interplay between imagination and reality as Miyazaki’s later masterpieces. It also features highly inventive use of that 2010s soundtrack favourite: John Denver’s Take Me Home, Country Roads . Shizuku shows off her fledgling penmanship for a school performance of the song devising hilarious Japanese lyrics that satirise Tokyo’s “concrete roads”. But while her writing shows promise, her love life remains in the fantasy realm. Mainlining library books, she realises that the same name, Seiji Amasawa, keeps appearing on the lists of previous borrowers. It feels like fate is pointing her towards a soulmate – especially when a curmudgeonly cat leads her “like in a story” to an intriguing curio shop near the library. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/16/whisper-of-the-heart-review-studio-ghibli-deep-cut-hayao-miyazaki",
-      "image": "https://i.guim.co.uk/img/media/553eae5974f4ebdf9ca20e905cbdc2b15d090151/686_0_2924_2341/master/2924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=cfd83dcaba603323eb2cf5dd5d3f710c",
-      "publishedAt": "2026-09-16T10:00:17.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
