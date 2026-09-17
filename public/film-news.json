@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:41:51.046Z",
+  "generatedAt": "2026-09-17T18:36:44.823Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-RzLTEyMzUyMTc1NDEv",
+      "title": "Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships",
+      "description": "Exclusive: The two companies have partnered on two funds supporting filmmakers, with recipients including \"Josephine\" director Beth de Araújo.",
+      "url": "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-17-at-9.14.42-AM.png?w=650",
+      "publishedAt": "2026-09-17T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIxNzU1OS8",
+      "title": "Noah Baumbach Heads from Netflix to Warner Bros.’ Clockwork with New First-Look Film Deal",
+      "description": "He will write, direct, and produce his next movie alongside Margot Robbie's LuckyChap and David Heyman.",
+      "url": "https://www.indiewire.com/news/breaking-news/noah-baumbach-warner-bros-clockwork-first-look-film-deal-1235217559/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/GettyImages-1429253112.jpg?w=650",
+      "publishedAt": "2026-09-17T16:56:59.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjE3NTI4Lw",
+      "title": "John Wilson’s ‘The History of Concrete’ from Magnolia Scores Biggest Opening Weekend for Documentary in IFC Center History",
+      "description": "Exclusive: The documentary has outgrossed previous record-holder Werner Herzog's \"Cave of Forgotten Dreams.\"",
+      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-box-office-record-1235217528/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/DA__7968.jpg?w=650",
+      "publishedAt": "2026-09-17T16:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Zi0xMjM1MjE3NDg2Lw",
+      "title": "James McAvoy Doesn’t Believe in God. That Didn’t Stop Him from Making the Spiritual Drama ‘Faith’",
+      "description": "The Scottish actor tells IndieWire about his new spiritual drama, which just premiered at TIFF, and why he opted to become an actor and not a priest.",
+      "url": "https://www.indiewire.com/features/interviews/james-mcavoy-religion-interview-faith-tiff-1235217486/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294750477.jpg?w=650",
+      "publishedAt": "2026-09-17T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE3NDk4Lw",
+      "title": "‘The Life of Jorge Luis Borges’ Review: A Playful Five-Hour Documentary Turns the Argentinian Writer Inside Out",
+      "description": "\"La flor\" director Mariano Llinás veteran with a sprawling and self-reflexive picaresque that is fascinating but frequently dull, for better or worse.",
+      "url": "https://www.indiewire.com/criticism/movies/the-life-of-jorge-luis-borges-movie-review-1235217498/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Life-of-Jorge-Luis-Borges.webp?w=650",
+      "publishedAt": "2026-09-17T13:49:16.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjE2NjgxLw",
+      "title": "How a Sequel to a Movie Barely Anyone Saw Became a Sensational (and Originally X-Rated) 1980s Indie",
+      "description": "In 1988, \"Patti Rocks\" stood alongside Jim Jarmusch's \"Stranger Than Paradise\" and Spike Lee's \"She's Gotta Have It\" as an indie sensation, but has been largely unavailable for decades. A new Blu-ray from Fun City Editions brings it back to glorious life.",
+      "url": "https://www.indiewire.com/features/commentary/patti-rocks-x-rated-indie-movie-blu-ray-1235216681/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDPARO_EC027.jpg?w=650",
+      "publishedAt": "2026-09-17T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-bGYtY2VudHVyeS1vbg",
       "title": "50 Years of Punk review – rock’n’roll rebels fondly recall the filth and fury a half-century on",
@@ -54,7 +126,7 @@
     {
       "id": "guardian-aG9ycm9yLXNhdGlyZQ",
       "title": "Bad Apples review – Saoirse Ronan’s suffering teacher best thing about school horror-satire",
-      "description": "Ronan plays a teacher who finds a way to deal with a disruptive pupil in Jonatan Etzler’s implausible film, but it’s not shocking or funny enough Here is a strange, heavy-handed and unpersuasive black comedy which owes what success it has to the star-power of its lead, Saoirse Ronan, who is incapable of giving an uninteresting performance. Director Jonatan Etzler has adapted it with co-screenwriter Jess O’Kane from a Swedish novel by Rasmus Lindgren called De Oönskade, or The Unwanted, and is a film that asks you to overlook its plot-holes and implausibilities on the grounds that it is a satire – but a satire saying what, exactly? The scene is a primary school in the English West Country where Maria (Ronan) is a hardworking, idealistic teacher – but her class is hopelessly disrupted by a violent boy, Danny (Eddie Waller), obnoxious and out of control. He seriously injures another pupil, the nerdy teacher’s-pet Pauline (Nia Brown) whom Maria privately considers a bit annoying. After a chaotic visit to Danny’s home, Marie winds up causing the boy to lose consciousness with an accidental chokehold, and in a panic smuggles him back to her house where she imprisons him in her basement. And then, slowly but surely, the rest of the class, freed from Danny’s hateful presence, blossom and Maria gets a glowing Ofsted report. She looks and feels on top of the world. But what is to be done about her shameful secret? Continue reading...",
+      "description": "Ronan plays a teacher who finds a way to deal with a disruptive pupil in Jonatan Etzler’s implausible film, but it’s not shocking or funny enough Here is a strange, heavy-handed and unpersuasive black comedy which owes what success it has to the star-power of its lead, Saoirse Ronan, who is incapable of giving an uninteresting performance. Director Jonatan Etzler has adapted it with co-screenwriter Jess O’Kane from a Swedish novel by Rasmus Lindgren called De Oönskade, or The Unwanted, and is a film that asks you to overlook its plot-holes and implausibilities on the grounds that it is a satire – but a satire saying what, exactly? The scene is a primary school in the English West Country where Maria (Ronan) is a hardworking, idealistic teacher – but her class is hopelessly disrupted by a violent boy, Danny (Eddie Waller), obnoxious and out of control. He seriously injures another pupil, the nerdy teacher’s-pet Pauline (Nia Brown) whom Maria privately considers a bit annoying. After a chaotic visit to Danny’s home, Maria winds up causing the boy to lose consciousness with an accidental chokehold, and in a panic smuggles him back to her house where she imprisons him in her basement. And then, slowly but surely, the rest of the class, freed from Danny’s hateful presence, blossom and Maria gets a glowing Ofsted report. She looks and feels on top of the world. But what is to be done about her shameful secret? Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/17/bad-apples-review-saoirse-ronans-suffering-teacher-best-thing-about-school-horror-satire",
       "image": "https://i.guim.co.uk/img/media/fd720e1e3da30d4c0952b2826bc6612ffcd58207/486_0_2027_1622/master/2027.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=dd289d3a93119590afdd4d625a04e316",
       "publishedAt": "2026-09-17T08:00:43.000Z",
@@ -113,7 +185,7 @@
     },
     {
       "id": "indiewire-cy0xMjM1MjE3NDIxLw",
-      "title": "As the ‘Digger’ Awards Campaign Launches, Will Tom Cruise Do What it Takes to Win an Oscar?",
+      "title": "As the ‘Digger’ Awards Campaign Launches, Will Tom Cruise Do What It Takes to Win an Oscar?",
       "description": "Warners is going all in to promote Hollywood's last movie star, but \"Digger\" faces box office hurdles and a star unaccustomed to navigating the awards season gauntlet.",
       "url": "https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB012.jpg?w=650",
@@ -208,54 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-bi0xMjM1MTc0Mzg2Lw",
-      "title": "‘The History of Concrete’ Review: John Wilson Illustrates How to Get Over a Beloved TV Show with a Moving and Hilarious Meditation on Death",
-      "description": "DMX, Hallmark movies, Kim Kardashian, and public diarrhea are just some of the countless things mixed into John Wilson's excellent debut feature.",
-      "url": "https://www.indiewire.com/criticism/movies/the-history-of-concrete-movie-review-john-wilson-1235174386/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/dfe02nui4The_History_of_Concrete-Still_3.jpg?w=650",
-      "publishedAt": "2026-09-16T12:51:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE3MzM1Lw",
-      "title": "How to Make IndieWire a Preferred Source on Google",
-      "description": "You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.",
-      "url": "https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-11-at-1.41.40-PM.png?w=650",
-      "publishedAt": "2026-09-16T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxNzM2NS8",
-      "title": "The Final Trailer for ‘Wildwood’ Provides Deepest Look Yet at an Epic Adventure",
-      "description": "Laika's sixth stop-motion feature will be available in 4DX, DBOX, and Dolby Cinema.",
-      "url": "https://www.indiewire.com/news/trailers/wildwood-final-trailer-1235217365/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650",
-      "publishedAt": "2026-09-16T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-95LTEyMzUyMTczNTkv",
-      "title": "‘Faith’ Review: Erin Doherty Approaches Sublimation in a Drama with Otherworldly Overtones",
-      "description": "TIFF: Paul Andrew Williams’ focused direction refuses to exploit the script’s genre trappings beyond the realm of its characters’ interiority.",
-      "url": "https://www.indiewire.com/criticism/movies/faith-review-erin-doherty-james-mcavoy-1235217359/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-15-at-4.39.17-PM.png?w=650",
-      "publishedAt": "2026-09-15T23:45:20.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-F9jYW1wYWlnbj1yc3M",
       "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
       "description": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
@@ -268,30 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dy0xMjM1MjE3MzQyLw",
-      "title": "‘At Night’ Review: A Feminist Feature Debut Refutes the Idea of Monolithic Womanhood",
-      "description": "TIFF: First-time feature filmmaker Beatrice Gibson adapts the poetry of Alice Notley into a spellbinding work of autofiction.",
-      "url": "https://www.indiewire.com/criticism/movies/at-night-review-1235217342/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-15-at-1.34.14-PM.png?w=650",
-      "publishedAt": "2026-09-15T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-J5LTEyMzUyMTcyNjQv",
-      "title": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch",
-      "description": "Exclusive: Director Piotr Winiewicz and the AI that was trained on Herzog’s body of work, with his permission, will do Q&#38;As when the film screens.",
-      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-15-at-2.57.44-PM.png?w=650",
-      "publishedAt": "2026-09-15T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-HVzdHJ5LXN1cHBvcnQ",
       "title": "‘This should be condemned by any thinking human’: film industry rallies behind NAZA directors",
       "description": "Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason Film industry heavyweights across the globe have expressed solidarity with Yuval Abraham and Rachel Szor, the Oscar-winning Israeli directors of documentary NAZA, who have been threatened with having their citizenship revoked by Israel’s culture minister, who accused them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym euphemistically used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. It includes interviews with 24 Israeli military or intelligence soldiers and officers who outlined the AI-powered targeting systems used to bombard Gaza, resulting in the mass killing of Palestinian civilians. Continue reading...",
@@ -302,18 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "How city's market became a CBeebies TV set",
-      "description": "The show, filmed in Coventry, aims to help young children explore food through their senses",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpn03803o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4cbb/live/6f29d4f0-b0f3-11f1-9707-2187f52634c5.jpg",
-      "publishedAt": "2026-09-15T14:13:48.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -349,18 +337,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4e1b/live/15051b70-b0ed-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-15T03:50:06.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "TV"
     },
     {
