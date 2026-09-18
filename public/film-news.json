@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:03:44.613Z",
+  "generatedAt": "2026-09-18T06:46:10.910Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-hkaWVzLXN1cnZpdmFs",
+      "title": "‘The damage was much worse than I had imagined’: the shocking inside story of Salman Rushdie’s survival",
+      "description": "After ​the writer was stabbed in a horrific attack, his wife started making a video diary of his recovery. The clips are featured in a new film from Alex Gibney, who drew on Dennis Potter to create a powerful portrait of Rushdie’s tumultuous life Eliza Griffiths was at home in New York, drinking a second cup of coffee one August morning in 2022, when her phone rang. She answered it to a frantic friend, who told her the man she had married just a year earlier, and who had set off the previous night for a speaking engagement nearly 400 miles away, had been hurt. “What kind of hurt?” she panicked. Turning on the television, she was assaulted by blurry images of chaos on stage as audience members surged to the rescue. Her husband, Sir Salman Rushdie, had been stabbed multiple times and was fighting for his life. Within days of desperately chartering a plane to fly her to Rushdie’s hospital bedside, not knowing if he was alive or dead, Griffiths – a poet and photographer who works under her full name Rachel Eliza Griffiths – had begun to make a video diary recording his treatment and recovery. “When it had become likely that I was going to survive,” says Rushdie drily, “I&nbsp;said to Eliza we need to make a&nbsp;record of this. By which I meant something very modest: maybe she would take a picture of me on her iPhone every couple of days just to document the recovery, but Eliza had bigger ideas.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/18/the-damage-was-much-worse-than-i-had-imagined-the-shocking-inside-story-of-salman-rushdies-survival",
+      "image": "https://i.guim.co.uk/img/media/74e3d1d7529c31667e560fd0f26373357c5ac35d/1057_0_6147_4918/master/6147.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54bb62ff60aa59728a7ac6d63c352563",
+      "publishedAt": "2026-09-18T04:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-V3LTEyMzUyMTc2MjUv",
       "title": "‘Up Against It’ Review: An Uneven Medical Dramedy Relies on Sincerity to Mask Its Flaws",
@@ -242,18 +254,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "guardian-LXByaXZhdGUtaGVsbA",
-      "title": "‘I thank God for killing me and bringing me back’: Nicolas Winding Refn on the heart surgery that inspired his new sci-fi horror",
-      "description": "Notorious for ultra-violent movies like Drive and The Neon Demon, the Dane had lost the will to direct until ‘the Tom Cruise of surgeons’ saved his life – and triggered an astonishing creative rebirth Nicolas Winding Refn has his phone out, showing me one of the goriest scenes he’s ever been involved in. Given that the Danish director’s movies have involved hands getting sliced off, eyeballs being gouged out and a son reaching deep inside his mother’s womb, that’s certainly saying something. In this video, the camera is fixed upon a beating heart when suddenly – slash! – it gets sliced open with a knife. We travel into the open chamber, as needles arrive to pierce through the muscle. Unsettling and compelling, could this be a future Palme d’Or winner? Unlikely. You see, Refn isn’t the director of this footage; he’s actually the guy lying conked out in the operating room while a surgeon attends to him. Requesting that someone films your own heart surgery is a very Nicolas Winding Refn thing to do. “At first they said no,” says the film-maker known for Drive, Bronson and The Neon Demon. “But then they said, ‘As it’s you, we’ll record it.’” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell",
-      "image": "https://i.guim.co.uk/img/media/e40bca9f7c21fda0a8777e4ad62698620a1db4aa/1443_779_3412_2729/master/3412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4e22bd98f0b2fd05988dfb90d9d2171",
-      "publishedAt": "2026-09-17T04:00:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
