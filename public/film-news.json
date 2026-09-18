@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T18:36:44.823Z",
+  "generatedAt": "2026-09-18T01:03:44.613Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMTc2MjUv",
+      "title": "‘Up Against It’ Review: An Uneven Medical Dramedy Relies on Sincerity to Mask Its Flaws",
+      "description": "TIFF: Broad beats and narrative contrivances nearly bury the glimmers of emotional truth in this ludicrous (but well-meaning) blended family story.",
+      "url": "https://www.indiewire.com/criticism/movies/up-against-it-review-1235217625/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-17-at-3.40.56-PM.png?w=650",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-mYtMTIzNTIxNzQ1OS8",
+      "title": "‘Half’ Review: A Grisly Indian Vampire Western Tumbles Into Excess",
+      "description": "TIFF: Samjad’s unique saga of invulnerable, vengeful twins quickly builds and loses steam.",
+      "url": "https://www.indiewire.com/criticism/movies/half-review-tiff-1235217459/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-1.57.34-PM.png?w=650",
+      "publishedAt": "2026-09-17T23:32:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE3NTk3Lw",
+      "title": "‘Best of the Best’ Review: Maitreyi Ramakrishnan and Priyanka Kedia Dazzle in Bollywood-Fusion Comedy",
+      "description": "Director Lena Khan’s exuberant third feature pairs collegiate charm and sparkling production design with satire from Hasan Minhaj and his \"Patriot Act\" co-writer, Prashanth Venkataramanujam.",
+      "url": "https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AAAAQZn8OSyy3j9NFp7WUwzymEcLqOP2U3MvRQyB7y_FOgWgYenumgQF3Dkxlh2mEgpFZsdiAvxVoGCjPkqQg1Z1F10gcU4GDrAtiDXN20V0-QRHQJp3xt6xNvZPjzC39X7eHNN9hcakS49CoYezEVomZLE6.jpg?w=650",
+      "publishedAt": "2026-09-17T23:14:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxNjk4My8",
+      "title": "Marcus Theatres and A24 End Months-Long Standoff Over Film Terms",
+      "description": "\"Onslaught,\" \"Tony,\" and \"The Invite\" haven't played at the Midwest-based fourth-largest theater chain, but tickets are imminently going on sale for \"Primetime.\"",
+      "url": "https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC007.jpg?w=650",
+      "publishedAt": "2026-09-17T21:21:28.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNzUwMS8",
+      "title": "Why John Wilson Used a 3D-Printed Starbucks to Critique Capitalism (and Documentary Cliché) in ‘History of Concrete’",
+      "description": "Documentarian John Wilson also tells IndieWire about how documentaries need to avoid looking like AI while telling human stories.",
+      "url": "https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHIOF_GI006.jpg?w=650",
+      "publishedAt": "2026-09-17T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE3MzkyLw",
+      "title": "‘MobLand’ Season 2 Is Wasting Tom Hardy’s Time (and Ours)",
+      "description": "Guy Ritchie returns to direct the first two episodes of his Paramount+ gangster series, as the Harrigan family fights among themselves and the once-propulsive action stalls out.",
+      "url": "https://www.indiewire.com/criticism/shows/mobland-season-2-review-tom-hardy-series-1235217392/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MobLand-Season-2-Pierce-Brosnan-as-Conrad-and-Tom-Hardy-as-Harry.jpg?w=650",
+      "publishedAt": "2026-09-17T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-RzLTEyMzUyMTc1NDEv",
       "title": "Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships",
@@ -181,78 +253,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE3NDIxLw",
-      "title": "As the ‘Digger’ Awards Campaign Launches, Will Tom Cruise Do What It Takes to Win an Oscar?",
-      "description": "Warners is going all in to promote Hollywood's last movie star, but \"Digger\" faces box office hurdles and a star unaccustomed to navigating the awards season gauntlet.",
-      "url": "https://www.indiewire.com/awards/industry/tom-cruise-digger-oscar-campaign-box-office-problems-1235217421/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB012.jpg?w=650",
-      "publishedAt": "2026-09-16T22:17:41.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMTczNjgv",
-      "title": "NewFest Lineup Showcases ‘La Bola Negra’ NYC Premiere, Plus ‘Elsinore,’ ‘Club Kid,’ and More",
-      "description": "Exclusive: New York City's premier LGBTQ+ film festival runs October 15-25 with 144 films representing 23 countries.",
-      "url": "https://www.indiewire.com/news/festivals/newfest-2026-lineup-la-bola-negra-nyc-premiere-1235217368/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
-      "publishedAt": "2026-09-16T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bC0xMjM1MjE3NDA5Lw",
-      "title": "‘Stuffed’ Review: There Are No Certainties in Life Besides Death and Taxidermy in This Zany, Bleakly Romantic Body Horror Musical",
-      "description": "Infectious tunes and killer performances from Jodie Comer and Harry Melling have Theo Rhys' film destined for cult classic status.",
-      "url": "https://www.indiewire.com/criticism/movies/stuffed-movie-review-harry-melling-jodie-comer-musical-1235217409/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/STUFFED_REC709_4096x1716_01_21_53_12.jpg?w=650",
-      "publishedAt": "2026-09-16T16:11:07.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMTc0MDMv",
-      "title": "‘Resident Evil’ Review: Zach Cregger’s Relentless Adaptation Is the Future of Video Game Movies, Even When Too Goofy for Its Own Good",
-      "description": "Austin Abrams dives into the heart of a zombie apocalypse in a lean, mean, 85-minute thrill ride that captures the experience of playing the \"Resident Evil\" games.",
-      "url": "https://www.indiewire.com/criticism/movies/resident-evil-movie-review-2026-zach-cregger-1235217403/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/RESIDENT_EVIL_Still.jpg?w=650",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-FzLTEyMzUyMTczODQv",
-      "title": "‘Sacrifice’ Trailer: Anya Taylor-Joy, Chris Evans, John Malkovich, and Charli XCX Take Aim at Celebrity Vapidity",
-      "description": "In Romain Gavras' English-language debut, a Ruben Östlund-ish set-up gets a fiery edge.",
-      "url": "https://www.indiewire.com/news/trailers/sacrifice-trailer-anya-taylor-joy-chris-evans-romain-gavras-1235217384/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/08/Sacrifice_STILL_Graded_SRC-RES_R2_000001.jpg?w=650",
-      "publishedAt": "2026-09-16T15:10:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjE3MzYyLw",
-      "title": "Woodstock Film Festival Unveils 2026 Lineup Featuring ‘The Debut,’ ‘I Play Rocky,’ ‘Club Kid,’ and More",
-      "description": "Exclusive: Woodstock Film Festival will also include awards contenders like \"Musk,\" \"Possible Love,\" and \"Being Heumann.\"",
-      "url": "https://www.indiewire.com/news/festivals/woodstock-film-festival-2026-lineup-the-debut-musk-club-kid-1235217362/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Club-Kid.jpg?w=650",
-      "publishedAt": "2026-09-16T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
