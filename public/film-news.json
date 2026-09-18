@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:40:31.027Z",
+  "generatedAt": "2026-09-18T18:34:08.406Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,138 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-G0tMTIzNTIxNzU4Mi8",
+      "title": "Mike Leigh Movies Always Start Without a Script. Watch the ‘Tender Loving Care’ Director and Cast Break Down His Unique Filmmaking Process",
+      "description": "At a TIFF dinner co-hosted by IndieWire and Bleecker Street, Leigh and his longtime collaborators opened up about a lifetime spent creating characters together.",
+      "url": "https://www.indiewire.com/news/events/mike-leigh-kate-oflynn-tender-loving-care-breaking-down-film-1235217582/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294957440.jpg?w=650",
+      "publishedAt": "2026-09-18T18:05:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMTc3OTkv",
+      "title": "‘NAZA,’ Israeli Military Doc from ‘No Other Land’ Directors, Sets Speedy Fall Release in U.S.",
+      "description": "The controversial documentary is moving ahead with a self-distribution strategy that will roll the film out across American cities beginning in October.",
+      "url": "https://www.indiewire.com/news/breaking-news/naza-documentary-us-release-1235217799/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
+      "publishedAt": "2026-09-18T18:05:42.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3MtMTIzNTIxNzU4OS8",
+      "title": "‘Monster,’ the TV Show, Devolves Into a Poor Impersonation of ‘Monster’ the Movie",
+      "description": "Season 4 of Ryan Murphy's gruesome Netflix anthology is ostensibly about Lizzie Borden, but its side story involving Aileen Wuornos — memorably realized by Charlize Theron in the 2003 film — shows how little the series has to say about either killer.",
+      "url": "https://www.indiewire.com/criticism/shows/monster-season-4-review-monster-the-movie-aileen-wuornos-1235217589/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Monster-Season-4-Sarah-Paulson-as-Aileen-Wuornos.jpg?w=650",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNzczOS8",
+      "title": "Aaron Sorkin Was His Own ‘Second Choice’ to Direct ‘The Social Reckoning’ — David Fincher Was His First",
+      "description": "Sorkin tells IndieWire about changing his mind on \"not wanting to jump up and down\" on Zuckerberg again and why this is not a \"Social Network\" sequel.",
+      "url": "https://www.indiewire.com/features/interviews/social-reckoning-why-david-fincher-not-directing-aaron-sorkin-1235217739/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSORE_CO001.jpg?w=650",
+      "publishedAt": "2026-09-18T16:50:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTE0Nzg5Ny8",
+      "title": "You’ve Never Seen Saoirse Ronan Quite Like This Before",
+      "description": "In Jonatan Etzler's darkly funny \"Bad Apples,\" the actress plays a harried teacher who does something really crazy to a naughty student. As the pair explain to IndieWire, that's not the wildest part: It's how disarmingly funny Ronan gets to be.",
+      "url": "https://www.indiewire.com/features/interviews/saoirse-ronan-bad-apples-interview-jonatan-etzler-1235147897/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/08/Courtesy-of-Republic-Pictures-_-BTS-Approved-IndieWire.jpeg?w=650",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
+      "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-18T15:27:01.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNjkxNi8",
+      "title": "‘Youth’ Review: Sharon Horgan’s Sharp HBO Comedy Asks What We Really Have to Sacrifice with Age",
+      "description": "The \"Catastrophe\" writer and star returns to HBO (post-\"Divorce\") with a mid-life crisis comedy that's broadly familiar but refreshing in its specific insights, strong performances, and steady laughs.",
+      "url": "https://www.indiewire.com/criticism/shows/youth-review-hbo-sharon-horgan-series-fun-1235216916/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Youth-HBO-series-Sharon-Horgan.jpg?w=650",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-xrLTEyMzUyMTc3MTAv",
+      "title": "James Gray to Receive Directing Award at Virginia Film Fest, Where He’ll Also Join IndieWire’s ‘Screen Talk’ Live",
+      "description": "Exclusive: The \"Paper Tiger\" filmmaker will receive the Virginia Film Festival Outstanding Achievement in Directing Award. On October 22, he'll join IndieWire's \"Screen Talk\" podcast for a live conversation.",
+      "url": "https://www.indiewire.com/news/festivals/james-gray-virginia-ff-directing-award-live-screen-talk-1235217710/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P106DWG0.jpg?w=650",
+      "publishedAt": "2026-09-18T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNzUzMy8",
+      "title": "See Which Films Have Been Submitted for Best International Feature at the 2027 Oscars",
+      "description": "In addition to all the countries submitting films to represent them in the Best International Feature category at the 2027 Oscars, there are several films in contention for winning the top prize at festivals like Sundance, Cannes, and Venice.",
+      "url": "https://www.indiewire.com/awards/industry/best-international-feature-submissions-2027-oscars-1235217533/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LBN_20251031_0740_carlaoset.jpg?w=650",
+      "publishedAt": "2026-09-18T14:22:16.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxNzY2My8",
+      "title": "Can Being a Crowdpleaser Carry ‘I Play Rocky’ All the Way to the Oscars?",
+      "description": "Although Peter Farrelly's latest film, about the making of \"Rocky,\" is a TIFF People's Choice Awards contender, various aspects of the film fall short in the overall Oscar race.",
+      "url": "https://www.indiewire.com/awards/predictions/i-play-rocky-crowdpleaser-oscars-1235217663/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDIPLA_MG002.jpg?w=650",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Resident Evil movie director says he was not prepared for fan backlash",
+      "description": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/72c7/live/e4eb68c0-b373-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-18T12:58:55.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "AI not a threat to films, say Shaun the Sheep creators",
@@ -41,7 +173,7 @@
     },
     {
       "id": "guardian-1mYWxsaW5nLWhvdXNl",
-      "title": "Iranian actor Laheh Marzban faces severe threats after Venice film festival speech",
+      "title": "Iranian actor Laleh Marzban faces severe threats after Venice film festival speech",
       "description": "Marzban, who won a best actress award for her portrayal of a woman held hostage by her father in Falling House, has received condemnations from authorities after dedicating her prize to ‘the women of Iran’ An Iranian actress who won the best newcomer award at the Venice film festival has come under severe attack from the country’s authorities and state media after highlighting the plight of women in Iran in her acceptance speech. Laleh Marzban last Saturday won the best actress award in the Orizzonti sidebar competition for emerging talent, for her role in Mohsen Gharaei’s Falling House , a film revolving around three generations of women who are incarcerated in their own home by the family’s father. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/18/iranian-actor-laheh-marzban-venice-film-festival-speech-falling-house",
       "image": "https://i.guim.co.uk/img/media/d02329264456230ced39634db221cace4752acca/2438_180_2281_1824/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=692d25f8e1e3e79df05eeb93e0fc6571",
@@ -124,114 +256,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XMtMTIzNTIxNjk4My8",
-      "title": "Marcus Theatres and A24 End Months-Long Standoff Over Film Terms",
-      "description": "\"Onslaught,\" \"Tony,\" and \"The Invite\" haven't played at the Midwest-based fourth-largest theater chain, but tickets are imminently going on sale for \"Primetime.\"",
-      "url": "https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC007.jpg?w=650",
-      "publishedAt": "2026-09-17T21:21:28.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNzUwMS8",
-      "title": "Why John Wilson Used a 3D-Printed Starbucks to Critique Capitalism (and Documentary Cliché) in ‘History of Concrete’",
-      "description": "Documentarian John Wilson also tells IndieWire about how documentaries need to avoid looking like AI while telling human stories.",
-      "url": "https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHIOF_GI006.jpg?w=650",
-      "publishedAt": "2026-09-17T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE3MzkyLw",
-      "title": "‘MobLand’ Season 2 Is Wasting Tom Hardy’s Time (and Ours)",
-      "description": "Guy Ritchie returns to direct the first two episodes of his Paramount+ gangster series, as the Harrigan family fights among themselves and the once-propulsive action stalls out.",
-      "url": "https://www.indiewire.com/criticism/shows/mobland-season-2-review-tom-hardy-series-1235217392/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MobLand-Season-2-Pierce-Brosnan-as-Conrad-and-Tom-Hardy-as-Harry.jpg?w=650",
-      "publishedAt": "2026-09-17T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUyMTc1NDEv",
-      "title": "Disney and Sundance Announce Next Round of Project Advancement and Completion Fund and Artist Fellowships",
-      "description": "Exclusive: The two companies have partnered on two funds supporting filmmakers, with recipients including \"Josephine\" director Beth de Araújo.",
-      "url": "https://www.indiewire.com/news/general-news/disney-sundance-2026-grant-recipients-1235217541/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-17-at-9.14.42-AM.png?w=650",
-      "publishedAt": "2026-09-17T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIxNzU1OS8",
-      "title": "Noah Baumbach Heads from Netflix to Warner Bros.’ Clockwork with New First-Look Film Deal",
-      "description": "He will write, direct, and produce his next movie alongside Margot Robbie's LuckyChap and David Heyman.",
-      "url": "https://www.indiewire.com/news/breaking-news/noah-baumbach-warner-bros-clockwork-first-look-film-deal-1235217559/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/GettyImages-1429253112.jpg?w=650",
-      "publishedAt": "2026-09-17T16:56:59.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjE3NTI4Lw",
-      "title": "John Wilson’s ‘The History of Concrete’ from Magnolia Scores Biggest Opening Weekend for Documentary in IFC Center History",
-      "description": "Exclusive: The documentary has outgrossed previous record-holder Werner Herzog's \"Cave of Forgotten Dreams.\"",
-      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-box-office-record-1235217528/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/DA__7968.jpg?w=650",
-      "publishedAt": "2026-09-17T16:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Zi0xMjM1MjE3NDg2Lw",
-      "title": "James McAvoy Doesn’t Believe in God. That Didn’t Stop Him from Making the Spiritual Drama ‘Faith’",
-      "description": "The Scottish actor tells IndieWire about his new spiritual drama, which just premiered at TIFF, and why he opted to become an actor and not a priest.",
-      "url": "https://www.indiewire.com/features/interviews/james-mcavoy-religion-interview-faith-tiff-1235217486/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294750477.jpg?w=650",
-      "publishedAt": "2026-09-17T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE3NDk4Lw",
-      "title": "‘The Life of Jorge Luis Borges’ Review: A Playful Five-Hour Documentary Turns the Argentinian Writer Inside Out",
-      "description": "\"La flor\" director Mariano Llinás veteran with a sprawling and self-reflexive picaresque that is fascinating but frequently dull, for better or worse.",
-      "url": "https://www.indiewire.com/criticism/movies/the-life-of-jorge-luis-borges-movie-review-1235217498/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Life-of-Jorge-Luis-Borges.webp?w=650",
-      "publishedAt": "2026-09-17T13:49:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjE2NjgxLw",
-      "title": "How a Sequel to a Movie Barely Anyone Saw Became a Sensational (and Originally X-Rated) 1980s Indie",
-      "description": "In 1988, \"Patti Rocks\" stood alongside Jim Jarmusch's \"Stranger Than Paradise\" and Spike Lee's \"She's Gotta Have It\" as an indie sensation, but has been largely unavailable for decades. A new Blu-ray from Fun City Editions brings it back to glorious life.",
-      "url": "https://www.indiewire.com/features/commentary/patti-rocks-x-rated-indie-movie-blu-ray-1235216681/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MSDPARO_EC027.jpg?w=650",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bGYtY2VudHVyeS1vbg",
       "title": "50 Years of Punk review – rock’n’roll rebels fondly recall the filth and fury a half-century on",
       "description": "Glen Matlock, Viv Albertine and Rat Scabies revisit the music, clothes and disgusting spitting in a likable documentary marking half a century of British punk As the majority of them ease into their eighth decade, the overlords of British punk rock get yet another celebratory runout, gently reheating material that has become familiar over the years but never loses its appeal. A subculture that passed almost immediately from tabloid-triggering menace to picture-postcard caricature, punk may have passed into legend as a joyless and even squalid diversion in music and fashion history, but its surviving spokespeople recall their participation in it all with no little enthusiasm, even if they’ve clearly said it a thousand times already. No doubt it is the gen alphas among us who will benefit most; you’d expect their jaws to drop and eyes to roll at some of the stuff deemed perfectly acceptable in the late 1970s: women’s-breasts T-shirts, amateurish pancake makeup, and all that disgusting spitting. (“I didn’t mind it going in my mouth,” says the Damned’s Captain Sensible at one point, out-disgusting everyone.) There’s a good spread of voices on offer; at least one member of most of the era’s big acts puts in an appearance with Glen Matlock (the Sex Pistols), Rat Scabies (the Damned), Terry Chimes (the Clash), Steve Severin (Siouxsie and the Banshees), and Hugh Cornwell (the Stranglers) leading the way. (The latter, though affable enough, is easily the least impressed as to punk’s actual achievements, which is a valuable corrective.) The original punk wave had little space for women (despite the sense that blows were being struck for equality) and that’s the case in the film as well: Gaye Advert (the Adverts) and Viv Albertine (the Slits) get a bit of time on camera though inevitably get a bit lost in it all. Due recognition, however, is paid to designer Vivienne Westwood as punk’s true founding spirit; Sex, the King’s Road boutique she ran with Malcolm McLaren, was a crucible of the British punk scene. Don Boyd, who produced the Pistols’ movie The Great Rock ‘n’ Roll Swindle along with the late Jeremy Thomas, says she “was punk and is punk … it came from her”. Continue reading...",
@@ -254,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Boy, 13, is new voice of Thomas the Tank Engine",
-      "description": "A new Thomas series also stars The Gentleman actor Henry Golding.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b111/live/589eab30-b1b0-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-17T04:56:41.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-LXByaXZhdGUtaGVsbA",
