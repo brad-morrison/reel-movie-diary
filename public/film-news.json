@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T01:01:54.683Z",
+  "generatedAt": "2026-09-19T06:42:08.123Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-mEtZG9jdW1lbnRhcnk",
+      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
+      "description": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almost as one and turned to applaud the film-makers for 25 minutes. The film the audience had watched for 80 harrowing minutes was the Gaza documentary NAZA, which has been produced by the Guardian. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
+      "image": "https://i.guim.co.uk/img/media/7f4696cddd8f12a4e477ae728ff4459d9231e8c5/448_86_3786_3030/master/3786.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=467d9c0ae6aed14d7749b7d8a474fc9f",
+      "publishedAt": "2026-09-19T05:00:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE2NDA3Lw",
+      "title": "Trying to Picture Doomsday? 1983’s ‘WarGames’ Already Showed Us One Way AI Could End the World",
+      "description": "After a former Anthropic researcher warned that humanity's extinction could be as close as 2030, John Badham’s cyber thriller offers a frighteningly clear answer to the question: \"OK, how ?\"",
+      "url": "https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDWARG_EC003.jpg?w=650",
+      "publishedAt": "2026-09-19T03:59:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-l0LTEyMzUyMTc0Mjcv",
       "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire’s Future of Filmmaking Summit",
@@ -254,30 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTc2MjUv",
-      "title": "‘Up Against It’ Review: An Uneven Medical Dramedy Relies on Sincerity to Mask Its Flaws",
-      "description": "TIFF: Broad beats and narrative contrivances nearly bury the glimmers of emotional truth in this ludicrous (but well-meaning) blended family story.",
-      "url": "https://www.indiewire.com/criticism/movies/up-against-it-review-1235217625/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-17-at-3.40.56-PM.png?w=650",
-      "publishedAt": "2026-09-18T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZpZXMtY29weXJpZ2h0",
-      "title": "Why stop at Wuthering Heights: House of the Damned? Bring on Mrs Dalloway’s Rampage!",
-      "description": "It isn’t just Winnie the Pooh – now the star of Blood & Honey II. Budget shockers are treating any story with expired copyright as ripe for murderous exploitation It is significant that, at this point in our cultural journey, we have become accustomed to film producers jumping on every single property as it enters public domain, so they can make a cheap and exploitative horror film about it. We have seen Winnie-the-Pooh: Blood and Honey . We’ve seen Bambi: The Reckoning. We’ve seen the six separate horror movies (including Mouseboat Massacre and Mouse of Horrors) that are based on Steamboat Willie. This is just the world we live in now. But if you zoom out even a tiny amount, it all starts to look a little silly. Not because it suggests the paying public has a fondness for inarguably bad horror films based on loose interpretations of recognisable figures, but because it’s missing the bigger picture. In other words, while producers are watching eagerly for the next newly out-of-copyright property to exploit (by the way, Babar the Elephant will enter the public domain in January), there is an entire ocean of public domain work just sitting there to be desecrated. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/17/winnie-the-pooh-horror-movies-copyright",
-      "image": "https://i.guim.co.uk/img/media/3a012be4a1838998307f72743dcccb7a23697382/669_0_1390_1112/master/1390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=239edb26924fa04fec8a10fe79866584",
-      "publishedAt": "2026-09-17T11:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-LXByaXZhdGUtaGVsbA",
