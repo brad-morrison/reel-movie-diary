@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T12:36:55.958Z",
+  "generatedAt": "2026-09-19T18:31:41.031Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WwtMTIzNTIxNzgyOS8",
+      "title": "‘The Other Bennet Sister’ Fans, Rejoice! Dónal Finn Will Be Back for Three-Part Christmas Special",
+      "description": "Mary Bennet's beloved husband, Tom Hayward, is officially back for the much-anticipated special. But so is his rival!",
+      "url": "https://www.indiewire.com/news/breaking-news/the-other-bennet-sister-donal-finn-return-christmas-special-1235217829/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TOBSSpecial_First-look_JamesPardon94.jpg?w=650",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-5zLTEyMzUyMTc1MDQv",
+      "title": "How to Run a Microcinema with John Wilson",
+      "description": "Filmmaker John Wilson tells IndieWire about helping to run the Low Cinema in Queens while also working on his new film “The History of Concrete.\"",
+      "url": "https://www.indiewire.com/features/craft/john-wilson-filmmaker-interview-low-cinema-queens-1235217504/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2257691541.jpg?w=650",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxNzgwOS8",
+      "title": "‘The Daughters of Abraham’ Review: Individualism and Community Test Each Other’s Limits in an Interfaith Friendship Drama",
+      "description": "TIFF: Hanaël El Yousfi's feature debut follows the ongoing relationship between a Jewish woman and her Muslim friend, illustrating how the conflicting desires for independence and family connection are universal.",
+      "url": "https://www.indiewire.com/criticism/movies/the-daughters-of-abraham-review-1235217809/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-18-at-11.42.42-AM.png?w=650",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-LWJveC1zZXQtZmlsbQ",
       "title": "Amanda Redman: ‘My most embarrassing moment? Getting caught doing a pretend Bafta thank you speech’",
@@ -194,42 +230,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-xrLTEyMzUyMTc3MTAv",
-      "title": "James Gray to Receive Directing Award at Virginia Film Fest, Where He’ll Also Join IndieWire’s ‘Screen Talk’ Live",
-      "description": "Exclusive: The \"Paper Tiger\" filmmaker will receive the Virginia Film Festival Outstanding Achievement in Directing Award. On October 22, he'll join IndieWire's \"Screen Talk\" podcast for a live conversation.",
-      "url": "https://www.indiewire.com/news/festivals/james-gray-virginia-ff-directing-award-live-screen-talk-1235217710/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P106DWG0.jpg?w=650",
-      "publishedAt": "2026-09-18T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIxNzUzMy8",
-      "title": "See Which Films Have Been Submitted for Best International Feature at the 2027 Oscars",
-      "description": "In addition to all the countries submitting films to represent them in the Best International Feature category at the 2027 Oscars, there are several films in contention for winning the top prize at festivals like Sundance, Cannes, and Venice.",
-      "url": "https://www.indiewire.com/awards/industry/best-international-feature-submissions-2027-oscars-1235217533/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LBN_20251031_0740_carlaoset.jpg?w=650",
-      "publishedAt": "2026-09-18T14:22:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIxNzY2My8",
-      "title": "Can Being a Crowdpleaser Carry ‘I Play Rocky’ All the Way to the Oscars?",
-      "description": "Although Peter Farrelly's latest film, about the making of \"Rocky,\" is a TIFF People's Choice Awards contender, various aspects of the film fall short in the overall Oscar race.",
-      "url": "https://www.indiewire.com/awards/predictions/i-play-rocky-crowdpleaser-oscars-1235217663/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDIPLA_MG002.jpg?w=650",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
