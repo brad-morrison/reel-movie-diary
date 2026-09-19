@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T18:34:08.406Z",
+  "generatedAt": "2026-09-19T01:01:54.683Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 28
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-l0LTEyMzUyMTc0Mjcv",
+      "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire’s Future of Filmmaking Summit",
+      "description": "The \"Project Hail Mary\" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.",
+      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-12.04.18-PM.png?w=650",
+      "publishedAt": "2026-09-18T22:30:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE3NjEzLw",
+      "title": "‘Best of the Best’ Pulls Off the Perfect Heist Through Its Dance Numbers",
+      "description": "Director Lena Khan; choreographers Phillip Chbeeb, Makenzie Dustman, and Joya Kazi; and DP Adam Carboni tell IndieWire about dances that contain every facet of the characters — just like a diamond stolen by the British.",
+      "url": "https://www.indiewire.com/features/craft/best-of-the-best-bollywood-dances-lena-khan-interview-1235217613/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/BOB_20250730_0259_R.jpg?w=650",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-G0tMTIzNTIxNzU4Mi8",
       "title": "Mike Leigh Movies Always Start Without a Script. Watch the ‘Tender Loving Care’ Director and Cast Break Down His Unique Filmmaking Process",
@@ -148,6 +172,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-1kZXJlay1iYW5idXJ5",
+      "title": "‘The man’s a psychopath when it comes to hedgerows’: Derek vs Derek, the unexpectedly heartwarming doc about farmers at war",
+      "description": "One Devon farmer, called Derek, is committed to rewilding his land. His neighbour, also a Derek, tends cattle and crops. What happened when a film-maker decided to follow the bickering pair? Derek Gow and Derek Banbury should hate each other. Gow is an outspoken rewilder widely credited with bringing back the beaver in England. As he returns his Devon sheep farm to wild nature, he&nbsp;is&nbsp;also breeding storks, wildcats, red-backed shrikes, glowworms and&nbsp;even adders to return to the countryside. Over the hedge, Banbury,&nbsp;his neighbour, is proud to be&nbsp;an intensive farmer, producing milk&nbsp;and beef cattle behind tightly clipped hedges. “It’s like he’s just gone mad,” says&nbsp;Banbury of Gow at the start of&nbsp; Derek vs Derek , an illuminating and&nbsp;unexpectedly funny new documentary that follows the pair over three years. “And the madness is now crossing the road on to my land.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/18/derek-vs-derek-farming-film-documentary-derek-gow-derek-banbury",
+      "image": "https://i.guim.co.uk/img/media/576d22b08110f4f139d7c216133ed69351ad7667/443_0_10920_8736/master/10920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de122bc9caa0f69321ee8c99adb41391",
+      "publishedAt": "2026-09-18T12:00:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "AI not a threat to films, say Shaun the Sheep creators",
       "description": "The Bristol-based institution have released the third feature film in the Shaun the Sheep franchise.",
@@ -232,42 +268,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-mYtMTIzNTIxNzQ1OS8",
-      "title": "‘Half’ Review: A Grisly Indian Vampire Western Tumbles Into Excess",
-      "description": "TIFF: Samjad’s unique saga of invulnerable, vengeful twins quickly builds and loses steam.",
-      "url": "https://www.indiewire.com/criticism/movies/half-review-tiff-1235217459/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-1.57.34-PM.png?w=650",
-      "publishedAt": "2026-09-17T23:32:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE3NTk3Lw",
-      "title": "‘Best of the Best’ Review: Maitreyi Ramakrishnan and Priyanka Kedia Dazzle in Bollywood-Fusion Comedy",
-      "description": "Director Lena Khan’s exuberant third feature pairs collegiate charm and sparkling production design with satire from Hasan Minhaj and his \"Patriot Act\" co-writer, Prashanth Venkataramanujam.",
-      "url": "https://www.indiewire.com/criticism/movies/best-of-the-best-netflix-film-review-1235217597/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/AAAAQZn8OSyy3j9NFp7WUwzymEcLqOP2U3MvRQyB7y_FOgWgYenumgQF3Dkxlh2mEgpFZsdiAvxVoGCjPkqQg1Z1F10gcU4GDrAtiDXN20V0-QRHQJp3xt6xNvZPjzC39X7eHNN9hcakS49CoYezEVomZLE6.jpg?w=650",
-      "publishedAt": "2026-09-17T23:14:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bGYtY2VudHVyeS1vbg",
-      "title": "50 Years of Punk review – rock’n’roll rebels fondly recall the filth and fury a half-century on",
-      "description": "Glen Matlock, Viv Albertine and Rat Scabies revisit the music, clothes and disgusting spitting in a likable documentary marking half a century of British punk As the majority of them ease into their eighth decade, the overlords of British punk rock get yet another celebratory runout, gently reheating material that has become familiar over the years but never loses its appeal. A subculture that passed almost immediately from tabloid-triggering menace to picture-postcard caricature, punk may have passed into legend as a joyless and even squalid diversion in music and fashion history, but its surviving spokespeople recall their participation in it all with no little enthusiasm, even if they’ve clearly said it a thousand times already. No doubt it is the gen alphas among us who will benefit most; you’d expect their jaws to drop and eyes to roll at some of the stuff deemed perfectly acceptable in the late 1970s: women’s-breasts T-shirts, amateurish pancake makeup, and all that disgusting spitting. (“I didn’t mind it going in my mouth,” says the Damned’s Captain Sensible at one point, out-disgusting everyone.) There’s a good spread of voices on offer; at least one member of most of the era’s big acts puts in an appearance with Glen Matlock (the Sex Pistols), Rat Scabies (the Damned), Terry Chimes (the Clash), Steve Severin (Siouxsie and the Banshees), and Hugh Cornwell (the Stranglers) leading the way. (The latter, though affable enough, is easily the least impressed as to punk’s actual achievements, which is a valuable corrective.) The original punk wave had little space for women (despite the sense that blows were being struck for equality) and that’s the case in the film as well: Gaye Advert (the Adverts) and Viv Albertine (the Slits) get a bit of time on camera though inevitably get a bit lost in it all. Due recognition, however, is paid to designer Vivienne Westwood as punk’s true founding spirit; Sex, the King’s Road boutique she ran with Malcolm McLaren, was a crucible of the British punk scene. Don Boyd, who produced the Pistols’ movie The Great Rock ‘n’ Roll Swindle along with the late Jeremy Thomas, says she “was punk and is punk … it came from her”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/17/50-years-of-punk-review-rocknroll-rebels-fondly-recall-the-filth-and-fury-a-half-century-on",
-      "image": "https://i.guim.co.uk/img/media/d36e1df567af0baf17d1e63049416a3211aacf70/50_0_1470_1177/master/1470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b56d81f34ff8e80cde9598b1fd89b1e2",
-      "publishedAt": "2026-09-17T12:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ZpZXMtY29weXJpZ2h0",
       "title": "Why stop at Wuthering Heights: House of the Damned? Bring on Mrs Dalloway’s Rampage!",
       "description": "It isn’t just Winnie the Pooh – now the star of Blood & Honey II. Budget shockers are treating any story with expired copyright as ripe for murderous exploitation It is significant that, at this point in our cultural journey, we have become accustomed to film producers jumping on every single property as it enters public domain, so they can make a cheap and exploitative horror film about it. We have seen Winnie-the-Pooh: Blood and Honey . We’ve seen Bambi: The Reckoning. We’ve seen the six separate horror movies (including Mouseboat Massacre and Mouse of Horrors) that are based on Steamboat Willie. This is just the world we live in now. But if you zoom out even a tiny amount, it all starts to look a little silly. Not because it suggests the paying public has a fondness for inarguably bad horror films based on loose interpretations of recognisable figures, but because it’s missing the bigger picture. In other words, while producers are watching eagerly for the next newly out-of-copyright property to exploit (by the way, Babar the Elephant will enter the public domain in January), there is an entire ocean of public domain work just sitting there to be desecrated. Continue reading...",
@@ -290,6 +290,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-QtbW92aWUtcmV2aWV3",
+      "title": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
+      "description": "The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in there! Girl, get out of the house! Guys, ignore that distress signal! But genre aficionados may find themselves falling a little bit in love with Bryan (Austin Abrams), the hapless de facto hero of the new horror film Resident Evil. It’s not that Bryan is traditionally hunky, or even a caricatured version of a square-jawed warrior, like Bruce Campbell in his later Evil Dead outings. But Abrams is in possession of a Campbell-ish charm, even in the face of his character’s repeated blundering, as well as an everyman relatability that makes this wild carnival-ride movie play a little closer to the ground. Bryan is a courier – a glorified Postmates driver, in his own estimation – who postpones the end of his shift to take one last night-time run, driving an important item from one hospital to another in a snowstorm without the proper tires or four-wheel drive. After all, the distance and urgency means double pay. When he hits a mysterious woman who emerges suddenly on to a slick road, he’s drawn into a hellish outbreak that will look familiar to fans of the Resident Evil video game series (or maybe the previous six-movie Milla Jovovich franchise, which apparently drifted afield from the games’ storylines). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
+      "image": "https://i.guim.co.uk/img/media/fbbc7a8cc12b46d1a7d2687cfe582e06d6dc9753/715_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5c1403dad3fe242bcd7aa69603b2777d",
+      "publishedAt": "2026-09-16T16:00:23.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-i1kaWVzLWFnZWQtODU",
@@ -436,48 +448,12 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-VlcHktYW50aG9sb2d5",
-      "title": "Company review – Casey Affleck entertains us with creepy campfire tales",
-      "description": "Venice film festival: Affleck’s third film as a director is a diverting gothic anthology about mysterious strangers, murder and – pointedly – wronged men Gather ye ’round the glowing screen for a Casey Affleck campfire tale. It contains superstitions and murder and human oddities of all stripes. An old hermit in his shack. Something nasty in the woodshed. If you like the first tale, fill your boots, settle back, because here comes another and another; each sparked by the embers of its neighbour and playing out with the same deliberately theatrical panache. Affleck’s picture roams and rambles like a creepy cracker-barrel Jackanory. Actually there is much to relish in Company, Affleck’s third film as a director, even if many of its elements feel like off-the-peg eccentricities; a little too laundered and self-consciously strange. It begins in tried and tested fashion with the arrival of a mysterious stranger on a dark winter’s night. The stranger takes a seat and spins a tale, at which point December 1975 melts into 1953, then 1903, before finally the film crosses the ocean to Europe at the tail end of the plague. Nick Nolte is a hermit pining for his lost daughter, while Ben Mendelsohn plays a mean, mordant farmer who reaches for his handgun too readily. Both men, one suspects, are destined for a bloody end. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/company-review-casey-affleck-creepy-anthology",
-      "image": "https://i.guim.co.uk/img/media/a1c5588bd7c78279dcba5b232e64c9a11ec683d0/612_0_1003_802/master/1003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=36e72de0f5785737996a3fc68b001a11",
-      "publishedAt": "2026-09-08T19:45:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1maWxtLWZlc3RpdmFs",
-      "title": "Bunker review – Cruz and Bardem just can’t dig Florian Zeller’s shallow thriller out of a hole",
-      "description": "Venice film festival: An architect (Javier Bardem) alienates his book editor wife (Penélope Cruz) when he agrees to build a luxurious bunker for a tech billionaire Even the formidable pairing of Penélope Cruz and Javier Bardem can’t save this new movie from writer-director Florian Zeller – his first created directly for the screen, and not adapted from his own stage original. It’s shallow and unsatisfying, a drama without the intimate, authentic passion of his previous movies like The Father (2021) or The Son (2022). Bunker has nothing that interesting or original to say about its metaphorically showcased theme of alienation and inequality; the central relationship is left unexplored in favour of so-so home-invasion suspense styling – although one extended marital-argument scene showed what might have been achieved if their relationship was the film’s point – and the violent finale ending is outrageously glib, silly and unconvincing. An off-camera paramedic or doctor actually has to be heard explaining in a brief sentence afterwards what is supposed to have happened. Very lame. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/the-bunker-review-penelope-cruz-javier-bardem-florian-zeller-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/fbd3272badbf1b060dc22e2e24898b2529b204a3/1168_0_5252_4202/master/5252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=99eee3fa0ef4440cfc30e901a19bdf8a",
-      "publishedAt": "2026-09-08T17:00:45.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
       "title": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
       "description": "A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be had Much has changed in the universe, cosmic and otherwise, since the Owens witches last graced the big screen with their practical magic of sleeping draughts, midnight margaritas and generational love curses. For one, movies like the 1998 cult-ish classic Practical Magic – a compellingly bizarre mashup of genres, aspirational 90s fashion and sisterly affection starring Sandra Bullock and Nicole Kidman in their movie-star primes as lovelorn sorceresses in Puritan-lite Massachusetts – largely stopped reaching theaters. For another, nostalgia cycles only intensified and tightened, our algorithms clogged with unsolicited sequels and dupes for Bullock’s impeccable vintage 90s Levi’s. Which makes Practical Magic 2, reuniting both Kidman and Bullock, and Stockard Channing and Dianne Wiest as their lovingly eccentric aunts, somewhat of an anomaly, at once a seeming inevitability and, as a matrilineal romance comedy (though decidedly not a romcom) starring two 60-year-old women , an oddity . There’s no circumventing nostalgia bait, but Practical Magic remains so idiosyncratic in tone and, well, kookiness, that a sequel somewhat appeals. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
       "image": "https://i.guim.co.uk/img/media/eb81f8d4a1478f5ffd85c38600de8d3153415339/394_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd1dc3371e3a7aeea712053cf7eee117",
       "publishedAt": "2026-09-08T16:05:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-W1hbi1lbG9uLWZpbG0",
-      "title": "Musk review – epic study of the world’s richest and most banal man",
-      "description": "Venice film festival: Alex Gibney interviews former colleagues, wives, the trillionaire’s father and a CG avatar in this absorbing documentary ‘Elon is a nuke.” The speaker is Ashley St Clair, a former conservative Maga influencer and one of Elon Musk’s former girlfriends-slash-baby mommas. She is a fascinating expert witness in Alex Gibney’s four-hour epic study of the world’s richest and dullest man: the overgrown brattish South-African-born trillionaire plutocrat, ersatz visionary and Trump courtier who owns Tesla cars, SpaceX rocket ships, Starlink satellites on which nation states’ military capabilities are increasingly reliant, X (formerly Twitter) which shapes the collective incel id of billions and GrokAI whose vast server farms daily guzzle oceans of precious water. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/musk-review-epic-study-worlds-richest-most-banal-man-elon-film",
-      "image": "https://i.guim.co.uk/img/media/eadca006ac0216857b3d535336559849b855320a/384_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=39aba95ba5efd6d3d85dc0943d9414f3",
-      "publishedAt": "2026-09-08T12:32:58.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -496,54 +472,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-10YWxraW5nLWhlYWRz",
-      "title": "Don’t Forget Me review – Eddie Cochran bio-doc boasts top-notch roster of talking heads",
-      "description": "Director Kirsty Bell alternates archival footage with tacky dramatised filler, but it’s the breadth of appreciation, from Keith Richards to Kiefer Sutherland that impresses No one could argue that rock’n’roll legend Eddie Cochran isn’t worthy of a birth-to-untimely-death bio-doc; it’s almost shocking that this is the first one to be made. But if truth be told, director Kirsty Bell’s effort is stretched so thin to make a feature-length running time you can practically see through the screen. Also it’s so old-fashioned in its structure it plays almost like a tongue-in-cheek parody. The film deploys just about every scrap of archive material featuring Cochran that the budget could afford (which means we see precious little of his performance in The Girl Can’t Help It), plus scads of rostrum-mounted newspaper articles. That’s still not enough to make more than a long short film, so Bell has inserted endearingly tacky dramatic recreations with actors playing Cochran and his mother, whom the rocker reportedly phoned regularly while on tour. In these performed conversations Cochran confides to mom about, for instance, his fears that he’ll die an early death like his friend Buddy Holly. (And sure enough he did, in 1960 in a car accident on the road between Bristol and Heathrow.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/dont-forget-me-review-eddie-cochran-bio-doc-boasts-top-notch-roster-of-talking-heads",
-      "image": "https://i.guim.co.uk/img/media/fcaf9a118afabf90982d616b125e2091c3386d00/199_88_1133_907/master/1133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a05d436d6642f1eb6434312ff3c5187a",
-      "publishedAt": "2026-09-08T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dHQtaWFuLW9naWx2eQ",
-      "title": "Knightfall review – low-rent gender-flipped Bond knock-off swaps Aston Martins for Minis",
-      "description": "Jeanine Nerissa Sothcott’s no-nonsense spy heads a game cast that includes Ian Ogilvy and Roger Moore’s son Geoffrey, but this austerity actioner lacks tension Proceeding from an old-school title pun – yes, the heroine goes by the name Ros Knight – the latest from resourceful microbudget producer Jonathan Sothcott surely has one optimistic eye on filling the void left by the withdrawal of 007 from public life. Here is the gender-flipped Bond some have been seeking: the adventures of a no-nonsense, tough-talking security operative (Jeanine Nerissa Sothcott) who is tasked with recovering a lethal bioweapon pilfered from a scaled-down Porton Down during the prologue. Everything, in truth, proves a bit reined-in. This austerity actioner spends less on its set pieces than the Broccolis typically did on keeping one Aston Martin refuelled; the Sothcotts’ car of choice, emblematically, is the dinkiest of Minis. In essence, it’s Bond without the attendant glamour, hanging around drizzly marinas and parky-looking country lanes, in dim light that hopefully obscures some of the more obvious budget limitations. What money there is here has wisely been spent on human resources, faces who might still look good on the promotional material: a cameoing Michael Paré as a shady Felix Leiter type, Roger Moore’s son Geoffrey as our gal’s understandably worried-looking lover, Nick Moran giving cut-price Colin Firth as a meddling bureaucrat. The pick of the players is a spry, characterful Ian Ogilvy as Ros’s estranged father, helpfully identifying where the real power lies on a chessboard and generally steadying scenes whenever matters get a bit too threadbare. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/knightfall-review-gender-flipped-bond-jeanine-nerissa-sothcott-ian-ogilvy",
-      "image": "https://i.guim.co.uk/img/media/f0e11570aece0ad08bb1f10dbaf4959098c88160/87_0_845_676/master/845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=fd60bf947744663c45682189be8a77d4",
-      "publishedAt": "2026-09-08T08:00:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cml0dWFsLXdpc2RvbQ",
-      "title": "Better Go Mad in the Wild review – boozing, bantering hermits impart their spiritual wisdom",
-      "description": "Director Miro Remo journeys deep into the Czech countryside to find two brothers living an isolated life filled with quixotic wisdom in this surreal documentary Narrated by a slaughtered bull, this extraordinary film takes the less-travelled path in charting the daily life of a pair of Czech twins a long way off conventional routes themselves. František and Ondřej Klišík are slowly going mad – or maybe closing in on enlightenment – in a cabin in the Šumava mountains and, extrapolating a short story about the brothers by Aleš Palán, director Miro Remo succumbs productively to the prevailing cabin fever – not only egging these longbeards on in their squabbling and loopy philosophising, but pitching in with his own fabulism and surrealism. Closing on 60, “Franta” and “Ondra” still farm their smallholding with the help of Nandy, a mutinous bull ill-chosen as a draught animal. In their downtime, they booze, banter and bicker, lament their lack of prospects with the fairer sex, and blow off steam in epic arm-wrestling bouts. Despite an arm lost to a sawmill accident, it’s Franta who’s usually the victor; he is also possessed by a quixotic streak absent in his bluff sibling. Letting loose streams of poetry into the air like bunting, wishing “joy to all conscious beings”, he is also constructing his own Da Vinci-style perpetual flying machine. “Your aversion to my perpetuum is a little annoying,” he informs the exasperated Ondra. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/better-go-mad-in-the-wild-review-boozing-bantering-hermits-impart-their-spiritual-wisdom",
-      "image": "https://i.guim.co.uk/img/media/ed44ebda6ac4dbcdf16f97cf7e30d75acfc408a3/817_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f4cb947a50036cec5bdcfb54ba4a2a7d",
-      "publishedAt": "2026-09-08T06:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "The Spiral review – Valeria Bruni Tedeschi is hilarious as a demon cutting a deal with a vain matriarch",
-      "description": "Venice film festival: Tedeschi gives a career best performance as the mysterious stranger who visits a wealthy Italian family to prey on their pampered weaknesses Everyone in the movie business has earnestly learned to call film-makers “storytellers”, despite the fact that film-makers don’t necessarily have to deliver conventional narrative and that so many of them are in any case no good at the old-fashioned business of storytelling. But this last point certainly doesn’t apply to Italian director Paolo Strippoli who has brought to Venice an uproarious edge-of-the-seat gripper in which Valeria Bruni Tedeschi gives us the funniest performance of the festival and the best of her career. It’s a satirical nightmare about a wealthy woman’s Faustian bargain, like one of Roald Dahl’s Tales of the Unexpected – as elegantly designed and beautifully shot as anything by Paolo Sorrentino and with smart, subversive things to say about body image and body fascism and about a cosseted, self-involved Italian matriarch who eternally congratulates herself on sacrificing herself – or wanting to sacrifice herself – for her children. At the centre of this bizarre drama is Anna (superbly played by Jasmine Trinca) who is complacently marred to wealthy alpha-male Bari businessman Walter (Adriano Giannini): they have two children: Alice (Romana Maggiora Vergone) and Tobia (Andrea Genovese). Each family member gets a chapter. At a spectacular party at their gorgeous home, whose clear purpose is to make friends and neighbours jealous, a terrible accident happens, just after the children discover an ominous spiral of ants in the grass. While praying desperately for a miracle, Anna is visited by “ L’estranea ” of the film’s Italian title, the mysterious stranger hilariously played by Tedeschi, who appears to know all about this rich, picture-perfect family and offers to solve their problems. But she wants something in return, a sadistic deal that cuts to the heart of both parents’ selfishness. Anna had always wanted to act in her youth but her father forbade it – now she has been obsessively pushing Alice into acting and is morbidly upset at any physical problem that Alice has which damages this proxy ambition. As for macho Walter, he is thrilled at Tobia’s skills at football, and sponsors his son’s youth team; he is disgusted (rather than compassionate) at a weight issue that Tobia has which gets him dropped from the side. And all the time Anna sombrely considers the sacrifices she has secretly brokered for other people to make with this smirking, skittish Mephistopheles in order to keep her family safe. But has she done wrong? Is she guilty of some obvious sin which is being punished? No. It is just a deadpan tale of supernatural cruelty meted out to someone whose only crime is smugness, vanity and being rude to her domestic staff. It all climaxes in an apocalyptic finale: an enjoyable and macabre family affair. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/the-spiral-review-valeria-bruni-tedeschi-venice-film-festival",
-      "image": "https://i.guim.co.uk/img/media/3b7fd30bd256acb8a242f38038adc9f6ee653a42/378_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=2606de0170adb25316c3a54af26aebd5",
-      "publishedAt": "2026-09-07T17:30:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-S1nb3QtdGhlLWNob3A",
       "title": "Gal Gadot’s Wonder Woman was one of DC’s few successes. It’s a mystery why she got the chop",
       "description": "James Gunn and Peter Safran’s regime had good reasons to ditch Ben Affleck’s Batman and Henry Cavill’s Superman. Other choices have been much harder to fathom There was never going to be a completely painless way to break up the old DC gang. Warner Bros’ DC Extended Universe probably needed to be ruthlessly ripped apart in order to create space for James Gunn and Peter Safran’s brand-new DCU. We almost certainly did need a clean break from the likes of Ben Affleck (Batman) and Henry Cavill (Superman), if only to persuade audiences that this really was a proper reboot. The question, as Gal Gadot may have been pondering this week, is quite why some of the old universe’s supporting players were smuggled safely into the new continuity while others were left sprawling amid the ruins. Speaking on the Happy Sad Confused podcast , Gadot, who starred in two solo Wonder Woman movies for director Patty Jenkins, revealed that nobody at DC Studios ever formally told her she had been dropped. One minute, Gadot says, she was being assured by Gunn and Safran that they would develop a third instalment with her; the next, she was looking on in mounting alarm as the entire infrastructure of the previous DC continuum was blown to smithereens. “They were like, ‘We’re going to develop it with you, the third one,’” she said. “But I saw the way everybody else was handled, right? And I, you know – the Henry [Cavill] situation was unfortunate. I was in the middle of that. The Henry situation was not handled elegantly, to say the least. Same with Patty – it was not handled elegantly.” Continue reading...",
@@ -554,6 +482,66 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-LXdhci1icm9tYW5jZQ",
+      "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
+      "description": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed every red-blooded young guy in America adored Top Gun and wanted to be a US Navy fighter pilot. It’s got some outrageous close-quarter fight scenes – and who knew Branagh could bust out martial arts moves? Is he going to follow Bob Odenkirk into an unexpected action movie career? The final sequences of automotive mayhem in and around Moscow might remind you of the heady days of Roger Moore as James Bond. Reynolds is Troy Kelly (callsign “Assassin”), a supercool fighter pilot in 1987, who is always doing brave and brilliant stuff that isn’t in the rulebook, and cracking wise in the accepted Reynolds manner. But when his spy plane is shot down deep inside snowy and forested Soviet territory, Troy awakens from his coma to find himself in the log cabin of retired KGB man Nikolai Ustinov, cheerfully played by Branagh, who is a secret fan of all things American and obsessively rewatches Top Gun on samizdat VHS. He suggests to the stunned Troy that he simply stays in his cabin, watching the film with him, until the cold war is over. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
+      "image": "https://i.guim.co.uk/img/media/b9ac1c75c1002b269d9c1e0d89d05f043d62d5c3/918_0_2003_1603/master/2003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2cd5468b0a594678b069886a67942706",
+      "publishedAt": "2026-09-02T16:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-EtYWRhbS13aW5nYXJk",
+      "title": "Onslaught review – super soldier slasher doesn’t go hard enough",
+      "description": "There’s a committed performance from a spunky Adria Arjona in the Guest director Adam Wingard’s decent B-movie but it’s missing some sharper weaponry There’s something rather fascinating about an indie director who heads to the A-list before returning to their roots, a wider skillset and different perspective gained for better or worse. Working within a stricter system – the tiniest of choices being agreed upon by the largest of committees – can often be a creatively crushing experience that we’ve heard gruesomely detailed by many who survived it but the expansion of what one is allowed to technically do with a bigger budget can also be instructive and enriching. The dream scenario is bringing back the good and allowing the bad to inspire new work that makes the most of how unshackled one again now is. There are plenty of examples of how this hasn’t worked. Neill Blomkamp following Elysium and Chappie with chintzy low-budget horror Demonic (easily his least effective film although since opening his own AI “studio” I imagine the worst is yet to come), Marc Forster following Quantum of Solace and World War Z with a blind Blake Lively film that, ironically, no one saw while Anna Boden and Ryan Fleck went from the greatness of Half Nelson to the blandness of Captain Marvel to the headache of Freaky Tales . But then we were also gifted with the hometown intimacy of Alfonso Cuarón’s Roma after he came back from space for Gravity and Hogwarts for the Prisoner of Azkaban while Karyn Kusama brushed off the nightmare of Æon Flux with the brilliantly creepy dinner party thriller The Invitation . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard",
+      "image": "https://i.guim.co.uk/img/media/1cc0372e6b4d65dc30988d6630bfdb19e46d1d2e/772_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=798a4e434461459ce188824492bd48cd",
+      "publishedAt": "2026-08-31T16:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-5pZmVyLXNhdW5kZXJz",
+      "title": "Virginia Woolf’s Night and Day review – dreamy adaptation reaches for the stars",
+      "description": "Woolf’s novel about a headstrong young Edwardian woman takes flight under Tina Gharavi’s direction, with Timothy Spall and Jennifer Saunders among the ensemble cast Here is an adaptation, written by Justine Waddell, of Virginia Woolf’s peculiar and tonally elusive work that is all about the quarterlife crisis of a headstrong, well-born young woman in Edwardian London faced with the necessity of getting married. What emerges is a wayward, unworldly fantasia, a four-leaf clover of a film – or even five-leaf; rather beautifully designed and photographed, flavoured with a wistful, unexpectedly Germanic kind of romanticism. Waddell and Iranian-born director and Bafta nominee Tina Gharavi have creatively gone against the grain of the novel, amplifying Woolf’s single glancing reference to astronomy and making that the centre of the heroine’s yearning, perhaps playfully implanting a subconscious memory of Cole Porter’s lyrics to the song of the same title: “You are the one, only you beneath the moon, under the sun ….” And – thankfully, in my view – the film removes Woolf’s supercilious condescension towards the self-betterment of newly educated lower and middle classes, and instead focuses on a sweet-natured story, performed with conviction by its all-star ensemble cast, interspersed with dreamlike set pieces. The result is not precisely Virginia Woolf’s Night and Day; maybe more EM Forster’s Night and Day or even Ronald Firbank’s Night and Day. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jun/02/virginia-woolfs-night-and-day-review-tina-gharavi-timothy-spall-jennifer-saunders",
+      "image": "https://i.guim.co.uk/img/media/53c0590bf25a0d9c0208162ee5b99af800707abf/283_0_4924_3938/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=339a8fd8eae9257cf8c5b5e43abcb715",
+      "publishedAt": "2026-06-02T14:33:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-GF3a2Utc3VuZGFuY2U",
+      "title": "The Weight review – Ethan Hawke leads sturdy adventure set in the 30s",
+      "description": "Sundance film festival: the recent Oscar nominee lends gravitas to a decent matinee movie on gold smuggling For Ethan Hawke, 2025 was quite the year, showing impressively jarring range as both a bitter gay lyricist in Blue Moon and a demonic child-killer in Black Phone 2, both out at the same time in cinemas, a uniquely terrifying double-bill for diehards. He also led critically adored new noir series The Lowdown, airing simultaneously, all serving as reminder of how he’s one of the hardest-working established actors we have. Not many five-time Oscar nominees have made eight films in the last four years (while also directing two other films on the side). It doesn’t all hit (Raymond and Ray, anyone?) but there’s something unusually invigorating about someone with his level of fame still seeming so excited about the many different opportunities he can maximise (this is, after all, the guy who made millions from his crafty back-end deal for The Purge). He’s on far safer ground, at least as an actor, in The Weight, a conventional adventure drama about gold smuggling in the early 1930s, but his increased versatility has earned him an increase in confidence and while the work here might err more on the physical, he easily anchors the film. The Weight is screening at the Sundance film festival and is seeking distribution Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance",
+      "image": "https://i.guim.co.uk/img/media/38f8e4ac3e816fc653fd51380068def5d1fcea14/608_0_1798_1440/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b35f1e6067915f1c8cb9e6a0899f73f8",
+      "publishedAt": "2026-01-28T01:34:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1hbmdlbGlhLWpvbGll",
+      "title": "Without Blood review – Angelina Jolie’s lacklustre war drama is another misfire",
+      "description": "Toronto film festival: the actor and activist again struggles to convince as a film-maker with a well-meaning yet unconvincing adaptation of Alessandro Baricco’s novel If only Angelina Jolie’s latest directorial effort, Without Blood, could be as pointed and consequential as her words in real life. If only the film, about the human toll of war, could draw blood as she does. Jolie, a film-maker and former UN ambassador, has long been an outspoken advocate and humanitarian. She was also one of the first and remains among the few Hollywood stars to speak up for Palestinian lives, criticizing the lack of humanitarian aid provided to innocent civilians. Without Blood is screening at the Toronto film festival and will be released at a later date Continue reading...",
+      "url": "https://www.theguardian.com/film/article/2024/sep/09/without-blood-review-angelia-jolie",
+      "image": "https://i.guim.co.uk/img/media/788d731b6d4d76f16fbde18fe62f1826f1c36f38/73_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=8de2d3d40ccdc1bb5dced45b2d1d3d23",
+      "publishedAt": "2024-09-09T22:49:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     }
   ]
 }
