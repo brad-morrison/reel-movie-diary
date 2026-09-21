@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:32:38.070Z",
+  "generatedAt": "2026-09-21T01:08:39.537Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-5kLTEyMzUyMTc5MzAv",
+      "title": "Zach Cregger’s ‘Resident Evil’ Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run",
+      "description": "The new film from the \"Weapons\" and \"Barbarian\" director opens to $108.3 million, making him one of Hollywood's biggest hitmakers.",
+      "url": "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDREEV_SP023-1.jpg?w=650",
+      "publishedAt": "2026-09-20T18:43:55.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-ZS0xMjM1MjE3ODkwLw",
       "title": "Which Fall Festival Favorites Are Now in the Oscar Race?",
@@ -53,7 +65,7 @@
     },
     {
       "id": "indiewire-JkLTEyMzUyMTc4NjAv",
-      "title": "Box Office: John Wilson’s ‘The History of Concrete’ from Magnolia Becomes IFC Center’s Second Biggest Debut",
+      "title": "John Wilson’s ‘The History of Concrete’ from Magnolia Becomes IFC Center’s Second Biggest Debut",
       "description": "The offbeat documentary earned $90,000, second only to \"Parasite.\"",
       "url": "https://www.indiewire.com/news/box-office/box-office-john-wilson-history-of-concrete-ifc-center-record-1235217860/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_History_of_Concrete-Still_1.jpg?w=650",
@@ -214,18 +226,6 @@
       "url": "https://www.indiewire.com/news/events/mike-leigh-kate-oflynn-tender-loving-care-breaking-down-film-1235217582/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294957440.jpg?w=650",
       "publishedAt": "2026-09-18T18:05:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMTc3OTkv",
-      "title": "‘NAZA,’ Israeli Military Doc from ‘No Other Land’ Directors, Sets Speedy Fall Release in U.S.",
-      "description": "The controversial documentary is moving ahead with a self-distribution strategy that will roll the film out across American cities beginning in October.",
-      "url": "https://www.indiewire.com/news/breaking-news/naza-documentary-us-release-1235217799/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
-      "publishedAt": "2026-09-18T18:05:42.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
