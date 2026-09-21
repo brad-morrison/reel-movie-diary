@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T12:40:02.415Z",
+  "generatedAt": "2026-09-21T18:36:18.311Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9uLTEyMzUyMTYzMTYv",
+      "title": "Chester Bennington Doesn’t Appear in Linkin Park Rock Doc ‘Unshatter,’ but Director Joe Hahn Made Sure He Was ‘Always, Always Around’",
+      "description": "Linkin Park's DJ (and now its documentarian) tells IndieWire why his film only looks ahead at the band's future.",
+      "url": "https://www.indiewire.com/features/interviews/linkin-park-unshatter-joe-hahn-interview-chester-bennington-1235216316/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Linkin_Park_2_20_2535788-M1A-copy-1-1_0.jpg?w=650",
+      "publishedAt": "2026-09-21T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "First look at The Other Bennet Sister Christmas special revealed",
+      "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/989b/live/e458c650-b58f-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-21T17:02:05.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-NoLTEyMzUyMTc5NTcv",
+      "title": "Watch an Exclusive Look at NYFF World Premiere ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’",
+      "description": "Mani Haghighi's Iranian documentary centers on an art collector whose immense archive of Persian pieces borders on hoarding; it plays NYFF on September 30.",
+      "url": "https://www.indiewire.com/news/festivals/i-deserve-a-lover-nyff-world-premiere-exclusive-clip-watch-1235217957/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/I-Deserve-a-Lover-Whose-Every-Rise-Sets-Fiery-Dooms-Raging-Across-the-Skies_NYFF64_1-scaled-1.avif?w=650",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE3OTc1Lw",
+      "title": "Paramount Reaches Settlement to End States’ Lawsuit, Paving Way for Merger with Warner Bros. Discovery",
+      "description": "Paramount agreed to a number of concessions, including an investment of $1.5 billion in production spending in California over the next five years.",
+      "url": "https://www.indiewire.com/news/business/paramount-settlement-states-lawsuit-merger-1235217975/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/GettyImages-2285925661.jpg?w=650",
+      "publishedAt": "2026-09-21T15:38:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTc5NzEv",
+      "title": "‘Phoolan’ Review: A Biopic About a Rebellious Indian Feminist Is Undone by its Ramshackle Structure",
+      "description": "India’s \"Bandit Queen\" gets a welcome cinematic update, albeit one that can’t sustain itself",
+      "url": "https://www.indiewire.com/criticism/movies/phoolan-movie-review-1235217971/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Phoolan_02.webp?w=650",
+      "publishedAt": "2026-09-21T15:15:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-N5LWVkZ2FyLWpvbmVz",
+      "title": "Sense and Sensibility review – Daisy Edgar-Jones leads sober-minded next-gen do-over of Austen romcom",
+      "description": "With Edgar-Jones and Esmé Creed-Miles as the Dashwood sisters, this fresh take on a beloved classic is not to be confused with Ang Lee’s There’s no reason for anyone working on a new adaptation of Jane Austen’s Sense and Sensibility to be intimidated by the celebrated 1995 movie by director Ang Lee and screenwriter Emma Thompson, any more than they should be or overawed by Austen’s original novel. Sacred cows are there to be … not slain, but re-invented. The decision to bring out a next-gen Sense and Sensibility, with a new young cast – as opposed to, say, a new Northanger Abbey or a new spin on the unfinished The Watsons – might bemuse some and at first it bemused me, like hearing about a Love Actually remake starring Millie Bobby Brown. But this turns out to be a more downbeat, ruminative version, happening in much cloudier weather than 30 years ago and without the sugar-rush final wedding scene. The mood is cooler, but interestingly austere, sober and thoughtful. There are also some strange casting decisions. The sisters at the heart of the story, Elinor and Marianne Dashwood, played in 1995 by Emma Thompson and Kate Winslet, are now played by Daisy Edgar-Jones and Esmé Creed-Miles, and frankly don’t look and sound much like the sisters we thought we knew. They look like young women who knew each other reasonably well at uni and are now in a flatshare in London. It is a story of financial and romantic crisis. Mrs Dashwood and her three daughters, having happily occupied a handsome Sussex estate, are forced to move to humble Barton Cottage in Devon when Mrs Dashwood’s stepson John Dashwood inherits their property and effectively evicted them. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones",
+      "image": "https://i.guim.co.uk/img/media/1eed5e9a0f3dee04f67119b9ba0af661f051ba8f/424_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=da509e796ab35df70053f53b39354a1f",
+      "publishedAt": "2026-09-21T15:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Cate Blanchett asks theatre audience to stop filming during show",
+      "description": "The A-list actress is the latest star to ask fans to put their phones away during performances.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyzpy6g43o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c21f/live/f6ffc310-b5b9-11f1-8d1d-a985658d9d3a.jpg",
+      "publishedAt": "2026-09-21T14:03:20.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZC1jaW5lbWEtZXZlcg",
+      "title": "Dunesday: will this be Barbenheimer on steroids – the biggest weekend of cinema ever?",
+      "description": "Since the mammoth success of the films Barbie and Oppenheimer in 2023, Hollywood has taken to jointly marketing movies released on the same day – and December’s matchup of Dune: Part Three and Avengers: Doomsday could break all records Name: Dunesday. Age: Nascent. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/21/dunesday-barbenheimer-on-steroids-biggest-weekend-cinema-ever",
+      "image": "https://i.guim.co.uk/img/media/48244c8ac2887f3549e2cfbbf6e787ca41b2c5e6/193_0_2615_2091/master/2615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cce75e3d9b7bf960f07455d688299f1",
+      "publishedAt": "2026-09-21T12:29:16.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-ci0xMjM1MjE3OTQ4Lw",
       "title": "‘The Further Mis-Adventures of Cliff Booth’ Trailer: Brad Pitt’s Tarantino Stuntman Returns in 1977 Hollywood for Fincher’s Sequel",
@@ -184,54 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-BvbnMtYmFyYmFyaWFu",
-      "title": "‘Resident Evil movies? I’ve never seen one’: Weapons director Zach Cregger on resurrecting the beloved zombie franchise",
-      "description": "Raised on punk, alt-comedy and the church, Cregger’s Lynchian approach to horror is anything but typical. After two wildly original hits, his pivot to a 30-year-old video game has caused a storm among protective fans When Barbarian , Zach Cregger’s debut film as a solo writer-director, came out in 2022, it was a big success, creating a buzz among horror connoisseurs, garnering good reviews, and grossing $46m. Then his second film, Weapons , came out in 2025 and did even better. Mounting industry buzz around the project crystallised into a fierce bidding war; Jordan Peele was reportedly desperate to produce and, incensed by his failure to secure the rights, allegedly fired his managers. The rumours went viral, resulting in a wave of incredible PR that saw the film wildly outperform box office expectations and win an Academy Award (for Amy Madigan ’s blunt-fringed, bonsai-pruning best supporting actress turn as instantly classic villain Aunt Gladys). Even if Cregger had not had a box-office smash that crossed over into awards contention, there would still be an atmosphere of hushed expectation around his next move. Both Barbarian and Weapons addressed hot-button issues – sexual assault and school shootings, respectively – while resisting easy interpretation. Both, too, started out seemingly heading in one narrative direction, before thrillingly careening off elsewhere. Thus, with just two features, Cregger had established a reputation for totally terrifying, utterly unpredictable and – most importantly – genuinely original movies. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/20/zach-cregger-director-interview-resident-movie-evil-weapons-barbarian",
-      "image": "https://i.guim.co.uk/img/media/343bc2c556eb8bc6407d9ad6e0bab21b6151f565/232_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6da68f5a41ab227aaf2dce8333f3b704",
-      "publishedAt": "2026-09-20T09:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIxNzgyOS8",
-      "title": "‘The Other Bennet Sister’ Fans, Rejoice! Dónal Finn Will Be Back for Three-Part Christmas Special",
-      "description": "Mary Bennet's beloved husband, Tom Hayward, is officially back for the much-anticipated special. But so is his rival!",
-      "url": "https://www.indiewire.com/news/breaking-news/the-other-bennet-sister-donal-finn-return-christmas-special-1235217829/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TOBSSpecial_First-look_JamesPardon94.jpg?w=650",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-5zLTEyMzUyMTc1MDQv",
-      "title": "How to Run a Microcinema with John Wilson",
-      "description": "Filmmaker John Wilson tells IndieWire about helping to run the Low Cinema in Queens while also working on his new film “The History of Concrete.\"",
-      "url": "https://www.indiewire.com/features/craft/john-wilson-filmmaker-interview-low-cinema-queens-1235217504/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2257691541.jpg?w=650",
-      "publishedAt": "2026-09-19T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxNzgwOS8",
-      "title": "‘The Daughters of Abraham’ Review: Individualism and Community Test Each Other’s Limits in an Interfaith Friendship Drama",
-      "description": "TIFF: Hanaël El Yousfi's feature debut follows the ongoing relationship between a Jewish woman and her Muslim friend, illustrating how the conflicting desires for independence and family connection are universal.",
-      "url": "https://www.indiewire.com/criticism/movies/the-daughters-of-abraham-review-1235217809/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-18-at-11.42.42-AM.png?w=650",
-      "publishedAt": "2026-09-19T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-LWJveC1zZXQtZmlsbQ",
       "title": "Amanda Redman: ‘My most embarrassing moment? Getting caught doing a pretend Bafta thank you speech’",
       "description": "The actor on a terrible accident as a toddler, her bossy nature, and feeling too old to play a Shakespearean heroine Born in Brighton, Amanda Redman, 69, studied at Bristol Old Vic theatre school. She starred in the TV comedy drama El&nbsp;C.I.D. in the 1990s, and in At Home With the Braithwaites from 2000 to 2003, a role that earned her a Bafta nomination. She played the lead in the BBC series New Tricks for a decade until 2013, and her later work includes The Trials of Jimmy Rose and The&nbsp;Good Karma Hospital. On 28&nbsp;September, her 2000 film Sexy Beast will be rereleased in a limited-edition box set. She has a daughter and lives in&nbsp;London with her second husband. When were you happiest? I am happiest when I have my daughter and granddaughter with me. Continue reading...",
@@ -265,18 +313,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE2NDA3Lw",
-      "title": "Trying to Picture Doomsday? 1983’s ‘WarGames’ Already Showed Us One Way AI Could End the World",
-      "description": "After a former Anthropic researcher warned that humanity's extinction could be as close as 2030, John Badham’s cyber thriller offers a frighteningly clear answer to the question: \"OK, how ?\"",
-      "url": "https://www.indiewire.com/news/general-news/wargames-rewatch-1983-apocalypse-ai-thriller-1235216407/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDWARG_EC003.jpg?w=650",
-      "publishedAt": "2026-09-19T03:59:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -362,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-LXByaXZhdGUtaGVsbA",
-      "title": "‘I thank God for killing me and bringing me back’: Nicolas Winding Refn on the heart surgery that inspired his new sci-fi horror",
-      "description": "Notorious for ultra-violent movies like Drive and The Neon Demon, the Dane had lost the will to direct until ‘the Tom Cruise of surgeons’ saved his life – and triggered an astonishing creative rebirth Nicolas Winding Refn has his phone out, showing me one of the goriest scenes he’s ever been involved in. Given that the Danish director’s movies have involved hands getting sliced off, eyeballs being gouged out and a son reaching deep inside his mother’s womb, that’s certainly saying something. In this video, the camera is fixed upon a beating heart when suddenly – slash! – it gets sliced open with a knife. We travel into the open chamber, as needles arrive to pierce through the muscle. Unsettling and compelling, could this be a future Palme d’Or winner? Unlikely. You see, Refn isn’t the director of this footage; he’s actually the guy lying conked out in the operating room while a surgeon attends to him. Requesting that someone films your own heart surgery is a very Nicolas Winding Refn thing to do. “At first they said no,” says the film-maker known for Drive, Bronson and The Neon Demon. “But then they said, ‘As it’s you, we’ll record it.’” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/17/nicolas-winding-refn-cheating-death-new-sci-fi-horror-her-private-hell",
-      "image": "https://i.guim.co.uk/img/media/e40bca9f7c21fda0a8777e4ad62698620a1db4aa/1443_779_3412_2729/master/3412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4e22bd98f0b2fd05988dfb90d9d2171",
-      "publishedAt": "2026-09-17T04:00:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-QtbW92aWUtcmV2aWV3",
