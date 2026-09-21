@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T01:08:39.537Z",
+  "generatedAt": "2026-09-21T06:58:40.898Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-1kcmFnb24tcmV2aWV3",
+      "title": "Legend of the White Dragon review – Power Rangers alumni back for more in low-budget superhero retread",
+      "description": "Simple but emphatic martial arts and a couple of classy cameos are all that give this blandly modern action film a fighting chance Despite featuring a clutch of Power Rangers graduates, including Jason David Frank , who died in 2022, this crowdfunded effort is beholden to a more recent action tradition. It feels like it’s been cobbled together by ticking tropes off the modern superhero bingo card: Dark Knight-esque pariah hero, Gotham-style civic pantomime with the mayor, police and media, Iron Man helmet-cams, a sprig of eastern mysticism in the initiation sequence, western fighters appropriating said eastern mysticism … the list goes on. After a dustoff with his nemesis Ashtagor that levelled downtown Virtuo City, the superhero White Dragon (Frank) has been held responsible for the catastrophe and forced into exile. With the death count – 1,263 – tattooed in red above his right ear, and the crystal that was the source of his power shattered in two, he is now plain old Erik Reed. It’s not only the authorities who are bent on finding him: the pharma mogul Jai Katua (Aaron Schoenke), who lost his pregnant wife, wants payback. If Katua spending his time on solo katana sessions in his billionaire superlab wasn’t already a mental health red flag, accepting one of the crystal halves and a revenge mandate from Ashtagor should definitely merit an intervention. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/21/legend-of-the-white-dragon-review",
+      "image": "https://i.guim.co.uk/img/media/7502efa0fa37b1bbc0d71215c10c24307460bf28/126_0_1600_1280/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=39bebf30ef49cd8ac8c6900702faa2b0",
+      "publishedAt": "2026-09-21T06:00:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-by0xMjM1MjE3OTQzLw",
+      "title": "‘Paradise Lost’ Review: ‘Train to Busan’ Director Yeon Sang-ho Returns with a Limp and Lurid Grief Drama About Virtual Reality",
+      "description": "The Korean auteur throws too much at the wall without ensuring much of it sticks.",
+      "url": "https://www.indiewire.com/criticism/movies/paradise-lost-movie-review-yeon-sang-ho-1235217943/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paradise-Lost_Still_01.jpg?w=650",
+      "publishedAt": "2026-09-21T02:06:57.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-JzLTEyMzUyMTc4MTQv",
+      "title": "‘Lanterns’ Review: Episode 6 Embraces ‘Bad Optics’ with a Clever Revival — Spoilers",
+      "description": "Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death — and find closure of his own.",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-6-review-bad-optics-hal-revival-spoilers-1235217814/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-6-John-Stewart-Aaron-Pierre.jpg?w=650",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-5kLTEyMzUyMTc5MzAv",
       "title": "Zach Cregger’s ‘Resident Evil’ Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run",
@@ -208,30 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dy0xMjM1MjE3NjEzLw",
-      "title": "‘Best of the Best’ Pulls Off the Perfect Heist Through Its Dance Numbers",
-      "description": "Director Lena Khan; choreographers Phillip Chbeeb, Makenzie Dustman, and Joya Kazi; and DP Adam Carboni tell IndieWire about dances that contain every facet of the characters — just like a diamond stolen by the British.",
-      "url": "https://www.indiewire.com/features/craft/best-of-the-best-bollywood-dances-lena-khan-interview-1235217613/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/BOB_20250730_0259_R.jpg?w=650",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-G0tMTIzNTIxNzU4Mi8",
-      "title": "Mike Leigh Movies Always Start Without a Script. Watch the ‘Tender Loving Care’ Director and Cast Break Down His Unique Filmmaking Process",
-      "description": "At a TIFF dinner co-hosted by IndieWire and Bleecker Street, Leigh and his longtime collaborators opened up about a lifetime spent creating characters together.",
-      "url": "https://www.indiewire.com/news/events/mike-leigh-kate-oflynn-tender-loving-care-breaking-down-film-1235217582/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2294957440.jpg?w=650",
-      "publishedAt": "2026-09-18T18:05:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
       "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
@@ -290,18 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-1mYWxsaW5nLWhvdXNl",
-      "title": "Iranian actor Laleh Marzban faces severe threats after Venice film festival speech",
-      "description": "Marzban, who won a best actress award for her portrayal of a woman held hostage by her father in Falling House, has received condemnations from authorities after dedicating her prize to ‘the women of Iran’ An Iranian actress who won the best newcomer award at the Venice film festival has come under severe attack from the country’s authorities and state media after highlighting the plight of women in Iran in her acceptance speech. Laleh Marzban last Saturday won the best actress award in the Orizzonti sidebar competition for emerging talent, for her role in Mohsen Gharaei’s Falling House , a film revolving around three generations of women who are incarcerated in their own home by the family’s father. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/18/iranian-actor-laheh-marzban-venice-film-festival-speech-falling-house",
-      "image": "https://i.guim.co.uk/img/media/d02329264456230ced39634db221cace4752acca/2438_180_2281_1824/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=692d25f8e1e3e79df05eeb93e0fc6571",
-      "publishedAt": "2026-09-18T09:59:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-l3b29kLW1ha2VvdmVy",
