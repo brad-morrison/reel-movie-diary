@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:41:15.541Z",
+  "generatedAt": "2026-09-22T18:36:45.007Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMTgwNjEv",
+      "title": "‘Coyote vs. Acme,’ Abandoned as a Tax Write-Off by Warner Bros., Grosses $100 Million Globally",
+      "description": "Revenge is a dish best served by Ketchup Entertainment, which rescued the animation hybrid.",
+      "url": "https://www.indiewire.com/news/box-office/coyote-vs-acme-tax-write-off-100-million-box-office-1235218061/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Coyote-vs-Acme.webp?w=650",
+      "publishedAt": "2026-09-22T18:15:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
+      "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
+      "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8d7/live/b244ce90-b687-11f1-97fb-8d66d3951490.jpg",
+      "publishedAt": "2026-09-22T17:43:10.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIxNzk5NS8",
+      "title": "‘La Gradiva’ Trailer: One of 2026’s Most Acclaimed Discoveries Puts a Fresh Twist on Coming-of-Age",
+      "description": "Marine Atlan's directorial debut and Cannes Critics' Week prize winner narrowly missed out on repping France in the International Oscar race. It will win more critics' prizes stateside.",
+      "url": "https://www.indiewire.com/news/trailers/la-gradiva-trailer-marine-atlan-1235217995/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/3_LA-GRADIVA_STILLS_SUZANNE-c-Films-du-poisson-Bibi-Film-TV-Arte-France-Cinema.jpg?w=650",
+      "publishedAt": "2026-09-22T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-1tLTEyMzUyMTgwNTQv",
+      "title": "James Gray’s ‘Paper Tiger’ Will Screen in 35mm on New York Film Fest Opening Night — Watch the New Trailer",
+      "description": "Exclusive: Starring Miles Teller, Adam Driver, and Scarlett Johansson, Gray's 1980s-set family crime drama opens the festival on Friday, September 25.",
+      "url": "https://www.indiewire.com/news/festivals/paper-tiger-nyff-opening-night-screenings-35mm-1235218054/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDPATI_EC036.jpg?w=650",
+      "publishedAt": "2026-09-22T16:39:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTgwMjEv",
+      "title": "‘Forgotten Island’ Review: A Fun, Hyper, Kid-Friendly Riff on ‘The Hangover’ Steeped in Filipino Folklore",
+      "description": "There's a LOT going on in Dreamworks Animation's latest film, but the friendship at its center holds the story together.",
+      "url": "https://www.indiewire.com/criticism/movies/forgotten-island-animated-movie-review-1235218021/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/Forgottenisland.jpg?w=650",
+      "publishedAt": "2026-09-22T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-5kYS1yaWNoYXJkc29u",
+      "title": "Post your questions for Miranda Richardson",
+      "description": "She has lit up screens large and small playing Ruth Ellis, Rita Skeeter, Barbara Castle and the hilarious Queenie in Blackadder. Alternatively, you could ask about birds of prey, orangutans or playing the cello Judging by the size of her awards cupboard, Miranda Richardson has had quite the career. She won a Bafta for the 1992 psychological drama Damage, opposite Jeremy Irons, and Golden Globes for the 1991 historical drama Enchanted April and the 1994 Nazi thriller Fatherland, and was Oscar-nominated for both Damage and the 1994 historical drama Tom & Viv. Her other notable performances include IRA member Jude in The Crying Game, Ruth Ellis in Dance With a Stranger and Lady Van Tassel in Sleepy Hollow. She’s pretty handy at comedy, too – and probably just as familiar for playing acid-tongued Daily Prophet journalist Rita Skeeter in Harry Potter and the Goblet of Fire, the murderous chicken-farm owner Mrs Tweedy in Chicken Run and, of course, the gloriously unhinged Queenie in Blackadder II: “I may have the body of a weak and feeble woman, but I have the heart and stomach of a concrete elephant.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/post-your-questions-for-miranda-richardson",
+      "image": "https://i.guim.co.uk/img/media/d6ae17e931acb6d9b48b9ba380441949840287a3/230_77_2379_1902/master/2379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d91c71c797107353df64fe54b1030b8",
+      "publishedAt": "2026-09-22T13:22:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-aWRlLW9mLWNoZWVzZQ",
+      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "description": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter Cameron Alexander and director David Ayer, for which the first and last words of the title have been carefully chosen to signal a mix of sentimentality and thrills. It’s an entertaining anthro-canine-mance, with man and dog relating to each other on a deep level … kind of like Owen Wilson in Marley & Me , only without Jennifer Aniston, or Bernie Winters and Schnorbitz, only without the devastating melancholy. Pitt, who last worked with Ayer on the second world war action thriller Fury , plays a US military special forces veteran called Belmont, tough, self-reliant and laconically good-humoured in the classic Pitt manner, now spending his retirement roaming the breathtaking remote landscape of Alaska in his seaplane. He is accompanied by his beloved service dog Odin, or Odey (played by four different German shepherds), who saw action with Belmont in various fuzzily imagined flashback combat sequences. Odin took retirement with Belmont and is now his best and only pal. Whether or not Belmont ever had a human partner is never revealed. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
+      "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=af49609ebfe6d1b9c0b401e7d8d7782f",
+      "publishedAt": "2026-09-22T13:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-Zy0xMjM1MjE4MDAzLw",
+      "title": "‘Heart of the Beast’ Review: Brad Pitt and a Very Good Dog Brave the Elements in David Ayer’s Predictably Pro-Military Survival Thriller",
+      "description": "A Special Forces veteran and his highly skilled canine fend off white waters, wolves, and more in an unexpectedly intimate two-hander that eventually careens into pro-military agitprop.",
+      "url": "https://www.indiewire.com/criticism/movies/heart-of-the-beast-review-brad-pitt-dog-1235218003/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA032.jpg?w=650",
+      "publishedAt": "2026-09-22T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-2YtZnJlc2gtYmxvb2Q",
       "title": "Heresy review – feminist folk horror summons something scary in the woods with supply of fresh blood",
@@ -148,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-N5LWVkZ2FyLWpvbmVz",
-      "title": "Sense and Sensibility review – Daisy Edgar-Jones leads sober-minded next-gen do-over of Austen romcom",
-      "description": "With Edgar-Jones and Esmé Creed-Miles as the Dashwood sisters, this fresh take on a beloved classic is not to be confused with Ang Lee’s There’s no reason for anyone working on a new adaptation of Jane Austen’s Sense and Sensibility to be intimidated by the celebrated 1995 movie by director Ang Lee and screenwriter Emma Thompson, any more than they should be or overawed by Austen’s original novel. Sacred cows are there to be … not slain, but re-invented. The decision to bring out a next-gen Sense and Sensibility, with a new young cast – as opposed to, say, a new Northanger Abbey or a new spin on the unfinished The Watsons – might bemuse some and at first it bemused me, like hearing about a Love Actually remake starring Millie Bobby Brown. But this turns out to be a more downbeat, ruminative version, happening in much cloudier weather than 30 years ago and without the sugar-rush final wedding scene. The mood is cooler, but interestingly austere, sober and thoughtful. There are also some strange casting decisions. The sisters at the heart of the story, Elinor and Marianne Dashwood, played in 1995 by Emma Thompson and Kate Winslet, are now played by Daisy Edgar-Jones and Esmé Creed-Miles, and frankly don’t look and sound much like the sisters we thought we knew. They look like young women who knew each other reasonably well at uni and are now in a flatshare in London. It is a story of financial and romantic crisis. Mrs Dashwood and her three daughters, having happily occupied a handsome Sussex estate, are forced to move to humble Barton Cottage in Devon when Mrs Dashwood’s stepson John Dashwood inherits their property and effectively evicted them. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/sense-and-sensibility-review-romcom-austen-daisy-edgar-jones",
-      "image": "https://i.guim.co.uk/img/media/1eed5e9a0f3dee04f67119b9ba0af661f051ba8f/424_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=da509e796ab35df70053f53b39354a1f",
-      "publishedAt": "2026-09-21T15:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Cate Blanchett asks theatre audience to stop filming during show",
       "description": "The A-list actress is the latest star to ask fans to put their phones away during performances.",
@@ -169,18 +253,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZC1jaW5lbWEtZXZlcg",
-      "title": "Dunesday: will this be Barbenheimer on steroids – the biggest weekend of cinema ever?",
-      "description": "Since the mammoth success of the films Barbie and Oppenheimer in 2023, Hollywood has taken to jointly marketing movies released on the same day – and December’s matchup of Dune: Part Three and Avengers: Doomsday could break all records Name: Dunesday. Age: Nascent. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/dunesday-barbenheimer-on-steroids-biggest-weekend-cinema-ever",
-      "image": "https://i.guim.co.uk/img/media/48244c8ac2887f3549e2cfbbf6e787ca41b2c5e6/193_0_2615_2091/master/2615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7cce75e3d9b7bf960f07455d688299f1",
-      "publishedAt": "2026-09-21T12:29:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -212,48 +284,12 @@
       "title": "‘Lanterns’ Review: Episode 6 Embraces ‘Bad Optics’ with a Clever Revival — Spoilers",
       "description": "Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death — and find closure of his own.",
       "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-6-review-bad-optics-hal-revival-spoilers-1235217814/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-6-John-Stewart-Aaron-Pierre.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-6-Aaron-Pierre-as-John-Stewart.jpg?w=650",
       "publishedAt": "2026-09-21T02:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-5kLTEyMzUyMTc5MzAv",
-      "title": "Zach Cregger’s ‘Resident Evil’ Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run",
-      "description": "The new film from the \"Weapons\" and \"Barbarian\" director opens to $108.3 million, making him one of Hollywood's biggest hitmakers.",
-      "url": "https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDREEV_SP023-1.jpg?w=650",
-      "publishedAt": "2026-09-20T18:43:55.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE3ODkwLw",
-      "title": "Which Fall Festival Favorites Are Now in the Oscar Race?",
-      "description": "Best Picture frontrunners like \"La Bola Negra\" and \"Wild Horse Nine\" emerge as TIFF, Telluride, and Venice come to an end.",
-      "url": "https://www.indiewire.com/awards/predictions/fall-festival-best-picture-oscar-race-bola-negra-wild-horse-nine-1235217890/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LBN_20251003_0441_carlaoset_R.jpg?w=650",
-      "publishedAt": "2026-09-20T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WktMTIzNTIxNzkxNy8",
-      "title": "Duncan Jones on Why It’s ‘Harder Than Ever’ to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)",
-      "description": "TIFF: It took almost a decade for the \"Moon\" and \"Mute\" filmmaker to get his animated adaptation of \"Rogue Trooper\" off the ground. Sometimes, the filmmaker tells IndieWire, that's just what the vision entails.",
-      "url": "https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296163777.jpg?w=650",
-      "publishedAt": "2026-09-20T17:11:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-WZpbG0tZmVzdGl2YWw",
@@ -266,30 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-N0LTEyMzUyMTc1MjAv",
-      "title": "‘La Bola Negra’ Wins the 2026 Toronto International Film Festival People’s Choice Award",
-      "description": "The Spanish epic was already a hit out of its Cannes premiere, but now it's firmly launched into the heart of this year's awards season. Plus: check out the full list of winners.",
-      "url": "https://www.indiewire.com/awards/results/2026-tiff-awards-winners-full-list-1235217520/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
-      "publishedAt": "2026-09-20T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JkLTEyMzUyMTc4NjAv",
-      "title": "John Wilson’s ‘The History of Concrete’ from Magnolia Becomes IFC Center’s Second Biggest Debut",
-      "description": "The offbeat documentary earned $90,000, second only to \"Parasite.\"",
-      "url": "https://www.indiewire.com/news/box-office/box-office-john-wilson-history-of-concrete-ifc-center-record-1235217860/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/The_History_of_Concrete-Still_1.jpg?w=650",
-      "publishedAt": "2026-09-20T12:59:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-BvbnMtYmFyYmFyaWFu",
