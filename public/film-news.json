@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:47:08.956Z",
+  "generatedAt": "2026-09-22T12:41:15.541Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-2YtZnJlc2gtYmxvb2Q",
+      "title": "Heresy review – feminist folk horror summons something scary in the woods with supply of fresh blood",
+      "description": "A childless woman flees into the forest and emerges with a swollen belly in director Didier Konings’ short, sharp fable Before fertility tourism, the only option for your average medieval serf struggling to conceive was heading to the nearest foreboding woods and summoning weird, antlered dryads. Or so it seems from Didier Konings’ short but memorable folk-horror debut, in which wide-eyed villager Frieda (Anneke Sluiters) flees into the trees after escaping an attempted rape by local butcher Gelo (Léon van Waas). He has already told her, after scoffing a pig foetus, that he likes his meat weak and defenceless. The dryads beat IVF hands down. Previously chided for her lack of childbearing by husband Hikko (Len Leo Vincent), Frieda emerges with a swollen abdomen. But the villagers fear it is the devil’s work, especially after finding Gelo in the woods, dismembered but freakishly still conscious. That’s about the extent of the story here, but Konings pares the focus effectively down to the essentials of this obscurantist hole: the crawling fear of evil among the villagers, and the necessary projection of it on to everything outside their control – female bodies and emotions, the natural world. Though her character verges on symbolic, Frieda – as well as the “wise women” of the forest, as per the original Dutch title – allow this fable’s feminist credentials to howl out unmistakably. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
+      "image": "https://i.guim.co.uk/img/media/68fc534ef382e5d5799ec54e55e8cd64fbb6cf28/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=86632504446405946d793c6b7cb70346",
+      "publishedAt": "2026-09-22T10:00:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dmlkLWVyYS1kcmFtYQ",
+      "title": "Shadows of Beirut review – chaos and crisis as woman goes back to birth city in fractured Covid-era drama",
+      "description": "A London-dwelling émigrée goes back to Lebanon to see her dying father in this somewhat overwrought film examining a difficult childhood This somewhat overwrought drama was apparently shot during the Covid-19 pandemic, partly in the city of the title and partly on sets in a Bulgarian studio. Its higgledy-piggledy production schedule perhaps accounts for the film’s fractured, frenetic quality and the feeling that the characters are perpetually in motion. Mind you, to be fair, the shredded editing might also be meant to reflect the distraught mental state of protagonist Lana (Tala Calil, also co-writer and producer) and the energy of the city itself, a municipality ravaged by wars that also has some of the most chaotic traffic in the Middle East. There’s even a scene where Lana’s new friend Sirine (Flavia Bechara) is driving and wants to take her coat off so she makes Lana take the wheel, much to Lana’s terror and distress, a nonchalance about safety believable for a city where traffic lights appear to be only a suggestion. That said, Lana has a lot going on so she’s easily rattled. She left Beirut 25 years earlier, and has only come back to see her biological father of whom she has only negative memories, from a childhood blighted by his alcoholism and violence. These days she lives in London with her boyfriend Ben (Michael E Rodgers) and her mother, but the former relationship is also rocky due to Lana’s OCD. She’s obsessed with wearing as much sanitary PPE kit as possible, including not just an N95 (in UK FFP2) mask but one of those full-face clear plastic ones, too. However, she suddenly finds the strength to stop wearing all the gear when she gets back to Beirut and reconnects with her cousin Rami (Assaad Bouab). She starts to open up a bit more, and befriends the aforementioned Sirine, who helps Lana when she’s having a panic attack at the hospital. By slow degrees she works up enough fortitude to face her father before he dies, but that means confronting some family secrets she never knew. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
+      "image": "https://i.guim.co.uk/img/media/ce03afe7644b58c7a89435f7290788df2e86b50b/457_0_1006_805/master/1006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c477aaaff3e9e21213c853716d4020af",
+      "publishedAt": "2026-09-22T08:00:39.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-W5pbWFsLXdlbGZhcmU",
+      "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
+      "description": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and son An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fetched nearly €1m (£858,000, US$1.15m, A$1.61m) in Paris, almost 20 times the estimate, according to the auction house Millon. A total of 285 objects were auctioned, ranging from straw hats, sunglasses and nightgowns to tableware and furniture from Bardot’s homes in Paris and Saint-Tropez, Agence France-Presse (AFP) reported. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
+      "image": "https://i.guim.co.uk/img/media/b787d43d8f92582cf86594df3ca90ebcd51253d4/240_0_2572_2057/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06218e792b1f4769b932240cca688c26",
+      "publishedAt": "2026-09-22T07:14:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
+      "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ba29/live/a45259a0-b5e3-11f1-aff1-eb6baa3fda4f.jpg",
+      "publishedAt": "2026-09-22T06:20:52.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-x1ZW5jZXItc2F0aXJl",
       "title": "Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire",
@@ -26,6 +74,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
+    },
+    {
+      "id": "guardian-HVybmVkLXRvLWdvbGQ",
+      "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
+      "description": "Director Pepa Lubojacki’s heartbreaking film chronicles the lives of her brother as he struggles with drink and homelessness – and her own shame in the face of societal prejudice Czech film-maker Pepa Lubojacki originally set out to make a film about pigeons. What fascinated the 39-year-old director was that the grey birds are clearly beautiful and highly intelligent creatures, yet human cruelty towards them is socially acceptable in the way it isn’t towards, say, crows or magpies. “You can spot kids kicking and chasing pigeons while their parents cheerfully look on,” she says. The moral blind spot reminded her of the way that people looked at homeless people like her older brother and her cousins. “The public has learned to avert their eyes,” she says. “My cousin was declined care seven times with open wounds in the hospital, and finally, they had to amputate both of his legs.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
+      "image": "https://i.guim.co.uk/img/media/19b8c0ab6ad2320c83e1d86531b6399010ef8590/490_0_2578_2065/master/2578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c32c68ad17403b34e9eb868183c37971",
+      "publishedAt": "2026-09-22T06:00:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-9uLTEyMzUyMTYzMTYv",
@@ -134,54 +194,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-GgtYW5kLW1hcHBpbmc",
-      "title": "The Seasons review – Portuguese pastoral offers poetic excavation of myth and mapping",
-      "description": "The rugged roads and lush vegetation of southern Portugal are showcased in this weaving-together of disparate threads of history and landscape In a sea of doomsday ecological documentaries, Maureen Fazendeiro’s pastoral marvel is a sight for sore eyes. A solo debut feature for the Lisbon-based French director, this hybrid film studies the historical and geographical contours of Alentejo, a rural region in southern Portugal. The opening is set to a jaunty soundtrack of energetic percussion beats and twinkling organ notes, taking in the resplendent vistas of the landscape, with its rugged roads and lush vegetation. We see, too, a small archaeological tool hunt for ancient relics beneath layers of golden dust. Mirroring these acts of care and attention, Fazendeiro’s film takes the form of a cinematic excavation, fusing present-day tableaux with archival materials, folkloric legends with historical records. The abundant use of tracking shots not only takes in the wondrous biodiversity of Alentejo but also facilitates a fluid movement between separate epochs. Observational scenes of green hills, boundless blue skies and roaming livestock are overlaid with narrated excerpts from second world war-era letters written by German archaeologists Georg and Vera Leisner. Credited with producing the first inventory of megalithic monuments in Alentejo, the pair imbues their wartime correspondence with the joy of discovery and the sadness of exile. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/the-seasons-review-portuguese-pastoral-offers-poetic-excavation-of-myth-and-mapping",
-      "image": "https://i.guim.co.uk/img/media/a814667944261ee6a91d7bc3d3b0e38ce9f7cb09/0_0_1888_1512/master/1888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=e8c28ec68d5c552677d4cb513d8a6f8c",
-      "publishedAt": "2026-09-21T10:00:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dC1ldmlsLXJ1bm5lcg",
-      "title": "Heart of the action: why organ couriers are cinema’s new heroes",
-      "description": "Whether its a nod to frontline Covid heroes or a return to biology in a world of digital noise, there’s a rich vein of new films featuring organ deliveries, including Runner and the latest Resident Evil Hollywood loves a ticking clock – especially when there’s a delivery involved. For decades, dangerous cargo has been entrusted to certain types of action hero: spies, soldiers, hitmen, Jason Statham. Lately, however, Hollywood seems interested in a different kind of hero – not to mention a different kind of cargo. Forget your nuclear launch codes, stolen diamonds and mysterious briefcases, for human organs are the new MacGuffins du jour, and the medical professionals charged with getting them to the ICU have become unlikely action heroes. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/human-organ-couriers-action-heroes-resident-evil-runner",
-      "image": "https://i.guim.co.uk/img/media/95b6d4be459953daf2ed99921d25047e31586216/231_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e27e56d77e834e2c6efac0688b8c6d6",
-      "publishedAt": "2026-09-21T09:23:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZWVsZ29vZC1tb3ZpZQ",
-      "title": "‘Still feel a jolt of joy’: why Dirty Dancing is my feelgood movie",
-      "description": "The latest in our ongoing series of writers highlighting their most rewatched comfort films remembers a 1987 teenage girl classic There is probably a Swedish word for the emotional state engendered in me by Dirty Dancing. A kind of turbo-nostalgia which blends solace, joy and a sense of continuity with a yearning so acute I can feel it in my ribs. I must have been around 12 years old when I first watched Baby (Jennifer Grey) and Johnny (Patrick Swayze) fall in love while bumping pelvises as dance partners (before Strictly Come Dancing, this trajectory felt more surprising.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/dirty-dancing-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/01f054f1e5949eba44438f8028124ae64600f89e/129_0_1919_1536/master/1919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb7d4d41333b0d5c50f8baf81a372db",
-      "publishedAt": "2026-09-21T09:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "guardian-LW5pZ2h0LXJldmlldw",
-      "title": "Rising Up at Night review – community spirit shines bright in Kinshasa’s shadows",
-      "description": "Religion and collective resilience are beacons of hope in an electricity-deprived DRC in this otherworldly documentary debut In Nelson Makengo’s feature documentary debut, night stretches on to infinity. The film opens on a black screen – a void of darkness – while a recording of a fervent sermon sounds like rolling thunder. In Kinshasa, the capital city of the Democratic Republic of the Congo, an electricity shortage has long plagued the inhabitants, leaving them to cling on to religion as a beacon of hope. Their plight is worsened by climate disasters resulting in floods. Viewed through Makengo’s lens, nocturnal life acquires an otherworldly dimension, as basic human necessities become an elusive luxury. Shot mostly in Makengo’s neighbourhood of Kisenso, the film observes the ways in which struggling city dwellers adapt to a life lived in the shadows. Meals are eaten by candlelight, while churchgoers wear light-up medallions to illuminate their prayer books. Such survival tactics speak to a collective resilience, while also rendering these previously mundane activities eerily dystopian. The matriarchs of the community lament the rise of crime and sexual assaults that occur in the absence of public lighting, while younger members of the neighbourhood raise funds to retrieve stolen electric cables. In the absence of state support, this community spirit is the only energy that perseveres in times of extreme precarity. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/21/rising-up-at-night-review",
-      "image": "https://i.guim.co.uk/img/media/26c2ad565cce5a744e069241d936a1261f2cc1ea/198_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4641bee854b2b0c1c69ee28e5e5b56a0",
-      "publishedAt": "2026-09-21T08:05:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-by0xMjM1MjE3OTQzLw",
@@ -329,30 +341,6 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
-      "description": "In real life the actress says she is just like the character she's playing in Sense and Sensibility.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1d36/live/4c1daf10-b1a5-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-18T23:01:34.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tenko and Coronation Street actress Stephanie Cole dies aged 84",
-      "description": "She was best known for playing Dr Beatrice Mason in the 1980s BBC wartime TV drama Tenko.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-18T15:27:01.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Resident Evil movie director says he was not prepared for fan backlash",
       "description": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
@@ -421,18 +409,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
-      "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
-      "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6304/live/3024d1b0-b152-11f1-8912-fb2bed4049e7.jpg",
-      "publishedAt": "2026-09-15T12:06:19.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
