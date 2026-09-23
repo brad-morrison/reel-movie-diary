@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:02:51.081Z",
+  "generatedAt": "2026-09-23T06:47:34.803Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-J0LWl0LWluc3BpcmVk",
+      "title": "Remake review – Ross McElwee’s magnificent and moving tribute to a tragic loss and the art it inspired",
+      "description": "Sherman’s March director McElwee revisits footage of his late son for this magnificently affecting film and meditation on making art This new film from revered documentary-maker Ross McElwee is an extraordinary work, arguably his most audacious use yet of autobiographical material while at the same time being a coruscating self-criticism of that same technique. Think of it as an artistic ouroboros (a snake eating its own tail). Remake is all at once about creativity, shame, love and loss, revelling in the way film can capture a moment of truth and honesty, but tempered by the knowledge that once a subject knows they’re being filmed everything becomes a kind of performance. It’s a film that works on so many levels and at the same time is so simple and direct. On that very simplest level, Remake starts out as a documentation of how Hollywood got in touch with McElwee and told him they wanted to make a fictionalised remake of his best-known film, Sherman’s March . Made in 1985 with a one-man crew (McElwee himself), Sherman’s March recorded the McElwee’s trip back to South Carolina where he grew up; there he films his family, old friends, and himself as he continually fails to establish romantic relationships with various women, all of it lavishly slathered with his own warm, softly southern-accented voiceover. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/remake-review-ross-mcelwees-magnificent-and-moving-tribute-to-a-tragic-loss-and-the-art-it-inspired",
+      "image": "https://i.guim.co.uk/img/media/768a2c788020d2ee9997c110549f89677e5dea99/0_0_1439_1152/master/1439.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=88e45bafbdd8493243658c68736c1b2e",
+      "publishedAt": "2026-09-23T06:00:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-VzLTEyMzUyMTgxMTkv",
       "title": "Robert Eggers Moves from Vampires and Werwulfs to ‘Romeo and Juliet’ Adaptation at Focus",
@@ -218,18 +230,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-x1ZW5jZXItc2F0aXJl",
-      "title": "Babystar review – a new arrival upends camera-ready life in disturbing family influencer satire",
-      "description": "Every ethical issue surrounding parents vlogging their kids’ childhoods for money is raised in Joscha Bongard’s debut, but it releases the dysfunctional tension too easily When teenager Luca (Maja Bons) wants to watch the film of her birth, she finds it on YouTube. Same with the sweet, thoughtful chat her mum gave her about periods when she was nine or 10; it was filmed in the family’s podcast studio. None of life’s special moments go unmonetised in this satire from Germany, a horror story of family dysfunction. It’s a look at the dark side of the family influencer industry, raising just about every possible ethical question about parents vlogging their kids’ childhoods, and it’s impressively disturbing, up to a point. Sixteen-year-old Luca is the only child of Stella (Bea Brocks) and Chris (Liliom Lewald), social media stars who make viral videos of their perfect-looking family life for their 4 million followers. They live in a beautiful, sterile minimalist home in the countryside, and we often watch them through CCTV cameras fitted in every room. Shrewdly, first time film-maker Joscha Bongard doesn’t portray Stella and Chris as monsters; they love their daughter Luca, who they affectionately call Nunki. But fundamentally they do their best parenting in front of the camera, all bright smiles and proud affectionate glances. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/babystar-review-a-new-arrival-upends-camera-ready-life-in-disturbing-family-influencer-satire",
-      "image": "https://i.guim.co.uk/img/media/9df5577203b29df4ceaec13a14e9dcc171ccaff5/1927_492_3161_2530/master/3161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b85d2fd0302352e72212aae1af7d82a5",
-      "publishedAt": "2026-09-22T06:00:38.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-HVybmVkLXRvLWdvbGQ",
