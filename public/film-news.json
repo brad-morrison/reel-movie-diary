@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T12:42:21.633Z",
+  "generatedAt": "2026-09-23T18:36:34.516Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-dC0xMjM1MjE3NDQwLw",
+      "title": "Curry Barker to Receive IndieWire’s Inaugural Future of Filmmaking Award",
+      "description": "The \"Obsession\" writer/director will accept the award at IndieWire's Future of Filmmaking Summit on October 17 in Los Angeles.",
+      "url": "https://www.indiewire.com/news/events/curry-barker-future-of-filmmaking-award-indiewire-summit-1235217440/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-1.28.28-PM.png?w=650",
+      "publishedAt": "2026-09-23T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTgyNTQv",
+      "title": "‘Never After Dark’ Review: A Japanese Medium Is Forced to Confront a Living Threat in This Clever Ghost Story",
+      "description": "“Shōgun” breakout Moeka Hoshi plays a haunted ronin ghostbuster in Dave Boyle's nifty and unnerving Hokkaido chiller.",
+      "url": "https://www.indiewire.com/criticism/movies/never-after-dark-movie-review-1235218254/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2.webp?w=650",
+      "publishedAt": "2026-09-23T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE4MTQ3Lw",
+      "title": "John Cassavetes Practically Invented the American Independent Film, but Some of His Best Movies Were Made for Studios",
+      "description": "Half of the director's 12 features were financed and distributed by major studios, and some — like \"Minnie and Moskowitz,\" screening next week at the New Beverly — are as uncompromising as his scrappiest indies.",
+      "url": "https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/minnie.jpg?w=650",
+      "publishedAt": "2026-09-23T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIxODI2My8",
+      "title": "Harvey Weinstein Sentenced to 15 Years in Prison in New York Retrial",
+      "description": "The former film mogul was convicted on a count of criminal sexual assault against Miriam Haley in June 2025.",
+      "url": "https://www.indiewire.com/news/breaking-news/harvey-weinstein-sentenced-15-years-prison-new-york-retrial-1235218263/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2275810423.jpg?w=650",
+      "publishedAt": "2026-09-23T16:10:40.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bC0xMjM1MjE2Mzg0Lw",
+      "title": "Jean Smart Joins ‘The Family Stone’ Sequel in First Post-‘Hacks’ Role",
+      "description": "The Emmy winner joins Claire Danes, Rachel McAdams, Sarah Jessica Parker, Dermot Mulroney, Craig T. Nelson, and Luke Wilson all returning for the follow-up to the 2005 holiday comedy.",
+      "url": "https://www.indiewire.com/news/breaking-news/jean-smart-the-family-stone-sequel-1235216384/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/07/P115QPYV.jpg?w=650",
+      "publishedAt": "2026-09-23T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-55LTEyMzUyMTgwOTYv",
+      "title": "A New Physical Media Label Is Releasing Some of Our Favorite Recent Indies — with a New Lineup Every Lunar Cycle",
+      "description": "Exclusive: Video Visions will bring films like \"Fuck My Son!,\" \"Dead Lover,\" and \"Hundreds of Beavers\" to physical media enthusiasts each month, with specific drops remaining secret until the moon changes.",
+      "url": "https://www.indiewire.com/news/general-news/video-visions-new-physical-media-company-1235218096/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/MCDHUOF_EC039.jpg?w=650",
+      "publishedAt": "2026-09-23T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxODE4NS8",
+      "title": "‘You Can See Everything’ Trailer: Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Doc Is Going to Get Under Your Skin",
+      "description": "It takes a certain kind of person to let Nathan Fielder into your home in the days leading up to your extended incarceration in federal prison.",
+      "url": "https://www.indiewire.com/news/trailers/you-can-see-everything-trailer-nathan-fielder-holmes-1235218185/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
+      "publishedAt": "2026-09-23T14:53:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE4MDM3Lw",
+      "title": "‘Brothers’ Review: Matthew McConaughey and Woody Harrelson Can’t Detect Any Truth in Apple’s Limp Meta Comedy",
+      "description": "Based on a \"true rumor\" started by Kay \"MaMac\" McConaughey, the family sitcom asks if the famous pals are actually biological brothers. But their vanity project is less about what separates \"bro\" from \"brother\" than what separates reality from scripted-reality.",
+      "url": "https://www.indiewire.com/criticism/shows/brothers-review-matthew-mcconaughey-woody-harrelson-series-1235218037/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Brothers-series-Matthew-McConaughey-and-Woody-Harrelson.jpg?w=650",
+      "publishedAt": "2026-09-23T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-JkLTEyMzUyMTgxNTIv",
+      "title": "‘Ray Gunn’ Trailer: Brad Bird’s Noir-Inspired Animated Passion Project Comes to Netflix",
+      "description": "The long-gestating film opens in select theaters on December 4 before streaming December 18.",
+      "url": "https://www.indiewire.com/news/trailers/ray-gunn-trailer-brad-bird-1235218152/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Ray_Gunn_n_00_35_39_05.jpg?w=650",
+      "publishedAt": "2026-09-23T13:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-J0LWxvcy1hbmdlbGVz",
+      "title": "‘He made something every single day’: David Lynch’s inscrutable photography celebrated in LA show",
+      "description": "The director’s surrealist films defined Los Angeles. Now the city is celebrating his other passion: photography No one can bring Los Angeles together like David Lynch . The first posthumous exhibition of the director and artist’s photographs went on display at LA’s Pace Gallery this weekend, drawing a massive crowd of goths, weirdos and art world observers to celebrate a creative mind that has few equals in American pop culture history. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/david-lynch-photographs-art-los-angeles",
+      "image": "https://i.guim.co.uk/img/media/522a6e265f86eed31b4ab4c2bd877dd5c2baa777/961_0_6777_5425/master/6777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f8931a35c701f25acd78e2b21594034",
+      "publishedAt": "2026-09-23T13:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-b24tYWRhcHRhdGlvbg",
       "title": "Manhunter review – Michael Mann serves up a bold and queasy starter to the serial killer spectacle",
@@ -100,18 +220,6 @@
       "category": "Reviews"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Oompa Loompa, doompety done: Actor takes final bow",
-      "description": "Rusty Goffe on working with his son and an AI-generated Gene Wilder in a new Willy Wonka TV show.",
-      "url": "https://www.bbc.co.uk/news/articles/c9rk3856dm07o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa98/live/85bc3d80-b35e-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-23T05:36:14.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
       "id": "indiewire-VzLTEyMzUyMTgxMTkv",
       "title": "Robert Eggers Moves from Vampires and Werwulfs to ‘Romeo and Juliet’ Adaptation at Focus",
       "description": "Focus Features is closing in on the film to be his next project after \"Werwulf\" this Christmas.",
@@ -148,78 +256,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-cC0xMjM1MjE4MTA3Lw",
-      "title": "LA’s Animation Is Film Festival to Feature Oscar Contenders ‘Tangles,’ ‘Iron Boy,’ and More",
-      "description": "The Los Angeles animation showcase has revealed its 2026 lineup, with competition films, retrospectives, and more.",
-      "url": "https://www.indiewire.com/news/festivals/animation-is-film-festival-2026-lineup-1235218107/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
-      "publishedAt": "2026-09-22T20:42:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-l0LTEyMzUyMTc0Mjcv",
-      "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire’s Future of Filmmaking Summit",
-      "description": "The \"Project Hail Mary\" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.",
-      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-12.04.18-PM.png?w=650",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMTgwNjEv",
-      "title": "‘Coyote vs. Acme,’ Abandoned as a Tax Write-Off by Warner Bros., Grosses $100 Million Globally",
-      "description": "Revenge is a dish best served by Ketchup Entertainment, which rescued the animation hybrid.",
-      "url": "https://www.indiewire.com/news/box-office/coyote-vs-acme-tax-write-off-100-million-box-office-1235218061/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Coyote-vs-Acme.webp?w=650",
-      "publishedAt": "2026-09-22T18:15:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIxNzk5NS8",
-      "title": "‘La Gradiva’ Trailer: One of 2026’s Most Acclaimed Discoveries Puts a Fresh Twist on Coming-of-Age",
-      "description": "Marine Atlan's directorial debut and Cannes Critics' Week prize winner narrowly missed out on repping France in the International Oscar race. It will win more critics' prizes stateside.",
-      "url": "https://www.indiewire.com/news/trailers/la-gradiva-trailer-marine-atlan-1235217995/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/3_LA-GRADIVA_STILLS_SUZANNE-c-Films-du-poisson-Bibi-Film-TV-Arte-France-Cinema.jpg?w=650",
-      "publishedAt": "2026-09-22T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-1tLTEyMzUyMTgwNTQv",
-      "title": "James Gray’s ‘Paper Tiger’ Will Screen in 35mm on New York Film Fest Opening Night — Watch the New Trailer",
-      "description": "Exclusive: Starring Miles Teller, Adam Driver, and Scarlett Johansson, Gray's 1980s-set family crime drama opens the festival on Friday, September 25.",
-      "url": "https://www.indiewire.com/news/festivals/paper-tiger-nyff-opening-night-screenings-35mm-1235218054/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDPATI_EC036.jpg?w=650",
-      "publishedAt": "2026-09-22T16:39:37.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTgwMjEv",
-      "title": "‘Forgotten Island’ Review: A Fun, Hyper, Kid-Friendly Riff on ‘The Hangover’ Steeped in Filipino Folklore",
-      "description": "There's a LOT going on in Dreamworks Animation's latest film, but the friendship at its center holds the story together.",
-      "url": "https://www.indiewire.com/criticism/movies/forgotten-island-animated-movie-review-1235218021/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/Forgottenisland.jpg?w=650",
-      "publishedAt": "2026-09-22T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-5kYS1yaWNoYXJkc29u",
       "title": "Post your questions for Miranda Richardson",
       "description": "She has lit up screens large and small playing Ruth Ellis, Rita Skeeter, Barbara Castle and the hilarious Queenie in Blackadder. Alternatively, you could ask about birds of prey, orangutans or playing the cello Judging by the size of her awards cupboard, Miranda Richardson has had quite the career. She won a Bafta for the 1992 psychological drama Damage, opposite Jeremy Irons, and Golden Globes for the 1991 historical drama Enchanted April and the 1994 Nazi thriller Fatherland, and was Oscar-nominated for both Damage and the 1994 historical drama Tom & Viv. Her other notable performances include IRA member Jude in The Crying Game, Ruth Ellis in Dance With a Stranger and Lady Van Tassel in Sleepy Hollow. She’s pretty handy at comedy, too – and probably just as familiar for playing acid-tongued Daily Prophet journalist Rita Skeeter in Harry Potter and the Goblet of Fire, the murderous chicken-farm owner Mrs Tweedy in Chicken Run and, of course, the gloriously unhinged Queenie in Blackadder II: “I may have the body of a weak and feeble woman, but I have the heart and stomach of a concrete elephant.” Continue reading...",
@@ -232,30 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-aWRlLW9mLWNoZWVzZQ",
-      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "description": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter Cameron Alexander and director David Ayer, for which the first and last words of the title have been carefully chosen to signal a mix of sentimentality and thrills. It’s an entertaining anthro-canine-mance, with man and dog relating to each other on a deep level … kind of like Owen Wilson in Marley & Me , only without Jennifer Aniston, or Bernie Winters and Schnorbitz, only without the devastating melancholy. Pitt, who last worked with Ayer on the second world war action thriller Fury , plays a US military special forces veteran called Belmont, tough, self-reliant and laconically good-humoured in the classic Pitt manner, now spending his retirement roaming the breathtaking remote landscape of Alaska in his seaplane. He is accompanied by his beloved service dog Odin, or Odey (played by four different German shepherds), who saw action with Belmont in various fuzzily imagined flashback combat sequences. Odin took retirement with Belmont and is now his best and only pal. Whether or not Belmont ever had a human partner is never revealed. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
-      "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=af49609ebfe6d1b9c0b401e7d8d7782f",
-      "publishedAt": "2026-09-22T13:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjE4MDAzLw",
-      "title": "‘Heart of the Beast’ Review: Brad Pitt and a Very Good Dog Brave the Elements in David Ayer’s Predictably Pro-Military Survival Thriller",
-      "description": "A Special Forces veteran and his highly skilled canine fend off white waters, wolves, and more in an unexpectedly intimate two-hander that eventually careens into pro-military agitprop.",
-      "url": "https://www.indiewire.com/criticism/movies/heart-of-the-beast-review-brad-pitt-dog-1235218003/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA032.jpg?w=650",
-      "publishedAt": "2026-09-22T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-W5pbWFsLXdlbGZhcmU",
       "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
       "description": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and son An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fetched nearly €1m (£858,000, US$1.15m, A$1.61m) in Paris, almost 20 times the estimate, according to the auction house Millon. A total of 285 objects were auctioned, ranging from straw hats, sunglasses and nightgowns to tableware and furniture from Bardot’s homes in Paris and Saint-Tropez, Agence France-Presse (AFP) reported. Continue reading...",
@@ -265,30 +277,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMTYzMTYv",
-      "title": "Chester Bennington Doesn’t Appear in Linkin Park Rock Doc ‘Unshatter,’ but Director Joe Hahn Made Sure He Was ‘Always, Always Around’",
-      "description": "Linkin Park's DJ (and now its documentarian) tells IndieWire why his film only looks ahead at the band's future.",
-      "url": "https://www.indiewire.com/features/interviews/linkin-park-unshatter-joe-hahn-interview-chester-bennington-1235216316/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Linkin_Park_2_20_2535788-M1A-copy-1-1_0.jpg?w=650",
-      "publishedAt": "2026-09-21T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NoLTEyMzUyMTc5NTcv",
-      "title": "Watch an Exclusive Look at NYFF World Premiere ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’",
-      "description": "Mani Haghighi's Iranian documentary centers on an art collector whose immense archive borders on hoarding; it plays NYFF on September 30.",
-      "url": "https://www.indiewire.com/news/festivals/i-deserve-a-lover-nyff-world-premiere-exclusive-clip-watch-1235217957/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/I-Deserve-a-Lover-Whose-Every-Rise-Sets-Fiery-Dooms-Raging-Across-the-Skies_NYFF64_1-scaled-1.avif?w=650",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
