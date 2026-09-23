@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:36:45.007Z",
+  "generatedAt": "2026-09-23T01:02:51.081Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VzLTEyMzUyMTgxMTkv",
+      "title": "Robert Eggers Moves from Vampires and Werwulfs to ‘Romeo and Juliet’ Adaptation at Focus",
+      "description": "Focus Features is closing in on the film to be his next project after \"Werwulf\" this Christmas.",
+      "url": "https://www.indiewire.com/news/breaking-news/robert-eggers-romeo-and-juliet-focus-features-1235218119/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/GettyImages-2189693668.jpg?w=650",
+      "publishedAt": "2026-09-22T21:45:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5zLTEyMzUyMTgwNjcv",
+      "title": "‘Digger’ First Reactions Divide Critics: ‘Audacious,’ ‘Hollow Misfire,’ and ‘Massive Swing’ with Tom Cruise’s ‘Best Performance’ in Years",
+      "description": "Critics and early press have seen Alejandro G. Iñárritu's apocalyptic satire, which opens October 2 from Warner Bros. Pictures. Reactions are all over the place and fiercely divided.",
+      "url": "https://www.indiewire.com/news/general-news/digger-movie-first-reactions-1235218067/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/IMG_3018.jpeg?w=650",
+      "publishedAt": "2026-09-22T21:33:46.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIxODA5My8",
+      "title": "Paramount and Warner Bros. Merger: 10 Numbers That Show the Challenges Facing the New Hollywood Giant",
+      "description": "From $80 billion in debt to 32 film releases a year, breaking down the headaches and hurdles facing a combined WarnerMount.",
+      "url": "https://www.indiewire.com/news/analysis/paramount-warner-bros-merger-deal-analysis-debt-film-releases-1235218093/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/05/the-final-reckoning-seems-like-a-mixed-bag-of-high-highs-and-low-lows-1747145658.jpg?w=650",
+      "publishedAt": "2026-09-22T21:18:04.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-cC0xMjM1MjE4MTA3Lw",
+      "title": "LA’s Animation Is Film Festival to Feature Oscar Contenders ‘Tangles,’ ‘Iron Boy,’ and More",
+      "description": "The Los Angeles animation showcase has revealed its 2026 lineup, with competition films, retrospectives, and more.",
+      "url": "https://www.indiewire.com/news/festivals/animation-is-film-festival-2026-lineup-1235218107/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
+      "publishedAt": "2026-09-22T20:42:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-l0LTEyMzUyMTc0Mjcv",
+      "title": "Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire’s Future of Filmmaking Summit",
+      "description": "The \"Project Hail Mary\" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.",
+      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-12.04.18-PM.png?w=650",
+      "publishedAt": "2026-09-22T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-NlLTEyMzUyMTgwNjEv",
       "title": "‘Coyote vs. Acme,’ Abandoned as a Tax Write-Off by Warner Bros., Grosses $100 Million Globally",
@@ -220,30 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ci0xMjM1MjE3OTc1Lw",
-      "title": "Paramount Reaches Settlement to End States’ Lawsuit, Paving Way for Merger with Warner Bros. Discovery",
-      "description": "Paramount agreed to a number of concessions, including an investment of $1.5 billion in production spending in California over the next five years.",
-      "url": "https://www.indiewire.com/news/business/paramount-settlement-states-lawsuit-merger-1235217975/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/GettyImages-2285925661.jpg?w=650",
-      "publishedAt": "2026-09-21T15:38:14.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTc5NzEv",
-      "title": "‘Phoolan’ Review: A Biopic About a Rebellious Indian Feminist Is Undone by its Ramshackle Structure",
-      "description": "India’s \"Bandit Queen\" gets a welcome cinematic update, albeit one that can’t sustain itself",
-      "url": "https://www.indiewire.com/criticism/movies/phoolan-movie-review-1235217971/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Phoolan_02.webp?w=650",
-      "publishedAt": "2026-09-21T15:15:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Cate Blanchett asks theatre audience to stop filming during show",
       "description": "The A-list actress is the latest star to ask fans to put their phones away during performances.",
@@ -254,42 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE3OTQ4Lw",
-      "title": "‘The Further Mis-Adventures of Cliff Booth’ Trailer: Brad Pitt’s Tarantino Stuntman Returns in 1977 Hollywood for Fincher’s Sequel",
-      "description": "David Fincher directs Quentin Tarantino's script for this follow-up to 2019's Oscar-winning \"Once Upon a Time in Hollywood.\"",
-      "url": "https://www.indiewire.com/news/trailers/watch-the-further-misadventures-of-cliff-booth-trailer-1235217948/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
-      "publishedAt": "2026-09-21T12:15:57.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-by0xMjM1MjE3OTQzLw",
-      "title": "‘Paradise Lost’ Review: ‘Train to Busan’ Director Yeon Sang-ho Returns with a Limp and Lurid Grief Drama About Virtual Reality",
-      "description": "The Korean auteur throws too much at the wall without ensuring much of it sticks.",
-      "url": "https://www.indiewire.com/criticism/movies/paradise-lost-movie-review-yeon-sang-ho-1235217943/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paradise-Lost_Still_01.jpg?w=650",
-      "publishedAt": "2026-09-21T02:06:57.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMTc4MTQv",
-      "title": "‘Lanterns’ Review: Episode 6 Embraces ‘Bad Optics’ with a Clever Revival — Spoilers",
-      "description": "Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death — and find closure of his own.",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-6-review-bad-optics-hal-revival-spoilers-1235217814/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-6-Aaron-Pierre-as-John-Stewart.jpg?w=650",
-      "publishedAt": "2026-09-21T02:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-WZpbG0tZmVzdGl2YWw",
