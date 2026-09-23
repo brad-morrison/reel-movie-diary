@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:47:34.803Z",
+  "generatedAt": "2026-09-23T12:42:21.633Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-b24tYWRhcHRhdGlvbg",
+      "title": "Manhunter review – Michael Mann serves up a bold and queasy starter to the serial killer spectacle",
+      "description": "Before Anthony Hopkins’ Dr Lecter in The Silence of the Lambs, Brian Cox played a cannibalistic killer in Mann’s pioneering Red Dragon adaptation Five years before The Silence of the Lambs, there was writer-director Michael Mann’s pioneering Thomas Harris adaptation Manhunter, now on re-release in a director’s “final cut” for its 40th anniversary. It was his version of Harris’s 1981 novel Red Dragon, a movie which features Dr Hannibal Lecter (here spelt Lecktor) in a relatively minor part, and played in a much more coolly matter-of-fact and downbeat way by Brian Cox, who is first discovered in his cell lying down with his back to the camera. It has long been a haughty, hipster film-bro affectation to claim that Cox is better in the role than Anthony Hopkins. (Lecktor’s early acoustic stuff was great, you see, before he went electric as Lecter.) I think that’s a bit obtuse, for all that Cox is of course very good. Hopkins in The Silence of the Lambs is the definitive version: face it. But I will concede that Cox is more interesting than Hopkins by the time the latter came to make the 2002 adaptation of Red Dragon, at which stage the franchise had become a bit tired. Manhunter itself is a very interesting and watchable movie, but feels a little unevolved compared to Jonathan Demme’s masterly guignol spectacle, although Demme clearly inhaled Mann’s excitement at jets, ’copters and military hardware deployed at speed to bring down just one man. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/manhunter-review-brian-cox-hannibal-michael-mann-red-dragon-adaptation",
+      "image": "https://i.guim.co.uk/img/media/9bf37bb60e46359bd54af65f312a7d1b895d56ab/500_0_2340_1872/master/2340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d25477d42000910184260e7d36c9d789",
+      "publishedAt": "2026-09-23T12:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WktdGhlLWhlcmV0aWM",
+      "title": "Boorman and the Devil review – enjoyable re-evaluation of the disaster that was Exorcist II: The Heretic",
+      "description": "John Boorman generously details the mortifying experience of making a sequel to 1973 hit horror The Exorcist, which was widely and unfairly panned David Kittredge gives us a thoroughly enjoyable, detailed account of the catastrophe that was John Boorman’s 1977 film Exorcist II: The Heretic, the deeply ill-conceived and widely derided follow-up to The Exorcist, a bizarre but ambitious fantasy supernatural rhapsody, brimming with unintentional comedy. Yet it was visually bold and even brilliant, pioneering in its use of Steadicam; Linda Blair and Max von Sydow were persuaded to return; Richard Burton was cast as a troubled priest, and Louise Fletcher as a psychiatrist whose weird “mind-reader” contraption was entirely ridiculous. At the first film, people screamed. Now they screamed with laughter. According to an apocryphal tale gleefully repeated by William Friedkin, director of the first film, the sequel resulted in an enraged audience one night turning round and booing Warner Brothers executives in the back row of the cinema, and then chasing them out of the building and down the street. Boorman desperately recut the film with the sillier bits removed. But the damage was done. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/boorman-and-the-devil-review-enjoyable-re-evaluation-of-the-disaster-that-was-exorcist-ii-the-heretic",
+      "image": "https://i.guim.co.uk/img/media/b87cc22ab638d34847ad2a27d2bf7da627c471d0/1494_0_2966_2374/master/2966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c00e204dce191b2481871da3f09df661",
+      "publishedAt": "2026-09-23T10:00:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
+      "description": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f34d/live/afe9b330-b719-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-23T08:43:47.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Prince and Princess of Wales share a laugh with Tom Cruise at film premiere",
+      "description": "William and Catherine renew their friendship with the Hollywood star at the premiere for his film Digger.",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f265/live/53816e50-b73f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-23T08:42:55.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mRlci10aGUtd2F0ZXI",
+      "title": "North Sea, Nature Untamed review – stunning footage finds the beauty and splendour under the water",
+      "description": "Diver Peter van Rodijnen’s footage of basking whales, plankton blooms and fatherly fish disputes the idea that the North Sea is a bleak wilderness The North Sea, with its cold grey waters, is the world’s drabbest. Or so you might have thought, but this documentary featuring the Dutch diver and underwater cinematographer Peter van Rodijnen sets out to tackle the misconceptions. His stunning footage puts all the splendours of this stormy stretch of water on show, and his voiceover gives it an endearing eccentric charm. First, the greyness. Van Rodijnen films the North Sea’s waves sparkling with the cosmic blue light of bioluminescent algae, and lit up with the disco colours of coral and plankton blooms. He also brings us cute, coo-worthy stories from the depths; take the male shorthorn sculpin fish (no looker, it must be said) who spends the winter looking after his eggs, cleaning and blowing fresh water over them. Van Rodijnen’s camera is there for the baby fish hatching – pop, pop, pop out of their pearly plump pink eggs. There are some quirky stories, too, including a barnacle with a superlong penis. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/north-sea-nature-untamed-review-stunning-footage-finds-the-beauty-and-splendour-under-the-water",
+      "image": "https://i.guim.co.uk/img/media/0f674522af590ab92c65d838e22778c269c5ba93/575_0_5730_4584/master/5730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=260c38d0fd09f7703791fc1080447755",
+      "publishedAt": "2026-09-23T08:00:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-m9va3Rvay1yb21jb20",
+      "title": "The Love Hypothesis review – hit BookTok romcom lacks spark on screen",
+      "description": "Riverdale’s Lili Reinhart does some heavy lifting in Ali Hazelwood’s hit book, but it’s not quite enough Fans of the dearly departed Riverdale – or, moreover, admirers of all the batshit things the CW comic soap could make its bright young actors say with straining sincerity – have long rooted for Lili Reinhart. The Betty Cooper of yore was the best of that talented crop (Charles Melton and Camila Mendes among them) at rising above her subpar surroundings, her impressively expressive eyes able to sell the unsellable with complete conviction. She is the type of helplessly endearing performer suited to roles of naivety who masks surprise steeliness, as in her notable turn in 2019’s Hustlers or, better yet, romcoms, though there remains a dearth of worthy material. (A dual role in 2022’s Look Both Ways , a Netflix homage to Sliding Doors, didn’t cut it.) At least on paper, The Love Hypothesis, a new romcom from Amazon Prime Video, should be that material. The BookTok sensation by neuroscientist turned author Ali Hazelwood presents an ideal Reinhart protagonist: extremely nerdy, in a periodic table way, yet conventionally beautiful, awkward and self-deprecating yet cutting when it counts, the type of sweet-presenting young woman who will shout “fuck” repeatedly in private. Which Reinhart’s Olive Smith, a young biology PhD student at Stanford, winsomely does in the film’s unsettlingly cold open, as a bleary-eyed Olive, blind from expired contacts, freaking out before her grad school interview and then boldly stating her cancer-solving intentions to a brusque, handsome professor in a lab bathroom. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/23/the-love-hypothesis-review-booktok-romcom",
+      "image": "https://i.guim.co.uk/img/media/24c2a42dc8326ef906df85c9e6478d1227cf2320/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=81e62f53d90bc5396f2bb7ecad236d59",
+      "publishedAt": "2026-09-23T07:00:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-J0LWl0LWluc3BpcmVk",
       "title": "Remake review – Ross McElwee’s magnificent and moving tribute to a tragic loss and the art it inspired",
@@ -26,6 +98,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Oompa Loompa, doompety done: Actor takes final bow",
+      "description": "Rusty Goffe on working with his son and an AI-generated Gene Wilder in a new Willy Wonka TV show.",
+      "url": "https://www.bbc.co.uk/news/articles/c9rk3856dm07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fa98/live/85bc3d80-b35e-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-23T05:36:14.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
     },
     {
       "id": "indiewire-VzLTEyMzUyMTgxMTkv",
@@ -97,18 +181,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Sir Sean Connery's family plans new filmmaking centre in Edinburgh",
-      "description": "It will be named after the James Bond actor, who worked as a milkman in the Scottish capital before becoming a Hollywood star.",
-      "url": "https://www.bbc.co.uk/news/articles/cmew9q277kpvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d8d7/live/b244ce90-b687-11f1-97fb-8d66d3951490.jpg",
-      "publishedAt": "2026-09-22T17:43:10.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -184,60 +256,12 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-2YtZnJlc2gtYmxvb2Q",
-      "title": "Heresy review – feminist folk horror summons something scary in the woods with supply of fresh blood",
-      "description": "A childless woman flees into the forest and emerges with a swollen belly in director Didier Konings’ short, sharp fable Before fertility tourism, the only option for your average medieval serf struggling to conceive was heading to the nearest foreboding woods and summoning weird, antlered dryads. Or so it seems from Didier Konings’ short but memorable folk-horror debut, in which wide-eyed villager Frieda (Anneke Sluiters) flees into the trees after escaping an attempted rape by local butcher Gelo (Léon van Waas). He has already told her, after scoffing a pig foetus, that he likes his meat weak and defenceless. The dryads beat IVF hands down. Previously chided for her lack of childbearing by husband Hikko (Len Leo Vincent), Frieda emerges with a swollen abdomen. But the villagers fear it is the devil’s work, especially after finding Gelo in the woods, dismembered but freakishly still conscious. That’s about the extent of the story here, but Konings pares the focus effectively down to the essentials of this obscurantist hole: the crawling fear of evil among the villagers, and the necessary projection of it on to everything outside their control – female bodies and emotions, the natural world. Though her character verges on symbolic, Frieda – as well as the “wise women” of the forest, as per the original Dutch title – allow this fable’s feminist credentials to howl out unmistakably. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heresy-review-feminist-folk-horror-summons-something-scary-in-the-woods-with-supply-of-fresh-blood",
-      "image": "https://i.guim.co.uk/img/media/68fc534ef382e5d5799ec54e55e8cd64fbb6cf28/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=86632504446405946d793c6b7cb70346",
-      "publishedAt": "2026-09-22T10:00:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dmlkLWVyYS1kcmFtYQ",
-      "title": "Shadows of Beirut review – chaos and crisis as woman goes back to birth city in fractured Covid-era drama",
-      "description": "A London-dwelling émigrée goes back to Lebanon to see her dying father in this somewhat overwrought film examining a difficult childhood This somewhat overwrought drama was apparently shot during the Covid-19 pandemic, partly in the city of the title and partly on sets in a Bulgarian studio. Its higgledy-piggledy production schedule perhaps accounts for the film’s fractured, frenetic quality and the feeling that the characters are perpetually in motion. Mind you, to be fair, the shredded editing might also be meant to reflect the distraught mental state of protagonist Lana (Tala Calil, also co-writer and producer) and the energy of the city itself, a municipality ravaged by wars that also has some of the most chaotic traffic in the Middle East. There’s even a scene where Lana’s new friend Sirine (Flavia Bechara) is driving and wants to take her coat off so she makes Lana take the wheel, much to Lana’s terror and distress, a nonchalance about safety believable for a city where traffic lights appear to be only a suggestion. That said, Lana has a lot going on so she’s easily rattled. She left Beirut 25 years earlier, and has only come back to see her biological father of whom she has only negative memories, from a childhood blighted by his alcoholism and violence. These days she lives in London with her boyfriend Ben (Michael E Rodgers) and her mother, but the former relationship is also rocky due to Lana’s OCD. She’s obsessed with wearing as much sanitary PPE kit as possible, including not just an N95 (in UK FFP2) mask but one of those full-face clear plastic ones, too. However, she suddenly finds the strength to stop wearing all the gear when she gets back to Beirut and reconnects with her cousin Rami (Assaad Bouab). She starts to open up a bit more, and befriends the aforementioned Sirine, who helps Lana when she’s having a panic attack at the hospital. By slow degrees she works up enough fortitude to face her father before he dies, but that means confronting some family secrets she never knew. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/shadows-of-beirut-review-chaos-and-crisis-as-woman-goes-back-to-birth-city-in-fractured-covid-era-drama",
-      "image": "https://i.guim.co.uk/img/media/ce03afe7644b58c7a89435f7290788df2e86b50b/457_0_1006_805/master/1006.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c477aaaff3e9e21213c853716d4020af",
-      "publishedAt": "2026-09-22T08:00:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-W5pbWFsLXdlbGZhcmU",
       "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
       "description": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and son An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fetched nearly €1m (£858,000, US$1.15m, A$1.61m) in Paris, almost 20 times the estimate, according to the auction house Millon. A total of 285 objects were auctioned, ranging from straw hats, sunglasses and nightgowns to tableware and furniture from Bardot’s homes in Paris and Saint-Tropez, Agence France-Presse (AFP) reported. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
       "image": "https://i.guim.co.uk/img/media/b787d43d8f92582cf86594df3ca90ebcd51253d4/240_0_2572_2057/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06218e792b1f4769b932240cca688c26",
       "publishedAt": "2026-09-22T07:14:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "How fields of Fermanagh helped Daisy Edgar-Jones prepare for her latest film",
-      "description": "The actress, whose mum is from County Down, recalls long childhood summers in Northern Ireland.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9xpg19x43o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ba29/live/a45259a0-b5e3-11f1-aff1-eb6baa3fda4f.jpg",
-      "publishedAt": "2026-09-22T06:20:52.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-HVybmVkLXRvLWdvbGQ",
-      "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
-      "description": "Director Pepa Lubojacki’s heartbreaking film chronicles the lives of her brother as he struggles with drink and homelessness – and her own shame in the face of societal prejudice Czech film-maker Pepa Lubojacki originally set out to make a film about pigeons. What fascinated the 39-year-old director was that the grey birds are clearly beautiful and highly intelligent creatures, yet human cruelty towards them is socially acceptable in the way it isn’t towards, say, crows or magpies. “You can spot kids kicking and chasing pigeons while their parents cheerfully look on,” she says. The moral blind spot reminded her of the way that people looked at homeless people like her older brother and her cousins. “The public has learned to avert their eyes,” she says. “My cousin was declined care seven times with open wounds in the hospital, and finally, they had to amputate both of his legs.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
-      "image": "https://i.guim.co.uk/img/media/19b8c0ab6ad2320c83e1d86531b6399010ef8590/490_0_2578_2065/master/2578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c32c68ad17403b34e9eb868183c37971",
-      "publishedAt": "2026-09-22T06:00:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -256,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "First look at The Other Bennet Sister Christmas special revealed",
-      "description": "Filming wrapped on the BBC Christmas special in October, as fans eagerly await its return.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw2r7wz0no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/989b/live/e458c650-b58f-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-21T17:02:05.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Trailers"
-    },
-    {
       "id": "indiewire-NoLTEyMzUyMTc5NTcv",
       "title": "Watch an Exclusive Look at NYFF World Premiere ‘I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies’",
       "description": "Mani Haghighi's Iranian documentary centers on an art collector whose immense archive borders on hoarding; it plays NYFF on September 30.",
@@ -277,18 +289,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Cate Blanchett asks theatre audience to stop filming during show",
-      "description": "The A-list actress is the latest star to ask fans to put their phones away during performances.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgyzpy6g43o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c21f/live/f6ffc310-b5b9-11f1-8d1d-a985658d9d3a.jpg",
-      "publishedAt": "2026-09-21T14:03:20.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -410,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-i1kaWVzLWFnZWQtODU",
-      "title": "Battle of Chile director Patricio Guzmán dies aged 85",
-      "description": "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol , Guzmán died on Tuesday in Paris after a cardiorespiratory arrest. Guzmán’s chief preoccupation throughout his career was the carnage unleashed by Augusto Pinochet’s coup in 1973 against Salvador Allende, Chile’s elected president. He later told the Guardian : “I’m a film-maker who was very marked by the ways of the dictator. It has remained with me for ever. I cannot leave it behind.” However, he resisted the idea that he was an activist, political film-maker, adding: “I’m not a sociologist. Neither am I a politician. I make films that are metaphorical and poetic; I interpret reality through my own personal way of looking.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
-      "image": "https://i.guim.co.uk/img/media/43b24454f17b84b616666f19f2c396e773ad772e/0_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc04cc1b3fb35f230fb25ca87645ece",
-      "publishedAt": "2026-09-16T13:15:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-XRzaWRlLXRoZS1ib3g",
