@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:36:34.516Z",
+  "generatedAt": "2026-09-24T01:04:10.245Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-lhLTEyMzUyMTYxNTgv",
+      "title": "This Single DVD Is Traveling Around the Country to Find a Sweet Indie Film Its Audience",
+      "description": "After struggling to break through on the festival circuit, Matthew James Thompson packed his debut feature, \"Handle With Care,\" into a mysterious case that's been bringing strangers together ever since.",
+      "url": "https://www.indiewire.com/features/interviews/handle-with-care-dvd-traveling-indie-film-physical-media-1235216158/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.35.55-AM.png?w=650",
+      "publishedAt": "2026-09-23T22:02:44.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9tLTEyMzUyMTgxOTMv",
+      "title": "Married ‘All That She Wants’ Filmmakers Scarlett Bermingham and Andrew Rhymer on Making a Rom-Com About Trying to Get Pregnant",
+      "description": "The directing duo's development as artists and parents mirrored that of Annie Murphy and Cooper Raiff's characters.",
+      "url": "https://www.indiewire.com/features/interviews/all-that-she-wants-directors-interview-pregnancy-rom-com-1235218193/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/ALL_THAT_SHE_WANTS-01.webp?w=650",
+      "publishedAt": "2026-09-23T21:21:20.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjE4MTE2Lw",
+      "title": "Who’s Keeping Paramount Honest? A Guide to the Watchdogs Policing David Ellison’s $110 Billion Deal",
+      "description": "The proposed decree divides oversight between an internal studio monitor, an independent trustee, state attorneys general, and a board of journalists. Here’s what each can do — and where their power stops.",
+      "url": "https://www.indiewire.com/features/general/paramount-warner-bros-merger-watchdogs-promises-explained-1235218116/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZVBM.jpg?w=650",
+      "publishedAt": "2026-09-23T20:32:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE4MDg0Lw",
+      "title": "‘The Love Hypothesis’ Breakout Star Rachel Marsh Plays the BFF Every Rom-Com Heroine Needs",
+      "description": "In the Ali Hazelwood adaptation, Marsh plays best friend to leading lady Lili Reinhart, but she's no second fiddle. As the rising comedian tells IndieWire, she knows this kind of role is rare, and she really knows how to make it her own.",
+      "url": "https://www.indiewire.com/features/interviews/the-love-hypothesis-rachel-marsh-bff-rom-com-interview-1235218084/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296672289.jpg?w=650",
+      "publishedAt": "2026-09-23T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-dC0xMjM1MjE3NDQwLw",
       "title": "Curry Barker to Receive IndieWire’s Inaugural Future of Filmmaking Award",
@@ -112,18 +160,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-JkLTEyMzUyMTgxNTIv",
-      "title": "‘Ray Gunn’ Trailer: Brad Bird’s Noir-Inspired Animated Passion Project Comes to Netflix",
-      "description": "The long-gestating film opens in select theaters on December 4 before streaming December 18.",
-      "url": "https://www.indiewire.com/news/trailers/ray-gunn-trailer-brad-bird-1235218152/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Ray_Gunn_n_00_35_39_05.jpg?w=650",
-      "publishedAt": "2026-09-23T13:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-J0LWxvcy1hbmdlbGVz",
       "title": "‘He made something every single day’: David Lynch’s inscrutable photography celebrated in LA show",
       "description": "The director’s surrealist films defined Los Angeles. Now the city is celebrating his other passion: photography No one can bring Los Angeles together like David Lynch . The first posthumous exhibition of the director and artist’s photographs went on display at LA’s Pace Gallery this weekend, drawing a massive crowd of goths, weirdos and art world observers to celebrate a creative mind that has few equals in American pop culture history. Continue reading...",
@@ -198,7 +234,7 @@
     {
       "id": "guardian-m9va3Rvay1yb21jb20",
       "title": "The Love Hypothesis review – hit BookTok romcom lacks spark on screen",
-      "description": "Riverdale’s Lili Reinhart does some heavy lifting in Ali Hazelwood’s hit book, but it’s not quite enough Fans of the dearly departed Riverdale – or, moreover, admirers of all the batshit things the CW comic soap could make its bright young actors say with straining sincerity – have long rooted for Lili Reinhart. The Betty Cooper of yore was the best of that talented crop (Charles Melton and Camila Mendes among them) at rising above her subpar surroundings, her impressively expressive eyes able to sell the unsellable with complete conviction. She is the type of helplessly endearing performer suited to roles of naivety who masks surprise steeliness, as in her notable turn in 2019’s Hustlers or, better yet, romcoms, though there remains a dearth of worthy material. (A dual role in 2022’s Look Both Ways , a Netflix homage to Sliding Doors, didn’t cut it.) At least on paper, The Love Hypothesis, a new romcom from Amazon Prime Video, should be that material. The BookTok sensation by neuroscientist turned author Ali Hazelwood presents an ideal Reinhart protagonist: extremely nerdy, in a periodic table way, yet conventionally beautiful, awkward and self-deprecating yet cutting when it counts, the type of sweet-presenting young woman who will shout “fuck” repeatedly in private. Which Reinhart’s Olive Smith, a young biology PhD student at Stanford, winsomely does in the film’s unsettlingly cold open, as a bleary-eyed Olive, blind from expired contacts, freaking out before her grad school interview and then boldly stating her cancer-solving intentions to a brusque, handsome professor in a lab bathroom. Continue reading...",
+      "description": "Riverdale’s Lili Reinhart does some heavy lifting in adaptation of Ali Hazelwood’s hit book, but it’s not quite enough Fans of the dearly departed Riverdale – or, moreover, admirers of all the batshit things the CW comic soap could make its bright young actors say with straining sincerity – have long rooted for Lili Reinhart. The Betty Cooper of yore was the best of that talented crop (Charles Melton and Camila Mendes among them) at rising above her subpar surroundings, her impressively expressive eyes able to sell the unsellable with complete conviction. She is the type of helplessly endearing performer suited to roles of naivety who masks surprise steeliness, as in her notable turn in 2019’s Hustlers or, better yet, romcoms, though there remains a dearth of worthy material. (A dual role in 2022’s Look Both Ways , a Netflix homage to Sliding Doors, didn’t cut it.) At least on paper, The Love Hypothesis, a new romcom from Amazon Prime Video, should be that material. The BookTok sensation by neuroscientist turned author Ali Hazelwood presents an ideal Reinhart protagonist: extremely nerdy, in a periodic table way, yet conventionally beautiful, awkward and self-deprecating yet cutting when it counts, the type of sweet-presenting young woman who will shout “fuck” repeatedly in private. Which Reinhart’s Olive Smith, a young biology PhD student at Stanford, winsomely does in the film’s unsettlingly cold open, as a bleary-eyed Olive, blind from expired contacts, freaking out before her grad school interview and then boldly stating her cancer-solving intentions to a brusque, handsome professor in a lab bathroom. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/23/the-love-hypothesis-review-booktok-romcom",
       "image": "https://i.guim.co.uk/img/media/24c2a42dc8326ef906df85c9e6478d1227cf2320/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=81e62f53d90bc5396f2bb7ecad236d59",
       "publishedAt": "2026-09-23T07:00:18.000Z",
@@ -218,42 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTgxMTkv",
-      "title": "Robert Eggers Moves from Vampires and Werwulfs to ‘Romeo and Juliet’ Adaptation at Focus",
-      "description": "Focus Features is closing in on the film to be his next project after \"Werwulf\" this Christmas.",
-      "url": "https://www.indiewire.com/news/breaking-news/robert-eggers-romeo-and-juliet-focus-features-1235218119/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/GettyImages-2189693668.jpg?w=650",
-      "publishedAt": "2026-09-22T21:45:25.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5zLTEyMzUyMTgwNjcv",
-      "title": "‘Digger’ First Reactions Divide Critics: ‘Audacious,’ ‘Hollow Misfire,’ and ‘Massive Swing’ with Tom Cruise’s ‘Best Performance’ in Years",
-      "description": "Critics and early press have seen Alejandro G. Iñárritu's apocalyptic satire, which opens October 2 from Warner Bros. Pictures. Reactions are all over the place and fiercely divided.",
-      "url": "https://www.indiewire.com/news/general-news/digger-movie-first-reactions-1235218067/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/IMG_3018.jpeg?w=650",
-      "publishedAt": "2026-09-22T21:33:46.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIxODA5My8",
-      "title": "Paramount and Warner Bros. Merger: 10 Numbers That Show the Challenges Facing the New Hollywood Giant",
-      "description": "From $80 billion in debt to 32 film releases a year, breaking down the headaches and hurdles facing a combined WarnerMount.",
-      "url": "https://www.indiewire.com/news/analysis/paramount-warner-bros-merger-deal-analysis-debt-film-releases-1235218093/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/05/the-final-reckoning-seems-like-a-mixed-bag-of-high-highs-and-low-lows-1747145658.jpg?w=650",
-      "publishedAt": "2026-09-22T21:18:04.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-5kYS1yaWNoYXJkc29u",
