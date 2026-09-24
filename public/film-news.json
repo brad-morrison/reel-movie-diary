@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:04:10.245Z",
+  "generatedAt": "2026-09-24T06:47:44.643Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-b24tZHJlYW13b3Jrcw",
+      "title": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "description": "This over-controlled adventure never takes a breath or a moment to let its characters come to life Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me another example of exhausting AI-type content production in animation. You could make the same argument against plenty of live-action films of course, but it is in animation that this kind of soulless blitzkrieg tends to predominate. Forgotten Island is over-controlled and over-determined, a movie that never, or hardly ever, takes its pedal from the metal, never takes a breath or a moment to let its characters come to life. At times it seems to be aping the world of Japanese anime, but without its sense of character or capacity for calm. The story, weirdly reminiscent of The Hangover of all things, is set in the Philippines in the pre-social media 90s. Jo, voiced by R&B star HER, is a lonely and super-imaginative teen always in trouble at school; like Moana she has a wise grandma who guides her to her ancestral destiny and has captivated Jo with stories of her culture and identity – stories of the forgotten island of Nakali. Jo makes friends with similarly lonely Raissa (Liza Soberano) who like Jo is smart but with a much more focused sense of academic discipline. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks",
+      "image": "https://i.guim.co.uk/img/media/4473f5f0f5a946aac7ca506a1d3be6f3966c567e/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ec8337998efbf16383f49ca9310a11a4",
+      "publishedAt": "2026-09-24T06:00:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-lhLTEyMzUyMTYxNTgv",
       "title": "This Single DVD Is Traveling Around the Country to Find a Sweet Indie Film Its Audience",
@@ -254,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-5kYS1yaWNoYXJkc29u",
-      "title": "Post your questions for Miranda Richardson",
-      "description": "She has lit up screens large and small playing Ruth Ellis, Rita Skeeter, Barbara Castle and the hilarious Queenie in Blackadder. Alternatively, you could ask about birds of prey, orangutans or playing the cello Judging by the size of her awards cupboard, Miranda Richardson has had quite the career. She won a Bafta for the 1992 psychological drama Damage, opposite Jeremy Irons, and Golden Globes for the 1991 historical drama Enchanted April and the 1994 Nazi thriller Fatherland, and was Oscar-nominated for both Damage and the 1994 historical drama Tom & Viv. Her other notable performances include IRA member Jude in The Crying Game, Ruth Ellis in Dance With a Stranger and Lady Van Tassel in Sleepy Hollow. She’s pretty handy at comedy, too – and probably just as familiar for playing acid-tongued Daily Prophet journalist Rita Skeeter in Harry Potter and the Goblet of Fire, the murderous chicken-farm owner Mrs Tweedy in Chicken Run and, of course, the gloriously unhinged Queenie in Blackadder II: “I may have the body of a weak and feeble woman, but I have the heart and stomach of a concrete elephant.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/post-your-questions-for-miranda-richardson",
-      "image": "https://i.guim.co.uk/img/media/d6ae17e931acb6d9b48b9ba380441949840287a3/230_77_2379_1902/master/2379.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d91c71c797107353df64fe54b1030b8",
-      "publishedAt": "2026-09-22T13:22:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-W5pbWFsLXdlbGZhcmU",
