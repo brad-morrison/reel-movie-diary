@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T12:43:01.656Z",
+  "generatedAt": "2026-09-25T18:35:15.710Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMTg3MTYv",
+      "title": "Three Decades Ago, He Made a Documentary About Then-Boyfriend Isaac Mizrahi — Now, Douglas Keeve Is Looking Back at ‘Unzipped’",
+      "description": "As Keeve tells IndieWire, his relationship with then-rising fashion mogul Mizrahi fell apart after he made the 1995 fashion-world doc. But the film isn't what split them in two.",
+      "url": "https://www.indiewire.com/features/interviews/isaac-mizrahi-documentary-unzipped-interview-1235218716/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/36035id_033_0003_36035id_041_w1600.jpg?w=650",
+      "publishedAt": "2026-09-25T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3otMTIzNTIxODY5MS8",
+      "title": "Stanley Kubrick’s Five Best Films, Ranked with TCM Host Ben Mankiewicz",
+      "description": "With his \"The Plot Thickens\" podcast focused on Kubrick this season, Mankiewicz joins IndieWire's own podcast \"Screen Talk\" to rank his favorites alongside co-hosts Anne Thompson and Ryan Lattanzio.",
+      "url": "https://www.indiewire.com/features/podcast/stanley-kubrick-best-movies-ranked-with-tcm-ben-mankiewicz-1235218691/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDFOOR_EC008.jpg?w=650",
+      "publishedAt": "2026-09-25T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VuLTEyMzUyMTg2OTIv",
+      "title": "A24’s ‘Primetime’ Earns $2.7 Million in Previews as Robert Pattinson’s Creepy Chris Hansen Scores at the Box Office",
+      "description": "\"Avengers: Endgame Encore\" earns a mighty $3.8 million as it returns to theaters.",
+      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-9.05.03-AM.png?w=650",
+      "publishedAt": "2026-09-25T15:27:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-HQtMTIzNTIxODE4My8",
+      "title": "Brad Pitt and David Ayer Had None of Your Typical Film Set Comforts on the Survival Thriller ‘Heart of the Beast’",
+      "description": "Ayer tells IndieWire's Filmmaker Toolkit podcast about the challenges of telling an adventure story about a man and his dog, where the project's stripped-down nature makes every decision exponentially more important.",
+      "url": "https://www.indiewire.com/features/podcast/heart-of-the-beast-director-david-ayer-interview-brad-pitt-1235218183/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA006.jpg?w=650",
+      "publishedAt": "2026-09-25T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WQtMTIzNTIxODYzNS8",
+      "title": "Congress Must Act to Support Cinemas Tax Credit and Keep Movies on Main Street",
+      "description": "In an op-ed, four independent exhibitors push for the passage of the SCREEN Act, a tax break for movie theater reinvestment.",
+      "url": "https://www.indiewire.com/news/analysis/congress-tax-credit-cinema-theater-upgrades-op-ed-1235218635/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/GettyImages-2225831945.jpg?w=650",
+      "publishedAt": "2026-09-25T14:24:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JvLTEyMzUyMTgzNzIv",
+      "title": "‘The Gilded Age’ Musical Is Finally Happening — as a Christmas Album",
+      "description": "\"Voices of The Gilded Age: The Christmas Album\" puts the HBO series' cast of Broadway stars to proper use, with Audra McDonald, Carrie Coon, Christine Baranski, Kelli O'Hara, Morgan Spector, and more performing a slew of holiday classics and two new songs.",
+      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-christmas-album-cast-musical-episode-hbo-1235218372/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Gilded-Age-Christmas-Album-release-date.jpg?w=650",
+      "publishedAt": "2026-09-25T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjE4NDUzLw",
+      "title": "Filmmaker Lauren Caster Is Spending 30 Days on the Internet Convincing People to Watch Her Indie",
+      "description": "The \"Rhythm Is a Dancer\" writer/director talks about how she turned her frustrations over getting her movie seen into a marketing tool, and how she harnessed social media to make millions aware of her film.",
+      "url": "https://www.indiewire.com/features/interviews/director-lauren-caster-rhythm-is-a-dancer-interview-1235218453/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/riad_still_03-lauren-caster.jpg?w=650",
+      "publishedAt": "2026-09-25T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-cy0xMjM1MjE4NjA5Lw",
       "title": "‘Tiny Fugitives’ Star Johnny Knoxville Blames ‘Fun Police’ for Killing Studio Comedies",
@@ -41,7 +125,7 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Some BBC channels and radio stations 'may well' have to close, director general says",
+      "title": "Some BBC channels and radio stations may well have to close, director general says",
       "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
       "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1099/live/e10e9f20-b8d6-11f1-a430-4d16ee157c41.jpg",
@@ -160,90 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-NrLTEyMzUyMTgyOTgv",
-      "title": "A24’s ‘V/H/S’ Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback",
-      "description": "Admins with the SCP Foundation Wiki tell IndieWire their work is covered by a Creative Commons License — and that it should be respected.",
-      "url": "https://www.indiewire.com/news/analysis/a24-vhs-movie-scp-foundation-licensing-pushback-1235218298/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/MCDVHSS_EC005.jpg?w=650",
-      "publishedAt": "2026-09-24T18:46:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE2NjI3Lw",
-      "title": "‘Your Mother Your Mother Your Mother’ Review: Faith, Family, and Firearms Drive Bassam Tariq’s Intriguingly Strange Action-Drama",
-      "description": "Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.",
-      "url": "https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/hero-image.fill_.size_1200x675.v1785962044.webp?w=650",
-      "publishedAt": "2026-09-24T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE4NDczLw",
-      "title": "Strand Releasing Buys Distribution Rights to ‘Sparks,’ a Drama About Time-Travel Obsessed Teens",
-      "description": "Exclusive: \"Eighth Grade\" breakout Elsie Fisher and Charlie B. Foster star in the indie drama, which will open in theaters next spring.",
-      "url": "https://www.indiewire.com/news/breaking-news/strand-releasing-buys-sparks-jodie-foster-son-elsie-fisher-1235218473/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-24-at-12.46.12-PM.png?w=650",
-      "publishedAt": "2026-09-24T17:38:53.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-N0LTEyMzUyMTgzMTIv",
-      "title": "Can Brad Pitt and a Cute Dog Save Paramount’s Year at the Box Office?",
-      "description": "While Paramount CEO David Ellison enjoys his WarnerMount merger win, the studio's 2026 box office is not a pretty picture. Enter \"Heart of the Beast.\"",
-      "url": "https://www.indiewire.com/news/box-office/can-brad-pitt-dog-movie-save-paramount-heart-of-the-beast-1235218312/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA032.jpg?w=650",
-      "publishedAt": "2026-09-24T17:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE4Mzk3Lw",
-      "title": "‘V/H/S/Mixtape’ Trailer: Horror’s Unkillable Anthology Franchise Returns with a Music-Inspired Twist",
-      "description": "The latest entry, which includes shorts directed by Flying Lotus, RZA, and Ernest Dickerson, streams on Shudder next month.",
-      "url": "https://www.indiewire.com/news/trailers/v-h-s-mixtape-trailer-1235218397/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-23-at-2.45.30-PM.png?w=650",
-      "publishedAt": "2026-09-24T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjE4NDcyLw",
-      "title": "Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge Grants Last-Ditch Effort from Block the Merger Coalition",
-      "description": "An emergency amicus brief was filed just ahead of a hearing this morning to approve the antitrust settlement agreement.",
-      "url": "https://www.indiewire.com/news/breaking-news/paramount-wbd-merger-delay-judge-grants-last-ditch-lawsuit-1235218472/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107ZVAT.jpg?w=650",
-      "publishedAt": "2026-09-24T16:45:06.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VuLTEyMzUyMTUwNjgv",
-      "title": "‘Primetime’ Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating ‘To Catch a Predator’ Thriller",
-      "description": "Lance Oppenheim scuzzies up his fiction feature debut about hidden-camera, reality-TV exploitation with a grim style and often twisted performances from Merritt Wever, Skyler Gisondo, and singer/songwriter Phoebe Bridgers.",
-      "url": "https://www.indiewire.com/criticism/movies/a24-primetime-movie-review-robert-pattinson-chris-hansen-1235215068/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-1.png?w=650",
-      "publishedAt": "2026-09-24T16:17:07.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-NvdHRpc2gtZW1pbmVt",
       "title": "‘I get lost going to the bathroom’: John Hannah on world travel, stealing props and being ‘the Scottish Eminem’",
       "description": "The Four Weddings and a Funeral actor answers your questions on being confused with James Nesbitt, his own Sliding Doors moment and a new perspective since turning 60 How often do you get asked to recite that WH Auden poem from Four Weddings and a Funeral , and can you do it from memory right now? mattyjj and simoit Not for a long time. I could probably do the first couple of lines: Stop all the clocks, cut off the telephone / Prevent the dog from barking with a juicy bone / Turn out the lights? And with muffled drums / Something, something … let the mourners come. There you go. Terrible! In Steve Coogan ’s Paul Calf’s Video Diary, your character praises Orson Welles’ The Trial for its “tremendous energy”, while Paul says he would “rather watch Dave Lee Travis playing Macbeth”. What’s your actual opinion of The Trial [by Franz Kafka]? AdrianH1 God, it’s a long time since I’ve read that. I read a lot of those books in my younger days, but probably, like a lot of people, even those who are graduates of English literature, I’d be hard pushed these days to tell you what it was about, other than the persecution of some minor character. Continue reading...",
@@ -278,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-      "description": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f34d/live/afe9b330-b719-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-23T08:43:47.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-aWRlLW9mLWNoZWVzZQ",
@@ -373,18 +361,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Resident Evil movie director says he was not prepared for fan backlash",
-      "description": "The video game adaptation is a hit with critics, but director Zach Cregger says the fan response surprised him.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g525l8jwwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/72c7/live/e4eb68c0-b373-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-18T12:58:55.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
