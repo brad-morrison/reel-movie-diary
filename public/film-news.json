@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T01:04:22.039Z",
+  "generatedAt": "2026-09-25T06:49:16.549Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 28
+      "articles": 29
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-LW1vbmljYS1kb2xhbg",
+      "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
+      "description": "Catherine Corless’s exposure of almost 800 infant deaths at a home led by nuns prompted Neeson to bring the story to screen Liam Neeson still remembers his shock and shame when he read a New York Times article about the mother and baby institution in Tuam, County Galway. It was 2017 and the article chronicled the campaign by Catherine Corless , an amateur local historian, to expose abuse and neglect by Irish nuns that led to hundreds of children being buried in a mass, unmarked grave. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
+      "image": "https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3ee34f18498098be943a5628b38c64",
+      "publishedAt": "2026-09-25T06:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MjE4NTU5Lw",
+      "title": "‘Unabomber’ Review: Jacob Tremblay Stuns in a Biopic That Still Can’t Decide if Kaczynski Was Crazy",
+      "description": "Russell Crowe adds to the confusion in a biopic that gives Ted Kaczynski a dangerously tidy origin story.",
+      "url": "https://www.indiewire.com/criticism/movies/unabomber-review-netflix-1235218559/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/U_Unit_02825R-e1790300087470.jpg?w=650",
+      "publishedAt": "2026-09-25T01:08:22.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b7c4/live/d45fc990-b839-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-24T23:41:10.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-XMtMTIzNTIxODU1Ny8",
       "title": "America’s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on",
@@ -154,18 +190,6 @@
       "url": "https://www.indiewire.com/features/interviews/ed-helms-maturing-vacation-sequel-the-stunt-driver-1235218071/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294801469.jpg?w=650",
       "publishedAt": "2026-09-24T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MjE4MDM1Lw",
-      "title": "Do You Like John Travolta? Check Out ‘John Travolto’ in ‘The Face with Two Left Feet’",
-      "description": "For two years after Travolta's breakout success in \"Saturday Night Fever,\" Italian \"discoploitation\" knockoffs proliferated. Severin's new Blu-ray collection \"Disco Italiana\" collects three of the best.",
-      "url": "https://www.indiewire.com/features/commentary/disco-italiana-severin-collects-best-disoploitation-1235218035/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/greaserock.jpg.avif?w=650",
-      "publishedAt": "2026-09-24T15:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
