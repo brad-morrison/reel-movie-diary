@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:49:16.549Z",
+  "generatedAt": "2026-09-25T12:43:01.656Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -16,20 +16,80 @@
   },
   "articles": [
     {
+      "id": "indiewire-cy0xMjM1MjE4NjA5Lw",
+      "title": "‘Tiny Fugitives’ Star Johnny Knoxville Blames ‘Fun Police’ for Killing Studio Comedies",
+      "description": "Being on \"Jackass\" helped Knoxville accurately depict being electrocuted by a bunch of unruly teens.",
+      "url": "https://www.indiewire.com/news/breaking-news/johnny-knoxville-why-studios-stopped-making-comedies-1235218609/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/tiny-copy.png?w=650",
+      "publishedAt": "2026-09-25T12:22:54.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-JlcnQtcGF0dGluc29u",
+      "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
+      "description": "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl. When the journalist Chris Hansen walks in, the man’s stomach drops. He is caught, and it is the end of his life as he knew it. Hansen asks what his fate should be. “The electric chair?” he asks. No, replies Hansen. “Dateline NBC.” This is the opening scene of Primetime , a film directed by Lance Oppenheim, released in the US this week (a UK release follows on 30 October). It explores how a network news show turned sting operations into must-see television, raising a host of ethical questions about justice, voyeurism and society’s willingness to dehumanise certain offenders for profit and entertainment. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson",
+      "image": "https://i.guim.co.uk/img/media/eeee71025119e7232798f56cfffc2a12e945d94e/394_0_1860_1488/master/1860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0eccc453ea6fd22ed622e7c2dbf74678",
+      "publishedAt": "2026-09-25T12:17:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Some BBC channels and radio stations 'may well' have to close, director general says",
+      "description": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1099/live/e10e9f20-b8d6-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-25T12:00:11.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-MtZ3JldGEtZ2Vyd2ln",
+      "title": "Meryl Streep’s casting as Aslan has angered the Christian right. Don’t they have more pressing issues?",
+      "description": "The Oscar-winner is voicing Narnia’s wise lion in Greta Gerwig’s adaptation of The Magician’s Nephew, leading to roars of fury from US evangelical commentators It is a confusing time to be alive, given how often these days Hollywood indulges in revisionism. Who knew that the Wicked Witch of the West was the heroine after all, that Cruella de Vil simply had a difficult childhood , or that Mufasa was adopted ? Now it turns out that Aslan, CS Lewis’s messiah with a mane, is a lioness – or at least, may sound like one in Greta Gerwig’s upcoming adaptation of The Magician’s Nephew, because Meryl Streep is providing the voice. News that the Oscar-winner might be portraying Narnia’s Christ-like big cat first surfaced in April last year , prompting a flurry of complaints from conservative Christians. This week, the naysayers were back after Empire published a first look at the film , along with an interview with Gerwig in which the director confirmed the casting and explained her choice of actor. Streep, it turns out, was hired not because the Barbie director desperately fancied stoking the flames of controversy, but because she needed someone over 70 who could convey both wisdom and childlike wonder. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
+      "image": "https://i.guim.co.uk/img/media/4f497d0890904cc92c2d1d356f56daf503c4f9a9/941_166_1923_1540/master/1923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=53f5c88db72351c0d6f783cf37f9123d",
+      "publishedAt": "2026-09-25T11:50:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
+    {
       "id": "guardian-LW1vbmljYS1kb2xhbg",
       "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
       "description": "Catherine Corless’s exposure of almost 800 infant deaths at a home led by nuns prompted Neeson to bring the story to screen Liam Neeson still remembers his shock and shame when he read a New York Times article about the mother and baby institution in Tuam, County Galway. It was 2017 and the article chronicled the campaign by Catherine Corless , an amateur local historian, to expose abuse and neglect by Irish nuns that led to hundreds of children being buried in a mass, unmarked grave. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
       "image": "https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3ee34f18498098be943a5628b38c64",
-      "publishedAt": "2026-09-25T06:00:42.000Z",
+      "publishedAt": "2026-09-25T09:53:48.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
     },
     {
+      "id": "guardian-bi05NS15ZWFycy1vbg",
+      "title": "My dad was a monster! Sara Karloff on reviving Frankenstein, 95 years on",
+      "description": "Boris Karloff’s daughter and composer Michael Shapiro, whose musical score for the 1931 film is finally coming to London, talk about how it became a much-loved classic Once seen, never forgotten – the 1931 Frankenstein is 95 years old, but still one of the most instantly recognisable of classic horrors. Whether it’s the sight of lanky Boris Karloff lumbering into the frame with his squared-off head, neck bolts and oversized leaden shoes, or the sound of a thunderclap and Colin Clive exclaiming “It’s alive!” as the monster comes to life one stormy night in the laboratory – the film still raises hairs on the back of the neck. However, this classic has arguably long been missing one element: a continuous musical soundtrack – the original movie had dialogue but no music. In 2001, the American composer Michael Shapiro wrote a full-length score, which he will be conducting alongside the film for the first time in London next month, at Cadogan Hall with the Royal Philharmonic Orchestra. “It becomes one artistic expression, one artistic experience,” he says. “The film and the music, together, and the audience forgets that I am there.” Shapiro says his music emphasises what is already up on the screen. “Suddenly the film jumps out in a way it never did before.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/25/my-dad-was-a-monster-sara-karloff-on-reviving-frankenstein-95-years-on",
+      "image": "https://i.guim.co.uk/img/media/47ced4e0a3f3f6848f6301549289ffee8627102e/0_79_864_691/master/864.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04e657d059d010b0085baa0992ab304c",
+      "publishedAt": "2026-09-25T07:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
       "id": "indiewire-eC0xMjM1MjE4NTU5Lw",
-      "title": "‘Unabomber’ Review: Jacob Tremblay Stuns in a Biopic That Still Can’t Decide if Kaczynski Was Crazy",
+      "title": "‘Unabomber’ Review: Jacob Tremblay Stuns in a Biopic That Still Can’t Decide If Kaczynski Was Crazy",
       "description": "Russell Crowe adds to the confusion in a biopic that gives Ted Kaczynski a dangerously tidy origin story.",
       "url": "https://www.indiewire.com/criticism/movies/unabomber-review-netflix-1235218559/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/U_Unit_02825R-e1790300087470.jpg?w=650",
@@ -184,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMTgwNzEv",
-      "title": "Ed Helms Might Be Growing Into More ‘Maturing Adult’ Roles, but He’s Still Ready for That ‘Vacation’ Sequel",
-      "description": "The \"Office\" and \"Hangover\" actor is starting to embrace roles in which he's the grown-up in the room, like in the fact-based \"The Stunt Driver,\" but that doesn't mean the silly stuff is behind him.",
-      "url": "https://www.indiewire.com/features/interviews/ed-helms-maturing-vacation-sequel-the-stunt-driver-1235218071/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294801469.jpg?w=650",
-      "publishedAt": "2026-09-24T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-NvdHRpc2gtZW1pbmVt",
       "title": "‘I get lost going to the bathroom’: John Hannah on world travel, stealing props and being ‘the Scottish Eminem’",
       "description": "The Four Weddings and a Funeral actor answers your questions on being confused with James Nesbitt, his own Sliding Doors moment and a new perspective since turning 60 How often do you get asked to recite that WH Auden poem from Four Weddings and a Funeral , and can you do it from memory right now? mattyjj and simoit Not for a long time. I could probably do the first couple of lines: Stop all the clocks, cut off the telephone / Prevent the dog from barking with a juicy bone / Turn out the lights? And with muffled drums / Something, something … let the mourners come. There you go. Terrible! In Steve Coogan ’s Paul Calf’s Video Diary, your character praises Orson Welles’ The Trial for its “tremendous energy”, while Paul says he would “rather watch Dave Lee Travis playing Macbeth”. What’s your actual opinion of The Trial [by Franz Kafka]? AdrianH1 God, it’s a long time since I’ve read that. I read a lot of those books in my younger days, but probably, like a lot of people, even those who are graduates of English literature, I’d be hard pushed these days to tell you what it was about, other than the persecution of some minor character. Continue reading...",
@@ -218,42 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-b3ItemFjaC1icmFmZg",
-      "title": "Post your questions for Zach Braff",
-      "description": "Known to many as JD in Scrubs, Zach Braff has forged a path as a successful writer and director since the release of his acclaimed 2004 indie film Garden State. Now’s your chance to ask him your burning questions There’s much more to Zach Braff than hospital scrubs and hair that could keep the entire mousse industry afloat. His second career as a film-maker got off to quite the start with his 2004 directorial debut Garden State , which he also wrote and starred in. Shot for just $2.5m, it went on to make more than $35m worldwide, pick up over three dozen award nominations and earn Braff a Grammy for compiling its soundtrack, featuring the Shins, Coldplay and Nick Drake. Then as a film actor he has also popped up in everything from 2000 gay ensemble comedy-drama The Broken Hearts Club, alongside Timothy Olyphant, and 2006 romantic drama The Last Kiss, opposite Jacinda Barrett , to 2006 workplace romcom The Ex, with Jason Bateman, and 2016 John Steinbeck adaptation In Dubious Battle , directed by James Franco. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/post-your-questions-for-zach-braff",
-      "image": "https://i.guim.co.uk/img/media/275c442b935516a0108b64429deb8e754b8727bf/398_0_4044_3235/master/4044.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2426d58227bf0fc1b582b23f45e9da43",
-      "publishedAt": "2026-09-24T09:51:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-cy1wcmVkaWN0aW9ucw",
-      "title": "Greek epics, gory obsessions and awkward invites: where does this year’s Oscars race stand?",
-      "description": "Christopher Nolan’s The Odyssey might be the one to beat but a crop of competitors is starting to materialise Reporting from fall film festivals used to be a more streamlined process – what’s good, what’s bad, what’s being sold, what has Oscars chances – but with each year, the season arrives with larger, more existential questions. The 2025 run, from Venice to Telluride to Toronto, was notably underwhelming and took place months after Sinners went from box-office hit to legitimate contender and at the same time as One Battle After Another skipped festivals and went on to win best picture . The pipeline that had once birthed winners such as Birdman, Spotlight, 12 Years a Slave and The King’s Speech had no longer played as big of a part with Covid-affected Nomadland being the last fall festival film to win the top prize. Even without an awards hat on, there has been a more general lack of buzz, an excitement of something new that much harder to find as more films of considerably lower quality took up underserved space. If the trades are to be believed, a lot of it is down to studios choosing against the risk of bad buzz and potential embarrassment to A-listers because for every The Shape of Water or Poor Things, there’s a White Noise or Joker: Folie à Deux. So while this season might see new films starring Tom Cruise, Timothée Chalamet, Anne Hathaway, Christian Bale, Amy Adams, Daisy Edgar-Jones, Ben Affleck and Mikey Madison, none of them are braving a festival premiere. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/oscar-movie-contenders-predictions",
-      "image": "https://i.guim.co.uk/img/media/6ef9edbb21c47e1d46814e25722df9bdbb2de8f9/1_0_1727_1382/master/1727.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d32841ec4884374d145f92e2c7ba5ff1",
-      "publishedAt": "2026-09-24T09:00:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-10aGUtYXBhcnRtZW50",
-      "title": "‘I’m a writer but then nobody’s perfect’: how Billy Wilder conquered Hollywood",
-      "description": "From émigré roots to a titan of modern cinema, penning classics such as Double Indemnity, Some Like It Hot and The Apartment, a new retrospective celebrates the father of film noir’s incredible career Like all survivors, Billy Wilder never forgot where he came from or what he had left behind. He was born at the start of the 20th century in Austria-Hungary and died at the start of the 21st in California, the inscription on his gravestone a nod to his most famous line: “I’m a writer but then nobody’s perfect.” Wilder, though, had a habit of of making flawless films throughout his career, a point proved by Almost Perfect, a comprehensive retrospective of his work, running at the BFI Southbank from 19 October until the end of the year. Wilder was an inveterate self-mythologiser, a film-maker with a brand long before there were opportunities for promotion through Instagram accounts and chicken shop dates. He told a story of living in Berlin during his fledgling years in show business and being kept awake all night by “a toilet that was on the blink”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/how-billy-wilder-conquered-hollywood-double-indemnity-some-like-it-hot-the-apartment",
-      "image": "https://i.guim.co.uk/img/media/73ef69088a4b4bbe60f9b262a8d948e716d29b73/56_0_1388_1111/master/1388.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d52885f49d9da366340e4f76c07d616",
-      "publishedAt": "2026-09-24T08:49:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-b24tZHJlYW13b3Jrcw",
@@ -522,7 +534,7 @@
     {
       "id": "guardian-GF3a2Utc3VuZGFuY2U",
       "title": "The Weight review – Ethan Hawke leads sturdy adventure set in the 30s",
-      "description": "Sundance film festival: the recent Oscar nominee lends gravitas to a decent matinee movie on gold smuggling For Ethan Hawke, 2025 was quite the year, showing impressively jarring range as both a bitter gay lyricist in Blue Moon and a demonic child-killer in Black Phone 2, both out at the same time in cinemas, a uniquely terrifying double-bill for diehards. He also led critically adored new noir series The Lowdown, airing simultaneously, all serving as reminder of how he’s one of the hardest-working established actors we have. Not many five-time Oscar nominees have made eight films in the last four years (while also directing two other films on the side). It doesn’t all hit (Raymond and Ray, anyone?) but there’s something unusually invigorating about someone with his level of fame still seeming so excited about the many different opportunities he can maximise (this is, after all, the guy who made millions from his crafty back-end deal for The Purge). He’s on far safer ground, at least as an actor, in The Weight, a conventional adventure drama about gold smuggling in the early 1930s, but his increased versatility has earned him an increase in confidence and while the work here might err more on the physical, he easily anchors the film. The Weight is screening at the Sundance film festival and is seeking distribution Continue reading...",
+      "description": "The recent Oscar nominee lends gravitas to a decent matinee movie on gold smuggling For Ethan Hawke, 2025 was quite the year, showing impressively jarring range as both a bitter gay lyricist in Blue Moon and a demonic child-killer in Black Phone 2, both out at the same time in cinemas, a uniquely terrifying double-bill for diehards. He also led critically adored new noir series The Lowdown, airing simultaneously, all serving as reminder of how he’s one of the hardest-working established actors we have. Not many five-time Oscar nominees have made eight films in the last four years (while also directing two other films on the side). It doesn’t all hit (Raymond and Ray, anyone?) but there’s something unusually invigorating about someone with his level of fame still seeming so excited about the many different opportunities he can maximise (this is, after all, the guy who made millions from his crafty back-end deal for The Purge). He’s on far safer ground, at least as an actor, in The Weight, a conventional adventure drama about gold smuggling in the early 1930s, but his increased versatility has earned him an increase in confidence and while the work here might err more on the physical, he easily anchors the film. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance",
       "image": "https://i.guim.co.uk/img/media/38f8e4ac3e816fc653fd51380068def5d1fcea14/608_0_1798_1440/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b35f1e6067915f1c8cb9e6a0899f73f8",
       "publishedAt": "2026-01-28T01:34:42.000Z",
