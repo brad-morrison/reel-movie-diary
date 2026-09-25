@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T18:36:35.022Z",
+  "generatedAt": "2026-09-25T01:04:22.039Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 28
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XMtMTIzNTIxODU1Ny8",
+      "title": "America’s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on",
+      "description": "With a credit up to 30 percent that's fully stackable, it's a \"game-changer\" that can compete with anywhere.",
+      "url": "https://www.indiewire.com/news/analysis/federal-film-tax-incentive-bill-competitive-analysis-1235218557/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/12/GettyImages-1459406413.jpg?w=650",
+      "publishedAt": "2026-09-24T23:03:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-BldHMtYW5pbWF0b3Jz",
+      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
+      "description": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and the enthusiasm of some of the bidding could have caused even the phlegmatic Gromit to show surprise. Fans of Wallace and Gromit and other beloved creations of Aardman Animations seized the chance to grab souvenirs when more than 200 pieces – including Wallace, Gromit, Shaun the Sheep and Chicken Run puppets from Aardman productions – went under the hammer on Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
+      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46ccdceb560b5be025e4c910307afd7b",
+      "publishedAt": "2026-09-24T21:41:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XQtMTIzNTIxODE0MC8",
+      "title": "Bill Hader to Share Details About Directing His First Feature at IndieWire’s Future of Filmmaking Summit",
+      "description": "Hader will participate in a one-on-one conversation with IndieWire about his upcoming horror film 'They Know' at the Los Angeles event on October 17.",
+      "url": "https://www.indiewire.com/news/events/bill-hader-indiewire-future-of-filmmaking-summit-1235218140/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Hader-headshot.jpg?w=650",
+      "publishedAt": "2026-09-24T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xhLTEyMzUyMTg0OTUv",
+      "title": "How New York Film Festival Landed Movies Like Controversial OpenAI Biopic ‘Artificial’ and Toho’s ‘Godzilla Minus Zero’",
+      "description": "The festival's artistic director walks IndieWire through this year's highlights and buzziest scoops, like the world premiere of Luca Guadagnino's \"Artificial.\" Several titles are also seeking distribution out of NYFF, including Ira Sachs' AIDS-era New York City drama \"The Man I Love.\"",
+      "url": "https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDARTI_EC022.jpg?w=650",
+      "publishedAt": "2026-09-24T19:10:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NrLTEyMzUyMTgyOTgv",
+      "title": "A24’s ‘V/H/S’ Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback",
+      "description": "Admins with the SCP Foundation Wiki tell IndieWire their work is covered by a Creative Commons License — and that it should be respected.",
+      "url": "https://www.indiewire.com/news/analysis/a24-vhs-movie-scp-foundation-licensing-pushback-1235218298/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/MCDVHSS_EC005.jpg?w=650",
+      "publishedAt": "2026-09-24T18:46:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-dy0xMjM1MjE2NjI3Lw",
       "title": "‘Your Mother Your Mother Your Mother’ Review: Faith, Family, and Firearms Drive Bassam Tariq’s Intriguingly Strange Action-Drama",
@@ -41,7 +101,7 @@
     },
     {
       "id": "indiewire-N0LTEyMzUyMTgzMTIv",
-      "title": "Can Brad Pitt and a Cute Dog Salvage Paramount’s Brutal Year at the Box Office?",
+      "title": "Can Brad Pitt and a Cute Dog Save Paramount’s Year at the Box Office?",
       "description": "While Paramount CEO David Ellison enjoys his WarnerMount merger win, the studio's 2026 box office is not a pretty picture. Enter \"Heart of the Beast.\"",
       "url": "https://www.indiewire.com/news/box-office/can-brad-pitt-dog-movie-save-paramount-heart-of-the-beast-1235218312/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA032.jpg?w=650",
@@ -124,42 +184,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-1zLTEyMzUyMTgzODQv",
-      "title": "Jonás Cuarón’s SXSW Audience-Winning ‘Campeón Gabacho’ Acquired by Janus Films for North America",
-      "description": "Exclusive: The writer/director's Bronx-set immigrant fantasia won the Audience Award at South by Southwest 2026 and will next play Beyond Fest in Los Angeles",
-      "url": "https://www.indiewire.com/news/general-news/jonas-cuaron-campeon-gabacho-acquired-janus-films-1235218384/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/Campeon-Gabacho.png?w=650",
-      "publishedAt": "2026-09-24T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE4NDE1Lw",
-      "title": "‘Madden’ Trailer: Nicolas Cage Becomes the NFL’s Most Iconic Coach for David O. Russell",
-      "description": "He's joined by Christian Bale, Kathryn Hahn, and John Mulaney in the Amazon MGM film, which opens on November 11.",
-      "url": "https://www.indiewire.com/news/trailers/madden-trailer-nicolas-cage-1235218415/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Nicolas-Cage-John-Madden-and-Christian-Bale-Al-Davis-in-MADDEN-Photo-Credit-Chuck-Zlotnick-_-Prime-Amazon-Content-Services-LLC.jpg?w=650",
-      "publishedAt": "2026-09-24T13:30:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIxODE4Mi8",
-      "title": "‘My Sad Dead’ Review: Pablo Larraín’s Eerie Netflix Ghost Story Just Wants Us to Listen",
-      "description": "A recently retired doctor tries to grieve her mother's passing, protect her neglected community, and connect with her family, all while hounded by loud, tortured spirits who are aching to be heard.",
-      "url": "https://www.indiewire.com/criticism/shows/my-sad-dead-review-netflix-series-pablo-larrain-1235218182/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/My-Sad-Dead-Netflix-series-release-date.jpg?w=650",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-N1bWVudGFyeS1uYXph",
       "title": "Global release announced for acclaimed Gaza documentary NAZA",
       "description": "Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website NAZA, the award-winning documentary from Israeli film-makers Yuval Abraham and Rachel Szor, is set to be released in cinemas in more than 50 countries before a digital global release on theguardian.com. The film, which the Guardian produced, premiered at the Venice film festival earlier this month, where it was met with a 25-minute standing ovation – a festival record. The documentary went on to win the special jury prize . Continue reading...",
@@ -220,30 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-lhLTEyMzUyMTYxNTgv",
-      "title": "This Single DVD Is Traveling Around the Country to Find a Sweet Indie Film Its Audience",
-      "description": "After struggling to break through on the festival circuit, Matthew James Thompson packed his debut feature, \"Handle With Care,\" into a mysterious case that's been bringing strangers together ever since.",
-      "url": "https://www.indiewire.com/features/interviews/handle-with-care-dvd-traveling-indie-film-physical-media-1235216158/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.35.55-AM.png?w=650",
-      "publishedAt": "2026-09-23T22:02:44.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-b24tYWRhcHRhdGlvbg",
-      "title": "Manhunter review – Michael Mann serves up a bold and queasy starter to the serial killer spectacle",
-      "description": "Before Anthony Hopkins’ Dr Lecter in The Silence of the Lambs, Brian Cox played a cannibalistic killer in Mann’s pioneering Red Dragon adaptation Five years before The Silence of the Lambs, there was writer-director Michael Mann’s pioneering Thomas Harris adaptation Manhunter, now on re-release in a director’s “final cut” for its 40th anniversary. It was his version of Harris’s 1981 novel Red Dragon, a movie which features Dr Hannibal Lecter (here spelt Lecktor) in a relatively minor part, and played in a much more coolly matter-of-fact and downbeat way by Brian Cox, who is first discovered in his cell lying down with his back to the camera. It has long been a haughty, hipster film-bro affectation to claim that Cox is better in the role than Anthony Hopkins. (Lecktor’s early acoustic stuff was great, you see, before he went electric as Lecter.) I think that’s a bit obtuse, for all that Cox is of course very good. Hopkins in The Silence of the Lambs is the definitive version: face it. But I will concede that Cox is more interesting than Hopkins by the time the latter came to make the 2002 adaptation of Red Dragon, at which stage the franchise had become a bit tired. Manhunter itself is a very interesting and watchable movie, but feels a little unevolved compared to Jonathan Demme’s masterly guignol spectacle, although Demme clearly inhaled Mann’s excitement at jets, ’copters and military hardware deployed at speed to bring down just one man. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/23/manhunter-review-brian-cox-hannibal-michael-mann-red-dragon-adaptation",
-      "image": "https://i.guim.co.uk/img/media/9bf37bb60e46359bd54af65f312a7d1b895d56ab/500_0_2340_1872/master/2340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d25477d42000910184260e7d36c9d789",
-      "publishedAt": "2026-09-23T12:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
       "description": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series.",
@@ -256,16 +256,16 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Prince and Princess of Wales share a laugh with Tom Cruise at film premiere",
-      "description": "William and Catherine renew their friendship with the Hollywood star at the premiere for his film Digger.",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f265/live/53816e50-b73f-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-23T08:42:55.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-aWRlLW9mLWNoZWVzZQ",
+      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
+      "description": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter Cameron Alexander and director David Ayer, for which the first and last words of the title have been carefully chosen to signal a mix of sentimentality and thrills. It’s an entertaining anthro-canine-mance, with man and dog relating to each other on a deep level … kind of like Owen Wilson in Marley & Me , only without Jennifer Aniston, or Bernie Winters and Schnorbitz, only without the devastating melancholy. Pitt, who last worked with Ayer on the second world war action thriller Fury , plays a US military special forces veteran called Belmont, tough, self-reliant and laconically good-humoured in the classic Pitt manner, now spending his retirement roaming the breathtaking remote landscape of Alaska in his seaplane. He is accompanied by his beloved service dog Odin, or Odey (played by four different German shepherds), who saw action with Belmont in various fuzzily imagined flashback combat sequences. Odin took retirement with Belmont and is now his best and only pal. Whether or not Belmont ever had a human partner is never revealed. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
+      "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=af49609ebfe6d1b9c0b401e7d8d7782f",
+      "publishedAt": "2026-09-22T13:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-W5pbWFsLXdlbGZhcmU",
@@ -412,6 +412,18 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-1tb3RoZXItcmV2aWV3",
+      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
+      "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
+      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fc78efc8b9a5dcec82d38a828e204be7",
+      "publishedAt": "2026-09-13T04:01:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-WJsZS1sb3ZlLW5hemE",
       "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love and NAZA",
       "description": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice film festival just redeem itself on the sexism issue? It made a really good choice for the top prize, giving it to a female director, and it’s a good winners’ list all round. Having been pilloried for failing to include enough women film-makers , the festival awarded the Golden Lion to Woman Unknown , by the Danish-Egyptian director May el-Toukhy, her gripping and stylish drama-thriller about sexual shame, political paranoia and the return of the repressed in Denmark after the second world war. Continue reading...",
@@ -460,12 +472,12 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-9uLW93ZW4td2lsc29u",
-      "title": "Runner review – Alan Ritchson and Owen Wilson thriller is serviceable B-movie camp",
-      "description": "Impressive stunts and tongue-in-cheek flourishes elevate Scott Waugh’s silly Aussie action flick Credit where credit is due: of the many, many variations on the hammy late-summer action romp, very few have applied the gonzo B-movie treatment – physics-defying car chases, knee-smashing violence and the like – to the practice of organ transportation. Donor delivery is not the direction you think things are going in upon first meeting Hank Malone, Alan Ritchson’s outlandishly muscled fixer, of sorts, in Runner, the latest attempt from faith-based distributor Angel Studios to enter the market of more straightforward base entertainment. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/runner-review-alan-ritchson-owen-wilson",
-      "image": "https://i.guim.co.uk/img/media/74828c2c5544b0946196d227b8efe6e76b3aade5/273_0_1614_1292/master/1614.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=0948e317dbe43bf2bc621b2f74e88bb1",
-      "publishedAt": "2026-09-08T11:00:01.000Z",
+      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
+      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
+      "description": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has made his feature debut with a strangely overwrought and heavy-footed drama-thriller, which for all its elaborate neon-lit atmosphere of noir danger isn’t at all sure what it wants to say about media or morality, or anything else. The subject is the controversial top-rated US TV reality show To Catch a Predator which ran from 2004 to 2008; that title was evidently taken from the Hitchcock movie To Catch a Thief, which in turn was inspired by the phrase “Set a thief to catch a thief”. In search of prey, the show’s researchers baited paedophiles in online chatrooms posing as children, lured them to “sting houses” where actors played underage teens on the front porch to get the abusers inside, where they can be clearly filmed expressing criminal intentions. But before anything could happen, sonorous host Chris Hansen appeared from nowhere and confronted these cringing abusers – which made for fantastic television. After this the cops made an arrest, and they and the state prosecutor did the heavy lifting of overseeing due process and presumably debating the merits of entrapment in court, although this obvious issue is not raised in the movie. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
+      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
+      "publishedAt": "2026-09-07T09:42:14.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -482,42 +494,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LXdhci1icm9tYW5jZQ",
-      "title": "Mayday review – Ryan Reynolds and Kenneth Branagh set cold war bromance alight",
-      "description": "An American fighter pilot teams up with a retired KGB officer for hijinks and hilarity in Soviet Russia Ryan Reynolds and Kenneth Branagh star in this goofy but entertaining action-comedy bromance set in the cold war 80s, when it seemed every red-blooded young guy in America adored Top Gun and wanted to be a US Navy fighter pilot. It’s got some outrageous close-quarter fight scenes – and who knew Branagh could bust out martial arts moves? Is he going to follow Bob Odenkirk into an unexpected action movie career? The final sequences of automotive mayhem in and around Moscow might remind you of the heady days of Roger Moore as James Bond. Reynolds is Troy Kelly (callsign “Assassin”), a supercool fighter pilot in 1987, who is always doing brave and brilliant stuff that isn’t in the rulebook, and cracking wise in the accepted Reynolds manner. But when his spy plane is shot down deep inside snowy and forested Soviet territory, Troy awakens from his coma to find himself in the log cabin of retired KGB man Nikolai Ustinov, cheerfully played by Branagh, who is a secret fan of all things American and obsessively rewatches Top Gun on samizdat VHS. He suggests to the stunned Troy that he simply stays in his cabin, watching the film with him, until the cold war is over. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/02/mayday-review-ryan-reynolds-kenneth-branagh-cold-war-bromance",
-      "image": "https://i.guim.co.uk/img/media/b9ac1c75c1002b269d9c1e0d89d05f043d62d5c3/918_0_2003_1603/master/2003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=2cd5468b0a594678b069886a67942706",
-      "publishedAt": "2026-09-02T16:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-EtYWRhbS13aW5nYXJk",
-      "title": "Onslaught review – super soldier slasher doesn’t go hard enough",
-      "description": "There’s a committed performance from a spunky Adria Arjona in the Guest director Adam Wingard’s decent B-movie but it’s missing some sharper weaponry There’s something rather fascinating about an indie director who heads to the A-list before returning to their roots, a wider skillset and different perspective gained for better or worse. Working within a stricter system – the tiniest of choices being agreed upon by the largest of committees – can often be a creatively crushing experience that we’ve heard gruesomely detailed by many who survived it but the expansion of what one is allowed to technically do with a bigger budget can also be instructive and enriching. The dream scenario is bringing back the good and allowing the bad to inspire new work that makes the most of how unshackled one again now is. There are plenty of examples of how this hasn’t worked. Neill Blomkamp following Elysium and Chappie with chintzy low-budget horror Demonic (easily his least effective film although since opening his own AI “studio” I imagine the worst is yet to come), Marc Forster following Quantum of Solace and World War Z with a blind Blake Lively film that, ironically, no one saw while Anna Boden and Ryan Fleck went from the greatness of Half Nelson to the blandness of Captain Marvel to the headache of Freaky Tales . But then we were also gifted with the hometown intimacy of Alfonso Cuarón’s Roma after he came back from space for Gravity and Hogwarts for the Prisoner of Azkaban while Karyn Kusama brushed off the nightmare of Æon Flux with the brilliantly creepy dinner party thriller The Invitation . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/31/onslaught-movie-review-adria-arjona-adam-wingard",
-      "image": "https://i.guim.co.uk/img/media/1cc0372e6b4d65dc30988d6630bfdb19e46d1d2e/772_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=798a4e434461459ce188824492bd48cd",
-      "publishedAt": "2026-08-31T16:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-5pZmVyLXNhdW5kZXJz",
-      "title": "Virginia Woolf’s Night and Day review – dreamy adaptation reaches for the stars",
-      "description": "Woolf’s novel about a headstrong young Edwardian woman takes flight under Tina Gharavi’s direction, with Timothy Spall and Jennifer Saunders among the ensemble cast Here is an adaptation, written by Justine Waddell, of Virginia Woolf’s peculiar and tonally elusive work that is all about the quarterlife crisis of a headstrong, well-born young woman in Edwardian London faced with the necessity of getting married. What emerges is a wayward, unworldly fantasia, a four-leaf clover of a film – or even five-leaf; rather beautifully designed and photographed, flavoured with a wistful, unexpectedly Germanic kind of romanticism. Waddell and Iranian-born director and Bafta nominee Tina Gharavi have creatively gone against the grain of the novel, amplifying Woolf’s single glancing reference to astronomy and making that the centre of the heroine’s yearning, perhaps playfully implanting a subconscious memory of Cole Porter’s lyrics to the song of the same title: “You are the one, only you beneath the moon, under the sun ….” And – thankfully, in my view – the film removes Woolf’s supercilious condescension towards the self-betterment of newly educated lower and middle classes, and instead focuses on a sweet-natured story, performed with conviction by its all-star ensemble cast, interspersed with dreamlike set pieces. The result is not precisely Virginia Woolf’s Night and Day; maybe more EM Forster’s Night and Day or even Ronald Firbank’s Night and Day. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jun/02/virginia-woolfs-night-and-day-review-tina-gharavi-timothy-spall-jennifer-saunders",
-      "image": "https://i.guim.co.uk/img/media/53c0590bf25a0d9c0208162ee5b99af800707abf/283_0_4924_3938/master/4924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=339a8fd8eae9257cf8c5b5e43abcb715",
-      "publishedAt": "2026-06-02T14:33:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-GF3a2Utc3VuZGFuY2U",
