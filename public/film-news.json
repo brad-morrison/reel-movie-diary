@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:44:15.607Z",
+  "generatedAt": "2026-09-26T18:34:54.490Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VzLTEyMzUyMTg3ODcv",
+      "title": "How Taylor Swift’s ‘Patient Zero’ Music Video Will (and Will Not) Impact Her Oscar Chances",
+      "description": "Taylor Swift's latest music video stars a recent Best Actor nominee, and was shot by a three-time Best Cinematography Oscar winner. Is this another bid for more film awards?",
+      "url": "https://www.indiewire.com/awards/industry/taylor-swift-patient-zero-oscar-chances-1235218787/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/HTCLP8DWMAAi64K.jpeg?w=650",
+      "publishedAt": "2026-09-26T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjE4NzYxLw",
+      "title": "Robert Eggers’ ‘Werwulf’ Drops New Trailer — and an Interactive Game",
+      "description": "Fans can participate in an online scavenger hunt tied to the phases of the moon this fall.",
+      "url": "https://www.indiewire.com/news/trailers/werwulf-second-trailer-interactive-game-1235218761/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/64c36cd0-7c40-4772-93de-18d30b243d3d.jpeg?w=650",
+      "publishedAt": "2026-09-26T15:15:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE4NzQ2Lw",
+      "title": "Inside NYFF’s Buzzy Opening Night with James Gray’s ‘Paper Tiger’",
+      "description": "Neon's \"Paper Tiger\" played well for the Lincoln Center crowd, who debated its Oscar odds at the Tavern on the Green after-party.",
+      "url": "https://www.indiewire.com/awards/industry/nyff-opening-night-paper-tiger-oscars-1235218746/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296578221.jpg?w=650",
+      "publishedAt": "2026-09-26T14:18:50.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-J5LTEyMzUyMTg3NzUv",
       "title": "Salute 25 Years of Adult Swim by Marathoning the TV Block’s Iconic ‘Infomercials’ Online",
@@ -124,18 +160,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-cy0xMjM1MjE4NjA5Lw",
-      "title": "‘Tiny Fugitives’ Star Johnny Knoxville Blames ‘Fun Police’ for Killing Studio Comedies",
-      "description": "Being on \"Jackass\" helped Knoxville accurately depict being electrocuted by a bunch of unruly teens.",
-      "url": "https://www.indiewire.com/news/breaking-news/johnny-knoxville-why-studios-stopped-making-comedies-1235218609/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/tiny-copy.png?w=650",
-      "publishedAt": "2026-09-25T12:22:54.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-JlcnQtcGF0dGluc29u",
       "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
       "description": "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl. When the journalist Chris Hansen walks in, the man’s stomach drops. He is caught, and it is the end of his life as he knew it. Hansen asks what his fate should be. “The electric chair?” he asks. No, replies Hansen. “Dateline NBC.” This is the opening scene of Primetime , a film directed by Lance Oppenheim, released in the US this week (a UK release follows on 30 October). It explores how a network news show turned sting operations into must-see television, raising a host of ethical questions about justice, voyeurism and society’s willingness to dehumanise certain offenders for profit and entertainment. Continue reading...",
@@ -196,18 +220,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-eC0xMjM1MjE4NTU5Lw",
-      "title": "‘Unabomber’ Review: Jacob Tremblay Stuns in a Biopic That Still Can’t Decide If Kaczynski Was Crazy",
-      "description": "Russell Crowe adds to the confusion in a biopic that gives Ted Kaczynski a dangerously tidy origin story.",
-      "url": "https://www.indiewire.com/criticism/movies/unabomber-review-netflix-1235218559/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/U_Unit_02825R-e1790300087470.jpg?w=650",
-      "publishedAt": "2026-09-25T01:08:22.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
       "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
@@ -217,18 +229,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIxODU1Ny8",
-      "title": "America’s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on",
-      "description": "With a credit up to 30 percent that's fully stackable, it's a \"game-changer\" that can compete with anywhere.",
-      "url": "https://www.indiewire.com/news/analysis/federal-film-tax-incentive-bill-competitive-analysis-1235218557/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/12/GettyImages-1459406413.jpg?w=650",
-      "publishedAt": "2026-09-24T23:03:49.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
