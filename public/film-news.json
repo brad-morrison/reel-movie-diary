@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T01:03:08.480Z",
+  "generatedAt": "2026-09-26T06:44:15.607Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-J5LTEyMzUyMTg3NzUv",
+      "title": "Salute 25 Years of Adult Swim by Marathoning the TV Block’s Iconic ‘Infomercials’ Online",
+      "description": "From \"Unedited Footage of a Bear\" to \"This House Has People in It,\" Cartoon Network's late-night programming oddities should outlive the TV format that inspired them.",
+      "url": "https://www.indiewire.com/features/best-of/adult-swim-infomercials-rewatch-online-anniversary-1235218775/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-4.00.53-PM.png?w=650",
+      "publishedAt": "2026-09-26T03:59:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-XctMTIzNTIxODYwNi8",
       "title": "‘The Scout’ Review: A Meditative Look at Life as an Oft-Ignored Movie Location Scout",
@@ -230,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-XQtMTIzNTIxODE0MC8",
-      "title": "Bill Hader to Share Details About Directing His First Feature at IndieWire’s Future of Filmmaking Summit",
-      "description": "Hader will participate in a one-on-one conversation with IndieWire about his upcoming horror film 'They Know' at the Los Angeles event on October 17.",
-      "url": "https://www.indiewire.com/news/events/bill-hader-indiewire-future-of-filmmaking-summit-1235218140/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Hader-headshot.jpg?w=650",
-      "publishedAt": "2026-09-24T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-NvdHRpc2gtZW1pbmVt",
