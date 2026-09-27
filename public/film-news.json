@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:12:52.525Z",
+  "generatedAt": "2026-09-27T06:46:27.858Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -61,6 +61,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Liam Neeson involved in new movie revealing story behind Tuam babies",
+      "description": "The Lost Children of Tuam, co-produced by Liam Neeson, is now in cinemas.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj063lq1jm6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bb6e/live/1070f570-b8d1-11f1-ad1f-538855f30ba1.jpg",
+      "publishedAt": "2026-09-26T05:43:54.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
