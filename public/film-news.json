@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:34:54.490Z",
+  "generatedAt": "2026-09-27T01:12:52.525Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMTg3MjAv",
+      "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
+      "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
+      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-07-09-100054.webp?w=650",
+      "publishedAt": "2026-09-27T00:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-VzLTEyMzUyMTg3ODcv",
       "title": "How Taylor Swift’s ‘Patient Zero’ Music Video Will (and Will Not) Impact Her Oscar Chances",
@@ -146,18 +158,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE4NDUzLw",
-      "title": "Filmmaker Lauren Caster Is Spending 30 Days on the Internet Convincing People to Watch Her Indie",
-      "description": "The \"Rhythm Is a Dancer\" writer/director talks about how she turned her frustrations over getting her movie seen into a marketing tool, and how she harnessed social media to make millions aware of her film.",
-      "url": "https://www.indiewire.com/features/interviews/director-lauren-caster-rhythm-is-a-dancer-interview-1235218453/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/riad_still_03-lauren-caster.jpg?w=650",
-      "publishedAt": "2026-09-25T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-JlcnQtcGF0dGluc29u",
