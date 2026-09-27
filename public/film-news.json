@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:46:27.858Z",
+  "generatedAt": "2026-09-27T12:40:45.156Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,30 @@
   },
   "articles": [
     {
+      "id": "guardian-LXRyYXBwLWZhbWlseQ",
+      "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
+      "description": "Sixty years after the film’s release, Salzburg is embracing a Hollywood classic it once kept at arm’s length Let’s start at the very beginning – famously, a very good place to start. Just two decades after the second world war, a Hollywood crew descended on Salzburg with stars, show tunes and a compelling, essentially true story of love and opposition to Adolf Hitler: The Sound of Music. Kym Karath, Debbie Turner, Angela Cartwright, Duane Chase, Heather Menzies, Nicholas Hammond, Charmian Carr and Julie Andrews in The Sound Of Music. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/27/salzburg-new-sound-of-music-museum-celebrates-true-story-of-von-trapp-family",
+      "image": "https://i.guim.co.uk/img/media/c89295dbd8ca17f0bf9901aeded91036df02ce9e/367_227_4397_3520/master/4397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1abe2bc793d26507ab58fb89d1049f38",
+      "publishedAt": "2026-09-27T05:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-WNpdHktcHJlbWllcmU",
+      "title": "NAZA film-makers address threats at documentary’s New York City premiere",
+      "description": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA , the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza, defended their findings at the film’s North American premiere in New York on Saturday, amid protests in Israel and escalating threats from Israeli officials to strip them of their citizenship. The critically acclaimed film , directed by Oscar-winning film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, features the testimony of 24 anonymized Israeli soldiers and intelligence officers involved in the surveillance and remote killing of Palestinian civilians in Gaza, who describe the AI-powered systems used to select their targets. The project takes its name from an acronym used euphemistically by Israeli intelligence to indicate how many civilians it expects to die in an airstrike , which are often conducted at night in private homes, killing many family members, including children, at once. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
+      "image": "https://i.guim.co.uk/img/media/f99511fa96fa6effe955f538724bdd141ae05a37/377_0_4788_3830/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c4a7bfe23ab2527558604e892acab3e",
+      "publishedAt": "2026-09-27T00:48:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-V3LTEyMzUyMTg3MjAv",
       "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
       "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
@@ -26,6 +50,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
+      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "description": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One , the most recent reboot featuring the 70-year-old kaiju – the version(s) from his native Japan, mind, not the Americanized one concurrently starring in a series of Warner Bros blockbusters opposite King Kong – wasn’t just another monster-movie success. It fully crossed over, becoming the highest-grossing Japanese-language movie ever released in North America, and won an Academy Award to boot for its terrific visual effects. Now. Japanese Godzilla characters are mainstream enough to pop up in Happy Meals, and the Toho -made sequel Godzilla Minus Zero is world-premiering at the New York film festival. Arguably the artsiest, brainiest of the major fall fests is playing unexpected host to a truly spectacular monster battle royale, packaged alongside some of the same thoughtful historical context that informed the previous film. Writer, director and VFX maestro Takashi Yamazaki returns for the sequel, bringing his lead characters back with him. In the previous film, former military pilot Kōichi Shikishima (Ryunosuke Kamiki) used his experience with Godzilla to overcome his guilt and shame over failing to complete a pointless kamikaze mission toward the end of the second world war – the devastation of which brought Japan back to “zero”, hence a newly emergent Godzilla bringing the country to “minus one”. Minus Zero catches up with Kōichi, his now-wife Noriko (Minami Hamabe), and their adopted daughter Akiko (Sae Nagatani) two years later, in 1949 (although Akiko somehow seems more or less the same age). Another monster threat looms over post-war Japan in the form of a dragon-like creature dubbed Ghidorah, whose menace will be familiar to kaiju fans. (Though he isn’t seen directly in trailers, this isn’t a spoiler; he’s featured from the very first scene of the film.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=28c408b70d445b2f5511072533709389",
+      "publishedAt": "2026-09-27T00:00:49.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
     },
     {
       "id": "indiewire-VzLTEyMzUyMTg3ODcv",
@@ -362,42 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-mEtZG9jdW1lbnRhcnk",
-      "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
-      "description": "As Gaza documentary wins cinematic acclaim, its directors face vitriol in Israel amid a febrile election campaign First there was a moment of stunned silence. Then, in the Sala Grande, the main screening hall of the Venice film festival within the Palazzo del Cinema, the audience stood almost as one and turned to applaud the film-makers for 25 minutes. The film the audience had watched for 80 harrowing minutes was the Gaza documentary NAZA, which has been produced by the Guardian. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/19/ovations-venice-death-threats-israel-extreme-responses-to-naza-documentary",
-      "image": "https://i.guim.co.uk/img/media/7f4696cddd8f12a4e477ae728ff4459d9231e8c5/448_86_3786_3030/master/3786.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=467d9c0ae6aed14d7749b7d8a474fc9f",
-      "publishedAt": "2026-09-19T05:00:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-1kZXJlay1iYW5idXJ5",
-      "title": "‘The man’s a psychopath when it comes to hedgerows’: Derek vs Derek, the unexpectedly heartwarming doc about farmers at war",
-      "description": "One Devon farmer, called Derek, is committed to rewilding his land. His neighbour, also a Derek, tends cattle and crops. What happened when a film-maker decided to follow the bickering pair? Derek Gow and Derek Banbury should hate each other. Gow is an outspoken rewilder widely credited with bringing back the beaver in England. As he returns his Devon sheep farm to wild nature, he&nbsp;is&nbsp;also breeding storks, wildcats, red-backed shrikes, glowworms and&nbsp;even adders to return to the countryside. Over the hedge, Banbury,&nbsp;his neighbour, is proud to be&nbsp;an intensive farmer, producing milk&nbsp;and beef cattle behind tightly clipped hedges. “It’s like he’s just gone mad,” says&nbsp;Banbury of Gow at the start of&nbsp; Derek vs Derek , an illuminating and&nbsp;unexpectedly funny new documentary that follows the pair over three years. “And the madness is now crossing the road on to my land.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/18/derek-vs-derek-farming-film-documentary-derek-gow-derek-banbury",
-      "image": "https://i.guim.co.uk/img/media/576d22b08110f4f139d7c216133ed69351ad7667/443_0_10920_8736/master/10920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de122bc9caa0f69321ee8c99adb41391",
-      "publishedAt": "2026-09-18T12:00:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-1mYWxsaW5nLWhvdXNl",
-      "title": "Iranian actor Laleh Marzban faces severe threats after Venice film festival speech",
-      "description": "Marzban, who won a best actress award for her portrayal of a woman held hostage by her father in Falling House, has received condemnations from authorities after dedicating her prize to ‘the women of Iran’ An Iranian actress who won the best newcomer award at the Venice film festival has come under severe attack from the country’s authorities and state media after highlighting the plight of women in Iran in her acceptance speech. Laleh Marzban last Saturday won the best actress award in the Orizzonti sidebar competition for emerging talent, for her role in Mohsen Gharaei’s Falling House , a film revolving around three generations of women who are incarcerated in their own home by the family’s father. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/18/iranian-actor-laheh-marzban-venice-film-festival-speech-falling-house",
-      "image": "https://i.guim.co.uk/img/media/d02329264456230ced39634db221cace4752acca/2438_180_2281_1824/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=692d25f8e1e3e79df05eeb93e0fc6571",
-      "publishedAt": "2026-09-18T09:59:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-l3b29kLW1ha2VvdmVy",
