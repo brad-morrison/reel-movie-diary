@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T12:40:45.156Z",
+  "generatedAt": "2026-09-27T18:36:03.926Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VyLTEyMzUyMTg4Njgv",
+      "title": "A24’s ‘Primetime’ Opens to Impressive $19.2 Million, Proving Robert Pattinson’s Box Office Drawing Power",
+      "description": "Pattinson's road to commercial viability has been bumpy at times, but with \"The Drama\" and \"The Odyssey,” he's having one hell of a 2026.",
+      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-opening-robert-pattinson-star-power-1235218868/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/PrimeTime.jpg?w=650",
+      "publishedAt": "2026-09-27T14:27:27.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-LXRyYXBwLWZhbWlseQ",
       "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
@@ -194,18 +206,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-JvLTEyMzUyMTgzNzIv",
-      "title": "‘The Gilded Age’ Musical Is Finally Happening — as a Christmas Album",
-      "description": "\"Voices of The Gilded Age: The Christmas Album\" puts the HBO series' cast of Broadway stars to proper use, with Audra McDonald, Carrie Coon, Christine Baranski, Kelli O'Hara, Morgan Spector, and more performing a slew of holiday classics and two new songs.",
-      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-christmas-album-cast-musical-episode-hbo-1235218372/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Gilded-Age-Christmas-Album-release-date.jpg?w=650",
-      "publishedAt": "2026-09-25T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
     },
     {
       "id": "guardian-JlcnQtcGF0dGluc29u",
