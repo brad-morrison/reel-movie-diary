@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T18:36:03.926Z",
+  "generatedAt": "2026-09-28T07:03:51.851Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-aWV3LWtlbnlhLXRlYQ",
+      "title": "Kikuyu Land review – the colonial-era misery behind our morning cup of tea",
+      "description": "The impact of colonial then corporate agricultural development is unravelled in a sobering documentary that takes a dramatic turn when a family secret is discovered The central highlands of Kenya are renowned for their lush tea plantations, which stretch as far as the eye can see. Most of the field workers come from the Kikuyu community, whose farming traditions span centuries. In Andrew Harrison Brown and Bea Wangondu’s sobering documentary, these resplendent vistas are also enshrouded in misery. Opening with a televised speech by Evelyn Baring, the colonial governor of Kenya during the 1950s , the film lays out the imperialist impetus behind Britain’s agricultural development of the country. The Kikuyu people were stripped of their ancestral lands, their labour extracted to enrich their colonisers. This system of inequality continues until now, with multinational corporations taking up the playbook of exploitation left by colonial control. An investigative journalist, Wangondu also appears on screen weaving together a multitude of narratives. There’s the decades-long struggle for justice undertaken by Mr Mungai, a pastor and activist who has fought numerous court cases to reclaim his family land. Wangondu talks to plantation workers of past and present, whose harrowing ordeals of physical and sexual violence have been swept under the carpet by both corporate indifference and government corruption. We also hear from an officer in the national intelligence service, who reveals the gruesome methods used by the state to dispose of its critics. These interviews conjure a menacing atmosphere of intimidation and retaliation, from which there seems no way out. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/28/kikuyu-land-review-kenya-tea",
+      "image": "https://i.guim.co.uk/img/media/e4cbd2c373ddcba13fbf493e95691151a86c9488/675_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a78e61e53d1c3080b8f3a6ad901fe083",
+      "publishedAt": "2026-09-28T06:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxODQ2My8",
+      "title": "‘Lanterns’ Review: Episode 7 Changes ‘The Jordan Boys’ Legacy — and Sets Up a Charged Finish",
+      "description": "The penultimate episode of \"Lanterns\" Season 1 introduces remarkable oddities like dark matter portals, dead alien worlds, and a dangerous ride across the river Styx, but it's what becomes of Hal and John's late-maturing bond that really lingers.",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-7-Sheriff-Kerry-Kane.jpg?w=650",
+      "publishedAt": "2026-09-28T02:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMTg4Njgv",
       "title": "A24’s ‘Primetime’ Opens to Impressive $19.2 Million, Proving Robert Pattinson’s Box Office Drawing Power",
@@ -196,18 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-WQtMTIzNTIxODYzNS8",
-      "title": "Congress Must Act to Support Cinemas Tax Credit and Keep Movies on Main Street",
-      "description": "In an op-ed, four independent exhibitors push for the passage of the SCREEN Act, a tax break for movie theater reinvestment.",
-      "url": "https://www.indiewire.com/news/analysis/congress-tax-credit-cinema-theater-upgrades-op-ed-1235218635/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/GettyImages-2225831945.jpg?w=650",
-      "publishedAt": "2026-09-25T14:24:01.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-JlcnQtcGF0dGluc29u",
       "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
       "description": "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl. When the journalist Chris Hansen walks in, the man’s stomach drops. He is caught, and it is the end of his life as he knew it. Hansen asks what his fate should be. “The electric chair?” he asks. No, replies Hansen. “Dateline NBC.” This is the opening scene of Primetime , a film directed by Lance Oppenheim, released in the US this week (a UK release follows on 30 October). It explores how a network news show turned sting operations into must-see television, raising a host of ethical questions about justice, voyeurism and society’s willingness to dehumanise certain offenders for profit and entertainment. Continue reading...",
@@ -242,18 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-LW1vbmljYS1kb2xhbg",
-      "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
-      "description": "Catherine Corless’s exposure of almost 800 infant deaths at a home led by nuns prompted Neeson to bring the story to screen Liam Neeson still remembers his shock and shame when he read a New York Times article about the mother and baby institution in Tuam, County Galway. It was 2017 and the article chronicled the campaign by Catherine Corless , an amateur local historian, to expose abuse and neglect by Irish nuns that led to hundreds of children being buried in a mass, unmarked grave. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
-      "image": "https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3ee34f18498098be943a5628b38c64",
-      "publishedAt": "2026-09-25T09:53:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-bi05NS15ZWFycy1vbg",
