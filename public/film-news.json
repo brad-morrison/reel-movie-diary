@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:48:33.618Z",
+  "generatedAt": "2026-09-28T18:39:49.207Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,90 @@
   },
   "articles": [
     {
+      "id": "indiewire-3QtMTIzNTIxODkyMi8",
+      "title": "Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema",
+      "description": "Exclusive: The four-day event will include an anniversary screening of \"Hoosiers\" and the premiere of \"The Greatest,\" a Prime Video series about Muhammad Ali.",
+      "url": "https://www.indiewire.com/news/general-news/dynasty-sports-film-festival-lineup-hoosiers-the-greatest-1235218922/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/02/MCDHOOS_EC004.jpg?w=650",
+      "publishedAt": "2026-09-28T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE4ODkxLw",
+      "title": "Sundance Favorite ‘Hold Onto Me’ Is Cyprus’ First-Ever Best International Feature Oscar Submission",
+      "description": "Myrsini Aristidou’s \"Hold Onto Me,\" winner of the World Cinema Dramatic Audience Award at Sundance 2026, has been chosen as the first-ever Best International Feature Oscar submission for Cyprus.",
+      "url": "https://www.indiewire.com/awards/industry/hold-onto-me-cyprus-first-best-international-feature-oscar-1235218891/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/CYPRUS_HOLD-ONTO-ME_STILL-1.jpeg?w=650",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xsLTEyMzUyMTg5MDcv",
+      "title": "Broadway Musicals Are in Crisis. Can Major League Baseball and Neil Patrick Harris Help?",
+      "description": "A revival of \"Damn Yankees,\" co-starring Julianne Hough, will partner with the sport to promote the show to its fans.",
+      "url": "https://www.indiewire.com/news/general-news/why-damn-yankees-partnering-major-league-baseball-1235218907/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-10.46.04-AM.png?w=650",
+      "publishedAt": "2026-09-28T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIxODc2NC8",
+      "title": "‘Elsinore’ Trailer: Andrew Scott Plays the Role of Another Actor’s Life in TIFF-Winning AIDS Drama",
+      "description": "The actor gives a show-stopping, heart-wrenching performance as Ian Charleson in Simon Stone's fact-based feature film.",
+      "url": "https://www.indiewire.com/news/trailers/elsinore-trailer-andrew-scott-ian-charleson-1235218764/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
+      "publishedAt": "2026-09-28T15:01:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-aC0xMjM1MjE4ODk4Lw",
+      "title": "‘La Bola Negra’ Trailer: Los Javis’ Queer Spanish Epic and Oscar Frontrunner Hits Theaters This Fall",
+      "description": "Javier Calvo and Javier Ambrossi's lavish historical drama will mark Netflix's longest theatrical window to date once the film opens on October 16.",
+      "url": "https://www.indiewire.com/news/trailers/la-bola-negra-trailer-los-javis-spanish-1235218898/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/014_LBN_20250910_0992_carlaoset_R.jpg?w=650",
+      "publishedAt": "2026-09-28T15:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-VuLTEyMzUyMTg4NzUv",
+      "title": "John Carpenter and Jamie Lee Curtis Look Back on Shooting ‘Halloween’: ‘It Was Independent Filmmaking in Its Marrow’",
+      "description": "The director and star of the 1978 horror classic appeared together at the Academy Museum to screen their masterpiece and kick off the museum's new horror exhibit.",
+      "url": "https://www.indiewire.com/news/general-news/john-carpenter-and-jamie-lee-curtis-look-back-at-halloween-1235218875/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/RH6_818215.jpg.jpeg?w=650",
+      "publishedAt": "2026-09-28T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-VnZW5kLWd3LXBhYnN0",
+      "title": "Pandora’s Legacy review – fascinating profile of silent film legend GW Pabst",
+      "description": "Through intimate letters and family interviews, this probing documentary about the Austrian film-maker reveals a complicated figure A titan of silent cinema, Austrian director GW Pabst left behind a treasure trove of classics. Working in Weimar Germany, Pabst gave Greta Garbo her second ever lead role in The Joyless Street (1925), and propelled Louise Brooks to international stardom with Pandora’s Box (1929) and Diary of a Lost Girl (1929). Attentive to the marginalised elements of society, these early triumphs exemplified the kind of free-spirited film-making that flourished before the rise of the Nazi regime. Faced with this colossal legacy, Angela Christlieb’s probing documentary takes a more winding path through Pabst’s personal archive. Through intimate letters, family albums, and interviews with his descendants, the film foregrounds the man behind the images, while bringing another figure into the spotlight: Gertrude Pabst, the director’s wife of more than 40 years. Far from a hagiographic portrait, Christlieb’s film reveals Pabst to be a complicated and patriarchal figure. His grandchildren – Marion, Daniel and Ben – describe the great film-maker as a distant figure, who instilled fear rather than love in his two sons. Pabst’s films have been praised for their modern and strong-willed female characters, yet in private he forbade Gertrude from pursuing her own acting aspirations. She also reluctantly underwent numerous abortions – seven in total – so as not to derail her husband’s career. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst",
+      "image": "https://i.guim.co.uk/img/media/f0ea152b923fe452c6836c1a26931538381f61fd/747_0_2507_2008/master/2507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=96dffb9916dbc837f78e191e9dfff69f",
+      "publishedAt": "2026-09-28T12:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-GVyLXN0ZXZlLW9yYW0",
       "title": "Crushed review – Steve Oram is priestly lead in harrowing Bangkok-set child-abduction thriller",
       "description": "A priest investigates his daughter’s kidnapping in Thailand in this Paul Schrader-esque inquiry into spiritual nihilism ‘He’s American, a little bit overweight, sweaty, a little bit camp, creepy.” As far as descriptions of border-hopping paedophiles go, this seems a little on the nose. So it’s not surprising when the man who was enquiring, priest Father Daniel (Steve Oram), responds: “Are you making this up?” Featuring a seedy child-abduction situation in Bangkok, Simon Rumley’s thriller comes close at times to bugged-out exploitation flick territory – but lets its fleet and fresh manner carry it towards a Paul Schrader-esque moral calvary. Pastor to a mixed Anglo-Thai congregation, Father Daniel has a young daughter, Olivia (Margaux Dietrich), with wife May (Nattapohn Rawddon). At a sleepover, Olivia is traumatised when her friend’s older brother shows her a “crush” video of a kitten being stomped by a scantily clad floozy. So when her own cat Missy goes awol, she is convinced the same lady is responsible, and asks her dad how God could let it happen. The family mobilise to track down Missy, but Olivia in turn disappears one day after school, kicking off Father Daniel’s own test of faith. Continue reading...",
@@ -30,7 +114,7 @@
     {
       "id": "guardian-mVlbGdvb2QtbW92aWU",
       "title": "‘Should have garnered the actor an Oscar’: why Liar Liar is my feelgood movie",
-      "description": "The latest in our series of writers paying tribute to the films they watch when they need a lift is an appreciation of Jim Carrey’s manic 90s comedy To be completely honest, whenever anybody asks what my favorite movies are, my list has some typical standbys: Goodfellas and It’s a Wonderful Life among them. The holiday classic National Lampoon’s Christmas Vacation is another. But there’s one feelgood fave on my list that always surprises people: Jim Carrey’s 1997 blockbuster Liar Liar. The movie (for the lack of a better word) lies on the bedrock of a simple premise: a lawyer and doting father is physically unable to tell an untruth due to a birthday wish. In the hands of a less competent creative team and cast, Liar Liar would have been yet another forgettable piece of 90s comedy junk; destined for the bottom of a discount VHS bin, forgotten as the years trudged on. But largely thanks to an unbelievable performance courtesy of Carrey, who was working with a smart and peppy script, the film thusly ascends into rarefied air. Continue reading...",
+      "description": "The latest in our series of writers paying tribute to the films they watch when they need a lift is an appreciation of Jim Carrey’s manic 90s comedy To be completely honest, whenever anybody asks what my favorite movies are, my list has some typical standbys: Goodfellas and It’s a Wonderful Life among them. The holiday classic National Lampoon’s Christmas Vacation is another. But there’s one feelgood fave on my list that always surprises people: Jim Carrey’s 1997 blockbuster Liar Liar. The movie (for the lack of a better word) lies on the bedrock of a simple premise: a lawyer and doting father is physically unable to tell an untruth due to a birthday wish. In the hands of a less competent creative team and cast, Liar Liar would have been yet another forgettable piece of 90s comedy junk; destined for the bottom of a discount VHS bin, forgotten as the years trudged on. But largely thanks to an unbelievable performance courtesy of Carrey, who was working with a smart and peppy script, the film ascends into rarefied air. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/sep/28/liar-liar-jim-carrey-feelgood-movie",
       "image": "https://i.guim.co.uk/img/media/720efec4946fe0af6f0abf3d8896dbf19549f79e/670_171_2392_1914/master/2392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=562ccdf1975522167b4b4bdb2b5d4cf9",
       "publishedAt": "2026-09-28T09:00:29.000Z",
@@ -100,18 +184,6 @@
       "category": "Classics"
     },
     {
-      "id": "guardian-WNpdHktcHJlbWllcmU",
-      "title": "NAZA film-makers address threats at documentary’s New York City premiere",
-      "description": "Yuval Abraham and Rachel Szor defend findings on Israel’s killing of Palestinians amid threats from Israeli officials The film-makers behind NAZA , the award-winning documentary on Israel’s systemic mass killing of Palestinians in Gaza, defended their findings at the film’s North American premiere in New York on Saturday, amid protests in Israel and escalating threats from Israeli officials to strip them of their citizenship. The critically acclaimed film , directed by Oscar-winning film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, features the testimony of 24 anonymized Israeli soldiers and intelligence officers involved in the surveillance and remote killing of Palestinian civilians in Gaza, who describe the AI-powered systems used to select their targets. The project takes its name from an acronym used euphemistically by Israeli intelligence to indicate how many civilians it expects to die in an airstrike , which are often conducted at night in private homes, killing many family members, including children, at once. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/27/naza-film-new-york-city-premiere",
-      "image": "https://i.guim.co.uk/img/media/f99511fa96fa6effe955f538724bdd141ae05a37/377_0_4788_3830/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c4a7bfe23ab2527558604e892acab3e",
-      "publishedAt": "2026-09-27T00:48:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-V3LTEyMzUyMTg3MjAv",
       "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
       "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
@@ -166,78 +238,6 @@
       "url": "https://www.indiewire.com/awards/industry/nyff-opening-night-paper-tiger-oscars-1235218746/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296578221.jpg?w=650",
       "publishedAt": "2026-09-26T14:18:50.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-J5LTEyMzUyMTg3NzUv",
-      "title": "Salute 25 Years of Adult Swim by Marathoning the TV Block’s Iconic ‘Infomercials’ Online",
-      "description": "From \"Unedited Footage of a Bear\" to \"This House Has People in It,\" Cartoon Network's late-night programming oddities should outlive the TV format that inspired them.",
-      "url": "https://www.indiewire.com/features/best-of/adult-swim-infomercials-rewatch-online-anniversary-1235218775/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-4.00.53-PM.png?w=650",
-      "publishedAt": "2026-09-26T03:59:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxODYwNi8",
-      "title": "‘The Scout’ Review: A Meditative Look at Life as an Oft-Ignored Movie Location Scout",
-      "description": "Paula González-Nasser's quiet directorial debut follows a location scout in New York City who becomes a quasi-therapist for every resident she visits.",
-      "url": "https://www.indiewire.com/criticism/movies/the-scout-review-1235218606/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/The-Scout-1.jpg?w=650",
-      "publishedAt": "2026-09-25T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTg3MTYv",
-      "title": "Three Decades Ago, He Made a Documentary About Then-Boyfriend Isaac Mizrahi — Now, Douglas Keeve Is Looking Back at ‘Unzipped’",
-      "description": "As Keeve tells IndieWire, his relationship with then-rising fashion mogul Mizrahi fell apart after he made the 1995 fashion-world doc. But the film isn't what split them in two.",
-      "url": "https://www.indiewire.com/features/interviews/isaac-mizrahi-documentary-unzipped-interview-1235218716/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/36035id_033_0003_36035id_041_w1600.jpg?w=650",
-      "publishedAt": "2026-09-25T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3otMTIzNTIxODY5MS8",
-      "title": "Stanley Kubrick’s Five Best Films, Ranked with TCM Host Ben Mankiewicz",
-      "description": "With his \"The Plot Thickens\" podcast focused on Kubrick this season, Mankiewicz joins IndieWire's own podcast \"Screen Talk\" to rank his favorites alongside co-hosts Anne Thompson and Ryan Lattanzio.",
-      "url": "https://www.indiewire.com/features/podcast/stanley-kubrick-best-movies-ranked-with-tcm-ben-mankiewicz-1235218691/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDFOOR_EC008.jpg?w=650",
-      "publishedAt": "2026-09-25T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VuLTEyMzUyMTg2OTIv",
-      "title": "A24’s ‘Primetime’ Earns $2.7 Million in Previews as Robert Pattinson’s Creepy Chris Hansen Scores at the Box Office",
-      "description": "\"Avengers: Endgame Encore\" earns a mighty $3.8 million as it returns to theaters.",
-      "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-9.05.03-AM.png?w=650",
-      "publishedAt": "2026-09-25T15:27:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-HQtMTIzNTIxODE4My8",
-      "title": "Brad Pitt and David Ayer Had None of Your Typical Film Set Comforts on the Survival Thriller ‘Heart of the Beast’",
-      "description": "Ayer tells IndieWire's Filmmaker Toolkit podcast about the challenges of telling an adventure story about a man and his dog, where the project's stripped-down nature makes every decision exponentially more important.",
-      "url": "https://www.indiewire.com/features/podcast/heart-of-the-beast-director-david-ayer-interview-brad-pitt-1235218183/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHEOF_PA006.jpg?w=650",
-      "publishedAt": "2026-09-25T15:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
