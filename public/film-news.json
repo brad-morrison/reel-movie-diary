@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:50:53.420Z",
+  "generatedAt": "2026-09-29T12:47:13.111Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Taylor Swift dominated the VMAs, but do music videos still matter?",
+      "description": "Cinematographer Melissa Cofie says their purpose has evolved with the growth of platforms like TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/cm750pyz5r0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cab0/live/e67943f0-bbf3-11f1-9074-3d74885a19d6.jpg",
+      "publishedAt": "2026-09-29T11:38:55.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-VtYm91cmctaG9ycm9y",
+      "title": "Child review – jump scares abound in twisty organ transplant fable that keeps horror at its heart",
+      "description": "This Luxembourg-made movie about a couple who venture east to save their son features some impressive film-making Stippled with first-world guilt about income inequality even between fellow EU member states, this Luxembourg-made horror sprinkles a bit of liberal fairy dust over what is otherwise a pretty straight-up, if twisty, horror setup: a grunting, inarticulate and physically disfigured big baddie stalks the normie protagonists who shouldn’t have come round these impoverished parts. Think Grand Duchy Chainsaw Massacre, though admittedly without any chainsaws. There are sullen locals, a dilapidated farmhouse full of ominous clutter, ill intentions and horrible maiming. The unlucky visitors here are former couple Greg (Malik Zidi) and Anne (Brigitte Urhausen), who are co-parenting little Leo (Leo Todesco), a pre-adolescent who is lying in a hospital bed while waiting for a crucial organ transplant. A little time has to elapse before we learn that control-freak Anne blames likable doctor Greg for Leo’s condition because he took his eyes off the kid for just long enough for him to get hit by a car. But Greg is trying to make it up to her by accompanying his ex on a trip to an unnamed eastern European country (where folks speak Bulgarian) to acquire the organ Leo needs on the black market, their glide path lubricated with lots of cash and pre-arranged bribes to border guards and the like. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/29/child-review-luxembourg-horror",
+      "image": "https://i.guim.co.uk/img/media/04a579e16454d9b53789f8afa2994271c1c3f572/972_0_2144_1716/master/2144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ed49ff1449748204e4ba82bdf23933f0",
+      "publishedAt": "2026-09-29T10:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-NvdW50cnktZXN0YXRl",
+      "title": "The Portuguese House review – picturesque, polite drama of secrets and revelations at a country estate",
+      "description": "Spanish drama about people leaving their old lives behind plays out like a literary novel, with Manolo Solo excellent as a discombobulated gardener Out of the blue, a woman walks out on her husband. Bags packed and ready to go, at the last moment she crumples up the letter she has written to him and vanishes from their Madrid flat. So begins this drama featuring not one but three characters disappearing without a trace from their lives; it sounds soap opera-ish, but mostly The Portuguese House unfolds as polite elegant drama, told with such rich novelistic detail it often feels like it’s getting into the minds of the characters. Manolo Solo gives an excellent performance as the left-behind husband, Fernando, an introspective mild-mannered geography professor. After his wife’s disappearance, Fernando goes on holiday to Portugal, where he meets a gardener called Manuel. When Manuel drops dead of a heart attack, Fernando decides – like his wife – to leave his old life behind; he assumes Manuel’s identity and takes a job as the gardener at a Portuguese country estate. The owner, Amália (Maria de Medeiros), senses that this intellectual man with glasses and a clumsy way with the loppers is not the man she hired, but doesn’t push it – possibly because she is attracted to him. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
+      "image": "https://i.guim.co.uk/img/media/f54dd16e4ca2ae6fb25b08531d2b0f97444f9a1e/365_0_2595_2076/master/2595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=bf316eb4dc44e59725f853a116d9e098",
+      "publishedAt": "2026-09-29T08:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-aWUtbGlsbHkta3J1Zw",
       "title": "April X review – Connor Storrie searches for missing twin in dystopian dream-tech sci-fi thriller",
@@ -158,30 +194,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-c29uLWV2YS1ncmVlbg",
-      "title": "Just Play Dead review – Samuel L Jackson and Eva Green punch up switchback crime caper",
-      "description": "Jackson and Green just about manage to distract viewers from the sub-par Tarantinoesque flourishes, confusing plot points and tired stereotypes Having shot five films since 2020, 82-year-old Martin Campbell is a certified member of the post-retirement director’s club that includes Ridley Scott, Martin Scorsese, Woody Allen et al. Samuel L Jackson (a mere 77) sports his worst hairdo since Jackie Brown – a grey, crimped ponytail with an undercut – in this overworked crime caper, though he is on positively cuddly form by his standards. Interrupting his retirement on a Spanish-speaking Caribbean island with the odd poisoning (seen in the intro), kingpin Jack Wolfe (Jackson) is getting antsy. Afraid the law is close behind him, he hatches a scheme with his philandering wife Nora (Eva Green): help him frame her surfer lover Chad (Jason Fernández) for his supposed murder, and they will split the big-bucks insurance payout. He covers his back for the possibility she might do him in for real by recording her saying as much. But she ropes Chad anyway into her murder conspiracy, plotting to let him take the fall – or perhaps her detective bit on the side Dani (Eoin Macken) will get there first. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/28/just-play-dead-review-samuel-jackson-eva-green",
-      "image": "https://i.guim.co.uk/img/media/988afd58c98d7569f0596d772d49da038e0222d7/323_0_3538_2832/master/3538.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c7311ae80ca542b9dcecc02284d563bf",
-      "publishedAt": "2026-09-28T08:00:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aWV3LWtlbnlhLXRlYQ",
-      "title": "Kikuyu Land review – the colonial-era misery behind our morning cup of tea",
-      "description": "The impact of colonial then corporate agricultural development is unravelled in a sobering documentary that takes a dramatic turn when a family secret is discovered The central highlands of Kenya are renowned for their lush tea plantations, which stretch as far as the eye can see. Most of the field workers come from the Kikuyu community, whose farming traditions span centuries. In Andrew Harrison Brown and Bea Wangondu’s sobering documentary, these resplendent vistas are also enshrouded in misery. Opening with a televised speech by Evelyn Baring, the colonial governor of Kenya during the 1950s , the film lays out the imperialist impetus behind Britain’s agricultural development of the country. The Kikuyu people were stripped of their ancestral lands, their labour extracted to enrich their colonisers. This system of inequality continues until now, with multinational corporations taking up the playbook of exploitation left by colonial control. An investigative journalist, Wangondu also appears on screen weaving together a multitude of narratives. There’s the decades-long struggle for justice undertaken by Mr Mungai, a pastor and activist who has fought numerous court cases to reclaim his family land. Wangondu talks to plantation workers of past and present, whose harrowing ordeals of physical and sexual violence have been swept under the carpet by both corporate indifference and government corruption. We also hear from an officer in the national intelligence service, who reveals the gruesome methods used by the state to dispose of its critics. These interviews conjure a menacing atmosphere of intimidation and retaliation, from which there seems no way out. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/28/kikuyu-land-review-kenya-tea",
-      "image": "https://i.guim.co.uk/img/media/e4cbd2c373ddcba13fbf493e95691151a86c9488/675_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=a78e61e53d1c3080b8f3a6ad901fe083",
-      "publishedAt": "2026-09-28T06:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "indiewire-nMtMTIzNTIxODQ2My8",
