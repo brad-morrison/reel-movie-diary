@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:10:16.515Z",
+  "generatedAt": "2026-09-29T06:50:53.420Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-aWUtbGlsbHkta3J1Zw",
+      "title": "April X review – Connor Storrie searches for missing twin in dystopian dream-tech sci-fi thriller",
+      "description": "The star of Heated Rivalry does his best in this in this human-trafficking yarn, which gets progressively ickier and more exploitative Sketchy in every sense of the word, this sci-fi thriller is set in the not-too-distant future in a dystopian concrete city (actually mostly Bucharest looking like itself), where life is cheap but screenwriting conceits are clearly expensive, given most of the main ones here appear to be borrowed from other movies. Brother-and-sister twins Baxter ( Connor Storrie , from Heated Rivalry ) and April (Lilly Krug) are struggling to get by and mooching around the fringes of the criminal world, doing jobs on a spectrum of legality, though nothing especially harmful to themselves or others. He does petty crimes and she makes wigs and sells downloads of her own uncannily clear dreams (a nod to neglected 90s classics Strange Days and Until the End of the World where dream tech played key roles). Unfortunately, Baxter and his screw-up associate Ronny (Tourialay Akbari) fall into debt to and afoul with local kingpin Klein (Serban Pavlu), whose persistent use of Yiddish phrases and general parsimoniousness sets up the characterisation just on the edge of antisemitism. When Baxter cleans out his and April’s joint accounts and still comes up short, someone takes April and her archive of recorded dreams/memories. Suddenly, the action jumps ahead five years in the future and April is both still missing and yet, at a local brothel, all too ubiquitous where it seems she’s been cloned to make numerous sex workers. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
+      "image": "https://i.guim.co.uk/img/media/1a1baa654e05f989bbeab0a22eb19ab76f7a4c9e/803_0_1596_1278/master/1596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e3cd74bc4fdebc909aaa9e1b52b47194",
+      "publishedAt": "2026-09-29T06:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-NrLTEyMzUyMTg5NzEv",
       "title": "‘Musk,’ ‘You Can See Everything,’ and More to Screen at Inaugural Ojai Documentary Film Festival",
@@ -206,18 +218,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
-      "description": "New York film festival: The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One , the most recent reboot featuring the 70-year-old kaiju – the version(s) from his native Japan, mind, not the Americanized one concurrently starring in a series of Warner Bros blockbusters opposite King Kong – wasn’t just another monster-movie success. It fully crossed over, becoming the highest-grossing Japanese-language movie ever released in North America, and won an Academy Award to boot for its terrific visual effects. Now. Japanese Godzilla characters are mainstream enough to pop up in Happy Meals, and the Toho -made sequel Godzilla Minus Zero is world-premiering at the New York film festival. Arguably the artsiest, brainiest of the major fall fests is playing unexpected host to a truly spectacular monster battle royale, packaged alongside some of the same thoughtful historical context that informed the previous film. Writer, director and VFX maestro Takashi Yamazaki returns for the sequel, bringing his lead characters back with him. In the previous film, former military pilot Kōichi Shikishima (Ryunosuke Kamiki) used his experience with Godzilla to overcome his guilt and shame over failing to complete a pointless kamikaze mission toward the end of the second world war – the devastation of which brought Japan back to “zero”, hence a newly emergent Godzilla bringing the country to “minus one”. Minus Zero catches up with Kōichi, his now-wife Noriko (Minami Hamabe), and their adopted daughter Akiko (Sae Nagatani) two years later, in 1949 (although Akiko somehow seems more or less the same age). Another monster threat looms over post-war Japan in the form of a dragon-like creature dubbed Ghidorah, whose menace will be familiar to kaiju fans. (Though he isn’t seen directly in trailers, this isn’t a spoiler; he’s featured from the very first scene of the film.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
-      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=28c408b70d445b2f5511072533709389",
-      "publishedAt": "2026-09-27T00:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "indiewire-VzLTEyMzUyMTg3ODcv",
