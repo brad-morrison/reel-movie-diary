@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:39:49.207Z",
+  "generatedAt": "2026-09-29T01:10:16.515Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NrLTEyMzUyMTg5NzEv",
+      "title": "‘Musk,’ ‘You Can See Everything,’ and More to Screen at Inaugural Ojai Documentary Film Festival",
+      "description": "Exclusive: \"Tiger King\" filmmakers Eric Goode and Jeremy McBride have teamed up with Ojai Playhouse owner David Berger to launch the first-ever Ojai Documentary Film Festival on October 26-30.",
+      "url": "https://www.indiewire.com/news/festivals/ojai-documentary-film-festival-inaugural-lineup-musk-1235218971/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/02-Musk-2.jpg?w=650",
+      "publishedAt": "2026-09-28T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-JlLWZvdW5kLWphcGFu",
+      "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
+      "description": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans have been set to show the film in early November in the state where it was created. Van-ar-chy, a 1919 film starring the US entertainer and film-maker Billy B Van, was rediscovered by Kohei Okita, a film student in Sendai, Japan. While researching early cinema related to the word “anarchy”, Okita bought several old film reels at an antique store in Japan and found the comedy starring Van, whom he did not recognize, according to a Van-ar-chy news release . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
+      "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb64f804c5af2bdcc31abbc35f58d6b8",
+      "publishedAt": "2026-09-28T17:25:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-3QtMTIzNTIxODkyMi8",
       "title": "Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema",
@@ -172,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LXRyYXBwLWZhbWlseQ",
-      "title": "‘A joyful place’: a new museum coaxes Austrians to embrace The Sound of Music",
-      "description": "Sixty years after the film’s release, Salzburg is embracing a Hollywood classic it once kept at arm’s length Let’s start at the very beginning – famously, a very good place to start. Just two decades after the second world war, a Hollywood crew descended on Salzburg with stars, show tunes and a compelling, essentially true story of love and opposition to Adolf Hitler: The Sound of Music. Kym Karath, Debbie Turner, Angela Cartwright, Duane Chase, Heather Menzies, Nicholas Hammond, Charmian Carr and Julie Andrews in The Sound Of Music. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/27/salzburg-new-sound-of-music-museum-celebrates-true-story-of-von-trapp-family",
-      "image": "https://i.guim.co.uk/img/media/c89295dbd8ca17f0bf9901aeded91036df02ce9e/367_227_4397_3520/master/4397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1abe2bc793d26507ab58fb89d1049f38",
-      "publishedAt": "2026-09-27T05:00:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "indiewire-V3LTEyMzUyMTg3MjAv",
       "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
       "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
@@ -230,18 +242,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE4NzQ2Lw",
-      "title": "Inside NYFF’s Buzzy Opening Night with James Gray’s ‘Paper Tiger’",
-      "description": "Neon's \"Paper Tiger\" played well for the Lincoln Center crowd, who debated its Oscar odds at the Tavern on the Green after-party.",
-      "url": "https://www.indiewire.com/awards/industry/nyff-opening-night-paper-tiger-oscars-1235218746/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296578221.jpg?w=650",
-      "publishedAt": "2026-09-26T14:18:50.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
