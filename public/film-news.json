@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:12:03.300Z",
+  "generatedAt": "2026-09-30T06:51:06.723Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-WFub3ItbW9ydGltZXI",
+      "title": "How Deep Is Your Love review – under the sea at Earth’s last frontier with the Psychedelic Elvis Worm",
+      "description": "Film-maker Eleanor Mortimer accompanies a scientific expedition to the deep Pacific, where new creatures are abundant yet threatened by sea mining For the marine biologists in this whimsical eco-documentary, the answer is about 5000 metres down. In the lab, we watch them observing, describing, and classifying the bonkers-looking creatures that survive in the freezing-cold waters of the deep sea: blobby little sea pigs and alien glow-in-the-dark sea cucumbers. It seems 90% of life in the deep sea has yet to be named, explains film-maker Eleanor Mortimer in her quirky voiceover. It is the last frontier of exploration on Earth. Mortimer accompanies a team of scientists on an expedition to the eastern Pacific. It takes the ship’s robot four hours to descend the four kilometres to the ocean floor where it trundles along, grabber claw at the ready. A biologist explains that 80% of what they bring up to the surface is new to science. And one of the film’s pleasures is watching the wonderstruck awe on their faces as they clap eyes on never-before-seen creatures. The process of acquiring a Latin name for a new discovery can take years, so in the meantime scientists give them excellent temporary names like the Headless Chicken Monster and the Psychedelic Elvis Worm. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/how-deep-is-your-love-review-nature-doc-eleanor-mortimer",
+      "image": "https://i.guim.co.uk/img/media/82783b7a3004f683f5cdabc68324809c14a6d0ab/497_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8c0dfb88c279c780537dceb71ad156cf",
+      "publishedAt": "2026-09-30T06:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-b3QtdGhlLWZ1dHVyZQ",
+      "title": "SKF advert review – let’s hope this dull AI Greta Garbo is not the future",
+      "description": "Swedish-American actor exhumed for bizarre, humourless 99 seconds that give us another reason to resent AI Poor Greta Garbo. Perhaps, in life, she thought her final indignity would be the Peter Cook and Dudley Moore TV sketch from 1970, showing Pete as the legendary recluse standing on the back of a flatbed truck as it rumbles through the crowded city streets, shouting at everyone through a megaphone: “I vant to be alone!” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
+      "image": "https://i.guim.co.uk/img/media/e28592442ebfd532c4509c09f46256372b0589d9/2533_2065_7605_6082/master/7605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=b400255c571798f69cb9530ca990606b",
+      "publishedAt": "2026-09-30T05:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-Zy0xMjM1MjE5MjU1Lw",
       "title": "Paramount’s Streaming Plans Get Some Clarity as Cindy Holland Exits with Casey Bloys Likely Taking Over",
@@ -244,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-JlLWZvdW5kLWphcGFu",
-      "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
-      "description": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans have been set to show the film in early November in the state where it was created. Van-ar-chy, a 1919 film starring the US entertainer and film-maker Billy B Van, was rediscovered by Kohei Okita, a film student in Sendai, Japan. While researching early cinema related to the word “anarchy”, Okita bought several old film reels at an antique store in Japan and found the comedy starring Van, whom he did not recognize, according to a Van-ar-chy news release . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
-      "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb64f804c5af2bdcc31abbc35f58d6b8",
-      "publishedAt": "2026-09-28T17:25:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-3QtMTIzNTIxODkyMi8",
       "title": "Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema",
       "description": "Exclusive: The four-day event will include an anniversary screening of \"Hoosiers\" and the premiere of \"The Greatest,\" a Prime Video series about Muhammad Ali.",
@@ -266,18 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-VnZW5kLWd3LXBhYnN0",
-      "title": "Pandora’s Legacy review – fascinating profile of silent film legend GW Pabst",
-      "description": "Through intimate letters and family interviews, this probing documentary about the Austrian film-maker reveals a complicated figure A titan of silent cinema, Austrian director GW Pabst left behind a treasure trove of classics. Working in Weimar Germany, Pabst gave Greta Garbo her second ever lead role in The Joyless Street (1925), and propelled Louise Brooks to international stardom with Pandora’s Box (1929) and Diary of a Lost Girl (1929). Attentive to the marginalised elements of society, these early triumphs exemplified the kind of free-spirited film-making that flourished before the rise of the Nazi regime. Faced with this colossal legacy, Angela Christlieb’s probing documentary takes a more winding path through Pabst’s personal archive. Through intimate letters, family albums, and interviews with his descendants, the film foregrounds the man behind the images, while bringing another figure into the spotlight: Gertrude Pabst, the director’s wife of more than 40 years. Far from a hagiographic portrait, Christlieb’s film reveals Pabst to be a complicated and patriarchal figure. His grandchildren – Marion, Daniel and Ben – describe the great film-maker as a distant figure, who instilled fear rather than love in his two sons. Pabst’s films have been praised for their modern and strong-willed female characters, yet in private he forbade Gertrude from pursuing her own acting aspirations. She also reluctantly underwent numerous abortions – seven in total – so as not to derail her husband’s career. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/28/pandoras-legacy-review-probing-profile-of-silent-film-legend-gw-pabst",
-      "image": "https://i.guim.co.uk/img/media/f0ea152b923fe452c6836c1a26931538381f61fd/747_0_2507_2008/master/2507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=96dffb9916dbc837f78e191e9dfff69f",
-      "publishedAt": "2026-09-28T12:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-MtZ3JldGEtZ2Vyd2ln",
