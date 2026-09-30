@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:49:50.857Z",
+  "generatedAt": "2026-09-30T18:39:15.593Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WstMTIzNTE5NDQwOS8",
+      "title": "‘Atonement’ Review: Emotionally Powerful Anti-War Film Shows That Bullets Fire Both Ways",
+      "description": "Reed Van Dyk's intimate, psychologically astute, and true portrait of the human cost of U.S. imperial violence stars Hiam Abbass and Boyd Holbrook.",
+      "url": "https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Atonement-Still-PC-Jon-Peter.webp?w=650",
+      "publishedAt": "2026-09-30T17:30:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WFuLWJveC1vZmZpY2U",
+      "title": "Gaza documentary NAZA beats Avengers Endgame: Encore to top Italian box office",
+      "description": "Award-winning, Guardian-produced film focused on Israel’s mass killing of civilians extends run after sold-out screenings NAZA, the award-winning documentary about Israel’s systemic mass killing of Palestinian civilians in Gaza, has opened at No 1 at the Italian box office, beating rival titles including Avengers Endgame: Encore, which came in at No 2. The 80-minute film was booked for a three-day run in Italy, but after sold-out auditoriums and positive audience reaction, its release window will be extended. On its opening day on Monday, the documentary took a total of €451,872, with a per site average of €1,153. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/gaza-documentary-naza-beats-avengers-endgame-encore-to-top-italian-box-office",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/277_114_2467_1973/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46412a7678c61b6d4271ea3fee4da839",
+      "publishedAt": "2026-09-30T17:11:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mUtMTIzNTIxOTI5NS8",
+      "title": "‘Project Hail Mary’ Rocketing Into Awards Season as SFFILM Gives Oscar Contender Sloan Science in Cinema Prize",
+      "description": "Phil Lord and Chris Miller's space odyssey feels like it was light-years ago, doesn't it? The Amazon MGM Best Picture vehicle is now making its awards season entrance.",
+      "url": "https://www.indiewire.com/news/general-news/project-hail-mary-sffilm-sloan-science-cinema-prize-1235219295/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDPRHA_MG018-e1790781557430.jpg?w=650",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-jctMTIzNTIxOTE3Ni8",
+      "title": "Tribeca Festival Reveals Dates and Details for 26th Edition in 2027",
+      "description": "Submissions are also now open across Features, Shorts &#38; Music Videos, Tribeca TV, Tribeca Digital Creators, Tribeca Games, Tribeca Podcasts, and Tribeca X.",
+      "url": "https://www.indiewire.com/news/festivals/tribeca-festival-dates-details-for-2027-1235219176/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2280365255.jpg?w=650",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-C13aW50ZXJib3R0b20",
+      "title": "Post your questions for Michael Winterbottom",
+      "description": "With us to mark the 24th anniversary of 24 Hour Party People, the director’s work includes everything from Cracker to A Cock and Bull Story, Wonderland to Welcome to Sarajevo. And, of course, The Trip Of course, the 90s couldn’t be any more in vogue at the minute – but the 90s couldn’t have happened without the 80s. And that’s where 24 Hour Party People comes in, Michael Winterbottom’s riotous 2002 film that charts Manchester’s music scene from the Sex Pistols’ legendary 1976 Lesser Free Trade Hall gig through Factory Records, Joy Division, New Order and into the Madchester era of Happy Mondays and the Haçienda. It’s the story of Manchester music before Oasis swaggered in and took over the world, and it stars Paddy Considine, Shirley Henderson, Andy Serkis and John Simm – plus Steve Coogan as the late broadcaster and Factory Records boss Tony Wilson. After studying English at Oxford, Winterbottom started out in television in the late 1980s, directing everything from documentaries about Ingmar Bergman to episodes of Boon and Cracker, before making his feature debut, 1995’s Butterfly Kiss – a dark road movie about a serial killer and her lover travelling across northern England. His subsequent films included 1996’s Jude, 1997 Bosnian war drama Welcome to Sarajevo, 1999 London ensemble piece Wonderland and 2000 western The Claim. Since then we’ve seen the sexually explicit 9 Songs in 2004, literary comedy A Cock and Bull Story (adapted from Tristram Shandy) with Coogan and Rob Brydon, political docudrama The Road to Guantánamo and 2010 noir thriller The Killer Inside Me. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/post-your-questions-for-michael-winterbottom",
+      "image": "https://i.guim.co.uk/img/media/601653c99d7df95b91148738e01d1141e3a7dca8/0_94_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9081c90189b935ed4936e602bf0e7b3b",
+      "publishedAt": "2026-09-30T14:17:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-2QtMTIzNTIxODY2NC8",
+      "title": "‘Psycho Killer’ Is One of the Best Films of 2026 — So Why Did Everyone Hate It?",
+      "description": "The \"Correct Opinion\" column returns to heap praise on Andrew Kevin Walker and Gavin Polone's terrifying, audacious, and unjustly maligned horror film from earlier this year.",
+      "url": "https://www.indiewire.com/features/commentary/correct-opinion-psycho-killer-movie-actually-good-1235218664/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPSKI_H3003-1.jpg?w=650",
+      "publishedAt": "2026-09-30T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Wpvc2gtaGFydG5ldHQ",
+      "title": "Verity review – Dakota Johnson leaves teethmarks as she goes back to Fifty Shades erotic thriller territory",
+      "description": "Anne Hathaway and Josh Hartnett co-star in this unconvincing mystery about a struggling writer who is asked to ghostwrite for a bestselling author The nation is crying out for a really enjoyable erotic mystery-thriller, a taste potentially at least as strong as the cosy-crime fetish currently dominating our every waking moment. The success of Paul Feig’s naughty-but-not-nice movie The Housemaid proves it. We are thirsting for a sexy encounter with a dishy yet maybe problematic nice-guy husband; we are pining for a damaged and dangerous beautiful wife; we are longing to identify with a vulnerable yet gutsy young person who finds herself in the middle of their creepy scenario and we are yearning to spend some time in a secluded luxury lakeside villa of gigantic modernist proportions down whose night-time corridors we can tremblingly tiptoe. So here is a drama, adapted by screenwriter Nick Antosca from the novel by Colleen Hoover, in which someone has such excitingly transgressive sex that they leave teeth marks on the headboard. During this film, audiences may be leaving teeth marks in the seatback in front of them. Or the back of someone’s head. But not in a good way. Dakota Johnson goes back into “Fifty Shades” ingenue-cute territory as Lowen, a struggling writer mysteriously approached by a legal team working for Verity Crawford, played by Anne Hathaway, a mega-bestselling author whose recent indisposition means that she is unable to finish her hugely lucrative novel series. Crawford’s people ask Lowen if she might be willing, in exchange for several shedloads of money, secretly to ghostwrite the rest of Crawford’s darkly saucy page-turners. Lowen agrees, largely because she is strangely drawn to Verity’s handsome, sensitive husband Jeremy, played by Josh Hartnett. She has to go and stay in their gorgeous Vermont home where she is upset to find that Verity is now immobile, using a wheelchair, and cannot speak. And she is even more upset to discover a certain manuscript by Verity which hints at a terrifying situation of which the world has no clue. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
+      "image": "https://i.guim.co.uk/img/media/aaec6ce6fbdd49e6375f52744896302b2f2f913c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=49c0a25bc8cc8b1f7352c12f69f53fb3",
+      "publishedAt": "2026-09-30T13:00:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxODE2My8",
+      "title": "‘Verity’ Review: Dakota Johnson and Anne Hathaway Co-Star in a Fun and Frigid Psycho-Thriller",
+      "description": "An obscure author is hired to ghostwrite for a catatonic lit phenom in a Colleen Hoover adaptation that explores the stories we tell ourselves about other people.",
+      "url": "https://www.indiewire.com/criticism/movies/verity-movie-review-anne-hathaway-dakota-johnson-hoover-1235218163/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/V_05529_R.jpg?w=650",
+      "publishedAt": "2026-09-30T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-V3LTEyMzUyMTkyNjYv",
       "title": "‘Digger’ Director Alejandro G. Iñárritu and Riz Ahmed on How the Year’s Riskiest Movie Captures Our Demented Reality: ‘We Are Living in a Satire’",
@@ -124,18 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-V6bWFuLW9iaXR1YXJ5",
-      "title": "Patricio Guzmán obituary",
-      "description": "Chilean film-maker whose trilogy on Augusto Pinochet’s coup brought him to international attention Hawker Hunter jets bomb the presidential palace in the Chilean capital, Santiago, setting it ablaze. It is 11 September 1973, and General Augusto Pinochet ’s bloody coup against Salvador Allende’s socialist government is under way. These are the dramatic opening images of the documentary film trilogy La Batalla de Chile (The Battle of Chile), directed by Patricio Guzmán. The three films detail the struggles of the Allende government to stay in power and promote what it termed “the peaceful road to socialism”. Filmed at the time with interviews, direct footage of demonstrations, debates about how to take the Allende government forward and opposition attacks that eventually led to Pinochet’s brutal seizure of power, it had a hard-hitting immediacy that brought Guzmán a huge audience and reputation outside Chile – although the three films remained banned for many years in his own country. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/patricio-guzman-obituary",
-      "image": "https://i.guim.co.uk/img/media/6deb81bb43f3633925d03ddfbc5198d9869be163/0_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a07bfc3ffeb5f6d7ccc39df422ad43a3",
-      "publishedAt": "2026-09-29T19:50:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-cC0xMjM1MjE5MTcyLw",
       "title": "AFI Fest Reveals 2026 Lineup: ‘Possible Love,’ Céline Sciamma’s’ Tutti Frutti,’ and 155 More Films",
       "description": "\"Bucking Fastard,\" \"All of a Sudden,\" \"A Long Winter,\" and more fall festival favorites will play AFI Fest in Hollywood.",
@@ -184,18 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-XMtMTIzNTIxOTA0Ny8",
-      "title": "Early Oscar Buzz for ‘Digger’ Was All About Tom Cruise — but Its Best Chances May Lie Elsewhere",
-      "description": "Some elements of Alejandro González Iñárritu's \"Digger\" will undeniably win favor with Oscar voters. And then there is Tom Cruise's performance.",
-      "url": "https://www.indiewire.com/features/commentary/tom-cruise-digger-oscar-chances-1235219047/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/rev-1-judy_r5_v6.0c_260709_DCDM_g1051_stills_0723_004_rec709_gamma_2-4_20260806.0441908_High_Res_JPEG.jpeg?w=650",
-      "publishedAt": "2026-09-29T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Michael Sheen says being an actor will be a disadvantage on Celebrity Traitors",
       "description": "The Hollywood actor says he is a big fan of the BBC reality show, which he will now try and win.",
@@ -206,54 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-mFsZXotaW5hcnJpdHU",
-      "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-      "description": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disappointing film of the year: an exasperatingly shallow, laborious, self-congratulatory satire with a trick up its sleeve, featuring very good actors giving not very good performances. There are moments to enjoy in Tom Cruise’s boisterous leading turn, yes, but the film’s value resides chiefly in some dreamlike and disturbing images, distorted and bulging from the screen, conjured by cinematographer Emmanuel Lubezki and production designer Dennis Gassner. An ageing, paunchy Texan oil tycoon called “Digger” Rockwell is seen fretfully getting up in the morning, cooing over his horrible old incontinent cat, taking urgent messages from underlings about a certain situation developing in his drilling station in the frozen Arctic. He is played by Tom Cruise with a wispy baldingness and various other prostheses, together with a good-ol’-boy twang and a Stetson borrowed from Slim Pickens’s bomb-riding army major in Kubrick’s Dr Strangelove. His prized possession is the battered old shovel his granddaddy used a century before, digging for black gold as a penniless young man in the lone star state. Digger likes to brandish this to make a point. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
-      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=5d8a1b7c931dde734c9348f203a90490",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE5MDUxLw",
-      "title": "‘Digger’ Review: Tom Cruise and Alejandro González Iñárritu Almost Hit Rock Bottom in Surreal Misfire About Our Collective Self-Delusion",
-      "description": "Alejandro González Iñárritu desperately needs to ditch postmodernism, but his latest comedy at least rings truer and more tragic than either \"Birdman\" or \"Bardo.\"",
-      "url": "https://www.indiewire.com/criticism/movies/digger-movie-review-tom-cruise-1235219051/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/IMG_3018.jpeg?w=650",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjE4OTU0Lw",
-      "title": "How Allison Anders Emerged from ‘Personal and Professional Hell’ to Make One of the 1990s’ Best Movies",
-      "description": "Writer/director Anders, star Illeana Douglas, producer Daniel Hassid, and music producer and composer Larry Klein look back at \"Grace of My Heart,\" a model of personal filmmaking in the studio system that looks better with every passing year.",
-      "url": "https://www.indiewire.com/features/interviews/allison-anders-illeana-douglas-on-grace-of-my-heart-1235218954/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Denise-and-Jay.jpeg?w=650",
-      "publishedAt": "2026-09-29T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjE4NDg5Lw",
-      "title": "For Mike Faist, Choosing Roles Comes Down to Big Feelings: ‘Hell Yes’ and ‘Total Dread’",
-      "description": "The \"East of Eden\" star \"fell in love\" with the dark and complex Charles Trask. As he tells IndieWire, that kind of immediate attachment and deep emotion is what drives his discerning taste, from \"Challengers\" to \"West Side Story\" and beyond.",
-      "url": "https://www.indiewire.com/features/interviews/mike-faist-east-of-eden-choosing-roles-interview-1235218489/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2296464131.jpg?w=650",
-      "publishedAt": "2026-09-29T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -277,30 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-VtYm91cmctaG9ycm9y",
-      "title": "Child review – jump scares abound in twisty organ transplant fable that keeps horror at its heart",
-      "description": "This Luxembourg-made movie about a couple who venture east to save their son features some impressive film-making Stippled with first-world guilt about income inequality even between fellow EU member states, this Luxembourg-made horror sprinkles a bit of liberal fairy dust over what is otherwise a pretty straight-up, if twisty, horror setup: a grunting, inarticulate and physically disfigured big baddie stalks the normie protagonists who shouldn’t have come round these impoverished parts. Think Grand Duchy Chainsaw Massacre, though admittedly without any chainsaws. There are sullen locals, a dilapidated farmhouse full of ominous clutter, ill intentions and horrible maiming. The unlucky visitors here are former couple Greg (Malik Zidi) and Anne (Brigitte Urhausen), who are co-parenting little Leo (Leo Todesco), a pre-adolescent who is lying in a hospital bed while waiting for a crucial organ transplant. A little time has to elapse before we learn that control-freak Anne blames likable doctor Greg for Leo’s condition because he took his eyes off the kid for just long enough for him to get hit by a car. But Greg is trying to make it up to her by accompanying his ex on a trip to an unnamed eastern European country (where folks speak Bulgarian) to acquire the organ Leo needs on the black market, their glide path lubricated with lots of cash and pre-arranged bribes to border guards and the like. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/child-review-luxembourg-horror",
-      "image": "https://i.guim.co.uk/img/media/04a579e16454d9b53789f8afa2994271c1c3f572/972_0_2144_1716/master/2144.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ed49ff1449748204e4ba82bdf23933f0",
-      "publishedAt": "2026-09-29T10:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-NrLTEyMzUyMTg5NzEv",
-      "title": "‘Musk,’ ‘You Can See Everything,’ and More to Screen at Inaugural Ojai Documentary Film Festival",
-      "description": "Exclusive: \"Tiger King\" filmmakers Eric Goode and Jeremy McBride have teamed up with Ojai Playhouse owner David Berger to launch the first-ever Ojai Documentary Film Festival on October 26-30.",
-      "url": "https://www.indiewire.com/news/festivals/ojai-documentary-film-festival-inaugural-lineup-musk-1235218971/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/02-Musk-2.jpg?w=650",
-      "publishedAt": "2026-09-28T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -350,18 +350,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "description": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
-      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b7c4/live/d45fc990-b839-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-24T23:41:10.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-BldHMtYW5pbWF0b3Jz",
