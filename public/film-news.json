@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:39:52.221Z",
+  "generatedAt": "2026-09-30T01:12:03.300Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-Zy0xMjM1MjE5MjU1Lw",
+      "title": "Paramount’s Streaming Plans Get Some Clarity as Cindy Holland Exits with Casey Bloys Likely Taking Over",
+      "description": "The head of Paramount's DTC division said in a memo that David Ellison is \"optimizing for HBO stability\" once the Warner Bros. Discovery merger is complete.",
+      "url": "https://www.indiewire.com/news/business/cindy-holland-exits-paramount-casey-bloys-streaming-1235219255/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107EGLW.jpg?w=650",
+      "publishedAt": "2026-09-29T23:49:41.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-I3LTEyMzUyMTkxOTIv",
+      "title": "Curry Barker Will Again Make Audiences Obsessed Next Summer with ‘Anything But Ghosts’ Opening May 2027",
+      "description": "Focus Features dated the \"Obsession\" director's next feature about wannabe ghost hunters for May 7, 2027.",
+      "url": "https://www.indiewire.com/news/breaking-news/curry-barker-anything-but-ghosts-release-date-may-2027-1235219192/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-1.28.28-PM.png?w=650",
+      "publishedAt": "2026-09-29T20:27:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-V6bWFuLW9iaXR1YXJ5",
+      "title": "Patricio Guzmán obituary",
+      "description": "Chilean film-maker whose trilogy on Augusto Pinochet’s coup brought him to international attention Hawker Hunter jets bomb the presidential palace in the Chilean capital, Santiago, setting it ablaze. It is 11 September 1973, and General Augusto Pinochet ’s bloody coup against Salvador Allende’s socialist government is under way. These are the dramatic opening images of the documentary film trilogy La Batalla de Chile (The Battle of Chile), directed by Patricio Guzmán. The three films detail the struggles of the Allende government to stay in power and promote what it termed “the peaceful road to socialism”. Filmed at the time with interviews, direct footage of demonstrations, debates about how to take the Allende government forward and opposition attacks that eventually led to Pinochet’s brutal seizure of power, it had a hard-hitting immediacy that brought Guzmán a huge audience and reputation outside Chile – although the three films remained banned for many years in his own country. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/29/patricio-guzman-obituary",
+      "image": "https://i.guim.co.uk/img/media/6deb81bb43f3633925d03ddfbc5198d9869be163/0_0_2430_1944/master/2430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a07bfc3ffeb5f6d7ccc39df422ad43a3",
+      "publishedAt": "2026-09-29T19:50:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cC0xMjM1MjE5MTcyLw",
+      "title": "AFI Fest Reveals 2026 Lineup: ‘Possible Love,’ Céline Sciamma’s’ Tutti Frutti,’ and 155 More Films",
+      "description": "\"Bucking Fastard,\" \"All of a Sudden,\" \"A Long Winter,\" and more fall festival favorites will play AFI Fest in Hollywood.",
+      "url": "https://www.indiewire.com/news/festivals/afi-fest-2026-lineup-1235219172/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/possible-Love_Still_R30_AAA08350_RT2.jpeg?w=650",
+      "publishedAt": "2026-09-29T19:39:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RzLTEyMzUyMTkwNTYv",
+      "title": "Producers Guild of America Elects Donna Gigliotti and Mike Farah as New Presidents",
+      "description": "Oscar winner Donna Gigliotti and Emmy winner Mike Farah have been elected Presidents of the Producers Guild of America (PGA), succeeding Donald De Line and Stephanie Allain.",
+      "url": "https://www.indiewire.com/news/general-news/pga-elects-donna-gigliotti-mike-farah-new-presidents-1235219056/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MixCollage-29-Sep-2026-01-38-PM-9322.jpg?w=650",
+      "publishedAt": "2026-09-29T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-cy0xMjM1MjE4OTU1Lw",
       "title": "After ‘Avengers Endgame: Encore,’ Infinity Vision Might Turn Out to Be a Thing",
@@ -32,7 +92,7 @@
       "title": "Why ‘Primetime’ Doesn’t Look Like Any Movie You’ve Seen Before",
       "description": "Lance Oppenheim breaks down how a colonoscopy camera, clips of early aughts TV, a leaked cam-scan of \"Die My Love,\" and Chris Hansen’s manufactured reality inspired the insane cinematography.",
       "url": "https://www.indiewire.com/features/craft/primetime-cinematography-explained-colonoscopy-camera-robert-pattinson-1235219102/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPRIM_EC078.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-2.png?w=650",
       "publishedAt": "2026-09-29T17:50:21.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -61,18 +121,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-XRpa3Rvay1kaWdnZXI",
-      "title": "The cure for doomscrolling? Why Tom Cruise stopped a woman mid-scroll",
-      "description": "Viral CCTV footage shows the star checking in on a woman he thought was in distress, but who was only engrossed in social media. Perhaps we could all use some Cruise Name: Doomscrolling interventions. Age: Very recent. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/doomscrolling-tom-cruise-woman-viral-tiktok-digger",
-      "image": "https://i.guim.co.uk/img/media/386976fa41a3c9d381f1b8b93ac1a760f0c3542f/125_0_3820_3056/master/3820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21a127b234eaf9e5397a73c414c5da2d",
-      "publishedAt": "2026-09-29T16:34:45.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -218,54 +266,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE4ODkxLw",
-      "title": "Sundance Favorite ‘Hold Onto Me’ Is Cyprus’ First-Ever Best International Feature Oscar Submission",
-      "description": "Myrsini Aristidou’s \"Hold Onto Me,\" winner of the World Cinema Dramatic Audience Award at Sundance 2026, has been chosen as the first-ever Best International Feature Oscar submission for Cyprus.",
-      "url": "https://www.indiewire.com/awards/industry/hold-onto-me-cyprus-first-best-international-feature-oscar-1235218891/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/CYPRUS_HOLD-ONTO-ME_STILL-1.jpeg?w=650",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-xsLTEyMzUyMTg5MDcv",
-      "title": "Broadway Musicals Are in Crisis. Can Major League Baseball and Neil Patrick Harris Help?",
-      "description": "A revival of \"Damn Yankees,\" co-starring Julianne Hough, will partner with the sport to promote the show to its fans.",
-      "url": "https://www.indiewire.com/news/general-news/why-damn-yankees-partnering-major-league-baseball-1235218907/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-10.46.04-AM.png?w=650",
-      "publishedAt": "2026-09-28T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIxODc2NC8",
-      "title": "‘Elsinore’ Trailer: Andrew Scott Plays the Role of Another Actor’s Life in TIFF-Winning AIDS Drama",
-      "description": "The actor gives a show-stopping, heart-wrenching performance as Ian Charleson in Simon Stone's fact-based feature film.",
-      "url": "https://www.indiewire.com/news/trailers/elsinore-trailer-andrew-scott-ian-charleson-1235218764/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
-      "publishedAt": "2026-09-28T15:01:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjE4ODk4Lw",
-      "title": "‘La Bola Negra’ Trailer: Los Javis’ Queer Spanish Epic and Oscar Frontrunner Hits Theaters This Fall",
-      "description": "Javier Calvo and Javier Ambrossi's lavish historical drama will mark Netflix's longest theatrical window to date once the film opens on October 16.",
-      "url": "https://www.indiewire.com/news/trailers/la-bola-negra-trailer-los-javis-spanish-1235218898/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/014_LBN_20250910_0992_carlaoset_R.jpg?w=650",
-      "publishedAt": "2026-09-28T15:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "guardian-VnZW5kLWd3LXBhYnN0",
