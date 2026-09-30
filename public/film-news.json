@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:51:06.723Z",
+  "generatedAt": "2026-09-30T12:49:50.857Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMTkyNjYv",
+      "title": "‘Digger’ Director Alejandro G. Iñárritu and Riz Ahmed on How the Year’s Riskiest Movie Captures Our Demented Reality: ‘We Are Living in a Satire’",
+      "description": "The \"Digger\" team on Tom Cruise's dramatic transformation and the need to keep its big twist a secret.",
+      "url": "https://www.indiewire.com/features/interviews/digger-alejandro-inarritu-riz-ahmed-tom-cruise-interview-1235219266/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P108F4AF.jpg?w=650",
+      "publishedAt": "2026-09-30T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bm5haC1taXJnaGFuaQ",
+      "title": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
+      "description": "Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights ‘I decide my past,” says a village matriarch in this intriguingly political and poetic drama from Suzannah Mirghani, making her feature debut – and with it becoming the first Sudanese woman to direct a feature. (She was forced to cancel the original shoot in Sudan when war broke out in 2023 , moving production to Egypt.) It’s a film with things to say about the long shadow of the British empire, neocolonialism, women’s rights and female genital mutilation. But it mostly says it all without undermining its sense of mystery and shivers of magic realism. We’re in present day Sudan, where village elder Al-Sit (Rabha Mohamed Mahmoud) is an iron-willed woman not to be messed with. Everyone knows the story of how as a young girl she ran the British out of town; small children in the village gleefully tell the story of how she slaughtered every single last one of them. Can it possibly be true? The trauma of her past is at the centre of the film, and Mahmoud’s witchy performance, fierce and powerful, is utterly compelling. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/cotton-queen-review-sudanese-debut-suzannah-mirghani",
+      "image": "https://i.guim.co.uk/img/media/c509466c77c63f3788f8b558c3960f1803c7d2eb/435_0_1273_1019/master/1273.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1b8ed46dca302c0c4f4f261a8d0e98bc",
+      "publishedAt": "2026-09-30T10:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
+      "publishedAt": "2026-09-30T08:59:38.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WRyby1hbG1vZG92YXI",
+      "title": "Rapture review – cult Spanish horror is a deeply strange cheese dream of cinemania",
+      "description": "Pedro Almodóvar provides a vocal cameo and his style can be traced back to this influential film This cult supernatural mystery from 1979 is a deeply strange cheese dream of a film from Spain, in which almost the entire opening 10 minutes unfolds in a jittery quiet. There are some longueurs and some pop-eyed silent-movie acting from one of its leads, yes, but also a deeply unnerving, enveloping atmosphere of dread. At least some of its fascination stems from the marginal involvement of the young Pedro Almodóvar, who did voice-overdubbing for one female character. Director Iván Zulueta was to maintain his connection with Almodóvar from then on and much of Almodóvar’s procedure can be traced back to this influential film: the rapture for movies (what a character here calls “cinemania”), the double-stranded narrative, the queer euphoria and the importance of extended flashbacks. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar",
+      "image": "https://i.guim.co.uk/img/media/eb3899628b669d67575eefc782ece55f56246f30/244_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9a4b05827f061f0c70702d3bba221df1",
+      "publishedAt": "2026-09-30T08:00:20.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-WFub3ItbW9ydGltZXI",
       "title": "How Deep Is Your Love review – under the sea at Earth’s last frontier with the Psychedelic Elvis Worm",
@@ -38,6 +86,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZWFyaW5nLWFkdmVydA",
+      "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
+      "description": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous roles She shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age. More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to consider an AI version of her taking a 21st-century film role. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+      "image": "https://i.guim.co.uk/img/media/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a0ce1efca0865f556197e376bdee016",
+      "publishedAt": "2026-09-30T05:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-Zy0xMjM1MjE5MjU1Lw",
@@ -232,30 +292,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-NvdW50cnktZXN0YXRl",
-      "title": "The Portuguese House review – picturesque, polite drama of secrets and revelations at a country estate",
-      "description": "Spanish drama about people leaving their old lives behind plays out like a literary novel, with Manolo Solo excellent as a discombobulated gardener Out of the blue, a woman walks out on her husband. Bags packed and ready to go, at the last moment she crumples up the letter she has written to him and vanishes from their Madrid flat. So begins this drama featuring not one but three characters disappearing without a trace from their lives; it sounds soap opera-ish, but mostly The Portuguese House unfolds as polite elegant drama, told with such rich novelistic detail it often feels like it’s getting into the minds of the characters. Manolo Solo gives an excellent performance as the left-behind husband, Fernando, an introspective mild-mannered geography professor. After his wife’s disappearance, Fernando goes on holiday to Portugal, where he meets a gardener called Manuel. When Manuel drops dead of a heart attack, Fernando decides – like his wife – to leave his old life behind; he assumes Manuel’s identity and takes a job as the gardener at a Portuguese country estate. The owner, Amália (Maria de Medeiros), senses that this intellectual man with glasses and a clumsy way with the loppers is not the man she hired, but doesn’t push it – possibly because she is attracted to him. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
-      "image": "https://i.guim.co.uk/img/media/f54dd16e4ca2ae6fb25b08531d2b0f97444f9a1e/365_0_2595_2076/master/2595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=bf316eb4dc44e59725f853a116d9e098",
-      "publishedAt": "2026-09-29T08:00:57.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aWUtbGlsbHkta3J1Zw",
-      "title": "April X review – Connor Storrie searches for missing twin in dystopian dream-tech sci-fi thriller",
-      "description": "The star of Heated Rivalry does his best in this in this human-trafficking yarn, which gets progressively ickier and more exploitative Sketchy in every sense of the word, this sci-fi thriller is set in the not-too-distant future in a dystopian concrete city (actually mostly Bucharest looking like itself), where life is cheap but screenwriting conceits are clearly expensive, given most of the main ones here appear to be borrowed from other movies. Brother-and-sister twins Baxter ( Connor Storrie , from Heated Rivalry ) and April (Lilly Krug) are struggling to get by and mooching around the fringes of the criminal world, doing jobs on a spectrum of legality, though nothing especially harmful to themselves or others. He does petty crimes and she makes wigs and sells downloads of her own uncannily clear dreams (a nod to neglected 90s classics Strange Days and Until the End of the World where dream tech played key roles). Unfortunately, Baxter and his screw-up associate Ronny (Tourialay Akbari) fall into debt to and afoul with local kingpin Klein (Serban Pavlu), whose persistent use of Yiddish phrases and general parsimoniousness sets up the characterisation just on the edge of antisemitism. When Baxter cleans out his and April’s joint accounts and still comes up short, someone takes April and her archive of recorded dreams/memories. Suddenly, the action jumps ahead five years in the future and April is both still missing and yet, at a local brothel, all too ubiquitous where it seems she’s been cloned to make numerous sex workers. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
-      "image": "https://i.guim.co.uk/img/media/1a1baa654e05f989bbeab0a22eb19ab76f7a4c9e/803_0_1596_1278/master/1596.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e3cd74bc4fdebc909aaa9e1b52b47194",
-      "publishedAt": "2026-09-29T06:00:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-NrLTEyMzUyMTg5NzEv",
       "title": "‘Musk,’ ‘You Can See Everything,’ and More to Screen at Inaugural Ojai Documentary Film Festival",
       "description": "Exclusive: \"Tiger King\" filmmakers Eric Goode and Jeremy McBride have teamed up with Ojai Playhouse owner David Berger to launch the first-ever Ojai Documentary Film Festival on October 26-30.",
@@ -268,16 +304,16 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-3QtMTIzNTIxODkyMi8",
-      "title": "Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema",
-      "description": "Exclusive: The four-day event will include an anniversary screening of \"Hoosiers\" and the premiere of \"The Greatest,\" a Prime Video series about Muhammad Ali.",
-      "url": "https://www.indiewire.com/news/general-news/dynasty-sports-film-festival-lineup-hoosiers-the-greatest-1235218922/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/02/MCDHOOS_EC004.jpg?w=650",
-      "publishedAt": "2026-09-28T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
+      "id": "guardian-JlLWZvdW5kLWphcGFu",
+      "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
+      "description": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans have been set to show the film in early November in the state where it was created. Van-ar-chy, a 1919 film starring the US entertainer and film-maker Billy B Van, was rediscovered by Kohei Okita, a film student in Sendai, Japan. While researching early cinema related to the word “anarchy”, Okita bought several old film reels at an antique store in Japan and found the comedy starring Van, whom he did not recognize, according to a Van-ar-chy news release . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
+      "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb64f804c5af2bdcc31abbc35f58d6b8",
+      "publishedAt": "2026-09-28T17:25:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-MtZ3JldGEtZ2Vyd2ln",
@@ -352,18 +388,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-N1bWVudGFyeS1uYXph",
-      "title": "Global release announced for acclaimed Gaza documentary NAZA",
-      "description": "Theatrical rollout across 56 territories planned for documentary about Israel’s mass killing of civilians in Gaza before film will stream on Guardian website NAZA, the award-winning documentary from Israeli film-makers Yuval Abraham and Rachel Szor, is set to be released in cinemas in more than 50 countries before a digital global release on theguardian.com. The film, which the Guardian produced, premiered at the Venice film festival earlier this month, where it was met with a 25-minute standing ovation – a festival record. The documentary went on to win the special jury prize . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/126_119_2548_2038/master/2548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f47984c3c03a8d8f7b475a96a5c6703",
-      "publishedAt": "2026-09-24T10:00:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-b24tZHJlYW13b3Jrcw",
       "title": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
       "description": "This over-controlled adventure never takes a breath or a moment to let its characters come to life Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me another example of exhausting AI-type content production in animation. You could make the same argument against plenty of live-action films of course, but it is in animation that this kind of soulless blitzkrieg tends to predominate. Forgotten Island is over-controlled and over-determined, a movie that never, or hardly ever, takes its pedal from the metal, never takes a breath or a moment to let its characters come to life. At times it seems to be aping the world of Japanese anime, but without its sense of character or capacity for calm. The story, weirdly reminiscent of The Hangover of all things, is set in the Philippines in the pre-social media 90s. Jo, voiced by R&B star HER, is a lonely and super-imaginative teen always in trouble at school; like Moana she has a wise grandma who guides her to her ancestral destiny and has captivated Jo with stories of her culture and identity – stories of the forgotten island of Nakali. Jo makes friends with similarly lonely Raissa (Liza Soberano) who like Jo is smart but with a much more focused sense of academic discipline. Continue reading...",
@@ -386,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-W5pbWFsLXdlbGZhcmU",
-      "title": "Brigitte Bardot’s personal items sell for nearly €1m at auction in Paris",
-      "description": "Dog collars, guitars and self-portraits among 285 objects, with money going to her animal welfare foundation and son An auction of the French film star turned animal rights activist Brigitte Bardot’s personal items has fetched nearly €1m (£858,000, US$1.15m, A$1.61m) in Paris, almost 20 times the estimate, according to the auction house Millon. A total of 285 objects were auctioned, ranging from straw hats, sunglasses and nightgowns to tableware and furniture from Bardot’s homes in Paris and Saint-Tropez, Agence France-Presse (AFP) reported. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/brigitte-bardot-auction-paris-animal-welfare",
-      "image": "https://i.guim.co.uk/img/media/b787d43d8f92582cf86594df3ca90ebcd51253d4/240_0_2572_2057/master/2572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06218e792b1f4769b932240cca688c26",
-      "publishedAt": "2026-09-22T07:14:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-BvbnMtYmFyYmFyaWFu",
