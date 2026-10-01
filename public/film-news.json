@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:19:22.609Z",
+  "generatedAt": "2026-10-01T06:52:23.540Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-J5LW9mLXN1cnZpdmFs",
+      "title": "Knife: The Attempted Murder of Salman Rushdie review – terrifying and inspiring story of survival",
+      "description": "Alex Gibney’s documentary follows the celebrated author’s life up to and after the attack, but what shines through is Rushdie’s remarkable courage The terrifying, inspiring story of how Salman Rushdie survived and thrived after the assassination attempt on him in New York in 2022 is the subject of this excellent documentary from Alex Gibney. It is based on Rushdie’s own memoir , narrated extensively by the author himself, and using the intimate hospital-bedside video footage shot by his wife, the poet Rachel Eliza Griffiths. There are stomach-turningly explicit shots of Rushdie’s damaged eye and also, finally, horrendous scenes of the attack itself. What emerges is Rushdie’s courage and his remarkably level-headed, calm and unafraid writerly voice insisting on the primacy of literature, freedom of expression and the life of the imagination. The film itself takes us from Rushdie’s childhood in Mumbai (with a certain unselfconscious locution of his class and background, Rushdie still calls it “Bombay”), to the years of bullying and unhappiness at an English public school, then Cambridge, London, his day job in advertising (he is cheerfully delighted by his successful campaign for Aero chocolate). Then there is writing fiction and the big breakthrough with his magic-realist creation myth Midnight’s Children. We get a lot of footage of him in black-tie at awards, which is how he appeared in the media: a crude jihadi placard actually shows him in a bow tie. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival",
+      "image": "https://i.guim.co.uk/img/media/a37be294fa69acb93c8574cd24685d011cad03aa/287_0_1308_1046/master/1308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=e5675857595a18a6cc694e143de134e6",
+      "publishedAt": "2026-10-01T06:00:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-F0cy1sZWdvLWJlbGxh",
+      "title": "‘It’s frustrating to see immoral videos do so well’: how YouTube sensation Half-Asleep Chris sent a rollercoaster to space and made Bella the cat a star",
+      "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a recreation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/oct/01/half-asleep-chris-burton-youtube-cats-lego-bella",
+      "image": "https://i.guim.co.uk/img/media/71ae237fbe1f22ecd57c57d040c8bb1a13ac57f3/506_174_5940_4754/master/5940.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afdc39ab0b56114687e241f95df432db",
+      "publishedAt": "2026-10-01T04:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-XAtMTIzNTIxOTQ1MS8",
       "title": "Indie Memphis Announces 2026 Festival Lineup, Including ‘Once Upon a Time in Harlem’ and ‘The Man I Love’",
@@ -244,18 +268,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-b3QtdGhlLWZ1dHVyZQ",
-      "title": "SKF advert review – let’s hope this dull AI Greta Garbo is not the future",
-      "description": "Swedish-American actor exhumed for bizarre, humourless 99 seconds that give us another reason to resent AI Poor Greta Garbo. Perhaps, in life, she thought her final indignity would be the Peter Cook and Dudley Moore TV sketch from 1970, showing Pete as the legendary recluse standing on the back of a flatbed truck as it rumbles through the crowded city streets, shouting at everyone through a megaphone: “I vant to be alone!” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/skf-advert-review-lets-hope-this-dull-ai-greta-garbo-is-not-the-future",
-      "image": "https://i.guim.co.uk/img/media/e28592442ebfd532c4509c09f46256372b0589d9/2533_2065_7605_6082/master/7605.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=b400255c571798f69cb9530ca990606b",
-      "publishedAt": "2026-09-30T05:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ZWFyaW5nLWFkdmVydA",
       "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
       "description": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous roles She shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age. More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to consider an AI version of her taking a 21st-century film role. Continue reading...",
@@ -410,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-LWJveC1zZXQtZmlsbQ",
-      "title": "Amanda Redman: ‘My most embarrassing moment? Getting caught doing a pretend Bafta thank you speech’",
-      "description": "The actor on a terrible accident as a toddler, her bossy nature, and feeling too old to play a Shakespearean heroine Born in Brighton, Amanda Redman, 69, studied at Bristol Old Vic theatre school. She starred in the TV comedy drama El&nbsp;C.I.D. in the 1990s, and in At Home With the Braithwaites from 2000 to 2003, a role that earned her a Bafta nomination. She played the lead in the BBC series New Tricks for a decade until 2013, and her later work includes The Trials of Jimmy Rose and The&nbsp;Good Karma Hospital. On 28&nbsp;September, her 2000 film Sexy Beast will be rereleased in a limited-edition box set. She has a daughter and lives in&nbsp;London with her second husband. When were you happiest? I am happiest when I have my daughter and granddaughter with me. Continue reading...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/19/amanda-redman-actor-sexy-beast-rerelease-box-set-film",
-      "image": "https://i.guim.co.uk/img/media/7e47902efc496fb98c3cb9f1e81081804f7f3c6d/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bfbbc542dcc882f2e9f2c080e1806e2",
-      "publishedAt": "2026-09-19T09:00:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-l3b29kLW1ha2VvdmVy",
