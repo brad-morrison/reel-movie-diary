@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:46:46.969Z",
+  "generatedAt": "2026-10-01T18:40:38.246Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,162 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-cC0xMjM1MjE5NTY4Lw",
+      "title": "Sundance Collab and Merrell Announce New Storytelling Partnership ‘It Starts Outside’",
+      "description": "The outdoor footwear brand will support filmmakers making shorts about the outdoors as part of a three-year partnership with Sundance.",
+      "url": "https://www.indiewire.com/news/general-news/sundance-merrell-storytelling-partnership-1235219568/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-01-at-10.47.47-AM.png?w=650",
+      "publishedAt": "2026-10-01T18:06:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxOTU1Ni8",
+      "title": "‘Gentle Monster’ Trailer: Léa Seydoux Faces the Horrific in Marie Kreutzer’s Child Abuse Drama",
+      "description": "The Cannes favorite sees Seydoux in one of the most demanding roles of her career.",
+      "url": "https://www.indiewire.com/news/trailers/gentle-monster-trailer-lea-seydoux-marie-kreutzer-1235219556/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/image.webp?w=650",
+      "publishedAt": "2026-10-01T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-S1hY3Rpb25zLWdhemE",
+      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+      "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systems The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources with knowledge of the military systems used in the war. The disclosure came in response to an Israel Defense Forces statement seeking to discredit the documentary. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3d00e140f734806ed90009d8449678",
+      "publishedAt": "2026-10-01T17:45:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1tb3ZpZS1yZXZpZXc",
+      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
+      "description": "No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
+      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/396_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=533f44fad3a62a2b02cabfa68eeeba4c",
+      "publishedAt": "2026-10-01T16:51:21.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WEtMTIzNTIxOTUwOC8",
+      "title": "‘Clarissa’ Trailer: Sophie Okonedo, Ayo Edebiri, and More Lead a Modern ‘Mrs Dalloway’ Set in Nigeria",
+      "description": "Neon will be releasing the Cannes favorite, directed by brothers Arie and Chuko Esiri, this December.",
+      "url": "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDCLAR_EC031.jpg?w=650",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE5NTIxLw",
+      "title": "‘Being Heumann’ to Close Middleburg Film Festival; Martin McDonagh and Seth Rogen Join 2026 Honorees",
+      "description": "The Virginia-based film festival, which will run from October 15 - 18, also announced \"La Bola Negra\" and \"Behemoth!\" as Spotlight screenings.",
+      "url": "https://www.indiewire.com/news/festivals/being-heumann-middleburg-film-festival-2026-lineup-honorees-1235219521/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MixCollage-01-Oct-2026-01-30-AM-6697.jpg?w=650",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-nRhcmllcy1yYW5rZWQ",
+      "title": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
+      "description": "From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenes Behind-the-scenes footage from Dawn of the Dead is the highlight of this aficionados-only affair, which follows the 1979 satirical zombie horror all the way through to distribution. Director George A Romero, makeup maestro Tom Savini and the occasional zombie actor shoot the breeze in the deserted shopping mall that provides the movie with its incongruous central location. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
+      "image": "https://i.guim.co.uk/img/media/007f444a69081dcdd125902f07500fdc5751ef64/2045_0_7031_5625/master/7031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b34a97c7f9de11796f71cf281b85d2b",
+      "publishedAt": "2026-10-01T15:31:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjE5NDgwLw",
+      "title": "Can Art House Theaters Use AI-Driven Data Models to Reach a More Targeted Audience?",
+      "description": "The podcast \"Inside the Arthouse\" with exhibitor Greg Laemmle and director and actor Raphael Sbarge partnered with data company Chronicle to bring their reach to the next level.",
+      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+      "publishedAt": "2026-10-01T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1yZWxheGVkLXNwYWNl",
+      "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
+      "description": "Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisis John Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in February led to a crisis for Bafta (British Academy of Film and Television Arts) and the BBC , will attend the Bafta Scotland awards and watch the ceremony from a separate “relaxed” space. In a letter sent to Bafta members on Thursday, the organisation’s chair Sara Putt and CEO Jane Millichip said that, after an independent review , Bafta had “strengthened and centralised our safeguarding, risk assessment and compliance processes” and had made arrangements in consultation with “safeguarding and inclusion experts” for Davidson’s attendance at the awards ceremony organised by Bafta’s Scottish branch, which is due to take place in November. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
+      "image": "https://i.guim.co.uk/img/media/b0d6f56dc3b9834f16ef69a6ce63ddadf9c516ee/0_0_3319_2656/master/3319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51da662627394672af37363b001f5b1c",
+      "publishedAt": "2026-10-01T14:06:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjE4NzY2Lw",
+      "title": "‘War’ Review: HBO’s Mindless, Meaningless Divorce Drama Gets Lost in the Fog of Bore",
+      "description": "In George Kay's legal anthology series, there are no good guys or bad guys — just two powerful law firms, their billionaire clients, and zero point. But one truism actually holds up in court: \"War\" is hell.",
+      "url": "https://www.indiewire.com/criticism/shows/war-review-hbo-divorce-drama-sienna-miller-dominic-west-1235218766/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/War-HBO-series-Dominic-West-Sienna-Miller.jpg?w=650",
+      "publishedAt": "2026-10-01T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XR0YWJsZS10cmFpdHM",
+      "title": "The Last First: Winter K2 review – race up second highest mountain reveals fatal cost of human ambition",
+      "description": "Amir Bar-Lev’s doc covering competing climbers trying to achieve something that has not been done before uncovers a fascinating tapestry of aspiration and folly During the Covid pandemic in 2021, a “last first” in mountaineering was achieved: the forbidding K2 mountain was scaled in winter for the first time. Amir Bar-Lev’s mountain-climbing doc tells the story of the competing climbers simultaneously hoping to reach the summit, several of whom do not survive the attempt. Far from being the straightforward survival-against-the-odds account that you might expect, this is a microcosm of some of humanity’s more regrettable traits, which rub up alongside each other in fascinatingly thorny ways. To take just one example: the Nepalese push for the summit comes at the cost of sacrificing the chummy camaraderie among the international climbers; but then again, Nepal is a nation rich in indigenous mountaineering expertise that has been relegated for decades to the role of humble assistant in a series of records set by foreigners. On the other hand, did all the climbers in the Nepalese team get equal credit, or was the lion’s share of the glory allotted to Nirmal Purja, AKA Nims , the Nepalese social media rock star who spoke fluent English and knew how to craft a headline-worthy soundbite? (In a further strange twist, Nims was killed in an avalanche this year in between the film’s world premiere at Sundance and wider release.) Did Nims’ record disrupt old patterns of privilege, subtly reinforce them in new ways – or both? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/the-last-first-winter-k2-review-race-up-second-highest-mountain-reveals-fatal-cost-of-regrettable-traits",
+      "image": "https://i.guim.co.uk/img/media/70ee125b89586e3716f7acdcdc979ae20aa2815d/316_0_2504_2004/master/2504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=a1da9b0717f923062382f1b669fe63e0",
+      "publishedAt": "2026-10-01T13:53:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1tb2xseS1tYW5uZXJz",
+      "title": "‘These early friendships are huge romances’: Extra Geography’s lessons in teenage love",
+      "description": "Rose Tremain, along with the cast and crew of a new film updating her 1950s story to the early 00s, remember the intensity of these relationships and explain why its story has not dated A few years ago, Rose Tremain was asked to name her biggest disappointment. Her reply? The film of her novel Restoration. Despite a Hollywood budget, Robert Downey Jr and Ian McKellen in the cast and a couple of Oscars, it was “a dog’s dinner”. Speaking on the phone from her home in Norfolk, Tremain is far more complimentary about a new British adaptation of her semi-autobiographical short story Extra Geography, set in a boarding school in the 1950s and first published in 2007. “I’ve been delighted by this whole project,” she says, still sounding surprised. Tremain adores the script, adapted from her elegant five-page story by playwright and Succession scriptwriter Miriam Battye. At their first meeting, Battye told her it would easily transfer to the modern day: “I felt really pleased about that,” says Tremain. “It’s not just a little relic from my past. It has relevance now.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-rose-tremain-miriam-batteye-molly-manners",
+      "image": "https://i.guim.co.uk/img/media/ecb9ac6c190f3d8f8422aa4ed53f1e7de15e147b/499_0_4978_3983/master/4978.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94697d6b89bb08ec5f159bd9b146adaa",
+      "publishedAt": "2026-10-01T13:33:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-9yLTEyMzUyMTkwODQv",
+      "title": "‘Carrie’ Review: Mike Flanagan’s Teen-Drama Take on a Horror Classic Is Too Gentle for Its Own Good",
+      "description": "Adapted as an ongoing series for Amazon, the 2026 \"Carrie\" expands its world and opens its heart to follow the titular telekinetic teenager through her jarring introduction to a \"normal\" American high school.",
+      "url": "https://www.indiewire.com/criticism/shows/carrie-2026-review-mike-flanagan-amazon-series-not-horror-1235219084/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Carrie-2026-series-Summer-H.-Howell-Samantha-Sloyan-e1790721836599.jpg?w=650",
+      "publishedAt": "2026-10-01T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-2l0aC1yZWFsLWJpdGU",
       "title": "Derek vs Derek review – farmers go head to head in rewilding rivalry with real bite",
@@ -88,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-J5LW9mLXN1cnZpdmFs",
-      "title": "Knife: The Attempted Murder of Salman Rushdie review – terrifying and inspiring story of survival",
-      "description": "Alex Gibney’s documentary follows the celebrated author’s life up to and after the attack, but what shines through is Rushdie’s remarkable courage The terrifying, inspiring story of how Salman Rushdie survived and thrived after the assassination attempt on him in New York in 2022 is the subject of this excellent documentary from Alex Gibney. It is based on Rushdie’s own memoir , narrated extensively by the author himself, and using the intimate hospital-bedside video footage shot by his wife, the poet Rachel Eliza Griffiths. There are stomach-turningly explicit shots of Rushdie’s damaged eye and also, finally, horrendous scenes of the attack itself. What emerges is Rushdie’s courage and his remarkably level-headed, calm and unafraid writerly voice insisting on the primacy of literature, freedom of expression and the life of the imagination. The film itself takes us from Rushdie’s childhood in Mumbai (with a certain unselfconscious locution of his class and background, Rushdie still calls it “Bombay”), to the years of bullying and unhappiness at an English public school, then Cambridge, London, his day job in advertising (he is cheerfully delighted by his successful campaign for Aero chocolate). Then there is writing fiction and the big breakthrough with his magic-realist creation myth Midnight’s Children. We get a lot of footage of him in black-tie at awards, which is how he appeared in the media: a crude jihadi placard actually shows him in a bow tie. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival",
-      "image": "https://i.guim.co.uk/img/media/a37be294fa69acb93c8574cd24685d011cad03aa/287_0_1308_1046/master/1308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=e5675857595a18a6cc694e143de134e6",
-      "publishedAt": "2026-10-01T06:00:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-F0cy1sZWdvLWJlbGxh",
       "title": "‘It’s frustrating to see immoral videos do so well’: how YouTube sensation Half-Asleep Chris sent a rollercoaster to space and made Bella the cat a star",
       "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a re-creation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
@@ -170,126 +314,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIxODcxNC8",
-      "title": "Paramount and Warner Bros. Discovery Merger Clears Last Hurdle as Judge Approves Antitrust Settlement",
-      "description": "The merger is now expected to close as early as October 6.",
-      "url": "https://www.indiewire.com/news/breaking-news/paramount-last-hurdle-merger-warner-bros-discovery-1235218714/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
-      "publishedAt": "2026-09-30T20:08:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxOTQzMy8",
-      "title": "‘The Lowdown’ Season 2 Trailer: Tommy Lee Jones and Betty Gilpin Joins Ethan Hawke for Another Tulsa Conspiracy",
-      "description": "The first two episodes premiere on FX and Hulu on Wednesday, October 14.",
-      "url": "https://www.indiewire.com/news/trailers/the-lowdown-season-2-trailer-1235219433/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-12.14.47-PM.png?w=650",
-      "publishedAt": "2026-09-30T20:07:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIxOTMyNy8",
-      "title": "IndieWire and Disney to Celebrate Emmy Rossum and the Cast of ‘Furious’ at Special Pass the Remote Screening",
-      "description": "Rossum will be joined by co-stars Scoot McNairy, Quincy Tyler Bernstine, and Steve Way and composer Ariel Marx at Vidiots Foundation in Los Angeles on October 16.",
-      "url": "https://www.indiewire.com/news/events/indiewire-disney-furious-screening-vidiots-1235219327/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-11.34.08-AM.png?w=650",
-      "publishedAt": "2026-09-30T18:59:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-WstMTIzNTE5NDQwOS8",
-      "title": "‘Atonement’ Review: Emotionally Powerful Anti-War Film Shows That Bullets Fire Both Ways",
-      "description": "Reed Van Dyk's intimate, psychologically astute, and true portrait of the human cost of U.S. imperial violence stars Hiam Abbass and Boyd Holbrook.",
-      "url": "https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Atonement-Still-PC-Jon-Peter.webp?w=650",
-      "publishedAt": "2026-09-30T17:30:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WFuLWJveC1vZmZpY2U",
-      "title": "Gaza documentary NAZA beats Avengers Endgame: Encore to top Italian box office",
-      "description": "Award-winning, Guardian-produced film focused on Israel’s mass killing of civilians extends run after sold-out screenings NAZA, the award-winning documentary about Israel’s systemic mass killing of Palestinian civilians in Gaza, has opened at No 1 at the Italian box office, beating rival titles including Avengers Endgame: Encore, which came in at No 2. The 80-minute film was booked for a three-day run in Italy, but after sold-out auditoriums and positive audience reaction, its release window will be extended. On its opening day on Monday, the documentary took a total of €451,872, with a per site average of €1,153. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/gaza-documentary-naza-beats-avengers-endgame-encore-to-top-italian-box-office",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/277_114_2467_1973/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46412a7678c61b6d4271ea3fee4da839",
-      "publishedAt": "2026-09-30T17:11:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mUtMTIzNTIxOTI5NS8",
-      "title": "‘Project Hail Mary’ Rocketing Into Awards Season as SFFILM Gives Oscar Contender Sloan Science in Cinema Prize",
-      "description": "Phil Lord and Chris Miller's space odyssey feels like it was light-years ago, doesn't it? The Amazon MGM Best Picture vehicle is now making its awards season entrance.",
-      "url": "https://www.indiewire.com/news/general-news/project-hail-mary-sffilm-sloan-science-cinema-prize-1235219295/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDPRHA_MG018-e1790781557430.jpg?w=650",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-jctMTIzNTIxOTE3Ni8",
-      "title": "Tribeca Festival Reveals Dates and Details for 26th Edition in 2027",
-      "description": "Submissions are also now open across Features, Shorts &#38; Music Videos, Tribeca TV, Tribeca Digital Creators, Tribeca Games, Tribeca Podcasts, and Tribeca X.",
-      "url": "https://www.indiewire.com/news/festivals/tribeca-festival-dates-details-for-2027-1235219176/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2280365255.jpg?w=650",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-C13aW50ZXJib3R0b20",
-      "title": "Post your questions for Michael Winterbottom",
-      "description": "With us to mark the 24th anniversary of 24 Hour Party People, the director’s work includes everything from Cracker to A Cock and Bull Story, Wonderland to Welcome to Sarajevo. And, of course, The Trip Of course, the 90s couldn’t be any more in vogue at the minute – but the 90s couldn’t have happened without the 80s. And that’s where 24 Hour Party People comes in, Michael Winterbottom’s riotous 2002 film that charts Manchester’s music scene from the Sex Pistols’ legendary 1976 Lesser Free Trade Hall gig through Factory Records, Joy Division, New Order and into the Madchester era of Happy Mondays and the Haçienda. It’s the story of Manchester music before Oasis swaggered in and took over the world, and it stars Paddy Considine, Shirley Henderson, Andy Serkis and John Simm – plus Steve Coogan as the late broadcaster and Factory Records boss Tony Wilson. After studying English at Oxford, Winterbottom started out in television in the late 1980s, directing everything from documentaries about Ingmar Bergman to episodes of Boon and Cracker, before making his feature debut, 1995’s Butterfly Kiss – a dark road movie about a serial killer and her lover travelling across northern England. His subsequent films included 1996’s Jude, 1997 Bosnian war drama Welcome to Sarajevo, 1999 London ensemble piece Wonderland and 2000 western The Claim. Since then we’ve seen the sexually explicit 9 Songs in 2004, literary comedy A Cock and Bull Story (adapted from Tristram Shandy) with Coogan and Rob Brydon, political docudrama The Road to Guantánamo and 2010 noir thriller The Killer Inside Me. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/post-your-questions-for-michael-winterbottom",
-      "image": "https://i.guim.co.uk/img/media/601653c99d7df95b91148738e01d1141e3a7dca8/0_94_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9081c90189b935ed4936e602bf0e7b3b",
-      "publishedAt": "2026-09-30T14:17:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-2QtMTIzNTIxODY2NC8",
-      "title": "‘Psycho Killer’ Is One of the Best Films of 2026 — So Why Did Everyone Hate It?",
-      "description": "The \"Correct Opinion\" column returns to heap praise on Andrew Kevin Walker and Gavin Polone's terrifying, audacious, and unjustly maligned horror film from earlier this year.",
-      "url": "https://www.indiewire.com/features/commentary/correct-opinion-psycho-killer-movie-actually-good-1235218664/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDPSKI_H3003-1.jpg?w=650",
-      "publishedAt": "2026-09-30T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Wpvc2gtaGFydG5ldHQ",
-      "title": "Verity review – Dakota Johnson leaves teethmarks as she goes back to Fifty Shades erotic thriller territory",
-      "description": "Anne Hathaway and Josh Hartnett co-star in this unconvincing mystery about a struggling writer who is asked to ghostwrite for a bestselling author The nation is crying out for a really enjoyable erotic mystery-thriller, a taste potentially at least as strong as the cosy-crime fetish currently dominating our every waking moment. The success of Paul Feig’s naughty-but-not-nice movie The Housemaid proves it. We are thirsting for a sexy encounter with a dishy yet maybe problematic nice-guy husband; we are pining for a damaged and dangerous beautiful wife; we are longing to identify with a vulnerable yet gutsy young person who finds herself in the middle of their creepy scenario and we are yearning to spend some time in a secluded luxury lakeside villa of gigantic modernist proportions down whose night-time corridors we can tremblingly tiptoe. So here is a drama, adapted by screenwriter Nick Antosca from the novel by Colleen Hoover, in which someone has such excitingly transgressive sex that they leave teeth marks on the headboard. During this film, audiences may be leaving teeth marks in the seatback in front of them. Or the back of someone’s head. But not in a good way. Dakota Johnson goes back into “Fifty Shades” ingenue-cute territory as Lowen, a struggling writer mysteriously approached by a legal team working for Verity Crawford, played by Anne Hathaway, a mega-bestselling author whose recent indisposition means that she is unable to finish her hugely lucrative novel series. Crawford’s people ask Lowen if she might be willing, in exchange for several shedloads of money, secretly to ghostwrite the rest of Crawford’s darkly saucy page-turners. Lowen agrees, largely because she is strangely drawn to Verity’s handsome, sensitive husband Jeremy, played by Josh Hartnett. She has to go and stay in their gorgeous Vermont home where she is upset to find that Verity is now immobile, using a wheelchair, and cannot speak. And she is even more upset to discover a certain manuscript by Verity which hints at a terrifying situation of which the world has no clue. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
-      "image": "https://i.guim.co.uk/img/media/aaec6ce6fbdd49e6375f52744896302b2f2f913c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=49c0a25bc8cc8b1f7352c12f69f53fb3",
-      "publishedAt": "2026-09-30T13:00:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -374,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-BldHMtYW5pbWF0b3Jz",
-      "title": "‘Cracking auction, Gromit!’ Original Aardman puppets go under the hammer",
-      "description": "Wallace and Gromit stop-motion models and other beloved creations raise money to train new generations of animators Wallace’s reaction as the auction got into full swing might have been a trademark “good grief!” – and the enthusiasm of some of the bidding could have caused even the phlegmatic Gromit to show surprise. Fans of Wallace and Gromit and other beloved creations of Aardman Animations seized the chance to grab souvenirs when more than 200 pieces – including Wallace, Gromit, Shaun the Sheep and Chicken Run puppets from Aardman productions – went under the hammer on Thursday. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
-      "image": "https://i.guim.co.uk/img/media/30cf379d4f08a3a0b15601a8f8ff9bc6b6191a5a/483_0_4825_3860/master/4825.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46ccdceb560b5be025e4c910307afd7b",
-      "publishedAt": "2026-09-24T21:41:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-NvdHRpc2gtZW1pbmVt",
@@ -490,18 +502,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
       "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ab04c6b5271cb32852ef3d1ca53a1e82",
       "publishedAt": "2026-09-12T21:07:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-G9uLWNvb2wtdW5jbGU",
-      "title": "Film producer Jeremy Thomas was a cross between a kindly Cambridge don and the movie world’s cool uncle",
-      "description": "The man behind The Last Emperor had the confidence of an old-fashioned studio boss along with the soul of a cineaste To say that movie producer Jeremy Thomas was British cinema royalty did not quite do justice to his meritocratic, democratic instincts. A brilliant and inexhaustibly creative man, self-effacingly charming and quietly spoken in a world of loudmouths and show-offs, and hypervigilant for new talent, was more like a cross between an entrepreneur, an enigmatically clever and kindly Cambridge don and the movie world’s favourite cool uncle, or maybe cool great-uncle. Respectively son and nephew of directors Ralph Thomas and Gerald Thomas (of Doctor in the House and Carry On fame), he was born into the industry and as an independent producer combined the confidence of an old-fashioned studio boss with the soul of a cineaste, backing his own instincts and passions, befriending film-makers and doggedly pursuing projects over years. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/jeremy-thomas-film-producer-kindly-cambridge-don-cool-uncle",
-      "image": "https://i.guim.co.uk/img/media/b2637884dabdcfd9f884733e29083a53156ee297/555_0_2919_2336/master/2919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=88ddc7451d81435311ebddd7b86ed677",
-      "publishedAt": "2026-09-12T15:42:00.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
