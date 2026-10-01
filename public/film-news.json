@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T06:52:23.540Z",
+  "generatedAt": "2026-10-01T12:46:46.969Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-2l0aC1yZWFsLWJpdGU",
+      "title": "Derek vs Derek review – farmers go head to head in rewilding rivalry with real bite",
+      "description": "Two Devon neighbours face off over the future of the countryside in this warm, wry documentary about farming, conservation and some troublesome wild boar This ebulliently accessible but never tacky British documentary finds a delightfully sneaky way to explore debates around environmental damage, agriculture and the countryside without ever being preachy, dry or patronising. The trick is to find engaging characters who happen to have opposing points of view, and while by the end most viewers would reckon that the pro-environmentalists pretty much win the argument, the conservative element of the farming community gets to have its say and make its case, earning sympathy in the process for a way of life that is itself endangered, albeit partly because of its own self-destructive practices. The twosome at the heart of the story are neighbours Derek Gow and Derek Banbury, two men in late middle age in wellies with bellies whose roughly equal-sized allotments of land (about 120 hectares) abut each other in Devon, near Dartmoor. Twinkly eyed, West Country-accented Banbury is a regular farmer like many others across the UK, rearing dairy cows and planting crops, and just about getting by as the price of milk is kept incredibly low thanks to his main customers, the supermarkets. His son works beside him and is set to inherit the spread just as Derek did, while Derek’s wife, Linda, supplements their income by running holiday cottages. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/derek-vs-derek-review-a-rewilding-rivalry-with-real-bite",
+      "image": "https://i.guim.co.uk/img/media/5318aa6994c2c7635457788eb642aa6ff6775c94/0_938_4813_3849/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fa183df80a43bad36a8e55b400a3c3d8",
+      "publishedAt": "2026-10-01T12:15:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
+      "description": "John Davidson, whose condition includes involuntary tics, shouted a racial slur during the Bafta Film Awards in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c01a/live/3b4ae530-109d-11f1-b048-c9424b2cf5fd.jpg",
+      "publishedAt": "2026-10-01T12:06:00.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-3Vsb3VzLW91dGZpdHM",
+      "title": "Nicolas Cage calls Marvel movies ‘a glorified WWE’ with over-50s in ‘ridiculous outfits’",
+      "description": "Star of Spider-Noir told fan convention he ‘spoke with love’ at seeing gifted actors for ever gearing up for superhero fight scenes Nicolas Cage, whose recent credits include the Sony Marvel series Spider-Noir, has criticised the Marvel Cinematic Universe, calling it an overfunded and embarrassing spectacle. “I do say this with love,” said Cage at a fan convention in Texas. “When I see these 50-plus and otherwise intelligent and remarkably gifted thespians putting on these ridiculous outfits and getting ready for the fight – let’s face it, it’s all cutting to the fight – it’s hard for me not to be reminded that the MCU is becoming a well-funded and glorified WWE.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/nicolas-cage-marvel-movies-glorified-wwe-ridiculous-outfits",
+      "image": "https://i.guim.co.uk/img/media/3653a17b0d8523ecb6ca9c85fc65278c3c2c8aee/976_360_2074_1660/master/2074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e55be1713934f15f2ea8ebcb3a7ac2a",
+      "publishedAt": "2026-10-01T11:10:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-S1jcnVpc2UtbW92aWU",
+      "title": "Don’t hate the movie, hate the critic! Digger’s new PR push is a risky bet for film that was never meant to be divisive",
+      "description": "‘SAME FILM – DIFFERENT TRUTH’ is the marketing solution for the film’s poor reception by critics. Or, as Cruise says in the ad, ‘Fuck those people!’ ‘You know what? Fuck those people!” The speaker is Tom Cruise in his serious-fatsuit role of Digger, in the bold new online ad which gives the finger to his film’s bad reviews and the haters. His words are now repurposed to address loathsome critics. The ad’s message is that a provocative, passionate film like this is divisive. You should make your own mind up. Which is true of course. Although it is just as true for films getting across-the-board raves. The last movie to try this was Francis Ford Coppola’s Megalopolis: it too ran an ad campaign rebranding the existence of bad reviews (though like Digger it also had plenty of good reviews) as evidence of genius which had yet to be appreciated. This campaign went terribly wrong when it was pointed out that bad reviews it had quoted for Apocalypse Now and The Godfather were in fact made up . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/digger-ad-tom-cruise-movie",
+      "image": "https://i.guim.co.uk/img/media/8927bdf14d7a9f6ee7315d59d2905a79db5e28c1/243_234_3041_2433/master/3041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=34c3e9f0753df2fe0925727ba5f7e7f9",
+      "publishedAt": "2026-10-01T10:35:21.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tributes paid to 'inspirational' presenter and campaigner Esther Rantzen",
+      "description": "Dame Esther Rantzen was \"an inspirational individual\", the director of her Childline helpline says.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3cda/live/258e7a70-bd6f-11f1-8134-9503562e5ca9.jpg",
+      "publishedAt": "2026-10-01T08:41:09.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMTg5MDQv",
+      "title": "‘East of Eden’ Review: Zoe Kazan’s Magnificent Netflix Epic Will Knock You Over",
+      "description": "A smart, gorgeous, and richly provocative adaptation of John Steinbeck's classic novel follows an American family across generations, with extra attention paid to the brutal and remarkable woman who sends them reeling: Cathy Ames (Florence Pugh).",
+      "url": "https://www.indiewire.com/criticism/shows/east-of-eden-review-florence-pugh-netflix-series-1235218904/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/East-of-Eden-Netflix-series-Florence-Pugh-as-Cathy.jpg?w=650",
+      "publishedAt": "2026-10-01T07:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-J5LW9mLXN1cnZpdmFs",
       "title": "Knife: The Attempted Murder of Salman Rushdie review – terrifying and inspiring story of survival",
@@ -30,7 +102,7 @@
     {
       "id": "guardian-F0cy1sZWdvLWJlbGxh",
       "title": "‘It’s frustrating to see immoral videos do so well’: how YouTube sensation Half-Asleep Chris sent a rollercoaster to space and made Bella the cat a star",
-      "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a recreation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
+      "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a re-creation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
       "url": "https://www.theguardian.com/culture/2026/oct/01/half-asleep-chris-burton-youtube-cats-lego-bella",
       "image": "https://i.guim.co.uk/img/media/71ae237fbe1f22ecd57c57d040c8bb1a13ac57f3/506_174_5940_4754/master/5940.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=afdc39ab0b56114687e241f95df432db",
       "publishedAt": "2026-10-01T04:00:29.000Z",
@@ -73,6 +145,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "US film-maker loses 'Downton Shabby' High Court case",
+      "description": "Hopwood DePree took the council to court in his bid to take over the Grade II-listed mansion for £1.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aed0/live/2c810a10-f631-11f0-b5f7-49f0357294ff.jpg",
+      "publishedAt": "2026-09-30T20:47:33.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -208,30 +292,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XItMTIzNTIxODE2My8",
-      "title": "‘Verity’ Review: Dakota Johnson and Anne Hathaway Co-Star in a Fun and Frigid Psycho-Thriller",
-      "description": "An obscure author is hired to ghostwrite for a catatonic lit phenom in a Colleen Hoover adaptation that explores the stories we tell ourselves about other people.",
-      "url": "https://www.indiewire.com/criticism/movies/verity-movie-review-anne-hathaway-dakota-johnson-hoover-1235218163/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/V_05529_R.jpg?w=650",
-      "publishedAt": "2026-09-30T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bm5haC1taXJnaGFuaQ",
-      "title": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
-      "description": "Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights ‘I decide my past,” says a village matriarch in this intriguingly political and poetic drama from Suzannah Mirghani, making her feature debut – and with it becoming the first Sudanese woman to direct a feature. (She was forced to cancel the original shoot in Sudan when war broke out in 2023 , moving production to Egypt.) It’s a film with things to say about the long shadow of the British empire, neocolonialism, women’s rights and female genital mutilation. But it mostly says it all without undermining its sense of mystery and shivers of magic realism. We’re in present day Sudan, where village elder Al-Sit (Rabha Mohamed Mahmoud) is an iron-willed woman not to be messed with. Everyone knows the story of how as a young girl she ran the British out of town; small children in the village gleefully tell the story of how she slaughtered every single last one of them. Can it possibly be true? The trauma of her past is at the centre of the film, and Mahmoud’s witchy performance, fierce and powerful, is utterly compelling. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/cotton-queen-review-sudanese-debut-suzannah-mirghani",
-      "image": "https://i.guim.co.uk/img/media/c509466c77c63f3788f8b558c3960f1803c7d2eb/435_0_1273_1019/master/1273.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1b8ed46dca302c0c4f4f261a8d0e98bc",
-      "publishedAt": "2026-09-30T10:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
       "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
@@ -244,30 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-WRyby1hbG1vZG92YXI",
-      "title": "Rapture review – cult Spanish horror is a deeply strange cheese dream of cinemania",
-      "description": "Pedro Almodóvar provides a vocal cameo and his style can be traced back to this influential film This cult supernatural mystery from 1979 is a deeply strange cheese dream of a film from Spain, in which almost the entire opening 10 minutes unfolds in a jittery quiet. There are some longueurs and some pop-eyed silent-movie acting from one of its leads, yes, but also a deeply unnerving, enveloping atmosphere of dread. At least some of its fascination stems from the marginal involvement of the young Pedro Almodóvar, who did voice-overdubbing for one female character. Director Iván Zulueta was to maintain his connection with Almodóvar from then on and much of Almodóvar’s procedure can be traced back to this influential film: the rapture for movies (what a character here calls “cinemania”), the double-stranded narrative, the queer euphoria and the importance of extended flashbacks. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/rapture-review-cult-spanish-horror-pedro-almodovar",
-      "image": "https://i.guim.co.uk/img/media/eb3899628b669d67575eefc782ece55f56246f30/244_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9a4b05827f061f0c70702d3bba221df1",
-      "publishedAt": "2026-09-30T08:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WFub3ItbW9ydGltZXI",
-      "title": "How Deep Is Your Love review – under the sea at Earth’s last frontier with the Psychedelic Elvis Worm",
-      "description": "Film-maker Eleanor Mortimer accompanies a scientific expedition to the deep Pacific, where new creatures are abundant yet threatened by sea mining For the marine biologists in this whimsical eco-documentary, the answer is about 5000 metres down. In the lab, we watch them observing, describing, and classifying the bonkers-looking creatures that survive in the freezing-cold waters of the deep sea: blobby little sea pigs and alien glow-in-the-dark sea cucumbers. It seems 90% of life in the deep sea has yet to be named, explains film-maker Eleanor Mortimer in her quirky voiceover. It is the last frontier of exploration on Earth. Mortimer accompanies a team of scientists on an expedition to the eastern Pacific. It takes the ship’s robot four hours to descend the four kilometres to the ocean floor where it trundles along, grabber claw at the ready. A biologist explains that 80% of what they bring up to the surface is new to science. And one of the film’s pleasures is watching the wonderstruck awe on their faces as they clap eyes on never-before-seen creatures. The process of acquiring a Latin name for a new discovery can take years, so in the meantime scientists give them excellent temporary names like the Headless Chicken Monster and the Psychedelic Elvis Worm. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/how-deep-is-your-love-review-nature-doc-eleanor-mortimer",
-      "image": "https://i.guim.co.uk/img/media/82783b7a3004f683f5cdabc68324809c14a6d0ab/497_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8c0dfb88c279c780537dceb71ad156cf",
-      "publishedAt": "2026-09-30T06:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ZWFyaW5nLWFkdmVydA",
       "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
       "description": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous roles She shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age. More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to consider an AI version of her taking a 21st-century film role. Continue reading...",
@@ -277,30 +313,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Michael Sheen says being an actor will be a disadvantage on Celebrity Traitors",
-      "description": "The Hollywood actor says he is a big fan of the BBC reality show, which he will now try and win.",
-      "url": "https://www.bbc.co.uk/news/articles/cky9z31yj8ggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bff8/live/3418c620-bbf0-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-29T16:58:58.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Gisele Pelicot rape case to be told in London play",
-      "description": "Thirty actors will take part in the documentary-style performance based on documents from the trial.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlylj46n67jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7399/live/c1890990-a065-11f0-b2f9-dd258cdb2dcd.jpg",
-      "publishedAt": "2026-09-29T11:54:41.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
