@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:39:15.593Z",
+  "generatedAt": "2026-10-01T01:19:22.609Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XAtMTIzNTIxOTQ1MS8",
+      "title": "Indie Memphis Announces 2026 Festival Lineup, Including ‘Once Upon a Time in Harlem’ and ‘The Man I Love’",
+      "description": "The Tennessee film festival returns for its 28th edition this November.",
+      "url": "https://www.indiewire.com/news/festivals/indie-memphis-2026-film-festival-lineup-1235219451/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/The-Man-I-Love-Jac-Martinez.jpg?w=650",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIxOTIwOS8",
+      "title": "IndieWire’s Future of Filmmaking Summit to Feature Microdrama Panel with Execs from Issa Rae’s HOORAE Media",
+      "description": "The team that helped turn \"Screen Time\" into a viral hit will break down the emerging format at IndieWire's Los Angeles event on October 17.",
+      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-microdrama-panel-1235219209/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-1.17.03-PM.png?w=650",
+      "publishedAt": "2026-09-30T23:25:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIxOTI2NS8",
+      "title": "Dear ‘Digger’ Detractors: This Tom Cruise Masterpiece Will Stand the Test of Time",
+      "description": "The best movie of the year is also already the most divisive, but it represents the kind of exuberant risk-taking that made the Hollywood movies of the 1970s great.",
+      "url": "https://www.indiewire.com/features/commentary/what-digger-critics-get-wrong-about-tom-cruise-movie-1235219265/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB026.jpg?w=650",
+      "publishedAt": "2026-09-30T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-jQtMTIzNTIxOTQwMi8",
+      "title": "Neon Plans Competing SCP Foundation Movie Compliant with Creative Commons License — Unlike A24’s",
+      "description": "Neon's own anthology film based on the online universe of writing will make the film an \"open-source horror project.\"",
+      "url": "https://www.indiewire.com/news/breaking-news/neon-scp-foundation-movie-compliant-creative-commons-a24-1235219402/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/SCP-X-NEON.png?w=650",
+      "publishedAt": "2026-09-30T20:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIxODcxNC8",
+      "title": "Paramount and Warner Bros. Discovery Merger Clears Last Hurdle as Judge Approves Antitrust Settlement",
+      "description": "The merger is now expected to close as early as October 6.",
+      "url": "https://www.indiewire.com/news/breaking-news/paramount-last-hurdle-merger-warner-bros-discovery-1235218714/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
+      "publishedAt": "2026-09-30T20:08:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxOTQzMy8",
+      "title": "‘The Lowdown’ Season 2 Trailer: Tommy Lee Jones and Betty Gilpin Joins Ethan Hawke for Another Tulsa Conspiracy",
+      "description": "The first two episodes premiere on FX and Hulu on Wednesday, October 14.",
+      "url": "https://www.indiewire.com/news/trailers/the-lowdown-season-2-trailer-1235219433/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-12.14.47-PM.png?w=650",
+      "publishedAt": "2026-09-30T20:07:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-HMtMTIzNTIxOTMyNy8",
+      "title": "IndieWire and Disney to Celebrate Emmy Rossum and the Cast of ‘Furious’ at Special Pass the Remote Screening",
+      "description": "Rossum will be joined by co-stars Scoot McNairy, Quincy Tyler Bernstine, and Steve Way and composer Ariel Marx at Vidiots Foundation in Los Angeles on October 16.",
+      "url": "https://www.indiewire.com/news/events/indiewire-disney-furious-screening-vidiots-1235219327/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-11.34.08-AM.png?w=650",
+      "publishedAt": "2026-09-30T18:59:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-WstMTIzNTE5NDQwOS8",
       "title": "‘Atonement’ Review: Emotionally Powerful Anti-War Film Shows That Bullets Fire Both Ways",
@@ -112,18 +196,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMTkyNjYv",
-      "title": "‘Digger’ Director Alejandro G. Iñárritu and Riz Ahmed on How the Year’s Riskiest Movie Captures Our Demented Reality: ‘We Are Living in a Satire’",
-      "description": "The \"Digger\" team on Tom Cruise's dramatic transformation and the need to keep its big twist a secret.",
-      "url": "https://www.indiewire.com/features/interviews/digger-alejandro-inarritu-riz-ahmed-tom-cruise-interview-1235219266/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P108F4AF.jpg?w=650",
-      "publishedAt": "2026-09-30T12:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bm5haC1taXJnaGFuaQ",
       "title": "Cotton Queen review – mystery, matriarchs and magic in pioneering Sudanese debut",
       "description": "Suzannah Mirghani’s first feature contains a powerful performance by Rabha Mohamed Mahmoud as a village’s elder woman and tackles the long shadow of British imperialism and women’s rights ‘I decide my past,” says a village matriarch in this intriguingly political and poetic drama from Suzannah Mirghani, making her feature debut – and with it becoming the first Sudanese woman to direct a feature. (She was forced to cancel the original shoot in Sudan when war broke out in 2023 , moving production to Egypt.) It’s a film with things to say about the long shadow of the British empire, neocolonialism, women’s rights and female genital mutilation. But it mostly says it all without undermining its sense of mystery and shivers of magic realism. We’re in present day Sudan, where village elder Al-Sit (Rabha Mohamed Mahmoud) is an iron-willed woman not to be messed with. Everyone knows the story of how as a young girl she ran the British out of town; small children in the village gleefully tell the story of how she slaughtered every single last one of them. Can it possibly be true? The trauma of her past is at the centre of the film, and Mahmoud’s witchy performance, fierce and powerful, is utterly compelling. Continue reading...",
@@ -194,78 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjE5MjU1Lw",
-      "title": "Paramount’s Streaming Plans Get Some Clarity as Cindy Holland Exits with Casey Bloys Likely Taking Over",
-      "description": "The head of Paramount's DTC division said in a memo that David Ellison is \"optimizing for HBO stability\" once the Warner Bros. Discovery merger is complete.",
-      "url": "https://www.indiewire.com/news/business/cindy-holland-exits-paramount-casey-bloys-streaming-1235219255/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/P107EGLW.jpg?w=650",
-      "publishedAt": "2026-09-29T23:49:41.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-I3LTEyMzUyMTkxOTIv",
-      "title": "Curry Barker Will Again Make Audiences Obsessed Next Summer with ‘Anything But Ghosts’ Opening May 2027",
-      "description": "Focus Features dated the \"Obsession\" director's next feature about wannabe ghost hunters for May 7, 2027.",
-      "url": "https://www.indiewire.com/news/breaking-news/curry-barker-anything-but-ghosts-release-date-may-2027-1235219192/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-16-at-1.28.28-PM.png?w=650",
-      "publishedAt": "2026-09-29T20:27:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cC0xMjM1MjE5MTcyLw",
-      "title": "AFI Fest Reveals 2026 Lineup: ‘Possible Love,’ Céline Sciamma’s’ Tutti Frutti,’ and 155 More Films",
-      "description": "\"Bucking Fastard,\" \"All of a Sudden,\" \"A Long Winter,\" and more fall festival favorites will play AFI Fest in Hollywood.",
-      "url": "https://www.indiewire.com/news/festivals/afi-fest-2026-lineup-1235219172/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/possible-Love_Still_R30_AAA08350_RT2.jpeg?w=650",
-      "publishedAt": "2026-09-29T19:39:49.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUyMTkwNTYv",
-      "title": "Producers Guild of America Elects Donna Gigliotti and Mike Farah as New Presidents",
-      "description": "Oscar winner Donna Gigliotti and Emmy winner Mike Farah have been elected Presidents of the Producers Guild of America (PGA), succeeding Donald De Line and Stephanie Allain.",
-      "url": "https://www.indiewire.com/news/general-news/pga-elects-donna-gigliotti-mike-farah-new-presidents-1235219056/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MixCollage-29-Sep-2026-01-38-PM-9322.jpg?w=650",
-      "publishedAt": "2026-09-29T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE4OTU1Lw",
-      "title": "After ‘Avengers Endgame: Encore,’ Infinity Vision Might Turn Out to Be a Thing",
-      "description": "Just over half of the $26 million the Marvel re-release earned from opening weekend came from Disney's special theater designation.",
-      "url": "https://www.indiewire.com/news/box-office/avengers-endgame-encore-infinity-vision-box-office-results-1235218955/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2271692578.jpg?w=650",
-      "publishedAt": "2026-09-29T18:17:21.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMTkxMDIv",
-      "title": "Why ‘Primetime’ Doesn’t Look Like Any Movie You’ve Seen Before",
-      "description": "Lance Oppenheim breaks down how a colonoscopy camera, clips of early aughts TV, a leaked cam-scan of \"Die My Love,\" and Chris Hansen’s manufactured reality inspired the insane cinematography.",
-      "url": "https://www.indiewire.com/features/craft/primetime-cinematography-explained-colonoscopy-camera-robert-pattinson-1235219102/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/https3A2F2Fcdn.sanity.io2Fimages2Fxq1bjtf42Fproduction2Ffaca6f7260bc982be3b40d5d40c90af68f26299f-1568x895-2.png?w=650",
-      "publishedAt": "2026-09-29T17:50:21.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
