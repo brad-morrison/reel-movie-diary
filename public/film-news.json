@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:46:14.698Z",
+  "generatedAt": "2026-10-02T18:39:16.271Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-J0LTEyMzUyMTk4Mjcv",
+      "title": "‘Cameron Winter at Carnegie Hall’ Review: PTA’s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
+      "description": "New York Film Festival: Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.",
+      "url": "https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
+      "publishedAt": "2026-10-02T18:06:32.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE5NzU5Lw",
+      "title": "Indie Filmmakers Push Back Against Claims That There Aren’t Enough Movies to Buy",
+      "description": "Distributors say there's high demand for indie films that are distinctive and broadly commercial. Artists like Annapurna Sriram want to know how big a movie has to be before it counts.",
+      "url": "https://www.indiewire.com/features/interviews/indie-filmmakers-push-back-movie-shortage-claims-1235219759/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/6.webp?w=650",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FsLWFsYmVydC1oYWxs",
+      "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30 year anniversary",
+      "description": "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now It is one of the prime minister’s all-time favourite films and has endured in the hearts of the British public since it was released in 1996. Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political. “I think the people who went expecting a political film got the bonus of a bit of a comedy,” says its writer, Mark Herman, three decades on. “And the people who went expecting comedy got the bonus of the political message. I think anybody who went got a sort of bonus they might not have expected. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
+      "image": "https://i.guim.co.uk/img/media/e469b48c45507bca822d33821131c882eff903b9/339_0_2826_2262/master/2826.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31190cdb9f134fa0b735246fa9b22503",
+      "publishedAt": "2026-10-02T16:56:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjE5NzY4Lw",
+      "title": "How Bleecker Street Endured Tragedy and Elon Musk’s Legal Threats to Have Its Hottest Year",
+      "description": "The independent studio is deep in the awards race with \"Tender Loving Care\" and riding high on the success of \"Hadestown: The Musical\" despite the death of its founder.",
+      "url": "https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/02-Musk-2.jpg?w=650",
+      "publishedAt": "2026-10-02T16:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9zLTEyMzUyMTk4NDEv",
+      "title": "Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema",
+      "description": "The Pam and Mike era is over. Their sensibility led to big hits and massive flops and was not in sync with new Skydance boss David Ellison.",
+      "url": "https://www.indiewire.com/features/commentary/mike-de-luca-pam-abdy-over-warner-bros-1235219841/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/GettyImages-2174562281.jpg?w=650",
+      "publishedAt": "2026-10-02T16:05:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxOTc0NC8",
+      "title": "Before David Ellison Took Over Paramount, I Watched the Hollywood That Brought Me Here Disappear",
+      "description": "As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.",
+      "url": "https://www.indiewire.com/features/commentary/paramount-golden-age-before-merger-1235219744/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDFLYB_EC014.jpg?w=650",
+      "publishedAt": "2026-10-02T15:03:41.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9zLTEyMzUyMTk4MTEv",
+      "title": "Skydance: David Ellison Names Newly Combined Paramount-Warner Bros. After His Old Company",
+      "description": "Get ready for corporate babble as Skydance releases an exciting new sizzle reel featuring clips of \"Titanic\" and Michael B. Jordan's narration.",
+      "url": "https://www.indiewire.com/news/business/skydance-david-ellison-names-combined-paramount-warner-bros-1235219811/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2272991569.jpg?w=650",
+      "publishedAt": "2026-10-02T13:57:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-NpYy1maWxtLWJvb2tz",
       "title": "‘It’s radical to release a film called Girls Like Girls in this climate’: hitmaker turned director Hayley Kiyoko on sexuality, safety and becoming ‘Lesbian Jesus’",
@@ -77,7 +161,7 @@
     },
     {
       "id": "guardian-aW5jZXMtbWFkbmVzcw",
-      "title": "Take It or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
+      "title": "Take It Or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
       "description": "Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity Opting for the former is the best idea for this unexpectedly revealing, vividly atmospheric, often funny and alarming, docufictional comedy from 1981 about the rise of the baggy-trousered ska-pop national treasures Madness. It takes us from their beginnings in 1976 to their chart breakthrough: gormless, penniless blokes, obsessing about music and roaming north London’s gritty districts of Camden Town, Stoke Newington and Crouch End. (This elicits some droll dialogue: “They’re all the same, these streets” … “That’s why they put signs on them.”) Our naughty, dodgy heroes play people’s parties, sign on the dole and do mortifying odd jobs, get told off by site foremen and office supervisors, drive to gigs in Arthur Daley vans, almost get into fights with skinheads and have calamitous arguments with the drummer during rehearsals. It could have carried on like that indefinitely, but the arrival of Graham “Suggs” McPherson as singer is the mysterious ingredient around which everything coalesces: his voice miraculously ups the band’s game, apparently curing their worrying propensity for playing flat. His vocals mesh with the reggae thump of the keyboards and sax and the rest of the band’s goofy jogging-on-the-spot stage energy. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
       "image": "https://i.guim.co.uk/img/media/0d1c36de4c2c4162dcff23fafc661b2a578dcd84/570_0_3104_2486/master/3104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1610e79afa6edeaeff3bd19eb89ebb0b",
@@ -184,90 +268,6 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-FtLTEyMzUyMTk1NjQv",
-      "title": "New York City Location Scouting Secrets from the Team Behind Indie ‘The Scout’",
-      "description": "Writer and director Paula González-Nasser and location managers Hayden Dunham and Julie Sage tell IndieWire about the unsung work of film and TV locations departments.",
-      "url": "https://www.indiewire.com/features/craft/new-york-location-scouting-secrets-the-scout-team-1235219564/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSCOU_EC028.jpg?w=650",
-      "publishedAt": "2026-10-01T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE5NTkwLw",
-      "title": "‘River,’ Slasher Film That Set Off Bidding War, Gets Release Date from Universal and Blumhouse Atomic Monster",
-      "description": "The horror film sold for more than $10 million after debuting at the Toronto Film Festival will face off against \"The Beekeeper 2\" and \"Children of Blood and Bone.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/river-slasher-film-release-date-children-of-blood-and-bone-1235219590/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/River_Still_HERO.jpg?w=650",
-      "publishedAt": "2026-10-01T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cC0xMjM1MjE5NTY4Lw",
-      "title": "Sundance Collab and Merrell Announce New Storytelling Partnership ‘It Starts Outside’",
-      "description": "The outdoor footwear brand will support filmmakers making shorts about the outdoors as part of a three-year partnership with Sundance.",
-      "url": "https://www.indiewire.com/news/general-news/sundance-merrell-storytelling-partnership-1235219568/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-01-at-10.47.47-AM.png?w=650",
-      "publishedAt": "2026-10-01T18:06:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxOTU1Ni8",
-      "title": "‘Gentle Monster’ Trailer: Léa Seydoux Faces the Horrific in Marie Kreutzer’s Child Abuse Drama",
-      "description": "The Cannes favorite sees Seydoux in one of the most demanding roles of her career.",
-      "url": "https://www.indiewire.com/news/trailers/gentle-monster-trailer-lea-seydoux-marie-kreutzer-1235219556/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/image.webp?w=650",
-      "publishedAt": "2026-10-01T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-y1tb3ZpZS1yZXZpZXc",
-      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "description": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of the blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c6fd2ae556ee7e19b660e8b81218225f",
-      "publishedAt": "2026-10-01T16:51:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WEtMTIzNTIxOTUwOC8",
-      "title": "‘Clarissa’ Trailer: Sophie Okonedo, Ayo Edebiri, and More Lead a Modern ‘Mrs Dalloway’ Set in Nigeria",
-      "description": "Neon will be releasing the Cannes favorite, directed by brothers Arie and Chuko Esiri, this December.",
-      "url": "https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDCLAR_EC031.jpg?w=650",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE5NTIxLw",
-      "title": "‘Being Heumann’ to Close Middleburg Film Festival; Martin McDonagh and Seth Rogen Join 2026 Honorees",
-      "description": "The Virginia-based film festival, which will run from October 15 - 18, also announced \"La Bola Negra\" and \"Behemoth!\" as Spotlight screenings.",
-      "url": "https://www.indiewire.com/news/festivals/being-heumann-middleburg-film-festival-2026-lineup-honorees-1235219521/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MixCollage-01-Oct-2026-01-30-AM-6697.jpg?w=650",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-1yZWxheGVkLXNwYWNl",
       "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
       "description": "Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisis John Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in February led to a crisis for Bafta (British Academy of Film and Television Arts) and the BBC , will attend the Bafta Scotland awards and watch the ceremony from a separate “relaxed” space. In a letter sent to Bafta members on Thursday, the organisation’s chair Sara Putt and CEO Jane Millichip said that, after an independent review , Bafta had “strengthened and centralised our safeguarding, risk assessment and compliance processes” and had made arrangements in consultation with “safeguarding and inclusion experts” for Davidson’s attendance at the awards ceremony organised by Bafta’s Scottish branch, which is due to take place in November. Continue reading...",
@@ -316,18 +316,6 @@
       "category": "Reviews"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tributes paid to 'inspirational' presenter and campaigner Esther Rantzen",
-      "description": "Dame Esther Rantzen was \"an inspirational individual\", the director of her Childline helpline says.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wjwxg3e74o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3cda/live/258e7a70-bd6f-11f1-8134-9503562e5ca9.jpg",
-      "publishedAt": "2026-10-01T08:41:09.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-F0cy1sZWdvLWJlbGxh",
       "title": "‘It’s frustrating to see immoral videos do so well’: how YouTube sensation Half-Asleep Chris sent a rollercoaster to space and made Bella the cat a star",
       "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a re-creation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
@@ -337,18 +325,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "US film-maker loses 'Downton Shabby' High Court case",
-      "description": "Hopwood DePree took the council to court in his bid to take over the Grade II-listed mansion for £1.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7702p0pkv5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/aed0/live/2c810a10-f631-11f0-b5f7-49f0357294ff.jpg",
-      "publishedAt": "2026-09-30T20:47:33.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
