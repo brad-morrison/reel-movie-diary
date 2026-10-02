@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:40:38.246Z",
+  "generatedAt": "2026-10-02T01:09:25.975Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-G0tMTIzNTIxOTc0NS8",
+      "title": "Barack and Michelle Obama’s Higher Ground, Anonymous Content Making Film of ‘Baldwin: A Love Story’",
+      "description": "The James Baldwin autobiography will be adapted by its writer Nicholas Boggs and his partner, Marlon James, the bestselling author of \"The Disappearers.\"",
+      "url": "https://www.indiewire.com/news/general-news/barack-michelle-obama-james-baldwin-love-story-film-1235219745/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/06/MCDIIAM_EC248.jpg?w=650",
+      "publishedAt": "2026-10-01T23:55:50.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMTk3Mzcv",
+      "title": "Jon Favreau and Chris Pratt Shared Untold MCU Stories at Kevin Feige’s Pioneer of the Year Award Dinner",
+      "description": "Marvel Studios head Kevin Feige was the Will Rogers Motion Picture Pioneers Foundation's 2026 Pioneer of the Year, with his MCU colleagues Chris Pratt and Jon Favreau presenting him the award.",
+      "url": "https://www.indiewire.com/news/events/marvel-kevin-feige-chris-pratt-untold-mcu-stories-1235219737/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/002.jpg?w=650",
+      "publishedAt": "2026-10-01T23:28:53.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIxOTUxMS8",
+      "title": "Sundance’s Michelle Satter Lost Her Son, Then Her Home Burned in the Palisades Fire. She’s Channeling Her Grief to Give Back",
+      "description": "A little over a year after Michael Latt's 2023 murder, Satter and husband David Latt's home burned. To stay positive, they plowed their energy into honoring their son's legacy.",
+      "url": "https://www.indiewire.com/features/interviews/michael-latt-murder-michelle-satter-sundance-charity-1235219511/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_2289.jpg?w=650",
+      "publishedAt": "2026-10-01T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIxOTA0NS8",
+      "title": "What Happens to Chris Hansen After ‘Primetime’?",
+      "description": "The former “To Catch a Predator” host hasn’t ruled out suing A24, but Lance Oppenheim's new film is already giving him a real business opportunity.",
+      "url": "https://www.indiewire.com/features/commentary/how-will-primetime-movie-impact-chris-hansen-reputation-1235219045/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/primetime.jpg?w=650",
+      "publishedAt": "2026-10-01T21:00:33.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxOTU4OS8",
+      "title": "Tom Cruise and James Cameron Are Optimistic About the Paramount and Warner Bros. Merger Because They Can Afford to Be",
+      "description": "Whether you agree with them could depend on where you sit in Hollywood's hierarchy.",
+      "url": "https://www.indiewire.com/features/commentary/hollywood-future-predictions-class-system-paramount-merger-1235219589/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108F48Z.jpg?w=650",
+      "publishedAt": "2026-10-01T20:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE1MDMzLw",
+      "title": "When Clint Eastwood Stepped Away, Eddie Murphy Stepped in and Made ’48HRS’ an Action Comedy Classic",
+      "description": "At a live Filmmaker Toolkit event at the American Cinematheque, writer/director Walter Hill looked back on his 1982 hit and the serendipitous circumstances behind its creation.",
+      "url": "https://www.indiewire.com/features/podcast/walter-hill-replaced-clint-eastwood-eddie-murphy-48hrs-1235215033/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2026.08.26-48-Hours-45.jpg?w=650",
+      "publishedAt": "2026-10-01T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
+      "description": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b9c3/live/ecbf17f0-bd82-11f0-b748-7f02f8da8806.jpg",
+      "publishedAt": "2026-10-01T19:49:02.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-FtLTEyMzUyMTk1NjQv",
+      "title": "New York City Location Scouting Secrets from the Team Behind Indie ‘The Scout’",
+      "description": "Writer and director Paula González-Nasser and location managers Hayden Dunham and Julie Sage tell IndieWire about the unsung work of film and TV locations departments.",
+      "url": "https://www.indiewire.com/features/craft/new-york-location-scouting-secrets-the-scout-team-1235219564/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSCOU_EC028.jpg?w=650",
+      "publishedAt": "2026-10-01T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjE5NTkwLw",
+      "title": "‘River,’ Slasher Film That Set Off Bidding War, Gets Release Date from Universal and Blumhouse Atomic Monster",
+      "description": "The horror film sold for more than $10 million after debuting at the Toronto Film Festival will face off against \"The Beekeeper 2\" and \"Children of Blood and Bone.\"",
+      "url": "https://www.indiewire.com/news/breaking-news/river-slasher-film-release-date-children-of-blood-and-bone-1235219590/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/River_Still_HERO.jpg?w=650",
+      "publishedAt": "2026-10-01T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-cC0xMjM1MjE5NTY4Lw",
       "title": "Sundance Collab and Merrell Announce New Storytelling Partnership ‘It Starts Outside’",
@@ -54,9 +162,9 @@
     {
       "id": "guardian-y1tb3ZpZS1yZXZpZXc",
       "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "description": "No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
+      "description": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of the blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/396_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=533f44fad3a62a2b02cabfa68eeeba4c",
+      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c6fd2ae556ee7e19b660e8b81218225f",
       "publishedAt": "2026-10-01T16:51:21.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -100,18 +208,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ZS0xMjM1MjE5NDgwLw",
-      "title": "Can Art House Theaters Use AI-Driven Data Models to Reach a More Targeted Audience?",
-      "description": "The podcast \"Inside the Arthouse\" with exhibitor Greg Laemmle and director and actor Raphael Sbarge partnered with data company Chronicle to bring their reach to the next level.",
-      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-      "publishedAt": "2026-10-01T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-1yZWxheGVkLXNwYWNl",
       "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
       "description": "Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisis John Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in February led to a crisis for Bafta (British Academy of Film and Television Arts) and the BBC , will attend the Bafta Scotland awards and watch the ceremony from a separate “relaxed” space. In a letter sent to Bafta members on Thursday, the organisation’s chair Sara Putt and CEO Jane Millichip said that, after an independent review , Bafta had “strengthened and centralised our safeguarding, risk assessment and compliance processes” and had made arrangements in consultation with “safeguarding and inclusion experts” for Davidson’s attendance at the awards ceremony organised by Bafta’s Scottish branch, which is due to take place in November. Continue reading...",
@@ -121,18 +217,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjE4NzY2Lw",
-      "title": "‘War’ Review: HBO’s Mindless, Meaningless Divorce Drama Gets Lost in the Fog of Bore",
-      "description": "In George Kay's legal anthology series, there are no good guys or bad guys — just two powerful law firms, their billionaire clients, and zero point. But one truism actually holds up in court: \"War\" is hell.",
-      "url": "https://www.indiewire.com/criticism/shows/war-review-hbo-divorce-drama-sienna-miller-dominic-west-1235218766/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/War-HBO-series-Dominic-West-Sienna-Miller.jpg?w=650",
-      "publishedAt": "2026-10-01T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -158,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-9yLTEyMzUyMTkwODQv",
-      "title": "‘Carrie’ Review: Mike Flanagan’s Teen-Drama Take on a Horror Classic Is Too Gentle for Its Own Good",
-      "description": "Adapted as an ongoing series for Amazon, the 2026 \"Carrie\" expands its world and opens its heart to follow the titular telekinetic teenager through her jarring introduction to a \"normal\" American high school.",
-      "url": "https://www.indiewire.com/criticism/shows/carrie-2026-review-mike-flanagan-amazon-series-not-horror-1235219084/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Carrie-2026-series-Summer-H.-Howell-Samantha-Sloyan-e1790721836599.jpg?w=650",
-      "publishedAt": "2026-10-01T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-2l0aC1yZWFsLWJpdGU",
@@ -232,18 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VzLTEyMzUyMTg5MDQv",
-      "title": "‘East of Eden’ Review: Zoe Kazan’s Magnificent Netflix Epic Will Knock You Over",
-      "description": "A smart, gorgeous, and richly provocative adaptation of John Steinbeck's classic novel follows an American family across generations, with extra attention paid to the brutal and remarkable woman who sends them reeling: Cathy Ames (Florence Pugh).",
-      "url": "https://www.indiewire.com/criticism/shows/east-of-eden-review-florence-pugh-netflix-series-1235218904/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/East-of-Eden-Netflix-series-Florence-Pugh-as-Cathy.jpg?w=650",
-      "publishedAt": "2026-10-01T07:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-F0cy1sZWdvLWJlbGxh",
       "title": "‘It’s frustrating to see immoral videos do so well’: how YouTube sensation Half-Asleep Chris sent a rollercoaster to space and made Bella the cat a star",
       "description": "His videos of cats, loopy contraptions and theme park rides round the heavens (and his back garden) have notched up a billion views. We meet Chris Burton in the suburban home where it all happens Chris Burton is getting ready to redecorate his house. The first reason for this is quite sad. His beloved cat Bella died recently, aged 17, and the indignities of old age mean a new carpet is in order. The other reason is that Burton, AKA Half-Asleep Chris, is turning his dining room into a re-creation of London’s Rainforest Cafe (also RIP – it closed in 2023). There will be temple walls and a talking tree, a fish tank and fronds. Thunderstorms every 20 minutes. He’s doing most of the work himself, he explains, as we edge past an 8ft fibreglass tapir in the hall. But he’ll need an electrician to rig the starry ceiling and a plumber to check the waterfall for leaks. I sneak a feel of the tapir: firm yet squishy, foam and five layers of silicone over a steel frame. Most people will only see rather than touch it, yet it has exactly the same amount of give as – I imagine – the real deal. This lack of half-measures is very Half-Asleep Chris. Continue reading...",
@@ -253,42 +313,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XAtMTIzNTIxOTQ1MS8",
-      "title": "Indie Memphis Announces 2026 Festival Lineup, Including ‘Once Upon a Time in Harlem’ and ‘The Man I Love’",
-      "description": "The Tennessee film festival returns for its 28th edition this November.",
-      "url": "https://www.indiewire.com/news/festivals/indie-memphis-2026-film-festival-lineup-1235219451/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/The-Man-I-Love-Jac-Martinez.jpg?w=650",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIxOTIwOS8",
-      "title": "IndieWire’s Future of Filmmaking Summit to Feature Microdrama Panel with Execs from Issa Rae’s HOORAE Media",
-      "description": "The team that helped turn \"Screen Time\" into a viral hit will break down the emerging format at IndieWire's Los Angeles event on October 17.",
-      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-microdrama-panel-1235219209/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-30-at-1.17.03-PM.png?w=650",
-      "publishedAt": "2026-09-30T23:25:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIxOTI2NS8",
-      "title": "Dear ‘Digger’ Detractors: This Tom Cruise Masterpiece Will Stand the Test of Time",
-      "description": "The best movie of the year is also already the most divisive, but it represents the kind of exuberant risk-taking that made the Hollywood movies of the 1970s great.",
-      "url": "https://www.indiewire.com/features/commentary/what-digger-critics-get-wrong-about-tom-cruise-movie-1235219265/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB026.jpg?w=650",
-      "publishedAt": "2026-09-30T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -304,30 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-jQtMTIzNTIxOTQwMi8",
-      "title": "Neon Plans Competing SCP Foundation Movie Compliant with Creative Commons License — Unlike A24’s",
-      "description": "Neon's own anthology film based on the online universe of writing will make the film an \"open-source horror project.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/neon-scp-foundation-movie-compliant-creative-commons-a24-1235219402/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/SCP-X-NEON.png?w=650",
-      "publishedAt": "2026-09-30T20:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
-      "publishedAt": "2026-09-30T08:59:38.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZWFyaW5nLWFkdmVydA",
       "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
       "description": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous roles She shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age. More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to consider an AI version of her taking a 21st-century film role. Continue reading...",
@@ -337,18 +337,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Taylor Swift dominated the VMAs, but do music videos still matter?",
-      "description": "Cinematographer Melissa Cofie says their purpose has evolved with the growth of platforms like TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/cm750pyz5r0eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cab0/live/e67943f0-bbf3-11f1-9074-3d74885a19d6.jpg",
-      "publishedAt": "2026-09-29T11:38:55.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
