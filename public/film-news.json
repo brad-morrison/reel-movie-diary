@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:09:25.975Z",
+  "generatedAt": "2026-10-02T06:50:46.019Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-aW5jZXMtbWFkbmVzcw",
+      "title": "Take It or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
+      "description": "Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity Opting for the former is the best idea for this unexpectedly revealing, vividly atmospheric, often funny and alarming, docufictional comedy from 1981 about the rise of the baggy-trousered ska-pop national treasures Madness. It takes us from their beginnings in 1976 to their chart breakthrough: gormless, penniless blokes, obsessing about music and roaming north London’s gritty districts of Camden Town, Stoke Newington and Crouch End. (This elicits some droll dialogue: “They’re all the same, these streets” … “That’s why they put signs on them.”) Our naughty, dodgy heroes play people’s parties, sign on the dole and do mortifying odd jobs, get told off by site foremen and office supervisors, drive to gigs in Arthur Daley vans, almost get into fights with skinheads and have calamitous arguments with the drummer during rehearsals. It could have carried on like that indefinitely, but the arrival of Graham “Suggs” McPherson as singer is the mysterious ingredient around which everything coalesces: his voice miraculously ups the band’s game, apparently curing their worrying propensity for playing flat. His vocals mesh with the reggae thump of the keyboards and sax and the rest of the band’s goofy jogging-on-the-spot stage energy. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
+      "image": "https://i.guim.co.uk/img/media/0d1c36de4c2c4162dcff23fafc661b2a578dcd84/570_0_3104_2486/master/3104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1610e79afa6edeaeff3bd19eb89ebb0b",
+      "publishedAt": "2026-10-02T06:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-G0tMTIzNTIxOTc0NS8",
       "title": "Barack and Michelle Obama’s Higher Ground, Anonymous Content Making Film of ‘Baldwin: A Love Story’",
@@ -38,6 +50,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Bill Nighy wins best host at British Podcast Awards",
+      "description": "The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1dab/live/98d9de50-bda3-11f1-8373-27235719cf2a.jpg",
+      "publishedAt": "2026-10-01T21:30:29.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
     },
     {
       "id": "indiewire-HktMTIzNTIxOTUxMS8",
@@ -242,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-2l0aC1yZWFsLWJpdGU",
-      "title": "Derek vs Derek review – farmers go head to head in rewilding rivalry with real bite",
-      "description": "Two Devon neighbours face off over the future of the countryside in this warm, wry documentary about farming, conservation and some troublesome wild boar This ebulliently accessible but never tacky British documentary finds a delightfully sneaky way to explore debates around environmental damage, agriculture and the countryside without ever being preachy, dry or patronising. The trick is to find engaging characters who happen to have opposing points of view, and while by the end most viewers would reckon that the pro-environmentalists pretty much win the argument, the conservative element of the farming community gets to have its say and make its case, earning sympathy in the process for a way of life that is itself endangered, albeit partly because of its own self-destructive practices. The twosome at the heart of the story are neighbours Derek Gow and Derek Banbury, two men in late middle age in wellies with bellies whose roughly equal-sized allotments of land (about 120 hectares) abut each other in Devon, near Dartmoor. Twinkly eyed, West Country-accented Banbury is a regular farmer like many others across the UK, rearing dairy cows and planting crops, and just about getting by as the price of milk is kept incredibly low thanks to his main customers, the supermarkets. His son works beside him and is set to inherit the spread just as Derek did, while Derek’s wife, Linda, supplements their income by running holiday cottages. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/derek-vs-derek-review-a-rewilding-rivalry-with-real-bite",
-      "image": "https://i.guim.co.uk/img/media/5318aa6994c2c7635457788eb642aa6ff6775c94/0_938_4813_3849/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fa183df80a43bad36a8e55b400a3c3d8",
-      "publishedAt": "2026-10-01T12:15:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
