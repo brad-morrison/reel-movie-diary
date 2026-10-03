@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:39:16.271Z",
+  "generatedAt": "2026-10-03T01:06:32.772Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WwtMTIzNTIyMDAzMC8",
+      "title": "‘Behemoth!’ Review: Pedro Pascal Plays a Wayward Cellist in Tony Gilroy’s Movingly Atonal Character Study About How People Conduct Themselves",
+      "description": "The \"Andor\" creator returns to the big screen with a movie that's smaller and stranger than its title would suggest.",
+      "url": "https://www.indiewire.com/criticism/movies/behemoth-movie-review-pedro-pascal-1235220030/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/images-7.jpeg?w=650",
+      "publishedAt": "2026-10-03T00:06:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LW1vdmllLXJldmlldw",
+      "title": "Behemoth! review - Pedro Pascal classical music drama hits all the wrong notes",
+      "description": "New York film festival: The actor stumbles through Tony Gilroy’s forgettable film marred by stylistic gimmicks Tony Gilroy has built a sturdy career as the director of the Bourne films and show runner of the popular Star Wars spin-off Andor . He directed Tilda Swinton all the way to an Oscar for her remarkable performance in the legal potboiler Michael Clayton. As the first feature film he has directed since 2012’s The Bourne Legacy , the classical music drama Behemoth! promised to be an intriguing return from a master of threading the needle between slick action and deeply felt drama. His new film comes with a score from nine A-list composers who have banded together and called themselves The Behemoth! Collective, a stacked cast and a womanizing central character who looks phenomenal in a tux: “ Tár for straight men”, as a friend of mine put it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/behemoth-pedro-pascal-movie-review",
+      "image": "https://i.guim.co.uk/img/media/014c236189818575333afe0e049fed262ac3b021/0_42_2000_1599/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=96f9bc0395d31b1e1b2b47e76613bba6",
+      "publishedAt": "2026-10-03T00:00:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-G9tYXMtYW5kZXJzb24",
+      "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
+      "description": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austere One night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to witness Cameron Winter. The Geese frontman was marking the end of a breakout year with a series of rapturously received solo acoustic shows, drawing the penitent for whom the 23-year-old’s primordial voice struck some kind of destabilizing natural frequency. I had bought the ticket months earlier, after being hypnotized by Winter’s beguiling debut solo album, Heavy Metal, and sat transfixed in the rafters, far from the Brooklynite’s lanky, stygian presence before a single piano. So far, in fact, that I assumed the maybe-camera that came on stage at one point was a bit, perhaps a jab at our incessant need to film things from a very deadpan celebrity whose only non-music interlude that evening was to wordlessly stand, stretch and mockingly fight with the stage door, as if trying to escape his own momentous show. I emerged from the event teary, charged by what felt like a communion across time, and confused by a friend’s text: “can’t wait for the cameron winter PTA doc”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+      "image": "https://i.guim.co.uk/img/media/fc35e7ac00f46f6d45adbe548cd52f776827c578/195_0_1913_1530/master/1913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=869b772a4a7e8103804d3758dd4e2904",
+      "publishedAt": "2026-10-02T20:13:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-GgtMTIzNTIxOTQyOS8",
+      "title": "What Has the Last Decade at Netflix Done for David Fincher?",
+      "description": "With Fincher letting his Netflix deal expire, it's worth assessing whether \"Mank,\" \"The Killer,\" \"Mindhunter,\" and the upcoming \"Cliff Booth\" movie have had real cultural impact.",
+      "url": "https://www.indiewire.com/news/analysis/david-fincher-netflix-deal-expiring-mindhunter-cliff-booth-1235219429/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/01/GettyImages-2149344475.jpg?w=650",
+      "publishedAt": "2026-10-02T19:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyMDAyMi8",
+      "title": "Will Nathan Fielder and Lance Oppenheim’s ‘You Can See Everything’ Score a Best Picture Nomination? Not If Oscar History Is Any Guide",
+      "description": "The look at Theranos founder Elizabeth Holmes is the breakout of fall festival season, but it faces major challenges in the Best Picture or Best Documentary race.",
+      "url": "https://www.indiewire.com/awards/predictions/you-can-see-everything-oscar-chances-nathan-fielder-elizabeth-holmes-1235220022/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?w=650",
+      "publishedAt": "2026-10-02T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjIwMDIzLw",
+      "title": "SCAD Savannah Film Festival Lineup Includes ‘Being Heumann,’ ‘A Talent for Murder,’ and More",
+      "description": "\"The Debut,\" \"Behemoth!\" \"Clarissa,\" and \"Wild Horse Nine\" are among the films playing at the 2026 SCAD Savannah Film Festival.",
+      "url": "https://www.indiewire.com/news/festivals/scad-film-festival-2026-full-lineup-revealed-1235220023/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg?w=650",
+      "publishedAt": "2026-10-02T19:05:06.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-J0LTEyMzUyMTk4Mjcv",
       "title": "‘Cameron Winter at Carnegie Hall’ Review: PTA’s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
@@ -148,30 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-V3LWRvY3VtZW50YXJ5",
-      "title": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
-      "description": "When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project Ross McElwee is the film-maker who spun home movies into art, framing himself and his friends and his son Adrian. The director used to film Adrian for a few minutes each month. He tracked the kid from infancy to adulthood, trying to catch the significant turns of his life. When tragedy struck it back-shadowed the footage. Maybe every home movie is a ghost story at heart. It feels crass to compliment McElwee on his latest documentary, Remake, because it isn’t the picture he’d ever have chosen to make. It is instead a grief-struck tour-de-force: a magnificent film about film-making and its real-world repercussions. McElwee filmed Adrian because he loved him, but now fears he might have hurt him. So he sifts through the material in search of clues, addressing his son as though he’s still in the room. “I look at the footage to convince myself that you were alive,” he says. “But also to convince myself that you’re gone.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
-      "image": "https://i.guim.co.uk/img/media/77f9b5d3ea6d3ff8fc5e10e44f1f56013af7cc18/1423_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa88030ab19622bf122d91b1202d2c0c",
-      "publishedAt": "2026-10-02T07:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aW5jZXMtbWFkbmVzcw",
-      "title": "Take It Or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
-      "description": "Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity Opting for the former is the best idea for this unexpectedly revealing, vividly atmospheric, often funny and alarming, docufictional comedy from 1981 about the rise of the baggy-trousered ska-pop national treasures Madness. It takes us from their beginnings in 1976 to their chart breakthrough: gormless, penniless blokes, obsessing about music and roaming north London’s gritty districts of Camden Town, Stoke Newington and Crouch End. (This elicits some droll dialogue: “They’re all the same, these streets” … “That’s why they put signs on them.”) Our naughty, dodgy heroes play people’s parties, sign on the dole and do mortifying odd jobs, get told off by site foremen and office supervisors, drive to gigs in Arthur Daley vans, almost get into fights with skinheads and have calamitous arguments with the drummer during rehearsals. It could have carried on like that indefinitely, but the arrival of Graham “Suggs” McPherson as singer is the mysterious ingredient around which everything coalesces: his voice miraculously ups the band’s game, apparently curing their worrying propensity for playing flat. His vocals mesh with the reggae thump of the keyboards and sax and the rest of the band’s goofy jogging-on-the-spot stage energy. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
-      "image": "https://i.guim.co.uk/img/media/0d1c36de4c2c4162dcff23fafc661b2a578dcd84/570_0_3104_2486/master/3104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1610e79afa6edeaeff3bd19eb89ebb0b",
-      "publishedAt": "2026-10-02T06:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-G0tMTIzNTIxOTc0NS8",
       "title": "Barack and Michelle Obama’s Higher Ground, Anonymous Content Making Film of ‘Baldwin: A Love Story’",
       "description": "The James Baldwin autobiography will be adapted by its writer Nicholas Boggs and his partner, Marlon James, the bestselling author of \"The Disappearers.\"",
@@ -208,54 +256,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-HktMTIzNTIxOTUxMS8",
-      "title": "Sundance’s Michelle Satter Lost Her Son, Then Her Home Burned in the Palisades Fire. She’s Channeling Her Grief to Give Back",
-      "description": "A little over a year after Michael Latt's 2023 murder, Satter and husband David Latt's home burned. To stay positive, they plowed their energy into honoring their son's legacy.",
-      "url": "https://www.indiewire.com/features/interviews/michael-latt-murder-michelle-satter-sundance-charity-1235219511/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_2289.jpg?w=650",
-      "publishedAt": "2026-10-01T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIxOTA0NS8",
-      "title": "What Happens to Chris Hansen After ‘Primetime’?",
-      "description": "The former “To Catch a Predator” host hasn’t ruled out suing A24, but Lance Oppenheim's new film is already giving him a real business opportunity.",
-      "url": "https://www.indiewire.com/features/commentary/how-will-primetime-movie-impact-chris-hansen-reputation-1235219045/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/primetime.jpg?w=650",
-      "publishedAt": "2026-10-01T21:00:33.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxOTU4OS8",
-      "title": "Tom Cruise and James Cameron Are Optimistic About the Paramount and Warner Bros. Merger Because They Can Afford to Be",
-      "description": "Whether you agree with them could depend on where you sit in Hollywood's hierarchy.",
-      "url": "https://www.indiewire.com/features/commentary/hollywood-future-predictions-class-system-paramount-merger-1235219589/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108F48Z.jpg?w=650",
-      "publishedAt": "2026-10-01T20:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE1MDMzLw",
-      "title": "When Clint Eastwood Stepped Away, Eddie Murphy Stepped in and Made ’48HRS’ an Action Comedy Classic",
-      "description": "At a live Filmmaker Toolkit event at the American Cinematheque, writer/director Walter Hill looked back on his 1982 hit and the serendipitous circumstances behind its creation.",
-      "url": "https://www.indiewire.com/features/podcast/walter-hill-replaced-clint-eastwood-eddie-murphy-48hrs-1235215033/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2026.08.26-48-Hours-45.jpg?w=650",
-      "publishedAt": "2026-10-01T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
       "description": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
@@ -266,6 +266,18 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Trailers"
+    },
+    {
+      "id": "guardian-S1hY3Rpb25zLWdhemE",
+      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+      "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systems The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources with knowledge of the military systems used in the war. The disclosure came in response to an Israel Defense Forces statement seeking to discredit the documentary. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3d00e140f734806ed90009d8449678",
+      "publishedAt": "2026-10-01T17:45:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-1yZWxheGVkLXNwYWNl",
@@ -334,18 +346,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
       "image": "https://i.guim.co.uk/img/media/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a0ce1efca0865f556197e376bdee016",
       "publishedAt": "2026-09-30T05:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-JlLWZvdW5kLWphcGFu",
-      "title": "Century-old silent film made in New Hampshire found in Japan antique shop",
-      "description": "Billy B Van’s 1919 comedy Van-ar-chy found by student in Sendai will be shown in early November in New Hampshire A silent comedy filmed in New Hampshire more than a century ago was recently found in Japan, and plans have been set to show the film in early November in the state where it was created. Van-ar-chy, a 1919 film starring the US entertainer and film-maker Billy B Van, was rediscovered by Kohei Okita, a film student in Sendai, Japan. While researching early cinema related to the word “anarchy”, Okita bought several old film reels at an antique store in Japan and found the comedy starring Van, whom he did not recognize, according to a Van-ar-chy news release . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/28/century-old-silent-comedy-new-hampshire-found-japan",
-      "image": "https://i.guim.co.uk/img/media/9e35621528dfa088e4610e0f4145acc4b959c0e8/473_122_2541_2032/master/2541.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb64f804c5af2bdcc31abbc35f58d6b8",
-      "publishedAt": "2026-09-28T17:25:25.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
