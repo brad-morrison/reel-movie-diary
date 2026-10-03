@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:06:32.772Z",
+  "generatedAt": "2026-10-03T06:56:15.661Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 1
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WwtMTIzNTIyMDA4MC8",
+      "title": "Will ‘Behemoth!’ Push Pedro Pascal Into Oscar Contention?",
+      "description": "The movie star is front and center in Tony Gilroy's love letter to film music. But will the Music Branch accept The Behemoth! Collective?",
+      "url": "https://www.indiewire.com/awards/predictions/behemoth-oscar-chances-pedro-pascal-1235220080/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-9.03.07-AM.png?w=650",
+      "publishedAt": "2026-10-03T04:11:06.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMjAwNzEv",
+      "title": "‘Josephine’ Director Beth De Araújo Delivers Powerful Speech Condemning Cornell Rape Case",
+      "description": "“Josephine” director Beth de Araújo used her Breakthrough Director Award acceptance speech to ask men to “hold each other accountable” at the Critics Choice Association’s Celebración of Cinema &#38; Television.",
+      "url": "https://www.indiewire.com/news/general-news/josephine-director-beth-de-araujo-speech-cornell-rape-case-1235220071/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2298291105.jpg?w=650",
+      "publishedAt": "2026-10-03T01:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-WwtMTIzNTIyMDAzMC8",
       "title": "‘Behemoth!’ Review: Pedro Pascal Plays a Wayward Cellist in Tony Gilroy’s Movingly Atonal Character Study About How People Conduct Themselves",
@@ -220,30 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-G0tMTIzNTIxOTc0NS8",
-      "title": "Barack and Michelle Obama’s Higher Ground, Anonymous Content Making Film of ‘Baldwin: A Love Story’",
-      "description": "The James Baldwin autobiography will be adapted by its writer Nicholas Boggs and his partner, Marlon James, the bestselling author of \"The Disappearers.\"",
-      "url": "https://www.indiewire.com/news/general-news/barack-michelle-obama-james-baldwin-love-story-film-1235219745/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/06/MCDIIAM_EC248.jpg?w=650",
-      "publishedAt": "2026-10-01T23:55:50.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTk3Mzcv",
-      "title": "Jon Favreau and Chris Pratt Shared Untold MCU Stories at Kevin Feige’s Pioneer of the Year Award Dinner",
-      "description": "Marvel Studios head Kevin Feige was the Will Rogers Motion Picture Pioneers Foundation's 2026 Pioneer of the Year, with his MCU colleagues Chris Pratt and Jon Favreau presenting him the award.",
-      "url": "https://www.indiewire.com/news/events/marvel-kevin-feige-chris-pratt-untold-mcu-stories-1235219737/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/002.jpg?w=650",
-      "publishedAt": "2026-10-01T23:28:53.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Bill Nighy wins best host at British Podcast Awards",
       "description": "The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
@@ -254,18 +254,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Sexual assault case dismissed against Trailer Park Boys actor Mike Smith",
-      "description": "Actor Mike Smith had been charged with sexual assault in 2025 for an alleged incident in 2017.",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyzykel653o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b9c3/live/ecbf17f0-bd82-11f0-b748-7f02f8da8806.jpg",
-      "publishedAt": "2026-10-01T19:49:02.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Trailers"
     },
     {
       "id": "guardian-S1hY3Rpb25zLWdhemE",
@@ -290,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
-      "description": "John Davidson, whose condition includes involuntary tics, shouted a racial slur during the Bafta Film Awards in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c01a/live/3b4ae530-109d-11f1-b048-c9424b2cf5fd.jpg",
-      "publishedAt": "2026-10-01T12:06:00.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-3Vsb3VzLW91dGZpdHM",
