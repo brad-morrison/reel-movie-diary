@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:07:18.187Z",
+  "generatedAt": "2026-10-03T19:11:02.794Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -266,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Bill Nighy wins best host at British Podcast Awards",
-      "description": "The actor has become an agony uncle in what award organisers called an \"irresistibly endearing series\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl6l0klw1go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1dab/live/98d9de50-bda3-11f1-8373-27235719cf2a.jpg",
-      "publishedAt": "2026-10-01T21:30:29.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-S1hY3Rpb25zLWdhemE",
