@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:56:15.661Z",
+  "generatedAt": "2026-10-03T14:07:18.187Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 1
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Film festival celebrates British-Latino identity",
+      "description": "The Latino film festival in the capital will screen 60 films from 27 countries over five days.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7mgm0rd9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f3aa/live/cadd6a10-bf16-11f1-9947-0584c244b963.jpg",
+      "publishedAt": "2026-10-03T10:53:48.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "'I watched 800 films in Covid, now I direct them'",
+      "description": "Benjamin Williams from Malvern has worked on Apple TV's Slow Horses for its upcoming season.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zwkk81mlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bbe6/live/3e643710-bc1b-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-10-03T06:10:12.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
     {
       "id": "indiewire-WwtMTIzNTIyMDA4MC8",
       "title": "Will ‘Behemoth!’ Push Pedro Pascal Into Oscar Contention?",
@@ -137,7 +161,7 @@
     },
     {
       "id": "guardian-FsLWFsYmVydC1oYWxs",
-      "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30 year anniversary",
+      "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30-year anniversary",
       "description": "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now It is one of the prime minister’s all-time favourite films and has endured in the hearts of the British public since it was released in 1996. Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political. “I think the people who went expecting a political film got the bonus of a bit of a comedy,” says its writer, Mark Herman, three decades on. “And the people who went expecting comedy got the bonus of the political message. I think anybody who went got a sort of bonus they might not have expected. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
       "image": "https://i.guim.co.uk/img/media/e469b48c45507bca822d33821131c882eff903b9/339_0_2826_2262/master/2826.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31190cdb9f134fa0b735246fa9b22503",
