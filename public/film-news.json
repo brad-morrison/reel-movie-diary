@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T19:11:02.794Z",
+  "generatedAt": "2026-10-04T01:38:05.694Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-nQtZmlsbS1yZXZpZXc",
+      "title": "A Statement review – outstanding climate change dramedy about a 1980 meeting",
+      "description": "New York film festival: Paul Rudd, Paul Giamatti and Tatiana Maslany lead an excellent ensemble in this dramatization of a failed conference on climate change In late October 1980, days before the election of Ronald Reagan , Congress summoned 20 experts in various fields to a beachfront hotel in Florida. Their mandate was simple: figure out how to address the dire threat posed to the climate by fossil fuel emissions, then deliver their recommendations to Congress in the form of a statement. Every word said during four marathon sessions over the next 36 hours – every disagreement or digression, tirade or truce – was recorded by a stenographer for posterity into a single document, hundreds of pages long, that stands as an artifact from a time when expertise was trusted, before corporate greed and political expediency mired “debate” about rising levels of CO2 in the atmosphere in a haze of misinformation and inaction. The fact that this meeting took place at all – that experts in climate, energy, law, philosophy, politics and more agreed on the fundamental facts, yet struggled to reach consensus on what to do about them – is fascinating, if perhaps not the most natural fit for a movie. This was, after all, a conference room of specialists sharing evidence via overhead projector. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+      "image": "https://i.guim.co.uk/img/media/02ba36abe4618bbc1611b1459482b1f095e0532e/887_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c9e2da0c98575a2f52baa3a5510643a6",
+      "publishedAt": "2026-10-04T00:15:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIyMDEwMy8",
+      "title": "‘A Statement’ Review: Tom McCarthy’s Talky Climate Crisis Seriocomedy Is Light Entertainment That Hardly Rakes the Muck",
+      "description": "New York Film Festival: The Oscar-winning writer/director turns his spotlight on a plushly appointed ensemble as the environmental stewards and scholars who tried to solve the climate crisis over one long-winded, futile meeting in St. Petersburg, Florida, in 1980.",
+      "url": "https://www.indiewire.com/criticism/movies/a-statement-review-tom-mccarthy-1235220103/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/A-STATEMENT-Still.jpg?w=650",
+      "publishedAt": "2026-10-04T00:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Film festival celebrates British-Latino identity",
@@ -208,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-9zLTEyMzUyMTk4MTEv",
-      "title": "Skydance: David Ellison Names Newly Combined Paramount-Warner Bros. After His Old Company",
-      "description": "Get ready for corporate babble as Skydance releases an exciting new sizzle reel featuring clips of \"Titanic\" and Michael B. Jordan's narration.",
-      "url": "https://www.indiewire.com/news/business/skydance-david-ellison-names-combined-paramount-warner-bros-1235219811/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2272991569.jpg?w=650",
-      "publishedAt": "2026-10-02T13:57:01.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-NpYy1maWxtLWJvb2tz",
       "title": "‘It’s radical to release a film called Girls Like Girls in this climate’: hitmaker turned director Hayley Kiyoko on sexuality, safety and becoming ‘Lesbian Jesus’",
       "description": "The singer’s hit 2015 single Girls Like Girls was her breakthrough moment and also the first time she felt confident in her sexuality. Now she has directed a film based on the song – a love letter to her 17-year-old self A lot of Hayley Kiyoko’s teenage summers were spent waiting, bored and pining, as she sat at the computer willing her crush to message her back on AOL instant messenger. Like Coley, the 17-year-old protagonist of Girls Like Girls, the film the pop star has co-written and directed, Kiyoko fell hard for a girl who “put me through my own heartbreak and haunted me for a long time”, she says. Although the 35-year-old singer became known by fans as “lesbian Jesus” following the release of her breakthrough single Girls Like Girls in&nbsp;2015 (the film is an extended version of the story first told in the song’s music video), feeling comfortable in her sexuality didn’t actually come until after its release. Her gay identity was, at the time, the topic she was “the&nbsp;most scared of writing about”, and the song’s confident refrain “Girls like girls like boys do, nothing new” came from wanting to “manifest feeling confident”. Continue reading...",
@@ -256,12 +268,12 @@
       "category": "TV"
     },
     {
-      "id": "guardian-WF3YXJkcy1zZWFzb24",
-      "title": "Horror films like Obsession are shut out of the Golden Globes – unless they pretend to be comedies",
-      "description": "Obsession is a terrifying, violent nightmare of lovestruck madness – but the Globes’ rigid awards categories have forced it into an absurd choice What do this year’s wish-gone-wrong tale Obsession , gross-out transformation bloodbath The Substance , and Jordan Peele’s generational masterpiece Get Out have in common? Well, they’re all modern horror success stories, with critics and at the box office, and they broke free of genre snobbery to become awards-season contenders. They’re also toe-tapping laugh riots. At least that’s what the Golden Globes would have you believe. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/obsession-horror-films-golden-globes-awards-season",
-      "image": "https://i.guim.co.uk/img/media/35c65be51348e0bad253ace7a5e94404c70064c8/460_223_1317_1054/master/1317.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5569ff9e278a9c78f100080cd7912265",
-      "publishedAt": "2026-10-02T09:50:53.000Z",
+      "id": "guardian-V3LWRvY3VtZW50YXJ5",
+      "title": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
+      "description": "When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project Ross McElwee is the film-maker who spun home movies into art, framing himself and his friends and his son Adrian. The director used to film Adrian for a few minutes each month. He tracked the kid from infancy to adulthood, trying to catch the significant turns of his life. When tragedy struck it back-shadowed the footage. Maybe every home movie is a ghost story at heart. It feels crass to compliment McElwee on his latest documentary, Remake, because it isn’t the picture he’d ever have chosen to make. It is instead a grief-struck tour-de-force: a magnificent film about film-making and its real-world repercussions. McElwee filmed Adrian because he loved him, but now fears he might have hurt him. So he sifts through the material in search of clues, addressing his son as though he’s still in the room. “I look at the footage to convince myself that you were alive,” he says. “But also to convince myself that you’re gone.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
+      "image": "https://i.guim.co.uk/img/media/77f9b5d3ea6d3ff8fc5e10e44f1f56013af7cc18/1423_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa88030ab19622bf122d91b1202d2c0c",
+      "publishedAt": "2026-10-02T07:00:13.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -394,18 +406,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
       "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=af49609ebfe6d1b9c0b401e7d8d7782f",
       "publishedAt": "2026-09-22T13:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-BvbnMtYmFyYmFyaWFu",
-      "title": "‘Resident Evil movies? I’ve never seen one’: Weapons director Zach Cregger on resurrecting the beloved zombie franchise",
-      "description": "Raised on punk, alt-comedy and the church, Cregger’s Lynchian approach to horror is anything but typical. After two wildly original hits, his pivot to a 30-year-old video game has caused a storm among protective fans When Barbarian , Zach Cregger’s debut film as a solo writer-director, came out in 2022, it was a big success, creating a buzz among horror connoisseurs, garnering good reviews, and grossing $46m. Then his second film, Weapons , came out in 2025 and did even better. Mounting industry buzz around the project crystallised into a fierce bidding war; Jordan Peele was reportedly desperate to produce and, incensed by his failure to secure the rights, allegedly fired his managers. The rumours went viral, resulting in a wave of incredible PR that saw the film wildly outperform box office expectations and win an Academy Award (for Amy Madigan ’s blunt-fringed, bonsai-pruning best supporting actress turn as instantly classic villain Aunt Gladys). Even if Cregger had not had a box-office smash that crossed over into awards contention, there would still be an atmosphere of hushed expectation around his next move. Both Barbarian and Weapons addressed hot-button issues – sexual assault and school shootings, respectively – while resisting easy interpretation. Both, too, started out seemingly heading in one narrative direction, before thrillingly careening off elsewhere. Thus, with just two features, Cregger had established a reputation for totally terrifying, utterly unpredictable and – most importantly – genuinely original movies. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/20/zach-cregger-director-interview-resident-movie-evil-weapons-barbarian",
-      "image": "https://i.guim.co.uk/img/media/343bc2c556eb8bc6407d9ad6e0bab21b6151f565/232_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6da68f5a41ab227aaf2dce8333f3b704",
-      "publishedAt": "2026-09-20T09:00:12.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
