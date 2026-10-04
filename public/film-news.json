@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:20:03.134Z",
+  "generatedAt": "2026-10-04T19:33:23.712Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-1iLTEyMzUyMjAwOTMv",
+      "title": "‘Digger’ Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise’s Career",
+      "description": "The expensive satire is on track to lose $150 million or more, studio sources estimate, making it a historic disaster.",
+      "url": "https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB026.jpg?w=650",
+      "publishedAt": "2026-10-04T15:24:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-JkLTEyMzUyMjAxNDMv",
       "title": "Box Office: John Wilson’s ‘The History of Concrete’ from Magnolia Passes $1 Million",
@@ -226,18 +238,6 @@
       "url": "https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/09/02-Musk-2.jpg?w=650",
       "publishedAt": "2026-10-02T16:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9zLTEyMzUyMTk4NDEv",
-      "title": "Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema",
-      "description": "The Pam and Mike era is over. Their sensibility led to big hits and massive flops and was not in sync with new Skydance boss David Ellison.",
-      "url": "https://www.indiewire.com/features/commentary/mike-de-luca-pam-abdy-over-warner-bros-1235219841/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/GettyImages-2174562281.jpg?w=650",
-      "publishedAt": "2026-10-02T16:05:31.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
