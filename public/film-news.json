@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T01:38:05.694Z",
+  "generatedAt": "2026-10-04T14:20:03.134Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-JkLTEyMzUyMjAxNDMv",
+      "title": "Box Office: John Wilson’s ‘The History of Concrete’ from Magnolia Passes $1 Million",
+      "description": "Among documentaries, the humorous look at urbanism is the year's highest-grossing platform release.",
+      "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-1-million-gross-record-1235220143/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/DA__7968.jpg?w=650",
+      "publishedAt": "2026-10-04T12:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-d2UtcGVhY2VtYWtlcg",
+      "title": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
+      "description": "By embracing the role of amiable lunk, the wrestler turned actor has become an unlikely, and very modern, leading man. But does his relationship with the WWE, and its controversial former owner, risk tarnishing his brand? I must admit, I was apprehensive about meeting John Cena. The WWE wrestler turned actor has built an enviable Hollywood career playing idiots – capable idiots with real heart, but dimwits nevertheless. Still, Cena is obviously nobody’s fool; fools don’t rise from humble beginnings to become their generation’s answer to Hulk Hogan or The Rock. Would the Cena who appears on my computer screen be the real one? Or something closer to the comic-book characters he embodies so well: guileless, silly and fond of a deliberate misunderstanding? It is immediately clear that this is no manchild. Perfectly punctual, he greets me with a lavish formality befitting a man who made his film debut as the title character in The Marine. Within a minute he has volunteered, unprompted, that “a core value of mine is respect”. Cena, 49, is speaking to me on behalf of Matchbox: The Movie, a film extension of the Mattel toy car brand for Apple TV, and for 45 minutes he is generous, funny, complimentary and elusive without ever being evasive. It’s a genuinely radical thing for a man built like a chest freezer – having only recently retired from wrestling after 26 years – to be so relaxed about being ridiculous, and in an age of such joyless online strongmen as Trump, Musk and Andrew Tate, his buff charm is welcome. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker",
+      "image": "https://i.guim.co.uk/img/media/459e35676344312a081658f8aa3e9f7077f5efd7/0_0_2582_2065/master/2582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e73ddea34fcac5fc00d690641a051d0",
+      "publishedAt": "2026-10-04T09:00:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-nQtZmlsbS1yZXZpZXc",
       "title": "A Statement review – outstanding climate change dramedy about a 1980 meeting",
@@ -214,18 +238,6 @@
       "url": "https://www.indiewire.com/features/commentary/mike-de-luca-pam-abdy-over-warner-bros-1235219841/",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/03/GettyImages-2174562281.jpg?w=650",
       "publishedAt": "2026-10-02T16:05:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxOTc0NC8",
-      "title": "Before David Ellison Took Over Paramount, I Watched the Hollywood That Brought Me Here Disappear",
-      "description": "As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.",
-      "url": "https://www.indiewire.com/features/commentary/paramount-golden-age-before-merger-1235219744/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDFLYB_EC014.jpg?w=650",
-      "publishedAt": "2026-10-02T15:03:41.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
@@ -458,18 +470,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-WJsZS1sb3ZlLW5hemE",
-      "title": "Bold and bravura choices as Venice celebrates A Woman Unknown, Possible Love and NAZA",
-      "description": "After facing heavy criticism over its lack of female directors, the film festival may have redeemed itself with its winners’ list Woman Unknown wins Venice film festival as NAZA takes special jury prize Did the Venice film festival just redeem itself on the sexism issue? It made a really good choice for the top prize, giving it to a female director, and it’s a good winners’ list all round. Having been pilloried for failing to include enough women film-makers , the festival awarded the Golden Lion to Woman Unknown , by the Danish-Egyptian director May el-Toukhy, her gripping and stylish drama-thriller about sexual shame, political paranoia and the return of the repressed in Denmark after the second world war. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/bold-bravura-choices-venice-film-festival-woman-unknown-possible-love-naza",
-      "image": "https://i.guim.co.uk/img/media/eafbbcb2d816155ec192c9d1c235d0d778902bb9/567_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ab04c6b5271cb32852ef3d1ca53a1e82",
-      "publishedAt": "2026-09-12T21:07:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-LW1vdmllLXJldmlldw",
