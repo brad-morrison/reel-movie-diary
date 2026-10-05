@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T19:33:23.712Z",
+  "generatedAt": "2026-10-05T01:15:04.628Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-jYtMTIzNTIyMDEyNy8",
+      "title": "Q3’s Horror Box Office Shows the Trouble with Always Hunting Another ‘Obsession’",
+      "description": "\"Resident Evil\" arrived big, \"Buddy\" built a hit, and \"Evil Dead\" and \"Insidious\" grappled with cost-benefit expectations. Horror’s third quarter explains why the genre needs more than one benchmark.",
+      "url": "https://www.indiewire.com/features/commentary/horror-box-office-q3-2026-1235220127/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/q3-horror-report.png?w=650",
+      "publishedAt": "2026-10-04T22:35:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-1iLTEyMzUyMjAwOTMv",
       "title": "‘Digger’ Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise’s Career",
@@ -230,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjE5NzY4Lw",
-      "title": "How Bleecker Street Endured Tragedy and Elon Musk’s Legal Threats to Have Its Hottest Year",
-      "description": "The independent studio is deep in the awards race with \"Tender Loving Care\" and riding high on the success of \"Hadestown: The Musical\" despite the death of its founder.",
-      "url": "https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/02-Musk-2.jpg?w=650",
-      "publishedAt": "2026-10-02T16:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-NpYy1maWxtLWJvb2tz",
