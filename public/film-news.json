@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:15:04.628Z",
+  "generatedAt": "2026-10-05T07:09:25.574Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-ZXZlbmdlLXJldmlldw",
+      "title": "Charlie Shaw’s Revenge review – creepy clown killer takes aim at struggling amusement park",
+      "description": "Decent effects and a late-stage twist show promise, but this gore-fest needs to be more disgusting, funny or unnerving The film opens with a lone figure striding into the foreground. He’s an amateur entertainer on his way to a gig, and he’s not been met at the station as planned. Still, not to worry – a car pulls up, and he gets in. But needless to say, his days (indeed, his minutes) are numbered. The murder that goes down in short order features plenty of blood but somehow fails to terrify the viewer. This is a problem unfortunately not limited to the opening scene: despite the various gruesome killings on show, there’s not much in the way of scares. The plot involves an adventure park in danger of going out of business, with the band of workers trying to get the place back on track providing plenty of fodder for a killer who spends some of the time dressed as a creepy clown. It’s easy to be dismissive of demon-clown films like Terrifier but they are effective in what they seek to do. Charlie Shaw’s Revenge isn’t – partly because the performances generally land some distance short of plausible, and partly because the writing itself is painfully thin. (The effects work, on the other hand, is decent, and the use of real locations with real animals is very welcome in a film-making era of green screen and expensive but hastily cobbled together CGI.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/charlie-shaws-revenge-review",
+      "image": "https://i.guim.co.uk/img/media/18a24cd70b53f92bd47ad378af9dea5d2e54cfb9/864_0_2111_1689/master/2111.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=71d24b4a29cbc5ae3c9ddeca16e7d296",
+      "publishedAt": "2026-10-05T06:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Charity tea room may close despite Ludwig filming",
+      "description": "The series, starring David Mitchell, is filming scenes in Hemel Hempstead.",
+      "url": "https://www.bbc.co.uk/news/articles/cq39mgmyr94do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d319/live/0aba8c50-bce0-11f1-afec-ebbb2634c4cd.jpg",
+      "publishedAt": "2026-10-05T05:31:01.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-RoLTEyMzUyMjAxMjYv",
+      "title": "Kyle Chandler, Aaron Pierre, and the ‘Lanterns’ Creators on a ‘Quieter’ Finale, Ending with Love, and the New Oath",
+      "description": "The stars and creators behind HBO's \"grounded\" superhero series break down an ending that focuses on character over spectacle — and introduces a new oath for our new Green Lantern.",
+      "url": "https://www.indiewire.com/features/interviews/kyle-chandler-aaron-pierre-explain-lanterns-finale-new-oath-1235220126/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Lanterns-Episode-8-finale-Aaron-Pierre-as-John-Stewart-and-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
+      "publishedAt": "2026-10-05T02:05:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIxOTU0NS8",
+      "title": "‘Lanterns’ Finale Review: Episode 8 Makes the Hard Choices — and Leaves a Light on for Season 2",
+      "description": "Showrunner Chris Mundy joined his co-creators Damon Lindelof and Tom King to write a dense, emotional finale that focuses on characters over spectacle and shows love in all its messy glory.",
+      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-8-review-finale-spoilers-1235219545/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Lanterns-Episode-8-finale-Aaron-Pierre-as-John-Stewart.jpg?w=650",
+      "publishedAt": "2026-10-05T02:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-jYtMTIzNTIyMDEyNy8",
       "title": "Q3’s Horror Box Office Shows the Trouble with Always Hunting Another ‘Obsession’",
@@ -26,6 +74,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Matthew Rhys takes Best Actor at Bafta Cymru for performance in Netflix thriller",
+      "description": "The actor added another award to his cabinet after winning two lead acting Emmys last month.",
+      "url": "https://www.bbc.co.uk/news/articles/c95yn0g587vxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/64d0/live/0dcf11b0-c035-11f1-b87e-c7a3d30c1570.jpg",
+      "publishedAt": "2026-10-04T20:55:57.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
     },
     {
       "id": "indiewire-1iLTEyMzUyMjAwOTMv",
@@ -208,30 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-J0LTEyMzUyMTk4Mjcv",
-      "title": "‘Cameron Winter at Carnegie Hall’ Review: PTA’s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
-      "description": "New York Film Festival: Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.",
-      "url": "https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
-      "publishedAt": "2026-10-02T18:06:32.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE5NzU5Lw",
-      "title": "Indie Filmmakers Push Back Against Claims That There Aren’t Enough Movies to Buy",
-      "description": "Distributors say there's high demand for indie films that are distinctive and broadly commercial. Artists like Annapurna Sriram want to know how big a movie has to be before it counts.",
-      "url": "https://www.indiewire.com/features/interviews/indie-filmmakers-push-back-movie-shortage-claims-1235219759/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/6.webp?w=650",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-FsLWFsYmVydC1oYWxs",
       "title": "‘I thought Brassed Off might be popular within a 10 mile radius of Barnsley’: the director of Andy Burnham’s favourite film on its 30-year anniversary",
       "description": "Ahead of a live performance in the Royal Albert Hall, the writer Mark Herman explains why he’s not surprised it’s one of the new Prime Minister’s favourites and a why film like this wouldn’t get made now It is one of the prime minister’s all-time favourite films and has endured in the hearts of the British public since it was released in 1996. Ostensibly a story about a small town colliery band’s journey to the finals of Britain’s biggest brass band competition at the Royal Albert Hall, Brassed Off is unashamedly political. “I think the people who went expecting a political film got the bonus of a bit of a comedy,” says its writer, Mark Herman, three decades on. “And the people who went expecting comedy got the bonus of the political message. I think anybody who went got a sort of bonus they might not have expected. Continue reading...",
@@ -250,18 +286,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books",
       "image": "https://i.guim.co.uk/img/media/f3eb026ef7ece07c65777b99361c7d175eb10404/0_142_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51fce42d85aa28b2f8c9b845b951099f",
       "publishedAt": "2026-10-02T12:00:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-S1tYXJ2ZWwtYmxhZGU",
-      "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
-      "description": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitman Mahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother . That’s not a nod to Ali’s previous attachment to Marvel’s Blade. It’s of a piece with Ali’s character, Latif, a devout Muslim who also happens to be a contract killer, though he fashions himself a righteous killer. Latif justifies his violence as divine retribution, dispensing victims he believes to have offended God. His sword, according to writer and director Bassam Tariq, is a part of Latif’s code, a negotiation with his faith. “You are forced to strike with intention when you use a sword,” Tariq says, speaking in a recent interview in Toronto. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
-      "image": "https://i.guim.co.uk/img/media/f77285f514f3353990d09d1648a5d48e8f55d70c/417_0_4167_3334/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0718dca6be14c0c9af015004cc520852",
-      "publishedAt": "2026-10-02T11:00:18.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
