@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:48:34.027Z",
+  "generatedAt": "2026-10-05T18:42:04.979Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "It's A Sin star 'keeps you guessing' in Wales-set thriller",
+      "description": "Callum Scott Howells stars opposite fellow Welsh actor Gabrielle Creevy in The Night They Vanished.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2q20nqdnqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc31/live/abab4c90-c0e5-11f1-8cf3-7dbc6a5861dd.jpg",
+      "publishedAt": "2026-10-05T17:01:29.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-R0LTEyMzUyMjAyMzAv",
+      "title": "‘What Can’t Be Mentioned’ Review: Dan Sallitt Returns with a Sequel to His Beloved Incest Drama ‘The Unspeakable Act’",
+      "description": "Tallie Mendel reprises their role as Jackie, whose feelings for her older brother reignite when she learns that he expects a child.",
+      "url": "https://www.indiewire.com/criticism/movies/what-cant-be-mentioned-movie-review-dan-sallitt-1235220230/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/What-Cant-Be-Mentioned_NYFF64_01.jpeg?w=650",
+      "publishedAt": "2026-10-05T14:45:55.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZWVsZ29vZC1tb3ZpZQ",
+      "title": "‘Exceptionally crafted’: why Little Shop of Horrors is my feelgood movie",
+      "description": "The latest in our series of writers’ favorite comfort films is a tribute to the lovably quirky 80s musical The key to a feelgood movie , beyond the necessary rewatchability, is familiarity – the real kind that lets you look away or fall asleep without doubting your affection. Musicals are perfectly suited to this particular subgenre since the majority of them, especially the classic ones adapted for film, atrophy with second-act problems. That’s where writers suddenly remember the plot they had introduced and drop all that singing and dancing to arrive at some type of conclusion. The first act of Funny Girl? A near-flawless parade of showstoppers, Barbra Streisand as Fanny Brice having the time of her life falling in love. I’ve probably seen it 200 times. The second act … well, who ever cared about her husband’s gambling addiction? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/little-shop-of-horrors-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/733d4b22a807ad101356fa8ce1e94332a16afb23/8_0_1287_1030/master/1287.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2030b9c45b9d9d9e35cc4ac8cdee5d31",
+      "publishedAt": "2026-10-05T14:44:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-notMTIzNTIyMDExOC8",
+      "title": "John Turturro on ‘Only Living Pickpocket,’ Wishing the Coen Brothers Would Reunite and Why Hollywood Ignores the Working Class",
+      "description": "Turturro also steals the show in Tom McCarthy's \"A Statement,\" which premiered at the New York Film Festival.",
+      "url": "https://www.indiewire.com/awards/consider-this/john-turturro-only-living-pickpocket-coen-brothers-reunite-oscar-buzz-1235220118/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2298439395.jpg?w=650",
+      "publishedAt": "2026-10-05T14:20:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
+      "description": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/efe1/live/f56baee0-c0d8-11f1-bdc6-179ac8d394b5.jpg",
+      "publishedAt": "2026-10-05T14:16:06.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2MtMTIzNTIyMDIyNS8",
+      "title": "‘Manhood’ Trailer: The World of Penis Enlargement Gets a Bizarre and Sensitive Documentary",
+      "description": "Exclusive: Director Daniel Lombroso's 2026 SXSW premiere understands the humor inherent to male insecurity.",
+      "url": "https://www.indiewire.com/news/trailers/manhood-trailer-penis-enlargement-doc-1235220225/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/MANHOOD_STILL_3-e1773084369718.webp?w=650",
+      "publishedAt": "2026-10-05T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-1lLW9mLXRoZS1yb3Nl",
+      "title": "‘I spat in Sean Connery’s face 16 times’: Ron Perlman on making The Name of the Rose",
+      "description": "‘When I couldn’t do the spitting scene, Sean took me aside and said: “Ron, if you don’t actually spit in my face, we’ll be here all day.” So I let one fly – and kept having to redo it’ I read an article about a curious book that had great reviews in Italy, a murder mystery about monks in the middle ages fighting for the fictional missing part of Aristotle’s Poetics. I said: “This is for me.” Since childhood, I had been fascinated with medieval and religious architecture, and Aristotle’s Poetics is my favourite literary work. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose",
+      "image": "https://i.guim.co.uk/img/media/10dd27f563b42bc2356701fe685046a333fa521c/4_0_1602_1282/master/1602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=567c3c8cf88b01612bf7d7dedb95a719",
+      "publishedAt": "2026-10-05T13:53:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "BBC appoints Rachel Jupp as new director of news",
+      "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7baf/live/193c1640-c0c3-11f1-885f-4f9e8c6dce17.jpg",
+      "publishedAt": "2026-10-05T13:05:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-dWxpbmUtY2xlbWVudA",
       "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
@@ -38,18 +134,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-G9yLWxpdmUtbXVzaWM",
-      "title": "The Yellow Tie review – John Malkovich gives major hauteur as legendary record-hating maestro",
-      "description": "This biopic of Sergiu Celibidache, the renowned Romanian conductor who refused all recordings, is a sturdy labour of love directed by his son Here is an old-fashioned biopic from central Europe that is also a labour of love on the part of its director: a little stolid and stately, yes, but robustly made, heartfelt and high-minded, with workmanlike performances and decent visual effects work. It is the story of the Romanian conductor and composer Sergiu Celibidache, a brilliant musician who became renowned among musical connoisseurs in the years following the second world war for his unique and uncompromisingly purist belief – derived from his Zen Buddhist studies – that music should never be recorded. He believed that LPs and CDs were inert and dead, and that music had to be experienced live, in the passionately authentic present. The director is the musician’s son, Serge Ioan Celebidachi, and as an older man in his rural French retirement, he is played with unsubtly querulous hauteur by John Malkovich, especially in the misjudged opening scene where he yells at Japanese executives for presuming to offer him a recording deal. Ben Schnetzer is the younger Celibidache, a prodigy whose musical ambition infuriates his old-fashioned father (Sean Bean), a well-regarded functionary who assumed that his son would follow him into public office. Celebidache Sr therefore demands the return of his birthday gift, a certain type of yellow tie that had been favoured by generations of the family’s menfolk, and which here becomes a fetish of the heartbroken young Sergiu’s need to please his father but also break away from him. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
-      "image": "https://i.guim.co.uk/img/media/cbc0540c07edc4c039193b272f87aed11fd7f9e4/214_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=42d568f3e10b2ccbfc721da8f2cf8f43",
-      "publishedAt": "2026-10-05T10:00:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -122,18 +206,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Matthew Rhys takes Best Actor at Bafta Cymru for performance in Netflix thriller",
-      "description": "The actor added another award to his cabinet after winning two lead acting Emmys last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c95yn0g587vxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/64d0/live/0dcf11b0-c035-11f1-b87e-c7a3d30c1570.jpg",
-      "publishedAt": "2026-10-04T20:55:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "indiewire-1iLTEyMzUyMjAwOTMv",
@@ -254,54 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-G9tYXMtYW5kZXJzb24",
-      "title": "Cameron Winter at Carnegie Hall review – Paul Thomas Anderson’s sumptuous recording is an immediate classic",
-      "description": "New York Film Festival: The Geese frontman mesmerizes in a concert film that is both swoony and austere One night last December, weary from a busy week and the impending doom of winter, I hurried into Carnegie Hall to witness Cameron Winter. The Geese frontman was marking the end of a breakout year with a series of rapturously received solo acoustic shows, drawing the penitent for whom the 23-year-old’s primordial voice struck some kind of destabilizing natural frequency. I had bought the ticket months earlier, after being hypnotized by Winter’s beguiling debut solo album, Heavy Metal, and sat transfixed in the rafters, far from the Brooklynite’s lanky, stygian presence before a single piano. So far, in fact, that I assumed the maybe-camera that came on stage at one point was a bit, perhaps a jab at our incessant need to film things from a very deadpan celebrity whose only non-music interlude that evening was to wordlessly stand, stretch and mockingly fight with the stage door, as if trying to escape his own momentous show. I emerged from the event teary, charged by what felt like a communion across time, and confused by a friend’s text: “can’t wait for the cameron winter PTA doc”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
-      "image": "https://i.guim.co.uk/img/media/fc35e7ac00f46f6d45adbe548cd52f776827c578/195_0_1913_1530/master/1913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=869b772a4a7e8103804d3758dd4e2904",
-      "publishedAt": "2026-10-02T20:13:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-GgtMTIzNTIxOTQyOS8",
-      "title": "What Has the Last Decade at Netflix Done for David Fincher?",
-      "description": "With Fincher letting his Netflix deal expire, it's worth assessing whether \"Mank,\" \"The Killer,\" \"Mindhunter,\" and the upcoming \"Cliff Booth\" movie have had real cultural impact.",
-      "url": "https://www.indiewire.com/news/analysis/david-fincher-netflix-deal-expiring-mindhunter-cliff-booth-1235219429/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/01/GettyImages-2149344475.jpg?w=650",
-      "publishedAt": "2026-10-02T19:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyMDAyMi8",
-      "title": "Will Nathan Fielder and Lance Oppenheim’s ‘You Can See Everything’ Score a Best Picture Nomination? Not If Oscar History Is Any Guide",
-      "description": "The look at Theranos founder Elizabeth Holmes is the breakout of fall festival season, but it faces major challenges in the Best Picture or Best Documentary race.",
-      "url": "https://www.indiewire.com/awards/predictions/you-can-see-everything-oscar-chances-nathan-fielder-elizabeth-holmes-1235220022/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?w=650",
-      "publishedAt": "2026-10-02T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjIwMDIzLw",
-      "title": "SCAD Savannah Film Festival Lineup Includes ‘Being Heumann,’ ‘A Talent for Murder,’ and More",
-      "description": "\"The Debut,\" \"Behemoth!\" \"Clarissa,\" and \"Wild Horse Nine\" are among the films playing at the 2026 SCAD Savannah Film Festival.",
-      "url": "https://www.indiewire.com/news/festivals/scad-film-festival-2026-full-lineup-revealed-1235220023/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg?w=650",
-      "publishedAt": "2026-10-02T19:05:06.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-NpYy1maWxtLWJvb2tz",
