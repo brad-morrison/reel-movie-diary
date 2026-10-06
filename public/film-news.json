@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:45:05.447Z",
+  "generatedAt": "2026-10-06T18:40:05.067Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-mEtMTIzNTIyMDMwNC8",
+      "title": "After Playing ‘Bombastic and Emotionally Volatile’ Roles, Mikey Madison Craved the ‘Restraint’ of ‘The Social Reckoning’",
+      "description": "For her first film role after winning Best Actress for \"Anora,\" the star told IndieWire she found herself drawn to Aaron Sorkin's take on the kind of character (and a real person) she'd never played before.",
+      "url": "https://www.indiewire.com/features/interviews/mikey-madison-the-social-reckoning-after-anora-1235220304/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2297743558.jpg?w=650",
+      "publishedAt": "2026-10-06T17:07:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-LW1vdmllLXJldmlldw",
+      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "description": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield On the day that Luca Guadagnino ’s film about Sam Altman and OpenAI premiered, Vanity Fair released a cover story on Altman. Alongside glossy portraits from Annie Leibovitz, the world’s pre-eminent portrait photographer, the story describes him as the Oppenheimer of his day, evoking the image of a man leading humanity towards its own inevitable demise at the hands of sentient robots. Altman doesn’t seem to be grappling with much existential angst about the whole thing though: in an interview also released this week, he said that we should be prepared to accept “bad things” in return for the benefits of AI. How much worse can things get? AI agents have already gone rogue , hacking into government systems and “bruteforcing” UN databases. Last year , a young woman used ChatGPT as a therapist before she killed herself (the software helped her write her suicide note). Studies show that using AI is probably leading us all towards something called cognitive surrender, which does not seem like the best use of your one wild and precious life. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/600_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=d6ef0e69fade35cfd26749922fa12897",
+      "publishedAt": "2026-10-06T16:58:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIyMDQwOS8",
+      "title": "The First Skydance Movie? An 8th ‘Transformers’ Film Executive Produced by Steven Spielberg",
+      "description": "Michael Bay is in early talks to return to direct, and Shia LaBeouf is not returning.",
+      "url": "https://www.indiewire.com/news/breaking-news/eighth-transformers-film-produced-steven-spielberg-skydance-1235220409/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2017/06/tf5-ff-004-cc-e1541450530604.jpg?w=650",
+      "publishedAt": "2026-10-06T16:30:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
+      "publishedAt": "2026-10-06T16:01:11.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIwMzc3Lw",
+      "title": "The Emmys Ditch Broadcast for Streaming: Amazon Prime Video to Air Awards Show for Next 6 Years",
+      "description": "It's the first permanent home for the Emmys after rotating between networks for years.",
+      "url": "https://www.indiewire.com/news/breaking-news/emmys-amazon-prime-video-next-6-years-1235220377/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Emmys-2026-host-Mariska-Hargitay-opening.jpg?w=650",
+      "publishedAt": "2026-10-06T14:18:06.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-ZS1jb25zb2xhdGlvbg",
+      "title": "‘I’m bringing together women who nourish me’: French film-maker Alice Diop on her debut installation",
+      "description": "The Saint Omer director has gathered work by artists, writers, composers and poets for Geste de Consolation, set in the 60m-long central hall of the Palais d’Iena in Paris Alice Diop has just returned to France from California when we speak. It’s a Zoom meeting with a bad connection, and Diop leans close to the camera, always in frame, barely moving. It’s like watching the characters in her documentaries and films, where her camera lingers on its subject with a slow, cool intensity. Diop had been attending a two-week celebration of her work organised by the French department at University of California, Berkeley, in which academics pored over her documentaries ( Nous (We), Vers La Tendresse (Towards Tenderness)) and her first feature film, Saint Omer , which received the Silver Lion in Venice in 2022. The courtroom drama was inspired by a real trial that Diop attended, of a Senegalese woman who had allowed her baby to drown in the sea. Over two hours, it explored the complexities of race, culture and motherhood in contemporary France. The film was the first by a black female director to be entered by France as its official entry in the 2023 Academy Awards. Continue reading...",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/06/french-film-maker-alice-diop-debut-installation-geste-de-consolation",
+      "image": "https://i.guim.co.uk/img/media/d611438497e5dafcfd28767f7457d504837e86fb/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d405529e0c17297abe31326453182d57",
+      "publishedAt": "2026-10-06T13:08:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMjAyODcv",
+      "title": "‘Heartland’ Trailer: Jessica Chastain Sings (and Solves a Murder?) in Shana Feste’s Country Mystery Thriller",
+      "description": "The Netflix original follows Chastain as a one-time country singing sensation who gets pulled back into the muck of Nashville for a wrenching reason.",
+      "url": "https://www.indiewire.com/news/trailers/heartland-trailer-jessica-chastain-sings-murder-1235220287/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Heartland_n_01_30_52_01_R.jpg?w=650",
+      "publishedAt": "2026-10-06T13:04:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMTk3Mjkv",
+      "title": "It’s Official: Paramount and Warner Bros. Discovery Merge in Skydance Mega-Deal",
+      "description": "Enter the Skydance Era. The $111 billion transaction closes after first agreeing to a deal back in February.",
+      "url": "https://www.indiewire.com/news/breaking-news/paramount-warner-bros-discovery-merger-closes-1235219729/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
+      "publishedAt": "2026-10-06T13:02:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-06T13:00:54.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WQtbWluaS1tb3ZpZXM",
+      "title": "V/H/S/Mixtape review – murderous puppets pull the strings in mixed bag of gory music-themed mini-movies",
+      "description": "Metal band Gwar host this instalment of the horror series, which serves up darkly humorous movie morsels that would struggle to frighten a toddler The latest in the long-running horror-feature series is, as per usual, a decidedly diverse ragbag of shorts, strung together with the thinnest of connective tissue. The theme this go-round seems to be music and sound, so it sort of makes sense that hosting duties for the interstitial bits fall to the goofy metal band Gwar , its assorted members met here cracking Halloween dad jokes in their trademark extravagant outfits. The five mini movies vary significantly in length as well as quality. Flying Lotus’s stop-motion exercise Another Cabin posits a young boy in a rural cabin living with a mean old grannie who tries to push him forward when a tentacled demon tears the roof of the house in search of a snack. The characters’ resemblance to the cast of early 2000s series The PJs is slightly jarring, given this is such a different register, but the brevity works in its favour. In contrast Renee Zhan’s Dance, Dance, Dance, Dance, the opener, drags on a bit, but has a reasonable gags-to-gore ratio in its tale of murderous puppets taking revenge on visiting studio execs who would dare to “reimagine” some ageing IP best left dormant. The funniest gag is the bright major-scale title song the puppets (designed by Jim Henson’s Creature Shop) sing about how all things must die. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/vhsmixtape-review-murderous-puppets-pull-the-strings-in-mixed-bag-of-gory-music-themed-mini-movies",
+      "image": "https://i.guim.co.uk/img/media/6e8e740150f7c9e57a222c456dcb085a613745de/21_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b769cdbbd80605c3fd301d9937ce09fc",
+      "publishedAt": "2026-10-06T13:00:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-ZC0xMjM1MjIwMzQ4Lw",
       "title": "‘Artificial’ Review: Luca Guadagnino’s Dark and Campy Tech Comedy Shows Just How Stupid the Road to Smarter AI Has Already Been",
@@ -32,7 +152,7 @@
       "title": "David Ellison’s Big Bet: Why the Mogul Thinks Skydance Film Chiefs Dana Goldberg and Josh Greenstein Can Deliver 30 Movies a Year",
       "description": "The longtime Skydance producer and the former Sony marketing whiz have been entrusted to build back Warner Bros. and Paramount.",
       "url": "https://www.indiewire.com/news/business/david-ellison-skydance-film-chiefs-dana-goldberg-josh-greenstein-30-movies-bet-1235220268/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2271659043.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Dana-Goldberg-and-Josh-Greenstein.jpg?w=650",
       "publishedAt": "2026-10-06T12:20:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -46,6 +166,18 @@
       "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
       "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
       "publishedAt": "2026-10-06T11:29:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mNoaXZlLWF1Y3Rpb24",
+      "title": "Axe used by Jack Nicholson in The Shining for sale as part of Stanley Kubrick auction",
+      "description": "Exclusive: Weapon is one of hundreds of items to be sold as part of the influential late director’s personal archive A special effects axe wielded by Jack Nicholson as he delivered his chillingly manic line “Here’s Johnny!” in the 1980 horror movie The Shining is to go on sale. Nicholson’s character, Jack Torrance, uses an axe to hack out an opening in a locked door protecting his terrified wife Wendy, played by Shelley Duvall. It is also the murder weapon in the killing of Scatman Crothers’ character, Dick Hallorann. One of cinema’s most famous axes could be yours for a list price of between £30,000 and £50,000. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-shining-axe-jack-nicholson-stanley-kubrick-archive-auction",
+      "image": "https://i.guim.co.uk/img/media/99acc5a59675afd38da50ec461f95df8c468fcfc/930_0_4281_3428/master/4281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c17630ec736e78194e4d768b53e1afc",
+      "publishedAt": "2026-10-06T09:00:08.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -184,30 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-R0LTEyMzUyMjAyMzAv",
-      "title": "‘What Can’t Be Mentioned’ Review: Dan Sallitt Returns with a Sequel to His Beloved Incest Drama ‘The Unspeakable Act’",
-      "description": "Tallie Mendel reprises their role as Jackie, whose feelings for her older brother reignite when she learns that he expects a child.",
-      "url": "https://www.indiewire.com/criticism/movies/what-cant-be-mentioned-movie-review-dan-sallitt-1235220230/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/What-Cant-Be-Mentioned_NYFF64_01.jpeg?w=650",
-      "publishedAt": "2026-10-05T14:45:55.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-notMTIzNTIyMDExOC8",
-      "title": "John Turturro on ‘Only Living Pickpocket,’ Wishing the Coen Brothers Would Reunite and Why Hollywood Ignores the Working Class",
-      "description": "Turturro also steals the show in Tom McCarthy's \"A Statement,\" which premiered at the New York Film Festival.",
-      "url": "https://www.indiewire.com/awards/consider-this/john-turturro-only-living-pickpocket-coen-brothers-reunite-oscar-buzz-1235220118/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2298439395.jpg?w=650",
-      "publishedAt": "2026-10-05T14:20:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
       "description": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
@@ -218,30 +326,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-2MtMTIzNTIyMDIyNS8",
-      "title": "‘Manhood’ Trailer: The World of Penis Enlargement Gets a Bizarre and Sensitive Documentary",
-      "description": "Exclusive: Director Daniel Lombroso's 2026 SXSW premiere understands the humor inherent to male insecurity.",
-      "url": "https://www.indiewire.com/news/trailers/manhood-trailer-penis-enlargement-doc-1235220225/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/MANHOOD_STILL_3-e1773084369718.webp?w=650",
-      "publishedAt": "2026-10-05T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-1lLW9mLXRoZS1yb3Nl",
-      "title": "‘I spat in Sean Connery’s face 16 times’: Ron Perlman on making The Name of the Rose",
-      "description": "‘When I couldn’t do the spitting scene, Sean took me aside and said: “Ron, if you don’t actually spit in my face, we’ll be here all day.” So I let one fly – and kept having to redo it’ I read an article about a curious book that had great reviews in Italy, a murder mystery about monks in the middle ages fighting for the fictional missing part of Aristotle’s Poetics. I said: “This is for me.” Since childhood, I had been fascinated with medieval and religious architecture, and Aristotle’s Poetics is my favourite literary work. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose",
-      "image": "https://i.guim.co.uk/img/media/10dd27f563b42bc2356701fe685046a333fa521c/4_0_1602_1282/master/1602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=567c3c8cf88b01612bf7d7dedb95a719",
-      "publishedAt": "2026-10-05T13:53:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
@@ -256,30 +340,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-c29maWEtY29wcG9sYQ",
-      "title": "Post your questions for Sofia Coppola",
-      "description": "A new documentary by Eleanor Coppola goes behind the scenes on her daughter’s 2006 punk classic, Marie Antoinette. To mark its release, Sofia Coppola will be taking your questions To say that Sofia Coppola grew up on screen would be an understatement. The youngest child and only daughter of filmmaker Francis Ford Coppola and documentary-maker Eleanor Coppola, she appeared in all three Godfather films: as the baby being christened in 1972’s The Godfather, as a child on the steamboat in 1974’s The Godfather Part II, and, aged 19, as Mary Corleone in 1990’s The Godfather Part III. In between came small roles in several of her dad’s films, including 1983’s The Outsiders and Rumble Fish, 1984’s The Cotton Club and 1986’s Peggy Sue Got Married, in which she played Kathleen Turner’s younger sister Nancy. She also popped up all over 1990s music videos, playing a wild-eyed Joan Crawford in Sonic Youth’s 1990 Mildred Pierce, a troubled drifter in the Black Crowes’ 1992 Sometimes Salvation, one of Madonna’s clubbing friends in 1992’s Deeper and Deeper, and an injured gymnast in the Chemical Brothers’ 1997 Elektrobank, directed by her then-boyfriend Spike Jonze. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/post-your-questions-for-sofia-coppola",
-      "image": "https://i.guim.co.uk/img/media/c89213f291204f6597d9b0e294d83bc099ec4021/207_0_2733_2187/master/2733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f01f324e196553773ef1e40aaa4289bb",
-      "publishedAt": "2026-10-05T11:20:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Charity tea room may close despite Ludwig filming",
-      "description": "The series, starring David Mitchell, is filming scenes in Hemel Hempstead.",
-      "url": "https://www.bbc.co.uk/news/articles/cq39mgmyr94do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d319/live/0aba8c50-bce0-11f1-afec-ebbb2634c4cd.jpg",
-      "publishedAt": "2026-10-05T05:31:01.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
       "id": "guardian-ZC1tYXN0ZXJwaWVjZQ",
       "title": "Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
       "description": "Alejandro G Iñárritu’s film may be about to become one of the biggest bombs Hollywood has ever seen – but it is destined to be re-evaluated with time This article contains spoilers for Digger I feel for film critics, I really do. Tom Cruise’s latest film Digger put them in an impossible position: you can’t really talk about it without spoiling what makes it, in my eyes, a masterpiece. Or completely terrible – as many, many critics have argued over the last week, without being fully free to say why. That is not their fault: media screenings around the world opened with a plea from Warner Bros to not spoil the film’s central reveal . This seems like it may have been a misstep, because curiosity and Cruise alone were clearly not enough to get bums on seats. Digger is now projected to lose around $150m , after taking a paltry $20m globally in its opening weekend. Warner Bros is trying to make the best of a bad situation, first crowing about the stinker reviews – “insufferable” and “smug” have been repeated a lot – then pivoting to a new sell: the Yanks don’t get it, so it must be good . Continue reading...",
@@ -289,30 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-RoLTEyMzUyMjAxMjYv",
-      "title": "Kyle Chandler, Aaron Pierre, and the ‘Lanterns’ Creators on a ‘Quieter’ Finale, Ending with Love, and the New Oath",
-      "description": "The stars and creators behind HBO's \"grounded\" superhero series break down an ending that focuses on character over spectacle — and introduces a new oath for our new Green Lantern.",
-      "url": "https://www.indiewire.com/features/interviews/kyle-chandler-aaron-pierre-explain-lanterns-finale-new-oath-1235220126/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Lanterns-Episode-8-finale-Aaron-Pierre-as-John-Stewart-and-Kyle-Chandler-as-Hal-Jordan.jpg?w=650",
-      "publishedAt": "2026-10-05T02:05:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIxOTU0NS8",
-      "title": "‘Lanterns’ Finale Review: Episode 8 Makes the Hard Choices — and Leaves a Light on for Season 2",
-      "description": "Showrunner Chris Mundy joined his co-creators Damon Lindelof and Tom King to write a dense, emotional finale that focuses on characters over spectacle and shows love in all its messy glory.",
-      "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-8-review-finale-spoilers-1235219545/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Lanterns-Episode-8-finale-Aaron-Pierre-as-John-Stewart.jpg?w=650",
-      "publishedAt": "2026-10-05T02:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -326,18 +362,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Matthew Rhys takes Best Actor at Bafta Cymru for performance in Netflix thriller",
-      "description": "The actor added another award to his cabinet after winning two lead acting Emmys last month.",
-      "url": "https://www.bbc.co.uk/news/articles/c95yn0g587vxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/64d0/live/0dcf11b0-c035-11f1-b87e-c7a3d30c1570.jpg",
-      "publishedAt": "2026-10-04T20:55:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-d2UtcGVhY2VtYWtlcg",
@@ -358,18 +382,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books",
       "image": "https://i.guim.co.uk/img/media/f3eb026ef7ece07c65777b99361c7d175eb10404/0_142_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51fce42d85aa28b2f8c9b845b951099f",
       "publishedAt": "2026-10-02T12:00:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-S1tYXJ2ZWwtYmxhZGU",
-      "title": "How Bassam Tariq pivoted from stalled Blade reboot to new Mahershala Ali thriller: ‘I’m happier I made this movie’",
-      "description": "In the film-maker’s Houston-set film, Ali stars as a devout Muslim who moonlights as a vicious hitman Mahershala Ali is swinging around a blade in Your Mother Your Mother Your Mother . That’s not a nod to Ali’s previous attachment to Marvel’s Blade. It’s of a piece with Ali’s character, Latif, a devout Muslim who also happens to be a contract killer, though he fashions himself a righteous killer. Latif justifies his violence as divine retribution, dispensing victims he believes to have offended God. His sword, according to writer and director Bassam Tariq, is a part of Latif’s code, a negotiation with his faith. “You are forced to strike with intention when you use a sword,” Tariq says, speaking in a recent interview in Toronto. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/bassam-tariq-your-mother-your-mother-your-mother-interview-mahershala-ali-marvel-blade",
-      "image": "https://i.guim.co.uk/img/media/f77285f514f3353990d09d1648a5d48e8f55d70c/417_0_4167_3334/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0718dca6be14c0c9af015004cc520852",
-      "publishedAt": "2026-10-02T11:00:18.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -410,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-3Vsb3VzLW91dGZpdHM",
-      "title": "Nicolas Cage calls Marvel movies ‘a glorified WWE’ with over-50s in ‘ridiculous outfits’",
-      "description": "Star of Spider-Noir told fan convention he ‘spoke with love’ at seeing gifted actors for ever gearing up for superhero fight scenes Nicolas Cage, whose recent credits include the Sony Marvel series Spider-Noir, has criticised the Marvel Cinematic Universe, calling it an overfunded and embarrassing spectacle. “I do say this with love,” said Cage at a fan convention in Texas. “When I see these 50-plus and otherwise intelligent and remarkably gifted thespians putting on these ridiculous outfits and getting ready for the fight – let’s face it, it’s all cutting to the fight – it’s hard for me not to be reminded that the MCU is becoming a well-funded and glorified WWE.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/nicolas-cage-marvel-movies-glorified-wwe-ridiculous-outfits",
-      "image": "https://i.guim.co.uk/img/media/3653a17b0d8523ecb6ca9c85fc65278c3c2c8aee/976_360_2074_1660/master/2074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e55be1713934f15f2ea8ebcb3a7ac2a",
-      "publishedAt": "2026-10-01T11:10:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-S1jcnVpc2UtbW92aWU",
