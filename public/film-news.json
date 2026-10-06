@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:51:46.947Z",
+  "generatedAt": "2026-10-06T12:45:05.447Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ZC0xMjM1MjIwMzQ4Lw",
+      "title": "‘Artificial’ Review: Luca Guadagnino’s Dark and Campy Tech Comedy Shows Just How Stupid the Road to Smarter AI Has Already Been",
+      "description": "Andrew Garfield is a diabolical villain as techno-nihilist Sam Altman in the sequel \"The Social Network\" deserves.",
+      "url": "https://www.indiewire.com/criticism/movies/artificial-movie-review-andrew-garfield-1235220348/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDARTI_EC022.jpg?w=650",
+      "publishedAt": "2026-10-06T12:30:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIwMjY4Lw",
+      "title": "David Ellison’s Big Bet: Why the Mogul Thinks Skydance Film Chiefs Dana Goldberg and Josh Greenstein Can Deliver 30 Movies a Year",
+      "description": "The longtime Skydance producer and the former Sony marketing whiz have been entrusted to build back Warner Bros. and Paramount.",
+      "url": "https://www.indiewire.com/news/business/david-ellison-skydance-film-chiefs-dana-goldberg-josh-greenstein-30-movies-bet-1235220268/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2271659043.jpg?w=650",
+      "publishedAt": "2026-10-06T12:20:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Rldy1zY290dC0yMDI2",
+      "title": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
+      "description": "Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026 This film puts Andrew Scott in line to become the first out gay man to win the best actor Oscar . He plays Ian Charleson, who became a star in Chariots of Fire and in 1989 took on the role of Hamlet at London’s National Theatre when Daniel Day-Lewis withdrew, despite being desperately ill with Aids, knowing that the strain would accelerate his illness. For Charleson, the play’s themes of life and death, truth and falsehood, justice and injustice, were all too real. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
+      "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
+      "publishedAt": "2026-10-06T11:29:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZWxzLWludGVydmlldw",
+      "title": "‘We got that bad guy and took him down!’ Jaclyn Smith on the fun, friendship and frustration of Charlie’s Angels",
+      "description": "It’s 50 years since Smith joined TV’s bikini-clad crime fighters alongside Farrah Fawcett and Kate Jackson. She talks about the love she found on set, the harassment she endured off it and the drug-taking she did her best to ignore For a TV show that only ran for five years, Charlie’s Angels packs a punch like a bikini-wearing big-hair-flicking private investigator. “We never thought we’d be talking about it 50 years later,” says Jaclyn Smith, the only original Angel to make it to the end of the show’s run. Smith, 80, has now written a memoir, I Once Knew a Guy Called Charlie – she is not, you gather, the type of actor to want to distance herself from her defining project. As I read her book, and speak to her over Zoom, she comes across as sensible, hardworking and optimistic. Also lucky: loving and supportive parents, agents who seem to appear from nowhere and offer her work, an early hit show, a gift for making friends and getting over heartbreak. Even when she was diagnosed with breast cancer more than 20 years ago, terrifying as it was, it was caught early and successfully treated. Her positive outlook seems to extend to the excesses of US TV in the 1970s and 80s (drug use on set only gets a brief mention); her three ex-husbands get off fairly lightly; and any difficulties – her OCD, the men who stalked her at the height of her fame – are not dwelled on. Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/06/jaclyn-smith-charlies-angels-interview",
+      "image": "https://i.guim.co.uk/img/media/fc86c186931c16c94497174846bc69c4526e8858/0_85_5206_4165/master/5206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c378fa0be2ebfcb1f7cd74a5e2cbd66",
+      "publishedAt": "2026-10-06T09:00:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-mdlLWZhdGhlci1zb24",
+      "title": "Celibidache was a musical visionary, an uncompromising perfectionist – and my father",
+      "description": "The legendary conductor was acclaimed for his dazzling music-making, and infamous for his hatred of recordings. His son, writer of a new film about him, remembers a loving yet intransigent and demanding father My father, Sergiu Celibidache, loved children more than anything because they are free and true to themselves. And yet, he once made a young boy wet himself when he dared to ask for an autograph, shouting at the poor child as if he had committed a federal crime because he knew there was a black market selling his signature behind his back. I grew up a privileged child with presents from all around the world. I was spoiled – to the despair of my mother, who always tried to keep my feet on the ground. But the gifts were part of my father’s way of making up for his long absences – he was often away touring with his orchestras. Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/oct/06/sergiu-celibidache-yellow-tie-film-conductor-serge-father-son",
+      "image": "https://i.guim.co.uk/img/media/dd8b09a3e34a9cff3a15717b082d110849c9791b/122_0_4741_3791/master/4741.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1ab42097bbf697b3c66906a04a8f356",
+      "publishedAt": "2026-10-06T08:27:39.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-RoLWFubml2ZXJzYXJ5",
+      "title": "The Craft review – cult high-school horror a reminder of the fearless 90s",
+      "description": "The 30th-anniversary rerelease of this classic tackles the sensitivities of teenage anxiety with energy and confidence The chrysalis of 80s and 90s high-school comedy finally gave us a veritable butterfly of fear in this cult girl-power classic from 1996, co-written and directed by Andrew Fleming, now rereleased for its 30th anniversary. It’s a movie to compare with Heathers or Mean Girls but with a supernatural edge, a flourish of scariness where the comedy or sexiness might otherwise go – and it incidentally delivers a very disturbing “René Magritte mirror” visual stab worthy of any straight-ahead chiller. Robin Tunney plays Sarah, a shy, studious teen from San Francisco who suffers from depression and buried guilt about the fact that her mother died in childbirth, and from lingering resentment at her new stepmother, with whom her dad has bought her to Los Angeles for a fresh start at a new school. Something about this new arrival intrigues a clique nicknamed “the bitches of Eastwick”, led by badass goth Nancy (Fairuza Balk); she rules over her two disciples Rochelle (Rachel True) and Bonnie, played by Neve Campbell, that same year to become a scary-movie hall-of-famer for the fledgling Scream franchise. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
+      "image": "https://i.guim.co.uk/img/media/4aa6271547c893c694007a1e8ee50c7025d077fd/249_0_2951_2361/master/2951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=cd482a1cd290ec49cbe9549ca45ffad0",
+      "publishedAt": "2026-10-06T08:00:06.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-hlcmluZS1jb3JsZXNz",
       "title": "The Lost Children of Tuam review – deeply serious retelling of Ireland’s devastating tragedy",
@@ -124,18 +196,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-ZWVsZ29vZC1tb3ZpZQ",
-      "title": "‘Exceptionally crafted’: why Little Shop of Horrors is my feelgood movie",
-      "description": "The latest in our series of writers’ favorite comfort films is a tribute to the lovably quirky 80s musical The key to a feelgood movie , beyond the necessary rewatchability, is familiarity – the real kind that lets you look away or fall asleep without doubting your affection. Musicals are perfectly suited to this particular subgenre since the majority of them, especially the classic ones adapted for film, atrophy with second-act problems. That’s where writers suddenly remember the plot they had introduced and drop all that singing and dancing to arrive at some type of conclusion. The first act of Funny Girl? A near-flawless parade of showstoppers, Barbra Streisand as Fanny Brice having the time of her life falling in love. I’ve probably seen it 200 times. The second act … well, who ever cared about her husband’s gambling addiction? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/little-shop-of-horrors-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/733d4b22a807ad101356fa8ce1e94332a16afb23/8_0_1287_1030/master/1287.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2030b9c45b9d9d9e35cc4ac8cdee5d31",
-      "publishedAt": "2026-10-05T14:44:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "indiewire-notMTIzNTIyMDExOC8",
       "title": "John Turturro on ‘Only Living Pickpocket,’ Wishing the Coen Brothers Would Reunite and Why Hollywood Ignores the Working Class",
       "description": "Turturro also steals the show in Tom McCarthy's \"A Statement,\" which premiered at the New York Film Festival.",
@@ -194,18 +254,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-dWxpbmUtY2xlbWVudA",
-      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
-      "description": "French farce set in the tumultuous three hours prior to the opening night performance of Macbeth features comic-timing perfection from cast One of Matt Groening’s Life In Hell comic strips from the 1980s, entitled How to Be a Clever Film Critic , sets out cinema’s greatest paradox: “The French are funny. Sex is funny. And comedies are funny. Yet no French sex comedies are funny.” Well, this film from Bertrand Usclat and Martin Darondeau proves that all commonly held certitudes must be disproved at some point, because here’s a French comedy, albeit one that’s not all that preoccupied with sex, that is a hoot. Set entirely in the Parisian institution of the title , this frothy farce unfolds over the three hours before the opening night curtain goes up on a production of Macbeth, which is being directed by actor turned metteur en scène Nina (Pauline Clément). A series of catastrophes make it an open question as to whether the show will actually go on, starting from the moment Nina arrives at the entrance without her staff pass and has to try to get past the officious security team. Naturally, that’s just the beginning, and Nina must contend with superstitious actors, adulterous actors shagging while they rehearse (saying their lines between thrusts), a stoned grande dame (Danièle Lebrun), missing actors (Lady Macbeth is stranded in Brest while shooting a TV show on the side) and actors who understand their roles less than the usher (Sefa Yeboah), who is watching from the sidelines. Meanwhile, if there’s a technical problem, the stage manager (Christian Hecq) will tell you in tedious detail why it can’t be fixed, the wardrobe mistress (Florence Viala) discusses her colleagues’ bodily imperfections and the minister of culture is coming that evening to see the show. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
-      "image": "https://i.guim.co.uk/img/media/89231aeba39159eafc37e8c9ebc8e5df30ae7d46/261_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=909801317f26063d3d82cfaebdec76d9",
-      "publishedAt": "2026-10-05T12:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-c29maWEtY29wcG9sYQ",
@@ -268,15 +316,15 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-jYtMTIzNTIyMDEyNy8",
-      "title": "Q3’s Horror Box Office Shows the Trouble with Always Hunting Another ‘Obsession’",
-      "description": "\"Resident Evil\" arrived big, \"Buddy\" built a hit, and \"Evil Dead\" and \"Insidious\" grappled with cost-benefit expectations. Horror’s third quarter explains why the genre needs more than one benchmark.",
-      "url": "https://www.indiewire.com/features/commentary/horror-box-office-q3-2026-1235220127/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/q3-horror-report.png?w=650",
-      "publishedAt": "2026-10-04T22:35:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-RoZS1ib3gtb2ZmaWNl",
+      "title": "Digger may lose $150m after Tom Cruise film bombs at the box office",
+      "description": "Alejandro G Iñárritu’s critically panned satire took just $20m globally in its opening weekend, against a reported $150m production budget and $100m marketing spend Digger has flopped in its opening weekend with a $20m global box office, handing Tom Cruise one of the worst debuts of his career and serving as a bitter final note for Warner Bros as a standalone studio. Alejandro G Iñárritu’s critically panned satire grossed a paltry $8m at the North American box office. Cruise is typically a big draw overseas, but international sales – $12m from 74 markets – were also weak. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
+      "image": "https://i.guim.co.uk/img/media/15b938a85e16d1e0b1b8efa1ecbc9576366f390a/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f97904fc95d687eaa53c646cfe8576e6",
+      "publishedAt": "2026-10-04T23:15:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -292,18 +340,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-1iLTEyMzUyMjAwOTMv",
-      "title": "‘Digger’ Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise’s Career",
-      "description": "The expensive satire is on track to lose $150 million or more, studio sources estimate, making it a historic disaster.",
-      "url": "https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDDIGG_WB026.jpg?w=650",
-      "publishedAt": "2026-10-04T15:24:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-d2UtcGVhY2VtYWtlcg",
       "title": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
       "description": "By embracing the role of amiable lunk, the wrestler turned actor has become an unlikely, and very modern, leading man. But does his relationship with the WWE, and its controversial former owner, risk tarnishing his brand? I must admit, I was apprehensive about meeting John Cena. The WWE wrestler turned actor has built an enviable Hollywood career playing idiots – capable idiots with real heart, but dimwits nevertheless. Still, Cena is obviously nobody’s fool; fools don’t rise from humble beginnings to become their generation’s answer to Hulk Hogan or The Rock. Would the Cena who appears on my computer screen be the real one? Or something closer to the comic-book characters he embodies so well: guileless, silly and fond of a deliberate misunderstanding? It is immediately clear that this is no manchild. Perfectly punctual, he greets me with a lavish formality befitting a man who made his film debut as the title character in The Marine. Within a minute he has volunteered, unprompted, that “a core value of mine is respect”. Cena, 49, is speaking to me on behalf of Matchbox: The Movie, a film extension of the Mattel toy car brand for Apple TV, and for 45 minutes he is generous, funny, complimentary and elusive without ever being evasive. It’s a genuinely radical thing for a man built like a chest freezer – having only recently retired from wrestling after 26 years – to be so relaxed about being ridiculous, and in an age of such joyless online strongmen as Trump, Musk and Andrew Tate, his buff charm is welcome. Continue reading...",
@@ -313,18 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "'I watched 800 films in Covid, now I direct them'",
-      "description": "Benjamin Williams from Malvern has worked on Apple TV's Slow Horses for its upcoming season.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zwkk81mlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bbe6/live/3e643710-bc1b-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-10-03T06:10:12.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "TV"
     },
     {
@@ -362,18 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-V3LWRvY3VtZW50YXJ5",
-      "title": "‘I look at the footage to convince myself that you were alive’: how Ross McElwee made a film about unimaginable loss, grief and guilt",
-      "description": "When his son died aged 27, the director could barely bring himself to watch his old clips of the boy. When at last he did, it was the genesis of an extraordinary project Ross McElwee is the film-maker who spun home movies into art, framing himself and his friends and his son Adrian. The director used to film Adrian for a few minutes each month. He tracked the kid from infancy to adulthood, trying to catch the significant turns of his life. When tragedy struck it back-shadowed the footage. Maybe every home movie is a ghost story at heart. It feels crass to compliment McElwee on his latest documentary, Remake, because it isn’t the picture he’d ever have chosen to make. It is instead a grief-struck tour-de-force: a magnificent film about film-making and its real-world repercussions. McElwee filmed Adrian because he loved him, but now fears he might have hurt him. So he sifts through the material in search of clues, addressing his son as though he’s still in the room. “I look at the footage to convince myself that you were alive,” he says. “But also to convince myself that you’re gone.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
-      "image": "https://i.guim.co.uk/img/media/77f9b5d3ea6d3ff8fc5e10e44f1f56013af7cc18/1423_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa88030ab19622bf122d91b1202d2c0c",
-      "publishedAt": "2026-10-02T07:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-S1hY3Rpb25zLWdhemE",
@@ -422,18 +434,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZWFyaW5nLWFkdmVydA",
-      "title": "Reanimated AI Greta Garbo stars again … in a ball-bearing advert",
-      "description": "Relatives of Hollywood legend say her doppelganger could now be used for more glamorous roles She shimmered in Hollywood’s silent movie era and lit up the first talkies – now Greta Garbo may be about to star in cinema’s new AI age. More than a century after her screen debut and decades after her ashes were laid to rest in a Swedish woodland cemetery, the Hollywood superstar’s descendants are ready to consider an AI version of her taking a 21st-century film role. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
-      "image": "https://i.guim.co.uk/img/media/f2bf63a178e5a96f1e2faf8dc65815f3b916d770/0_8_2769_2215/master/2769.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a0ce1efca0865f556197e376bdee016",
-      "publishedAt": "2026-09-30T05:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-MtZ3JldGEtZ2Vyd2ln",
@@ -490,18 +490,6 @@
       "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
       "image": "https://i.guim.co.uk/img/media/fbbc7a8cc12b46d1a7d2687cfe582e06d6dc9753/715_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5c1403dad3fe242bcd7aa69603b2777d",
       "publishedAt": "2026-09-16T16:00:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-XRzaWRlLXRoZS1ib3g",
-      "title": "In an age of superhero fatigue, Marvel’s best shot is to think small – and outside the box",
-      "description": "Sebastian Stan says he pitched Marvel a mid-budget thriller starring his Winter Soldier character. Perhaps the studio should give it – and other modestly scaled vehicles – the green light Blink a little and you might think we are back in 2019. The latest Spider-Man film, Brand New Day, has just passed $2.4bn at the global box office, to become the third-highest grossing film of all time behind Avatar and Avengers: Endgame. Meanwhile Avengers: Doomsday is reported to have already earned more than $50m in US ticket presales alone, despite the fact that it doesn’t come out until December. Clearly we are in the middle of a superhero renaissance. And yet it doesn’t really feel like it, largely because it is something of a turnaround for Marvel, after a pretty disappointing 2025 in which all three of the studio’s releases underperformed. Captain America: Brave New World took $415m worldwide, Thunderbolts* managed $382m and even the well-reviewed The Fantastic Four: First Steps stalled at $521m, against a reported $200m budget. These are hardly Madame Web numbers but they do suggest there is still a problem about what to do with all those superheroes who cannot sustain a $300m multiversal extravaganza. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/14/superhero-fatigue-marvel-best-shot-think-small-outside-the-box",
-      "image": "https://i.guim.co.uk/img/media/68db37f2579030e478f576913eb23782c8ee2cb0/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6cbdfdb70b32865d415c386d0090a259",
-      "publishedAt": "2026-09-14T12:46:05.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
