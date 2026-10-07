@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T18:40:05.067Z",
+  "generatedAt": "2026-10-07T01:12:45.732Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMjA0NTAv",
+      "title": "Why Is Gen Z Obsessed with the Oldest ‘American Horror Story’?",
+      "description": "Gen Z didn't inherit Ryan Murphy's horror anthology as appointment viewing, but recent Nielsen data and the TV show's most clippable fragments reveal a special connection with its beginning.",
+      "url": "https://www.indiewire.com/features/commentary/why-gen-z-obsessed-american-horror-story-murder-house-1235220450/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDAMHO_EC008.jpg?w=650",
+      "publishedAt": "2026-10-07T01:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-FkLTEyMzUyMjA0OTAv",
+      "title": "Eva Marie Saint, Oscar-Winning ‘On the Waterfront’ and ‘North by Northwest’ Star, Dead at 102",
+      "description": "The Hollywood icon enjoyed a stage and screen acting career that lasted eight decades.",
+      "url": "https://www.indiewire.com/news/obituary/eva-marie-saint-dead-1235220490/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MSDNOBY_EC013.jpg?w=650",
+      "publishedAt": "2026-10-06T22:08:49.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-m9udC1kaWVzLWFnZWQ",
+      "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+      "description": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint – a life in pictures Her best films – ranked Eva Marie Saint, one of the last survivors of Hollywood’s golden age of the 1940s and 50s, has died aged 102. Her screen work spanned six decades: Saint made her screen debut opposite Marlon Brando in On the Waterfront, starred in Alfred Hitchcock’s celebrated thriller North by Northwest, and in one of her last screen appearances played Superman’s adoptive mother Martha Kent in the 2006 superhero film Superman Returns . A family spokesman said on Tuesday that Saint had died of natural causes at her home in Los Angeles. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+      "image": "https://i.guim.co.uk/img/media/6f878cdf5d114f6a76c17cd15066e0d8eb000de9/0_464_3607_2885/master/3607.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b209edbde6f5623799f12fed591804d",
+      "publishedAt": "2026-10-06T21:24:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
+      "publishedAt": "2026-10-06T20:18:58.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMjA0NzAv",
+      "title": "Andrew Garfield Massively Helps Neon’s ‘Artificial’ Gamble Pay Off on the Awards Front",
+      "description": "The two-time Oscar nominee's full circle moment from corporate martyr in \"The Social Network\" to corporate menace in Luca Guadagnino's \"Artificial\" is a strong awards campaign narrative.",
+      "url": "https://www.indiewire.com/awards/predictions/andrew-garfield-neon-artificial-oscar-chances-1235220470/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2298757543.jpg?w=650",
+      "publishedAt": "2026-10-06T19:36:32.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-by0xMjM1MjE5NTU0Lw",
+      "title": "‘Pan’s Labyrinth’ Returns to Theaters in 3D and Dolby Atmos",
+      "description": "The team behind Guillermo del Toro's acclaimed 2006 fantasy film tells IndieWire how it looks and sounds better than ever in a new restoration.",
+      "url": "https://www.indiewire.com/features/craft/pans-labyrinth-returns-3d-dolby-atmos-guillermo-del-toro-1235219554/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/10/MCDPALA_EC006.jpg?w=650",
+      "publishedAt": "2026-10-06T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-06T18:42:58.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-mEtMTIzNTIyMDMwNC8",
       "title": "After Playing ‘Bombastic and Emotionally Volatile’ Roles, Mikey Madison Craved the ‘Restraint’ of ‘The Social Reckoning’",
@@ -49,18 +133,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
-      "publishedAt": "2026-10-06T16:01:11.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -109,18 +181,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-06T13:00:54.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -256,42 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ci0xMjM1MjE5NzY3Lw",
-      "title": "The Sticky Business of Loving Cinéma L’Amour: Inside Montreal’s Historic Porn Theater",
-      "description": "You won’t find a sexier testament to word-of-mouth marketing than this Canadian institution, where free online porn and Trump’s tariffs are among many challenges facing its warmly exhausted owner today.",
-      "url": "https://www.indiewire.com/features/interviews/cinema-lamour-inside-montreal-historic-porn-theater-1235219767/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-2.36.16-PM.png?w=650",
-      "publishedAt": "2026-10-05T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIyMDI2NS8",
-      "title": "After the ‘Digger’ Disaster, What Should Tom Cruise Do Next?",
-      "description": "Alejandro González Iñárritu's audacious satire is shaping up to be one of Hollywood's all-time bombs. For a star like Cruise, that's not a career death sentence — but his next moves matter. We've got some suggestions.",
-      "url": "https://www.indiewire.com/features/commentary/digger-box-office-disaster-tom-cruise-career-next-steps-1235220265/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-9.02.20-AM.png?w=650",
-      "publishedAt": "2026-10-05T20:50:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjIwMjcxLw",
-      "title": "‘Skweezy Jibbs Makes a Movie’: How I Turned a TikTok Comedy Character Into an Indie Film That Toured 71 Cities",
-      "description": "Comedian Tim Savage explains how he turned his online alter-ego Skweezy Jibbs into an indie film success story.",
-      "url": "https://www.indiewire.com/features/commentary/skweezy-jibbs-makes-a-movie-op-ed-1235220271/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-05-at-1.09.57-PM.png?w=650",
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-MtbW92aWUtcmV2aWV3",
       "title": "Club Kid review – Jordan Firstman’s heartfelt comedy is irresistible",
       "description": "New York film festival: the actor impresses with a directorial debut about a club rat who discovers he is father to a 10-year-old boy In a grungy backroom of a Brooklyn warehouse, a group of glamorously dishevelled clubbers raise their voices in a secular chat. “What do we want? Drugs! When do we want them? Now!” So begins Club Kid , an irresistible helter-skelter ride through the New York club scene from the comedian, actor and first-time director Jordan Firstman. A portrait of the importance of blood family and chosen family, it’s also one of the most bewitching debuts in recent years. Peter (Firstman) is the life of the party and has been running his raucous Club Labor for over a decade. He always gets the drugs in, rolls up with the best-dressed crew and knows everyone. But the comedowns – bed-rot days of anime porn, takeout and self-loathing – aren’t getting any easier, and he is screwing up opportunities for the party to get to the next level. “You’re a fucking child,” spits his business partner Sophie ( Cara Delevingne in her best performance yet) after he shows up to a lunch meeting with potential investors straight from the rave. Continue reading...",
@@ -302,18 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-My0xMjM1MjIwMjUyLw",
-      "title": "Emily Blunt Returning for Third ‘Sicario’ Movie Alongside Josh Brolin and Benicio Del Toro",
-      "description": "\"The Weight\" director Padraic McKinley is taking on the drug war franchise that dates back to 2015.",
-      "url": "https://www.indiewire.com/news/breaking-news/emily-blunt-returning-sicario-3-1235220252/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/MCDSICA_EC019.jpg?w=650",
-      "publishedAt": "2026-10-05T20:19:15.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -410,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-1yZWxheGVkLXNwYWNl",
-      "title": "Tourette syndrome campaigner John Davidson to watch Bafta Scotland awards in separate ‘relaxed’ space",
-      "description": "Decision follows independent review into handling of February ceremony, where his involuntary tics caused a BBC crisis John Davidson, the Tourette syndrome campaigner whose outburst at the British Academy film awards in February led to a crisis for Bafta (British Academy of Film and Television Arts) and the BBC , will attend the Bafta Scotland awards and watch the ceremony from a separate “relaxed” space. In a letter sent to Bafta members on Thursday, the organisation’s chair Sara Putt and CEO Jane Millichip said that, after an independent review , Bafta had “strengthened and centralised our safeguarding, risk assessment and compliance processes” and had made arrangements in consultation with “safeguarding and inclusion experts” for Davidson’s attendance at the awards ceremony organised by Bafta’s Scottish branch, which is due to take place in November. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/tourette-syndrome-campaigner-john-davidson-to-watch-bafta-scotland-awards-in-separate-relaxed-space",
-      "image": "https://i.guim.co.uk/img/media/b0d6f56dc3b9834f16ef69a6ce63ddadf9c516ee/0_0_3319_2656/master/3319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51da662627394672af37363b001f5b1c",
-      "publishedAt": "2026-10-01T14:06:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-S1jcnVpc2UtbW92aWU",
