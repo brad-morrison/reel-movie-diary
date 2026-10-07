@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:12:45.732Z",
+  "generatedAt": "2026-10-07T06:51:10.617Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-LXN0ZXZlLWNvb2dhbg",
+      "title": "24 Hour Party People review – daring metatextual paean to the Manchester music scene",
+      "description": "Rereleased for its 24th anniversary, Michael Winterbottom’s freewheeling film about a journalist who championed post-punk bands couldn’t have starred anyone but Steve Coogan Michael Winterbottom’s intriguing, daring, freewheeling movie is being rereleased for its 24th anniversary. It is about Manchester legend, Factory Records impresario, club owner and Granada TV journalist Tony Wilson, played by Steve Coogan, who was a driving entrepreneurial force behind the city’s music scene and guide to bands such as Joy Division, New Order and Happy Mondays. Looking back to my original review I see that I was in some ways unconvinced, perhaps by the almost flippant, throwaway tone that is somehow evenly established from first to last, with Coogan’s Partridgean lead performance – very good though it undoubtedly is – delivering all the lines as if doing a wry piece to camera. He was arguably the only possible casting for a minor TV personality who was also a major player in the real world beyond the camera, a postmodern combination that Wilson, a sophisticated and intelligent man, himself surely savoured. Winterbottom’s A Cock and Bull Story , adapted from Laurence Sterne, is sometimes described as his postmodern work, although this film, with its fourth-wall breaking, real-world cameos and docu-realist sense of itself, is probably even more metatextual. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/07/24-hour-party-people-review-michael-winterbottom-steve-coogan",
+      "image": "https://i.guim.co.uk/img/media/02a561cba50d2406b0f33d66e4e2565c6e3bfadd/0_11_1727_1380/master/1727.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=24249a8bf46852d4d0e7d48df30ab83a",
+      "publishedAt": "2026-10-07T06:00:36.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-NlLTEyMzUyMjA0NTAv",
       "title": "Why Is Gen Z Obsessed with the Oldest ‘American Horror Story’?",
@@ -314,18 +326,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-MtbW92aWUtcmV2aWV3",
-      "title": "Club Kid review – Jordan Firstman’s heartfelt comedy is irresistible",
-      "description": "New York film festival: the actor impresses with a directorial debut about a club rat who discovers he is father to a 10-year-old boy In a grungy backroom of a Brooklyn warehouse, a group of glamorously dishevelled clubbers raise their voices in a secular chat. “What do we want? Drugs! When do we want them? Now!” So begins Club Kid , an irresistible helter-skelter ride through the New York club scene from the comedian, actor and first-time director Jordan Firstman. A portrait of the importance of blood family and chosen family, it’s also one of the most bewitching debuts in recent years. Peter (Firstman) is the life of the party and has been running his raucous Club Labor for over a decade. He always gets the drugs in, rolls up with the best-dressed crew and knows everyone. But the comedowns – bed-rot days of anime porn, takeout and self-loathing – aren’t getting any easier, and he is screwing up opportunities for the party to get to the next level. “You’re a fucking child,” spits his business partner Sophie ( Cara Delevingne in her best performance yet) after he shows up to a lunch meeting with potential investors straight from the rave. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review",
-      "image": "https://i.guim.co.uk/img/media/d90dac625e9c4c975f325cd796cb2de46f8d7e64/649_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f5c3b60b88c96c27ff448bf91a1858ce",
-      "publishedAt": "2026-10-05T20:20:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
