@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:48:11.706Z",
+  "generatedAt": "2026-10-07T18:41:25.400Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-lzLTEyMzUyMjA0NDMv",
+      "title": "Athlete-Owned Production Companies Are Everywhere — Which Ones Are Working?",
+      "description": "From LeBron James and Steph Curry to Tom Brady and Peyton Manning, it seems like every star athlete has waded into Hollywood in the past decade. A few blueprints for success are starting to emerge.",
+      "url": "https://www.indiewire.com/features/commentary/athlete-production-companies-hollywood-analysis-1235220443/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2174068377.jpg?w=650",
+      "publishedAt": "2026-10-07T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIyMDU2My8",
+      "title": "‘Soul Patrol’ Trailer: A Historic Group of Black Vietnam War Veterans Reunite to Reckon with the Past",
+      "description": "Exclusive: The winner of the Directing Award for U.S. Documentary at the 2026 Sundance Film Festival will head to theaters starting November 6, just in time for Veterans Day.",
+      "url": "https://www.indiewire.com/news/trailers/soul-patrol-trailer-black-vietnam-war-veterans-documentary-1235220563/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/SoulPatrol_still-30.jpg?w=650",
+      "publishedAt": "2026-10-07T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIwNTA3Lw",
+      "title": "‘The Social Reckoning’ Is the Kind of Film That the Oscars Have Moved Past Recognizing",
+      "description": "Aaron Sorkin's \"The Social Reckoning\" is a fine film. It is just not cinematic in the way Oscar voters are looking for.",
+      "url": "https://www.indiewire.com/awards/predictions/the-social-reckoning-oscar-chances-1235220507/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSORE_CO002.jpg?w=650",
+      "publishedAt": "2026-10-07T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V2LTEyMzUyMjA1NzIv",
+      "title": "‘My Undesirable Friends: Part II — Exile’ Review: Don’t Be Intimidated by Julia Loktev’s Gripping Six-Hour Wartime Journalism Epic",
+      "description": "Epic may be the wrong word for what Loktev achieves with her follow-up to the Oscar-shortlisted saga about Russian dissident journalists condemned by the Kremlin — it's really more of a vibe movie, and better for it.",
+      "url": "https://www.indiewire.com/criticism/movies/my-undesirable-friends-part-ii-exile-review-julia-loktev-1235220572/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/My-Undesirable-Friends-Exile-STILL-1-w-Ksenia-Mironova_Valeria-Ratnikova-jpeg.webp?w=650",
+      "publishedAt": "2026-10-07T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIyMDI2MS8",
+      "title": "James Gray Looks Back at His Confident, Dangerous First Film ‘Little Odessa’",
+      "description": "The writer/director of \"Paper Tiger\" talks to IndieWire about his 1994 debut \"Little Odessa,\" now available in a new 4K UHD edition from Criterion.",
+      "url": "https://www.indiewire.com/features/interviews/james-gray-on-little-odessa-criterion-restoration-1235220261/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MSDLIOD_FL004.jpg?w=650",
+      "publishedAt": "2026-10-07T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bi1tb3ZpZXMtdGVjaA",
+      "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
+      "description": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; and Apple TV has acted as a patron for multiple film-maker passion projects. Everyone, including trendy auteur-factory A24, is tying themselves financially to AI. The enormous pull of the tech industry – including its many trillions of dollars, oversized influence on politics and heavily pushed algorithms and AI products – means Hollywood is not alone in courting its wealth, but it has intensified the historic tension between art and commerce in the entertainment business. Technology that augments the human experience may be a compelling narrative subject, but this year brings a trio of films about the gurus responsible for the industry’s false promises. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
+      "image": "https://i.guim.co.uk/img/media/5644909e9a17646960a38921aee6a8502993ccc6/458_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7108b4687ee08319d96804473f94468f",
+      "publishedAt": "2026-10-07T13:43:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-W1pa2V5LW1hZGlzb24",
+      "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
+      "description": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly deplore social media in conversation but haven’t quite got round to deleting their accounts. Sixteen years have gone by since The Social Network , written by Aaron Sorkin and directed by David Fincher; this was the addictive, obsessive-compulsive movie about the birth of Facebook in Harvard’s macho-competitive cauldron of student sexism and nerdy self-pity, starring Jesse Eisenberg as the fast-talking, arrogant, not-necessarily-evil genius Mark Zuckerberg. Now Sorkin is back with a sequel of sorts, directing his own script – and now Zuckerberg is basically evil, but also weirdly slow talking, as if all the zinging, smart-alecky Sorkinesque dialogue energy of the first film has been siphoned away in early middle age and dispersed among the insurgents in the new cast. Sorkin’s jittery, funny, syncopated style is unmistakable, as distinctive in its way as David Mamet, although he has one joke about “spatula” being a Yiddish word that he has borrowed from Philip Roth’s Portnoy’s Complaint . It is the story of how in 2021, Zuckerberg’s Facebook empire was challenged by courageous whistleblower-employee Frances Haugen and Wall Street Journal investigative reporter Jeff Horwitz, who were on a mission to tell the world how Zuckerberg, scared by falling revenue, changed the algorithm so that engagement was supercharged by rage bait and hate speech, malice and envy. Facebook, moreover, didn’t factcheck political ads, thus driving a huge, nationwide surge in extremist groups and teen bullying and becoming a major player in the Capitol riots. (Having said that, this film does not say aloud the word “Trump” and rather cravenly declines to specify Maga activity.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
+      "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/579_0_2107_1687/master/2107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7b8f9bbf21ec0c0aa0671cd4b75ba8ba",
+      "publishedAt": "2026-10-07T13:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjIwNTQxLw",
+      "title": "‘The Social Reckoning’ Review: Aaron Sorkin’s Facebook Files Only Expose Bad Performances and an Even Lousier Script",
+      "description": "Oscar winner Mikey Madison and Jeremy Allen White star as a whistleblower and a reporter with a dream (opposite a miscast Jeremy Strong) in a draggy, so-what journo drama that's more agitprop for the Sorkin brand than a paean to the press.",
+      "url": "https://www.indiewire.com/criticism/shows/the-social-reckoning-review-aaron-sorkin-1235220541/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DF-09191_r.jpg?w=650",
+      "publishedAt": "2026-10-07T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMjA1Mzgv",
       "title": "Why Harry Potter and Gandalf Won’t Be Teaming Up with Optimus Prime",
@@ -184,30 +280,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-2UtMTIzNTIyMDQwOS8",
-      "title": "The First Skydance Movie? An 8th ‘Transformers’ Film Executive Produced by Steven Spielberg",
-      "description": "Michael Bay is in early talks to return to direct, and Shia LaBeouf is not returning.",
-      "url": "https://www.indiewire.com/news/breaking-news/eighth-transformers-film-produced-steven-spielberg-skydance-1235220409/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2017/06/tf5-ff-004-cc-e1541450530604.jpg?w=650",
-      "publishedAt": "2026-10-06T16:30:37.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjIwMzc3Lw",
-      "title": "The Emmys Ditch Broadcast for Streaming: Amazon Prime Video to Air Awards Show for Next 6 Years",
-      "description": "It's the first permanent home for the Emmys after rotating between networks for years.",
-      "url": "https://www.indiewire.com/news/breaking-news/emmys-amazon-prime-video-next-6-years-1235220377/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Emmys-2026-host-Mariska-Hargitay-opening.jpg?w=650",
-      "publishedAt": "2026-10-06T14:18:06.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-ZS1jb25zb2xhdGlvbg",
       "title": "‘I’m bringing together women who nourish me’: French film-maker Alice Diop on her debut installation",
       "description": "The Saint Omer director has gathered work by artists, writers, composers and poets for Geste de Consolation, set in the 60m-long central hall of the Palais d’Iena in Paris Alice Diop has just returned to France from California when we speak. It’s a Zoom meeting with a bad connection, and Diop leans close to the camera, always in frame, barely moving. It’s like watching the characters in her documentaries and films, where her camera lingers on its subject with a slow, cool intensity. Diop had been attending a two-week celebration of her work organised by the French department at University of California, Berkeley, in which academics pored over her documentaries ( Nous (We), Vers La Tendresse (Towards Tenderness)) and her first feature film, Saint Omer , which received the Silver Lion in Venice in 2022. The courtroom drama was inspired by a real trial that Diop attended, of a Senegalese woman who had allowed her baby to drown in the sea. Over two hours, it explored the complexities of race, culture and motherhood in contemporary France. The film was the first by a black female director to be entered by France as its official entry in the 2023 Academy Awards. Continue reading...",
@@ -217,30 +289,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMjAyODcv",
-      "title": "‘Heartland’ Trailer: Jessica Chastain Sings (and Solves a Murder?) in Shana Feste’s Country Mystery Thriller",
-      "description": "The Netflix original follows Chastain as a one-time country singing sensation who gets pulled back into the muck of Nashville for a wrenching reason.",
-      "url": "https://www.indiewire.com/news/trailers/heartland-trailer-jessica-chastain-sings-murder-1235220287/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Heartland_n_01_30_52_01_R.jpg?w=650",
-      "publishedAt": "2026-10-06T13:04:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMTk3Mjkv",
-      "title": "It’s Official: Paramount and Warner Bros. Discovery Merge in Skydance Mega-Deal",
-      "description": "Enter the Skydance Era. The $111 billion transaction closes after first agreeing to a deal back in February.",
-      "url": "https://www.indiewire.com/news/breaking-news/paramount-warner-bros-discovery-merger-closes-1235219729/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
-      "publishedAt": "2026-10-06T13:02:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -254,42 +302,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjIwMzQ4Lw",
-      "title": "‘Artificial’ Review: Luca Guadagnino’s Dark and Campy Tech Comedy Shows Just How Stupid the Road to Smarter AI Has Already Been",
-      "description": "Andrew Garfield is a diabolical villain as techno-nihilist Sam Altman in the sequel \"The Social Network\" deserves.",
-      "url": "https://www.indiewire.com/criticism/movies/artificial-movie-review-andrew-garfield-1235220348/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDARTI_EC022.jpg?w=650",
-      "publishedAt": "2026-10-06T12:30:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIwMjY4Lw",
-      "title": "David Ellison’s Big Bet: Why the Mogul Thinks Skydance Film Chiefs Dana Goldberg and Josh Greenstein Can Deliver 30 Movies a Year",
-      "description": "The longtime Skydance producer and the former Sony marketing whiz have been entrusted to build back Warner Bros. and Paramount.",
-      "url": "https://www.indiewire.com/news/business/david-ellison-skydance-film-chiefs-dana-goldberg-josh-greenstein-30-movies-bet-1235220268/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Dana-Goldberg-and-Josh-Greenstein.jpg?w=650",
-      "publishedAt": "2026-10-06T12:20:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Rldy1zY290dC0yMDI2",
-      "title": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
-      "description": "Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026 This film puts Andrew Scott in line to become the first out gay man to win the best actor Oscar . He plays Ian Charleson, who became a star in Chariots of Fire and in 1989 took on the role of Hamlet at London’s National Theatre when Daniel Day-Lewis withdrew, despite being desperately ill with Aids, knowing that the strain would accelerate his illness. For Charleson, the play’s themes of life and death, truth and falsehood, justice and injustice, were all too real. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
-      "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
-      "publishedAt": "2026-10-06T11:29:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-mNoaXZlLWF1Y3Rpb24",
@@ -314,18 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-mdlLWZhdGhlci1zb24",
-      "title": "Celibidache was a musical visionary, an uncompromising perfectionist – and my father",
-      "description": "The legendary conductor was acclaimed for his dazzling music-making, and infamous for his hatred of recordings. His son, writer of a new film about him, remembers a loving yet intransigent and demanding father My father, Sergiu Celibidache, loved children more than anything because they are free and true to themselves. And yet, he once made a young boy wet himself when he dared to ask for an autograph, shouting at the poor child as if he had committed a federal crime because he knew there was a black market selling his signature behind his back. I grew up a privileged child with presents from all around the world. I was spoiled – to the despair of my mother, who always tried to keep my feet on the ground. But the gifts were part of my father’s way of making up for his long absences – he was often away touring with his orchestras. Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/oct/06/sergiu-celibidache-yellow-tie-film-conductor-serge-father-son",
-      "image": "https://i.guim.co.uk/img/media/dd8b09a3e34a9cff3a15717b082d110849c9791b/122_0_4741_3791/master/4741.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1ab42097bbf697b3c66906a04a8f356",
-      "publishedAt": "2026-10-06T08:27:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
