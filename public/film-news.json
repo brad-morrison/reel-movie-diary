@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T06:53:34.405Z",
+  "generatedAt": "2026-10-08T12:48:11.190Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
@@ -16,16 +16,88 @@
   },
   "articles": [
     {
+      "id": "guardian-b3ZlbmNlLWZyYW5jZQ",
+      "title": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
+      "description": "The newly-official French citizen is planning to open an Italian restaurant in Provence. Will it float like his tequila brand or sink as swiftly as the Steven Spielberg submarine eatery that made one reviewer ‘embarrassed to be human’? The Provençal village of Cotignac is not wanting for places to eat. Within a short drive of its pale stone houses, you can find a wealth of high-end dining options. La Table de Mentone, set within the beautiful Château Mentone wine estate, is famed for the produce it grows on site. The Michelin-starred Restaurant Bruno offers dazzling variations of truffle dishes. More locally, Picotte Provence offers the sort of charming village dining that showcases the best of what the region has to offer. However, despite all these wonderful options, there is one thing that Cotignac does not yet boast, and that’s a celebrity vanity project. But that is all about to change, thanks to the news that George Clooney is planning to open a restaurant there. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france",
+      "image": "https://i.guim.co.uk/img/media/7d4aaed86103697c83d574e9ac0ac2b8c5b2df6c/1908_397_6703_5363/master/6703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=939753bf739132b157ab19999dd056cf",
+      "publishedAt": "2026-10-08T11:25:36.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Veteran Indian actor Nana Patekar dies at 75",
+      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
+      "description": "The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/149b/live/cca20820-c271-11f1-b278-615cdfb74f16.jpg",
+      "publishedAt": "2026-10-08T11:09:34.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y13aWxsLWZlcnJlbGw",
+      "title": "Can Ali G: Who Iz I? save character comedy cinema?",
+      "description": "Sacha Baron Cohen’s new film risks being outdated in a more rancorous era. But could it restore the personality-driven genre to big screens or end it altogether? For a man whose campaign slogan was once “Keep it real”, Ali G has his work cut out in the reality of 2026. The big dog of Da West Staines Massiv was the character with whom Sacha Baron Cohen carved out his own niche of gonzo-gotcha comedy in the late 1990s – and now he’s back with new film, Ali G: Who Iz I? But it’s unclear if his great creation has gone sufficiently fallow in the collective consciousness to still operate well in real-life situations, the kind of lethal idiot who once pitched Donald Trump anti-drip ice-cream gloves. And more critically, is the Ali G satirical project – which poked at 90s multicultural mores – still relevant and funny in far more rancorous times? It’s not just Baron Cohen’s career as an undercover operative that’s on the line. It’s the future of character-led comedy as a going concern, now that he seems to be the last man standing in this once-noble tradition – in cinemas, at least. To be clear, character comedy isn’t merely comedy with characters; it’s comedy filtered through a central persona that overlaps with the comedian playing it and whose subversive sensibility colours the entire work. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/08/can-ali-g-who-iz-i-save-character-comedy-cinema-sacha-baron-cohen-mike-myers-will-ferrell",
+      "image": "https://i.guim.co.uk/img/media/7b856c4ea60a0f266900cbadcdae948a7e98dc62/2374_0_1022_818/master/1022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9249260c3ea919d93ce81779e126131",
+      "publishedAt": "2026-10-08T10:58:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+      "description": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9529/live/29b19700-c2f0-11f1-89a3-9b445bfcfe23.jpg",
+      "publishedAt": "2026-10-08T09:35:30.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-cmstenVja2VyYmVyZw",
+      "title": "Why Arturo Béjar left Meta – and blew the whistle: ‘I don’t recall Mark ever being empathetic’",
+      "description": "Béjar’s daughter was 14 when she told him Instagram was failing to keep her safe. So when he became part of Meta’s ‘wellbeing team’, he knew he had to speak out – and his testimony cost it billions The Social Reckoning hits cinemas this Friday, but the real world has already been working on a sequel – or rather, a threequel. Directed by Aaron Sorkin, the movie is a follow-up to The Social Network, detailing the further misadventures of Mark Zuckerberg and his social media empire, and in particular Frances Haugen , the employee who in 2021 leaked internal documents that appeared to show Facebook was aware of the harms its products had inflicted. It’s no spoiler to reveal the film climaxes with Haugen’s testimony to the US Senate, on 5 October 2021. That very same day, Arturo Béjar, a consultant on the wellbeing team of Instagram (which is also owned by Facebook), hit send on a long-gestating email to Zuckerberg and other senior Facebook executives on a similar theme. “I wanted to bring to your attention what I believe is a critical gap in how we as a company approach harm, and how the people we serve experience it,” Béjar began, before laying out some shocking statistics from his team’s survey. For example: 24.4% of 13-15-year-olds on Instagram said they had received unwanted advances, and 21.8% said they had been the target of bullying on the platform in the past seven days . Furthermore, 51% of Instagram users said they had had a bad or harmful experience in the past seven days. Only 1% of them reported it, and of those, 2% had the content taken down – so just 0.02%. This was a far greater degree of harm than the company’s existing measurements suggested. Zuckerberg never replied. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/oct/08/arturo-bejar-interview-whistleblower-facebook-meta-mark-zuckerberg",
+      "image": "https://i.guim.co.uk/img/media/fa41b039b7002e27769fd1f7238b8a8a606ba7f3/41_604_3735_2988/master/3735.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e50cc0b727f847afb35929445a298d7f",
+      "publishedAt": "2026-10-08T09:00:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
       "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b982/live/ad6e1830-c2c7-11f1-a761-c59b3c40da47.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab69/live/59fe1be0-c30e-11f1-a64c-550be9e3c66b.jpg",
       "publishedAt": "2026-10-08T03:41:34.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-250LWNyeS1yZXZpZXc",
+      "title": "Big Girls Don’t Cry review – a New Zealand teenager finds herself in tender coming-of-age tale",
+      "description": "Writer-director Paloma Schneideman’s wonderful film follows a 14-year-old in 2006 who pretends to be someone else in a chat room, with real-world consequences Get our weekend culture and lifestyle email All coming-of-age films face the challenge of how to convey that intermediary period between childhood and adulthood, with all the confusion, awkwardness and self-searching that entails. Writer-director Paloma Schneideman’s drama Big Girls Don’t Cry meets that challenge, resulting in a tenderly drawn story about the slow process of a 14-year-old in rural New Zealand finding herself. Schneideman’s film has a wonderfully unforced quality, unfolding in a deeply satisfying yet seemingly effortless way. It’s as if the cameras are simply recording events organically unfolding in front of them, which of course isn’t the case at all: a drama like this requires immense thought and preparation. (The film is the first to be produced under the auspices of the Jane Campion-led film-making course A Wave in the Ocean .) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review",
+      "image": "https://i.guim.co.uk/img/media/17888c99855984da45f55d18b11a51082dbaa2c9/328_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=46900bf73575846438c1719b10202c3c",
+      "publishedAt": "2026-10-08T02:23:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "indiewire-JzLTEyMzUyMjA1ODIv",
@@ -109,6 +181,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-YXNhbnRzLXJldm9sdA",
+      "title": "The Uprising review – Paul Greengrass turns revolutionary rage into a Robin Hood origin myth",
+      "description": "Andrew Garfield’s fictional ploughman joins the historical heroes of the 1381 Peasants’ Revolt in a dirt-caked, docudrama-style film with disconcertingly silly moments Paul Greengrass has in fact already made his “uprising” film: United 93 , the gut-wrenching 2006 masterpiece about the passengers onboard United Airlines flight 93 who rose up against the 9/11 hijackers and prevented them from hitting their destination and causing fatalities – except, that is, for those onboard the plane. Greengrass’s new movie, shot in his distinctive handheld, docu-reportage style, is notionally about the 1381 Peasants’ Revolt, in which Wat Tyler and John Ball became legendary for leading an insurrection against the cruel poll tax of Richard II. Or at least … it sort of is. Because the film, in a disconcertingly silly way, imagines the uprising as an origin myth for Robin Hood, or at least someone who’s supposed to be more or less Robin Hood – because that’s not what he’s called and the dates don’t quite match up. Ex-soldier Tyler and radical preacher Ball, capably played by Cosmo Jarvis and Jamie Bell, are joined by a third fictional hero, apparently destined later to canter through the forest with a wealth-redistribution plan. He is a ploughman, known simply as “Ploughman”, played by Andrew Garfield; grieving the loss of his wife and children to the plague and sickened by the tax collectors’ greed and brutality, he instigates an insurrection that soon merges into other outbreaks of revolutionary rage. This involves rivers of smudgy-faced folk in rough clothes descending on the capital from all directions, to demand concessions from the king to whom they are still loyal and believe to have been misled by advisers. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-uprising-review-paul-greengrass-andrew-garfield-peasants-revolt",
+      "image": "https://i.guim.co.uk/img/media/16e85a7ba54896b4827c0208665a0effdfec4d7b/691_0_4219_3375/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ac699a83340e6f45ac0efafc4b136a10",
+      "publishedAt": "2026-10-07T14:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -196,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LXN0ZXZlLWNvb2dhbg",
-      "title": "24 Hour Party People review – daring metatextual paean to the Manchester music scene",
-      "description": "Michael Winterbottom’s freewheeling 2002 film about Tony Wilson, champion of post-punk bands, couldn’t have starred anyone but Steve Coogan Michael Winterbottom’s intriguing, daring, freewheeling movie is being rereleased on its almost-quarter-century anniversary. It is about Manchester legend, Factory Records impresario, club owner and Granada TV journalist Tony Wilson, played by Steve Coogan, who was a driving entrepreneurial force behind the city’s music scene and guide to bands such as Joy Division, New Order and Happy Mondays. Looking back to my original review I see that I was in some ways unconvinced, perhaps by the almost flippant, throwaway tone that is somehow evenly established from first to last, with Coogan’s Partridgean lead performance – very good though it undoubtedly is – delivering all the lines as if doing a wry piece to camera. He was arguably the only possible casting for a minor TV personality who was also a major player in the real world beyond the camera, a postmodern combination that Wilson, a sophisticated and intelligent man, himself surely savoured. Winterbottom’s A Cock and Bull Story , adapted from Laurence Sterne, is sometimes described as his postmodern work, although this film, with its fourth-wall breaking, real-world cameos and docu-realist sense of itself, is probably even more metatextual. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/24-hour-party-people-review-michael-winterbottom-steve-coogan",
-      "image": "https://i.guim.co.uk/img/media/02a561cba50d2406b0f33d66e4e2565c6e3bfadd/0_11_1727_1380/master/1727.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=24249a8bf46852d4d0e7d48df30ab83a",
-      "publishedAt": "2026-10-07T06:00:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-NlLTEyMzUyMjA0NTAv",
       "title": "Why Is Gen Z Obsessed with the Oldest ‘American Horror Story’?",
       "description": "Gen Z didn't inherit Ryan Murphy's horror anthology as appointment viewing, but recent Nielsen data and the TV show's most clippable fragments reveal a special connection with its beginning.",
@@ -232,18 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-gtYnktbm9ydGh3ZXN0",
-      "title": "Eva Marie Saint: the Hitchcock Blonde who outgrew the persona",
-      "description": "Her glacial poise in North By Northwest made her a cinematic icon, but films including On the Waterfront and Loving revealed great subtlety alongside the glamour Eva Marie Saint dies aged 102 Her best films – ranked Her life in pictures ‘I’m Eve Kendall. I’m 26 and unmarried. Now you know everything.” Not quite everything. That is the famously succinct introduction given in a swaying dining car in a voice creamy with insinuation. Eve is speaking to Cary Grant’s fugitive ad man Roger Thornhill, wrongly accused of murder and hiding out from the cops on a train from New York to Chicago in Alfred Hitchcock’s 1959 classic North By Northwest. Eve is going to hide him in her compartment because she wants to have sex with him, and much later that train of theirs is to symbolically enter a tunnel. But is that the whole story? Eve’s amazingly beautiful, enigmatic face encodes a secret. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/eva-marie-saint-death-hitchcock-blonde-north-by-northwest",
-      "image": "https://i.guim.co.uk/img/media/06af424d29f80a3ca435cedb1121f7fc60a10a7d/35_821_2973_2376/master/2973.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5787556b24a64db88b63b6fe2e63a4d1",
-      "publishedAt": "2026-10-06T21:51:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-m9udC1kaWVzLWFnZWQ",
       "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
       "description": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint – a life in pictures Her best films – ranked Eva Marie Saint, one of the last survivors of Hollywood’s golden age of the 1940s and 50s, has died aged 102. Her screen work spanned six decades: Saint made her screen debut opposite Marlon Brando in On the Waterfront, starred in Alfred Hitchcock’s celebrated thriller North by Northwest, and in one of her last screen appearances played Superman’s adoptive mother Martha Kent in the 2006 superhero film Superman Returns . A family spokesman said on Tuesday that Saint had died of natural causes at her home in Los Angeles. Continue reading...",
@@ -254,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "description": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
-      "publishedAt": "2026-10-06T20:18:58.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -280,18 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LW1vdmllLXJldmlldw",
-      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
-      "description": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield On the day that Luca Guadagnino ’s film about Sam Altman and OpenAI premiered, Vanity Fair released a cover story on Altman. Alongside glossy portraits from Annie Leibovitz, the world’s pre-eminent portrait photographer, the story describes him as the Oppenheimer of his day, evoking the image of a man leading humanity towards its own inevitable demise at the hands of sentient robots. Altman doesn’t seem to be grappling with much existential angst about the whole thing though: in an interview also released this week, he said that we should be prepared to accept “bad things” in return for the benefits of AI. How much worse can things get? AI agents have already gone rogue , hacking into government systems and “bruteforcing” UN databases. Last year , a young woman used ChatGPT as a therapist before she killed herself (the software helped her write her suicide note). Studies show that using AI is probably leading us all towards something called cognitive surrender, which does not seem like the best use of your one wild and precious life. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c5fe55c10e9da0c76467aa89bcec10ee4cb195a6/600_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=d6ef0e69fade35cfd26749922fa12897",
-      "publishedAt": "2026-10-06T16:58:15.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ZS1jb25zb2xhdGlvbg",
       "title": "‘I’m bringing together women who nourish me’: French film-maker Alice Diop on her debut installation",
       "description": "The Saint Omer director has gathered work by artists, writers, composers and poets for Geste de Consolation, set in the 60m-long central hall of the Palais d’Iena in Paris Alice Diop has just returned to France from California when we speak. It’s a Zoom meeting with a bad connection, and Diop leans close to the camera, always in frame, barely moving. It’s like watching the characters in her documentaries and films, where her camera lingers on its subject with a slow, cool intensity. Diop had been attending a two-week celebration of her work organised by the French department at University of California, Berkeley, in which academics pored over her documentaries ( Nous (We), Vers La Tendresse (Towards Tenderness)) and her first feature film, Saint Omer , which received the Silver Lion in Venice in 2022. The courtroom drama was inspired by a real trial that Diop attended, of a Senegalese woman who had allowed her baby to drown in the sea. Over two hours, it explored the complexities of race, culture and motherhood in contemporary France. The film was the first by a black female director to be entered by France as its official entry in the 2023 Academy Awards. Continue reading...",
@@ -304,16 +340,16 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-WQtbWluaS1tb3ZpZXM",
-      "title": "V/H/S/Mixtape review – murderous puppets pull the strings in mixed bag of gory music-themed mini-movies",
-      "description": "Metal band Gwar host this instalment of the horror series, which serves up darkly humorous movie morsels that would struggle to frighten a toddler The latest in the long-running horror-feature series is, as per usual, a decidedly diverse ragbag of shorts, strung together with the thinnest of connective tissue. The theme this go-round seems to be music and sound, so it sort of makes sense that hosting duties for the interstitial bits fall to the goofy metal band Gwar , its assorted members met here cracking Halloween dad jokes in their trademark extravagant outfits. The five mini movies vary significantly in length as well as quality. Flying Lotus’s stop-motion exercise Another Cabin posits a young boy in a rural cabin living with a mean old grannie who tries to push him forward when a tentacled demon tears the roof of the house in search of a snack. The characters’ resemblance to the cast of early 2000s series The PJs is slightly jarring, given this is such a different register, but the brevity works in its favour. In contrast Renee Zhan’s Dance, Dance, Dance, Dance, the opener, drags on a bit, but has a reasonable gags-to-gore ratio in its tale of murderous puppets taking revenge on visiting studio execs who would dare to “reimagine” some ageing IP best left dormant. The funniest gag is the bright major-scale title song the puppets (designed by Jim Henson’s Creature Shop) sing about how all things must die. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/06/vhsmixtape-review-murderous-puppets-pull-the-strings-in-mixed-bag-of-gory-music-themed-mini-movies",
-      "image": "https://i.guim.co.uk/img/media/6e8e740150f7c9e57a222c456dcb085a613745de/21_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b769cdbbd80605c3fd301d9937ce09fc",
-      "publishedAt": "2026-10-06T13:00:14.000Z",
+      "id": "guardian-Rldy1zY290dC0yMDI2",
+      "title": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
+      "description": "Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026 This film puts Andrew Scott in line to become the first out gay man to win the best actor Oscar . He plays Ian Charleson, who became a star in Chariots of Fire and in 1989 took on the role of Hamlet at London’s National Theatre when Daniel Day-Lewis withdrew, despite being desperately ill with Aids, knowing that the strain would accelerate his illness. For Charleson, the play’s themes of life and death, truth and falsehood, justice and injustice, were all too real. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
+      "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
+      "publishedAt": "2026-10-06T11:29:10.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Movies"
     },
     {
       "id": "guardian-mNoaXZlLWF1Y3Rpb24",
@@ -340,16 +376,88 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Rachel Jupp is a bold choice for BBC News chief, says Katie Razzall",
-      "description": "The new director of news takes over from Deborah Turness, who resigned as CEO last year.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy79l7d78yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/efe1/live/f56baee0-c0d8-11f1-bdc6-179ac8d394b5.jpg",
-      "publishedAt": "2026-10-05T14:16:06.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-RoLWFubml2ZXJzYXJ5",
+      "title": "The Craft review – cult high-school horror a reminder of the fearless 90s",
+      "description": "The 30th-anniversary rerelease of this classic tackles the sensitivities of teenage anxiety with energy and confidence The chrysalis of 80s and 90s high-school comedy finally gave us a veritable butterfly of fear in this cult girl-power classic from 1996, co-written and directed by Andrew Fleming, now rereleased for its 30th anniversary. It’s a movie to compare with Heathers or Mean Girls but with a supernatural edge, a flourish of scariness where the comedy or sexiness might otherwise go – and it incidentally delivers a very disturbing “René Magritte mirror” visual stab worthy of any straight-ahead chiller. Robin Tunney plays Sarah, a shy, studious teen from San Francisco who suffers from depression and buried guilt about the fact that her mother died in childbirth, and from lingering resentment at her new stepmother, with whom her dad has bought her to Los Angeles for a fresh start at a new school. Something about this new arrival intrigues a clique nicknamed “the bitches of Eastwick”, led by badass goth Nancy (Fairuza Balk); she rules over her two disciples Rochelle (Rachel True) and Bonnie, played by Neve Campbell, that same year to become a scary-movie hall-of-famer for the fledgling Scream franchise. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-craft-review-30th-anniversary",
+      "image": "https://i.guim.co.uk/img/media/4aa6271547c893c694007a1e8ee50c7025d077fd/249_0_2951_2361/master/2951.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=cd482a1cd290ec49cbe9549ca45ffad0",
+      "publishedAt": "2026-10-06T08:00:06.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-hlcmluZS1jb3JsZXNz",
+      "title": "The Lost Children of Tuam review – deeply serious retelling of Ireland’s devastating tragedy",
+      "description": "Monica Dolan is superb as the amateur historian who uncovered the horror of mass graves at a mother and baby home in this Liam Neeson produced drama The children were never lost; if a baby goes missing, the police get called, social services become involved. The babies born at the mother and baby home run by nuns in the town of Tuam in County Galway were discarded: up to 796 tiny bodies thrown away, some in an old sewage tank. The amateur historian who uncovered the horror of the mass graves at the St Mary’s mother and baby home is Catherine Corless, superbly played here by Monica Dolan. Produced by Liam Neeson, and based on a 2017 New York Times article , The Lost Children of Tuam is a painful, devastating film. It feels scraped clean of anything unnecessary that might trivialise, fiction-ise or movie-ise what happened at St Mary’s, home to thousands of unmarried women and children between 1925 and 1961. “It gets me out of the house,” Corless says when she starts a course in local history. She turns detective after becoming interested in the children from St Mary’s, and what she uncovers is that babies died at a rate of nearly one a fortnight at the home – from whooping cough, measles, malnutrition and other childhood illnesses. Eventually, she obtains nearly 800 death certificates, but cannot find burial records for the babies. There are no graves. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/the-lost-children-of-tuam-review-galway-ireland-monica-dolan-liam-neeson-catherine-corless",
+      "image": "https://i.guim.co.uk/img/media/bef34158f35e0811e197c852433cdb0de2b73a30/390_0_3900_3120/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=74c2d5020d94ad2b4ba29dc6f0921aff",
+      "publishedAt": "2026-10-06T06:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1lLW9mLXRoZS1yb3Nl",
+      "title": "‘I spat in Sean Connery’s face 16 times’: Ron Perlman on making The Name of the Rose",
+      "description": "‘When I couldn’t do the spitting scene, Sean took me aside and said: “Ron, if you don’t actually spit in my face, we’ll be here all day.” So I let one fly – and kept having to redo it’ I read an article about a curious book that had great reviews in Italy, a murder mystery about monks in the middle ages fighting for the fictional missing part of Aristotle’s Poetics. I said: “This is for me.” Since childhood, I had been fascinated with medieval and religious architecture, and Aristotle’s Poetics is my favourite literary work. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose",
+      "image": "https://i.guim.co.uk/img/media/10dd27f563b42bc2356701fe685046a333fa521c/4_0_1602_1282/master/1602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=567c3c8cf88b01612bf7d7dedb95a719",
+      "publishedAt": "2026-10-05T13:53:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dWxpbmUtY2xlbWVudA",
+      "title": "Comédie Française review – pre-show bedlam plays theatrical chaos for laughs",
+      "description": "French farce set in the tumultuous three hours prior to the opening night performance of Macbeth features comic-timing perfection from cast One of Matt Groening’s Life In Hell comic strips from the 1980s, entitled How to Be a Clever Film Critic , sets out cinema’s greatest paradox: “The French are funny. Sex is funny. And comedies are funny. Yet no French sex comedies are funny.” Well, this film from Bertrand Usclat and Martin Darondeau proves that all commonly held certitudes must be disproved at some point, because here’s a French comedy, albeit one that’s not all that preoccupied with sex, that is a hoot. Set entirely in the Parisian institution of the title , this frothy farce unfolds over the three hours before the opening night curtain goes up on a production of Macbeth, which is being directed by actor turned metteur en scène Nina (Pauline Clément). A series of catastrophes make it an open question as to whether the show will actually go on, starting from the moment Nina arrives at the entrance without her staff pass and has to try to get past the officious security team. Naturally, that’s just the beginning, and Nina must contend with superstitious actors, adulterous actors shagging while they rehearse (saying their lines between thrusts), a stoned grande dame (Danièle Lebrun), missing actors (Lady Macbeth is stranded in Brest while shooting a TV show on the side) and actors who understand their roles less than the usher (Sefa Yeboah), who is watching from the sidelines. Meanwhile, if there’s a technical problem, the stage manager (Christian Hecq) will tell you in tedious detail why it can’t be fixed, the wardrobe mistress (Florence Viala) discusses her colleagues’ bodily imperfections and the minister of culture is coming that evening to see the show. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/comedie-francaise-review-pauline-clement",
+      "image": "https://i.guim.co.uk/img/media/89231aeba39159eafc37e8c9ebc8e5df30ae7d46/261_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=909801317f26063d3d82cfaebdec76d9",
+      "publishedAt": "2026-10-05T12:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-G9yLWxpdmUtbXVzaWM",
+      "title": "The Yellow Tie review – John Malkovich gives major hauteur as legendary record-hating maestro",
+      "description": "This biopic of Sergiu Celibidache, the renowned Romanian conductor who refused all recordings, is a sturdy labour of love directed by his son Here is an old-fashioned biopic from central Europe that is also a labour of love on the part of its director: a little stolid and stately, yes, but robustly made, heartfelt and high-minded, with workmanlike performances and decent visual effects work. It is the story of the Romanian conductor and composer Sergiu Celibidache, a brilliant musician who became renowned among musical connoisseurs in the years following the second world war for his unique and uncompromisingly purist belief – derived from his Zen Buddhist studies – that music should never be recorded. He believed that LPs and CDs were inert and dead, and that music had to be experienced live, in the passionately authentic present. The director is the musician’s son, Serge Ioan Celebidachi, and as an older man in his rural French retirement, he is played with unsubtly querulous hauteur by John Malkovich, especially in the misjudged opening scene where he yells at Japanese executives for presuming to offer him a recording deal. Ben Schnetzer is the younger Celibidache, a prodigy whose musical ambition infuriates his old-fashioned father (Sean Bean), a well-regarded functionary who assumed that his son would follow him into public office. Celebidache Sr therefore demands the return of his birthday gift, a certain type of yellow tie that had been favoured by generations of the family’s menfolk, and which here becomes a fetish of the heartbroken young Sergiu’s need to please his father but also break away from him. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+      "image": "https://i.guim.co.uk/img/media/cbc0540c07edc4c039193b272f87aed11fd7f9e4/214_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=42d568f3e10b2ccbfc721da8f2cf8f43",
+      "publishedAt": "2026-10-05T10:00:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-YXJsLWxhZ2VyZmVsZA",
+      "title": "Karl review – straightforward tribute tells inside story of fashion world’s great eccentric Karl Lagerfeld",
+      "description": "Based on Lagerfeld’s biography, director Nick Hooker gets access to the designer’s inner circle, but ultimately fails to find the man behind the high collar and sunglasses Karl Lagerfeld had never set foot inside a supermarket before he had one built on a catwalk in 2014, featuring models browsing aisles with baskets shopping for Chanel-branded fromage. It was classic Lagerfeld: very silly but a stroke of genius. The fashion designer was easy to poke fun at, with his white bouffant-plus-ponytail hairstyle and black leather gloves. But behind the persona was a man who spoke four languages fluently, a workaholic still running Chanel, Fendi and his own label Karl Lagerfeld into his 80s. This dutiful, uncontroversial documentary is based on William Middleton’s biography Paradise Now: The Extraordinary Life of Karl Lagerfeld . As well as archive footage of Lagerfeld, film-maker Nick Hooker gets access to the designer’s inner circle, but ultimately his documentary fails to chip away at the persona. (This is no criticism: I once interviewed Lagerfeld, a frustrating 30 minutes during which the dark glasses stayed on and he answered questions with bon mot witticisms but gave nothing away.) In a clip at the start of the film, Lagerfeld admits that he has spent so long performing a role that not even those closest to him really know who he is. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/karl-review-straightforward-tribute-tells-inside-story-of-fashion-worlds-great-eccentric-karl-lagerfeld",
+      "image": "https://i.guim.co.uk/img/media/29d82c0865d28399a0243bd02ae51d93b167ca6f/18_0_4926_3941/master/4926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1decbc2081d2300d674ae38f820c53ce",
+      "publishedAt": "2026-10-05T08:00:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZXZlbmdlLXJldmlldw",
+      "title": "Charlie Shaw’s Revenge review – creepy clown killer takes aim at struggling amusement park",
+      "description": "Decent effects and a late-stage twist show promise, but this gore-fest needs to be more disgusting, funny or unnerving The film opens with a lone figure striding into the foreground. He’s an amateur entertainer on his way to a gig, and he’s not been met at the station as planned. Still, not to worry – a car pulls up, and he gets in. But needless to say, his days (indeed, his minutes) are numbered. The murder that goes down in short order features plenty of blood but somehow fails to terrify the viewer. This is a problem unfortunately not limited to the opening scene: despite the various gruesome killings on show, there’s not much in the way of scares. The plot involves an adventure park in danger of going out of business, with the band of workers trying to get the place back on track providing plenty of fodder for a killer who spends some of the time dressed as a creepy clown. It’s easy to be dismissive of demon-clown films like Terrifier but they are effective in what they seek to do. Charlie Shaw’s Revenge isn’t – partly because the performances generally land some distance short of plausible, and partly because the writing itself is painfully thin. (The effects work, on the other hand, is decent, and the use of real locations with real animals is very welcome in a film-making era of green screen and expensive but hastily cobbled together CGI.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/05/charlie-shaws-revenge-review",
+      "image": "https://i.guim.co.uk/img/media/18a24cd70b53f92bd47ad378af9dea5d2e54cfb9/864_0_2111_1689/master/2111.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=71d24b4a29cbc5ae3c9ddeca16e7d296",
+      "publishedAt": "2026-10-05T06:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-ZC1tYXN0ZXJwaWVjZQ",
@@ -388,18 +496,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-NpYy1maWxtLWJvb2tz",
-      "title": "‘It’s radical to release a film called Girls Like Girls in this climate’: hitmaker turned director Hayley Kiyoko on sexuality, safety and becoming ‘Lesbian Jesus’",
-      "description": "The singer’s hit 2015 single Girls Like Girls was her breakthrough moment and also the first time she felt confident in her sexuality. Now she has directed a film based on the song – a love letter to her 17-year-old self A lot of Hayley Kiyoko’s teenage summers were spent waiting, bored and pining, as she sat at the computer willing her crush to message her back on AOL instant messenger. Like Coley, the 17-year-old protagonist of Girls Like Girls, the film the pop star has co-written and directed, Kiyoko fell hard for a girl who “put me through my own heartbreak and haunted me for a long time”, she says. Although the 35-year-old singer became known by fans as “lesbian Jesus” following the release of her breakthrough single Girls Like Girls in&nbsp;2015 (the film is an extended version of the story first told in the song’s music video), feeling comfortable in her sexuality didn’t actually come until after its release. Her gay identity was, at the time, the topic she was “the&nbsp;most scared of writing about”, and the song’s confident refrain “Girls like girls like boys do, nothing new” came from wanting to “manifest feeling confident”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/02/hayley-kiyoko-interview-girls-like-girls-music-film-books",
-      "image": "https://i.guim.co.uk/img/media/f3eb026ef7ece07c65777b99361c7d175eb10404/0_142_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=51fce42d85aa28b2f8c9b845b951099f",
-      "publishedAt": "2026-10-02T12:00:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-2Fycy1qb24td2F0dHM",
       "title": "A new Skywalker trilogy for Star Wars? Going back to the same family-saga well is a waste of time",
       "description": "Reports that Jon Watts could make a new trilogy about a clan who have already saved and destroyed the galaxy several times over leaves you wishing for a newer world The Skywalkers: who are they exactly? A family that has moulded the entire Star Wars galaxy in their image, to the extent that nobody can really imagine the long-running space opera without them. An almost endless familial battle between good and evil, featuring absent fathers, secret siblings, murdered mentors, wayward nephews, surprise grandfathers. For nearly half a century they have blown up Death Stars, built Death Stars, destroyed Jedi orders, rebuilt Jedi orders, fallen to the dark side, risen from the dark side, died heroically, come back as ghosts. Star Wars has occasionally attempted to escape them. It has made films and TV shows about stolen Death Star plans, bounty hunters, smugglers and rebels from entirely different corners of the galaxy. Ryan Gosling will soon appear in a Star Wars movie that, as far as we know, has absolutely nothing to do with them. But they have never really gone away, and now they are back, possibly because Disney has run out of ideas for how to take the franchise forward without them. Deadline reports this week that Lucasfilm has hired Jon Watts to direct the first instalment of a new trilogy continuing the Skywalker saga, written by Simon Kinberg, with Daisy Ridley reportedly being eyed to return as Rey. The films have not yet been greenlit, and there are precious few other details, but Watts does seem an inspired choice, if for no other reason than that he has previously overseen a film – Spider-Man: No Way Home – that was built around the idea that nobody in a long-running franchise needs to remain dead. Continue reading...",
@@ -410,6 +506,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
+    },
+    {
+      "id": "guardian-aW5jZXMtbWFkbmVzcw",
+      "title": "Take It Or Leave It review – vividly atmospheric formative adventures of future pop princes Madness",
+      "description": "Docufictional 1981 comedy captures the working-class ska-pop pranksters in their hungry years with an almost Loachian authenticity Opting for the former is the best idea for this unexpectedly revealing, vividly atmospheric, often funny and alarming, docufictional comedy from 1981 about the rise of the baggy-trousered ska-pop national treasures Madness. It takes us from their beginnings in 1976 to their chart breakthrough: gormless, penniless blokes, obsessing about music and roaming north London’s gritty districts of Camden Town, Stoke Newington and Crouch End. (This elicits some droll dialogue: “They’re all the same, these streets” … “That’s why they put signs on them.”) Our naughty, dodgy heroes play people’s parties, sign on the dole and do mortifying odd jobs, get told off by site foremen and office supervisors, drive to gigs in Arthur Daley vans, almost get into fights with skinheads and have calamitous arguments with the drummer during rehearsals. It could have carried on like that indefinitely, but the arrival of Graham “Suggs” McPherson as singer is the mysterious ingredient around which everything coalesces: his voice miraculously ups the band’s game, apparently curing their worrying propensity for playing flat. His vocals mesh with the reggae thump of the keyboards and sax and the rest of the band’s goofy jogging-on-the-spot stage energy. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/02/take-it-or-leave-it-review-vividly-atmospheric-formative-adventures-of-future-pop-princes-madness",
+      "image": "https://i.guim.co.uk/img/media/0d1c36de4c2c4162dcff23fafc661b2a578dcd84/570_0_3104_2486/master/3104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1610e79afa6edeaeff3bd19eb89ebb0b",
+      "publishedAt": "2026-10-02T06:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-S1hY3Rpb25zLWdhemE",
@@ -424,12 +532,60 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-nRhcmllcy1yYW5rZWQ",
+      "title": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
+      "description": "From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenes Behind-the-scenes footage from Dawn of the Dead is the highlight of this aficionados-only affair, which follows the 1979 satirical zombie horror all the way through to distribution. Director George A Romero, makeup maestro Tom Savini and the occasional zombie actor shoot the breeze in the deserted shopping mall that provides the movie with its incongruous central location. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
+      "image": "https://i.guim.co.uk/img/media/007f444a69081dcdd125902f07500fdc5751ef64/2045_0_7031_5625/master/7031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b34a97c7f9de11796f71cf281b85d2b",
+      "publishedAt": "2026-10-01T15:31:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FsZS1mcmllbmRzaGlw",
+      "title": "Extra Geography review – a wickedly funny lesson in sex, class and female friendship",
+      "description": "A boarding-school escapade becomes a wonderfully acted coming-of-age comedy, as two best friends find their world threatened by desire and adulthood Rose Tremain’s autobiographical short story, inspired by an escapade from her own boarding school days, has been transformed into an extremely funny, charming and tremendously well-acted comedy written by Miriam Battye and directed by Molly Manners, all about sex, class, friendship and the awful encroachment of adulthood. As well as everything else, it refuses the glib happy ending of the traditional coming-of-age movie. Newcomers Marni Duggan and Galaxie Clear give cracking performances as Flic and Minna, two year-10 girls and best friends for ever at a private school. They are not outsiders or emo losers; both are good at the brutal sport of lacrosse. Intent on raising their profile in advance of an attempt at Oxbridge, they audition for a production of A Midsummer Night’s Dream, which involves boys from a neighbouring school. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-review-a-wickedly-funny-lesson-in-sex-class-and-female-friendship",
+      "image": "https://i.guim.co.uk/img/media/8c56d553f85668450721327b1c6534c27d5add67/461_0_2622_2097/master/2622.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=4f5f7eeb840a42001367646800e06bf7",
+      "publishedAt": "2026-10-01T11:43:45.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-S1jcnVpc2UtbW92aWU",
       "title": "Don’t hate the movie, hate the critic! Digger’s new PR push is a risky bet for film that was never meant to be divisive",
       "description": "‘SAME FILM – DIFFERENT TRUTH’ is the marketing solution for the film’s poor reception by critics. Or, as Cruise says in the ad, ‘Fuck those people!’ ‘You know what? Fuck those people!” The speaker is Tom Cruise in his serious-fatsuit role of Digger, in the bold new online ad which gives the finger to his film’s bad reviews and the haters. His words are now repurposed to address loathsome critics. The ad’s message is that a provocative, passionate film like this is divisive. You should make your own mind up. Which is true of course. Although it is just as true for films getting across-the-board raves. The last movie to try this was Francis Ford Coppola’s Megalopolis: it too ran an ad campaign rebranding the existence of bad reviews (though like Digger it also had plenty of good reviews) as evidence of genius which had yet to be appreciated. This campaign went terribly wrong when it was pointed out that bad reviews it had quoted for Apocalypse Now and The Godfather were in fact made up . Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/01/digger-ad-tom-cruise-movie",
       "image": "https://i.guim.co.uk/img/media/8927bdf14d7a9f6ee7315d59d2905a79db5e28c1/243_234_3041_2433/master/3041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=34c3e9f0753df2fe0925727ba5f7e7f9",
       "publishedAt": "2026-10-01T10:35:21.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-J5LW9mLXN1cnZpdmFs",
+      "title": "Knife: The Attempted Murder of Salman Rushdie review – terrifying and inspiring story of survival",
+      "description": "Alex Gibney’s documentary follows the celebrated author’s life up to and after the attack, but what shines through is Rushdie’s remarkable courage The terrifying, inspiring story of how Salman Rushdie survived and thrived after the assassination attempt on him in New York in 2022 is the subject of this excellent documentary from Alex Gibney. It is based on Rushdie’s own memoir , narrated extensively by the author himself, and using the intimate hospital-bedside video footage shot by his wife, the poet Rachel Eliza Griffiths. There are stomach-turningly explicit shots of Rushdie’s damaged eye and also, finally, horrendous scenes of the attack itself. What emerges is Rushdie’s courage and his remarkably level-headed, calm and unafraid writerly voice insisting on the primacy of literature, freedom of expression and the life of the imagination. The film itself takes us from Rushdie’s childhood in Mumbai (with a certain unselfconscious locution of his class and background, Rushdie still calls it “Bombay”), to the years of bullying and unhappiness at an English public school, then Cambridge, London, his day job in advertising (he is cheerfully delighted by his successful campaign for Aero chocolate). Then there is writing fiction and the big breakthrough with his magic-realist creation myth Midnight’s Children. We get a lot of footage of him in black-tie at awards, which is how he appeared in the media: a crude jihadi placard actually shows him in a bow tie. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/knife-the-attempted-of-salman-rushdie-review-terrifying-and-inspiring-story-of-survival",
+      "image": "https://i.guim.co.uk/img/media/a37be294fa69acb93c8574cd24685d011cad03aa/287_0_1308_1046/master/1308.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=e5675857595a18a6cc694e143de134e6",
+      "publishedAt": "2026-10-01T06:00:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-mFsZXotaW5hcnJpdHU",
+      "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
+      "description": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disappointing film of the year: an exasperatingly shallow, laborious, self-congratulatory satire with a trick up its sleeve, featuring very good actors giving not very good performances. There are moments to enjoy in Tom Cruise’s boisterous leading turn, yes, but the film’s value resides chiefly in some dreamlike and disturbing images, distorted and bulging from the screen, conjured by cinematographer Emmanuel Lubezki and production designer Dennis Gassner. An ageing, paunchy Texan oil tycoon called “Digger” Rockwell is seen fretfully getting up in the morning, cooing over his horrible old incontinent cat, taking urgent messages from underlings about a certain situation developing in his drilling station in the frozen Arctic. He is played by Tom Cruise with a wispy baldingness and various other prostheses, together with a good-ol’-boy twang and a Stetson borrowed from Slim Pickens’s bomb-riding army major in Kubrick’s Dr Strangelove. His prized possession is the battered old shovel his granddaddy used a century before, digging for black gold as a penniless young man in the lone star state. Digger likes to brandish this to make a point. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=5d8a1b7c931dde734c9348f203a90490",
+      "publishedAt": "2026-09-29T16:00:00.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -446,126 +602,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-b24tZHJlYW13b3Jrcw",
-      "title": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
-      "description": "This over-controlled adventure never takes a breath or a moment to let its characters come to life Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me another example of exhausting AI-type content production in animation. You could make the same argument against plenty of live-action films of course, but it is in animation that this kind of soulless blitzkrieg tends to predominate. Forgotten Island is over-controlled and over-determined, a movie that never, or hardly ever, takes its pedal from the metal, never takes a breath or a moment to let its characters come to life. At times it seems to be aping the world of Japanese anime, but without its sense of character or capacity for calm. The story, weirdly reminiscent of The Hangover of all things, is set in the Philippines in the pre-social media 90s. Jo, voiced by R&B star HER, is a lonely and super-imaginative teen always in trouble at school; like Moana she has a wise grandma who guides her to her ancestral destiny and has captivated Jo with stories of her culture and identity – stories of the forgotten island of Nakali. Jo makes friends with similarly lonely Raissa (Liza Soberano) who like Jo is smart but with a much more focused sense of academic discipline. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks",
-      "image": "https://i.guim.co.uk/img/media/4473f5f0f5a946aac7ca506a1d3be6f3966c567e/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ec8337998efbf16383f49ca9310a11a4",
-      "publishedAt": "2026-09-24T06:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aWRlLW9mLWNoZWVzZQ",
-      "title": "Heart of the Beast review – Brad Pitt survivalist dogmance serves up wilderness with side of cheese",
-      "description": "Pitt and loyal hound Odin get stuck in remote Alaska in this serviceable adventure with hints of Jack London and Marley & Me One man and his dog have an amazing adventure in this survivalist drama starring Brad Pitt, from screenwriter Cameron Alexander and director David Ayer, for which the first and last words of the title have been carefully chosen to signal a mix of sentimentality and thrills. It’s an entertaining anthro-canine-mance, with man and dog relating to each other on a deep level … kind of like Owen Wilson in Marley & Me , only without Jennifer Aniston, or Bernie Winters and Schnorbitz, only without the devastating melancholy. Pitt, who last worked with Ayer on the second world war action thriller Fury , plays a US military special forces veteran called Belmont, tough, self-reliant and laconically good-humoured in the classic Pitt manner, now spending his retirement roaming the breathtaking remote landscape of Alaska in his seaplane. He is accompanied by his beloved service dog Odin, or Odey (played by four different German shepherds), who saw action with Belmont in various fuzzily imagined flashback combat sequences. Odin took retirement with Belmont and is now his best and only pal. Whether or not Belmont ever had a human partner is never revealed. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/22/heart-of-the-beast-review-brad-pitt-survivalist-dogmance-serves-up-wilderness-with-side-of-cheese",
-      "image": "https://i.guim.co.uk/img/media/8065dc9045482a0e3aed97cc813e8de8c2c6bcb4/26_0_2124_1699/master/2124.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=af49609ebfe6d1b9c0b401e7d8d7782f",
-      "publishedAt": "2026-09-22T13:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-l3b29kLW1ha2VvdmVy",
-      "title": "Best of the Best review – college comedy formula gets a Bollywood makeover",
-      "description": "What’s engaging in this tale of two best girl friends and a dance competition is not the familiar plot but the whip-fast telling and brilliant choreograpy There is absolutely nothing unexpected about this Netflix comedy set in the world of rival Bollywood dance groups on American campuses. Each plot twist is instantly familiar, every character recognisable, the essential formula untweaked from a dozen previous college comedies. But it’s funny and snappy, and directed with infectious energy by Lena Khan, one of the few Muslim female film-makers working in Hollywood. The scriptwriters are Hasan Minhaj and Prashanth Venkataramanujam, a pair of millennial comedians who look as if they’ve done enough research on the inner workings of gen Z behaviour to write a PhD. Maya (Maitreyi Ramakrishnan) and Anjali (Priyanka Kedia) star as lifelong best friends who enrol together at UCLA. Maya is the clever difficult one; Anjali is the nice pretty one. (It goes without saying Maya is also a total babe.) During freshers’ week they join the college’s Bollywood dance club where, predictably, Maya locks horns with leader Ronak (Ankur Rathee) over the choreography. He wants to base their new-season routine on Bollywood weddings, which, as Maya points out, is a bit trad. If they are going to beat their rivals they will need to come up with something modern and fresh. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/18/best-of-the-best-review-college-comedy-formula-gets-a-bollywood-makeover",
-      "image": "https://i.guim.co.uk/img/media/c7e742d86855992096c4b511d8ced6abc30ea935/386_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=984be4bc0e5c754f9dd513476307f955",
-      "publishedAt": "2026-09-18T06:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-QtbW92aWUtcmV2aWV3",
-      "title": "Resident Evil review – Zach Cregger’s rebooted action horror is a wild rollercoaster ride",
-      "description": "The Weapons director delivers a seat-edge thriller with a standout lead performance from Austin Abrams as an everyman navigating chaos Typically horror fans react to blatant on-screen stupidity with vocal derision. Don’t go in there! Girl, get out of the house! Guys, ignore that distress signal! But genre aficionados may find themselves falling a little bit in love with Bryan (Austin Abrams), the hapless de facto hero of the new horror film Resident Evil. It’s not that Bryan is traditionally hunky, or even a caricatured version of a square-jawed warrior, like Bruce Campbell in his later Evil Dead outings. But Abrams is in possession of a Campbell-ish charm, even in the face of his character’s repeated blundering, as well as an everyman relatability that makes this wild carnival-ride movie play a little closer to the ground. Bryan is a courier – a glorified Postmates driver, in his own estimation – who postpones the end of his shift to take one last night-time run, driving an important item from one hospital to another in a snowstorm without the proper tires or four-wheel drive. After all, the distance and urgency means double pay. When he hits a mysterious woman who emerges suddenly on to a slick road, he’s drawn into a hellish outbreak that will look familiar to fans of the Resident Evil video game series (or maybe the previous six-movie Milla Jovovich franchise, which apparently drifted afield from the games’ storylines). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/16/resident-evil-reboot-movie-review",
-      "image": "https://i.guim.co.uk/img/media/fbbc7a8cc12b46d1a7d2687cfe582e06d6dc9753/715_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5c1403dad3fe242bcd7aa69603b2777d",
-      "publishedAt": "2026-09-16T16:00:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1tb3RoZXItcmV2aWV3",
-      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
-      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fc78efc8b9a5dcec82d38a828e204be7",
-      "publishedAt": "2026-09-13T04:01:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-LW1vdmllLXJldmlldw",
-      "title": "The Uprising review – the peasants are revolting in muddled historical epic",
-      "description": "Andrew Garfield’s charisma can’t save Paul Greengrass’s grim and depressingly generic period piece Hollywood loves giving young actors their own historical epic as much as audiences seem to dislike watching them. Timothée Chalamet and Chris Pine’s least remembered roles are in the medieval set films The King and Outlaw King (no relation), Ridley Scott’s The Last Duel made back only a third of its $100m budget and earlier this year, the Saudi-backed seventh-century drama Desert Warrior starring Anthony Mackie and Ben Kingsley quietly became one of the biggest flops of all time. Last week, it was reported that Scott blamed the failure of Gladiator II on Paul Mescal not being “masculine enough” in a logical leap which only makes sense if your barometer for masculinity is a man who throws hotel phones and yells at producers in storage closets. On paper, The Uprising should be different: it’s a historical epic from a blue-chip director (the Bourne trilogy’s Paul Greengrass ), a nuanced, introspective leading man ( Andrew Garfield ) and a milieu that uncomfortably chimes with the western world’s backslide into repressive authoritarianism (The Peasants’ Revolt of 1381). In reality, it is a disjointed slog through the mud with the emotional depth of a History Channel rerun. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/09/the-uprising-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c70adbdc52a8efa578dc8ebef0cc48e0b9d8ac9d/893_0_4214_3375/master/4214.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=191a05a2f95608b4dbc5e5f0110b6721",
-      "publishedAt": "2026-09-09T13:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "Practical Magic 2 review – Bullock and Kidman return for odd sequel that still casts a spell",
-      "description": "A nostalgia-bait return to the witchy 90s comedy is as strange and messy as the first but there are warm seasonal pleasures to be had Much has changed in the universe, cosmic and otherwise, since the Owens witches last graced the big screen with their practical magic of sleeping draughts, midnight margaritas and generational love curses. For one, movies like the 1998 cult-ish classic Practical Magic – a compellingly bizarre mashup of genres, aspirational 90s fashion and sisterly affection starring Sandra Bullock and Nicole Kidman in their movie-star primes as lovelorn sorceresses in Puritan-lite Massachusetts – largely stopped reaching theaters. For another, nostalgia cycles only intensified and tightened, our algorithms clogged with unsolicited sequels and dupes for Bullock’s impeccable vintage 90s Levi’s. Which makes Practical Magic 2, reuniting both Kidman and Bullock, and Stockard Channing and Dianne Wiest as their lovingly eccentric aunts, somewhat of an anomaly, at once a seeming inevitability and, as a matrilineal romance comedy (though decidedly not a romcom) starring two 60-year-old women , an oddity . There’s no circumventing nostalgia bait, but Practical Magic remains so idiosyncratic in tone and, well, kookiness, that a sequel somewhat appeals. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/08/practical-magic-2-movie-review",
-      "image": "https://i.guim.co.uk/img/media/eb81f8d4a1478f5ffd85c38600de8d3153415339/394_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=fd1dc3371e3a7aeea712053cf7eee117",
-      "publishedAt": "2026-09-08T16:05:39.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
-      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "description": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has made his feature debut with a strangely overwrought and heavy-footed drama-thriller, which for all its elaborate neon-lit atmosphere of noir danger isn’t at all sure what it wants to say about media or morality, or anything else. The subject is the controversial top-rated US TV reality show To Catch a Predator which ran from 2004 to 2008; that title was evidently taken from the Hitchcock movie To Catch a Thief, which in turn was inspired by the phrase “Set a thief to catch a thief”. In search of prey, the show’s researchers baited paedophiles in online chatrooms posing as children, lured them to “sting houses” where actors played underage teens on the front porch to get the abusers inside, where they can be clearly filmed expressing criminal intentions. But before anything could happen, sonorous host Chris Hansen appeared from nowhere and confronted these cringing abusers – which made for fantastic television. After this the cops made an arrest, and they and the state prosecutor did the heavy lifting of overseeing due process and presumably debating the merits of entrapment in court, although this obvious issue is not raised in the movie. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
-      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
-      "publishedAt": "2026-09-07T09:42:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-GF3a2Utc3VuZGFuY2U",
-      "title": "The Weight review – Ethan Hawke leads sturdy adventure set in the 30s",
-      "description": "The recent Oscar nominee lends gravitas to a decent matinee movie on gold smuggling For Ethan Hawke, 2025 was quite the year, showing impressively jarring range as both a bitter gay lyricist in Blue Moon and a demonic child-killer in Black Phone 2, both out at the same time in cinemas, a uniquely terrifying double-bill for diehards. He also led critically adored new noir series The Lowdown, airing simultaneously, all serving as reminder of how he’s one of the hardest-working established actors we have. Not many five-time Oscar nominees have made eight films in the last four years (while also directing two other films on the side). It doesn’t all hit (Raymond and Ray, anyone?) but there’s something unusually invigorating about someone with his level of fame still seeming so excited about the many different opportunities he can maximise (this is, after all, the guy who made millions from his crafty back-end deal for The Purge). He’s on far safer ground, at least as an actor, in The Weight, a conventional adventure drama about gold smuggling in the early 1930s, but his increased versatility has earned him an increase in confidence and while the work here might err more on the physical, he easily anchors the film. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/27/the-weight-review-ethan-hawke-sundance",
-      "image": "https://i.guim.co.uk/img/media/38f8e4ac3e816fc653fd51380068def5d1fcea14/608_0_1798_1440/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b35f1e6067915f1c8cb9e6a0899f73f8",
-      "publishedAt": "2026-01-28T01:34:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1hbmdlbGlhLWpvbGll",
-      "title": "Without Blood review – Angelina Jolie’s lacklustre war drama is another misfire",
-      "description": "Toronto film festival: the actor and activist again struggles to convince as a film-maker with a well-meaning yet unconvincing adaptation of Alessandro Baricco’s novel If only Angelina Jolie’s latest directorial effort, Without Blood, could be as pointed and consequential as her words in real life. If only the film, about the human toll of war, could draw blood as she does. Jolie, a film-maker and former UN ambassador, has long been an outspoken advocate and humanitarian. She was also one of the first and remains among the few Hollywood stars to speak up for Palestinian lives, criticizing the lack of humanitarian aid provided to innocent civilians. Without Blood is screening at the Toronto film festival and will be released at a later date Continue reading...",
-      "url": "https://www.theguardian.com/film/article/2024/sep/09/without-blood-review-angelia-jolie",
-      "image": "https://i.guim.co.uk/img/media/788d731b6d4d76f16fbde18fe62f1826f1c36f38/73_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjQucG5n&enable=upscale&s=8de2d3d40ccdc1bb5dced45b2d1d3d23",
-      "publishedAt": "2024-09-09T22:49:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     }
   ]
 }
