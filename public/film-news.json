@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:41:25.400Z",
+  "generatedAt": "2026-10-08T01:12:29.510Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-JzLTEyMzUyMjA1ODIv",
+      "title": "‘Ted Lasso’ Season 4 Found Its Way by Settling for Less",
+      "description": "After a disastrous third season, the return of Jason Sudeikis' warmhearted Apple comedy didn't take the same big swings that helped make it a mega-hit. Instead, Season 4 acclimated to its comfy sitcom environs, becoming a little less ambitious — and a lot easier to enjoy.",
+      "url": "https://www.indiewire.com/criticism/shows/ted-lasso-season-4-finale-review-new-season-5-spoilers-1235220582/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Ted-Lasso-Season-4-finale-good-but-dumb.jpg?w=650",
+      "publishedAt": "2026-10-07T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjIwNjYyLw",
+      "title": "With Trump Settlement Money in the Bank, E. Jean Carroll Finally Speaks — and in Time for the Documentary Oscar Race",
+      "description": "Exclusive: After staying mum as Donald Trump's various appeals moved through the courts, Carroll can finally talk. Read our previously embargoed interview with the subject of \"Ask E. Jean\" here.",
+      "url": "https://www.indiewire.com/awards/consider-this/e-jean-carroll-interview-documentary-ask-e-jean-1235220662/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2277740681.jpg?w=650",
+      "publishedAt": "2026-10-07T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIyMDY3Ny8",
+      "title": "One-Night Only Screenings of ‘Wicker’ in 4DX Will Let Horny Fans Feel Every Creak and Splinter",
+      "description": "Black Bear will host special event screenings of the steamy Sundance darling starring Olivia Colman and Alexander Skarsgård on October 28.",
+      "url": "https://www.indiewire.com/news/general-news/wicker-4dx-screenings-one-night-only-1235220677/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Wicker-Still_1_6772b6.jpg?w=650",
+      "publishedAt": "2026-10-07T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-lzLTEyMzUyMjA0NDMv",
       "title": "Athlete-Owned Production Companies Are Everywhere — Which Ones Are Working?",
@@ -220,30 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VzLTEyMzUyMjA0NzAv",
-      "title": "Andrew Garfield Massively Helps Neon’s ‘Artificial’ Gamble Pay Off on the Awards Front",
-      "description": "The two-time Oscar nominee's full circle moment from corporate martyr in \"The Social Network\" to corporate menace in Luca Guadagnino's \"Artificial\" is a strong awards campaign narrative.",
-      "url": "https://www.indiewire.com/awards/predictions/andrew-garfield-neon-artificial-oscar-chances-1235220470/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2298757543.jpg?w=650",
-      "publishedAt": "2026-10-06T19:36:32.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-by0xMjM1MjE5NTU0Lw",
-      "title": "‘Pan’s Labyrinth’ Returns to Theaters in 3D and Dolby Atmos",
-      "description": "The team behind Guillermo del Toro's acclaimed 2006 fantasy film tells IndieWire how it looks and sounds better than ever in a new restoration.",
-      "url": "https://www.indiewire.com/features/craft/pans-labyrinth-returns-3d-dolby-atmos-guillermo-del-toro-1235219554/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/10/MCDPALA_EC006.jpg?w=650",
-      "publishedAt": "2026-10-06T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "From films to streaming prices - how the Warner Bros deal could affect you",
       "description": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
@@ -253,18 +265,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mEtMTIzNTIyMDMwNC8",
-      "title": "After Playing ‘Bombastic and Emotionally Volatile’ Roles, Mikey Madison Craved the ‘Restraint’ of ‘The Social Reckoning’",
-      "description": "For her first film role after winning Best Actress for \"Anora,\" the star told IndieWire she found herself drawn to Aaron Sorkin's take on the kind of character (and a real person) she'd never played before.",
-      "url": "https://www.indiewire.com/features/interviews/mikey-madison-the-social-reckoning-after-anora-1235220304/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2297743558.jpg?w=650",
-      "publishedAt": "2026-10-06T17:07:37.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
