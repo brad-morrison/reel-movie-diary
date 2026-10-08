@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:12:29.510Z",
+  "generatedAt": "2026-10-08T06:53:34.405Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Veteran Indian actor Nana Patekar dies at 75",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b982/live/ad6e1830-c2c7-11f1-a761-c59b3c40da47.jpg",
+      "publishedAt": "2026-10-08T03:41:34.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-JzLTEyMzUyMjA1ODIv",
       "title": "‘Ted Lasso’ Season 4 Found Its Way by Settling for Less",
