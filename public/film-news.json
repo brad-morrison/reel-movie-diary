@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T18:41:07.193Z",
+  "generatedAt": "2026-10-09T01:14:23.417Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -16,8 +16,164 @@
   },
   "articles": [
     {
+      "id": "indiewire-Ni0xMjM1MjIwOTU5Lw",
+      "title": "Submit Your Short to This Italian Film Festival and Nicolas Winding Refn’s Jury, and MUBI Could Distribute It",
+      "description": "Exclusive: The second edition of Piccolo America's premier shorts festival Corto Condorello is seeking submissions through November 6. Nicolas Winding Refn will serve as jury president.",
+      "url": "https://www.indiewire.com/news/general-news/submit-your-short-film-to-corto-condorello-2026-1235220959/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/CCFormat-Lancio_Twitter_3_solo_logo_HD.jpg?w=650",
+      "publishedAt": "2026-10-09T01:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-XctYmVuLWFmZmxlY2s",
+      "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
+      "description": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on his facility behind the camera, directing Boston-based thrillers both artistically ambitious (Gone Baby Gone) and juicily crowd-pleasing (The Town). So now that his acting career seems particularly stable, as he works steadily and produces movies via the company he founded with longtime friend and collaborator Matt Damon, why does his directing career remain in what seems like post-Oscar doldrums? (Though he has never been nominated for a best director Oscar, his film Argo won best picture in 2013.) His new movie Animals appears perfectly situated within his wheelhouse: it’s a Los Angeles-based crime-and-politics thriller to match his earlier east coast work. The real surprise, however, is just how listless it can get. Affleck himself plays Mark Kimball, a Angeleno running for mayor of his home town. His status as an independent non-party-affiliated candidate (and one who scarcely exhibits a trace of a platform in what little we see of his stump speeches and interviews) is only one element of his unlikely backstory, which also includes history as a teacher, a lawyer and a veteran of the first Gulf war. (Not sure the math on all that checks out, but let’s allow it as evidence of a fusion between Mark’s dedication to service and a rapacious ambition.) He’s leveraged his family’s wealth to take him through the home stretch of a close campaign, and tensions are medium-high with his wife, Abby, (Kerry Washington), who’s hiding some problems of her own. Things get considerably worse when, on Halloween, he receives a phone call: Kidnappers have taken his preteen son Denny (Christopher Woodley). They’re demanding $7m that Mark doesn’t have to get him back safely. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck",
+      "image": "https://i.guim.co.uk/img/media/36991ad30ea44e706e03d9e6bbe576043113755d/686_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=124d04333e96c871dcd752610c44bd14",
+      "publishedAt": "2026-10-08T23:00:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-2stMTIzNTIyMDgyNC8",
+      "title": "‘Animals’ Review: Ben Affleck’s Tedious New Netflix Thriller Is Quite Literally Just Bad TV",
+      "description": "The director of \"Argo\" and \"The Town\" also stars as an embattled mayoral candidate in an LA kidnapping movie that lacks the visual flair and propulsive storytelling of his other work.",
+      "url": "https://www.indiewire.com/criticism/movies/animals-netflix-movie-review-ben-affleck-1235220824/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/ANIMALS_20250311_WP_0019_R2.webp?w=650",
+      "publishedAt": "2026-10-08T23:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMDc3Mi8",
+      "title": "‘V/H/S Mixtape’ Review: Shudder’s Helter-Skelter Horror Anthology Still Has Some Killer Tracks",
+      "description": "With shorts from Renee Zhan, RZA, Ernest Dickerson, and David Moreau — not to mention, evil puppets escaped from Jim Henson's Creature Shop(!) — the ninth \"V/H/S\" could maybe use a little shuffle.",
+      "url": "https://www.indiewire.com/criticism/movies/vhs-mixtape-film-review-shudder-1235220772/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DANCE-DANCE-DANCE-DANCE-directed-by-Renee-Zhan-2.jpg?w=650",
+      "publishedAt": "2026-10-08T22:18:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjA5NjMv",
+      "title": "‘9 Temples to Heaven’ Review: Spiritual Road Movie Takes a Surrealist Detour in Weerasethakul Collaborator’s Fiction Debut",
+      "description": "NYFF: Apichatpong Weerasethakul’s longtime collaborator makes a fascinating case for himself in his debut narrative feature about a Thai family wrestling with faith and death.",
+      "url": "https://www.indiewire.com/criticism/movies/9-temples-to-heaven-review-1235220963/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/9-Temples-to-Heaven_NYFF64_01.avif?w=650",
+      "publishedAt": "2026-10-08T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjIwNzA1Lw",
+      "title": "Inside ‘Nerve Center,’ InfoWars’ New Flagship Show That Wants to Hold Every Possible Opinion at Once",
+      "description": "Exclusive: Hosts Patti Harrison and David Brown and director Alan Resnick tell IndieWire about assembling the nuttiest corners of the internet for one insane show.",
+      "url": "https://www.indiewire.com/features/interviews/nerve-center-infowars-new-show-1235220705/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-1.02.26-PM.png?w=650",
+      "publishedAt": "2026-10-08T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIyMDk0MS8",
+      "title": "TCM Sticking Around Under Skydance, to Be Overseen by Film Group Instead of TV Team",
+      "description": "Dana Goldberg and Josh Greenstein will have oversight of the cable channel after Mike De Luca and Pam Abdy previously led it at Warner Bros.",
+      "url": "https://www.indiewire.com/news/business/tcm-sticking-around-under-skydance-1235220941/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/12/Turner-Classic-Movies-30th-Anniversary.jpg?w=650",
+      "publishedAt": "2026-10-08T21:25:34.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-Zy0xMjM1MjIwOTU2Lw",
+      "title": "‘Crazy Rich Asians’ Series Ordered at HBO with Film’s Original Cast Returning",
+      "description": "Adele Lim, who co-wrote the 2018 romantic comedy, will showrun and executive produce the hour-long drama series.",
+      "url": "https://www.indiewire.com/news/breaking-news/crazy-rich-asians-series-hbo-original-cast-returning-1235220956/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2018/08/ct-crazy-rich-asians-movie-stereotypes-asian-men-20180803.jpg?w=650",
+      "publishedAt": "2026-10-08T21:00:10.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyMDgwMC8",
+      "title": "‘Below’ Review: Josh Hartnett’s Silly Netflix Creature-Feature Is a Treat for the Eyes and Ears and Not Much Else",
+      "description": "OK, the Newfoundland-set and -shot series also looks good, but the six-part series about an underwater monster terrorizing a small Canadian fishing village gets stranded between goofy thrills and meaningful drama. The accents, though — magnificent.",
+      "url": "https://www.indiewire.com/criticism/shows/below-review-josh-hartnett-squid-netflix-series-1235220800/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Below-Netflix-series-Josh-Hartnett-creature-feature.jpg?w=650",
+      "publishedAt": "2026-10-08T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Welsh actress follows in footsteps of Florence Pugh and Benedict Cumberbatch in line-up",
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab69/live/59fe1be0-c30e-11f1-a64c-550be9e3c66b.jpg",
+      "publishedAt": "2026-10-08T20:38:11.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WEtMTIzNTIyMDM4Mi8",
+      "title": "‘Cupertino’ Review: Robert and Michelle King’s Slick and Spiky Legal Drama Takes on Today’s Most Noxious Tech",
+      "description": "In \"The Good Fight\" creators' latest whipsmart procedural, Mike Colter and Rachel Keller play lawyers representing the little guys exploited by Big Tech — including viewers exasperated by Silicon Valley's predatory disruptions, from Flock cameras to A.I.",
+      "url": "https://www.indiewire.com/criticism/shows/cupertino-review-robert-and-michelle-king-legal-drama-1235220382/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Cupertino-CBS-series-Mike-Colter-Rachel-Keller.jpg?w=650",
+      "publishedAt": "2026-10-08T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-5nLTEyMzUyMjA4MzYv",
+      "title": "Chris Rock Stopped Trying to Imitate Adam Sandler, and Came Out of the Arthouse Closet",
+      "description": "“Your edgy movie should feel edgier than an episode of ‘White Lotus,’\" said Rock of making \"Misty Green.\"",
+      "url": "https://www.indiewire.com/features/interviews/chris-rock-stopped-imitate-sandler-misty-green-directing-1235220836/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MISTY-GREEN_05.jpg?w=650",
+      "publishedAt": "2026-10-08T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3ItMTIzNTIyMDg4MS8",
+      "title": "What Awards Is ‘You Can See Everything’ Even Eligible for?",
+      "description": "Although Nathan Fielder mostly makes projects classified as documentaries, he's been submitted for awards consideration before for playing himself. Could a campaign like that help \"You Can See Everything\" receive Oscar nominations?",
+      "url": "https://www.indiewire.com/awards/industry/what-awards-you-can-see-everything-eligible-for-1235220881/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
+      "publishedAt": "2026-10-08T18:44:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Welsh actress follows in footsteps of Florence Pugh and Benedict Cumberbatch",
       "description": "Leisa Gwenllian says she forgot she applied for the 2026 Stars of Tomorrow talent programme.",
       "url": "https://www.bbc.co.uk/news/articles/crlykne01022o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/148e/live/1b628870-c323-11f1-babe-4199b0e7ccea.png",
@@ -29,11 +185,11 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab69/live/59fe1be0-c30e-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-08T16:54:37.000Z",
+      "title": "Black and African cinema hub opens in London",
+      "description": "EbonyLife Place London is the brainchild of Nollywood media mogul Mo Abudu.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d121/live/cc6768b0-c338-11f1-9981-cf94ea240e40.jpg",
+      "publishedAt": "2026-10-08T17:36:46.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -50,42 +206,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIyMDUzMy8",
-      "title": "Crew Members on Ben Shapiro’s Pro-ICE Film Were Surprised by the Movie’s MAGA Politics. What Did They Deserve to Know?",
-      "description": "A crew member who quit \"Pawn Shop\" says they wouldn't have taken the job had they known more about the pro-ICE action movie — raising questions about what indie productions should disclose before workers sign on.",
-      "url": "https://www.indiewire.com/features/interviews/pawn-shop-crew-script-disclosure-pro-ice-movie-1235220533/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2278809204.jpg?w=650",
-      "publishedAt": "2026-10-08T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ay0xMjM1MjE1NDMzLw",
-      "title": "‘Musk’ Review: Alex Gibney’s Distressing Biography of an Uber-Wealthy Tech Bro Is Less Bombshell Than Summary of How We Got Here",
-      "description": "At nearly four hours, Gibney's documentary boasts a damning and exhaustively researched portrait of Elon Musk, even if the access has its limitations.",
-      "url": "https://www.indiewire.com/criticism/movies/musk-documentary-review-alex-gibney-elon-musk-1235215433/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-07-at-5.18.25-PM.png?w=650",
-      "publishedAt": "2026-10-08T14:14:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-RhLTEyMzUyMjA3Nzkv",
-      "title": "Cannes Prize Winner ‘Ben’Imana’ Becomes First Best International Feature Oscar Submission for Rwanda",
-      "description": "Camera d'Or winner \"Ben'Imana\" makes history as the first Best International Feature submission from Rwanda.",
-      "url": "https://www.indiewire.com/awards/industry/benimana-first-best-international-feature-oscar-rwanda-1235220779/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2277874804.jpg?w=650",
-      "publishedAt": "2026-10-08T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-aW9uLWludGVydmlldw",
@@ -172,90 +292,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-JzLTEyMzUyMjA1ODIv",
-      "title": "‘Ted Lasso’ Season 4 Found Its Way by Settling for Less",
-      "description": "After a disastrous third season, the return of Jason Sudeikis' warmhearted Apple comedy didn't take the same big swings that helped make it a mega-hit. Instead, Season 4 acclimated to its comfy sitcom environs, becoming a little less ambitious — and a lot easier to enjoy.",
-      "url": "https://www.indiewire.com/criticism/shows/ted-lasso-season-4-finale-review-new-season-5-spoilers-1235220582/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Ted-Lasso-Season-4-finale-good-but-dumb.jpg?w=650",
-      "publishedAt": "2026-10-07T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MjIwNjYyLw",
-      "title": "With Trump Settlement Money in the Bank, E. Jean Carroll Finally Speaks — and in Time for the Documentary Oscar Race",
-      "description": "Exclusive: After staying mum as Donald Trump's various appeals moved through the courts, Carroll can finally talk. Read our previously embargoed interview with the subject of \"Ask E. Jean\" here.",
-      "url": "https://www.indiewire.com/awards/consider-this/e-jean-carroll-interview-documentary-ask-e-jean-1235220662/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2277740681.jpg?w=650",
-      "publishedAt": "2026-10-07T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HktMTIzNTIyMDY3Ny8",
-      "title": "One-Night Only Screenings of ‘Wicker’ in 4DX Will Let Horny Fans Feel Every Creak and Splinter",
-      "description": "Black Bear will host special event screenings of the steamy Sundance darling starring Olivia Colman and Alexander Skarsgård on October 28.",
-      "url": "https://www.indiewire.com/news/general-news/wicker-4dx-screenings-one-night-only-1235220677/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Wicker-Still_1_6772b6.jpg?w=650",
-      "publishedAt": "2026-10-07T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-lzLTEyMzUyMjA0NDMv",
-      "title": "Athlete-Owned Production Companies Are Everywhere — Which Ones Are Working?",
-      "description": "From LeBron James and Steph Curry to Tom Brady and Peyton Manning, it seems like every star athlete has waded into Hollywood in the past decade. A few blueprints for success are starting to emerge.",
-      "url": "https://www.indiewire.com/features/commentary/athlete-production-companies-hollywood-analysis-1235220443/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2174068377.jpg?w=650",
-      "publishedAt": "2026-10-07T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIyMDU2My8",
-      "title": "‘Soul Patrol’ Trailer: A Historic Group of Black Vietnam War Veterans Reunite to Reckon with the Past",
-      "description": "Exclusive: The winner of the Directing Award for U.S. Documentary at the 2026 Sundance Film Festival will head to theaters starting November 6, just in time for Veterans Day.",
-      "url": "https://www.indiewire.com/news/trailers/soul-patrol-trailer-black-vietnam-war-veterans-documentary-1235220563/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/SoulPatrol_still-30.jpg?w=650",
-      "publishedAt": "2026-10-07T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjIwNTA3Lw",
-      "title": "‘The Social Reckoning’ Is the Kind of Film That the Oscars Have Moved Past Recognizing",
-      "description": "Aaron Sorkin's \"The Social Reckoning\" is a fine film. It is just not cinematic in the way Oscar voters are looking for.",
-      "url": "https://www.indiewire.com/awards/predictions/the-social-reckoning-oscar-chances-1235220507/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSORE_CO002.jpg?w=650",
-      "publishedAt": "2026-10-07T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-V2LTEyMzUyMjA1NzIv",
-      "title": "‘My Undesirable Friends: Part II — Exile’ Review: Don’t Be Intimidated by Julia Loktev’s Gripping Six-Hour Wartime Journalism Epic",
-      "description": "Epic may be the wrong word for what Loktev achieves with her follow-up to the Oscar-shortlisted saga about Russian dissident journalists condemned by the Kremlin — it's really more of a vibe movie, and better for it.",
-      "url": "https://www.indiewire.com/criticism/movies/my-undesirable-friends-part-ii-exile-review-julia-loktev-1235220572/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/My-Undesirable-Friends-Exile-STILL-1-w-Ksenia-Mironova_Valeria-Ratnikova-jpeg.webp?w=650",
-      "publishedAt": "2026-10-07T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-YXNhbnRzLXJldm9sdA",
       "title": "The Uprising review – Paul Greengrass turns revolutionary rage into a Robin Hood origin myth",
       "description": "Andrew Garfield’s fictional ploughman joins the historical heroes of the 1381 Peasants’ Revolt in a dirt-caked, docudrama-style film with disconcertingly silly moments Paul Greengrass has in fact already made his “uprising” film: United 93 , the gut-wrenching 2006 masterpiece about the passengers onboard United Airlines flight 93 who rose up against the 9/11 hijackers and prevented them from hitting their destination and causing fatalities – except, that is, for those onboard the plane. Greengrass’s new movie, shot in his distinctive handheld, docu-reportage style, is notionally about the 1381 Peasants’ Revolt, in which Wat Tyler and John Ball became legendary for leading an insurrection against the cruel poll tax of Richard II. Or at least … it sort of is. Because the film, in a disconcertingly silly way, imagines the uprising as an origin myth for Robin Hood, or at least someone who’s supposed to be more or less Robin Hood – because that’s not what he’s called and the dates don’t quite match up. Ex-soldier Tyler and radical preacher Ball, capably played by Cosmo Jarvis and Jamie Bell, are joined by a third fictional hero, apparently destined later to canter through the forest with a wealth-redistribution plan. He is a ploughman, known simply as “Ploughman”, played by Andrew Garfield; grieving the loss of his wife and children to the plague and sickened by the tax collectors’ greed and brutality, he instigates an insurrection that soon merges into other outbreaks of revolutionary rage. This involves rivers of smudgy-faced folk in rough clothes descending on the capital from all directions, to demand concessions from the king to whom they are still loyal and believe to have been misled by advisers. Continue reading...",
@@ -268,18 +304,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-24tMTIzNTIyMDI2MS8",
-      "title": "James Gray Looks Back at His Confident, Dangerous First Film ‘Little Odessa’",
-      "description": "The writer/director of \"Paper Tiger\" talks to IndieWire about his 1994 debut \"Little Odessa,\" now available in a new 4K UHD edition from Criterion.",
-      "url": "https://www.indiewire.com/features/interviews/james-gray-on-little-odessa-criterion-restoration-1235220261/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MSDLIOD_FL004.jpg?w=650",
-      "publishedAt": "2026-10-07T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bi1tb3ZpZXMtdGVjaA",
       "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
       "description": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; and Apple TV has acted as a patron for multiple film-maker passion projects. Everyone, including trendy auteur-factory A24, is tying themselves financially to AI. The enormous pull of the tech industry – including its many trillions of dollars, oversized influence on politics and heavily pushed algorithms and AI products – means Hollywood is not alone in courting its wealth, but it has intensified the historic tension between art and commerce in the entertainment business. Technology that augments the human experience may be a compelling narrative subject, but this year brings a trio of films about the gurus responsible for the industry’s false promises. Continue reading...",
@@ -290,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-W1pa2V5LW1hZGlzb24",
-      "title": "The Social Reckoning review – Aaron Sorkin’s jittery sequel with all-new evil puppet Zuckerberg",
-      "description": "Jeremy Strong’s slow-talking Facebook founder turns into a cameo, background to a thriller about a whistleblower that somehow never mentions Trump Here is a film for all those people who solemnly deplore social media in conversation but haven’t quite got round to deleting their accounts. Sixteen years have gone by since The Social Network , written by Aaron Sorkin and directed by David Fincher; this was the addictive, obsessive-compulsive movie about the birth of Facebook in Harvard’s macho-competitive cauldron of student sexism and nerdy self-pity, starring Jesse Eisenberg as the fast-talking, arrogant, not-necessarily-evil genius Mark Zuckerberg. Now Sorkin is back with a sequel of sorts, directing his own script – and now Zuckerberg is basically evil, but also weirdly slow talking, as if all the zinging, smart-alecky Sorkinesque dialogue energy of the first film has been siphoned away in early middle age and dispersed among the insurgents in the new cast. Sorkin’s jittery, funny, syncopated style is unmistakable, as distinctive in its way as David Mamet, although he has one joke about “spatula” being a Yiddish word that he has borrowed from Philip Roth’s Portnoy’s Complaint . It is the story of how in 2021, Zuckerberg’s Facebook empire was challenged by courageous whistleblower-employee Frances Haugen and Wall Street Journal investigative reporter Jeff Horwitz, who were on a mission to tell the world how Zuckerberg, scared by falling revenue, changed the algorithm so that engagement was supercharged by rage bait and hate speech, malice and envy. Facebook, moreover, didn’t factcheck political ads, thus driving a huge, nationwide surge in extremist groups and teen bullying and becoming a major player in the Capitol riots. (Having said that, this film does not say aloud the word “Trump” and rather cravenly declines to specify Maga activity.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-review-aaron-sorkin-jeremy-strong-mikey-madison",
-      "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/579_0_2107_1687/master/2107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7b8f9bbf21ec0c0aa0671cd4b75ba8ba",
-      "publishedAt": "2026-10-07T13:00:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
