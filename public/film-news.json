@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:14:23.417Z",
+  "generatedAt": "2026-10-09T06:53:41.157Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-lsZC1ob3JzZS1uaW5l",
+      "title": "‘Old-timey fascism was kept secret. Now you don’t have to hide it’: Martin McDonagh, John Malkovich and Sam Rockwell on Wild Horse Nine",
+      "description": "McDonagh’s latest film has Malkovich and Rockwell shooting the breeze as CIA agents in 1973 on Easter Island. They discuss grandchildren, swimming with turtles and who shot JFK ‘Earmuffs!” says Sam Rockwell, pausing his gushing tribute mid-flow and turning to face John Malkovich on the couch. Rockwell loves Malkovich and has been discussing his work at some length. Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner. He’s one of the world’s finest actors and annoyingly modest to boot. “Earmuffs!” says Rockwell and pivots back towards me. “He hates hearing all this. That’s why I keep saying ‘earmuffs’.” Malkovich frowns. “I don’t mind it,” he says. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/martin-mcdonagh-john-malkovich-sam-rockwell-interview-wild-horse-nine",
+      "image": "https://i.guim.co.uk/img/media/ebe07ed53ba958b6627fd39c7733ef6925995d61/0_683_5910_4728/master/5910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bf24d9cc6b52d322926c6ac40688850",
+      "publishedAt": "2026-10-09T04:00:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-Ni0xMjM1MjIwOTU5Lw",
       "title": "Submit Your Short to This Italian Film Festival and Nicolas Winding Refn’s Jury, and MUBI Could Distribute It",
@@ -25,6 +37,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+      "description": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
+      "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg",
+      "publishedAt": "2026-10-08T23:08:49.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -173,18 +197,6 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Welsh actress follows in footsteps of Florence Pugh and Benedict Cumberbatch",
-      "description": "Leisa Gwenllian says she forgot she applied for the 2026 Stars of Tomorrow talent programme.",
-      "url": "https://www.bbc.co.uk/news/articles/crlykne01022o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/148e/live/1b628870-c323-11f1-babe-4199b0e7ccea.png",
-      "publishedAt": "2026-10-08T17:37:20.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Black and African cinema hub opens in London",
       "description": "EbonyLife Place London is the brainchild of Nollywood media mogul Mo Abudu.",
       "url": "https://www.bbc.co.uk/news/articles/cmx28wd59j4zo?at_medium=RSS&at_campaign=rss",
@@ -302,30 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-bi1tb3ZpZXMtdGVjaA",
-      "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
-      "description": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; and Apple TV has acted as a patron for multiple film-maker passion projects. Everyone, including trendy auteur-factory A24, is tying themselves financially to AI. The enormous pull of the tech industry – including its many trillions of dollars, oversized influence on politics and heavily pushed algorithms and AI products – means Hollywood is not alone in courting its wealth, but it has intensified the historic tension between art and commerce in the entertainment business. Technology that augments the human experience may be a compelling narrative subject, but this year brings a trio of films about the gurus responsible for the industry’s false promises. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
-      "image": "https://i.guim.co.uk/img/media/5644909e9a17646960a38921aee6a8502993ccc6/458_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7108b4687ee08319d96804473f94468f",
-      "publishedAt": "2026-10-07T13:43:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-      "description": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
-      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/98d6/live/7a402d70-c229-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-10-07T07:37:16.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-m9udC1kaWVzLWFnZWQ",
