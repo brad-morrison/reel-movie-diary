@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:45:22.489Z",
+  "generatedAt": "2026-10-09T18:39:44.520Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,186 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WwtMTIzNTIyMTE0MS8",
+      "title": "Greta Lee, Rebecca Ferguson, and Carrie Coon Rom-Com ‘Honeymoon/Funeral’ Lands at Black Bear",
+      "description": "\"Always Be My Maybe\" director Nahnatchka Khan is directing the film from MRC that was shopped at the TIFF Market.",
+      "url": "https://www.indiewire.com/news/breaking-news/greta-lee-rebecca-ferguson-carrie-coon-honeymoon-funeral-1235221141/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Greta-Lee-Rebecca-Ferguson-Carrie-Coon.jpg?w=650",
+      "publishedAt": "2026-10-09T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3ItMTIzNTIyMTEwMC8",
+      "title": "Tony Gilroy on Pedro Pascal, ‘Behemoth!,’ and How Disney Never Told Him Not to Discuss Fascism During ‘Andor’ Press",
+      "description": "The \"Behemoth!\" writer/director joined IndieWire's Anne Thompson and Ryan Lattanzio for a \"Screen Talk\" Live podcast at the New York Film Festival.",
+      "url": "https://www.indiewire.com/features/podcast/tony-gilroy-disney-never-told-me-not-discuss-fascism-andor-1235221100/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026-10-06_003_AMPH_Indiewire-Screentalk-Live_A.-Sang-urai_IMG_2974.jpg?w=650",
+      "publishedAt": "2026-10-09T18:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+      "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
+      "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5ff2/live/a2a9a270-bc14-11f1-a524-3125ac41b7f5.jpg",
+      "publishedAt": "2026-10-09T18:02:29.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WJveGVyLXNvbWFsaWE",
+      "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
+      "description": "Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production The true-life success story of boxer Ramla Ali is confidently told in this capable picture from screenwriter Ursula Rani Sarma and documentary director Anthony Wonke, in his feature-film debut. Ali is the British-Somali boxer who escaped to the UK from the Somali civil war with her family as a refugee, and in 2021 became the first person to box for Somalia at Olympic Games . The boxing significance of her last name is actually not mentioned in the film – and I never noticed it until it flashed up in a kind of “fight card” intertitle before her first competitive bout. She is fiercely played by Jasmine Jobson, from TV’s Top Boy; her supportive white Muslim-convert husband Richard – a hugely important figure in enabling Ramla to break away from her disapproving family and do as she wants – is played by Finn Cole, and her abusive trainer Clinton is Gershwyn Eustache Jr. This is a film that takes you through the classic boxing-movie scenes fluently enough: the nervous first appearance in the gym, the overbearing quasi-parental coach, the heartstopping fight debut. It was good to see the traditional closeup of post-fight sore fists in the ice-bucket. All in all, the film works better than Giant , the recent biopic of British-Yemeni boxer Prince Naseem, who is in fact briefly mentioned here. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
+      "image": "https://i.guim.co.uk/img/media/e6c5caba28f9a2f3a6743a059fdb6d8f9973e3be/478_0_2402_1922/master/2402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=55d37380bd1078c9f38c472d4842e526",
+      "publishedAt": "2026-10-09T17:45:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold So Far: Venice Orizzonti Prize Winner ‘A Day in the Life of Jo: Chapter Phaedra’ Lands at 1-2 Special",
+      "description": "The coming-of-age story — with a cosmic twist — from director Jacqueline Lentzou had its North American premiere at the New York Film Festival.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot_04_Rec709G24_UHD-3840x2160_00155613.jpg?w=650",
+      "publishedAt": "2026-10-09T16:39:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyMTA5OC8",
+      "title": "Anatomy of a Prom: How Mike Flanagan Climbed the ‘Everest’ of Horror Sequences for ‘Carrie’",
+      "description": "Series creator Mike Flanagan and VFX supervisor Becky Philpott tell IndieWire how they pulled off a prom that's deadly in its own way in Prime Video's \"Carrie.\"",
+      "url": "https://www.indiewire.com/features/craft/carrie-prom-sequence-making-of-mike-flanagan-interview-1235221098/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDCARR_ZU026.jpg?w=650",
+      "publishedAt": "2026-10-09T16:31:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-dC1kb2N0b3ItZG9vbQ",
+      "title": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
+      "description": "Warning: contains spoilers The four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountants Does it really matter which film is the highest-grossing of all time at the global box office? Will James Cameron be lying awake at night staring into the darkness and pondering whether to withdraw humanity’s access to giant, blue-skinned space elves out of sheer spite, just because Avatar has been dethroned once again by Avengers: Endgame? It seems unlikely. Are the Russo brothers at this very moment leaping and capering with wild abandon because adding a few new scenes and releasing their film for the umpteenth time has led to this momentous changing of the guard? Probably not. Is a Disney accountant somewhere holding a tiny awards ceremony in which every nominee is himself? Well yes, absolutely, because the mouse house ultimately owns both films. And yet the most interesting thing about Avengers: Endgame’s return to cinemas is not how much money it has made – for the record, the rerelease, titled Avengers Endgame: Encore, had brought in another $126m worldwide by last weekend, taking its lifetime total to approximately $2.925bn (just ahead of Avatar’s $2.923bn) – but what Marvel added to the picture while we were all busy counting. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
+      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1023_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fc917c1ed7aaa74abf7fe8246bea6b43",
+      "publishedAt": "2026-10-09T16:25:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-dpbGxlbS1kYWZvZS12",
+      "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
+      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values and greenscreen jeopardy on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
+      "image": "https://i.guim.co.uk/img/media/6945988db784504813ac579d304e6485cd73477b/303_0_4884_3908/master/4884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=98df1cbe1dc5cb4127b220cc47349db0",
+      "publishedAt": "2026-10-09T16:21:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ktbW92aWUtcmV2aWV3",
+      "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
+      "description": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble The buzz surrounding the viral, limb-bending trailer of pre-Halloween horror Other Mommy was such that screen grabs became memes, official YouTube channel views ran up to 30m-plus and BuzzFeed used the extremely BuzzFeed headline : “The Lady Sitting Next To Me SCREAMED”: This Trailer Playing Before The Odyssey Is Scaring Moviegoers, And These Hilarious Reactions Have Me Crying. Sure, Universal releasing it exclusively attached to the second biggest film of the year played a considerable part but the imagery was efficiently direct and frightening, a derivative scared child/creepy demon set-up turned into something that felt hard to deny and increasingly impossible to avoid. But then what had seemed like the surest slam-dunk horror of the season seemed to slither away. The marketing continued (there was a second trailer that didn’t quite break the internet in the same way) but the reviews never appeared, a choice made to hide the film from critics until the day it opened. It’s a strategic decision that implies a disaster, Universal eager to keep pre-ticket sales high (it’s predicted to win the weekend with $20m-plus) and bad reviews at bay. But instead, as is often the case, it’s less of a one-star train wreck and more of a two-star mess, likely to frustrate rather than enrage. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review",
+      "image": "https://i.guim.co.uk/img/media/b1113d46802ee423638a7a5d7b023d238f2fdd78/1169_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7e61743cb19399a0a52596ce1cec104a",
+      "publishedAt": "2026-10-09T15:41:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-HMtMTIzNTIyMTA1MC8",
+      "title": "Meryl Streep Almost Didn’t Watch the Six-Hour ‘My Undesirable Friends’ — Then, Colin Firth Led Her to Executive Produce It",
+      "description": "Julia Loktev tells IndieWire about globetrotting as a one-woman crew to follow the now-exiled Russian and Ukrainian journalists who fled home after Putin's invasion.",
+      "url": "https://www.indiewire.com/features/interviews/how-meryl-streep-executive-produced-my-undesirable-friends-1235221050/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P103M4PA.jpg?w=650",
+      "publishedAt": "2026-10-09T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-dC1ndXktcml0Y2hpZQ",
+      "title": "Lost generation: the AI threat to Britain’s next great directors",
+      "description": "Commercials once launched careers from Ridley Scott to Guy Ritchie, now automated production is cutting costs – and the chance to learn by doing When Ridley Scott was awarded the UK’s highest accolade for a glittering career directing films from Alien and Blade Runner to Gladiator and The Martian , he reminded those attending the Bafta event eight years ago that making commercials had been his “film school” . The advertising industry has long been a breeding ground for British film and TV talent who have gone on to make the jump to Hollywood productions , including Guy Ritchie, who started out making music videos and commercials, and Paddington in Peru director Dougal Wilson, whose credits include a number of John Lewis’s famous Christmas ads. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
+      "image": "https://i.guim.co.uk/img/media/110b540e4f10f1f3b9ae1216cf3edba091146e56/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74b92bfc2810e5f2efa863a572de263b",
+      "publishedAt": "2026-10-09T15:00:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-V0LTEyMzUyMjA1Nzkv",
+      "title": "Criterion Finally Gives Americans the Chance to See Kubrick’s Preferred Cut of ‘The Shining’ — but Which Version Is Better?",
+      "description": "Director Stanley Kubrick edited two different versions of his Stephen King adaptation, and they yield quite different emotional responses — a new Criterion boxed set provides the opportunity to compare.",
+      "url": "https://www.indiewire.com/features/commentary/the-shining-criterion-edition-us-vs-international-cut-1235220579/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDSHIN_WB022.jpg?w=650",
+      "publishedAt": "2026-10-09T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-LXdhcnMtYXVjdGlvbg",
+      "title": "Lightsaber Darth Vader used in ‘I am your father’ Star Wars duel up for auction",
+      "description": "Saber is expected to fetch at least $1m and is one of more than two dozen props that will be up for sale A lightsaber used by Darth Vader in the Star Wars duel where he tells Luke Skywalker “I am your father” is going up for sale at Heritage Auctions next month. The Vader saber, also used in Return of the Jedi, is expected to fetch at least $1m. It is one of more than two dozen lightsaber props that will be up for sale at the auction that spans Star Wars Episodes I through IX and other films and TV shows from the universe George Lucas created. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/lightsaber-darth-vader-star-wars-auction",
+      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/509_449_1918_1535/master/1918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9527a3f938a88f397033ffd50c3f6795",
+      "publishedAt": "2026-10-09T13:36:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMjA5OTEv",
+      "title": "Are There Too Many Horror Movies?",
+      "description": "A crowded October calendar, filmmaker Joseph Kahn's recent Hollywood Reporter festival column, and excited fans complaining of burnout raise different questions about the genre's popularity.",
+      "url": "https://www.indiewire.com/features/commentary/are-there-too-many-horror-movies-1235220991/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-1.23.30-AM.png?w=650",
+      "publishedAt": "2026-10-09T13:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMDg0OC8",
+      "title": "‘Bird in Hand’ Trailer: A Wedding on ‘Rebranded’ Plantation Is Just the Start in Farcical Film Unafraid of Real Drama",
+      "description": "Exclusive: Melody C. Roscher's feature filmmaking debut draws on her own life, combining the outrageous and the very real indeed.",
+      "url": "https://www.indiewire.com/news/trailers/bird-in-hand-trailer-melody-c-roscher-1235220848/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/large_Bird_in_Hand-Clean-16x9-01.png?w=650",
+      "publishedAt": "2026-10-09T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
     {
       "id": "guardian-bnMtb2Ytb3VyLWFnZQ",
       "title": "The new Darth Vader: how tech execs became the film villains of our age",
@@ -30,7 +210,7 @@
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "description": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
       "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
       "publishedAt": "2026-10-09T10:54:21.000Z",
@@ -50,18 +230,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "guardian-JvZHVjdGlvbi1oZWxs",
-      "title": "‘Is death necessary?’: why Peter Greenaway’s assisted dying drama is stuck in post-production hell",
-      "description": "Exclusive: Three years after filming began on the contentious Lucca Mortis, starring Dustin Hoffman, the British director is still in dispute with producers over which version to release, and a battle over rights rumbles on Peter Greenaway’s new movie was supposed to mark a glorious swansong for him and his lead actor Dustin Hoffman, the Oscar-winning star of The Graduate and Tootsie. Both men were in their 80s when shooting began in Lucca, Tuscany, in late 2023. Neither knew the storms ahead or that this was going to turn into arguably the most troublesome project in Greenaway’s career. Turn the clock back to 2023 and Greenaway, who has been based in the Netherlands for the last 20 years, could hardly conceal his excitement during a Q&A at International Documentary Film Festival Amsterdam (IDFA) in the huge art deco Tuschinski theatre in Amsterdam in November 2023, after receiving a lifetime achievement award from the festival. He told the audience that he would be flying to Italy the next morning “and that, all being well, we will start shooting seriously in the next couple of days”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/is-death-necessary-why-peter-greenaways-assisted-dying-drama-is-stuck-in-post-production-hell",
-      "image": "https://i.guim.co.uk/img/media/280ffc5ab88753098d17cec67177850d92b7d254/436_0_3250_2600/master/3250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70006949e07fe88f1ebfd38129cfbd23",
-      "publishedAt": "2026-10-09T08:00:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-lsZC1ob3JzZS1uaW5l",
@@ -100,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-XctYmVuLWFmZmxlY2s",
-      "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
-      "description": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on his facility behind the camera, directing Boston-based thrillers both artistically ambitious (Gone Baby Gone) and juicily crowd-pleasing (The Town). So now that his acting career seems particularly stable, as he works steadily and produces movies via the company he founded with longtime friend and collaborator Matt Damon, why does his directing career remain in what seems like post-Oscar doldrums? (Though he has never been nominated for a best director Oscar, his film Argo won best picture in 2013.) His new movie Animals appears perfectly situated within his wheelhouse: it’s a Los Angeles-based crime-and-politics thriller to match his earlier east coast work. The real surprise, however, is just how listless it can get. Affleck himself plays Mark Kimball, a Angeleno running for mayor of his home town. His status as an independent non-party-affiliated candidate (and one who scarcely exhibits a trace of a platform in what little we see of his stump speeches and interviews) is only one element of his unlikely backstory, which also includes history as a teacher, a lawyer and a veteran of the first Gulf war. (Not sure the math on all that checks out, but let’s allow it as evidence of a fusion between Mark’s dedication to service and a rapacious ambition.) He’s leveraged his family’s wealth to take him through the home stretch of a close campaign, and tensions are medium-high with his wife, Abby, (Kerry Washington), who’s hiding some problems of her own. Things get considerably worse when, on Halloween, he receives a phone call: Kidnappers have taken his preteen son Denny (Christopher Woodley). They’re demanding $7m that Mark doesn’t have to get him back safely. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck",
-      "image": "https://i.guim.co.uk/img/media/36991ad30ea44e706e03d9e6bbe576043113755d/686_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=124d04333e96c871dcd752610c44bd14",
-      "publishedAt": "2026-10-08T23:00:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-2stMTIzNTIyMDgyNC8",
       "title": "‘Animals’ Review: Ben Affleck’s Tedious New Netflix Thriller Is Quite Literally Just Bad TV",
       "description": "The director of \"Argo\" and \"The Town\" also stars as an embattled mayoral candidate in an LA kidnapping movie that lacks the visual flair and propulsive storytelling of his other work.",
@@ -148,54 +304,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-dy0xMjM1MjIwNzA1Lw",
-      "title": "Inside ‘Nerve Center,’ InfoWars’ New Flagship Show That Wants to Hold Every Possible Opinion at Once",
-      "description": "Exclusive: Hosts Patti Harrison and David Brown and director Alan Resnick tell IndieWire about assembling the nuttiest corners of the internet for one insane show.",
-      "url": "https://www.indiewire.com/features/interviews/nerve-center-infowars-new-show-1235220705/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-1.02.26-PM.png?w=650",
-      "publishedAt": "2026-10-08T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIyMDk0MS8",
-      "title": "TCM Sticking Around Under Skydance, to Be Overseen by Film Group Instead of TV Team",
-      "description": "Dana Goldberg and Josh Greenstein will have oversight of the cable channel after Mike De Luca and Pam Abdy previously led it at Warner Bros.",
-      "url": "https://www.indiewire.com/news/business/tcm-sticking-around-under-skydance-1235220941/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/12/Turner-Classic-Movies-30th-Anniversary.jpg?w=650",
-      "publishedAt": "2026-10-08T21:25:34.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjIwOTU2Lw",
-      "title": "‘Crazy Rich Asians’ Series Ordered at HBO with Film’s Original Cast Returning",
-      "description": "Adele Lim, who co-wrote the 2018 romantic comedy, will showrun and executive produce the hour-long drama series.",
-      "url": "https://www.indiewire.com/news/breaking-news/crazy-rich-asians-series-hbo-original-cast-returning-1235220956/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2018/08/ct-crazy-rich-asians-movie-stereotypes-asian-men-20180803.jpg?w=650",
-      "publishedAt": "2026-10-08T21:00:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyMDgwMC8",
-      "title": "‘Below’ Review: Josh Hartnett’s Silly Netflix Creature-Feature Is a Treat for the Eyes and Ears and Not Much Else",
-      "description": "OK, the Newfoundland-set and -shot series also looks good, but the six-part series about an underwater monster terrorizing a small Canadian fishing village gets stranded between goofy thrills and meaningful drama. The accents, though — magnificent.",
-      "url": "https://www.indiewire.com/criticism/shows/below-review-josh-hartnett-squid-netflix-series-1235220800/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Below-Netflix-series-Josh-Hartnett-creature-feature.jpg?w=650",
-      "publishedAt": "2026-10-08T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
       "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
@@ -205,42 +313,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WEtMTIzNTIyMDM4Mi8",
-      "title": "‘Cupertino’ Review: Robert and Michelle King’s Slick and Spiky Legal Drama Takes on Today’s Most Noxious Tech",
-      "description": "In \"The Good Fight\" creators' latest whipsmart procedural, Mike Colter and Rachel Keller play lawyers representing the little guys exploited by Big Tech — including viewers exasperated by Silicon Valley's predatory disruptions, from Flock cameras to A.I.",
-      "url": "https://www.indiewire.com/criticism/shows/cupertino-review-robert-and-michelle-king-legal-drama-1235220382/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Cupertino-CBS-series-Mike-Colter-Rachel-Keller.jpg?w=650",
-      "publishedAt": "2026-10-08T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-5nLTEyMzUyMjA4MzYv",
-      "title": "Chris Rock Stopped Trying to Imitate Adam Sandler, and Came Out of the Arthouse Closet",
-      "description": "“Your edgy movie should feel edgier than an episode of ‘White Lotus,’\" said Rock of making \"Misty Green.\"",
-      "url": "https://www.indiewire.com/features/interviews/chris-rock-stopped-imitate-sandler-misty-green-directing-1235220836/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MISTY-GREEN_05.jpg?w=650",
-      "publishedAt": "2026-10-08T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3ItMTIzNTIyMDg4MS8",
-      "title": "What Awards Is ‘You Can See Everything’ Even Eligible for?",
-      "description": "Although Nathan Fielder mostly makes projects classified as documentaries, he's been submitted for awards consideration before for playing himself. Could a campaign like that help \"You Can See Everything\" receive Oscar nominations?",
-      "url": "https://www.indiewire.com/awards/industry/what-awards-you-can-see-everything-eligible-for-1235220881/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
-      "publishedAt": "2026-10-08T18:44:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -256,18 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-HYtMTIzNTIyMDU5NC8",
-      "title": "‘Matchbox: The Movie’ Review: If Skydance’s Theatrical Releases Are as Blandly Algorithmic as Its Streaming Ones, Hollywood Is Already Dead",
-      "description": "Small cars inspire a big whiff in an Apple streaming movie that stars John Cena as a CIA agent who has to retrieve a stolen nuke with his childhood friends.",
-      "url": "https://www.indiewire.com/criticism/movies/matchbox-the-movie-review-apple-tv-1235220594/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Matchbox_Photo_0102.jpg?w=650",
-      "publishedAt": "2026-10-08T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-aW9uLWludGVydmlldw",
       "title": "Sofia Coppola: ‘I’m glad we weren’t kicked out of Tokyo making Lost in Translation’",
       "description": "The director talks about what she learnt from her mother, working with a rookie Tim Burton, and 20 years of her cult classic Marie Antoinette Hello , I’m Cherry, I’m 14 and an aspiring film-maker. I love how your films capture what it feels like to be a young girl growing up. We hear so much about the famous men in your family, but how have the successful women in your family inspired and influenced you? Your films capture the experience of what it is to be a young girl in a way words often can’t. CherryEmma That’s nice to hear, thank you. I feel like I got a lot from my mom about being true to yourself, following what you’re interested in and seeing the beauty in your surroundings. My mom always noticed odd details in life, so a lot of my films are made up of those kinds of things. Your films beautifully capture the isolation of hotel rooms – spaces completely detached from a character’s past or future. If you were forced into that stillness and could choose to preserve only one cherished memory while erasing another for ever, what would they be? Malpractice1 It’s hard to pick a memory, but recently we had a party in Versailles for the anniversary of Marie Antoinette and New Order played. When they started playing Ceremony [from the soundtrack] and the lights went on, I just know that in the future when I have to remember a happy memory, that’s going to be it. Even painful memories are part of making you who you are, and you learn from them, so I can’t think of anything I would erase. Continue reading...",
@@ -278,18 +338,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-b3ZlbmNlLWZyYW5jZQ",
-      "title": "Good night, and good lick: what can we expect from George Clooney’s restaurant?",
-      "description": "The newly-official French citizen is planning to open an Italian restaurant in Provence. Will it float like his tequila brand or sink as swiftly as the Steven Spielberg submarine eatery that made one reviewer ‘embarrassed to be human’? The Provençal village of Cotignac is not wanting for places to eat. Within a short drive of its pale stone houses, you can find a wealth of high-end dining options. La Table de Mentone, set within the beautiful Château Mentone wine estate, is famed for the produce it grows on site. The Michelin-starred Restaurant Bruno offers dazzling variations of truffle dishes. More locally, Picotte Provence offers the sort of charming village dining that showcases the best of what the region has to offer. However, despite all these wonderful options, there is one thing that Cotignac does not yet boast, and that’s a celebrity vanity project. But that is all about to change, thanks to the news that George Clooney is planning to open a restaurant there. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/george-clooney-italian-restaurant-provence-france",
-      "image": "https://i.guim.co.uk/img/media/7d4aaed86103697c83d574e9ac0ac2b8c5b2df6c/1908_397_6703_5363/master/6703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=939753bf739132b157ab19999dd056cf",
-      "publishedAt": "2026-10-08T11:25:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -340,6 +388,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-bi1tb3ZpZXMtdGVjaA",
+      "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
+      "description": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; and Apple TV has acted as a patron for multiple film-maker passion projects. Everyone, including trendy auteur-factory A24, is tying themselves financially to AI. The enormous pull of the tech industry – including its many trillions of dollars, oversized influence on politics and heavily pushed algorithms and AI products – means Hollywood is not alone in courting its wealth, but it has intensified the historic tension between art and commerce in the entertainment business. Technology that augments the human experience may be a compelling narrative subject, but this year brings a trio of films about the gurus responsible for the industry’s false promises. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
+      "image": "https://i.guim.co.uk/img/media/5644909e9a17646960a38921aee6a8502993ccc6/458_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7108b4687ee08319d96804473f94468f",
+      "publishedAt": "2026-10-07T13:43:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "guardian-m9udC1kaWVzLWFnZWQ",
       "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
       "description": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint – a life in pictures Her best films – ranked Eva Marie Saint, one of the last survivors of Hollywood’s golden age of the 1940s and 50s, has died aged 102. Her screen work spanned six decades: Saint made her screen debut opposite Marlon Brando in On the Waterfront, starred in Alfred Hitchcock’s celebrated thriller North by Northwest, and in one of her last screen appearances played Superman’s adoptive mother Martha Kent in the 2006 superhero film Superman Returns . A family spokesman said on Tuesday that Saint had died of natural causes at her home in Los Angeles. Continue reading...",
@@ -388,18 +448,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZWxzLWludGVydmlldw",
-      "title": "‘We got that bad guy and took him down!’ Jaclyn Smith on the fun, friendship and frustration of Charlie’s Angels",
-      "description": "It’s 50 years since Smith joined TV’s bikini-clad crime fighters alongside Farrah Fawcett and Kate Jackson. She talks about the love she found on set, the harassment she endured off it and the drug-taking she did her best to ignore For a TV show that only ran for five years, Charlie’s Angels packs a punch like a bikini-wearing big-hair-flicking private investigator. “We never thought we’d be talking about it 50 years later,” says Jaclyn Smith, the only original Angel to make it to the end of the show’s run. Smith, 80, has now written a memoir, I Once Knew a Guy Called Charlie – she is not, you gather, the type of actor to want to distance herself from her defining project. As I read her book, and speak to her over Zoom, she comes across as sensible, hardworking and optimistic. Also lucky: loving and supportive parents, agents who seem to appear from nowhere and offer her work, an early hit show, a gift for making friends and getting over heartbreak. Even when she was diagnosed with breast cancer more than 20 years ago, terrifying as it was, it was caught early and successfully treated. Her positive outlook seems to extend to the excesses of US TV in the 1970s and 80s (drug use on set only gets a brief mention); her three ex-husbands get off fairly lightly; and any difficulties – her OCD, the men who stalked her at the height of her fame – are not dwelled on. Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/06/jaclyn-smith-charlies-angels-interview",
-      "image": "https://i.guim.co.uk/img/media/fc86c186931c16c94497174846bc69c4526e8858/0_85_5206_4165/master/5206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c378fa0be2ebfcb1f7cd74a5e2cbd66",
-      "publishedAt": "2026-10-06T09:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-ZC1tYXN0ZXJwaWVjZQ",
       "title": "Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
       "description": "Alejandro G Iñárritu’s film may be about to become one of the biggest bombs Hollywood has ever seen – but it is destined to be re-evaluated with time This article contains spoilers for Digger I feel for film critics, I really do. Tom Cruise’s latest film Digger put them in an impossible position: you can’t really talk about it without spoiling what makes it, in my eyes, a masterpiece. Or completely terrible – as many, many critics have argued over the last week, without being fully free to say why. That is not their fault: media screenings around the world opened with a plea from Warner Bros to not spoil the film’s central reveal . This seems like it may have been a misstep, because curiosity and Cruise alone were clearly not enough to get bums on seats. Digger is now projected to lose around $150m , after taking a paltry $20m globally in its opening weekend. Warner Bros is trying to make the best of a bad situation, first crowing about the stinker reviews – “insufferable” and “smug” have been repeated a lot – then pivoting to a new sell: the Yanks don’t get it, so it must be good . Continue reading...",
@@ -424,18 +472,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-d2UtcGVhY2VtYWtlcg",
-      "title": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
-      "description": "By embracing the role of amiable lunk, the wrestler turned actor has become an unlikely, and very modern, leading man. But does his relationship with the WWE, and its controversial former owner, risk tarnishing his brand? I must admit, I was apprehensive about meeting John Cena. The WWE wrestler turned actor has built an enviable Hollywood career playing idiots – capable idiots with real heart, but dimwits nevertheless. Still, Cena is obviously nobody’s fool; fools don’t rise from humble beginnings to become their generation’s answer to Hulk Hogan or The Rock. Would the Cena who appears on my computer screen be the real one? Or something closer to the comic-book characters he embodies so well: guileless, silly and fond of a deliberate misunderstanding? It is immediately clear that this is no manchild. Perfectly punctual, he greets me with a lavish formality befitting a man who made his film debut as the title character in The Marine. Within a minute he has volunteered, unprompted, that “a core value of mine is respect”. Cena, 49, is speaking to me on behalf of Matchbox: The Movie, a film extension of the Mattel toy car brand for Apple TV, and for 45 minutes he is generous, funny, complimentary and elusive without ever being evasive. It’s a genuinely radical thing for a man built like a chest freezer – having only recently retired from wrestling after 26 years – to be so relaxed about being ridiculous, and in an age of such joyless online strongmen as Trump, Musk and Andrew Tate, his buff charm is welcome. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/04/john-cena-interview-matchbox-movie-wwe-peacemaker",
-      "image": "https://i.guim.co.uk/img/media/459e35676344312a081658f8aa3e9f7077f5efd7/0_0_2582_2065/master/2582.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4e73ddea34fcac5fc00d690641a051d0",
-      "publishedAt": "2026-10-04T09:00:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-2Fycy1qb24td2F0dHM",
       "title": "A new Skywalker trilogy for Star Wars? Going back to the same family-saga well is a waste of time",
       "description": "Reports that Jon Watts could make a new trilogy about a clan who have already saved and destroyed the galaxy several times over leaves you wishing for a newer world The Skywalkers: who are they exactly? A family that has moulded the entire Star Wars galaxy in their image, to the extent that nobody can really imagine the long-running space opera without them. An almost endless familial battle between good and evil, featuring absent fathers, secret siblings, murdered mentors, wayward nephews, surprise grandfathers. For nearly half a century they have blown up Death Stars, built Death Stars, destroyed Jedi orders, rebuilt Jedi orders, fallen to the dark side, risen from the dark side, died heroically, come back as ghosts. Star Wars has occasionally attempted to escape them. It has made films and TV shows about stolen Death Star plans, bounty hunters, smugglers and rebels from entirely different corners of the galaxy. Ryan Gosling will soon appear in a Star Wars movie that, as far as we know, has absolutely nothing to do with them. But they have never really gone away, and now they are back, possibly because Disney has run out of ideas for how to take the franchise forward without them. Deadline reports this week that Lucasfilm has hired Jon Watts to direct the first instalment of a new trilogy continuing the Skywalker saga, written by Simon Kinberg, with Daisy Ridley reportedly being eyed to return as Rey. The films have not yet been greenlit, and there are precious few other details, but Watts does seem an inspired choice, if for no other reason than that he has previously overseen a film – Spider-Man: No Way Home – that was built around the idea that nobody in a long-running franchise needs to remain dead. Continue reading...",
@@ -458,30 +494,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-S1jcnVpc2UtbW92aWU",
-      "title": "Don’t hate the movie, hate the critic! Digger’s new PR push is a risky bet for film that was never meant to be divisive",
-      "description": "‘SAME FILM – DIFFERENT TRUTH’ is the marketing solution for the film’s poor reception by critics. Or, as Cruise says in the ad, ‘Fuck those people!’ ‘You know what? Fuck those people!” The speaker is Tom Cruise in his serious-fatsuit role of Digger, in the bold new online ad which gives the finger to his film’s bad reviews and the haters. His words are now repurposed to address loathsome critics. The ad’s message is that a provocative, passionate film like this is divisive. You should make your own mind up. Which is true of course. Although it is just as true for films getting across-the-board raves. The last movie to try this was Francis Ford Coppola’s Megalopolis: it too ran an ad campaign rebranding the existence of bad reviews (though like Digger it also had plenty of good reviews) as evidence of genius which had yet to be appreciated. This campaign went terribly wrong when it was pointed out that bad reviews it had quoted for Apocalypse Now and The Godfather were in fact made up . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/digger-ad-tom-cruise-movie",
-      "image": "https://i.guim.co.uk/img/media/8927bdf14d7a9f6ee7315d59d2905a79db5e28c1/243_234_3041_2433/master/3041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=34c3e9f0753df2fe0925727ba5f7e7f9",
-      "publishedAt": "2026-10-01T10:35:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-MtZ3JldGEtZ2Vyd2ln",
-      "title": "Meryl Streep’s casting as Aslan has angered the Christian right. Don’t they have more pressing issues?",
-      "description": "The Oscar-winner is voicing Narnia’s wise lion in Greta Gerwig’s adaptation of The Magician’s Nephew, leading to roars of fury from US evangelical commentators It is a confusing time to be alive, given how often these days Hollywood indulges in revisionism. Who knew that the Wicked Witch of the West was the heroine after all, that Cruella de Vil simply had a difficult childhood , or that Mufasa was adopted ? Now it turns out that Aslan, CS Lewis’s messiah with a mane, is a lioness – or at least, may sound like one in Greta Gerwig’s upcoming adaptation of The Magician’s Nephew, because Meryl Streep is providing the voice. News that the Oscar-winner might be portraying Narnia’s Christ-like big cat first surfaced in April last year , prompting a flurry of complaints from conservative Christians. This week, the naysayers were back after Empire published a first look at the film , along with an interview with Gerwig in which the director confirmed the casting and explained her choice of actor. Streep, it turns out, was hired not because the Barbie director desperately fancied stoking the flames of controversy, but because she needed someone over 70 who could convey both wisdom and childlike wonder. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
-      "image": "https://i.guim.co.uk/img/media/4f497d0890904cc92c2d1d356f56daf503c4f9a9/941_166_1923_1540/master/1923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=53f5c88db72351c0d6f783cf37f9123d",
-      "publishedAt": "2026-09-25T11:50:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "guardian-b24tZHJlYW13b3Jrcw",
