@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:53:41.157Z",
+  "generatedAt": "2026-10-09T12:45:22.489Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-bnMtb2Ytb3VyLWFnZQ",
+      "title": "The new Darth Vader: how tech execs became the film villains of our age",
+      "description": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning shows how public opinion has changed around billionaire CEOs since The Social Network’s release When The Social Network came out, Mark Zuckerberg organised a staff viewing of a film he described as “fun” . A group corporate outing to the sequel is unlikely. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
+      "image": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d030bf7f61325c4e954f1a997aec201",
+      "publishedAt": "2026-10-09T11:05:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "description": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
+      "publishedAt": "2026-10-09T10:54:21.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
+      "description": "The smash hit from the studio behind The Witcher series is to be turned into a film by Paramount Pictures.",
+      "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21d0/live/b8bcb880-c3c7-11f1-bc2e-018d645d8d21.png",
+      "publishedAt": "2026-10-09T10:08:56.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-JvZHVjdGlvbi1oZWxs",
+      "title": "‘Is death necessary?’: why Peter Greenaway’s assisted dying drama is stuck in post-production hell",
+      "description": "Exclusive: Three years after filming began on the contentious Lucca Mortis, starring Dustin Hoffman, the British director is still in dispute with producers over which version to release, and a battle over rights rumbles on Peter Greenaway’s new movie was supposed to mark a glorious swansong for him and his lead actor Dustin Hoffman, the Oscar-winning star of The Graduate and Tootsie. Both men were in their 80s when shooting began in Lucca, Tuscany, in late 2023. Neither knew the storms ahead or that this was going to turn into arguably the most troublesome project in Greenaway’s career. Turn the clock back to 2023 and Greenaway, who has been based in the Netherlands for the last 20 years, could hardly conceal his excitement during a Q&A at International Documentary Film Festival Amsterdam (IDFA) in the huge art deco Tuschinski theatre in Amsterdam in November 2023, after receiving a lifetime achievement award from the festival. He told the audience that he would be flying to Italy the next morning “and that, all being well, we will start shooting seriously in the next couple of days”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/is-death-necessary-why-peter-greenaways-assisted-dying-drama-is-stuck-in-post-production-hell",
+      "image": "https://i.guim.co.uk/img/media/280ffc5ab88753098d17cec67177850d92b7d254/436_0_3250_2600/master/3250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70006949e07fe88f1ebfd38129cfbd23",
+      "publishedAt": "2026-10-09T08:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-lsZC1ob3JzZS1uaW5l",
       "title": "‘Old-timey fascism was kept secret. Now you don’t have to hide it’: Martin McDonagh, John Malkovich and Sam Rockwell on Wild Horse Nine",
@@ -290,30 +338,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-250LWNyeS1yZXZpZXc",
-      "title": "Big Girls Don’t Cry review – a New Zealand teenager finds herself in tender coming-of-age tale",
-      "description": "Writer-director Paloma Schneideman’s wonderful film follows a 14-year-old in 2006 who pretends to be someone else in a chat room, with real-world consequences Get our weekend culture and lifestyle email All coming-of-age films face the challenge of how to convey that intermediary period between childhood and adulthood, with all the confusion, awkwardness and self-searching that entails. Writer-director Paloma Schneideman’s drama Big Girls Don’t Cry meets that challenge, resulting in a tenderly drawn story about the slow process of a 14-year-old in rural New Zealand finding herself. Schneideman’s film has a wonderfully unforced quality, unfolding in a deeply satisfying yet seemingly effortless way. It’s as if the cameras are simply recording events organically unfolding in front of them, which of course isn’t the case at all: a drama like this requires immense thought and preparation. (The film is the first to be produced under the auspices of the Jane Campion-led film-making course A Wave in the Ocean .) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review",
-      "image": "https://i.guim.co.uk/img/media/17888c99855984da45f55d18b11a51082dbaa2c9/328_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=46900bf73575846438c1719b10202c3c",
-      "publishedAt": "2026-10-08T02:23:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-YXNhbnRzLXJldm9sdA",
-      "title": "The Uprising review – Paul Greengrass turns revolutionary rage into a Robin Hood origin myth",
-      "description": "Andrew Garfield’s fictional ploughman joins the historical heroes of the 1381 Peasants’ Revolt in a dirt-caked, docudrama-style film with disconcertingly silly moments Paul Greengrass has in fact already made his “uprising” film: United 93 , the gut-wrenching 2006 masterpiece about the passengers onboard United Airlines flight 93 who rose up against the 9/11 hijackers and prevented them from hitting their destination and causing fatalities – except, that is, for those onboard the plane. Greengrass’s new movie, shot in his distinctive handheld, docu-reportage style, is notionally about the 1381 Peasants’ Revolt, in which Wat Tyler and John Ball became legendary for leading an insurrection against the cruel poll tax of Richard II. Or at least … it sort of is. Because the film, in a disconcertingly silly way, imagines the uprising as an origin myth for Robin Hood, or at least someone who’s supposed to be more or less Robin Hood – because that’s not what he’s called and the dates don’t quite match up. Ex-soldier Tyler and radical preacher Ball, capably played by Cosmo Jarvis and Jamie Bell, are joined by a third fictional hero, apparently destined later to canter through the forest with a wealth-redistribution plan. He is a ploughman, known simply as “Ploughman”, played by Andrew Garfield; grieving the loss of his wife and children to the plague and sickened by the tax collectors’ greed and brutality, he instigates an insurrection that soon merges into other outbreaks of revolutionary rage. This involves rivers of smudgy-faced folk in rough clothes descending on the capital from all directions, to demand concessions from the king to whom they are still loyal and believe to have been misled by advisers. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/the-uprising-review-paul-greengrass-andrew-garfield-peasants-revolt",
-      "image": "https://i.guim.co.uk/img/media/16e85a7ba54896b4827c0208665a0effdfec4d7b/691_0_4219_3375/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ac699a83340e6f45ac0efafc4b136a10",
-      "publishedAt": "2026-10-07T14:00:56.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-m9udC1kaWVzLWFnZWQ",
