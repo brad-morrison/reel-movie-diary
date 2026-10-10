@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:39:44.520Z",
+  "generatedAt": "2026-10-10T01:12:24.635Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-J5LTEyMzUyMjExNDcv",
+      "title": "’14th’ Review: Ava DuVernay’s Overstuffed Netflix Documentary Finds Us Living in the Age Frederick Douglass Warned Us About",
+      "description": "Ava DuVernay’s ambitious follow-up to “13th” traces the Fourteenth Amendment’s unfinished promise, but its urgency sometimes overwhelms its argument.",
+      "url": "https://www.indiewire.com/criticism/movies/14th-review-ava-duvernay-netflix-documentary-1235221147/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/B0002289.webp?w=650",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VsLTEyMzUyMjEyMDQv",
+      "title": "IndieWire’s Future of Filmmaking Summit to Feature ‘Pitch Me’ Panel on Finding Breakout Hits with Top Execs and Agents",
+      "description": "Key players from Independent Film Company, Gersh, Thunder Road, and Madison Wells will explain what they look for from development to acquisition at our Los Angeles event on October 17.",
+      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-pitch-me-panel-1235221204/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-09-at-12.39.53-PM.png?w=650",
+      "publishedAt": "2026-10-09T20:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mYtMTIzNTIyMTExNy8",
+      "title": "Ava Duvernay Didn’t Make a Sequel — She Made ‘14th’",
+      "description": "Though her latest Netflix documentary, NYFF closer \"14th,\" shares DNA with her Oscar-nominated film \"13th,\" director Ava DuVernay tells IndieWire that film was \"very linear,” while “14th\" is \"a puzzle.\"",
+      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+      "publishedAt": "2026-10-09T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-luLTEyMzUyMjA5ODQv",
+      "title": "‘Other Mommy’ Review: Jessica Chastain’s Acting Personas Collide in Freaky Dreamcore Horror",
+      "description": "Hypnotic and demented, director Rob Savage's surreal adaptation of Josh Malerman's 2024 novel twists its Oscar-winning lead into a monstrous intensity that's baffling to behold.",
+      "url": "https://www.indiewire.com/criticism/movies/other-mommy-review-jessica-chastain-1235220984/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDOTMO_UV002.jpg?w=650",
+      "publishedAt": "2026-10-09T20:09:12.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIyMDc4NS8",
+      "title": "Historic Long Island Indie Theatre in Crisis After Beloved Co-Director Fired: Protests, Cancellations, Accusations of ‘Disloyalty’",
+      "description": "Wim Wenders, Edie Falco, Isabella Rossellini, and hundreds of Long Island film lovers are furious over the ouster of Cinema Arts Centre's Dylan Skolnick.",
+      "url": "https://www.indiewire.com/news/general-news/cinema-arts-centre-dylan-skolnick-firing-investigation-1235220785/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/JOC_9637.jpg?w=650",
+      "publishedAt": "2026-10-09T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMjExNTEv",
+      "title": "Why ‘The Social Reckoning’ Reimagines Facebook’s Offices as a Palace of Fear",
+      "description": "For Meta HQ, production designer Jon Hutman and director Aaron Sorkin wanted to get the rancid vibes right, not the Menlo Park layout.",
+      "url": "https://www.indiewire.com/features/craft/the-social-reckoning-facebook-shooting-locations-vancouver-1235221151/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSORE_CO001.jpg?w=650",
+      "publishedAt": "2026-10-09T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIxMTU0Lw",
+      "title": "‘Drinking and Driving’ Review: Avalon Fast and Jillian Frank Wonder If Empty Rural Hedonism Can Ever Give Way to Transcendence",
+      "description": "Deliberately ugly and focused on the lowest stakes imaginable, Fast and Frank's slice-of-life film has more ambition than it lets on.",
+      "url": "https://www.indiewire.com/criticism/movies/drinking-and-driving-review-avalon-fast-1235221154/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Drinking-and-Driving-2.jpg?w=650",
+      "publishedAt": "2026-10-09T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-WwtMTIzNTIyMTE0MS8",
       "title": "Greta Lee, Rebecca Ferguson, and Carrie Coon Rom-Com ‘Honeymoon/Funeral’ Lands at Black Bear",
@@ -92,7 +176,7 @@
       "title": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
       "description": "Warning: contains spoilers The four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountants Does it really matter which film is the highest-grossing of all time at the global box office? Will James Cameron be lying awake at night staring into the darkness and pondering whether to withdraw humanity’s access to giant, blue-skinned space elves out of sheer spite, just because Avatar has been dethroned once again by Avengers: Endgame? It seems unlikely. Are the Russo brothers at this very moment leaping and capering with wild abandon because adding a few new scenes and releasing their film for the umpteenth time has led to this momentous changing of the guard? Probably not. Is a Disney accountant somewhere holding a tiny awards ceremony in which every nominee is himself? Well yes, absolutely, because the mouse house ultimately owns both films. And yet the most interesting thing about Avengers: Endgame’s return to cinemas is not how much money it has made – for the record, the rerelease, titled Avengers Endgame: Encore, had brought in another $126m worldwide by last weekend, taking its lifetime total to approximately $2.925bn (just ahead of Avatar’s $2.923bn) – but what Marvel added to the picture while we were all busy counting. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
-      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1023_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fc917c1ed7aaa74abf7fe8246bea6b43",
+      "image": "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1192_61_3021_2419/master/3021.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c6037a56bc2be9eaa5522fe48fc70d17",
       "publishedAt": "2026-10-09T16:25:44.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -102,7 +186,7 @@
     {
       "id": "guardian-dpbGxlbS1kYWZvZS12",
       "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values and greenscreen jeopardy on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
+      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values and VFX jeopardy on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
       "image": "https://i.guim.co.uk/img/media/6945988db784504813ac579d304e6485cd73477b/303_0_4884_3908/master/4884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=98df1cbe1dc5cb4127b220cc47349db0",
       "publishedAt": "2026-10-09T16:21:53.000Z",
@@ -148,18 +232,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-V0LTEyMzUyMjA1Nzkv",
-      "title": "Criterion Finally Gives Americans the Chance to See Kubrick’s Preferred Cut of ‘The Shining’ — but Which Version Is Better?",
-      "description": "Director Stanley Kubrick edited two different versions of his Stephen King adaptation, and they yield quite different emotional responses — a new Criterion boxed set provides the opportunity to compare.",
-      "url": "https://www.indiewire.com/features/commentary/the-shining-criterion-edition-us-vs-international-cut-1235220579/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDSHIN_WB022.jpg?w=650",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LXdhcnMtYXVjdGlvbg",
       "title": "Lightsaber Darth Vader used in ‘I am your father’ Star Wars duel up for auction",
       "description": "Saber is expected to fetch at least $1m and is one of more than two dozen props that will be up for sale A lightsaber used by Darth Vader in the Star Wars duel where he tells Luke Skywalker “I am your father” is going up for sale at Heritage Auctions next month. The Vader saber, also used in Return of the Jedi, is expected to fetch at least $1m. It is one of more than two dozen lightsaber props that will be up for sale at the auction that spans Star Wars Episodes I through IX and other films and TV shows from the universe George Lucas created. Continue reading...",
@@ -170,30 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMjA5OTEv",
-      "title": "Are There Too Many Horror Movies?",
-      "description": "A crowded October calendar, filmmaker Joseph Kahn's recent Hollywood Reporter festival column, and excited fans complaining of burnout raise different questions about the genre's popularity.",
-      "url": "https://www.indiewire.com/features/commentary/are-there-too-many-horror-movies-1235220991/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-1.23.30-AM.png?w=650",
-      "publishedAt": "2026-10-09T13:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyMDg0OC8",
-      "title": "‘Bird in Hand’ Trailer: A Wedding on ‘Rebranded’ Plantation Is Just the Start in Farcical Film Unafraid of Real Drama",
-      "description": "Exclusive: Melody C. Roscher's feature filmmaking debut draws on her own life, combining the outrageous and the very real indeed.",
-      "url": "https://www.indiewire.com/news/trailers/bird-in-hand-trailer-melody-c-roscher-1235220848/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/large_Bird_in_Hand-Clean-16x9-01.png?w=650",
-      "publishedAt": "2026-10-09T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "guardian-bnMtb2Ytb3VyLWFnZQ",
@@ -244,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-Ni0xMjM1MjIwOTU5Lw",
-      "title": "Submit Your Short to This Italian Film Festival and Nicolas Winding Refn’s Jury, and MUBI Could Distribute It",
-      "description": "Exclusive: The second edition of Piccolo America's premier shorts festival Corto Condorello is seeking submissions through November 6. Nicolas Winding Refn will serve as jury president.",
-      "url": "https://www.indiewire.com/news/general-news/submit-your-short-film-to-corto-condorello-2026-1235220959/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/CCFormat-Lancio_Twitter_3_solo_logo_HD.jpg?w=650",
-      "publishedAt": "2026-10-09T01:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
       "description": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
@@ -266,42 +302,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-2stMTIzNTIyMDgyNC8",
-      "title": "‘Animals’ Review: Ben Affleck’s Tedious New Netflix Thriller Is Quite Literally Just Bad TV",
-      "description": "The director of \"Argo\" and \"The Town\" also stars as an embattled mayoral candidate in an LA kidnapping movie that lacks the visual flair and propulsive storytelling of his other work.",
-      "url": "https://www.indiewire.com/criticism/movies/animals-netflix-movie-review-ben-affleck-1235220824/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/ANIMALS_20250311_WP_0019_R2.webp?w=650",
-      "publishedAt": "2026-10-08T23:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyMDc3Mi8",
-      "title": "‘V/H/S Mixtape’ Review: Shudder’s Helter-Skelter Horror Anthology Still Has Some Killer Tracks",
-      "description": "With shorts from Renee Zhan, RZA, Ernest Dickerson, and David Moreau — not to mention, evil puppets escaped from Jim Henson's Creature Shop(!) — the ninth \"V/H/S\" could maybe use a little shuffle.",
-      "url": "https://www.indiewire.com/criticism/movies/vhs-mixtape-film-review-shudder-1235220772/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DANCE-DANCE-DANCE-DANCE-directed-by-Renee-Zhan-2.jpg?w=650",
-      "publishedAt": "2026-10-08T22:18:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjA5NjMv",
-      "title": "‘9 Temples to Heaven’ Review: Spiritual Road Movie Takes a Surrealist Detour in Weerasethakul Collaborator’s Fiction Debut",
-      "description": "NYFF: Apichatpong Weerasethakul’s longtime collaborator makes a fascinating case for himself in his debut narrative feature about a Thai family wrestling with faith and death.",
-      "url": "https://www.indiewire.com/criticism/movies/9-temples-to-heaven-review-1235220963/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/9-Temples-to-Heaven_NYFF64_01.avif?w=650",
-      "publishedAt": "2026-10-08T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
