@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:12:24.635Z",
+  "generatedAt": "2026-10-10T12:43:02.537Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-eC1kb2N1bWVudGFyeQ",
+      "title": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
+      "description": "Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen On 20 January 2025, with 14 minutes remaining in his term as president, Joe Biden commuted the life sentence of Leonard Peltier , after years of pressure to release a figure seen by many as the longest-serving political prisoner in the US. The Indigenous activist, a leader within the American Indian Movement (Aim) and an icon of Native American resistance, served nearly 50 years in prison for allegedly killing two FBI agents during a shootout on the Pine Ridge reservation in South Dakota, in 1975 – killings he has always denied, prosecuted in a railroaded trial widely seen as corrupt. Outside the Florida prison where Peltier was being held that morning were several of the many activists and lawyers who fought for his release, as well as film-makers David France and Jesse Short Bull. The two directors’ long-gestating documentary on Peltier’s fight for justice was set to premiere just a week later at the Sundance film festival with a very different ending, the octogenarian still awaiting a chance to return home to the Turtle Mountain Band of Chippewa reservation in North Dakota. That morning, there was “a sinking feeling that it wasn’t going to happen”, France said. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary",
+      "image": "https://i.guim.co.uk/img/media/a816b941fa1b37932e208913aa79c7e33555c38c/0_182_1536_1229/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abb84903ac87395b96d39532173c13ca",
+      "publishedAt": "2026-10-10T09:00:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-J5LTEyMzUyMjExNDcv",
       "title": "’14th’ Review: Ava DuVernay’s Overstuffed Netflix Documentary Finds Us Living in the Age Frederick Douglass Warned Us About",
@@ -186,7 +198,7 @@
     {
       "id": "guardian-dpbGxlbS1kYWZvZS12",
       "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values and VFX jeopardy on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
+      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
       "image": "https://i.guim.co.uk/img/media/6945988db784504813ac579d304e6485cd73477b/303_0_4884_3908/master/4884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=98df1cbe1dc5cb4127b220cc47349db0",
       "publishedAt": "2026-10-09T16:21:53.000Z",
@@ -242,18 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-bnMtb2Ytb3VyLWFnZQ",
-      "title": "The new Darth Vader: how tech execs became the film villains of our age",
-      "description": "Jeremy Strong’s portrayal of Mark Zuckerberg in The Social Reckoning shows how public opinion has changed around billionaire CEOs since The Social Network’s release When The Social Network came out, Mark Zuckerberg organised a staff viewing of a film he described as “fun” . A group corporate outing to the sequel is unlikely. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/the-new-darth-vader-how-tech-execs-became-the-film-villains-of-our-age",
-      "image": "https://i.guim.co.uk/img/media/d24aa015cccedd5a5c1724fe8e1d94fce20600cc/4_0_1667_1334/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d030bf7f61325c4e954f1a997aec201",
-      "publishedAt": "2026-10-09T11:05:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
