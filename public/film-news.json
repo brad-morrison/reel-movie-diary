@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:43:02.537Z",
+  "generatedAt": "2026-10-10T18:38:14.982Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WQtMTIzNTIyMTI0NC8",
+      "title": "Bill Burr vs. Facebook: Inside ‘The Social Reckoning’ Fantasy of the Comedian Speaking Truth to Power",
+      "description": "Mark Zuckerberg has shut out dissenting voices; Aaron Sorkin and Burr talk about building the fiction of letting the stand-up get under his (and Jeremy Strong's) skin.",
+      "url": "https://www.indiewire.com/features/podcast/bill-burr-the-social-reckoning-explained-1235221244/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Bill-Burr-Mark-Zuckerberg.jpeg?w=650",
+      "publishedAt": "2026-10-10T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-FyLTEyMzUyMjEyNjMv",
+      "title": "Oscars: U.K. Selects ‘Rehearsals for a Revolution,’ Documentary About Iran, as Best International Feature Entry",
+      "description": "Pegah Ahangarani’s acclaimed look at her life in exile and her native country's political turmoil was already a leading contender for Best Documentary.",
+      "url": "https://www.indiewire.com/awards/industry/rehearsals-for-a-revolution-iran-uk-best-international-oscar-1235221263/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/MAIN-STILL-REHEARSALS-1024x717-1.jpg?w=650",
+      "publishedAt": "2026-10-10T14:30:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-ZhbWlseS1jbGFzc2lj",
+      "title": "Ray Gunn review – Brad Bird’s animated film-noir sci-fi caper is an old-school family classic",
+      "description": "Sam Rockwell voices the gumshoe who becomes embroiled with Scarlett Johansson’s femme fatale in this big-hearted and beautifully designed fantasy spectacular Brad Bird, the Spielberg of animation, applies his masterly authorial touch to a terrific family film that retrieves the genre from the doldrums of dull, AI-formulaic stories and visuals. This animation is smart, witty, humane: a fantasy spectacular with old-fashioned entertainment values and some amazing cityscape design showcasing a beguiling and sweet romance. The setting is a city of marvels in a world to come, a retro-futurist urban landscape with hints of Metropolis and Blade Runner; there are plenty of regulation moving walkways, flying cars and eerie hologram billboards, yes, but a light touch to put the fun back into what could be just cliche. Here is where an old-school noir thriller is to take place with tough private detectives and bad guys wielding state-of-the-art laser-particle firearms (this explains the title, though I’d hoped that it might also include some reference to 1980s Republican politics). There are careworn cops, cynical club owners and alluring shady ladies with touches of Lana Turner and Veronica Lake. The airborne automobiles also have the bulbous lines of a previous century, and the TV monitors show black-and-white images; plasma flatscreens have evidently been disinvented. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/10/ray-gunn-review-brad-birds-animated-film-noir-sci-fi-caper-is-an-old-school-family-classic",
+      "image": "https://i.guim.co.uk/img/media/a1d7037d0388c2a34ef578ce634aa6faa96e48cd/1229_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=d2f9a526fd5caf6e34fff679f0bcd698",
+      "publishedAt": "2026-10-10T13:45:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bC0xMjM1MjIwMzMwLw",
+      "title": "‘Ray Gunn’ Review: Brad Bird’s Longtime Passion Project Is a Retro-Futurist Detective Story with a Muddled Message",
+      "description": "The \"Iron Giant\" and \"Incredibles\" filmmaker and legendary animator has been kicking around his jetpack-powered noir-meets-\"Blade Runner\" feature for decades. The result is immersive, but too sprawling.",
+      "url": "https://www.indiewire.com/criticism/movies/ray-gunn-review-brad-bird-retro-detective-sam-rockwell-1235220330/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Ray_Gunn_n_00_44_09_07.jpg?w=650",
+      "publishedAt": "2026-10-10T13:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-eC1kb2N1bWVudGFyeQ",
       "title": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
@@ -160,30 +208,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold So Far: Venice Orizzonti Prize Winner ‘A Day in the Life of Jo: Chapter Phaedra’ Lands at 1-2 Special",
-      "description": "The coming-of-age story — with a cosmic twist — from director Jacqueline Lentzou had its North American premiere at the New York Film Festival.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot_04_Rec709G24_UHD-3840x2160_00155613.jpg?w=650",
-      "publishedAt": "2026-10-09T16:39:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyMTA5OC8",
-      "title": "Anatomy of a Prom: How Mike Flanagan Climbed the ‘Everest’ of Horror Sequences for ‘Carrie’",
-      "description": "Series creator Mike Flanagan and VFX supervisor Becky Philpott tell IndieWire how they pulled off a prom that's deadly in its own way in Prime Video's \"Carrie.\"",
-      "url": "https://www.indiewire.com/features/craft/carrie-prom-sequence-making-of-mike-flanagan-interview-1235221098/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDCARR_ZU026.jpg?w=650",
-      "publishedAt": "2026-10-09T16:31:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-dC1kb2N0b3ItZG9vbQ",
       "title": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
       "description": "Warning: contains spoilers The four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountants Does it really matter which film is the highest-grossing of all time at the global box office? Will James Cameron be lying awake at night staring into the darkness and pondering whether to withdraw humanity’s access to giant, blue-skinned space elves out of sheer spite, just because Avatar has been dethroned once again by Avengers: Endgame? It seems unlikely. Are the Russo brothers at this very moment leaping and capering with wild abandon because adding a few new scenes and releasing their film for the umpteenth time has led to this momentous changing of the guard? Probably not. Is a Disney accountant somewhere holding a tiny awards ceremony in which every nominee is himself? Well yes, absolutely, because the mouse house ultimately owns both films. And yet the most interesting thing about Avengers: Endgame’s return to cinemas is not how much money it has made – for the record, the rerelease, titled Avengers Endgame: Encore, had brought in another $126m worldwide by last weekend, taking its lifetime total to approximately $2.925bn (just ahead of Avatar’s $2.923bn) – but what Marvel added to the picture while we were all busy counting. Continue reading...",
@@ -206,30 +230,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ktbW92aWUtcmV2aWV3",
-      "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
-      "description": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble The buzz surrounding the viral, limb-bending trailer of pre-Halloween horror Other Mommy was such that screen grabs became memes, official YouTube channel views ran up to 30m-plus and BuzzFeed used the extremely BuzzFeed headline : “The Lady Sitting Next To Me SCREAMED”: This Trailer Playing Before The Odyssey Is Scaring Moviegoers, And These Hilarious Reactions Have Me Crying. Sure, Universal releasing it exclusively attached to the second biggest film of the year played a considerable part but the imagery was efficiently direct and frightening, a derivative scared child/creepy demon set-up turned into something that felt hard to deny and increasingly impossible to avoid. But then what had seemed like the surest slam-dunk horror of the season seemed to slither away. The marketing continued (there was a second trailer that didn’t quite break the internet in the same way) but the reviews never appeared, a choice made to hide the film from critics until the day it opened. It’s a strategic decision that implies a disaster, Universal eager to keep pre-ticket sales high (it’s predicted to win the weekend with $20m-plus) and bad reviews at bay. But instead, as is often the case, it’s less of a one-star train wreck and more of a two-star mess, likely to frustrate rather than enrage. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review",
-      "image": "https://i.guim.co.uk/img/media/b1113d46802ee423638a7a5d7b023d238f2fdd78/1169_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7e61743cb19399a0a52596ce1cec104a",
-      "publishedAt": "2026-10-09T15:41:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIyMTA1MC8",
-      "title": "Meryl Streep Almost Didn’t Watch the Six-Hour ‘My Undesirable Friends’ — Then, Colin Firth Led Her to Executive Produce It",
-      "description": "Julia Loktev tells IndieWire about globetrotting as a one-woman crew to follow the now-exiled Russian and Ukrainian journalists who fled home after Putin's invasion.",
-      "url": "https://www.indiewire.com/features/interviews/how-meryl-streep-executive-produced-my-undesirable-friends-1235221050/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P103M4PA.jpg?w=650",
-      "publishedAt": "2026-10-09T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-dC1ndXktcml0Y2hpZQ",
