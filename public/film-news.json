@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:44:40.306Z",
+  "generatedAt": "2026-10-11T18:39:08.428Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-bC0xMjM1MjIxMzA3Lw",
+      "title": "‘The Social Reckoning’ Bombs with $5.5 Million Opening. Why Did Aaron Sorkin’s Facebook Follow-Up Fail at the Box Office?",
+      "description": "Bad reviews, David Fincher's decision not to return, and a story about algorithms, not AI, are partly to blame.",
+      "url": "https://www.indiewire.com/news/box-office/social-reckoning-bombs-why-did-aaron-sorkin-facebook-follow-up-fail-1235221307/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSORE_CO001.jpg?w=650",
+      "publishedAt": "2026-10-11T14:56:54.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-11bGxpZ2FuLWxhaWth",
+      "title": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
+      "description": "The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses Here is an engaging family movie from the Portland-based Laika studio that created Coraline . It is a fantasy adventure in Laika’s distinctively crafted stop-motion animation, written by Chris Butler from the bestseller of the same title by Carson Ellis and Colin Meloy, the latter being a band member of The Decemberists , one of whose tour posters we duly glimpse in this film. The director is Laika’s lead animator Travis Knight. It’s a forthright, exuberant, good-natured and old-fashioned children’s tale which CS Lewis and JRR Tolkien might have recognised, a story about the mysterious glory of going on a quest and the terrible fear and wish-fulfilment euphoria of being called upon to confront secret forces that the grownups know nothing about. The setting is modern-day Portland, Oregon, a groovy city whose hipster-ish stores (there’s a coffee shop actually called Dripster) and Woke 1.0 signage are affectionately mocked. But most of all, the film is aware of a huge forest park next to the city, a place here mythologised as the impassable wilderness or “wildwood” where strange creatures, fairytale nobility and wisecracking talking animals reputedly dwell, of which the city-dwelling humans are entirely ignorant. Prue (voiced by Peyton Elizabeth Lee) is a 12-year-old girl whose parents (voiced by Jake Johnson and Maya Erskine) are a couple of amiable hippies who believe in natural forces and benign magic. They have another child, Prue’s baby brother Mac, who Prue has to look after one day, pushing him in his stroller around the city and having to endure a certain classmate of hers tagging along. This is nerdy Curtis (Jacob Tremblay) who has a crush on her. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika",
+      "image": "https://i.guim.co.uk/img/media/f707330ce8f93700ee5d4ae17aaf115e7e70f3c0/709_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=52b6fc0961e26df51a0aa42721bc62e3",
+      "publishedAt": "2026-10-11T13:21:20.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjIxMjc5Lw",
+      "title": "‘Wildwood’ Review: Laika’s Epic Stop-Motion Wonder Lacks the Magic of the Studio’s Best Movies",
+      "description": "\"Wildwood\" is the antidote to all of the worst trends in mainstream animation, but it gets lost somewhere in the wilderness between reality and imagination.",
+      "url": "https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/wildwood.avif?w=650",
+      "publishedAt": "2026-10-11T13:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-dC0xMjM1MjIxMjkxLw",
       "title": "‘The Pitt,’ ‘Take Me Home,’ and More Win at The DARCYS 2026",
@@ -184,30 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMjExNTEv",
-      "title": "Why ‘The Social Reckoning’ Reimagines Facebook’s Offices as a Palace of Fear",
-      "description": "For Meta HQ, production designer Jon Hutman and director Aaron Sorkin wanted to get the rancid vibes right, not the Menlo Park layout.",
-      "url": "https://www.indiewire.com/features/craft/the-social-reckoning-facebook-shooting-locations-vancouver-1235221151/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSORE_CO001.jpg?w=650",
-      "publishedAt": "2026-10-09T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIxMTU0Lw",
-      "title": "‘Drinking and Driving’ Review: Avalon Fast and Jillian Frank Wonder If Empty Rural Hedonism Can Ever Give Way to Transcendence",
-      "description": "Deliberately ugly and focused on the lowest stakes imaginable, Fast and Frank's slice-of-life film has more ambition than it lets on.",
-      "url": "https://www.indiewire.com/criticism/movies/drinking-and-driving-review-avalon-fast-1235221154/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Drinking-and-Driving-2.jpg?w=650",
-      "publishedAt": "2026-10-09T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
       "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
@@ -254,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-dC1ndXktcml0Y2hpZQ",
-      "title": "Lost generation: the AI threat to Britain’s next great directors",
-      "description": "Commercials once launched careers from Ridley Scott to Guy Ritchie, now automated production is cutting costs – and the chance to learn by doing When Ridley Scott was awarded the UK’s highest accolade for a glittering career directing films from Alien and Blade Runner to Gladiator and The Martian , he reminded those attending the Bafta event eight years ago that making commercials had been his “film school” . The advertising industry has long been a breeding ground for British film and TV talent who have gone on to make the jump to Hollywood productions , including Guy Ritchie, who started out making music videos and commercials, and Paddington in Peru director Dougal Wilson, whose credits include a number of John Lewis’s famous Christmas ads. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
-      "image": "https://i.guim.co.uk/img/media/110b540e4f10f1f3b9ae1216cf3edba091146e56/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74b92bfc2810e5f2efa863a572de263b",
-      "publishedAt": "2026-10-09T15:00:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-LXdhcnMtYXVjdGlvbg",
