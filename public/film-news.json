@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:38:14.982Z",
+  "generatedAt": "2026-10-11T01:17:20.087Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 10
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-dC0xMjM1MjIxMjkxLw",
+      "title": "‘The Pitt,’ ‘Take Me Home,’ and More Win at The DARCYS 2026",
+      "description": "The rebranded Easterseals Disability Arts &#38; Culture Awards saw \"The Pitt\" and \"Take Me Home\" among the winners of its inaugural outing.",
+      "url": "https://www.indiewire.com/awards/results/the-darcys-2026-winners-the-pitt-1235221291/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MixCollage-10-Oct-2026-04-57-PM-7444.jpg?w=650",
+      "publishedAt": "2026-10-11T00:22:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1ce5/live/85c0dd40-c308-11f1-8f04-85217d686658.jpg",
+      "publishedAt": "2026-10-10T23:31:35.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIyMTIwMS8",
+      "title": "‘In a Violent Nature: Part 2’ to Release Valentine’s Day Weekend 2027",
+      "description": "Shudder and Independent Film Company's slasher horror sequel opens opposite Greta Gerwig's \"Narnia\" movie.",
+      "url": "https://www.indiewire.com/news/general-news/in-a-violent-nature-part-2-release-date-1235221201/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IAVN-2-Still.png?w=650",
+      "publishedAt": "2026-10-10T23:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-WQtMTIzNTIyMTI0NC8",
       "title": "Bill Burr vs. Facebook: Inside ‘The Social Reckoning’ Fantasy of the Comedian Speaking Truth to Power",
@@ -74,6 +110,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
+    },
+    {
+      "id": "guardian-F5LTE0dGgtcmV2aWV3",
+      "title": "14th review – Ava DuVernay’s galvanizing documentary is a remarkable achievement",
+      "description": "New York film festival: the director has made a fascinating and troubling companion piece to her Netflix documentary 13th, which takes a fiery look at American injustice It feels at once like the blink of an eye and an eternity since Ava DuVernay’s documentary 13th arrived on Netflix, a month before the election of Donald Trump to his first term as president. The intervening decade has more or less borne out the film’s thesis on the enduring specter of white supremacy in American life: that a clause within the 13th amendment abolishing chattel slavery – that involuntary servitude could be used as punishment for a crime – was immediately and continually exploited to criminalize black people, mass incarceration thus being the modern incarnation of America’s original sin. The Oscar-nominated film, which saw a surge in viewership during the protests of 2020, has remained both a time capsule of late Obama-era moral clarity and, arguably, the acclaimed director’s best picture. At least, until now – 14th, DuVernay’s sequel, of sorts, soon also to arrive on Netflix, is just as lucid and galvanizing as its predecessor, with an updated, more pressing urgency befitting a democracy in distress. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review",
+      "image": "https://i.guim.co.uk/img/media/4049ce513fda02d18c52b424dbff23ae0b883828/130_0_7747_6200/master/7747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7f438198d2fbf1698716c92d739dd27f",
+      "publishedAt": "2026-10-10T01:00:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "indiewire-J5LTEyMzUyMjExNDcv",
@@ -158,30 +206,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIyMTE0MS8",
-      "title": "Greta Lee, Rebecca Ferguson, and Carrie Coon Rom-Com ‘Honeymoon/Funeral’ Lands at Black Bear",
-      "description": "\"Always Be My Maybe\" director Nahnatchka Khan is directing the film from MRC that was shopped at the TIFF Market.",
-      "url": "https://www.indiewire.com/news/breaking-news/greta-lee-rebecca-ferguson-carrie-coon-honeymoon-funeral-1235221141/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Greta-Lee-Rebecca-Ferguson-Carrie-Coon.jpg?w=650",
-      "publishedAt": "2026-10-09T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3ItMTIzNTIyMTEwMC8",
-      "title": "Tony Gilroy on Pedro Pascal, ‘Behemoth!,’ and How Disney Never Told Him Not to Discuss Fascism During ‘Andor’ Press",
-      "description": "The \"Behemoth!\" writer/director joined IndieWire's Anne Thompson and Ryan Lattanzio for a \"Screen Talk\" Live podcast at the New York Film Festival.",
-      "url": "https://www.indiewire.com/features/podcast/tony-gilroy-disney-never-told-me-not-discuss-fascism-andor-1235221100/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026-10-06_003_AMPH_Indiewire-Screentalk-Live_A.-Sang-urai_IMG_2974.jpg?w=650",
-      "publishedAt": "2026-10-09T18:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -482,18 +506,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-S1hY3Rpb25zLWdhemE",
-      "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
-      "description": "Team behind documentary push back against IDF attempt to discredit its exposure of military systems The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have revealed they spoke to more than 100 sources with knowledge of the military systems used in the war. The disclosure came in response to an Israel Defense Forces statement seeking to discredit the documentary. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/253_73_2515_2012/master/2515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f3d00e140f734806ed90009d8449678",
-      "publishedAt": "2026-10-01T17:45:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-b24tZHJlYW13b3Jrcw",
