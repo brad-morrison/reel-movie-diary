@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:39:08.428Z",
+  "generatedAt": "2026-10-12T01:20:29.422Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ZC0xMjM1MjIxMzMxLw",
+      "title": "Box Office: ‘NAZA,’ Documentary About Israel’s Attacks on Gaza That Was Too Hot for Distributors, Crosses $500,000",
+      "description": "The self-distributed film has been condemned by the IDF, earned rave reviews, and seems poised to be an Oscar contender.",
+      "url": "https://www.indiewire.com/news/box-office/naza-documentary-israel-gaza-crosses-500k-self-distributed-1235221331/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
+      "publishedAt": "2026-10-11T20:52:23.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-bC0xMjM1MjIxMzA3Lw",
       "title": "‘The Social Reckoning’ Bombs with $5.5 Million Opening. Why Did Aaron Sorkin’s Facebook Follow-Up Fail at the Box Office?",
@@ -206,18 +218,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIyMDc4NS8",
-      "title": "Historic Long Island Indie Theatre in Crisis After Beloved Co-Director Fired: Protests, Cancellations, Accusations of ‘Disloyalty’",
-      "description": "Wim Wenders, Edie Falco, Isabella Rossellini, and hundreds of Long Island film lovers are furious over the ouster of Cinema Arts Centre's Dylan Skolnick.",
-      "url": "https://www.indiewire.com/news/general-news/cinema-arts-centre-dylan-skolnick-firing-investigation-1235220785/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/JOC_9637.jpg?w=650",
-      "publishedAt": "2026-10-09T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
