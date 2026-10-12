@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:12:02.026Z",
+  "generatedAt": "2026-10-12T13:05:54.459Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 12
+      "articles": 14
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-bi0xMjM1MjIxMzQ4Lw",
+      "title": "Why Seeing ‘Digger’ in VistaVision Could Change Your Mind About the Tom Cruise Box Office Flop",
+      "description": "Like \"One Battle After Another\" and \"Bugonia,\" Alejandro G. Iñárritu's latest provocation was shot in the format Alfred Hitchcock favored. If you're lucky enough to live in one of the five cities screening it in VistaVision, you owe it to yourself and \"Digger\" to experience it that way while you still can.",
+      "url": "https://www.indiewire.com/features/commentary/digger-vistavision-1235221348/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDDIGG_WB044.jpg?w=650",
+      "publishedAt": "2026-10-12T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZmaWNlLWNvbGxhcHNl",
+      "title": "Digger on course for $245m loss after box office collapse",
+      "description": "Estimates suggest the eco satire starring Tom Cruise could join the list of top turkeys, including Cutthroat Island and The Marvels Digger, the ambitious eco-fable starring Tom Cruise and directed by Alejandro G Iñárritu, is heading for an even worse financial outcome than previously thought , with reports suggesting it will lose around $245m (£185m), placing it among the biggest disasters in movie history. According to a report in Variety , Digger’s estimated second weekend revenue in North America of $3.2m is a 60% drop on its opening weekend figure of $8m, meaning its current domestic gross is $14.4m, for a global total of $35.3m , with a projected final box office total of around $50m worldwide. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/277_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49d544846c2fa77ee64eb4e6779b8a3c",
+      "publishedAt": "2026-10-12T12:51:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Russell Brand appears in court for start of rape trial",
+      "description": "The 51-year-old actor and comedian denies charges of rape and sexual assault against six women.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/014e/live/0c686930-c63d-11f1-b99d-0127a94fa1d0.jpg",
+      "publishedAt": "2026-10-12T12:44:38.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-VyLWNoaWFyYS1raW5n",
+      "title": "The Influencer Project review – ick-inducing thriller exploits overexposed tropes",
+      "description": "When influencer/singer/content creator Chiara King visits Copenhagen all the trips to trendy shops and fancy restaurants soon take a turn for the worse British influencer/singer/content creator Chiara King stars as influencer/singer/content creator Chiara King, or some kind of parafictional version of herself, in this quease-inducing thriller exercise. The ick gets generated not necessarily by the eventual gore that erupts in the last reel, but by the tacky weirdness of the way the film apes the mannerisms of social media reels and streaming nonsense to both satirise the ugly side of the business but also exploit and profit off it at the same time. On one level, it’s an eerily clever exercise in bad faith, like a poor Michael Haneke film (think Funny Games) for gen-Z kicks; on another, maybe it’s just a crappy ripoff of online tropes that have been way overexposed already. Or both. Anyway, here’s what happens: influencer Chiara gets invited to visit Copenhagen by a tourist organisation, a deal set up by her avaricious manager Alice (Jazmine Summer). Of course, this means practically every moment of her time awake in the city will be filmed, both by Chiara herself on her trusty smartphone, or a camera crew led by director Mike (played by Mike Nybroe, who is also director of The Influencer Project, ha ha); Mike is supported by sound man Daniel (Daniel Parmo) and cameraman Victor (Luca Storm). The early sections turn in all the influence-slop you would expect, with shopping trips to trendy merch vendors such as Baum und Pferdgarten, and meals at fancy local restaurants, and then a livestreamed visit to a “haunted house,” which is the big thing on Instagram and TikTok these days. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/the-influencer-project-review-ick-thriller-chiara-king",
+      "image": "https://i.guim.co.uk/img/media/3471d91971d181961feca3a8c5435c43eb130a41/538_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=8bba62e730d92351481bd28b62ab995b",
+      "publishedAt": "2026-10-12T12:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tom Cruise film Digger forecast to lose $245m at box office",
+      "description": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f0b2/live/e4909ea0-c637-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-12T11:29:18.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y10aGUtdXByaXNpbmc",
+      "title": "Mort la révolution! Why UK film loves a failed rebellion",
+      "description": "Paul Greengrass’s Peasants’ Revolt epic, The Uprising, is just the latest in a long line of movies depicting an unsuccessful attempt at remaking the nation The British are perverse. We fetishise our failures, even if they are essentially tangential to a national narrative that should be about imperial conquest, slavery and being unremittingly unpleasant to foreigners. We tell and retell, for instance, the story of Captain Scott even though he died in Antarctica in 1912 after losing the race to reach the south pole first to the unacceptably Norwegian Roald Amundsen. Similarly, Christopher Nolan’s 2017 film Dunkirk typified the British tendency to snatch national glory from the jaws of defeat. And then there was the tragicomic disaster of the Charge of the Light Brigade during the 1853-56 Crimean war in which our boys raced to putatively glorious if stupid deaths. It’s as if, for us British, pointless sacrifice and embracing failure are what heroism means. And our cinema has colluded with this perversity. But there is an exception to this national veneration of failure. Britain has been reluctant to embrace its revolutionary defeats. There is, for instance, no film dealing with the Chartist movement’s 19th-century struggle for universal suffrage. Even more strikingly yet, it is only now, in 2026, that a film has been made about the calamitous 1381 Peasants’ Revolt, even though it is a pivotal event in British history. Paul Greengrass’s The Uprising , starring Andrew Garfield as a – let’s just get this over with – revolting peasant, joins a mere handful of other movies, including Kevin Brownlow and Andrew Mollo’s 1975 Winstanley , Bill Douglas’s 1986 Comrades and Mike Leigh’s 2018 Peterloo , that dare depict how radical collective action was crushed by a ruthless state. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/cinema-films-failed-british-revolutions-paul-greengrass-the-uprising",
+      "image": "https://i.guim.co.uk/img/media/843e6b588aa6ef42c31fc93385670ff5d136b377/848_0_4219_3375/master/4219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b302f27150e4576072f1b72123bb3378",
+      "publishedAt": "2026-10-12T11:14:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-by1zaHVkZGVyLWFtYw",
+      "title": "Hallowarrior review – apocalyptic Home Alone-style survival horror delivers inventive shocks",
+      "description": "Debut feature from Ben Sottak provides outlandish Halloween-based scares, with Milly Shapiro superb as the naive yet resilient home-defender, Pumpkin Home Alone meets Mad Max in this atmospheric seasonal chiller, named for Halloween and not a cheery greeting. A disease has wiped out most of humanity, leaving 16-year-old Pumpkin (Milly Shapiro) stranded alone in her rural family home in the middle of nowhere for the best part of four years. This classic American clapboard house has always been the perfect quaint yet unsettling place to celebrate Halloween, and she determines to uphold the family tradition and do just that, sending a radio broadcast to anyone listening to invite them to celebrate spooky season with her. Unfortunately, the message is picked up by some less than wholesome types, led by Thalia (Shannyn Sossamon), thus setting the stage for the proverbial to hit the fan. It’s the first major screen role for Shapiro since her memorable debut as the little sister in Ari Aster’s Hereditary , and she is in almost every scene here, making for quite the showcase. It’s good casting: Pumpkin is an intriguing presence – at once young and old, presumably because she’s been fending for herself during such a key stage of her development. She’s not had any adult guidance since the age of 12 – arresting her development in some ways, while having to survive, be totally independent and grieve her entire family alone has simultaneously made her unusually tough in others. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/hallowarrior-review-horror-milly-shapiro-shudder-amc",
+      "image": "https://i.guim.co.uk/img/media/cdd8e6504227737b391c0bb9a17407bb680075ad/182_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=343e6ae93e3719e2a074a8fcb1afb963",
+      "publishedAt": "2026-10-12T10:00:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZWVsZ29vZC1tb3ZpZQ",
+      "title": "‘A rare indulgence’: why Black Swan is my feelgood movie",
+      "description": "The latest in our series of writers explaining their go-to comfort films is a tribute to Darren Aronofsky’s dark and unusually satisfying ballet nightmare In early 2011, sometime after the film was released on home video, I sat down with mum to watch what she had heard was a “new ballet movie” by Darren Aronofsky . I was 12 years old, spending school nights training to be a professional dancer. Without any warmup, knowing very little of the ballet and pointe work that earned Natalie Portman her best actress Oscar, we pressed play on Black Swan . Well before Brendan Fraser’s time on the couch and the many houseguests of Mother! , Aronofsky increased the wattage with a companion piece to follow his heavy-hitter, The Wrestler. Watching Nina Sayers’ (Portman) intense physical trials and her stilted sexual awakening, with my mum beside me, I was understandably disturbed. At this point in my adolescence, I thought Jumanji was a scary movie. Like the film’s injured bird, I was being introduced to a darkness I didn’t understand. And somehow I couldn’t get enough. Why did it feel so good? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/black-swan-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/a7a8b89536ed154b0476e3e9b9de137012f5d509/279_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea26a2f372c722efe21221d8e3c2cea7",
+      "publishedAt": "2026-10-12T09:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-WdlLXRydWUtc3Rvcnk",
+      "title": "A Fidai Film review – Palestinian collage film transforms suppressed footage into works of art",
+      "description": "Using archive material of destroyed houses, terrorised children and dead bodies, Kamal Aljafari adds humanity to the reels by overlaying poems by Palestinian authors In Arabic, “fidai” means someone willing to sacrifice themselves for the greater good. Borrowing this word, which is at times used in a military context, for his collage film, Palestinian film-maker Kamal Aljafari stages a potent uprising of images against the tide of propaganda and historical erasure. Much of the film draws on archive materials once housed in the Palestine Research Centre in Beirut. In 1982, during the Lebanese civil war, Israeli forces raided the centre and seized the archive. Most of these documents on Palestinian history – books, newspapers, audiovisual artefacts – are believed to still be in the hands of the Israeli army. Obtained through clandestine means, the footage that resurfaces in Aljafari’s film bears the physical traces of political suppression. The images are scratched, grainy and pixelated, yet through the power of montage they evoke startling visual parallels that point to the relentless violence endured by Palestinians through the decades. Black-and-white film taken during the British mandate show soldiers patrolling the streets and inflicting violence upon the Indigenous population; similar acts then committed by Israeli forces. In place of a chronological order, the editing builds a sense of continuity through recurring images. Time and time again, we see torn-down houses, terrorised children and the bodies of Palestinians murdered by occupation forces. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/a-fidai-film-review-palestinian-collage-true-story",
+      "image": "https://i.guim.co.uk/img/media/52ce656e3a2f899767957b97f970d12ea4e5b372/190_0_900_720/master/900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=035f3e692a16c71f0c35a2d1034f4cf9",
+      "publishedAt": "2026-10-12T08:00:49.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-XRhcmlhbi1zY2hvb2w",
       "title": "Deadline review – shocking threat sends tremors through authoritarian school",
@@ -29,7 +137,7 @@
     },
     {
       "id": "indiewire-VyLTEyMzUyMjEzNTEv",
-      "title": "Quentin Tarantino Teaming With Sacha Baron Cohen on West End Play ‘The Popinjay Cavalier’",
+      "title": "Quentin Tarantino Teaming with Sacha Baron Cohen on West End Play ‘The Popinjay Cavalier’",
       "description": "Tarantino will write the script and direct a film inspired by \"the grand swashbuckling epics of stage and screen.\"",
       "url": "https://www.indiewire.com/news/general-news/quentin-tarantino-sacha-baron-cohen-play-popinjay-cavalier-1235221351/",
       "image": "https://www.indiewire.com/wp-content/uploads/2025/08/GettyImages-2215582927_43c854.jpg?w=650",
@@ -172,18 +280,6 @@
       "category": "Classics"
     },
     {
-      "id": "guardian-ZhbWlseS1jbGFzc2lj",
-      "title": "Ray Gunn review – Brad Bird’s animated film-noir sci-fi caper is an old-school family classic",
-      "description": "Sam Rockwell voices the gumshoe who becomes embroiled with Scarlett Johansson’s femme fatale in this big-hearted and beautifully designed fantasy spectacular Brad Bird, the Spielberg of animation, applies his masterly authorial touch to a terrific family film that retrieves the genre from the doldrums of dull, AI-formulaic stories and visuals. This animation is smart, witty, humane: a fantasy spectacular with old-fashioned entertainment values and some amazing cityscape design showcasing a beguiling and sweet romance. The setting is a city of marvels in a world to come, a retro-futurist urban landscape with hints of Metropolis and Blade Runner; there are plenty of regulation moving walkways, flying cars and eerie hologram billboards, yes, but a light touch to put the fun back into what could be just cliche. Here is where an old-school noir thriller is to take place with tough private detectives and bad guys wielding state-of-the-art laser-particle firearms (this explains the title, though I’d hoped that it might also include some reference to 1980s Republican politics). There are careworn cops, cynical club owners and alluring shady ladies with touches of Lana Turner and Veronica Lake. The airborne automobiles also have the bulbous lines of a previous century, and the TV monitors show black-and-white images; plasma flatscreens have evidently been disinvented. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/10/ray-gunn-review-brad-birds-animated-film-noir-sci-fi-caper-is-an-old-school-family-classic",
-      "image": "https://i.guim.co.uk/img/media/a1d7037d0388c2a34ef578ce634aa6faa96e48cd/1229_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=d2f9a526fd5caf6e34fff679f0bcd698",
-      "publishedAt": "2026-10-10T13:45:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-bC0xMjM1MjIwMzMwLw",
       "title": "‘Ray Gunn’ Review: Brad Bird’s Longtime Passion Project Is a Retro-Futurist Detective Story with a Muddled Message",
       "description": "The \"Iron Giant\" and \"Incredibles\" filmmaker and legendary animator has been kicking around his jetpack-powered noir-meets-\"Blade Runner\" feature for decades. The result is immersive, but too sprawling.",
@@ -193,30 +289,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-eC1kb2N1bWVudGFyeQ",
-      "title": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
-      "description": "Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen On 20 January 2025, with 14 minutes remaining in his term as president, Joe Biden commuted the life sentence of Leonard Peltier , after years of pressure to release a figure seen by many as the longest-serving political prisoner in the US. The Indigenous activist, a leader within the American Indian Movement (Aim) and an icon of Native American resistance, served nearly 50 years in prison for allegedly killing two FBI agents during a shootout on the Pine Ridge reservation in South Dakota, in 1975 – killings he has always denied, prosecuted in a railroaded trial widely seen as corrupt. Outside the Florida prison where Peltier was being held that morning were several of the many activists and lawyers who fought for his release, as well as film-makers David France and Jesse Short Bull. The two directors’ long-gestating documentary on Peltier’s fight for justice was set to premiere just a week later at the Sundance film festival with a very different ending, the octogenarian still awaiting a chance to return home to the Turtle Mountain Band of Chippewa reservation in North Dakota. That morning, there was “a sinking feeling that it wasn’t going to happen”, France said. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary",
-      "image": "https://i.guim.co.uk/img/media/a816b941fa1b37932e208913aa79c7e33555c38c/0_182_1536_1229/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abb84903ac87395b96d39532173c13ca",
-      "publishedAt": "2026-10-10T09:00:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-F5LTE0dGgtcmV2aWV3",
-      "title": "14th review – Ava DuVernay’s galvanizing documentary is a remarkable achievement",
-      "description": "New York film festival: the director has made a fascinating and troubling companion piece to her Netflix documentary 13th, which takes a fiery look at American injustice It feels at once like the blink of an eye and an eternity since Ava DuVernay’s documentary 13th arrived on Netflix, a month before the election of Donald Trump to his first term as president. The intervening decade has more or less borne out the film’s thesis on the enduring specter of white supremacy in American life: that a clause within the 13th amendment abolishing chattel slavery – that involuntary servitude could be used as punishment for a crime – was immediately and continually exploited to criminalize black people, mass incarceration thus being the modern incarnation of America’s original sin. The Oscar-nominated film, which saw a surge in viewership during the protests of 2020, has remained both a time capsule of late Obama-era moral clarity and, arguably, the acclaimed director’s best picture. At least, until now – 14th, DuVernay’s sequel, of sorts, soon also to arrive on Netflix, is just as lucid and galvanizing as its predecessor, with an updated, more pressing urgency befitting a democracy in distress. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/ava-duvernay-14th-review",
-      "image": "https://i.guim.co.uk/img/media/4049ce513fda02d18c52b424dbff23ae0b883828/130_0_7747_6200/master/7747.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7f438198d2fbf1698716c92d739dd27f",
-      "publishedAt": "2026-10-10T01:00:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -244,18 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-mYtMTIzNTIyMTExNy8",
-      "title": "Ava Duvernay Didn’t Make a Sequel — She Made ‘14th’",
-      "description": "Though her latest Netflix documentary, NYFF closer \"14th,\" shares DNA with her Oscar-nominated film \"13th,\" director Ava DuVernay tells IndieWire that film was \"very linear,” while “14th\" is \"a puzzle.\"",
-      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-      "publishedAt": "2026-10-09T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
       "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
@@ -266,30 +326,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-WJveGVyLXNvbWFsaWE",
-      "title": "In the Shadows review – true tale of Ramla Ali’s remarkable rise through the boxing ranks is a knockout",
-      "description": "Jasmine Jobson goes the distance as the British-Somalian boxer battling pain from her past and her family’s disapproval in a heavyweight, tick-the-boxes production The true-life success story of boxer Ramla Ali is confidently told in this capable picture from screenwriter Ursula Rani Sarma and documentary director Anthony Wonke, in his feature-film debut. Ali is the British-Somali boxer who escaped to the UK from the Somali civil war with her family as a refugee, and in 2021 became the first person to box for Somalia at Olympic Games . The boxing significance of her last name is actually not mentioned in the film – and I never noticed it until it flashed up in a kind of “fight card” intertitle before her first competitive bout. She is fiercely played by Jasmine Jobson, from TV’s Top Boy; her supportive white Muslim-convert husband Richard – a hugely important figure in enabling Ramla to break away from her disapproving family and do as she wants – is played by Finn Cole, and her abusive trainer Clinton is Gershwyn Eustache Jr. This is a film that takes you through the classic boxing-movie scenes fluently enough: the nervous first appearance in the gym, the overbearing quasi-parental coach, the heartstopping fight debut. It was good to see the traditional closeup of post-fight sore fists in the ice-bucket. All in all, the film works better than Giant , the recent biopic of British-Yemeni boxer Prince Naseem, who is in fact briefly mentioned here. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/in-the-shadows-film-review-ramla-ali-boxer-somalia",
-      "image": "https://i.guim.co.uk/img/media/e6c5caba28f9a2f3a6743a059fdb6d8f9973e3be/478_0_2402_1922/master/2402.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=55d37380bd1078c9f38c472d4842e526",
-      "publishedAt": "2026-10-09T17:45:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dpbGxlbS1kYWZvZS12",
-      "title": "Tenzing review – reconstruction of first summit of Everest puts Sherpa at the centre of the story",
-      "description": "Genden Phuntsok brings charm and innocence to his portrayal of Tenzing Norgay, while Tom Hiddleston is suitably frank as Edmund Hillary Here is a well intentioned, watchable, if sometimes soft-edged film with some NatGeo production values on high mountain peaks. The subject is the triumphant Mount Everest expedition of 1953, in which the ultimate ascent was achieved by Nepalese-Indian mountaineer Tenzing Norgay and New Zealander Edmund Hillary. Tenzing, a former Sherpa guide whose unparalleled knowledge of the mountain and exemplary climbing skills earned him promotion to full team member, is played here by Tibetan actor Genden Phuntsok, while Hillary is robustly portrayed by Tom Hiddleston. Screenwriter Luke Davies and director Jennifer Peedom have the decent aim of restoring Tenzing’s achievement to the centre of the narrative, a tale which at the time was resoundingly claimed for Hillary and the British empire: a glorious redemption of Scott’s Antarctic ordeal 41 years earlier and a sign of divine approval for the imminent coronation of Queen Elizabeth II. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/tenzing-review-genden-phuntsok-tom-hiddleston-apple-willem-dafoe-v",
-      "image": "https://i.guim.co.uk/img/media/6945988db784504813ac579d304e6485cd73477b/303_0_4884_3908/master/4884.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=98df1cbe1dc5cb4127b220cc47349db0",
-      "publishedAt": "2026-10-09T16:21:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-LXdhcnMtYXVjdGlvbg",
@@ -506,18 +542,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-RoZS1ib3gtb2ZmaWNl",
-      "title": "Digger may lose $150m after Tom Cruise film bombs at the box office",
-      "description": "Alejandro G Iñárritu’s critically panned satire took just $20m globally in its opening weekend, against a reported $150m production budget and $100m marketing spend Digger has flopped in its opening weekend with a $20m global box office, handing Tom Cruise one of the worst debuts of his career and serving as a bitter final note for Warner Bros as a standalone studio. Alejandro G Iñárritu’s critically panned satire grossed a paltry $8m at the North American box office. Cruise is typically a big draw overseas, but international sales – $12m from 74 markets – were also weak. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/digger-may-lose-150m-after-tom-cruise-film-bombs-at-the-box-office",
-      "image": "https://i.guim.co.uk/img/media/15b938a85e16d1e0b1b8efa1ecbc9576366f390a/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f97904fc95d687eaa53c646cfe8576e6",
-      "publishedAt": "2026-10-04T23:15:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-2Fycy1qb24td2F0dHM",
