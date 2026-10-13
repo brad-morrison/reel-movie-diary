@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:50:25.786Z",
+  "generatedAt": "2026-10-13T18:42:09.736Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XgtMTIzNTIyMTY4Ny8",
+      "title": "‘The Magician’s Nephew’ Trailer: A Stairway to Narnia as Only Greta Gerwig Could Build It",
+      "description": "Greta Gerwig's adaptation of the C.S. Lewis fantasy series roars to life — with a little help from Led Zeppelin.",
+      "url": "https://www.indiewire.com/news/trailers/narnia-magicians-nephew-trailer-greta-gerwig-netflix-1235221687/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-12.56.39.png?w=650",
+      "publishedAt": "2026-10-13T18:03:50.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-VuLTEyMzUyMjE3MDEv",
+      "title": "The Bay Theater in Palisades Village, Closed Since the LA Wildfires, Will Reopen Thanks to Paramount and Rick Caruso",
+      "description": "The Lot, a luxury dine-in theater chain, will operate the new venue with a reopening planned for later this year.",
+      "url": "https://www.indiewire.com/news/general-news/bay-theater-palisades-village-wildfires-reopen-1235221701/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/FINAL_BayTheatreComingSoon_PV.png?w=650",
+      "publishedAt": "2026-10-13T17:47:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMjE1OTcv",
+      "title": "IndieWire Hires J. Kim Murphy as Film and Media Reporter",
+      "description": "The award-winning journalist previously worked at Variety and TheWrap and will report on indie studios, filmmakers, and the media business.",
+      "url": "https://www.indiewire.com/news/general-news/indiewire-hires-j-kim-murphy-film-and-media-reporter-1235221597/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Jackson-Murphy.jpeg?w=650",
+      "publishedAt": "2026-10-13T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RoLTEyMzUyMjE1OTIv",
+      "title": "’14th’ Leads 2026 Critics Choice Documentary Award Nominations",
+      "description": "Ava DuVernay’s “14th\" leads nominations for the Critics Choice Documentary Awards happening on Sunday, November 8, 2026 at The Edison Ballroom in Manhattan.",
+      "url": "https://www.indiewire.com/awards/results/critics-choice-documentary-awards-2026-nominations-14th-1235221592/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/A-Doc-1011938.jpg?w=650",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjIxNDM4Lw",
+      "title": "‘Sense and Sensibility’ Review: Daisy Edgar-Jones and George MacKay Suffuse an Unfussy Jane Austen Adaptation with Earthly Sensuality",
+      "description": "Filmmaker Georgia Oakley sticks to the text to often swoony results in an adaptation that may not compare to Ang Lee's, but has plenty fresh to say about Austen's oft-wrought first novel. Also: Watch out for breakout Esmé Creed-Miles as middle-child Marianne Dashwood.",
+      "url": "https://www.indiewire.com/criticism/movies/sense-and-sensibility-2026-movie-review-1235221438/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/SS_FP_00191_R.jpg?w=650",
+      "publishedAt": "2026-10-13T15:59:58.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-x5LTEyMzUyMjE0MjAv",
+      "title": "‘Crystal Lake’ Review: Over-the-Top Kills Succumb to an Underbaked Story in A24’s ‘Friday the 13th’ Prequel",
+      "description": "A new contender for the most maddening use of a penultimate flashback episode emerges in \"Crystal Lake,\" Brad Caleb Kane's Voorhees family origin story that asks where the mother-son killers came from — and answers far too easily, and far too late.",
+      "url": "https://www.indiewire.com/criticism/shows/crystal-lake-review-watch-last-two-episodes-only-1235221420/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Crystal-Lake-series-release-date-Linda-Cardellini.jpg?w=650",
+      "publishedAt": "2026-10-13T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-3QtMTIzNTIyMDMwMC8",
+      "title": "Meet Terry Matalas, the New King of Sci-Fi TV",
+      "description": "The showrunner behind “12 Monkeys,” the third season of “Star Trek: Picard,” and the upcoming MCU series “VisionQuest” has been steeped in the genre since childhood, and his care shows in every frame.",
+      "url": "https://www.indiewire.com/features/interviews/terry-matalas-king-of-sci-fi-tv-visionquest-1235220300/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2269113571.jpg?w=650",
+      "publishedAt": "2026-10-13T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-bGFpbi1jbGF5ZmFjZQ",
+      "title": "‘A tipping point of ickiness’: Welsh star Tom Rhys Harries on playing eyelid-snipping DC supervillain Clayface",
+      "description": "He cut his teeth playing rock stars and pretty posh boys. Speaking from his LA home, the actor talks about landing his first blockbuster lead in the grisly DC horror. Will it be too shocking for comic book fans? Exactly 13 years ago this month, Tom Rhys Harries was hanging by his ankles from a meat hook every night. Playing a teenage rock’n’roll idol abducted by gangsters in a revival of Jez Butterworth’s Mojo, Harries was fresh out of drama school and the only unknown in a cast led by Ben Whishaw and Rupert Grint. The Guardian’s Michael Billington likened him to “an embryonic Elvis”. Now the 36-year-old Cardiff-born actor has the title role in Clayface, a violent DC Comics supervillain blockbuster set in Batman’s stomping ground, Gotham City. This puts him in the company of fellow Brits in the comic-book universe, such as Tom Holland (Spider-Man), Robert Pattinson (Batman) and David Jonsson, recently announced as the new Black Panther. “I felt ready to do this,” says Harries. “Had I been younger, I’d have been suffocated by the insecurity of wanting to do a good job but not having that quiet trust in getting there.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
+      "image": "https://i.guim.co.uk/img/media/88b409ecac1f4a4fa9b336854aab4f664166564d/241_0_6824_5460/master/6824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71ddcf71cd4804559d384938096fac4f",
+      "publishedAt": "2026-10-13T14:58:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjIxNTYwLw",
+      "title": "Michael Douglas on His Affair and Legal Battle with Kathleen Turner, and Nearly Landing in Moroccan Jail During ‘Jewel of the Nile’",
+      "description": "To celebrate the release of his new memoir, the actor/producer regaled an American Cinematheque crowd with tales of making movies — including the 1985 \"Romancing the Stone\" sequel, starring a leading lady who wanted him dead.",
+      "url": "https://www.indiewire.com/features/interviews/michael-douglas-kathleen-turner-affair-interview-1235221560/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/10-10-26_by_jared_cowan_select-15.jpg?w=650",
+      "publishedAt": "2026-10-13T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ay0xMjM1MjIwMzAxLw",
+      "title": "Jacob Tierney Created the Smash Hit Series ‘Heated Rivalry’ — Then He Wrote a Book About It",
+      "description": "The “Heated Rivalry” TV creator tells IndieWire about his scriptwriting process, breaks down key scenes, and chats deleted moments with the release of the in-depth script book \"I’ll Believe in Anything.\"",
+      "url": "https://www.indiewire.com/features/interviews/jacob-tierney-heated-rivalry-book-1235220301/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2248296279.jpg?w=650",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "guardian-ZmZhbnktaGFkZGlzaA",
       "title": "The Girl in the River review – forensic psychologist police procedural thriller plays like noir parody",
@@ -114,7 +234,7 @@
     {
       "id": "guardian-dmVzLW9mLW90aGVycw",
       "title": "‘I knew I was being followed’: Keira Knightley on her hacking nightmare – and new Stasi spy play The Lives of Others",
-      "description": "As the Oscar-winning Stasi surveillance film hits the stage, Knightley and co-star Luke Thompson talk about the paranoia at its heart, the cost of theatre tickets nowadays – and their fury at ringtones in the stalls Unpacking assorted tubs of carrot sticks and salad, Keira Knightley winces apologetically. “I just realised I’ve got very crunchy food,” she says. How apropos that she should consider the impact that her lunch might have on my audio recording when we are here to discuss The Lives of Others , a new play in which the characters are divided between the spies and the spied-upon. Based on the Oscar-winning 2006 film and set in East Berlin in 1984, the play stars Knightley as Christa-Maria, a theatre actor in a relationship with a director, Georg, played by Luke Thompson. Earwigging on them is Wiesler (Stephen Dillane), the Stasi officer whose principles are gradually challenged and weakened by his round-the-clock exposure to this cultured couple. Continue reading...",
+      "description": "As the Oscar-winning Stasi surveillance film hits the stage, Knightley and co-star Luke Thompson talk about the paranoia at its heart, the cost of theatre tickets nowadays – and their fury at ringtones in the stalls Unpacking assorted tubs of carrot sticks and salad, Keira Knightley winces apologetically. “I just realised I’ve got very crunchy food,” she says. How apropos that she should consider the impact that her lunch might have on my audio recording when we are here to discuss The Lives of Others , a new play in which the characters are divided between the spies and the spied-upon. Based on the Oscar-winning 2006 film and set in East Berlin in 1984, the play stars Knightley as Christa-Maria, a theatre actor in a relationship with a playwright, Georg, played by Luke Thompson. Earwigging on them is Wiesler (Stephen Dillane), the Stasi officer whose principles are gradually challenged and weakened by his round-the-clock exposure to this cultured couple. Continue reading...",
       "url": "https://www.theguardian.com/stage/2026/oct/13/keira-knightley-luke-thompson-hacking-stasi-spy-play-the-lives-of-others",
       "image": "https://i.guim.co.uk/img/media/242c564b6a74a6542d6167db96d8e8b2c217cd4c/121_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55b65050904db75bd17d6bce0564592",
       "publishedAt": "2026-10-13T04:00:13.000Z",
@@ -128,7 +248,7 @@
       "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
       "description": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York after she allegedly attacked two flight attendants on a Delta Air Lines flight, and separately charged with two counts of assault for allegedly kicking a police officer and a nurse after landing. Blair’s arrest happened at about 11pm, after Port Authority of New York and New Jersey officials said they responded to a call “about a physically abusive passenger aboard Delta Air Lines flight 938 which was parked at the gate” at JFK after arriving from Los Angeles. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
-      "image": "https://i.guim.co.uk/img/media/036b6f38d54795f9ad7d9c24c5b537abb29cb0b8/458_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=763793cb230a53d021b13c8d9a833652",
+      "image": "https://i.guim.co.uk/img/media/9d48d5e3c979efc88ed2d56eb19067016d12bd33/679_561_4875_3900/master/4875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f38b2e754c1acc1ab336b05ab2955476",
       "publishedAt": "2026-10-13T03:28:06.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -172,39 +292,15 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-WQtMTIzNTIyMTE2OS8",
-      "title": "‘VisionQuest’ Review: Marvel’s Tedious Bad-Dad Drama Series Ends a Shortsighted Era of MCU TV",
-      "description": "When his missing son reemerges, an AI-powered synthetic super-being (played by Paul Bettany) suffers an existential crisis in another Marvel series that, despite dedicating eight hours to identifying its Vision, struggles to justify its existence.",
-      "url": "https://www.indiewire.com/criticism/shows/visionquest-review-marvel-mcu-tv-ends-bad-1235221169/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/VisionQuest-series-Ultron-Vision-on-Disney.jpg?w=650",
-      "publishedAt": "2026-10-12T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-Yy0xMjM1MjIxNDA5Lw",
-      "title": "‘Being Heumann’ Trailer: Siân Heder’s ‘CODA’ Follow-Up Is a Rousing Biopic About a True American Hero",
-      "description": "The TIFF opener features Ruth Madeley in a star-making performance as the indelible disability rights activist Judy Heumann.",
-      "url": "https://www.indiewire.com/news/trailers/being-heumann-trailer-sian-heder-coda-follow-up-biopic-1235221409/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Being_Heumann_Photo_0104.jpg?w=650",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-GQtMTIzNTIyMTMyMi8",
-      "title": "Sebastian Stan on ‘Batman: Part II,’ the Political Message of ‘Fjord,’ and Transforming Himself on Screen",
-      "description": "The once and future Avenger tells IndieWire about going bald to play a religious father battling the state in \"Fjord.\"",
-      "url": "https://www.indiewire.com/features/interviews/sebastian-stan-fjord-politics-batman-part-ii-bald-1235221322/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_3160.jpeg?w=650",
-      "publishedAt": "2026-10-12T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-ay1kb2N1bWVudGFyeQ",
+      "title": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
+      "description": "The revelation comes after the four-hour film’s Venice premiere drew a string of criticisms and insults from the founder of SpaceXAI Alex Gibney, director of the new four-hour documentary about Elon Musk, said that Universal, owners of the film’s international distribution rights “wavered” over releasing the film outside North America. Gibney was speaking to the New York Times as the film opened in the US (where it is being released by the independent distributor Bleecker Street), and appeared to confirm a story in the Hollywood Reporter that Universal, which had acquired the international rights to the film in 2023 , had got cold feet. Asked by the New York Times, “Did Universal Pictures waver in setting up its international release plans?” Gibney replied: “Yes.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+      "image": "https://i.guim.co.uk/img/media/d51e0f13cf21bb86e155f663d02852d880522a13/257_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c3d231d088cde45aa2f7a96586920b4",
+      "publishedAt": "2026-10-12T14:38:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -217,42 +313,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-xzLTEyMzUyMjEwODQv",
-      "title": "Meet the Breakout Talents of the 2026 Fall Film Festivals",
-      "description": "From Venice to Telluride, TIFF to NYFF, this year's fall season has introduced (and, in some cases, re introduced) us to some ferocious talents we cannot wait to see more of, and soon.",
-      "url": "https://www.indiewire.com/features/commentary/breakout-actors-actresses-2026-fall-film-festivals-1235221084/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2294600699.jpg?w=650",
-      "publishedAt": "2026-10-12T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjIxMzQ3Lw",
-      "title": "‘Other Mommy’ Scared Up $27.5 Million with Marketing Better Than the Movie. What Now?",
-      "description": "A viral trailer attached to Christopher Nolan’s \"The Odyssey\" turned Jessica Chastain into a popular horror meme months before Blumhouse’s latest film earned a D+ CinemaScore in theaters.",
-      "url": "https://www.indiewire.com/features/commentary/other-mommy-box-office-viral-marketing-blumhouse-1235221347/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299295402.jpg?w=650",
-      "publishedAt": "2026-10-12T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MjIxMzQ4Lw",
-      "title": "Why Seeing ‘Digger’ in VistaVision Could Change Your Mind About the Tom Cruise Box Office Flop",
-      "description": "Like \"One Battle After Another\" and \"Bugonia,\" Alejandro G. Iñárritu's latest provocation was shot in the format Alfred Hitchcock favored. If you're lucky enough to live in one of the five cities screening it in VistaVision, you owe it to yourself and \"Digger\" to experience it that way while you still can.",
-      "url": "https://www.indiewire.com/features/commentary/digger-vistavision-1235221348/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDDIGG_WB044.jpg?w=650",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -304,18 +364,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMjEzNTEv",
-      "title": "Quentin Tarantino Teaming with Sacha Baron Cohen on West End Play ‘The Popinjay Cavalier’",
-      "description": "Tarantino will write the script and direct a film inspired by \"the grand swashbuckling epics of stage and screen.\"",
-      "url": "https://www.indiewire.com/news/general-news/quentin-tarantino-sacha-baron-cohen-play-popinjay-cavalier-1235221351/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/08/GettyImages-2215582927_43c854.jpg?w=650",
-      "publishedAt": "2026-10-12T02:14:46.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
       "description": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
@@ -340,30 +388,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ZC0xMjM1MjIxMzMxLw",
-      "title": "Box Office: ‘NAZA,’ Documentary About Israel’s Attacks on Gaza That Was Too Hot for Distributors, Crosses $500,000",
-      "description": "The self-distributed film has been condemned by the IDF, earned rave reviews, and seems poised to be an Oscar contender.",
-      "url": "https://www.indiewire.com/news/box-office/naza-documentary-israel-gaza-crosses-500k-self-distributed-1235221331/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
-      "publishedAt": "2026-10-11T20:52:23.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bC0xMjM1MjIxMzA3Lw",
-      "title": "‘The Social Reckoning’ Bombs with $5.5 Million Opening. Why Did Aaron Sorkin’s Facebook Follow-Up Fail at the Box Office?",
-      "description": "Bad reviews, David Fincher's decision not to return, and a story about algorithms, not AI, are partly to blame.",
-      "url": "https://www.indiewire.com/news/box-office/social-reckoning-bombs-why-did-aaron-sorkin-facebook-follow-up-fail-1235221307/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSORE_CO001.jpg?w=650",
-      "publishedAt": "2026-10-11T14:56:54.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
@@ -374,18 +398,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LXdhcnMtYXVjdGlvbg",
-      "title": "Lightsaber Darth Vader used in ‘I am your father’ Star Wars duel up for auction",
-      "description": "Saber is expected to fetch at least $1m and is one of more than two dozen props that will be up for sale A lightsaber used by Darth Vader in the Star Wars duel where he tells Luke Skywalker “I am your father” is going up for sale at Heritage Auctions next month. The Vader saber, also used in Return of the Jedi, is expected to fetch at least $1m. It is one of more than two dozen lightsaber props that will be up for sale at the auction that spans Star Wars Episodes I through IX and other films and TV shows from the universe George Lucas created. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/lightsaber-darth-vader-star-wars-auction",
-      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/509_449_1918_1535/master/1918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9527a3f938a88f397033ffd50c3f6795",
-      "publishedAt": "2026-10-09T13:36:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-lsZC1ob3JzZS1uaW5l",
@@ -470,18 +482,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-m9udC1kaWVzLWFnZWQ",
-      "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
-      "description": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint – a life in pictures Her best films – ranked Eva Marie Saint, one of the last survivors of Hollywood’s golden age of the 1940s and 50s, has died aged 102. Her screen work spanned six decades: Saint made her screen debut opposite Marlon Brando in On the Waterfront, starred in Alfred Hitchcock’s celebrated thriller North by Northwest, and in one of her last screen appearances played Superman’s adoptive mother Martha Kent in the 2006 superhero film Superman Returns . A family spokesman said on Tuesday that Saint had died of natural causes at her home in Los Angeles. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
-      "image": "https://i.guim.co.uk/img/media/6f878cdf5d114f6a76c17cd15066e0d8eb000de9/0_464_3607_2885/master/3607.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b209edbde6f5623799f12fed591804d",
-      "publishedAt": "2026-10-06T21:24:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-ZC1tYXN0ZXJwaWVjZQ",
