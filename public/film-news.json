@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:42:01.605Z",
+  "generatedAt": "2026-10-13T01:15:54.418Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 14
+      "articles": 11
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XQtMTIzNTIyMTUxNi8",
+      "title": "‘Hunger Games’ and ‘Love Story’ Producers Nina Jacobson and Brad Simpson to Speak at IndieWire’s Future of Filmmaking Summit",
+      "description": "The partners behind Color Force will offer their industry insights at our Los Angeles event on October 17.",
+      "url": "https://www.indiewire.com/news/events/nina-jacobson-brad-simpson-future-of-filmmaking-summit-1235221516/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-12-at-11.23.54-AM.png?w=650",
+      "publishedAt": "2026-10-13T00:26:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d701/live/f34aa090-c69f-11f1-a64c-550be9e3c66b.jpg",
+      "publishedAt": "2026-10-13T00:12:25.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+      "description": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
+      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/362e/live/147b7980-c66c-11f1-8c1b-356b863d8549.jpg",
+      "publishedAt": "2026-10-12T23:35:04.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyMTU0Ny8",
+      "title": "‘There Will Never Be Another Like RJ Mitte’: Fellow Actors Remember the Late ‘Breaking Bad’ Star",
+      "description": "The actor and disability advocate best known for playing Walter White Jr. on \"Breaking Bad\" tragically died at the age of 34.",
+      "url": "https://www.indiewire.com/news/obituary/rj-mitte-dead-tributes-1235221547/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDBRBA_EC119.jpg?w=650",
+      "publishedAt": "2026-10-12T22:33:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyMTUwNi8",
+      "title": "‘A Day in the Life of Jo: Chapter Phaedra’ Review: A Cosmic and Magnificent Coming-of-Age Movie Defies Expectations at Every Turn",
+      "description": "New York Film Festival: Jacqueline Lentzou’s slim but remarkable second feature reminds us that movies can be anything.",
+      "url": "https://www.indiewire.com/criticism/movies/a-day-in-the-life-of-jo-chapter-phaedra-movie-review-1235221506/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Day-in-the-Life-of-Jo-Chapter-Phaedra_NYFF64_01.jpeg?w=650",
+      "publishedAt": "2026-10-12T19:50:38.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WQtMTIzNTIyMTE2OS8",
+      "title": "‘VisionQuest’ Review: Marvel’s Tedious Bad-Dad Drama Series Ends a Shortsighted Era of MCU TV",
+      "description": "When his missing son reemerges, an AI-powered synthetic super-being (played by Paul Bettany) suffers an existential crisis in another Marvel series that, despite dedicating eight hours to identifying its Vision, struggles to justify its existence.",
+      "url": "https://www.indiewire.com/criticism/shows/visionquest-review-marvel-mcu-tv-ends-bad-1235221169/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/VisionQuest-series-Ultron-Vision-on-Disney.jpg?w=650",
+      "publishedAt": "2026-10-12T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-Yy0xMjM1MjIxNDA5Lw",
       "title": "‘Being Heumann’ Trailer: Siân Heder’s ‘CODA’ Follow-Up Is a Rousing Biopic About a True American Hero",
@@ -256,72 +328,12 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-YS0xMjM1MjIxMjc5Lw",
-      "title": "‘Wildwood’ Review: Laika’s Epic Stop-Motion Wonder Lacks the Magic of the Studio’s Best Movies",
-      "description": "\"Wildwood\" is the antidote to all of the worst trends in mainstream animation, but it gets lost somewhere in the wilderness between reality and imagination.",
-      "url": "https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/wildwood.avif?w=650",
-      "publishedAt": "2026-10-11T13:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIxMjkxLw",
-      "title": "‘The Pitt,’ ‘Take Me Home,’ and More Win at The DARCYS 2026",
-      "description": "The rebranded Easterseals Disability Arts &#38; Culture Awards saw \"The Pitt\" and \"Take Me Home\" among the winners of its inaugural outing.",
-      "url": "https://www.indiewire.com/awards/results/the-darcys-2026-winners-the-pitt-1235221291/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MixCollage-10-Oct-2026-04-57-PM-7444.jpg?w=650",
-      "publishedAt": "2026-10-11T00:22:01.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
       "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
       "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/28da/live/88bf0310-c56e-11f1-bd33-db1f7eaf2b30.jpg",
       "publishedAt": "2026-10-10T23:31:35.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-GUtMTIzNTIyMTIwMS8",
-      "title": "‘In a Violent Nature: Part 2’ to Release Valentine’s Day Weekend 2027",
-      "description": "Shudder and Independent Film Company's slasher horror sequel opens opposite Greta Gerwig's \"Narnia\" movie.",
-      "url": "https://www.indiewire.com/news/general-news/in-a-violent-nature-part-2-release-date-1235221201/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IAVN-2-Still.png?w=650",
-      "publishedAt": "2026-10-10T23:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WQtMTIzNTIyMTI0NC8",
-      "title": "Bill Burr vs. Facebook: Inside ‘The Social Reckoning’ Fantasy of the Comedian Speaking Truth to Power",
-      "description": "Mark Zuckerberg has shut out dissenting voices; Aaron Sorkin and Burr talk about building the fiction of letting the stand-up get under his (and Jeremy Strong's) skin.",
-      "url": "https://www.indiewire.com/features/podcast/bill-burr-the-social-reckoning-explained-1235221244/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Bill-Burr-Mark-Zuckerberg.jpeg?w=650",
-      "publishedAt": "2026-10-10T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
-      "description": "His family were on the set, and he even managed to get some relatives a cameo in the final episode.",
-      "url": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5ff2/live/a2a9a270-bc14-11f1-a524-3125ac41b7f5.jpg",
-      "publishedAt": "2026-10-09T18:02:29.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -337,30 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg",
-      "publishedAt": "2026-10-09T10:54:21.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
-      "description": "The smash hit from the studio behind The Witcher series is to be turned into a film by Paramount Pictures.",
-      "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/21d0/live/b8bcb880-c3c7-11f1-bc2e-018d645d8d21.png",
-      "publishedAt": "2026-10-09T10:08:56.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "TV"
     },
     {
@@ -382,18 +370,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg",
       "publishedAt": "2026-10-08T23:08:49.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ab69/live/59fe1be0-c30e-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-08T20:38:11.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -433,18 +409,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
-      "description": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5325/live/082a16c0-c31d-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-10-08T09:35:30.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
