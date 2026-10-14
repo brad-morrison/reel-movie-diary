@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:42:09.736Z",
+  "generatedAt": "2026-10-14T01:01:40.616Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 10
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VzLTEyMzUyMjE1MTQv",
+      "title": "New ‘Avatar’ Projects Are Everywhere — but the Best One Succeeds by Leaving ‘The Last Airbender’ Behind",
+      "description": "The latest entry into Michael Dante DiMartino and Bryan Konietzko's fantasy series is the first that takes any baby steps away from its IP anchor point.",
+      "url": "https://www.indiewire.com/features/animation/avatar-seven-havens-adaptations-animation-styles-1235221514/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Avatar_SevenHavens_101_0012.jpg?w=650",
+      "publishedAt": "2026-10-13T23:32:42.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjIxNTE4Lw",
+      "title": "Has Hollywood Softened Toward Netflix?",
+      "description": "As \"La Bola Negra\" opens in theaters for a 47-day run, the Spanish Oscar entry is not only the frontrunner for Best International Feature, but also the best shot the streamer has so far for a Best Picture win.",
+      "url": "https://www.indiewire.com/awards/industry/hollywood-soften-netflix-best-picture-oscars-la-bola-negra-1235221518/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/P106HD91.jpg?w=650",
+      "publishedAt": "2026-10-13T21:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIyMTQ2NS8",
+      "title": "‘Animals’ Makes Drone Photography Look Forgettable, but It Doesn’t Need to Be",
+      "description": "IndieWire spoke with a couple of shooters (positive) about the (negative) overuse of drone cinematography.",
+      "url": "https://www.indiewire.com/features/craft/animals-movie-netflix-drone-shots-forgettable-1235221465/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/ANIMALS_20250314_WP_0052_R2.jpg?w=650",
+      "publishedAt": "2026-10-13T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIyMTc0Ny8",
+      "title": "‘Girls’ Is Back: Lena Dunham and Full Cast to Reunite for Five-Episode Limited Series Revival for HBO",
+      "description": "Dunham, Alison Williams, Jemima Kirke, Zosia Mamet, and Andrew Rannells will all reprise their roles a decade after the seminal series' series finale.",
+      "url": "https://www.indiewire.com/news/breaking-news/girls-back-lena-dunham-full-cast-reunite-episode-revival-1235221747/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2017/04/dc1581dcdbdf0f4a34dd734b0ff5783aea6f3d17cd0abe2c3f4cf2dba9f0337f.jpg?w=650",
+      "publishedAt": "2026-10-13T19:12:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-mQtMTIzNTIyMTQ5My8",
+      "title": "Audiences Want to See Documentaries About Gaza, Israel, and Palestine — Why Are Distributors Still Scared?",
+      "description": "It's not just \"NAZA\" and \"No Other Land\" that have self-distributed. Docs on both sides of the divide have had trouble being platformed, even as their box office results have impressed.",
+      "url": "https://www.indiewire.com/news/analysis/audiences-want-documentaries-gaza-distributors-nervous-naza-no-other-land-1235221493/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/02/MCDNOOT_EC007.jpg?w=650",
+      "publishedAt": "2026-10-13T18:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-XgtMTIzNTIyMTY4Ny8",
       "title": "‘The Magician’s Nephew’ Trailer: A Stairway to Narnia as Only Greta Gerwig Could Build It",
@@ -112,30 +172,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dy0xMjM1MjIxNTYwLw",
-      "title": "Michael Douglas on His Affair and Legal Battle with Kathleen Turner, and Nearly Landing in Moroccan Jail During ‘Jewel of the Nile’",
-      "description": "To celebrate the release of his new memoir, the actor/producer regaled an American Cinematheque crowd with tales of making movies — including the 1985 \"Romancing the Stone\" sequel, starring a leading lady who wanted him dead.",
-      "url": "https://www.indiewire.com/features/interviews/michael-douglas-kathleen-turner-affair-interview-1235221560/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/10-10-26_by_jared_cowan_select-15.jpg?w=650",
-      "publishedAt": "2026-10-13T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ay0xMjM1MjIwMzAxLw",
-      "title": "Jacob Tierney Created the Smash Hit Series ‘Heated Rivalry’ — Then He Wrote a Book About It",
-      "description": "The “Heated Rivalry” TV creator tells IndieWire about his scriptwriting process, breaks down key scenes, and chats deleted moments with the release of the in-depth script book \"I’ll Believe in Anything.\"",
-      "url": "https://www.indiewire.com/features/interviews/jacob-tierney-heated-rivalry-book-1235220301/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2248296279.jpg?w=650",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-ZmZhbnktaGFkZGlzaA",
       "title": "The Girl in the River review – forensic psychologist police procedural thriller plays like noir parody",
       "description": "Ralph Macchio and Tiffany Haddish feature in a ropey and implausible manhunt thriller as cops search for the missing twin of a murdered teenager This small-town police thriller sets its stall out intriguingly, with a murder that seems actively begging to be solved. The perp chose to dump his victim – the 14-year-old daughter of a local political bigwig – into a part of the Mississippi River where she was likely to resurface, and from a highly visible bridge. When veteran detective Alan Kramer (Devon Sawa) and rookie forensic psychologist Amelia Pembrock (Maggie Grace) show up to investigate, they are immediately alerted to a gun in the bushes just yards away. As a colleague observes: “This isn’t a clean-up. It’s a message.” But Brando Benetton’s debut film sadly fails to capitalise on the misdirection at play in this open-goal crime scene. Instead of using it to pry open community secrets, he gives us a ropey and implausible manhunt. As Kramer and Pembrock race to locate the girl’s twin, who is presumably still in the killer’s clutches, they zero in on local butcher Boris (Darron Dunbar). He has a sex-pest rap sheet and lives with his mother – which apparently ticks all the boxes for a profiling genius such as Pembrock. Kramer pulls her up for being unbothered by the lack of actual prosecutable evidence. But carping is about the only investigative contribution this seasoned criminologist makes here (and what’s a criminologist – a crime sociologist – doing out in the field anyway?). Continue reading...",
@@ -174,7 +210,7 @@
     {
       "id": "guardian-ctYWFyb24tc29ya2lu",
       "title": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
-      "description": "Aaron Sorkin’s attempt to return to the success of The Social Network is a strangely dated and incomplete look at a world that needs a sharper eye In retrospect, David Fincher’s 2010 film The Social Network was a landmark for a quiet, even counterintuitive reason. Before the film was released, some questioned whether Aaron Sorkin, a writer not exactly known for his mastery of, nevermind obsession with, the technical sphere, was the right man to tell the origin story of Facebook. And while Sorkin may well have converted Mark Zuckerberg into terms he could better understand – namely, a motormouthed wiseass who deep down wants to impress a smart, serious-minded girl – he and Fincher also made one of the first internet-centric movies to treat online life as a natural extension of IRL dynamics, rather than the otherworldly tech portal seen in so many 90s internet movies. Granted, that’s the whole deal with Facebook: its viral spread of social networking, something so simple and addictive that aunts, grandpas and coworkers everywhere could understand it. Yet understanding its simultaneous extension and distortion of the real world wasn’t a given; four years later, for example, 2014’s Men, Women and Children was widely derided for taking an alarmist approach to the internet as a haven for adults seeking an affair, teenagers nursing porn addictions and fame-hungry strivers of all ages. The Social Network, on the other hand, is remarkably nonjudgmental about the basic mechanics of Facebook, rooting its nascent flaws in the human weaknesses that birthed it. In retrospect, the movie only feels outdated to the extent that it underestimates Zuckerberg’s grasping for power and the potential for grim carelessness that his online kingdom was built on. Continue reading...",
+      "description": "Aaron Sorkin’s attempt to return to the success of The Social Network is a strangely dated and incomplete look at a world that needs a sharper eye In retrospect, David Fincher’s 2010 film The Social Network was a landmark for a quiet, even counterintuitive reason. Before the film was released, some questioned whether Aaron Sorkin, a writer not exactly known for his mastery of, nevermind obsession with, the technical sphere, was the right man to tell the origin story of Facebook. And while Sorkin may well have converted Mark Zuckerberg into terms he could better understand – namely, a motormouthed wiseass who deep down wants to impress a smart, serious-minded girl – he and Fincher also made one of the first internet-centric movies to treat online life as a natural extension of IRL dynamics, rather than the otherworldly tech portal seen in so many 90s internet movies. Granted, that’s the whole deal with Facebook: its viral spread of social networking, something so simple and addictive that aunts, grandpas and co-workers everywhere could understand it. Yet understanding its simultaneous extension and distortion of the real world wasn’t a given; four years later, for example, 2014’s Men, Women and Children was widely derided for taking an alarmist approach to the internet as a haven for adults seeking an affair, teenagers nursing porn addictions and fame-hungry strivers of all ages. The Social Network, on the other hand, is remarkably nonjudgmental about the basic mechanics of Facebook, rooting its nascent flaws in the human weaknesses that birthed it. In retrospect, the movie only feels outdated to the extent that it underestimates Zuckerberg’s grasping for power and the potential for grim carelessness that his online kingdom was built on. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin",
       "image": "https://i.guim.co.uk/img/media/b14a9b14430495500b14eea4327e8f10c0d0632e/582_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a6f2b77984356e92aa25fb5e9f80e39b",
       "publishedAt": "2026-10-13T09:00:20.000Z",
@@ -254,42 +290,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XQtMTIzNTIyMTUxNi8",
-      "title": "‘Hunger Games’ and ‘Love Story’ Producers Nina Jacobson and Brad Simpson to Speak at IndieWire’s Future of Filmmaking Summit",
-      "description": "The partners behind Color Force will offer their industry insights at our Los Angeles event on October 17.",
-      "url": "https://www.indiewire.com/news/events/nina-jacobson-brad-simpson-future-of-filmmaking-summit-1235221516/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-12-at-11.23.54-AM.png?w=650",
-      "publishedAt": "2026-10-13T00:26:03.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyMTU0Ny8",
-      "title": "‘There Will Never Be Another Like RJ Mitte’: Fellow Actors Remember the Late ‘Breaking Bad’ Star",
-      "description": "The actor and disability advocate best known for playing Walter White Jr. on \"Breaking Bad\" tragically died at the age of 34.",
-      "url": "https://www.indiewire.com/news/obituary/rj-mitte-dead-tributes-1235221547/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDBRBA_EC119.jpg?w=650",
-      "publishedAt": "2026-10-12T22:33:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyMTUwNi8",
-      "title": "‘A Day in the Life of Jo: Chapter Phaedra’ Review: A Cosmic and Magnificent Coming-of-Age Movie Defies Expectations at Every Turn",
-      "description": "New York Film Festival: Jacqueline Lentzou’s slim but remarkable second feature reminds us that movies can be anything.",
-      "url": "https://www.indiewire.com/criticism/movies/a-day-in-the-life-of-jo-chapter-phaedra-movie-review-1235221506/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Day-in-the-Life-of-Jo-Chapter-Phaedra_NYFF64_01.jpeg?w=650",
-      "publishedAt": "2026-10-12T19:50:38.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ay1kb2N1bWVudGFyeQ",
@@ -374,18 +374,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Sacha Baron Cohen to star in Quentin Tarantino's West End play",
-      "description": "The Borat star said he was \"beyond delighted\" to be working on the show, The Popinjay Cavalier, with the Pulp Fiction director.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj9k23rynnpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0b5f/live/069ce810-c583-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-11T23:03:55.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
