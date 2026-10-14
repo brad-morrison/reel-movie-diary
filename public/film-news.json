@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:01:40.616Z",
+  "generatedAt": "2026-10-14T06:48:54.634Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,30 @@
   },
   "articles": [
     {
+      "id": "guardian-VoaXN0b3JpYy1wYWxz",
+      "title": "Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals",
+      "description": "The pair’s first feature-length adventure stars Jemaine Clement and Olivia Tennet, has a dreamy soundtrack and beautiful stop-motion visuals – fantastic family fun Kiri is a lively yellow dinosaur, Lou is an amiable purple palorchecie (a fictional beast, vaguely resembling a palorchestes , which in turn vaguely resembles a giant tapir) – and if you’ve been watching their CBeebies show, which hails from New Zealand and consists of 5-minute episodes, you’ll know they’re the best of friends despite their ingrained temperamental differences. But how did they become friends in the first place? For the uninitiated, Kiri and Lou Go Raaa! functions as an introduction to the characters and their world, while for fans it’s a delightful origin story. At only one hour long, the runtime is toddler-friendly – and to be honest, there are plenty of films marketed at adults that could learn a lesson from writer-director Harry Sinclair’s economical storytelling. (Sinclair is also the writer of the TV series, alongside Buffy the Vampire Slayer writing alum Rebecca Kirshner.) With the voice acting talents of Olivia Tennet (Freda in Lord of the Rings: The Two Towers) and Jemaine Clement (Flight of the Conchords), plus dreamy songs from Don McGlashan (Blam Blam Blam, The Front Lawn), Kiri and Lou Go Raaa! would arguably work superbly as an audiobook or radio show – except the visuals are a treat too. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals",
+      "image": "https://i.guim.co.uk/img/media/f1a7b9ab5cf3fa6e9528d1266ff3b79152757592/1640_0_4216_3375/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=712ca552123a1a3475cc9e4913f75223",
+      "publishedAt": "2026-10-14T06:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
+      "description": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
+      "url": "https://www.bbc.co.uk/news/articles/c8040531w45eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg",
+      "publishedAt": "2026-10-14T04:58:47.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-VzLTEyMzUyMjE1MTQv",
       "title": "New ‘Avatar’ Projects Are Everywhere — but the Best One Succeeds by Leaving ‘The Last Airbender’ Behind",
       "description": "The latest entry into Michael Dante DiMartino and Bryan Konietzko's fantasy series is the first that takes any baby steps away from its IP anchor point.",
@@ -26,6 +50,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actress Selma Blair faces charges for kicking nurse and officer after plane incident",
+      "description": "The Legally Blonde actress faces two counts of assault for allegedly kicking a police officer and a nurse after allegedly attacking attendants on a flight.",
+      "url": "https://www.bbc.co.uk/news/articles/ck86zje2z4pwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1604/live/01ecf900-c74e-11f1-b4d5-87f9c6c95a29.jpg",
+      "publishedAt": "2026-10-13T22:59:37.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-YS0xMjM1MjIxNTE4Lw",
@@ -244,30 +280,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-l5YW4tcmV0cmlldmVy",
-      "title": "Mag Mag review – giant female ghost loves people to death in Japanese comedy-horror",
-      "description": "Sara Minami gives a wonderfully crazed performance in a twisted, fresh take on the genre as Yuriyan Retriever’s debut feature examines infatuation, bullying and beauty norms Back in the 90s and 00s, Japanese horror (or “J-horror” if you want to save on syllables) was much admired , reasonably widely distributed and sometimes remade in other languages . They never actually stopped making them in Japan, but the results don’t seem to get as much crossover exposure as they used to. That may be because we have quite enough horror getting made closer to home, especially since it’s so remunerative at the box office. Nevertheless, it’s good to see evidence that the genre keeps evolving in Japan just as it does everywhere else, and there is something tangibly fresh and kicky about this low-budget horror-comedy amalgam. Made by comedian Yuriyan Retriever , an irrepressible character whose dadaist shtick got her on America’s Got Talent twice, makes her directorial debut with this satirical ghost story which sends up male misogyny and women’s obsession with romance alike. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/13/mag-mag-review-japanese-horror-yuriyan-retriever",
-      "image": "https://i.guim.co.uk/img/media/d8f494d50e426fc289d1d50485e45ddbf48c9324/401_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e481a93b5a50ee019237cca527d29377",
-      "publishedAt": "2026-10-13T06:00:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "US actress Selma Blair accused of assault after incident with flight attendants",
-      "description": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b1cb/live/862b16a0-c6bf-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-13T04:52:28.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-dmVzLW9mLW90aGVycw",
       "title": "‘I knew I was being followed’: Keira Knightley on her hacking nightmare – and new Stasi spy play The Lives of Others",
       "description": "As the Oscar-winning Stasi surveillance film hits the stage, Knightley and co-star Luke Thompson talk about the paranoia at its heart, the cost of theatre tickets nowadays – and their fury at ringtones in the stalls Unpacking assorted tubs of carrot sticks and salad, Keira Knightley winces apologetically. “I just realised I’ve got very crunchy food,” she says. How apropos that she should consider the impact that her lunch might have on my audio recording when we are here to discuss The Lives of Others , a new play in which the characters are divided between the spies and the spied-upon. Based on the Oscar-winning 2006 film and set in East Berlin in 1984, the play stars Knightley as Christa-Maria, a theatre actor in a relationship with a playwright, Georg, played by Luke Thompson. Earwigging on them is Wiesler (Stephen Dillane), the Stasi officer whose principles are gradually challenged and weakened by his round-the-clock exposure to this cultured couple. Continue reading...",
@@ -346,18 +358,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/dc7b/live/3a15e5c0-c646-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-12T12:44:38.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Ray Quinn says baby boy was 'born sleeping'",
-      "description": "The former Brookside actor says it is \"heartbreaking\" that his son Rio was stillborn on 20 August.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8gyp51rqro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/905a/live/42b11040-c611-11f1-aae8-850c1751d51d.jpg",
-      "publishedAt": "2026-10-12T07:59:33.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
