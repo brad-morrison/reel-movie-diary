@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T18:39:53.961Z",
+  "generatedAt": "2026-10-15T01:00:26.563Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-RoLTEyMzUyMjE4NDQv",
+      "title": "Netflix Is Finally Reporting Box Office Data. Why Is It Starting with ‘La Bola Negra’?",
+      "description": "The streamer's awards hopeful is a test balloon — opening in limited release on four screens this weekend — before it really tries to make a splash with \"Cliff Booth\" and \"Narnia.\"",
+      "url": "https://www.indiewire.com/news/box-office/netflix-reporting-box-office-data-la-bola-negra-narnia-cliff-booth-1235221844/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
+      "publishedAt": "2026-10-14T22:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMTg3Ni8",
+      "title": "The Future of Cinema Is the Cinema Itself",
+      "description": "The co-founder of the Rockaway Film Festival on developing a new model for community cinema.",
+      "url": "https://www.indiewire.com/criticism/movies/cinema-deserts-rockaway-film-festival-sam-fleischner-1235221876/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-9.23.15-AM.png?w=650",
+      "publishedAt": "2026-10-14T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMjE4NjAv",
       "title": "Austin Film Society to Open New John H. McCall Theater with Screenings of ‘Paper Tiger,’ 4K Restorations",
@@ -37,6 +61,18 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-RyeS1uZXctdGFsZW50",
+      "title": "Jessie Buckley suggests film industry gives too much weight to Oscar campaigns",
+      "description": "The actor, who won the Academy Award for best actress this year, was speaking at the BFI and Chanel film-maker awards Jessie Buckley has questioned whether the film industry places too much emphasis on Oscar campaigns at the expense of nurturing emerging talent, suggesting there may be greater potential in supporting film-makers at grassroots level. Speaking at the BFI and Chanel film-maker awards in London, the actor was responding to comments by John Malkovich, who said Oscar campaigns were now the only way to get audiences into cinemas . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/jessie-buckley-film-industry-new-talent",
+      "image": "https://i.guim.co.uk/img/media/8097dc5190200b4804f99a58e487d5cdd7086da3/1475_103_1952_1562/master/1952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd62e8dfda64c21f5f27bff2f103268",
+      "publishedAt": "2026-10-14T17:38:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -184,30 +220,6 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMjE0Njgv",
-      "title": "The New ‘Sense and Sensibility’ Introduces a Different Marianne Dashwood, and a Breakout Star in Esmé Creed-Miles",
-      "description": "Part punk-rock, part wild child, all heart, Creed-Miles brings new life to the lovesick middle sister in Georgia Oakley's stunning new take on the Jane Austen classic. The actress who plays her? She's just as special.",
-      "url": "https://www.indiewire.com/features/interviews/sense-and-sensibility-movie-star-esme-creed-miles-interview-1235221468/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2298526347.jpg?w=650",
-      "publishedAt": "2026-10-14T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjIxNzk2Lw",
-      "title": "‘Cameron Winter at Carnegie Hall’ Trailer: Paul Thomas Anderson Films the Geese Frontman in 35mm",
-      "description": "The concert film will screen across the country as part of a roadshow beginning on November 20.",
-      "url": "https://www.indiewire.com/news/trailers/cameron-winter-at-carnegie-hall-trailer-1235221796/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/12cul-cameron-winter-2-videoSixteenByNine3000.webp?w=650",
-      "publishedAt": "2026-10-14T13:01:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-C13YXItdGhyaWxsZXI",
       "title": "Winter of the Crow review – Lesley Manville magnificently on edge in intriguing cold war thriller",
       "description": "Manville’s academic psychologist finds herself trapped in a tower block wasteland in 1980s Warsaw. Bizarre and surreal details add to the sinister vibe Part cold war thriller, part Kafkaesque reverie, this movie takes us back to the sinister drear of Poland in 1981, when General Jaruzelski has just introduced martial law in reaction to the dangerous new mood of freedom occasioned by the Solidarity trade unions. The director is Kasia Adamik, daughter of The Green Border’s Agnieszka Holland; the film is adapted from a story by Olga Tokarczuk, called Professor Andrews Goes to Warsaw. Lesley Manville plays Professor Andrews, an academic clinical psychologist (like Tokarczuk) from Britain with testy, peremptory mannerisms; her indulgence is a fondness for taking Polaroid photos. She has attained a certain level of celebrity for a book on dreams, despite claiming that she never dreams herself. Andrews has been invited to give a lecture in Warsaw, during which she begins to outline views on mental illness not unlike those of Laing or Foucault; but her speech is chaotically disrupted by students shouting that Poland itself is an oppressive asylum. Continue reading...",
@@ -278,18 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-W4tcm9nZXItYWxsYW0",
-      "title": "Frank and Percy review – bromance becomes romance for dog walkers Ian McKellen and Roger Allam",
-      "description": "London film festival McKellen and Allam reprise their roles for the film version of Ben Weatherill’s play in a star-filled bittersweet comedy about finding love later in life There is a tender sweetness to this silver-years romance of new experiences and new ideas – and also some sugary sentimentality, an autumnal woodwind score telling us how to feel, and a bit of sitcom-cartoony characterisation in the all-star gallery of supporting turns. Sometimes that works and sometimes it doesn’t. But the movie’s easy-going good nature wins out – and there’s a terrific contribution from Joanna Lumley, playing Belinda, an elegant woman poignantly suffering from early onset dementia. Screenwriter Martin Sherman adapts the two-hander stage-play by Ben Weatherill in which Roger Allam and Ian McKellen originally starred. They return here for the expanded movie version and Sean Mathias once again directs. Allam plays Frank, a retired history teacher whose wife died of cancer a few short years ago (Belinda is his sister-in-law) and who now likes to walk his dog Toffee on Hampstead Heath. McKellen is Percy, an academic sociologist and climate scientist who can be found there too, with his dog Bruno. Percy is rather acrimoniously separated from his now ex-partner, a waspish and querulously self-pitying figure gamely played by Stephen Fry. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/13/frank-and-percy-review-bromance-becomes-romance-for-two-dog-walkers-ian-mckellen-roger-allam",
-      "image": "https://i.guim.co.uk/img/media/7cb944b82f301a05f383144d4fc168866ab33382/474_0_5525_4421/master/5525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=d1e58e701787929a97c85a8905fbe3b8",
-      "publishedAt": "2026-10-13T20:05:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-bGFpbi1jbGF5ZmFjZQ",
