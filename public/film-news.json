@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:00:26.563Z",
+  "generatedAt": "2026-10-15T12:44:41.840Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-JtYW5jZXMtcmFua2Vk",
+      "title": "Your full attention: Jesse Eisenberg’s 10 best film performances – ranked!",
+      "description": "As his new movie The Debut closes the London film festival, we count down the best of the actor’s shy, sly and sometimes hairy outings A doppelganger role can be a trap for an actor: either the two roles are not sufficiently distinct, or they are too hammily different, and either way the result can look like a film school graduation project. But Jesse Eisenberg gives a stylish split-personality turn in Richard Ayoade’s adaptation of the Dostoevsky novella. He plays Simon, a nerdily shy and self-effacing computer programmer in a grim futureworld, ignored by his employers and by co-worker Hannah (Mia Wasikowska), with whom he is hopelessly in love. But then his carbon copy, James, arrives, also of course played by Eisenberg. James is a confident alpha-achiever who impresses his bosses and entrances Hannah – to Simon’s gibbering despair. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked",
+      "image": "https://i.guim.co.uk/img/media/e1d5e89cc416800ddeac122dbb6aca0f7b85947a/806_0_4099_3280/master/4099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1035a328b268938f1eabd33455d8d31",
+      "publishedAt": "2026-10-15T11:00:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-x5LXJhY2lzdC1wYXN0",
+      "title": "Rebellion review – story of Bradford 12 revisits Britain’s ugly racist past",
+      "description": "Ken Fero and Tariq Mehmood’s documentary recalls the fight against racism in 1980s Britain – even if its account of solidarity has a notable omission This fierce film from socialist film-makers Ken Fero and Tariq Mehmood gives us the story and the context of the Bradford 12. Twelve south Asian members of the United Black Youth League in 1981 were arrested on a charge of conspiracy to cause explosions for possessing dozens of molotov cocktails – milk bottles filled with petrol, with a rag through the lid – allegedly for throwing at the police. To the intense irritation of the British authorities, a mixed-race jury acquitted them, accepting their argument that it was in self-defence (and that the items themselves were closer to fireworks than bombs), because black and Asian communities were routinely and systematically attacked by skinheads and racists whose activities were shrugged at by the powers that be. It is a reminder of a particularly ugly, squalid, bigoted and mediocre era in British public life, when Margaret Thatcher, just before becoming prime minister, tried to siphon off some of the far-right National Front’s political energy by declaring that people felt “swamped” by immigrants, the most earsplittingly loud dog whistle in Tory history. It was also the era when anti-racist protester Blair Peach was killed by the Met’s yet-to-be-disbanded special patrol group, when the still-unsolved New Cross fire in London took the lives of 13 young black people, when the south Asian woman Anwar Ditta was subject to a spitefully obstructive move from the Home Office to prevent her bringing her children into the UK – supposedly because they weren’t really hers, though a DNA test finally proved her right. Perhaps most of all, it was an era when the witness-box testimony of uniformed police officers was increasingly seen as almost valueless in these cases; the film also reminds us how culpably lackadaisical and incompetent the Yorkshire police were in catching the serial killer Peter Sutcliffe. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/rebellion-review-story-of-bradford-12-revisits-britains-ugly-racist-past",
+      "image": "https://i.guim.co.uk/img/media/fc19fc7437d97204adffd62b8b319c15887bae14/58_36_1385_1108/master/1385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1d4b30da825a78271be63817ab6e0b0a",
+      "publishedAt": "2026-10-15T10:08:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LXJldmlldy1tb3ZpZQ",
+      "title": "Whalefall review – slimy survival thriller traps us in a whale and struggles to make it digestible",
+      "description": "Austin Abrams gets eaten by a sperm whale in an overlong and flashback-heavy adaptation of Daniel Kraus’s hit novel that only has us on edge in moments Spare a thought for poor Austin Abrams, who, having just endured the world’s worst, and gloopiest, courier assignment in Resident Evil , has now been trapped inside a sperm whale … The immensely likable Euphoria alum (has any show in recent memory provided quite as many genuine stars?) brings what he can to Brian Duffield’s rather soggy adaptation of Pulitzer prize-winner Daniel Kraus’s acclaimed novel Whalefall. But there’s not a great deal he can do, despite being in every scene of what’s his second studio lead in a month, other than scream and writhe and look understandably alarmed. It’s a setup that’s grabby enough to have us wonder just how the hell it’s going to play out (what if that one scene in Finding Nemo but a whole movie) but it just doesn’t work as a 106-minute adventure, too overstretched and too silly to have us rooting for his escape and caring how he might orchestrate it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/whalefall-review-movie",
+      "image": "https://i.guim.co.uk/img/media/c2aa59eba84057a90212990559096c72e47c531c/729_0_2517_2015/master/2517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=0d3bbb6f715cb77821d7ab20e4d9c6f8",
+      "publishedAt": "2026-10-15T09:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-NlbnRlbmFyeS1tdWJp",
+      "title": "Faust review – FW Murnau’s silent masterpiece is a devilishly dazzling vision",
+      "description": "The 1926 film of Goethe’s tragic tale of a man who sells his soul to the devil remains a spectacular feat of German expressionism The centenary of FW Murnau’s silent fantasy-melodrama from 1926 is the occasion to ponder this mysterious film, taken from Goethe’s 19th-century depiction of the alchemist and natural philosopher who sells his soul to the devil but, in a very high-minded climax of German romanticism, is redeemed by love. (Not love of God precisely, but love of a good woman; the word “Liebe” finally appears at the centre of Murnau’s radiating vision of concentric circles conjured by the heavens, which annul his debt to the Evil One.) It is therefore very different from Christopher Marlowe’s scarier and more unforgiving account of Doctor Faustus. Murnau’s Faust is (obviously) concerned with and animated by evil, and there are echoes of his Nosferatu , made four years previously. In this film, Faust, having struck his bargain on a provisional 24-hour basis with Mephisto, finds that he is scared of a crucifix, like a vampire. It is also very much a film of Weimar Germany with its mad energy and streaks of garish satire and black comedy; the book-burning scene in which Faust immolates all his necromancy volumes, along with the Bible, is one which resonated with later events. (Perhaps it indirectly inspired Klaus Mann’s novel Mephisto, later to be filmed by István Szabó .) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/faust-review-centenary-mubi",
+      "image": "https://i.guim.co.uk/img/media/17a235db63b649946ba2fe75b8e2e82b944528e8/0_0_2609_2088/master/2609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c2fcb47b1f655c007be2e0f583ea524b",
+      "publishedAt": "2026-10-15T08:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dC1hbm51YWwtbG9zcw",
+      "title": "Wallace & Gromit maker Aardman falls short of return to profit",
+      "description": "Animation studio narrows annual loss to £1.1m amid ‘challenging market’ in children’s content Don’t break out the celebratory Wensleydale just yet. Aardman, the British animation studio behind the cheese-loving inventor Wallace and his beloved dog Gromit, has fallen short of a target to get back in the black, its accounts show. The employee-owned business was aiming to record a small profit in 2025 after two years of consecutive losses but was hit by production delays and a “challenging market” in children’s content. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
+      "image": "https://i.guim.co.uk/img/media/33bbfebcf9f323eb8cede9265dfbe7e11dbb071a/490_0_4079_3264/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c540a3dc362203b491cbd265430c4dd",
+      "publishedAt": "2026-10-15T07:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-HluY2hpYW4tZHJhbWE",
+      "title": "By Design review – Juliette Lewis turns into a chair in hypnotic Lynchian drama",
+      "description": "A musician becomes obsessed with the haunted seat, but the potentially hilarious premise sleepwalks its way to an unsatisfying conclusion The indie indulgences of US film-maker Amanda Kramer – which often contain big names making small appearances – are such a puzzle; sometimes they work, sometimes they don’t. I enjoyed her weird reverie about an imaginary 80s TV special, called Give Me Pity! , but not so much the 1950s-camp daydream Please Baby Please , with Andrea Riseborough. Now she gives us a film with a toweringly strange and potentially hilarious premise, on which the result does not in any way deliver. Yet there are moments of interest in the dreamy Lynchian drift that causes Kramer’s films to float away from the audience. By Design is an all but unbearable absurdist drama. The actors deliver halting dialogue as if in a hypnotic trance, paralysed by the film’s heavy conceit: Juliette Lewis plays a depressed single woman who turns into a chair. The scene seems set for some entertaining hijinks with visual effects, in which Lewis and the chair merge. But no – not really. What in fact happens is that Lewis’s own body is supposedly robbed of its animating identity or spirit, which migrates into the chair while she becomes catatonic, a body flopped down on the bed. The chair itself doesn’t look or behave in any way differently. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/by-design-review-juliette-lewis-turns-into-a-chair-in-hypnotic-lynchian-drama",
+      "image": "https://i.guim.co.uk/img/media/83f571715a45235fc264b75fabd65fc94eca21f7/207_0_1298_1038/master/1298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=5148b3716796003b778e9201df1daa58",
+      "publishedAt": "2026-10-15T06:00:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XJkLWJpcm1pbmdoYW0",
+      "title": "‘To succeed meant to leave’: inside the jolting film about Brummie estate kids knocked flying by demolition",
+      "description": "The novel had no hero, no dialogue and little action. So how was I See Buildings Fall Like Lightning turned into such a funny, rousing and acclaimed film? Director Clio Barnard reveals all As a kid in 90s Birmingham, Keiran Goddard would gather with his friends to watch the tower blocks coming down. That’s what passed for entertainment back then. Controlled explosions, collapsing buildings. The demolition of the city’s postwar council estates marked the end of one story and the start of another. It was a dust-blown display of regeneration and progress. The housing that replaced it would be an improvement. The people of east Birmingham would move on to better lives. Goddard, specifically, moved on to study English at Oxford University. He now lives in London and writes books for a living. Physically, he has left his home town far behind. Emotionally and spiritually, not so much. “So I feel quite splintered,” he says. “I’m not sure anyone ever really leaves the world they grew up in.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/i-see-buildings-fall-like-lightning-clio-barnard-keiran-goddard-birmingham",
+      "image": "https://i.guim.co.uk/img/media/e1a1f1f98b10a64411ba0fc073c17ecbe948be05/1262_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33906f948fa3dbc810ff82eeb3f9f865",
+      "publishedAt": "2026-10-15T04:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-RoLTEyMzUyMjE4NDQv",
       "title": "Netflix Is Finally Reporting Box Office Data. Why Is It Starting with ‘La Bola Negra’?",
@@ -68,7 +152,7 @@
       "title": "Jessie Buckley suggests film industry gives too much weight to Oscar campaigns",
       "description": "The actor, who won the Academy Award for best actress this year, was speaking at the BFI and Chanel film-maker awards Jessie Buckley has questioned whether the film industry places too much emphasis on Oscar campaigns at the expense of nurturing emerging talent, suggesting there may be greater potential in supporting film-makers at grassroots level. Speaking at the BFI and Chanel film-maker awards in London, the actor was responding to comments by John Malkovich, who said Oscar campaigns were now the only way to get audiences into cinemas . Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/14/jessie-buckley-film-industry-new-talent",
-      "image": "https://i.guim.co.uk/img/media/8097dc5190200b4804f99a58e487d5cdd7086da3/1475_103_1952_1562/master/1952.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7bd62e8dfda64c21f5f27bff2f103268",
+      "image": "https://i.guim.co.uk/img/media/23c2b3ebae9095149684fc5e62bc82ccb2dd5ad0/369_40_3128_2503/master/3128.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99a84fa6951eeba9f649196efbd6d2b6",
       "publishedAt": "2026-10-14T17:38:55.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -184,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ItZGllcy1hZ2VkLTc0",
-      "title": "Gary Waddell dies aged 74: the brilliant Australian actor who turned small roles into great ones",
-      "description": "Waddell appeared in countless films and TV shows, often as rough-as-guts characters, though he was rarely given the screen time he deserved The great Australian actor Gary Waddell – known for his gooseflesh-raising ability to portray rough-as-guts characters so real you swear you’ve met them before – has died aged 74. Waddell was a fixture of the Australian film and TV industry for decades, bursting on to the scene, bleary-eyed and angsty in Bert Deling’s cult classic drug drama Pure Shit , a production so notorious that its first public screening, in 1976, was raided by the vice squad. This legitimately great film – the best ever made about heroin addiction and subculture in Australia – was famously described as “the most evil film I’ve ever seen” by Melbourne Herald critic Andrew McKay (an example of hysterical overreach if ever there was one, although, as they say, those were different times). It remains a thrilling piece of social realist cinema, full of drug-taking, petty crime and tomfoolery, with the story revolving around Waddell’s character Lou, who arrives five minutes in, grousing about how he “hasn’t had a hit for 10 hours”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/gary-waddell-death-australian-actor-dies-aged-74",
-      "image": "https://i.guim.co.uk/img/media/b2de0c5028aed2438e72e5b920392e7b9b7b9a8b/270_0_1333_1066/master/1333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=336035965a19875cd1867fde8c69bcfc",
-      "publishedAt": "2026-10-14T14:00:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "indiewire-aS0xMjM1MjIwODQwLw",
       "title": "How to Build a ‘Friday the 13th’ Prequel: Blood Bags, Old-School Paranoia, and Linda Cardellini as Pamela Voorhees",
       "description": "Star Cardellini and showrunner Brad Caleb Kane scare up a hell of a good \"Friday the 13th\" prequel. They tell IndieWire how '70s paranoia, their own horror proclivities, and Don Knotts (yes, Don Knotts) turn the story of Pamela Voorhees into something truly juicy.",
@@ -220,54 +292,6 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-C13YXItdGhyaWxsZXI",
-      "title": "Winter of the Crow review – Lesley Manville magnificently on edge in intriguing cold war thriller",
-      "description": "Manville’s academic psychologist finds herself trapped in a tower block wasteland in 1980s Warsaw. Bizarre and surreal details add to the sinister vibe Part cold war thriller, part Kafkaesque reverie, this movie takes us back to the sinister drear of Poland in 1981, when General Jaruzelski has just introduced martial law in reaction to the dangerous new mood of freedom occasioned by the Solidarity trade unions. The director is Kasia Adamik, daughter of The Green Border’s Agnieszka Holland; the film is adapted from a story by Olga Tokarczuk, called Professor Andrews Goes to Warsaw. Lesley Manville plays Professor Andrews, an academic clinical psychologist (like Tokarczuk) from Britain with testy, peremptory mannerisms; her indulgence is a fondness for taking Polaroid photos. She has attained a certain level of celebrity for a book on dreams, despite claiming that she never dreams herself. Andrews has been invited to give a lecture in Warsaw, during which she begins to outline views on mental illness not unlike those of Laing or Foucault; but her speech is chaotically disrupted by students shouting that Poland itself is an oppressive asylum. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/winter-of-the-crow-review-lesley-manville-cold-war-thriller",
-      "image": "https://i.guim.co.uk/img/media/a11c4d7e1547d038f6f5dbcb971ebc773eecac47/264_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=eb778efd546de8614fbd3b4974b7657d",
-      "publishedAt": "2026-10-14T12:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-EtYmFyYmFyYS1tb3Jp",
-      "title": "Mistura review – ice queen brings Peruvian culinary drama to a gentle simmer",
-      "description": "Bárbara Mori stars in tepid tale of a high-society wife who opens a restaurant in her home after her husband leaves her What you expect from a film about a fancy high-end restaurant is a certain amount of heat: the roiling intensity of staff pushed to their absolute limits in the pursuit of gastronomic perfection. But this 1960s-set Peruvian drama instead maintains a gentle simmer, sedate and elegant. Perhaps it’s too elegant given the circumstances of its chef-proprietor, a high-society trophy wife with no catering experience who makes a high-stakes gamble on opening a successful restaurant. Bárbara Mori is Norma, a glacial beauty who cultivates a kind of Jackie Onassis chic: huge sunglasses, massive blow-dry, makeup thickly applied like armour. One night, Norma’s husband humiliatingly leaves her for a beauty queen. You’d be sympathetic if Norma wasn’t so foul to the staff, lashing out at housekeeper Rosa (Hermelinda Luján) and chauffeur Oscar (Cesar Ballumbrosio). It’s Oscar (who is a bit in love with Norma) who suggests she opens a restaurant in the house to pay the mortgage. Norma’s father was the French ambassador to Peru, and she has picked up his passion for gastronomy. Although the script is a bit inconsistent on this, since Oscar also says he’s never seen her so much as light the oven. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/mistura-review-peruvian-drama-barbara-mori",
-      "image": "https://i.guim.co.uk/img/media/6721381190a451e279cf8023989b534d064ca03e/1371_0_2011_1610/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=711a825b4ea87b6d4856488c1b004742",
-      "publishedAt": "2026-10-14T10:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1kYW1uZWQtcmV2aWV3",
-      "title": "Wuthering Heights: The House of the Damned review – Brontë horror do-over is part Dracula, part Jeeves and Wooster",
-      "description": "Emily Brontë’s classic is reimagined with extra stranglings, slashings and pitchfork impalings but plays it straight Where pornography once trod, horror has now become the genre that infiltrates and apes all others. With a host of out-of-copyright cartoon characters recently grave-robbed for not-so-fresh IP, now classic literature is apparently fair game for a gruesome glow-up, in this case, Emily Brontë’s regular GCSE-botherer. But Becca Hirani’s laboured reworking makes the book’s gothic subtext crashingly, jugular-spurtingly textual. As in the novel, wide-eyed Mr Lockwood (Ross Townsend-Green) pays a courtesy call to his brooding landlord Heathcliff (Sky Cheema) at Wuthering Heights. But this time, his sojourn is more like Jonathan Harker’s at Dracula’s castle; everywhere he turns, the shrouded phantom of Heathcliff’s beloved Catherine Earnshaw (Elle O’Hara) is lurking, and she leaves an extra dollop of gore on the windowsill in her famous nocturnal apparition. The tetchy host doesn’t do much to put Lockwood at ease – even before he’s trapped in the house by a bubo-inflicting malady. Between the hallucinations, the surly servants, and the weird absence of Heathcliff’s rumoured son Linton, he begins freaking out that it’s a different kind of moors story he’s stumbled into. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/wuthering-heights-the-house-of-the-damned-review",
-      "image": "https://i.guim.co.uk/img/media/0e623eeedfd38e65f6b556f811727604df1c8c69/813_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e8033834a41cac5bf4338c621097d8b7",
-      "publishedAt": "2026-10-14T08:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-VoaXN0b3JpYy1wYWxz",
-      "title": "Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals",
-      "description": "The pair’s first feature-length adventure stars Jemaine Clement and Olivia Tennet, has a dreamy soundtrack and beautiful stop-motion visuals – fantastic family fun Kiri is a lively yellow dinosaur, Lou is an amiable purple palorchecie (a fictional beast, vaguely resembling a palorchestes , which in turn vaguely resembles a giant tapir) – and if you’ve been watching their CBeebies show, which hails from New Zealand and consists of 5-minute episodes, you’ll know they’re the best of friends despite their ingrained temperamental differences. But how did they become friends in the first place? For the uninitiated, Kiri and Lou Go Raaa! functions as an introduction to the characters and their world, while for fans it’s a delightful origin story. At only one hour long, the runtime is toddler-friendly – and to be honest, there are plenty of films marketed at adults that could learn a lesson from writer-director Harry Sinclair’s economical storytelling. (Sinclair is also the writer of the TV series, alongside Buffy the Vampire Slayer writing alum Rebecca Kirshner.) With the voice acting talents of Olivia Tennet (Freda in Lord of the Rings: The Two Towers) and Jemaine Clement (Flight of the Conchords), plus dreamy songs from Don McGlashan (Blam Blam Blam, The Front Lawn), Kiri and Lou Go Raaa! would arguably work superbly as an audiobook or radio show – except the visuals are a treat too. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals",
-      "image": "https://i.guim.co.uk/img/media/f1a7b9ab5cf3fa6e9528d1266ff3b79152757592/1640_0_4216_3375/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=712ca552123a1a3475cc9e4913f75223",
-      "publishedAt": "2026-10-14T06:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
       "description": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
@@ -290,6 +314,18 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-C1ncmV0YS1nZXJ3aWc",
+      "title": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
+      "description": "The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep The first look at Greta Gerwig ’s vision for Narnia has been revealed. Today, Netflix is giving a first look at her vision for CS Lewis ’s magical world in the trailer for The Magician’s Nephew, the first chronological book in the beloved series. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+      "image": "https://i.guim.co.uk/img/media/8f452e396aa5a6050832a7355929b693ba7ecdca/291_0_1397_1118/master/1397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e0dee5c0cd296fed7ed0816425d32fb",
+      "publishedAt": "2026-10-13T19:10:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
     },
     {
       "id": "guardian-bGFpbi1jbGF5ZmFjZQ",
@@ -346,30 +382,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
       "image": "https://i.guim.co.uk/img/media/d51e0f13cf21bb86e155f663d02852d880522a13/257_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c3d231d088cde45aa2f7a96586920b4",
       "publishedAt": "2026-10-12T14:38:44.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-N1bWVudGFyeS1maWxt",
-      "title": "NAZA: Netanyahu orders identification and prosecution of film’s interviewees",
-      "description": "Israeli PM calls for criminal investigation into soldiers and officers interviewed in Guardian-produced documentary The Israeli prime minister, Benjamin Netanyahu, has ordered the country’s attorney general and the head of the Shin Bet security service to reveal the identities of soldiers and officers interviewed in the investigative documentary NAZA and prosecute them for causing “harm to Israel’s diplomatic and security interests”. The award-winning documentary, directed by the Oscar-winning film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, details Israel’s mass killing of civilians in Gaza. The film is in cinemas, including in the UK and the US, and will be shown in more than 50 countries. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/193_87_2503_2002/master/2503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=977e877c24d7fd427e45352c93dd101c",
-      "publishedAt": "2026-10-12T12:59:56.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZmaWNlLWNvbGxhcHNl",
-      "title": "Digger on course for $245m loss after box office collapse",
-      "description": "Estimates suggest the eco satire starring Tom Cruise could join the list of top turkeys, including Cutthroat Island and The Marvels Digger, the ambitious eco-fable starring Tom Cruise and directed by Alejandro G Iñárritu, is heading for an even worse financial outcome than previously thought , with reports suggesting it will lose around $245m (£185m), placing it among the biggest disasters in movie history. According to a report in Variety , Digger’s estimated second weekend revenue in North America of $3.2m is a 60% drop on its opening weekend figure of $8m, meaning its current domestic gross is $14.4m, for a global total of $35.3m , with a projected final box office total of around $50m worldwide. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/12/digger-loss-245m-box-office-collapse",
-      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/277_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49d544846c2fa77ee64eb4e6779b8a3c",
-      "publishedAt": "2026-10-12T12:51:04.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -436,18 +448,6 @@
       "category": "Classics"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
-      "description": "The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent.",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/149b/live/cca20820-c271-11f1-b278-615cdfb74f16.jpg",
-      "publishedAt": "2026-10-08T11:09:34.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-y13aWxsLWZlcnJlbGw",
       "title": "Can Ali G: Who Iz I? save character comedy cinema?",
       "description": "Sacha Baron Cohen’s new film risks being outdated in a more rancorous era. But could it restore the personality-driven genre to big screens or end it altogether? For a man whose campaign slogan was once “Keep it real”, Ali G has his work cut out in the reality of 2026. The big dog of Da West Staines Massiv was the character with whom Sacha Baron Cohen carved out his own niche of gonzo-gotcha comedy in the late 1990s – and now he’s back with new film, Ali G: Who Iz I? But it’s unclear if his great creation has gone sufficiently fallow in the collective consciousness to still operate well in real-life situations, the kind of lethal idiot who once pitched Donald Trump anti-drip ice-cream gloves. And more critically, is the Ali G satirical project – which poked at 90s multicultural mores – still relevant and funny in far more rancorous times? It’s not just Baron Cohen’s career as an undercover operative that’s on the line. It’s the future of character-led comedy as a going concern, now that he seems to be the last man standing in this once-noble tradition – in cinemas, at least. To be clear, character comedy isn’t merely comedy with characters; it’s comedy filtered through a central persona that overlaps with the comedian playing it and whose subversive sensibility colours the entire work. Continue reading...",
@@ -470,18 +470,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-ZC1tYXN0ZXJwaWVjZQ",
-      "title": "Tom Cruise’s Digger has flopped spectacularly – but I think it is a misunderstood masterpiece",
-      "description": "Alejandro G Iñárritu’s film may be about to become one of the biggest bombs Hollywood has ever seen – but it is destined to be re-evaluated with time This article contains spoilers for Digger I feel for film critics, I really do. Tom Cruise’s latest film Digger put them in an impossible position: you can’t really talk about it without spoiling what makes it, in my eyes, a masterpiece. Or completely terrible – as many, many critics have argued over the last week, without being fully free to say why. That is not their fault: media screenings around the world opened with a plea from Warner Bros to not spoil the film’s central reveal . This seems like it may have been a misstep, because curiosity and Cruise alone were clearly not enough to get bums on seats. Digger is now projected to lose around $150m , after taking a paltry $20m globally in its opening weekend. Warner Bros is trying to make the best of a bad situation, first crowing about the stinker reviews – “insufferable” and “smug” have been repeated a lot – then pivoting to a new sell: the Yanks don’t get it, so it must be good . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/05/digger-tom-cruise-movie-box-office-critics-reviews-misunderstood-masterpiece",
-      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8d0b616d65b1c992994ea6944785cbe3",
-      "publishedAt": "2026-10-05T04:39:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-b24tZHJlYW13b3Jrcw",
