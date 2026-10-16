@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T12:43:51.386Z",
+  "generatedAt": "2026-10-16T18:37:07.499Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -16,8 +16,116 @@
   },
   "articles": [
     {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold So Far: Niki Byrne’s Chase Infiniti-Starring College Drama ‘The Julia Set’ Goes to SPC",
+      "description": "Infiniti stars in the TIFF premiere as a math genius whose future is threatened by an overbearing (and academically jealous) new love interest.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/THE-JULIA-SET.jpg?w=650",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIyMjI1OS8",
+      "title": "The Costumes of ‘Sense and Sensibility’ Are a Love Letter to Stealing Your Sister’s Clothes",
+      "description": "Costume designer Grace Snell tells IndieWire about the modern and timeless influences that shaped the Dashwood family's wardrobe.",
+      "url": "https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSEAN_UC011.jpg?w=650",
+      "publishedAt": "2026-10-16T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjI0MDkv",
+      "title": "Alex Gibney on How AI Helped Simulate the Elon Musk Interview He Could Never Get",
+      "description": "The Oscar-winning documentary filmmaker joins IndieWire's \"Screen Talk\" podcast to discuss his \"Musk,\" who the film had to leave out, and how the production team simulated an interview with the uber-wealthy tech bro.",
+      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+      "publishedAt": "2026-10-16T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-a2F6dS1rb3JlLWVkYQ",
+      "title": "Look Back review – Kore-eda’s ode to friendship, manga and artistic success",
+      "description": "Two obsessive artists team up to achieve their dreams, but then their aspirations diverge Hirokazu Kore-eda’s sad and beautiful film is about friendship, about the ecstasy and burden of success and about what it means to have an artistic vocation, especially when that vocation is pursued collaboratively, with your best friend. It is adapted by Kore-eda from the standalone, or “one-shot”, online manga story of the same title by Tatsuki Fujimoto, which has in fact already had an anime movie adaptation. Fujino, played by Furi Nanase as a 13-year-old and later by Natsuki Deguchi, is a dedicated would-be manga artist who dreams of being published and adapted for the movies. It is her personal and artistic destiny to come into contact, in her early teens, with fellow manga obsessive Kyomoto, who is played first by Rokka Okada and then as an adult by Aju Makita. Theirs is a kind of platonic but passionate love story. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda",
+      "image": "https://i.guim.co.uk/img/media/c42413af9c22d220ec387331546155c96bdc43c7/124_0_849_679/master/849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=59d54ce076a647479762a7dd295ab508",
+      "publishedAt": "2026-10-16T16:50:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-3ktMTIzNTIyMjE4NS8",
+      "title": "Is Meme Casting a Viable Hollywood Marketing Strategy?",
+      "description": "Paramount's new \"Street Fighter\" reboot is generating as much hype for its eclectic cast as its IP. Its box-office success might be a case study in marketing through WTF casting.",
+      "url": "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DSC7490R.jpg?w=650",
+      "publishedAt": "2026-10-16T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JnLTEyMzUyMjIzNDUv",
+      "title": "As the Major Fall Film Festivals Wrap, the Oscar Race Goes Regional",
+      "description": "Regional festivals, like the just-opened Middleburg Film Festival, attract top awards contenders — and the pundits who cover them.",
+      "url": "https://www.indiewire.com/news/festivals/2026-fall-film-fests-regional-middleburg-1235222345/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY01-ThursOCT15_TheDebut_0092-e1792168761963.jpg?w=650",
+      "publishedAt": "2026-10-16T15:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIyMzg1Lw",
+      "title": "‘You Can See Everything,’ A24’s Elizabeth Holmes Documentary, Scores an Impressive $1.75 Million in Thursday Previews",
+      "description": "Nathan Fielder and Lance Oppeheim's look at the Theranos founder appears to be resonating with audiences as it looks at a $7 million to $8 million opening.",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-elizabeth-holmes-previews-gross-1235222385/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDYOCA_EC124.jpg?w=650",
+      "publishedAt": "2026-10-16T15:04:29.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjIyMzQ5Lw",
+      "title": "A Forgotten Richard Gere Vehicle from His Peak Era Is Back in Circulation",
+      "description": "\"The Honorary Consul\" ended the actor's hot streak at the box office in 1983 and vanished into obscurity, but a new physical media collection devoted to its director reveals it to be worthy of reappraisal.",
+      "url": "https://www.indiewire.com/features/commentary/richard-gere-the-honorary-consul-revisited-1235222349/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/M8DBETH_EC022.jpg?w=650",
+      "publishedAt": "2026-10-16T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyMjIyMS8",
+      "title": "‘Street Fighter’ Filmmaker Kitao Sakurai Built His Video Game Movie on Both Jolt Cola and Robert Altman Films",
+      "description": "The filmmaker tells IndieWire he wanted to bring both his love of the \"tonally weird and strange\" and the energy of a good Altman ensemble to his off-kilter video game adaptation.",
+      "url": "https://www.indiewire.com/features/interviews/street-fighter-filmmaker-kitao-sakurai-altman-interview-1235222221/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299922919.jpg?w=650",
+      "publishedAt": "2026-10-16T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-XNpbGVuY2UtbGFtYnM",
-      "title": "An open book: how make a great film adaptation, from The Shining to Trainspotting",
+      "title": "An open book: how to make a great film adaptation, from The Shining to Trainspotting",
       "description": "Not every great novel makes a great movie, and sometimes the opposite is true. But regardless of the source text, or how beloved characters are treated, there is more than one way to write a successful adaptation It is always fun to join in a craze, like a Victorian going mad for penny farthings. Which is probably why, against my better judgment, I&nbsp;went to see Christopher Nolan’s blockbuster The Odyssey this summer, buying my ticket into the popular conversation along with everyone else. This year’s other divisive adaptation, Emerald Fennell’s Wuthering Heights, had the world and&nbsp;his wife arguing about it before they had even watched the film. No&nbsp;doubt the makers of the recent Sense and Sensibility movie were also hoping for lots of&nbsp;people to go and see it to discover whether they hated it. After all, very few of us leave the cinema saying: “That’s exactly how I&nbsp;pictured it in my head.” Or even less&nbsp;likely: “That was better than the&nbsp;book.” We’re more likely to shake&nbsp;our fists at how they ruined the&nbsp;ending, dumbed it down, unforgivably cast somebody with the&nbsp;wrong hair, or betrayed a beloved&nbsp;character, as with last year’s Thursday Murder Club debacle. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/16/book-film-adaptations-shining-trainspotting-bridget-jones-godfather-clockwork-orange-silence-lambs",
       "image": "https://i.guim.co.uk/img/media/992cc840835cab82713bd4e3fa44356fb89e57b5/666_1069_3103_2482/master/3103.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43c26b471ae019d17b3993f36e026bd5",
@@ -136,90 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dC0xMjM1MjIyMTc1Lw",
-      "title": "‘La Gradiva’ Director Marine Atlan Is the Major New Voice Behind the Most Immersive Teen Drama Since ‘Kids’",
-      "description": "Coming-of-age and shattered innocence collide in this fall's Cannes Critics' Week winner from 1-2 Special. Writer/director/cinematographer Marine Atlan walks IndieWire through street-casting a Pompeii-set high-school drama for the ages.",
-      "url": "https://www.indiewire.com/features/interviews/how-la-gradiva-teen-drama-became-festival-hit-1235222175/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/3_LA-GRADIVA_STILLS_SUZANNE-c-Films-du-poisson-Bibi-Film-TV-Arte-France-Cinema.jpg?w=650",
-      "publishedAt": "2026-10-15T21:35:45.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-2F6dW8taXNoaWd1cm8",
-      "title": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "description": "The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futurism and non-satire, adapted by Waititi from the Kazuo Ishiguro novel, which winds up saying nothing substantial or meaningful (or funny) about artificial intelligence, love or grief. Klara and the Sun is soft-centred sci-fi-lite, simultaneously demanding we laugh at its (unfunny) humour and wipe away a tear at its pass-agg poignancy. With earlier films like Hunt for the Wilderpeople and Thor: Ragnarok, Waititi showed he can do comedy. But this, sadly, is closer to his notorious fey-Hitler fantasy Jojo Rabbit – misjudged and self-admiring. In the world to come in an uncanny valley of the almost-real, families can buy “artificial friend” or AF robots for their kids. In terms of tech plausibility overall, incidentally, their status isn’t entirely clear: AF salesperson (Natasha Lyonne) says that the recent third world war has wiped out the internet. (This post-WW3 world looks in pretty good shape apart from that.) And these AF humanoids incidentally have a kind of purple blood called PEC-9 running through them which one character incidentally tells us is “highly flammable”. (Uh-oh. Quite the design fault.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
-      "image": "https://i.guim.co.uk/img/media/f55061596ee9bbd917a6bb5a6f872bb89a19c8e4/532_0_2637_2110/master/2637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=7d0ebf7c0330302c859a6717a9bb8128",
-      "publishedAt": "2026-10-15T20:15:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyMjE5NC8",
-      "title": "Top Agencies and Producers Want Laws Forcing Studios to Devote Half Their Budgets to Indie TV and Movies",
-      "description": "The American Entertainment Alliance is pushing for regulation that would help return ownership of series and films back to their creators.",
-      "url": "https://www.indiewire.com/news/business/top-agencies-laws-make-studios-half-budget-indies-1235222194/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/06/agencies.jpg?w=650",
-      "publishedAt": "2026-10-15T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjA4MDU0Lw",
-      "title": "‘La Bola Negra’: Before Netflix’s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors",
-      "description": "\"Los Javis\" are still creating films together, even after their 13-year romance died. \"There's a political statement behind creating a big, bold, gay, period, epic drama,\" Javier Ambrossi told IndieWire.",
-      "url": "https://www.indiewire.com/features/interviews/netflix-la-bola-negra-gay-epic-breakup-filmmakers-interview-oscars-1235208054/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/P106HD91.jpg?w=650",
-      "publishedAt": "2026-10-15T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjIxOTgzLw",
-      "title": "How ‘The Diplomat’ Pulled Off Its Shocking Season 4 Premiere: ‘We Talked a Lot About How Quiet the [SPOILER] Is’",
-      "description": "Creator Debora Cahn tells IndieWire why she started the season with an event that would “reset the relationship between the U.S. and the U.K.,” and why the show has avoided the royal family.",
-      "url": "https://www.indiewire.com/features/interviews/the-diplomat-shocking-season-4-premiere-netflix-interview-1235221983/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DIPLO_401_Unit_04991RC.jpg?w=650",
-      "publishedAt": "2026-10-15T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-WQtMTIzNTIyMTk4Ni8",
-      "title": "‘The Diplomat’ Review: Season 4 Can’t Talk Its Way Out of One Bad Decision After Another",
-      "description": "From a desperate opening twist to a maddeningly subservient Kate Wyler ( Keri Russell ), the latest season of Debora Cahn's elevated chamber drama inadvertently dilutes its power by chasing more.",
-      "url": "https://www.indiewire.com/criticism/shows/the-diplomat-season-4-review-bad-1235221986/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Diplomat-Season-4-Keri-Russell-Netflix-series.jpg?w=650",
-      "publishedAt": "2026-10-15T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-2stMTIzNTIyMjExOC8",
-      "title": "Bleecker Street Acquired by Outerlight Entertainment, Formerly First Look",
-      "description": "CEO Kent Sanderson will continue to lead the indie distribution label independently.",
-      "url": "https://www.indiewire.com/news/breaking-news/bleecker-street-acquired-formerly-first-look-1235222118/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
-      "publishedAt": "2026-10-15T16:34:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
       "title": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
       "description": "There are brief, simple pleasures in the inevitable new big screen take on the classic game but like the recent Mortal Kombat movies, it’s a largely incoherent mess We just had Resident Evil , Zach Cregger’s giddy, nasty, devilishly fun spin on Capcom’s popular zombie franchise. It gave us renewed hope (after Sonic the Hedgehog, The Last of Us and Fallout) that video game adaptations could be good, actually. But now here comes Street Fighter, a garish and incoherent mess that amuses in fits and starts but barely improves on the Mortal Kombat movies before it, crushing those hopes in its atomic suplex. Continue reading...",
@@ -232,16 +256,28 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-I2LTEyMzUyMjE5ODEv",
-      "title": "‘Street Fighter’ Review: An Arcade Classic Gets a Messy, Maximalist Reboot Destined for Cult Status",
-      "description": "Kitao Sakurai directs an eclectic cast in a blockbuster that makes no sense but still entertains.",
-      "url": "https://www.indiewire.com/criticism/movies/street-fighter-movie-review-2026-1235221981/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/SF_FP_162R.jpg?w=650",
-      "publishedAt": "2026-10-15T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
+      "id": "guardian-mVuZXdhbC1zaWduZWQ",
+      "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
+      "description": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of closure has been staved off by signing a new 25-year lease with its landlords. In a post on social media titled “You Saved the PCC”, the cinema said that “after 21 months of uncertainty, we’re delighted to have secured the future of the cinema” and that they had “signed a new 25-year lease with no break clause, ensuring our projectors will keep rolling for years to come”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
+      "image": "https://i.guim.co.uk/img/media/7495541080b4c6446925030514e6a170674abb58/1026_0_5915_4732/master/5915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde2b6a67f321a99c982802eb3ff03da",
+      "publishedAt": "2026-10-15T15:20:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-nV6emllc3QtZmlsbXM",
+      "title": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
+      "description": "Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old director talks crime, punishment and South Park To direct one movie that is on everyone’s lips in awards season is remarkable. To make two begins to look like sorcery. That is the position in which the 30-year-old Florida-born film-maker Lance Oppenheim now finds himself. Next month brings the release of You Can See Everything, the three-hour documentary which he co-directed with faux-naif deadpan imp Nathan Fielder, in which they spend a month living with the disgraced health-tech mogul Elizabeth Holmes before she begins her 11-year prison sentence for fraud and conspiracy. The film, described by Oppenheim as “head-spinning” and so shrouded in secrecy that Variety magazine’s list of Oscar predictions identifies one of its cast members only as “[Redacted]”, is expected to become the first documentary nominated for best picture. When I meet Oppenheim in a London hotel, it is to discuss his other hot ticket, Primetime, for which Robert Pattinson is the one attracting Oscar buzz. The Batman actor gives a high-wire performance as Chris Hansen, the sensationalist US television vigilante renowned for ambushing paedophiles on To Catch a Predator, which was a disreputable and highly addictive segment of the current affairs show Dateline NBC between 2004 and 2007. Hansen later parlayed the idea, and his crusading shtick, into a succession of spin-offs. Some, including Hansen Vs Predators, had the same sleazy catnip quality. Others, such as a sting to collar bicycle thieves, did not. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
+      "image": "https://i.guim.co.uk/img/media/7528553baf05edd3b792bcba2197a9fa77754cbd/301_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=247632a74390e480de9c7465a6d56982",
+      "publishedAt": "2026-10-15T14:55:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
     },
     {
       "id": "guardian-LXJldmlldy1tb3ZpZQ",
@@ -304,18 +340,6 @@
       "category": "Trailers"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Russell T Davies criticises BBC boss's 'clumsy' AI Doctor Who comments",
-      "description": "BBC director general Matt Brittin said he had seen a \"pretty good\" AI-generated episode of the show.",
-      "url": "https://www.bbc.co.uk/news/articles/c8040531w45eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cd57/live/99daefe0-c741-11f1-9085-f95bdc648acc.jpg",
-      "publishedAt": "2026-10-14T04:58:47.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-C1ncmV0YS1nZXJ3aWc",
       "title": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
       "description": "The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep The first look at Greta Gerwig ’s vision for Narnia has been revealed. Today, Netflix is giving a first look at her vision for CS Lewis ’s magical world in the trailer for The Magician’s Nephew, the first chronological book in the beloved series. Continue reading...",
@@ -364,18 +388,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-BsYW5lLWluY2lkZW50",
-      "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
-      "description": "Actor, who allegedly punched one Delta attendant, bit another and tried to open plane door, was charged for two separate assaults after the plane landed The actor Selma Blair was arrested on Sunday at John F Kennedy airport in New York after she allegedly attacked two flight attendants on a Delta Air Lines flight, and separately charged with two counts of assault for allegedly kicking a police officer and a nurse after landing. Blair’s arrest happened at about 11pm, after Port Authority of New York and New Jersey officials said they responded to a call “about a physically abusive passenger aboard Delta Air Lines flight 938 which was parked at the gate” at JFK after arriving from Los Angeles. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
-      "image": "https://i.guim.co.uk/img/media/9d48d5e3c979efc88ed2d56eb19067016d12bd33/679_561_4875_3900/master/4875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f38b2e754c1acc1ab336b05ab2955476",
-      "publishedAt": "2026-10-13T03:28:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
       "description": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
@@ -400,18 +412,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold So Far: Venice Orizzonti Prize Winner ‘A Day in the Life of Jo: Chapter Phaedra’ Lands at 1-2 Special",
-      "description": "The coming-of-age story — with a cosmic twist — from director Jacqueline Lentzou had its North American premiere at the New York Film Festival.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/THE-DAUGHTERS-OF-ABRAHAM-2-copyright-CG-Cinema.jpg?w=650",
-      "publishedAt": "2026-10-09T16:39:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ktbW92aWUtcmV2aWV3",
       "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
       "description": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble The buzz surrounding the viral, limb-bending trailer of pre-Halloween horror Other Mommy was such that screen grabs became memes, official YouTube channel views ran up to 30m-plus and BuzzFeed used the extremely BuzzFeed headline : “The Lady Sitting Next To Me SCREAMED”: This Trailer Playing Before The Odyssey Is Scaring Moviegoers, And These Hilarious Reactions Have Me Crying. Sure, Universal releasing it exclusively attached to the second biggest film of the year played a considerable part but the imagery was efficiently direct and frightening, a derivative scared child/creepy demon set-up turned into something that felt hard to deny and increasingly impossible to avoid. But then what had seemed like the surest slam-dunk horror of the season seemed to slither away. The marketing continued (there was a second trailer that didn’t quite break the internet in the same way) but the reviews never appeared, a choice made to hide the film from critics until the day it opened. It’s a strategic decision that implies a disaster, Universal eager to keep pre-ticket sales high (it’s predicted to win the weekend with $20m-plus) and bad reviews at bay. But instead, as is often the case, it’s less of a one-star train wreck and more of a two-star mess, likely to frustrate rather than enrage. Continue reading...",
@@ -422,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-lsZC1ob3JzZS1uaW5l",
-      "title": "‘Old-timey fascism was kept secret. Now you don’t have to hide it’: Martin McDonagh, John Malkovich and Sam Rockwell on Wild Horse Nine",
-      "description": "McDonagh’s latest film has Malkovich and Rockwell shooting the breeze as CIA agents in 1973 on Easter Island. They discuss grandchildren, swimming with turtles and who shot JFK ‘Earmuffs!” says Sam Rockwell, pausing his gushing tribute mid-flow and turning to face John Malkovich on the couch. Rockwell loves Malkovich and has been discussing his work at some length. Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner. He’s one of the world’s finest actors and annoyingly modest to boot. “Earmuffs!” says Rockwell and pivots back towards me. “He hates hearing all this. That’s why I keep saying ‘earmuffs’.” Malkovich frowns. “I don’t mind it,” he says. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/martin-mcdonagh-john-malkovich-sam-rockwell-interview-wild-horse-nine",
-      "image": "https://i.guim.co.uk/img/media/ebe07ed53ba958b6627fd39c7733ef6925995d61/0_683_5910_4728/master/5910.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bf24d9cc6b52d322926c6ac40688850",
-      "publishedAt": "2026-10-09T04:00:38.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
