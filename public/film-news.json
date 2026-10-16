@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T18:38:35.464Z",
+  "generatedAt": "2026-10-16T01:00:05.306Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 28
+      "articles": 32
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-aC0xMjM1MjIyMzEzLw",
+      "title": "‘The Batman: Part II’ Production Resumes with Steven Soderbergh Filling in for Matt Reeves",
+      "description": "Production has been paused while Reeves attends to a family matter.",
+      "url": "https://www.indiewire.com/news/breaking-news/the-batman-part-ii-production-resumes-steven-soderbergh-1235222313/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/04/P10W1L0.jpg?w=650",
+      "publishedAt": "2026-10-15T22:28:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMjMwMS8",
+      "title": "Netflix Stunner: Bela Bajaria Out as Chief Content Officer, Former Disney Exec Peter Rice Steps in",
+      "description": "The executive had been with the streamer for 10 years and grew the platform into a dominant force in television.",
+      "url": "https://www.indiewire.com/news/business/netflix-bela-bajaria-out-chief-content-officer-1235222301/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1455153095.jpg?w=650",
+      "publishedAt": "2026-10-15T22:00:15.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-N5LTEyMzUyMjE3MTIv",
+      "title": "Danny Trejo’s Son Explains His Dad’s Pro-ICE Movie Controversy: ‘People Are Not Turning Down Work’",
+      "description": "Gilbert Trejo discusses the \"Pawn Shop\" backlash after his father’s agent told IndieWire the actor didn't know Ben Shapiro or The Daily Wire were involved when he accepted the role.",
+      "url": "https://www.indiewire.com/features/interviews/danny-trejo-son-explains-pawn-shop-ice-controversy-1235221712/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1322421065-e1792097962648.jpg?w=650",
+      "publishedAt": "2026-10-15T21:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIyMDQ4Lw",
+      "title": "‘You Can See Everything’ Is Finally Here, but A24 Is Still Hoping to Ride the Hype of Secrecy",
+      "description": "The Elizabeth Holmes documentary has managed to keep a lid on its biggest twists since being revealed to the world in September. Now comes the spotlight of a wide release and awards season.",
+      "url": "https://www.indiewire.com/features/general/you-can-see-everything-a24-hopes-preserve-secrets-elizabeth-holmes-1235222048/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
+      "publishedAt": "2026-10-15T21:40:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIyMTc1Lw",
+      "title": "‘La Gradiva’ Director Marine Atlan Is the Major New Voice Behind the Most Immersive Teen Drama Since ‘Kids’",
+      "description": "Coming-of-age and shattered innocence collide in this fall's Cannes Critics' Week winner from 1-2 Special. Writer/director/cinematographer Marine Atlan walks IndieWire through street-casting a Pompeii-set high-school drama for the ages.",
+      "url": "https://www.indiewire.com/features/interviews/how-la-gradiva-teen-drama-became-festival-hit-1235222175/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/3_LA-GRADIVA_STILLS_SUZANNE-c-Films-du-poisson-Bibi-Film-TV-Arte-France-Cinema.jpg?w=650",
+      "publishedAt": "2026-10-15T21:35:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-2F6dW8taXNoaWd1cm8",
+      "title": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
+      "description": "The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futurism and non-satire, adapted by Waititi from the Kazuo Ishiguro novel, which winds up saying nothing substantial or meaningful (or funny) about artificial intelligence, love or grief. Klara and the Sun is soft-centred sci-fi-lite, simultaneously demanding we laugh at its (unfunny) humour and wipe away a tear at its pass-agg poignancy. With earlier films like Hunt for the Wilderpeople and Thor: Ragnarok, Waititi showed he can do comedy. But this, sadly, is closer to his notorious fey-Hitler fantasy Jojo Rabbit – misjudged and self-admiring. In the world to come in an uncanny valley of the almost-real, families can buy “artificial friend” or AF robots for their kids. In terms of tech plausibility overall, incidentally, their status isn’t entirely clear: AF salesperson (Natasha Lyonne) says that the recent third world war has wiped out the internet. (This post-WW3 world looks in pretty good shape apart from that.) And these AF humanoids incidentally have a kind of purple blood called PEC-9 running through them which one character incidentally tells us is “highly flammable”. (Uh-oh. Quite the design fault.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
+      "image": "https://i.guim.co.uk/img/media/f55061596ee9bbd917a6bb5a6f872bb89a19c8e4/532_0_2637_2110/master/2637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=7d0ebf7c0330302c859a6717a9bb8128",
+      "publishedAt": "2026-10-15T20:15:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyMjE5NC8",
+      "title": "Top Agencies and Producers Want Laws Forcing Studios to Devote Half Their Budgets to Indie TV and Movies",
+      "description": "The American Entertainment Alliance is pushing for regulation that would help return ownership of series and films back to their creators.",
+      "url": "https://www.indiewire.com/news/business/top-agencies-laws-make-studios-half-budget-indies-1235222194/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/06/agencies.jpg?w=650",
+      "publishedAt": "2026-10-15T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-cy0xMjM1MjA4MDU0Lw",
       "title": "‘La Bola Negra’: Before Netflix’s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors",
@@ -88,18 +172,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XMtMTIzNTE5NTQ2Mi8",
-      "title": "‘La Bola Negra’ Review: Los Javis’ Era-Spanning Monument to Gay Storytellers Is a Heartbreaking Work of Staggering Genius",
-      "description": "Javier Calvo and Javier Ambrossi blend real and imaginary people in this Lorca-inspired ode to love stories buried by Spanish history.",
-      "url": "https://www.indiewire.com/criticism/movies/the-black-ball-review-los-javis-1235195462/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/The-Black-Ball-200723-H-2026.webp?w=650",
-      "publishedAt": "2026-10-15T15:32:40.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-mVuZXdhbC1zaWduZWQ",
       "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
       "description": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of closure has been staved off by signing a new 25-year lease with its landlords. In a post on social media titled “You Saved the PCC”, the cinema said that “after 21 months of uncertainty, we’re delighted to have secured the future of the cinema” and that they had “signed a new 25-year lease with no break clause, ensuring our projectors will keep rolling for years to come”. Continue reading...",
@@ -124,30 +196,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-VhLTEyMzUyMjIwMDAv",
-      "title": "Why One Indie Producer Is Refusing to Let Her Latest Film Disappear on Streaming",
-      "description": "Longtime producer and president of the Board of New York Women in Film &#38; Television, Kim Jackson is used to fighting hard for her projects. Her latest, “The Plea,” follows twelve sharply divided jurors deliberating a controversial case. Ahead, Jackson explains why she won’t let this one “disappear into the blackhole of the streamerverse.”",
-      "url": "https://www.indiewire.com/features/commentary/producer-refusing-film-streaming-kim-jackson-the-plea-1235222000/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/54c4430b-da0a-b99e-d704-8ec23aa6648f.jpg?w=650",
-      "publishedAt": "2026-10-15T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-WMtMTIzNTIyMTQ5OC8",
-      "title": "Brian Duffield Made a Realistic Movie About Surviving Inside a Sperm Whale",
-      "description": "The co-writer and director of \"Whalefall\" tells IndieWire about his approach to making his fantastical new thriller as absorbing and terrifying as possible.",
-      "url": "https://www.indiewire.com/features/podcast/brian-duffield-on-whalefall-realistic-1235221498/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWHAL_H3003.jpg?w=650",
-      "publishedAt": "2026-10-15T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-WJlYXRsZXMtZmlsbXM",
       "title": "‘Don’t do this!’ Why Paul McCartney cares about looking shorter than John Lennon in Sam Mendes’ Beatles films",
       "description": "You’re Paul McCartney. So how come you’re still getting het up at a fictional version of you being marginally smaller than a fictional version of John Lennon? There has been a lot of discourse and conjecture surrounding Sam Mendes’s forthcoming Beatles biopics. Some of this is logical (will people really turn out to see four near-identical films on the same day?), some creative (what animal did they have to shave to make John Lennon’s Abbey Road beard?). At every turn the film has been examined and factchecked and cross-referenced against testimonies from the band’s actual hairdresser . But until now the remaining Beatles have managed to keep fairly quiet about the whole thing. Last year Ringo Starr mentioned that he’d sat down with Mendes to rework a scene he wasn’t happy with, and Paul McCartney has praised the guitar playing of Paul Mescal, but it appeared that no real red lines had been crossed. Until now. Continue reading...",
@@ -157,30 +205,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyMjAxMS8",
-      "title": "Why Georgia Oakley Didn’t Want to Modernize Jane Austen for Her New Film of ‘Sense and Sensibility’",
-      "description": "Oakley tells IndieWire about putting the Dashwood sisters (Daisy Edgar-Jones and Esmé Creed-Miles) first — and the range of inspirations for her new Austen adaptation, from \"Barry Lyndon\" to \"Days of Heaven.\"",
-      "url": "https://www.indiewire.com/features/interviews/sense-and-sensibility-director-georgia-oakley-interview-1235222011/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P1083CRV.jpg?w=650",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-jQtMTIzNTIyMjA2Ny8",
-      "title": "Zendaya to Star in Alex Garland’s New Sci-Fi Movie at A24",
-      "description": "Garland wrapped A24's \"Elden Ring\" movie earlier this year, and previously directed \"Ex Machina,\" \"Civil War,\" \"Warfare,\" and \"Men\" for the company.",
-      "url": "https://www.indiewire.com/news/breaking-news/zendaya-alex-garland-next-movie-a24-1235222067/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P1083D27.jpg?w=650",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -208,30 +232,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-LXJldmlldy1tb3ZpZQ",
-      "title": "Whalefall review – slimy survival thriller traps us in a whale and struggles to make it digestible",
-      "description": "Austin Abrams gets eaten by a sperm whale in an overlong and flashback-heavy adaptation of Daniel Kraus’s hit novel that only has us on edge in moments Spare a thought for poor Austin Abrams, who, having just endured the world’s worst, and gloopiest, courier assignment in Resident Evil , has now been trapped inside a sperm whale … The immensely likable Euphoria alum (has any show in recent memory provided quite as many genuine stars?) brings what he can to Brian Duffield’s rather soggy adaptation of Pulitzer prize-winner Daniel Kraus’s acclaimed novel Whalefall. But there’s not a great deal he can do, despite being in every scene of what’s his second studio lead in a month, other than scream and writhe and look understandably alarmed. It’s a setup that’s grabby enough to have us wonder just how the hell it’s going to play out (what if that one scene in Finding Nemo but a whole movie) but it just doesn’t work as a 106-minute adventure, too overstretched and too silly to have us rooting for his escape and caring how he might orchestrate it. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/whalefall-review-movie",
-      "image": "https://i.guim.co.uk/img/media/c2aa59eba84057a90212990559096c72e47c531c/729_0_2517_2015/master/2517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=0d3bbb6f715cb77821d7ab20e4d9c6f8",
-      "publishedAt": "2026-10-15T09:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-NlbnRlbmFyeS1tdWJp",
-      "title": "Faust review – FW Murnau’s silent masterpiece is a devilishly dazzling vision",
-      "description": "The 1926 film of Goethe’s tragic tale of a man who sells his soul to the devil remains a spectacular feat of German expressionism The centenary of FW Murnau’s silent fantasy-melodrama from 1926 is the occasion to ponder this mysterious film, taken from Goethe’s 19th-century depiction of the alchemist and natural philosopher who sells his soul to the devil but, in a very high-minded climax of German romanticism, is redeemed by love. (Not love of God precisely, but love of a good woman; the word “Liebe” finally appears at the centre of Murnau’s radiating vision of concentric circles conjured by the heavens, which annul his debt to the Evil One.) It is therefore very different from Christopher Marlowe’s scarier and more unforgiving account of Doctor Faustus. Murnau’s Faust is (obviously) concerned with and animated by evil, and there are echoes of his Nosferatu , made four years previously. In this film, Faust, having struck his bargain on a provisional 24-hour basis with Mephisto, finds that he is scared of a crucifix, like a vampire. It is also very much a film of Weimar Germany with its mad energy and streaks of garish satire and black comedy; the book-burning scene in which Faust immolates all his necromancy volumes, along with the Bible, is one which resonated with later events. (Perhaps it indirectly inspired Klaus Mann’s novel Mephisto, later to be filmed by István Szabó .) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/faust-review-centenary-mubi",
-      "image": "https://i.guim.co.uk/img/media/17a235db63b649946ba2fe75b8e2e82b944528e8/0_0_2609_2088/master/2609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=c2fcb47b1f655c007be2e0f583ea524b",
-      "publishedAt": "2026-10-15T08:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-dC1hbm51YWwtbG9zcw",
       "title": "Wallace & Gromit maker Aardman falls short of return to profit",
       "description": "Animation studio narrows annual loss to £1.1m amid ‘challenging market’ in children’s content Don’t break out the celebratory Wensleydale just yet. Aardman, the British animation studio behind the cheese-loving inventor Wallace and his beloved dog Gromit, has fallen short of a target to get back in the black, its accounts show. The employee-owned business was aiming to record a small profit in 2025 after two years of consecutive losses but was hit by production delays and a “challenging market” in children’s content. Continue reading...",
@@ -244,6 +244,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-HluY2hpYW4tZHJhbWE",
+      "title": "By Design review – Juliette Lewis turns into a chair in hypnotic Lynchian drama",
+      "description": "A musician becomes obsessed with the haunted seat, but the potentially hilarious premise sleepwalks its way to an unsatisfying conclusion The indie indulgences of US film-maker Amanda Kramer – which often contain big names making small appearances – are such a puzzle; sometimes they work, sometimes they don’t. I enjoyed her weird reverie about an imaginary 80s TV special, called Give Me Pity! , but not so much the 1950s-camp daydream Please Baby Please , with Andrea Riseborough. Now she gives us a film with a toweringly strange and potentially hilarious premise, on which the result does not in any way deliver. Yet there are moments of interest in the dreamy Lynchian drift that causes Kramer’s films to float away from the audience. By Design is an all but unbearable absurdist drama. The actors deliver halting dialogue as if in a hypnotic trance, paralysed by the film’s heavy conceit: Juliette Lewis plays a depressed single woman who turns into a chair. The scene seems set for some entertaining hijinks with visual effects, in which Lewis and the chair merge. But no – not really. What in fact happens is that Lewis’s own body is supposedly robbed of its animating identity or spirit, which migrates into the chair while she becomes catatonic, a body flopped down on the bed. The chair itself doesn’t look or behave in any way differently. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/by-design-review-juliette-lewis-turns-into-a-chair-in-hypnotic-lynchian-drama",
+      "image": "https://i.guim.co.uk/img/media/83f571715a45235fc264b75fabd65fc94eca21f7/207_0_1298_1038/master/1298.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=5148b3716796003b778e9201df1daa58",
+      "publishedAt": "2026-10-15T06:00:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-XJkLWJpcm1pbmdoYW0",
       "title": "‘To succeed meant to leave’: inside the jolting film about Brummie estate kids knocked flying by demolition",
       "description": "The novel had no hero, no dialogue and little action. So how was I See Buildings Fall Like Lightning turned into such a funny, rousing and acclaimed film? Director Clio Barnard reveals all As a kid in 90s Birmingham, Keiran Goddard would gather with his friends to watch the tower blocks coming down. That’s what passed for entertainment back then. Controlled explosions, collapsing buildings. The demolition of the city’s postwar council estates marked the end of one story and the start of another. It was a dust-blown display of regeneration and progress. The housing that replaced it would be an improvement. The people of east Birmingham would move on to better lives. Goddard, specifically, moved on to study English at Oxford University. He now lives in London and writes books for a living. Physically, he has left his home town far behind. Emotionally and spiritually, not so much. “So I feel quite splintered,” he says. “I’m not sure anyone ever really leaves the world they grew up in.” Continue reading...",
@@ -254,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-RoLTEyMzUyMjE4NDQv",
-      "title": "Netflix Is Finally Reporting Box Office Data. Why Is It Starting with ‘La Bola Negra’?",
-      "description": "The streamer's awards hopeful is a test balloon — opening in limited release on four screens this weekend — before it really tries to make a splash with \"Cliff Booth\" and \"Narnia.\"",
-      "url": "https://www.indiewire.com/news/box-office/netflix-reporting-box-office-data-la-bola-negra-narnia-cliff-booth-1235221844/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/LBN_20250828_0439_carlaoset_R2-1.jpg?w=650",
-      "publishedAt": "2026-10-14T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-RyeS1uZXctdGFsZW50",
@@ -302,6 +302,54 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
+    },
+    {
+      "id": "guardian-C13YXItdGhyaWxsZXI",
+      "title": "Winter of the Crow review – Lesley Manville magnificently on edge in intriguing cold war thriller",
+      "description": "Manville’s academic psychologist finds herself trapped in a tower block wasteland in 1980s Warsaw. Bizarre and surreal details add to the sinister vibe Part cold war thriller, part Kafkaesque reverie, this movie takes us back to the sinister drear of Poland in 1981, when General Jaruzelski has just introduced martial law in reaction to the dangerous new mood of freedom occasioned by the Solidarity trade unions. The director is Kasia Adamik, daughter of The Green Border’s Agnieszka Holland; the film is adapted from a story by Olga Tokarczuk, called Professor Andrews Goes to Warsaw. Lesley Manville plays Professor Andrews, an academic clinical psychologist (like Tokarczuk) from Britain with testy, peremptory mannerisms; her indulgence is a fondness for taking Polaroid photos. She has attained a certain level of celebrity for a book on dreams, despite claiming that she never dreams herself. Andrews has been invited to give a lecture in Warsaw, during which she begins to outline views on mental illness not unlike those of Laing or Foucault; but her speech is chaotically disrupted by students shouting that Poland itself is an oppressive asylum. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/winter-of-the-crow-review-lesley-manville-cold-war-thriller",
+      "image": "https://i.guim.co.uk/img/media/a11c4d7e1547d038f6f5dbcb971ebc773eecac47/264_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=eb778efd546de8614fbd3b4974b7657d",
+      "publishedAt": "2026-10-14T12:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-EtYmFyYmFyYS1tb3Jp",
+      "title": "Mistura review – ice queen brings Peruvian culinary drama to a gentle simmer",
+      "description": "Bárbara Mori stars in tepid tale of a high-society wife who opens a restaurant in her home after her husband leaves her What you expect from a film about a fancy high-end restaurant is a certain amount of heat: the roiling intensity of staff pushed to their absolute limits in the pursuit of gastronomic perfection. But this 1960s-set Peruvian drama instead maintains a gentle simmer, sedate and elegant. Perhaps it’s too elegant given the circumstances of its chef-proprietor, a high-society trophy wife with no catering experience who makes a high-stakes gamble on opening a successful restaurant. Bárbara Mori is Norma, a glacial beauty who cultivates a kind of Jackie Onassis chic: huge sunglasses, massive blow-dry, makeup thickly applied like armour. One night, Norma’s husband humiliatingly leaves her for a beauty queen. You’d be sympathetic if Norma wasn’t so foul to the staff, lashing out at housekeeper Rosa (Hermelinda Luján) and chauffeur Oscar (Cesar Ballumbrosio). It’s Oscar (who is a bit in love with Norma) who suggests she opens a restaurant in the house to pay the mortgage. Norma’s father was the French ambassador to Peru, and she has picked up his passion for gastronomy. Although the script is a bit inconsistent on this, since Oscar also says he’s never seen her so much as light the oven. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/mistura-review-peruvian-drama-barbara-mori",
+      "image": "https://i.guim.co.uk/img/media/6721381190a451e279cf8023989b534d064ca03e/1371_0_2011_1610/master/2011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=711a825b4ea87b6d4856488c1b004742",
+      "publishedAt": "2026-10-14T10:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1kYW1uZWQtcmV2aWV3",
+      "title": "Wuthering Heights: The House of the Damned review – Brontë horror do-over is part Dracula, part Jeeves and Wooster",
+      "description": "Emily Brontë’s classic is reimagined with extra stranglings, slashings and pitchfork impalings but plays it straight Where pornography once trod, horror has now become the genre that infiltrates and apes all others. With a host of out-of-copyright cartoon characters recently grave-robbed for not-so-fresh IP, now classic literature is apparently fair game for a gruesome glow-up, in this case, Emily Brontë’s regular GCSE-botherer. But Becca Hirani’s laboured reworking makes the book’s gothic subtext crashingly, jugular-spurtingly textual. As in the novel, wide-eyed Mr Lockwood (Ross Townsend-Green) pays a courtesy call to his brooding landlord Heathcliff (Sky Cheema) at Wuthering Heights. But this time, his sojourn is more like Jonathan Harker’s at Dracula’s castle; everywhere he turns, the shrouded phantom of Heathcliff’s beloved Catherine Earnshaw (Elle O’Hara) is lurking, and she leaves an extra dollop of gore on the windowsill in her famous nocturnal apparition. The tetchy host doesn’t do much to put Lockwood at ease – even before he’s trapped in the house by a bubo-inflicting malady. Between the hallucinations, the surly servants, and the weird absence of Heathcliff’s rumoured son Linton, he begins freaking out that it’s a different kind of moors story he’s stumbled into. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/wuthering-heights-the-house-of-the-damned-review",
+      "image": "https://i.guim.co.uk/img/media/0e623eeedfd38e65f6b556f811727604df1c8c69/813_0_2143_1716/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e8033834a41cac5bf4338c621097d8b7",
+      "publishedAt": "2026-10-14T08:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-VoaXN0b3JpYy1wYWxz",
+      "title": "Kiri and Lou Go Raaa! review – delightful origin story for CBeebies’ prehistoric pals",
+      "description": "The pair’s first feature-length adventure stars Jemaine Clement and Olivia Tennet, has a dreamy soundtrack and beautiful stop-motion visuals – fantastic family fun Kiri is a lively yellow dinosaur, Lou is an amiable purple palorchecie (a fictional beast, vaguely resembling a palorchestes , which in turn vaguely resembles a giant tapir) – and if you’ve been watching their CBeebies show, which hails from New Zealand and consists of 5-minute episodes, you’ll know they’re the best of friends despite their ingrained temperamental differences. But how did they become friends in the first place? For the uninitiated, Kiri and Lou Go Raaa! functions as an introduction to the characters and their world, while for fans it’s a delightful origin story. At only one hour long, the runtime is toddler-friendly – and to be honest, there are plenty of films marketed at adults that could learn a lesson from writer-director Harry Sinclair’s economical storytelling. (Sinclair is also the writer of the TV series, alongside Buffy the Vampire Slayer writing alum Rebecca Kirshner.) With the voice acting talents of Olivia Tennet (Freda in Lord of the Rings: The Two Towers) and Jemaine Clement (Flight of the Conchords), plus dreamy songs from Don McGlashan (Blam Blam Blam, The Front Lawn), Kiri and Lou Go Raaa! would arguably work superbly as an audiobook or radio show – except the visuals are a treat too. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/14/kiri-and-lou-go-raaa-review-delightful-origin-story-for-cbeebies-prehistoric-pals",
+      "image": "https://i.guim.co.uk/img/media/f1a7b9ab5cf3fa6e9528d1266ff3b79152757592/1640_0_4216_3375/master/4216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=712ca552123a1a3475cc9e4913f75223",
+      "publishedAt": "2026-10-14T06:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -424,18 +472,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ktbW92aWUtcmV2aWV3",
-      "title": "Other Mommy review – Jessica Chastain’s demonic double horror isn’t nightmarish enough",
-      "description": "There’s some effectively unnerving imagery and a cleverly icy dual lead performance but this kept-from-critics shocker is a bit of a jumble The buzz surrounding the viral, limb-bending trailer of pre-Halloween horror Other Mommy was such that screen grabs became memes, official YouTube channel views ran up to 30m-plus and BuzzFeed used the extremely BuzzFeed headline : “The Lady Sitting Next To Me SCREAMED”: This Trailer Playing Before The Odyssey Is Scaring Moviegoers, And These Hilarious Reactions Have Me Crying. Sure, Universal releasing it exclusively attached to the second biggest film of the year played a considerable part but the imagery was efficiently direct and frightening, a derivative scared child/creepy demon set-up turned into something that felt hard to deny and increasingly impossible to avoid. But then what had seemed like the surest slam-dunk horror of the season seemed to slither away. The marketing continued (there was a second trailer that didn’t quite break the internet in the same way) but the reviews never appeared, a choice made to hide the film from critics until the day it opened. It’s a strategic decision that implies a disaster, Universal eager to keep pre-ticket sales high (it’s predicted to win the weekend with $20m-plus) and bad reviews at bay. But instead, as is often the case, it’s less of a one-star train wreck and more of a two-star mess, likely to frustrate rather than enrage. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/09/other-mommy-movie-review",
-      "image": "https://i.guim.co.uk/img/media/b1113d46802ee423638a7a5d7b023d238f2fdd78/1169_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7e61743cb19399a0a52596ce1cec104a",
-      "publishedAt": "2026-10-09T15:41:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-lsZC1ob3JzZS1uaW5l",
       "title": "‘Old-timey fascism was kept secret. Now you don’t have to hide it’: Martin McDonagh, John Malkovich and Sam Rockwell on Wild Horse Nine",
       "description": "McDonagh’s latest film has Malkovich and Rockwell shooting the breeze as CIA agents in 1973 on Easter Island. They discuss grandchildren, swimming with turtles and who shot JFK ‘Earmuffs!” says Sam Rockwell, pausing his gushing tribute mid-flow and turning to face John Malkovich on the couch. Rockwell loves Malkovich and has been discussing his work at some length. Malkovich, he says, is charismatic and dangerous, half masculine, half feminine; a unique combination and the perfect sparring partner. He’s one of the world’s finest actors and annoyingly modest to boot. “Earmuffs!” says Rockwell and pivots back towards me. “He hates hearing all this. That’s why I keep saying ‘earmuffs’.” Malkovich frowns. “I don’t mind it,” he says. Continue reading...",
@@ -458,30 +494,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-XctYmVuLWFmZmxlY2s",
-      "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
-      "description": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on his facility behind the camera, directing Boston-based thrillers both artistically ambitious (Gone Baby Gone) and juicily crowd-pleasing (The Town). So now that his acting career seems particularly stable, as he works steadily and produces movies via the company he founded with longtime friend and collaborator Matt Damon, why does his directing career remain in what seems like post-Oscar doldrums? (Though he has never been nominated for a best director Oscar, his film Argo won best picture in 2013.) His new movie Animals appears perfectly situated within his wheelhouse: it’s a Los Angeles-based crime-and-politics thriller to match his earlier east coast work. The real surprise, however, is just how listless it can get. Affleck himself plays Mark Kimball, a Angeleno running for mayor of his home town. His status as an independent non-party-affiliated candidate (and one who scarcely exhibits a trace of a platform in what little we see of his stump speeches and interviews) is only one element of his unlikely backstory, which also includes history as a teacher, a lawyer and a veteran of the first Gulf war. (Not sure the math on all that checks out, but let’s allow it as evidence of a fusion between Mark’s dedication to service and a rapacious ambition.) He’s leveraged his family’s wealth to take him through the home stretch of a close campaign, and tensions are medium-high with his wife, Abby, (Kerry Washington), who’s hiding some problems of her own. Things get considerably worse when, on Halloween, he receives a phone call: Kidnappers have taken his preteen son Denny (Christopher Woodley). They’re demanding $7m that Mark doesn’t have to get him back safely. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/animals-movie-review-ben-affleck",
-      "image": "https://i.guim.co.uk/img/media/36991ad30ea44e706e03d9e6bbe576043113755d/686_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=124d04333e96c871dcd752610c44bd14",
-      "publishedAt": "2026-10-08T23:00:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-gtbW92aWUtcmV2aWV3",
-      "title": "Matchbox: the Movie review – as pointless as a film based on a toy car could be",
-      "description": "John Cena and Jessica Biel collect paychecks in a soulless and synthetic slab of corporate product that hints at what we can expect from the Paramount-Warner merger After a windy road, this week it finally happened . The day that Hollywood, and many of those who are invested in it, had been dreading, the grimly inevitable disappearance of Warner Bros as it was consumed by what is now known as Paramount. The two once-classic studios will become one – Skydance, the David Ellison-owned company that has infinitely more money than common sense or base-level creativity. The week has seen many, including the Guardian , speculate about what we may be able to expect, what kind of films the billion-dollar behemoth might now be releasing. Warners after all has created classics such as Casablanca, The Exorcist and 2001: A Space Odyssey while Paramount has been behind The Godfather, Chinatown and Breakfast at Tiffany’s. Just imagine what the combined might of these two prestigious, industry-defining studios could achieve with the promise of 30-plus theatrical releases a year, huge amounts of money and considerable manpower at play. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/matchbox-movie-review",
-      "image": "https://i.guim.co.uk/img/media/70764d6551cdbd07714d84b4625d74fe859efcbf/922_0_1995_1598/master/1995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=f841b0a1d552eb91e652b958558a1ff3",
-      "publishedAt": "2026-10-08T18:23:59.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-y13aWxsLWZlcnJlbGw",
@@ -508,60 +520,96 @@
       "category": "TV"
     },
     {
-      "id": "guardian-y1tb3ZpZS1yZXZpZXc",
-      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "description": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of the blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c6fd2ae556ee7e19b660e8b81218225f",
-      "publishedAt": "2026-10-01T16:51:21.000Z",
+      "id": "guardian-Rldy1zY290dC0yMDI2",
+      "title": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
+      "description": "Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026 This film puts Andrew Scott in line to become the first out gay man to win the best actor Oscar . He plays Ian Charleson, who became a star in Chariots of Fire and in 1989 took on the role of Hamlet at London’s National Theatre when Daniel Day-Lewis withdrew, despite being desperately ill with Aids, knowing that the strain would accelerate his illness. For Charleson, the play’s themes of life and death, truth and falsehood, justice and injustice, were all too real. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
+      "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
+      "publishedAt": "2026-10-06T11:29:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1lLW9mLXRoZS1yb3Nl",
+      "title": "‘I spat in Sean Connery’s face 16 times’: Ron Perlman on making The Name of the Rose",
+      "description": "‘When I couldn’t do the spitting scene, Sean took me aside and said: “Ron, if you don’t actually spit in my face, we’ll be here all day.” So I let one fly – and kept having to redo it’ I read an article about a curious book that had great reviews in Italy, a murder mystery about monks in the middle ages fighting for the fictional missing part of Aristotle’s Poetics. I said: “This is for me.” Since childhood, I had been fascinated with medieval and religious architecture, and Aristotle’s Poetics is my favourite literary work. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/oct/05/sean-connery-ron-perlman-the-name-of-the-rose",
+      "image": "https://i.guim.co.uk/img/media/10dd27f563b42bc2356701fe685046a333fa521c/4_0_1602_1282/master/1602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=567c3c8cf88b01612bf7d7dedb95a719",
+      "publishedAt": "2026-10-05T13:53:31.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-Wpvc2gtaGFydG5ldHQ",
-      "title": "Verity review – erotic thriller leaves teethmarks as Dakota Johnson goes back to Fifty Shades territory",
-      "description": "Anne Hathaway and Josh Hartnett co-star in this unconvincing mystery about a struggling writer who is asked to ghostwrite for a bestselling author The nation is crying out for a really enjoyable erotic mystery-thriller, a taste potentially at least as strong as the cosy-crime fetish currently dominating our every waking moment. The success of Paul Feig’s naughty-but-not-nice movie The Housemaid proves it. We are thirsting for a sexy encounter with a dishy yet maybe problematic nice-guy husband; we are pining for a damaged and dangerous beautiful wife; we are longing to identify with a vulnerable yet gutsy young person who finds herself in the middle of their creepy scenario and we are yearning to spend some time in a secluded luxury lakeside villa of gigantic modernist proportions down whose night-time corridors we can tremblingly tiptoe. So here is a drama, adapted by screenwriter Nick Antosca from the novel by Colleen Hoover, in which someone has such excitingly transgressive sex that they leave teeth marks on the headboard. During this film, audiences may be leaving teeth marks in the seatback in front of them. Or the back of someone’s head. But not in a good way. Dakota Johnson goes back into “Fifty Shades” ingenue-cute territory as Lowen, a struggling writer mysteriously approached by a legal team working for Verity Crawford, played by Anne Hathaway, a mega-bestselling author whose recent indisposition means that she is unable to finish her hugely lucrative novel series. Crawford’s people ask Lowen if she might be willing, in exchange for several shedloads of money, secretly to ghostwrite the rest of Crawford’s darkly saucy page-turners. Lowen agrees, largely because she is strangely drawn to Verity’s handsome, sensitive husband Jeremy, played by Josh Hartnett. She has to go and stay in their gorgeous Vermont home where she is upset to find that Verity is now immobile, using a wheelchair, and cannot speak. And she is even more upset to discover a certain manuscript by Verity which hints at a terrifying situation of which the world has no clue. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/30/verity-review-dakota-johnson-anne-hathaway-josh-hartnett",
-      "image": "https://i.guim.co.uk/img/media/aaec6ce6fbdd49e6375f52744896302b2f2f913c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=49c0a25bc8cc8b1f7352c12f69f53fb3",
-      "publishedAt": "2026-09-30T13:00:41.000Z",
+      "id": "guardian-nRhcmllcy1yYW5rZWQ",
+      "title": "Sex, drugs and amoebic dysentery: the 20 best making-of documentaries – ranked!",
+      "description": "From tropical disasters and doomed sci-fi epics to bribing Orson Welles and fending off a puma, we rate cinema’s most revealing glimpses behind the scenes Behind-the-scenes footage from Dawn of the Dead is the highlight of this aficionados-only affair, which follows the 1979 satirical zombie horror all the way through to distribution. Director George A Romero, makeup maestro Tom Savini and the occasional zombie actor shoot the breeze in the deserted shopping mall that provides the movie with its incongruous central location. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/01/20-best-making-of-documentaries-ranked",
+      "image": "https://i.guim.co.uk/img/media/007f444a69081dcdd125902f07500fdc5751ef64/2045_0_7031_5625/master/7031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b34a97c7f9de11796f71cf281b85d2b",
+      "publishedAt": "2026-10-01T15:31:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-b24tZHJlYW13b3Jrcw",
+      "title": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+      "description": "This over-controlled adventure never takes a breath or a moment to let its characters come to life Frantically and even stroboscopically over-energised, this big new movie from DreamWorks about best friends for ever seems to me another example of exhausting AI-type content production in animation. You could make the same argument against plenty of live-action films of course, but it is in animation that this kind of soulless blitzkrieg tends to predominate. Forgotten Island is over-controlled and over-determined, a movie that never, or hardly ever, takes its pedal from the metal, never takes a breath or a moment to let its characters come to life. At times it seems to be aping the world of Japanese anime, but without its sense of character or capacity for calm. The story, weirdly reminiscent of The Hangover of all things, is set in the Philippines in the pre-social media 90s. Jo, voiced by R&B star HER, is a lonely and super-imaginative teen always in trouble at school; like Moana she has a wise grandma who guides her to her ancestral destiny and has captivated Jo with stories of her culture and identity – stories of the forgotten island of Nakali. Jo makes friends with similarly lonely Raissa (Liza Soberano) who like Jo is smart but with a much more focused sense of academic discipline. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks",
+      "image": "https://i.guim.co.uk/img/media/4473f5f0f5a946aac7ca506a1d3be6f3966c567e/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=ec8337998efbf16383f49ca9310a11a4",
+      "publishedAt": "2026-09-24T06:00:10.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-mFsZXotaW5hcnJpdHU",
-      "title": "Digger review – Tom Cruise’s loudmouth oil tycoon goes hard in Alejandro G Iñárritu’s eco-satire",
-      "description": "One man’s irresponsible drilling causes a global crisis in Iñárritu’s exasperatingly laborious, self-congratulatory film A new movie from the Oscar-winning Mexican director Alejandro González Iñárritu is always an event. So it’s disconcerting to discover that the event in question is the most disappointing film of the year: an exasperatingly shallow, laborious, self-congratulatory satire with a trick up its sleeve, featuring very good actors giving not very good performances. There are moments to enjoy in Tom Cruise’s boisterous leading turn, yes, but the film’s value resides chiefly in some dreamlike and disturbing images, distorted and bulging from the screen, conjured by cinematographer Emmanuel Lubezki and production designer Dennis Gassner. An ageing, paunchy Texan oil tycoon called “Digger” Rockwell is seen fretfully getting up in the morning, cooing over his horrible old incontinent cat, taking urgent messages from underlings about a certain situation developing in his drilling station in the frozen Arctic. He is played by Tom Cruise with a wispy baldingness and various other prostheses, together with a good-ol’-boy twang and a Stetson borrowed from Slim Pickens’s bomb-riding army major in Kubrick’s Dr Strangelove. His prized possession is the battered old shovel his granddaddy used a century before, digging for black gold as a penniless young man in the lone star state. Digger likes to brandish this to make a point. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
-      "image": "https://i.guim.co.uk/img/media/ce939ad10645ce3d14e291138e02f52e6e36650d/250_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=5d8a1b7c931dde734c9348f203a90490",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "id": "guardian-mV2aWV3LXRvcm9udG8",
+      "title": "Love of Your Life review – Margaret Qualley eats, grieves and loves in Amazon’s transporting saga",
+      "description": "Qualley gives one of her best performances to date in a smoothly made globe-trotting drama of a woman’s life after the loss of her husband There’s a jump scare about 30 minutes into the glossy romantic drama Love of Your Life that’s about as effective as anything you’ll see in a horror movie this year. The film is focused on the life and loves of Maya (Margaret Qualley), a twentysomething Boston nurse who meet-cutes with the nerdy and idiosyncratic Charlie (Gabriel Basso) during the purchase of a nightstand. We follow the initial giddy rush of their courting as they progress all the way to an impromptu wedding over the course of a few years, marked by Maya’s change in age announced in text. But just as we’re about to process the unsettling introduction of Charlie using Chekhov’s inhaler, a news report interrupts the sunny tone. Spoiler: it’s March 2020. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/13/love-of-your-life-review-toronto",
+      "image": "https://i.guim.co.uk/img/media/fe8ee98b03cbaba5fc6fea1346573ede5c0cda71/795_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=853eec304c0219ccbe83b80539d3f838",
+      "publishedAt": "2026-09-14T02:30:19.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-1tb3RoZXItcmV2aWV3",
-      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali is a grieving hitman in soulful thriller",
-      "description": "Toronto film festival: the two-time Oscar-winner is an unusual killer in a compelling mix of pulpy action and family drama Latif, the solemn hitman played soulfully by Mahershala Ali, carries diapers in his kill kit. I can’t tell if that’s because they come in handy when soaking up pools of blood on the fly; or because at a moment’s notice the hitman has to switch over from his brutal occupation to daddy duties. Or perhaps it’s both for this contract killer who comes armed with a blade and baby wipes, who takes lives and nurtures them, whose life is composed of jarring and poetic contradictions, much like the movie he’s in. Those contradictions are on full striking display in Your Mother Your Mother Your Mother’s opening moments, an explosive close-quarters brawl in a restroom, after which Latif uses the baby wipes to clean up the mess he made with that blade. It’s a lovely image, in a film filled with so many, cutting right through the tension within this character. It also feels like a wink to the audience from Ali and writer/director Bassam Tariq, a way for them to acknowledge right off the top the distracting mess made by that other Blade. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/12/your-mother-your-mother-your-mother-review",
-      "image": "https://i.guim.co.uk/img/media/4775979465f69bdd17d5df9d574f3bca221aa8bf/1053_962_5235_4189/master/5235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=fc78efc8b9a5dcec82d38a828e204be7",
-      "publishedAt": "2026-09-13T04:01:52.000Z",
+      "id": "guardian-XctaXNyYWVsLWdhemE",
+      "title": "NAZA review – Israeli intelligence officers cast chilling light on civilian deaths",
+      "description": "Under the cover of night, anonymous personnel discuss AI, error rates and problematic intelligence units in a documentary produced by the Guardian Here is a disquieting documentary about what Israel’s military chiefs in Gaza reputedly call “Naza”, meaning civilian collateral damage – itself a queasy euphemism. The calculated “Naza” number is the amount of projected civilian deaths from each military strike, and perhaps it will come to have the same connotations as the US military term “body count” during Vietnam. The directors are Yuval Abraham and Rachel Szor, two of the film-makers behind No Other Land , which was about attacks by the Israel Defense Forces on Palestinian West Bank villages. NAZA is executive produced by Jonathan Glazer and James Wilson and appears under the production auspices of the Guardian, in which some of the stories have already appeared. There are flaws: interviews were conducted on the condition of anonymity, but if no-one can be persuaded to put their name and face to their words (and of course it is terribly dangerous) then the impact of this as testimony is lessened. But even so, the film is casting a chilling light on what is happening now in Gaza. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/10/naza-review-israel-gaza",
+      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/300_124_2444_1955/master/2444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=a86d3b7a8b843d96b1f5c79a4fb0f7b8",
+      "publishedAt": "2026-09-10T15:15:39.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
-      "title": "Primetime review – Robert Pattinson’s preening TV host hunts paedophiles but real drama proves harder to target",
-      "description": "Venice film festival: Lance Oppenheim’s drama about controversial US reality show To Catch a Predator is unsure what it wants to say about media or morality Lance Oppenheim is the acclaimed documentary-maker who has made his feature debut with a strangely overwrought and heavy-footed drama-thriller, which for all its elaborate neon-lit atmosphere of noir danger isn’t at all sure what it wants to say about media or morality, or anything else. The subject is the controversial top-rated US TV reality show To Catch a Predator which ran from 2004 to 2008; that title was evidently taken from the Hitchcock movie To Catch a Thief, which in turn was inspired by the phrase “Set a thief to catch a thief”. In search of prey, the show’s researchers baited paedophiles in online chatrooms posing as children, lured them to “sting houses” where actors played underage teens on the front porch to get the abusers inside, where they can be clearly filmed expressing criminal intentions. But before anything could happen, sonorous host Chris Hansen appeared from nowhere and confronted these cringing abusers – which made for fantastic television. After this the cops made an arrest, and they and the state prosecutor did the heavy lifting of overseeing due process and presumably debating the merits of entrapment in court, although this obvious issue is not raised in the movie. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/07/primetime-review-robert-pattinson-venice-film-festival-lance-oppenheim",
-      "image": "https://i.guim.co.uk/img/media/ed3b52c75b1d7fbe18e57da1960ce1bf1ba8e099/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=3396842f613c45cecb946ecc12df04ab",
-      "publishedAt": "2026-09-07T09:42:14.000Z",
+      "id": "guardian-GljZS1icnV0YWxpdHk",
+      "title": "Case 137 review – tense gilets-jaunes thriller divides cop’s loyalties over police brutality",
+      "description": "A taut, charged procedural from Dominik Moll follows a conflicted officer investigating violence to a teenage protester Dominik Moll’s Dossier 137 is a serious, focused, if slightly programmatic movie about police brutality in France; there are docu-dramatic storytelling reflexes and a determined procedural tread. The movie takes its cue from the horrifying real-life cases of gilets-jaunes protesters in France’s 2018 demonstrations who suffered near fatal injuries due to the police’s trigger-happy use of the LBD gun : the lanceur de balle de défense or “flash ball” gun which (deafeningly) fires vicious rubber bullets. Stéphanie, played by Léa Drucker, is a conscientious police officer in the IGPN, the Inspection Générale de la Police Nationale, effectively the Internal Affairs bureau, investigating horrific head injuries suffered by a teen protester, which could only be caused by the cops’ flash-ball weapons. She is divorced from a cop, Jérémy (Stanislas Merhar) who along with his new girlfriend – also in the police – is gloweringly resentful of what he sees as her bureau’s disloyal undermining of the police, and the way she is questioning the corners they (supposedly) have to cut to keep France safe, especially after the Bataclan attacks . Continue reading...",
+      "url": "https://www.theguardian.com/film/2025/may/15/dossier-137-review-tense-gilets-jaunes-thriller-divides-cops-loyalties-over-police-brutality",
+      "image": "https://i.guim.co.uk/img/media/ae0e4fb72e130c76d8c7f69e31ba35be3d958a76/1437_0_5456_4365/master/5456.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6dde75e6b7387977fe19ebf5250ecdb7",
+      "publishedAt": "2025-05-15T18:25:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-9vY3QvMjYvaG9ycm9y",
+      "title": "Dracula review – Hammer’s version of Bram Stoker is an entertainingly creepy melodrama",
+      "description": "Madly over-the-top and lavishly restored 1958 Hammer Dracula starring Christopher Lee and Peter Cushing For a Halloween treat, here is a lavishly restored print of the 1958 Hammer Dracula, a fierce melodrama directed by Terence Fisher with Christopher Lee tremendously charismatic as the unspeakable Count, and Peter Cushing playing his enemy, Professor Van Helsing. It’s madly over-the-top, with Dracula’s lovely brides resplendent in their naughty nighties and negligées, and there is much hammy “reaction” acting – one character reacts to the contents of Dracula’s coffin as if he has been jabbed in the buttocks with an electric cattle-prod. But it’s often entertainingly creepy in a twilit world of its own. Scriptwriter Jimmy Sangster pacily adapted Bram Stoker’s novel, speeding matters up by placing Professor Van Helsing’s base not in Yorkshire but in Germany, a country which here appears to have a very, very slackly policed border with the sovereign state of Transylvania. Character actor Miles Malleson has a strange cameo as an undertaker who has temporary charge of Dracula’s casket. (For my money, incidentally, the best Dracula adaptation is the 1977 BBC TV version with Louis Jourdan in the title role.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2007/oct/26/horror",
+      "image": "https://i.guim.co.uk/img/media/4b5554bad22e595e48af6f2b671f12f3694d66d0/14_0_771_617/master/771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMDcucG5n&enable=upscale&s=2dcf721c5eb00698a2a3bdd5eaf24dcd",
+      "publishedAt": "2007-10-25T23:04:00.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
