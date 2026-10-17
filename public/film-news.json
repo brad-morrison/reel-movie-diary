@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:38:16.073Z",
+  "generatedAt": "2026-10-17T18:33:13.361Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-LWNhcm9sLW1vcmxleQ",
+      "title": "7 Miles Out review – Carol Morley’s funny-poignant self-portrait of teenage kicks in Stockport",
+      "description": "A daring, rich and funny study of the ordeal of having to invent and reinvent your own teenage sense of self amid confounding changes Carol Morley’s self-portrait of the artist as a young woman is rich, tender and terribly funny and sad: a study in the chaos of being young and a triptych of childhood, girlhood and youth, with some daring touches of Terence Davies. It is about the ordeal of having to invent and reinvent your own teenage sense of self, even as the things you thought permanent suddenly collapse – including the background stability of your poor old mum and dad. And it’s also about the untold, unacknowledged story of sadness that lay behind the angry blaze of punk and new wave. Watching this I thought of something I’d assumed lost for ever: my own feelings, aged 17, on hearing Buzzcocks’ Sixteen: “… I wish I was 16 again / Then things would be such fun / All the things I’d do would be the same / But they’re much more fun / Than when you’re 21.” Could it be, I thought, that I’m already sad about not being 16? 7 Miles Out is based on Morley’s autobiographical novel of the same title , the once-upon-a-time-in-Stockport story of Ann, played with charm and zing by Lucy Halliday, and as a sweetly innocent young girl by Amelie Hughes. Young Ann pretends to be making a radio programme with her cassette recorder the way so many did in the 1970s, and hero-worships her would-be rock journalist elder brother Scott (Kasper Hilton-Hille) – based on Morley’s brother Paul – who is already plugged into the burgeoning post-punk and new wave scene. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/17/7-miles-out-review-carol-morley",
+      "image": "https://i.guim.co.uk/img/media/0f37c0f8029ed9fe05a69956e68e14c3faece693/144_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=9587a3aba524547d3658e101212a9274",
+      "publishedAt": "2026-10-17T17:35:36.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-Zy0xMjM1MjIyNTM0Lw",
+      "title": "Seth Rogen Trusted Animated ’Tangles’ Would Resonate Because of Its ’Specificity’",
+      "description": "“You could put 10 movies on the screen. If this was one of them, the specificity of it is what would make you instantly recognize it,\" said Rogen of the IFC animated film he produced.",
+      "url": "https://www.indiewire.com/news/festivals/seth-rogen-tangles-specificity-animated-middleburg-1235222534/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY02FridayOCT16_SethRoganConvo_0092.jpg?w=650",
+      "publishedAt": "2026-10-17T14:54:59.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-eS13aHktd2UtY2FyZQ",
       "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
@@ -256,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1maWxtLWZlc3RpdmFs",
-      "title": "Dogmatic Nordic liberals v eastern family values: culture-clash drama Fjord touches nerves in Norway and Romania",
-      "description": "Cristian Mungiu’s Cannes winner echoes the news story of a Romanian couple whose children were taken by the Norwegian government. As it heads to London film festival, two writers explain how the film exposes real hypocrisies When Cristian Mungiu’s Fjord was shown in Romania as a one-day preview this June, the reception was extraordinary. Across 53 towns and 96 cinemas, the film reportedly pulled in over 40,000 viewers in a single night, a number arthouse cinema rarely sees in Romania. But the response here had little to do with cinema. It felt instead like a reopening of a familiar fault line about the clash of values within the EU itself. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/b56231d7c5ceb5d3ef7600c0af3944e7cbe2372d/247_0_2506_2004/master/2506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d71e3b19fdd103c5c1e21c8f564aa612",
-      "publishedAt": "2026-10-16T06:00:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-aC0xMjM1MjIyMzEzLw",
       "title": "‘The Batman: Part II’ Production Resumes with Steven Soderbergh Filling in for Matt Reeves",
       "description": "Production has been paused while Reeves attends to a family matter.",
@@ -278,18 +290,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyMjMwMS8",
-      "title": "Netflix Stunner: Bela Bajaria Out as Chief Content Officer, Former Disney Exec Peter Rice Steps in",
-      "description": "The executive had been with the streamer for 10 years and grew the platform into a dominant force in television.",
-      "url": "https://www.indiewire.com/news/business/netflix-bela-bajaria-out-chief-content-officer-1235222301/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1455153095.jpg?w=650",
-      "publishedAt": "2026-10-15T22:00:15.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
