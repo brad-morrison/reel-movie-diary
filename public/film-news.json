@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:01:02.852Z",
+  "generatedAt": "2026-10-17T12:38:16.073Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-eS13aHktd2UtY2FyZQ",
+      "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
+      "description": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was altogether different. “The accent changed: this deep voice, very serious,” Agus, a medical oncologist , recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person. That transition from the green room to the stage – I had never experienced something like that before.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
+      "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=427a030b80094da2797fde8e27254087",
+      "publishedAt": "2026-10-17T09:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-17T01:55:45.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
@@ -136,6 +160,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-phLWRvY3VtZW50YXJ5",
+      "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
+      "description": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossible to ignore”. NAZA, which is produced by the Guardian and details Israel’s mass killing of civilians in Gaza, was released in UK cinemas this week and will be shown in more than 50 countries. As well as its global cinema releases, NAZA will be available free on the Guardian’s website from late November. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+      "image": "https://i.guim.co.uk/img/media/a2d241b1176a9d0f45fadb63749471777498fbd9/0_0_2528_2023/master/2528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60e513c9e793d9b157a52248f91ba512",
+      "publishedAt": "2026-10-16T15:42:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-cy0xMjM1MjIyMzg1Lw",
       "title": "‘You Can See Everything,’ A24’s Elizabeth Holmes Documentary, Scores an Impressive $1.75 Million in Thursday Previews",
       "description": "Nathan Fielder and Lance Oppeheim's look at the Theranos founder appears to be resonating with audiences as it looks at a $7 million to $8 million opening.",
@@ -226,18 +262,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/16/fjord-cristian-mungiu-london-film-festival",
       "image": "https://i.guim.co.uk/img/media/b56231d7c5ceb5d3ef7600c0af3944e7cbe2372d/247_0_2506_2004/master/2506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d71e3b19fdd103c5c1e21c8f564aa612",
       "publishedAt": "2026-10-16T06:00:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "The Face of Horror review – a future cult classic delights with playful spin on Hammer horror",
-      "description": "London film festival Anna Biller’s intricate tribute to the British 1960s genre plays melodrama for laughs and pulls it off wonderfully in a medieval tale based on a Japanese ghost story There’s over-the-top … and there’s this playfully bizarre new film from US indie film-maker and genre connoisseur Anna Biller, whose previous film The Love Witch first alerted me to her ecstatic love of style, surface and the A-pleasures of the B-movie. The Face of Horror is a deadpan homage to the garish Technicolor horror pictures of Britain’s Hammer Films in the Peter Cushing 1960s, with an extraordinary visual emphasis on red velvet, whose Freudian significance can only be guessed at. Perhaps it’s not accurate to call it pastiche – in any event, the advent of AI has arguably undermined the value of skilled pastiche in movies and literature. It is more an attempt simply to make another film in the same vein as Hammer, to continue in the same rackety tradition of melodrama, eroticism and black comedy – and to create a film that can be laughed at as well as laughed with, just as they were at the time. The setting is a cod-medieval England, a land of courtly nobles, smudgy-faced peasants and ladies wearing floor-length gowns with rope-style belts – although Biller has taken as her starting point the classic Japanese ghost story Yotsuya Kaidan, which is also an inspiration to, among others, Takashi Miike and Hideo Nakata . Edward (Jonah Hauer-King) is a handsome, unscrupulous knight, suspected of robbing his former master, seen here in the opening scene riding through a sun-dappled forest with his similarly shifty squire Richard (Leo Suter). Edward wishes to marry the blond, beauteous Eleanor (Kristine Froseth), who appears in a separate scene demurely preparing a preposterously lavish meal with her equally blond sister Beatrice (Ellie Bamber) in one of the vast, oppressive wood-panelled halls that Hammer horror was known for. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/the-face-of-horror-review-anna-biller-london-film-festival",
-      "image": "https://i.guim.co.uk/img/media/e776a31f0d67b0e941a120d970c02bb447a40a41/622_0_2595_2076/master/2595.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=1359d96d1fa264463f1ef5b4e991ef5b",
-      "publishedAt": "2026-10-16T05:30:51.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -358,18 +382,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/14/how-we-lost-our-appetite-for-eat-the-rich-satire",
       "image": "https://i.guim.co.uk/img/media/50bcd5319c29b7303295323897bb6a3c23b913c1/0_139_2221_1777/master/2221.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=d65bb4b14195be45f1f2e1b96dcbf2e5",
       "publishedAt": "2026-10-14T13:34:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-C1ncmV0YS1nZXJ3aWc",
-      "title": "Netflix unveils first trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
-      "description": "The fantasy epic based on CS Lewis’s classic stars Daniel Craig, Carey Mulligan and Meryl Streep The first look at Greta Gerwig ’s vision for Narnia has been revealed. Today, Netflix is giving a first look at her vision for CS Lewis ’s magical world in the trailer for The Magician’s Nephew, the first chronological book in the beloved series. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
-      "image": "https://i.guim.co.uk/img/media/8f452e396aa5a6050832a7355929b693ba7ecdca/291_0_1397_1118/master/1397.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e0dee5c0cd296fed7ed0816425d32fb",
-      "publishedAt": "2026-10-13T19:10:29.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
