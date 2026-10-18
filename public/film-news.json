@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:33:13.361Z",
+  "generatedAt": "2026-10-18T01:06:29.987Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMjI1MjYv",
+      "title": "Bill Hader Always Wanted to Direct a Film — His Divorce, ‘SNL,’ and Kiyoshi Kurosawa Helped Him Finally Build ‘They Know’",
+      "description": "The \"Barry\" creator revealed details about his upcoming horror film at IndieWire's Future of Filmmaking 2026 Summit presented by AT&#38;T in Los Angeles on Saturday.",
+      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
+      "publishedAt": "2026-10-17T21:43:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMjU1Mi8",
+      "title": "John Wilson’s Next Documentary Will Reportedly Show Audiences ‘How to’ Tour Like Harry Styles",
+      "description": "Hot off the success of his feature debut “The History of Concrete,” the beloved documentarian has turned his camera onto the pop star and his recent tour.",
+      "url": "https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/IndiWire_Sundance_20260124_CCF_9134.jpg?w=650",
+      "publishedAt": "2026-10-17T19:44:28.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-LWNhcm9sLW1vcmxleQ",
       "title": "7 Miles Out review – Carol Morley’s funny-poignant self-portrait of teenage kicks in Stockport",
@@ -37,6 +61,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-GxhbmUtaW5jaWRlbnQ",
+      "title": "Selma Blair ‘did not intend to harm anyone’ during airplane incident, representatives say",
+      "description": "Actor experienced a ‘medical emergency’ on flight during which she allegedly injured crew members, statement says Actor Selma Blair did not mean to hurt anyone during the recent flight which led to her arrest on allegations that she assaulted a pair of cabin crew members, a police officer and a nurse, her representatives said on Friday in a statement that characterized the episode as a medical emergency. The lengthy statement also dismissed prior media coverage of Blair’s arrest after a Delta Air Lines flight from Los Angeles to New York as unsympathetic and inaccurate, singling out reporting from several outlets alleging that she tried to open the door of the airplane that she and her fellow passengers were on. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
+      "image": "https://i.guim.co.uk/img/media/0240a387b10bdec0312128a2d117d225b661d9df/400_0_3968_3176/master/3968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f65adee00d55cda0366e5df61f87e22d",
+      "publishedAt": "2026-10-17T13:52:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -220,18 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XctMTIzNTIyMjIyMS8",
-      "title": "‘Street Fighter’ Filmmaker Kitao Sakurai Built His Video Game Movie on Both Jolt Cola and Robert Altman Films",
-      "description": "The filmmaker tells IndieWire he wanted to bring both his love of the \"tonally weird and strange\" and the energy of a good Altman ensemble to his off-kilter video game adaptation.",
-      "url": "https://www.indiewire.com/features/interviews/street-fighter-filmmaker-kitao-sakurai-altman-interview-1235222221/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299922919.jpg?w=650",
-      "publishedAt": "2026-10-16T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
       "description": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
@@ -277,18 +301,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-aC0xMjM1MjIyMzEzLw",
-      "title": "‘The Batman: Part II’ Production Resumes with Steven Soderbergh Filling in for Matt Reeves",
-      "description": "Production has been paused while Reeves attends to a family matter.",
-      "url": "https://www.indiewire.com/news/breaking-news/the-batman-part-ii-production-resumes-steven-soderbergh-1235222313/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/04/P10W1L0.jpg?w=650",
-      "publishedAt": "2026-10-15T22:28:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -358,18 +370,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/15/i-see-buildings-fall-like-lightning-clio-barnard-keiran-goddard-birmingham",
       "image": "https://i.guim.co.uk/img/media/e1a1f1f98b10a64411ba0fc073c17ecbe948be05/1262_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33906f948fa3dbc810ff82eeb3f9f865",
       "publishedAt": "2026-10-15T04:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-RyeS1uZXctdGFsZW50",
-      "title": "Jessie Buckley suggests film industry gives too much weight to Oscar campaigns",
-      "description": "The actor, who won the Academy Award for best actress this year, was speaking at the BFI and Chanel film-maker awards Jessie Buckley has questioned whether the film industry places too much emphasis on Oscar campaigns at the expense of nurturing emerging talent, suggesting there may be greater potential in supporting film-makers at grassroots level. Speaking at the BFI and Chanel film-maker awards in London, the actor was responding to comments by John Malkovich, who said Oscar campaigns were now the only way to get audiences into cinemas . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/14/jessie-buckley-film-industry-new-talent",
-      "image": "https://i.guim.co.uk/img/media/23c2b3ebae9095149684fc5e62bc82ccb2dd5ad0/369_40_3128_2503/master/3128.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99a84fa6951eeba9f649196efbd6d2b6",
-      "publishedAt": "2026-10-14T17:38:55.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
