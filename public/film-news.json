@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:44:25.492Z",
+  "generatedAt": "2026-10-18T12:38:51.700Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-GEtYmFyb24tY29oZW4",
+      "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
+      "description": "Staines’s finest nailed the zeitgeist of the late 90s and early 00s, and now he’s back – but how does he fit into 2026? He discusses the backlash against his return, his worst ever interviewee and how he’s going to prevent world war two “Can you tell people that you’re&nbsp;from Hustler?” Ali G asks me. “Or The Source. Or Guns & Ammo. Speaking to a Guardian journalist ain’t a good look for me in the hood.” At Ali’s request, we are meeting in an independent chicken shop in Staines because – due to some sort of mix-up – he thought the one interview he had agreed to for his new film was Chicken Shop Date , which was “90% likely to lead to boning”. He follows this with an entirely unprintable reminiscence about the first time he and “me Julie” had sex in the disabled toilets of Egham KFC. Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/oct/18/ali-g-film-who-iz-i-interview-sacha-baron-cohen",
+      "image": "https://i.guim.co.uk/img/media/25aed892b82e08b2e0eed3714f8d98e4724206f5/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7dc797b4f5be2b13b0abf640fb7cc525",
+      "publishedAt": "2026-10-18T09:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-HMtMTIzNTIyMjUzMC8",
       "title": "‘Dirty Dancing’ Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby’s Next Chapter",
@@ -26,6 +38,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Comedian Paul Whitehouse mugged at London cash machine",
+      "description": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-18T00:06:36.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-NlLTEyMzUyMjI1MjYv",
@@ -290,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-V0cmF0b3ItY2luZW1h",
-      "title": "Calling the shots: what NAZA says about perpetrator cinema",
-      "description": "The documentary detailing Israel’s mass killing of civilians in Gaza is the latest film to give a voice to those who carry out atrocities – confronting viewers with some of the most difficult questions of all Are we still talking about the banality of evil? When that overworked phrase was first used by philosopher Hannah Arendt, it described the blank persona of Nazi war criminal Adolf Eichmann. Now, in NAZA , anonymised members of Israeli intelligence discuss their remote execution of the assault on Gaza. The comparison to Hitler’s Germany, while understandably controversial, is made by a subject themselves. If they are banal, it is a modern, oddly familiar kind. These are articulate, middle-class millennials. They say they are leftwing and non-racist. Put differently, they could be Guardian readers. And yes, one remarks , they have been conducting a genocide. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/calling-the-shots-what-naza-says-about-perpetrator-cinema",
-      "image": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/420_217_2330_1864/master/2330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a78ad80cab6ad7eb2bf30ad128d07d7",
-      "publishedAt": "2026-10-16T07:00:53.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
