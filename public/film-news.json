@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:06:29.987Z",
+  "generatedAt": "2026-10-18T06:44:25.492Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-HMtMTIzNTIyMjUzMC8",
+      "title": "‘Dirty Dancing’ Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby’s Next Chapter",
+      "description": "Producer Nina Jacobson also revealed why \"Crazy Rich Asians\" is getting an HBO series instead of a movie sequel at IndieWire's Future of Filmmaking Summit.",
+      "url": "https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_4805.jpeg?w=650",
+      "publishedAt": "2026-10-18T01:29:20.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-NlLTEyMzUyMjI1MjYv",
       "title": "Bill Hader Always Wanted to Direct a Film — His Divorce, ‘SNL,’ and Kiyoshi Kurosawa Helped Him Finally Build ‘They Know’",
@@ -242,18 +254,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjIyMzQ5Lw",
-      "title": "A Forgotten Richard Gere Vehicle from His Peak Era Is Back in Circulation",
-      "description": "\"The Honorary Consul\" ended the actor's hot streak at the box office in 1983 and vanished into obscurity, but a new physical media collection devoted to its director reveals it to be worthy of reappraisal.",
-      "url": "https://www.indiewire.com/features/commentary/richard-gere-the-honorary-consul-revisited-1235222349/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/M8DBETH_EC022.jpg?w=650",
-      "publishedAt": "2026-10-16T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
