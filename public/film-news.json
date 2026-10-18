@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T12:38:51.700Z",
+  "generatedAt": "2026-10-18T18:34:07.861Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-2UtMTIzNTIyMjY3MS8",
+      "title": "‘La Bola Negra’ Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History",
+      "description": "Welcome to the exciting world of box office reporting, Ted Sarandos!",
+      "url": "https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LBN_20251003_0441_carlaoset_R.jpg?w=650",
+      "publishedAt": "2026-10-18T15:02:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-2ktMTIzNTIyMjY3Ni8",
+      "title": "How Titmouse Animation Gave ‘Street Fighter’ Its Secret Sauce",
+      "description": "Studio co-founder Chris Prynoski told IndieWire about crafting the ‘90s anime-inspired flashback sequences for the video game adaptation.",
+      "url": "https://www.indiewire.com/features/animation/street-fighter-2026-animation-titmouse-chris-prynoski-1235222676/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSTFI_PA022.jpg?w=650",
+      "publishedAt": "2026-10-18T14:30:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5kLTEyMzUyMjI0NDYv",
+      "title": "‘You Can See Everything’ Opens to a Staggering $15 Million, Securing A24’s Place as Hollywood’s Hottest Brand",
+      "description": "Audiences rushed to theaters as Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary arrived shrouded in secrecy.",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
+      "publishedAt": "2026-10-18T13:47:28.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-GEtYmFyb24tY29oZW4",
       "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
@@ -232,30 +268,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-3ktMTIzNTIyMjE4NS8",
-      "title": "Is Meme Casting a Viable Hollywood Marketing Strategy?",
-      "description": "Paramount's new \"Street Fighter\" reboot is generating as much hype for its eclectic cast as its IP. Its box-office success might be a case study in marketing through WTF casting.",
-      "url": "https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DSC7490R.jpg?w=650",
-      "publishedAt": "2026-10-16T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JnLTEyMzUyMjIzNDUv",
-      "title": "As the Major Fall Film Festivals Wrap, the Oscar Race Goes Regional",
-      "description": "Regional festivals, like the just-opened Middleburg Film Festival, attract top awards contenders — and the pundits who cover them.",
-      "url": "https://www.indiewire.com/news/festivals/2026-fall-film-fests-regional-middleburg-1235222345/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY01-ThursOCT15_TheDebut_0092-e1792168761963.jpg?w=650",
-      "publishedAt": "2026-10-16T15:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-phLWRvY3VtZW50YXJ5",
       "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
       "description": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossible to ignore”. NAZA, which is produced by the Guardian and details Israel’s mass killing of civilians in Gaza, was released in UK cinemas this week and will be shown in more than 50 countries. As well as its global cinema releases, NAZA will be available free on the Guardian’s website from late November. Continue reading...",
@@ -265,18 +277,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjIyMzg1Lw",
-      "title": "‘You Can See Everything,’ A24’s Elizabeth Holmes Documentary, Scores an Impressive $1.75 Million in Thursday Previews",
-      "description": "Nathan Fielder and Lance Oppeheim's look at the Theranos founder appears to be resonating with audiences as it looks at a $7 million to $8 million opening.",
-      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-elizabeth-holmes-previews-gross-1235222385/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDYOCA_EC124.jpg?w=650",
-      "publishedAt": "2026-10-16T15:04:29.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
