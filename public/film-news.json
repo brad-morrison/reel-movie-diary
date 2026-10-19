@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:07:10.788Z",
+  "generatedAt": "2026-10-19T07:02:14.470Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-lldy15aS1zaGFuLWxv",
+      "title": "After the Snowmelt review – a fatal disaster in a snowstorm leads to devastating act of remembrance",
+      "description": "Yi-Shan Lo returns to Nepal to follow the route of her best friend’s ill-fated hike in a harrowing but cathartic documentary A work of deep personal reckoning, Yi-Shan Lo’s debut documentary feature opens with closeups of the film-maker’s own footsteps as she trudges through a snowbound landscape. Her jagged movement mirrors the rugged trajectory of the film itself, which grapples with a harrowing tragedy. In 2017, Lo was about to join her best friends Chun and Yueh on their hiking trip across Nepal when she came down with a sudden illness; she decided to stay behind while the other two carried on. Disaster struck: the pair went missing during a heavy snowstorm and were not found for more than 40 days. Yueh survived, but Chun died from lack of food coupled with hypothermia. Struggling to make sense of these events, Lo painstakingly retraces the days leading up to and during her friends’ disappearance. She pores over old text messages, Chun’s diaries and footage captured by the Nepali rescue team. These materials shed some light on the ordeal, as well as the pair’s backgrounds. Diving into her personal archive, Lo recalls her burgeoning friendship with Chun at their Catholic girls’ school, where the latter defiantly resisted the institution’s rigid dress codes. Considering Chun’s efforts to express his non-conforming identity and his use of male pronouns, it is even more devastating that he was repeatedly misgendered in death by various news reports. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/after-the-snowmelt-review-yi-shan-lo",
+      "image": "https://i.guim.co.uk/img/media/e1254ea3ed7db790bbf88f0cd8c04dcb08e1b99a/0_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=83ae81933de7f08746e4d7431656ff67",
+      "publishedAt": "2026-10-19T06:00:20.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZW5pbmctd2Vla2VuZA",
+      "title": "Elizabeth Holmes documentary You Can See Everything debuts with huge $15m opening weekend",
+      "description": "Nathan Fielder and Lance Oppenheim’s buzzy film was shown on only 855 screens in the biggest documentary opening in North America since Fahrenheit 9/11 in 2004 Nathan Fielder’s nearly three-hour Elizabeth Holmes documentary, You Can See Everything , has opened to an extraordinary $15m domestic box office, the biggest opening weekend for a documentary in North America in more than 20 years. You Can See Everything, directed by Nathan Fielder and Lance Oppenheim, made $15m (A$21.5m, £11.2m) from only 855 screens, and had more than 2,000 sold-out screenings at the weekend, according to the production company A24. It is the biggest opening for a film playing on fewer than 1,000 screens since Borat opened to $26.5m in 2006. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
+      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/396_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b634388acf68b95ea8c76602c3d15e4d",
+      "publishedAt": "2026-10-18T23:06:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMjI1NTgv",
       "title": "Léa Seydoux Became Fearless After the Controversies of ‘Blue Is the Warmest Color’ — She’s Doing It Again with ‘Gentle Monster’",
@@ -290,30 +314,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-XNpbGVuY2UtbGFtYnM",
-      "title": "An open book: how to make a great film adaptation, from The Shining to Trainspotting",
-      "description": "Not every great novel makes a great movie, and sometimes the opposite is true. But regardless of the source text, or how beloved characters are treated, there is more than one way to write a successful adaptation It is always fun to join in a craze, like a Victorian going mad for penny farthings. Which is probably why, against my better judgment, I&nbsp;went to see Christopher Nolan’s blockbuster The Odyssey this summer, buying my ticket into the popular conversation along with everyone else. This year’s other divisive adaptation, Emerald Fennell’s Wuthering Heights, had the world and&nbsp;his wife arguing about it before they had even watched the film. No&nbsp;doubt the makers of the recent Sense and Sensibility movie were also hoping for lots of&nbsp;people to go and see it to discover whether they hated it. After all, very few of us leave the cinema saying: “That’s exactly how I&nbsp;pictured it in my head.” Or even less&nbsp;likely: “That was better than the&nbsp;book.” We’re more likely to shake&nbsp;our fists at how they ruined the&nbsp;ending, dumbed it down, unforgivably cast somebody with the&nbsp;wrong hair, or betrayed a beloved&nbsp;character, as with last year’s Thursday Murder Club debacle. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/book-film-adaptations-shining-trainspotting-bridget-jones-godfather-clockwork-orange-silence-lambs",
-      "image": "https://i.guim.co.uk/img/media/992cc840835cab82713bd4e3fa44356fb89e57b5/666_1069_3103_2482/master/3103.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43c26b471ae019d17b3993f36e026bd5",
-      "publishedAt": "2026-10-16T12:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZW50YXJ5LXJldmlldw",
-      "title": "The Disciple: A Wu-Tang Fable review – Netflix doc on ‘secret album’ is strictly for super fans",
-      "description": "The lore of Once Upon a Time in Shaolin, once bought by Martin Shkreli, is explored in a rambling film produced by RZA For every reason except one, Once Upon a Time in Shaolin, the seventh album by the Wu-Tang Clan , should’ve been a commercial hit. The 31-track double album, recorded in secret between 2007 and 2013, reunited all of the remaining members of the hallowed Staten Island rap crew and featured eye-catching collaborators from the standard (Redman, offshoot group Wu-Tang Killa Bees) to the unexpected (Cher, Game of Thrones actor Carice van Houten). The sound, at least according to those involved, harkened back to the glory days of the group’s beginnings in the 90s. But for years, almost no one heard it. The group only issued a single copy of Once Upon a Time in Shaolin – on CD, ensconced within layers of filigreed silver – with the stipulation, in legalese, that it could not be used for any commercial purposes for 88 years. The decree, either a stunt or a bold artistic statement on streaming’s devaluation of music, depending on your generosity and perhaps your net worth, succeeded in drumming up plenty of hype. And if you were anywhere around the blogosphere or cable news in 2015, you may recall that the beneficiary of that hype – the purchaser and thus single intended listener of this $2m musical treasure – was one Martin Shkreli , the “pharma bro” widely despised for gleefully hiking the costs of prescription drugs for profit. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/disciple-wu-tang-fable-netflix-documentary-review",
-      "image": "https://i.guim.co.uk/img/media/153e70a94ccc4dc6fa1f2132626e552ad82bc9ff/180_0_2694_2155/master/2694.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=24ee777f313df43c8e860d81a5d1ea53",
-      "publishedAt": "2026-10-16T09:00:57.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
