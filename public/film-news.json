@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:02:14.470Z",
+  "generatedAt": "2026-10-19T12:46:23.834Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -16,12 +16,96 @@
   },
   "articles": [
     {
-      "id": "guardian-lldy15aS1zaGFuLWxv",
-      "title": "After the Snowmelt review – a fatal disaster in a snowstorm leads to devastating act of remembrance",
-      "description": "Yi-Shan Lo returns to Nepal to follow the route of her best friend’s ill-fated hike in a harrowing but cathartic documentary A work of deep personal reckoning, Yi-Shan Lo’s debut documentary feature opens with closeups of the film-maker’s own footsteps as she trudges through a snowbound landscape. Her jagged movement mirrors the rugged trajectory of the film itself, which grapples with a harrowing tragedy. In 2017, Lo was about to join her best friends Chun and Yueh on their hiking trip across Nepal when she came down with a sudden illness; she decided to stay behind while the other two carried on. Disaster struck: the pair went missing during a heavy snowstorm and were not found for more than 40 days. Yueh survived, but Chun died from lack of food coupled with hypothermia. Struggling to make sense of these events, Lo painstakingly retraces the days leading up to and during her friends’ disappearance. She pores over old text messages, Chun’s diaries and footage captured by the Nepali rescue team. These materials shed some light on the ordeal, as well as the pair’s backgrounds. Diving into her personal archive, Lo recalls her burgeoning friendship with Chun at their Catholic girls’ school, where the latter defiantly resisted the institution’s rigid dress codes. Considering Chun’s efforts to express his non-conforming identity and his use of male pronouns, it is even more devastating that he was repeatedly misgendered in death by various news reports. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/after-the-snowmelt-review-yi-shan-lo",
-      "image": "https://i.guim.co.uk/img/media/e1254ea3ed7db790bbf88f0cd8c04dcb08e1b99a/0_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=83ae81933de7f08746e4d7431656ff67",
-      "publishedAt": "2026-10-19T06:00:20.000Z",
+      "id": "guardian-Zy1hd2F5LXJldmlldw",
+      "title": "The Night Is Fading Away review – hypnotic homage to cinema as a force for public good",
+      "description": "A local cinema becomes a refuge after Javier Milei’s election ushers in an era of far-right conservatism in Argentina Cinema halls – or dream palaces, as they’re affectionately called – offer a retreat into the realm of make-believe, and everyday drudgery is left at the door. Though set within a single-screen theatre in the Argentinian city of Córdoba, Ramiro Sonzini and Ezequiel Salinas’s hypnotic film invokes a more porous relationship between the screen and its audience. Here, the messiness of life beguilingly sneaks into this domain of fantasies, blurring the borders between public and private spaces. While the luminous black-and-white cinematography lends a dreamy fuzziness to the images, the narrative concerns are grounded in thorny economic realities. A film projectionist at his local cinema called Pelu (Octavio Bertone) is reassigned to the post of a night watchman due to budget cuts at the city hall. The cinema soon becomes his literal refuge: he moves out of his cramped rented flat and secretly takes up occupation at his workplace. He then welcomes a horde of other outsiders, including his unemployed roommate, an ageing drifter and a sex worker who livestreams her erotic shows from the cinema. Every night, they watch classic films from the old masters – Jean Renoir, Yasujiro Ozu and Robert Bresson to name a few – until the early hours. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/the-night-is-fading-away-review",
+      "image": "https://i.guim.co.uk/img/media/485d104475b5bf42f1ccdd35c0b577189d9c3788/324_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3eda132f804d07ae1350791d2fbfaf80",
+      "publishedAt": "2026-10-19T12:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-291bnRlcmN1bHR1cmU",
+      "title": "‘We tried to levitate the Pentagon’: the almost unbelievable life of Ed Sanders, trickster god of the US counterculture",
+      "description": "He gave Jimi Hendrix his gear, freaked out Frank Sinatra, inspired Norman Mailer – and tried to topple the American war machine. As a documentary about his band the Fugs comes out, the 87-year-old gives a rare interview “Charles Manson once wrote me a letter saying, ‘If I was as powerful as you claim then you wouldn’t be here,’” Ed Sanders tells me over a video call, savouring the menace in that sentence. Sanders is an American maverick; a musician, poet, activist, journalist and author whose greatest hit remains his bestselling 1971 book The Family, in which he chronicled the lives, crimes and trials of Manson and his followers. Sanders was well placed to report on crazed hippies, having played a pivotal role in launching the US counterculture – though he very much espoused peace, love and consciousness-raising, rather than Manson’s apocalyptic worldview. Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture",
+      "image": "https://i.guim.co.uk/img/media/02f5784fc22d34e61da7d7859d6981f0db985c44/765_111_1235_988/master/1235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e44b6569632215fe1f13ff8a622b3c46",
+      "publishedAt": "2026-10-19T12:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "You Can See Everything documentary stuns with huge box office debut",
+      "description": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34cb/live/078117f0-cba1-11f1-9ee2-f74dfb8e54e5.jpg",
+      "publishedAt": "2026-10-19T10:37:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-2UtdXBvbi1hLXRpbWU",
+      "title": "‘They were brilliant people’: fascinating film reveals a Harlem Renaissance reunion",
+      "description": "In the dazzling archival documentary Once Upon a Time in Harlem, a 1972 cocktail party brings together various creative luminaries as they discuss and debate More than a flowering of the arts at the dawn of the 20th century, the Harlem Renaissance marked the breakthrough moment when Black Americans asserted their creative control, defining a culture that had been purpose-built to exclude them. The imprints were all over the Jazz Age – on bookshelves and radio, in flapper dresses and cloche hats, in Hubert Julian’s daring flights and the fractious debates between Marcus Garvey and WEB Du Bois. Like the David committee of the Italian Renaissance or the American Revolution’s Continental Congress, the Harlem Renaissance is one of those moments that makes you wonder: what was it really like? The Dark Tower salons? Those Cotton Club nights? The rent parties with all those New Negroes – a heady brew of southern émigrés, Caribbean vanguards and New York lifers – holding forth and hootin’ and hollerin’, high on the fact that they had found one another? Could they appreciate the significance of the moment as they were making it? “I remember being in Brooklyn in the 1990s and seeing various artists around,” says film-maker Liani Greaves, reflecting on her early career working with Tupac on Above the Rim and the director Hype Williams on Biggie music videos. “Brooklyn Moon Cafe was the spot. Sometimes we forget that it is The Now. We’re constantly looking to the next thing, looking outside.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
+      "image": "https://i.guim.co.uk/img/media/9fa89b6157205c7300f14da0d47944b93e443f3f/93_0_1255_1004/master/1255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=565c3ca4a6fdaf2a17c04e93f300aaa6",
+      "publishedAt": "2026-10-19T10:00:06.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-aHQtZmFpcmdyb3VuZA",
+      "title": "Vampire Carnival review – it’s Twilight at the fairground as abs run wild in pointy-toothed tug of war",
+      "description": "A mortal twentysomething is caught in a love triangle with two hunky vampire carnival workers in a film with good looks but not much to chew on ‘Does this whole Edward Cullen act actually work?” A distinct Twilight feeling is in the air in this initially enlivening vampire flick, with willowy twentysomething mortal Gemma (Nell Verlaque) caught in the middle of a pointy-toothed tug of war between tender Italian hunk Sebastian (Alvise Rigo) and her bad boy ex Eric (Kieron Moore). When she strolls with her friends into a hot vampire carnival, the ab count nearly outdoes the haemoglobin one. But this good-looking whirligig winds up disappointingly disjointed. Gemma is still regrouping after her father’s suicide, an unspecified amount of time earlier. So her mum is relieved when she takes a night off from grieving by checking out the local fair with pals Ryan (Corrado Martini) and Olivia (Pauline Chávez). Absent for many years, creepy Eric has apparently joined the circus, featuring as the ostentatiously self-harming Man Who Feels No Pain. But when Sebastian invites Gemma into the carnival’s orgiastic inner sanctum, she learns they are a coven of bloodsuckers who, under leader Toussaint (Jason Isaac), have a strict no-killing code of conduct. Or, in the case of potential initiates like Gemma, obtaining consent. “No means no,” says immortal softboi Sebastian. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/vampire-carnival-review-twilight-fairground",
+      "image": "https://i.guim.co.uk/img/media/c84bd0552f44e986261e9eb408b10bce6940ea99/0_50_1234_987/master/1234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1311bd33c5be4741934450ee94487d74",
+      "publishedAt": "2026-10-19T10:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-hpbmctYWZ0ZXItYWxs",
+      "title": "A Zack Snyder DC Universe might not have been such a bad thing, after all",
+      "description": "After Joss Whedon’s arrival, back in the news with comments from Ben Affleck, the franchise lost a sense of earnest passion that could have sustained a weary DCEU Nine years after superhero epic Justice League arrived in cinemas, there ought to be very little left to say about how it all went wrong. Zack Snyder shot the film, Joss Whedon substantially rewrote and reshot it, and audiences eventually got to see both men’s versions. Any debate over their relative merits long ago disappeared. Whedon is pretty much cancelled; Snyder has reinvented himself as the writer-director of extremely average ersatz Star Wars movies for Netflix, and an entirely new DC universe is under way that has very little to do with either of them. To a greater or lesser extent, the world has moved on. But Ben Affleck’s latest comments raise an uncomfortable question about whether Snyder’s departure was ever presented honestly. Speaking to Josh Horowitz on the Happy Sad Confused podcast , Affleck, who played Batman, described the Justice League reshoots as the lowest point of his career, but reserved his strongest criticism for the circumstances of Snyder’s departure. The director stepped away in May 2017 , two months after his daughter Autumn killed herself, aged 20, with the public explanation that he needed to be with his family. Affleck, however, alleged that studio Warner Bros had used the tragedy to justify replacing him. “The way in which that was, I thought, used as an excuse was one of the shittiest things I’ve ever seen,” Affleck said. “It was so gross.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/a-zack-snyder-dc-universe-might-not-have-been-such-a-bad-thing-after-all",
+      "image": "https://i.guim.co.uk/img/media/ee4a4aefa639586fe4cc479b4045e4ed57579d23/405_331_1931_1545/master/1931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=359cb2f8b59a039daa1ecd91f1972eac",
+      "publishedAt": "2026-10-19T09:45:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-ZlZWxnb29kLW1vdmll",
+      "title": "‘A beautiful dismantling of cynicism’: why Galaxy Quest is my feelgood movie",
+      "description": "The latest in our series of writers detailing their most easily rewatched comfort films is an appreciation of a smart, funny and tender ode to fan culture “By Grabthar’s hammer, by the sons of Worvan … you shall be avenged.” If you have seen Galaxy Quest, those words may bring you close to tears. They mark the moment when Alan Rickman’s character – a Shakespearean luvvie turned sci-fi sidekick – realises that the ludicrous catchphrase he has reluctantly uttered thousands of times does matter after all. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/galaxy-quest-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/816af626e4a68d805eb0bfa985cd54f3c837d2c1/169_0_2359_1888/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dde576f572bc9185454bd39a3d3c5ed8",
+      "publishedAt": "2026-10-19T09:00:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-53YXItaW5kb25lc2lh",
+      "title": "Ghost in the Cell review – Indonesian prison-slasher-satire contains the most unhinged punch-up in decades",
+      "description": "Director Joko Anwar uses horror for social commentary as he skewers corruption and hypocrisy with likable silliness and raucous energy Given the 2020s horror boom, Indonesia’s prolific Joko Anwar – who has worked more often in that genre than any other – should be better known. Using horror for social commentary, as Anwar has done often in the past, this prison-slasher-satire features the kind of scabrous broadsides against injustice you see in Bong Joon-ho’s films, and Park Chan-wook’s recent No Other Choice . But in skewering the corruption and hypocrisy of the director’s native country, it has its own likable silliness and raucous energy. As the inmates keep saying: this is Indonesia, not Norway! Fitted up for the murder of his boss, who is found gutted and spreadeagled on a ceiling fan, timid investigative journalist Dimas (Endy Arfian) winds up in the slammer. But murder, immediately followed by the flamboyant flaying of the victim, dogs him wherever he goes: the prison hitman assigned to dispose of him is in turn found in the washroom rendered into flesh origami. Charismatic prison refusenik Anggoro (Abimana Aryasatya) takes Dimas under his wing; as the victims stack up, an apparently clairvoyant member of his clique called Six (Yoga Pratama) admits that all of them manifested a red aura, signifying anger, prior to dying. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/ghost-in-the-cell-review-joko-anwar-indonesia",
+      "image": "https://i.guim.co.uk/img/media/f5f1399896945fd2ea6ead9caf89ce1c50e3c03d/561_0_1046_838/master/1046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=31bdf374ac2c3b9c02e831bb9b566d61",
+      "publishedAt": "2026-10-19T08:00:22.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -148,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LWNhcm9sLW1vcmxleQ",
-      "title": "7 Miles Out review – Carol Morley’s funny-poignant self-portrait of teenage kicks in Stockport",
-      "description": "A daring, rich and funny study of the ordeal of having to invent and reinvent your own teenage sense of self amid confounding changes Carol Morley’s self-portrait of the artist as a young woman is rich, tender and terribly funny and sad: a study in the chaos of being young and a triptych of childhood, girlhood and youth, with some daring touches of Terence Davies. It is about the ordeal of having to invent and reinvent your own teenage sense of self, even as the things you thought permanent suddenly collapse – including the background stability of your poor old mum and dad. And it’s also about the untold, unacknowledged story of sadness that lay behind the angry blaze of punk and new wave. Watching this I thought of something I’d assumed lost for ever: my own feelings, aged 17, on hearing Buzzcocks’ Sixteen: “… I wish I was 16 again / Then things would be such fun / All the things I’d do would be the same / But they’re much more fun / Than when you’re 21.” Could it be, I thought, that I’m already sad about not being 16? 7 Miles Out is based on Morley’s autobiographical novel of the same title , the once-upon-a-time-in-Stockport story of Ann, played with charm and zing by Lucy Halliday, and as a sweetly innocent young girl by Amelie Hughes. Young Ann pretends to be making a radio programme with her cassette recorder the way so many did in the 1970s, and hero-worships her would-be rock journalist elder brother Scott (Kasper Hilton-Hille) – based on Morley’s brother Paul – who is already plugged into the burgeoning post-punk and new wave scene. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/17/7-miles-out-review-carol-morley",
-      "image": "https://i.guim.co.uk/img/media/0f37c0f8029ed9fe05a69956e68e14c3faece693/144_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=9587a3aba524547d3658e101212a9274",
-      "publishedAt": "2026-10-17T17:35:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-2lsbGluZ3MtdmlkZW8",
       "title": "NAZA directors: 'It's a film about systems of mass killing' – video",
       "description": "The directors of Naza, Yuval Abraham and Rachel Szor, answered questions from the Guardian's editor-in-chief, Katharine Viner, at the film's London premiere on Thursday. The critically acclaimed film includes testimony from 24 Israeli military insiders, shot at night on the rooftops of Tel Aviv. Abraham and Szor were the Israeli part of the team behind No Other Land, which won the Oscar for best documentary in 2025. NAZA was released in cinemas in more than 50 countries this week, and will stream on the Guardian’s website, for free, from late November ‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary NAZA - official trailer Continue reading...",
@@ -190,18 +262,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/17/selma-blair-airplane-incident",
       "image": "https://i.guim.co.uk/img/media/0240a387b10bdec0312128a2d117d225b661d9df/400_0_3968_3176/master/3968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f65adee00d55cda0366e5df61f87e22d",
       "publishedAt": "2026-10-17T13:52:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-eS13aHktd2UtY2FyZQ",
-      "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
-      "description": "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was altogether different. “The accent changed: this deep voice, very serious,” Agus, a medical oncologist , recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person. That transition from the green room to the stage – I had never experienced something like that before.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
-      "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=427a030b80094da2797fde8e27254087",
-      "publishedAt": "2026-10-17T09:00:28.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -244,18 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-LW1vdmllLXJldmlldw",
-      "title": "Masterplan review – Stanley Tucci is wasted in Amazon’s smooth-brained heist caper",
-      "description": "A ‘family’ of criminals attempt to steal the Mona Lisa from the Louvre in pulpy and forgettable thriller In the last half-decade Stanley Tucci has been a source of near-inexhaustible on- screen delight, whether making friends with nonnas in his delightful cooking shows or smartly judged supporting turns in Conclave and The Devil Wears Prada 2 . He is an actor well placed for a star vehicle of his own, and this one, Masterplan , sounds good on paper: an art heist fronted by the actor at his most debonair, flanked by a grandson of a French New Wave legend (Victor Belmondo, related to Breathless star Jean-Paul) and a buzzy breakout of The White Lotus (Simona Tabasco, winning in season two of Mike White’s comedy). There’s a good bit of pulpy fun to have here, with double, triple and quadruple crossing, silly spy gadgetry which has been updated to include retina scan cloning and something called “VR intrusion”. As British criminal mastermind Roger, Tucci is game to send up aristo archetypes, even if his character often veers into parody. “I’m English,” his character says at one point. “‘Not bad’ is what I say when I orgasm.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/masterplan-stanley-tucci-movie-review",
-      "image": "https://i.guim.co.uk/img/media/ab444ffd646868ee235740dbf36a7a81ea4af40c/252_0_2497_1996/master/2497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=40f05606071e1787bdb425923116408a",
-      "publishedAt": "2026-10-16T19:24:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-JlLTEyMzUyMTMxNzkv",
       "title": "Fall Festival Movies Sold So Far: Niki Byrne’s Chase Infiniti-Starring College Drama ‘The Julia Set’ Goes to SPC",
       "description": "Infiniti stars in the TIFF premiere as a math genius whose future is threatened by an overbearing (and academically jealous) new love interest.",
@@ -278,18 +326,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-a2F6dS1rb3JlLWVkYQ",
-      "title": "Look Back review – Kore-eda’s ode to friendship, manga and artistic success",
-      "description": "Two obsessive artists team up to achieve their dreams, but then their aspirations diverge Hirokazu Kore-eda’s sad and beautiful film is about friendship, about the ecstasy and burden of success and about what it means to have an artistic vocation, especially when that vocation is pursued collaboratively, with your best friend. It is adapted by Kore-eda from the standalone, or “one-shot”, online manga story of the same title by Tatsuki Fujimoto, which has in fact already had an anime movie adaptation. Fujino, played by Furi Nanase as a 13-year-old and later by Natsuki Deguchi, is a dedicated would-be manga artist who dreams of being published and adapted for the movies. It is her personal and artistic destiny to come into contact, in her early teens, with fellow manga obsessive Kyomoto, who is played first by Rokka Okada and then as an adult by Aju Makita. Theirs is a kind of platonic but passionate love story. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/look-back-review-hirokazu-kore-eda",
-      "image": "https://i.guim.co.uk/img/media/c42413af9c22d220ec387331546155c96bdc43c7/124_0_849_679/master/849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=59d54ce076a647479762a7dd295ab508",
-      "publishedAt": "2026-10-16T16:50:17.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-phLWRvY3VtZW50YXJ5",
@@ -388,36 +424,12 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-bGFpbi1jbGF5ZmFjZQ",
-      "title": "‘A tipping point of ickiness’: Welsh star Tom Rhys Harries on playing eyelid-snipping DC supervillain Clayface",
-      "description": "He cut his teeth playing rock stars and pretty posh boys. Speaking from his LA home, the actor talks about landing his first blockbuster lead in the grisly DC horror. Will it be too shocking for comic book fans? Exactly 13 years ago this month, Tom Rhys Harries was hanging by his ankles from a meat hook every night. Playing a teenage rock’n’roll idol abducted by gangsters in a revival of Jez Butterworth’s Mojo, Harries was fresh out of drama school and the only unknown in a cast led by Ben Whishaw and Rupert Grint. The Guardian’s Michael Billington likened him to “an embryonic Elvis”. Now the 36-year-old Cardiff-born actor has the title role in Clayface, a violent DC Comics supervillain blockbuster set in Batman’s stomping ground, Gotham City. This puts him in the company of fellow Brits in the comic-book universe, such as Tom Holland (Spider-Man), Robert Pattinson (Batman) and David Jonsson, recently announced as the new Black Panther. “I felt ready to do this,” says Harries. “Had I been younger, I’d have been suffocated by the insecurity of wanting to do a good job but not having that quiet trust in getting there.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
-      "image": "https://i.guim.co.uk/img/media/88b409ecac1f4a4fa9b336854aab4f664166564d/241_0_6824_5460/master/6824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71ddcf71cd4804559d384938096fac4f",
-      "publishedAt": "2026-10-13T14:58:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ctYWFyb24tc29ya2lu",
       "title": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
       "description": "Aaron Sorkin’s attempt to return to the success of The Social Network is a strangely dated and incomplete look at a world that needs a sharper eye In retrospect, David Fincher’s 2010 film The Social Network was a landmark for a quiet, even counterintuitive reason. Before the film was released, some questioned whether Aaron Sorkin, a writer not exactly known for his mastery of, nevermind obsession with, the technical sphere, was the right man to tell the origin story of Facebook. And while Sorkin may well have converted Mark Zuckerberg into terms he could better understand – namely, a motormouthed wiseass who deep down wants to impress a smart, serious-minded girl – he and Fincher also made one of the first internet-centric movies to treat online life as a natural extension of IRL dynamics, rather than the otherworldly tech portal seen in so many 90s internet movies. Granted, that’s the whole deal with Facebook: its viral spread of social networking, something so simple and addictive that aunts, grandpas and co-workers everywhere could understand it. Yet understanding its simultaneous extension and distortion of the real world wasn’t a given; four years later, for example, 2014’s Men, Women and Children was widely derided for taking an alarmist approach to the internet as a haven for adults seeking an affair, teenagers nursing porn addictions and fame-hungry strivers of all ages. The Social Network, on the other hand, is remarkably nonjudgmental about the basic mechanics of Facebook, rooting its nascent flaws in the human weaknesses that birthed it. In retrospect, the movie only feels outdated to the extent that it underestimates Zuckerberg’s grasping for power and the potential for grim carelessness that his online kingdom was built on. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin",
       "image": "https://i.guim.co.uk/img/media/b14a9b14430495500b14eea4327e8f10c0d0632e/582_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a6f2b77984356e92aa25fb5e9f80e39b",
       "publishedAt": "2026-10-13T09:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-dmVzLW9mLW90aGVycw",
-      "title": "‘I knew I was being followed’: Keira Knightley on her hacking nightmare – and new Stasi spy play The Lives of Others",
-      "description": "As the Oscar-winning Stasi surveillance film hits the stage, Knightley and co-star Luke Thompson talk about the paranoia at its heart, the cost of theatre tickets nowadays – and their fury at ringtones in the stalls Unpacking assorted tubs of carrot sticks and salad, Keira Knightley winces apologetically. “I just realised I’ve got very crunchy food,” she says. How apropos that she should consider the impact that her lunch might have on my audio recording when we are here to discuss The Lives of Others , a new play in which the characters are divided between the spies and the spied-upon. Based on the Oscar-winning 2006 film and set in East Berlin in 1984, the play stars Knightley as Christa-Maria, a theatre actor in a relationship with a playwright, Georg, played by Luke Thompson. Earwigging on them is Wiesler (Stephen Dillane), the Stasi officer whose principles are gradually challenged and weakened by his round-the-clock exposure to this cultured couple. Continue reading...",
-      "url": "https://www.theguardian.com/stage/2026/oct/13/keira-knightley-luke-thompson-hacking-stasi-spy-play-the-lives-of-others",
-      "image": "https://i.guim.co.uk/img/media/242c564b6a74a6542d6167db96d8e8b2c217cd4c/121_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55b65050904db75bd17d6bce0564592",
-      "publishedAt": "2026-10-13T04:00:13.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
