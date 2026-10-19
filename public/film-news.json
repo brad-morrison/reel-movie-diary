@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T12:46:23.834Z",
+  "generatedAt": "2026-10-19T18:40:15.052Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-OC0xMjM1MjIyNzk2Lw",
+      "title": "Jon Stewart Extends Weekly ‘Daily Show’ Hosting Gig Through 2028",
+      "description": "Stewart will continue to host the show on Monday nights, with a rotating cast of correspondents handling the rest of the week, for the remainder of Trump's second term.",
+      "url": "https://www.indiewire.com/news/breaking-news/jon-stewart-keep-hosting-the-daily-show-through-2028-1235222796/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/daily_show_jon_stewart_2024_720.jpg?w=650",
+      "publishedAt": "2026-10-19T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjI1MTkv",
+      "title": "How Abel Ferrara and Joe Delia Made ‘Ms. 45’ a Grindhouse Classic, from Stealing Coppola’s Sound Effects to David Bowie’s Praise",
+      "description": "The director and composer look back on their exploitation classic as Delia prepares to perform the score live at a 45th-anniversary screening at the Southampton Playhouse.",
+      "url": "https://www.indiewire.com/features/interviews/abel-ferrara-ms-45-composer-joe-delia-interview-1235222519/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P106F996.jpg?w=650",
+      "publishedAt": "2026-10-19T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tom Cullen says he does not take playing LGBT roles lightly",
+      "description": "Welsh actor Tom Cullen says he approaches queer roles \"exactly the same\" as he would a straight character.",
+      "url": "https://www.bbc.co.uk/news/articles/cw146g3l8p2xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df63/live/00858d50-cbce-11f1-bc2e-018d645d8d21.png",
+      "publishedAt": "2026-10-19T17:01:08.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyMjc1MC8",
+      "title": "‘You Can See Everything’: Nathan Fielder Was So Skeptical He Could Break New Ground in Elizabeth Holmes Story, He Negotiated a Kill Switch with A24",
+      "description": "Co-director Lance Oppenheim takes IndieWire inside the extremely unusual way his collaboration with Nathan Fielder and Elizabeth Holmes documentary came together.",
+      "url": "https://www.indiewire.com/features/podcast/you-can-see-everything-how-documentary-came-together-1235222750/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
+      "publishedAt": "2026-10-19T16:50:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjIyMjE1Lw",
+      "title": "The ’60 Minutes’ Overhaul Was Said to be Driven by New Ideas — You Can’t Tell That from Watching",
+      "description": "Prior to their tenure, Bari Weiss and Nick Bilton claimed CBS's popular news program was becoming obsolete. But through five episodes of their revamped version, changes are negligible and ratings are down. What gives?",
+      "url": "https://www.indiewire.com/criticism/culture/60-minutes-bari-weiss-new-ideas-watching-bad-1235222215/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/60-Minutes-Ross-Douthat-bad.jpg?w=650",
+      "publishedAt": "2026-10-19T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-gtZHRmLXN0LWxvdWlz",
+      "title": "‘They pulled a guy’s face off. It’s my favourite bit!’ Linda Cardellini on Freaks and Geeks, Mad Men and slasher horror Crystal Lake",
+      "description": "She got to torment Don Draper in Mad Men and has just won an Emmy for DTF St Louis. But nothing prepared the star for all the gore as she switched to horror with the Friday the 13th prequel ‘The first time I had the tooth in my hand,” says Linda Cardellini, “I thought, ‘Oh my God, this is what I’m doing.’” The star of Freaks and Geeks, ER, Dead to Me, Mad Men and DTF St Louis (for which she recently won an Emmy) is talking about her pivot towards full-blown horror. In Crystal Lake, the prequel to the Friday the 13th movies, Cardellini plays Pamela Voorhees, the original slasher of the 1980 film. The tooth, by the way, is human and gets embedded in Pam’s knuckle – until she yanks it out with a gruesome, revolting slurping sound. Casual filmgoers may associate Friday the 13th with Jason, the hockey-mask-wearing serial killer. But aficionados will know that Pam, Jason’s mother, is the villain of the first movie. “He didn’t even have the mask until the third movie,” says Cardellini, who has clearly done her homework. “Pam is the original killer, in vengeance of his death.” (There is some massaging of previous storylines in Crystal Lake, such as moving Jason’s drowning from the 1950s to the early 70s, but since the franchise is flexible enough to have sent Jason into space at one point, a bit of timeline tweaking feels fair game.) Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/linda-cardellini-freaks-and-geeks-mad-men-crystal-lake-friday-13th-dtf-st-louis",
+      "image": "https://i.guim.co.uk/img/media/814b9aed610d5c354d71f4afd1eb9c1a771a062f/344_0_2023_1618/master/2023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e9a85e1dce112dd95f60e497cfb7a97",
+      "publishedAt": "2026-10-19T15:46:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-Zi0xMjM1MjIyNzQwLw",
+      "title": "Yet Another Netflix Stunner: Dan Lin Out as Film Chief",
+      "description": "After less than three years at the streamer, Lin is the latest high-powered exec to exit Netflix as it reorganizes its org chart and cuts around 1,000 jobs in the process.",
+      "url": "https://www.indiewire.com/news/business/netflix-dan-lin-out-film-chief-1235222740/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/SM2_0568_RT.jpg?w=650",
+      "publishedAt": "2026-10-19T15:43:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIyMjcxMy8",
+      "title": "Breakout ‘Behemoth!’ Musician Lukas Frank Reveals What It’s Like to Give Tony Gilroy a Rewrite",
+      "description": "Composer Lukas Frank called Tony Gilroy's version of the “Behemoth!\" original song “Your God Is Sleeping” a \"’70s protest song.\" “It wasn't that lame,” joked the director at the Middleburg Film Festival.",
+      "url": "https://www.indiewire.com/news/festivals/behemoth-lukas-frank-tony-gilroy-original-song-rewrite-1235222713/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY04SundayOCT18_BEHEMETH_00198.jpg?w=650",
+      "publishedAt": "2026-10-19T15:06:34.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
+      "title": "The reviews are in! Is You Can See Everything the greatest film ever?",
+      "description": "Nathan Fielder and Lance Oppenheim’s headspinning documentary about Elizabeth Holmes is an unprecedented critical success – even with a three-hour runtime Name: The best reviewed film in history. Age: Not even out yet, except in the US and Canada. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-elizabeth-holmes-nathan-fielder-lance-oppenheim",
+      "image": "https://i.guim.co.uk/img/media/9efd1c8eb748a5d425926136967e687c5fc4581d/2077_863_1538_1230/master/1538.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e952bdb29d7f8fefd598a98a451d9d1",
+      "publishedAt": "2026-10-19T14:25:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-Zy1hd2F5LXJldmlldw",
       "title": "The Night Is Fading Away review – hypnotic homage to cinema as a force for public good",
@@ -40,15 +148,15 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "You Can See Everything documentary stuns with huge box office debut",
-      "description": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34cb/live/078117f0-cba1-11f1-9ee2-f74dfb8e54e5.jpg",
-      "publishedAt": "2026-10-19T10:37:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
+      "id": "guardian-xlc3MtaW4tbW92aWVz",
+      "title": "Pedigree chums: why the movies are killing off fewer dogs",
+      "description": "Are film-makers wary of alienating increasingly sensitive audiences by offing a pooch? Or is humanity now just too soft to deal with the trauma of a Turner & Hooch? There was a time, not so long ago, when watching a film was a clearcut experience. There would be a good guy and a bad guy, and you would know who the bad guy was because they would shoot a dog in the face. It happened more times than you might expect. Mad Max 2, dog gets shot. Revenge, dog gets shot. Turner & Hooch, dog gets shot. Red, dog gets shot. Man with the Gun, dog gets shot. Badlands, dog gets shot. Dog Soldiers, you’ll never guess. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/19/pedigree-chums-why-dogs-are-dying-less-in-movies",
+      "image": "https://i.guim.co.uk/img/media/fb498aed613204eb8636c5b3053e3ceaed45171c/625_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30d8c14cc19366f4affec13481e83c39",
+      "publishedAt": "2026-10-19T11:36:45.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -98,18 +206,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-53YXItaW5kb25lc2lh",
-      "title": "Ghost in the Cell review – Indonesian prison-slasher-satire contains the most unhinged punch-up in decades",
-      "description": "Director Joko Anwar uses horror for social commentary as he skewers corruption and hypocrisy with likable silliness and raucous energy Given the 2020s horror boom, Indonesia’s prolific Joko Anwar – who has worked more often in that genre than any other – should be better known. Using horror for social commentary, as Anwar has done often in the past, this prison-slasher-satire features the kind of scabrous broadsides against injustice you see in Bong Joon-ho’s films, and Park Chan-wook’s recent No Other Choice . But in skewering the corruption and hypocrisy of the director’s native country, it has its own likable silliness and raucous energy. As the inmates keep saying: this is Indonesia, not Norway! Fitted up for the murder of his boss, who is found gutted and spreadeagled on a ceiling fan, timid investigative journalist Dimas (Endy Arfian) winds up in the slammer. But murder, immediately followed by the flamboyant flaying of the victim, dogs him wherever he goes: the prison hitman assigned to dispose of him is in turn found in the washroom rendered into flesh origami. Charismatic prison refusenik Anggoro (Abimana Aryasatya) takes Dimas under his wing; as the victims stack up, an apparently clairvoyant member of his clique called Six (Yoga Pratama) admits that all of them manifested a red aura, signifying anger, prior to dying. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/ghost-in-the-cell-review-joko-anwar-indonesia",
-      "image": "https://i.guim.co.uk/img/media/f5f1399896945fd2ea6ead9caf89ce1c50e3c03d/561_0_1046_838/master/1046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=31bdf374ac2c3b9c02e831bb9b566d61",
-      "publishedAt": "2026-10-19T08:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZW5pbmctd2Vla2VuZA",
@@ -220,18 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XItMTIzNTIyMjU1Mi8",
-      "title": "John Wilson’s Next Documentary Will Reportedly Show Audiences ‘How to’ Tour Like Harry Styles",
-      "description": "Hot off the success of his feature debut “The History of Concrete,” the beloved documentarian has turned his camera onto the pop star and his recent tour.",
-      "url": "https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/IndiWire_Sundance_20260124_CCF_9134.jpg?w=650",
-      "publishedAt": "2026-10-17T19:44:28.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-2lsbGluZ3MtdmlkZW8",
       "title": "NAZA directors: 'It's a film about systems of mass killing' – video",
       "description": "The directors of Naza, Yuval Abraham and Rachel Szor, answered questions from the Guardian's editor-in-chief, Katharine Viner, at the film's London premiere on Thursday. The critically acclaimed film includes testimony from 24 Israeli military insiders, shot at night on the rooftops of Tel Aviv. Abraham and Szor were the Israeli part of the team behind No Other Land, which won the Oscar for best documentary in 2025. NAZA was released in cinemas in more than 50 countries this week, and will stream on the Guardian’s website, for free, from late November ‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary NAZA - official trailer Continue reading...",
@@ -242,18 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjIyNTM0Lw",
-      "title": "Seth Rogen Trusted Animated ’Tangles’ Would Resonate Because of Its ’Specificity’",
-      "description": "“You could put 10 movies on the screen. If this was one of them, the specificity of it is what would make you instantly recognize it,\" said Rogen of the IFC animated film he produced.",
-      "url": "https://www.indiewire.com/news/festivals/seth-rogen-tangles-specificity-animated-middleburg-1235222534/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY02FridayOCT16_SethRoganConvo_0092.jpg?w=650",
-      "publishedAt": "2026-10-17T14:54:59.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-GxhbmUtaW5jaWRlbnQ",
@@ -277,54 +349,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjIyNDQ3Lw",
-      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist’s ‘The Arc’ Puts It to the Test",
-      "description": "Your scientists were so preoccupied with whether they could that they didn't stop to think about whether they should.",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=650",
-      "publishedAt": "2026-10-16T22:35:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-V0LTEyMzUyMjI0Njgv",
-      "title": "Julianne Moore and Paul Giamatti Were So ‘Perfect’ in ‘The Debut’ That They Cut Shooting Time Short",
-      "description": "Joined by Moore, the star of his latest film “The Debut,” filmmaker Jesse Eisenberg revealed to the Middleburg Film Festival audience that every scene used is his leads' \"first and second take.\"",
-      "url": "https://www.indiewire.com/news/festivals/julianne-moore-paul-giamatti-perfect-takes-the-debut-1235222468/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY01-ThursOCT15_TheDebut_0140.jpg?w=650",
-      "publishedAt": "2026-10-16T21:43:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold So Far: Niki Byrne’s Chase Infiniti-Starring College Drama ‘The Julia Set’ Goes to SPC",
-      "description": "Infiniti stars in the TIFF premiere as a math genius whose future is threatened by an overbearing (and academically jealous) new love interest.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/THE-JULIA-SET.jpg?w=650",
-      "publishedAt": "2026-10-16T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIyMjI1OS8",
-      "title": "The Costumes of ‘Sense and Sensibility’ Are a Love Letter to Stealing Your Sister’s Clothes",
-      "description": "Costume designer Grace Snell tells IndieWire about the modern and timeless influences that shaped the Dashwood family's wardrobe.",
-      "url": "https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSEAN_UC011.jpg?w=650",
-      "publishedAt": "2026-10-16T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -364,18 +388,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-mVuZXdhbC1zaWduZWQ",
-      "title": "Cult venue Prince Charles cinema ‘saved’ after lease renewal signed",
-      "description": "The much-loved central London institution, which has been threatened with closure since January 2025, secures 25-year lease without break clause with current landlords The celebrated Prince Charles repertory cinema in London’s Leicester Square has announced that the threat of closure has been staved off by signing a new 25-year lease with its landlords. In a post on social media titled “You Saved the PCC”, the cinema said that “after 21 months of uncertainty, we’re delighted to have secured the future of the cinema” and that they had “signed a new 25-year lease with no break clause, ensuring our projectors will keep rolling for years to come”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/cult-venue-prince-charles-cinema-saved-lease-renewal-signed",
-      "image": "https://i.guim.co.uk/img/media/7495541080b4c6446925030514e6a170674abb58/1026_0_5915_4732/master/5915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde2b6a67f321a99c982802eb3ff03da",
-      "publishedAt": "2026-10-15T15:20:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-nV6emllc3QtZmlsbXM",
       "title": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
       "description": "Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old director talks crime, punishment and South Park To direct one movie that is on everyone’s lips in awards season is remarkable. To make two begins to look like sorcery. That is the position in which the 30-year-old Florida-born film-maker Lance Oppenheim now finds himself. Next month brings the release of You Can See Everything, the three-hour documentary which he co-directed with faux-naif deadpan imp Nathan Fielder, in which they spend a month living with the disgraced health-tech mogul Elizabeth Holmes before she begins her 11-year prison sentence for fraud and conspiracy. The film, described by Oppenheim as “head-spinning” and so shrouded in secrecy that Variety magazine’s list of Oscar predictions identifies one of its cast members only as “[Redacted]”, is expected to become the first documentary nominated for best picture. When I meet Oppenheim in a London hotel, it is to discuss his other hot ticket, Primetime, for which Robert Pattinson is the one attracting Oscar buzz. The Batman actor gives a high-wire performance as Chris Hansen, the sensationalist US television vigilante renowned for ambushing paedophiles on To Catch a Predator, which was a disreputable and highly addictive segment of the current affairs show Dateline NBC between 2004 and 2007. Hansen later parlayed the idea, and his crusading shtick, into a succession of spin-offs. Some, including Hansen Vs Predators, had the same sleazy catnip quality. Others, such as a sting to collar bicycle thieves, did not. Continue reading...",
@@ -398,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-XJkLWJpcm1pbmdoYW0",
-      "title": "‘To succeed meant to leave’: inside the jolting film about Brummie estate kids knocked flying by demolition",
-      "description": "The novel had no hero, no dialogue and little action. So how was I See Buildings Fall Like Lightning turned into such a funny, rousing and acclaimed film? Director Clio Barnard reveals all As a kid in 90s Birmingham, Keiran Goddard would gather with his friends to watch the tower blocks coming down. That’s what passed for entertainment back then. Controlled explosions, collapsing buildings. The demolition of the city’s postwar council estates marked the end of one story and the start of another. It was a dust-blown display of regeneration and progress. The housing that replaced it would be an improvement. The people of east Birmingham would move on to better lives. Goddard, specifically, moved on to study English at Oxford University. He now lives in London and writes books for a living. Physically, he has left his home town far behind. Emotionally and spiritually, not so much. “So I feel quite splintered,” he says. “I’m not sure anyone ever really leaves the world they grew up in.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/i-see-buildings-fall-like-lightning-clio-barnard-keiran-goddard-birmingham",
-      "image": "https://i.guim.co.uk/img/media/e1a1f1f98b10a64411ba0fc073c17ecbe948be05/1262_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33906f948fa3dbc810ff82eeb3f9f865",
-      "publishedAt": "2026-10-15T04:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-hlLXJpY2gtc2F0aXJl",
