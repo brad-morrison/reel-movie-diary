@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:40:15.052Z",
+  "generatedAt": "2026-10-20T01:02:22.004Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-Yy0xMjM1MjIyOTAxLw",
+      "title": "RIP Ann Hornaday, a Newspaper Film Critic Survivor",
+      "description": "She was among the few women critics when she started out in 1995, and was the reviewer for the Washington Post for 23 years.",
+      "url": "https://www.indiewire.com/news/obituary/ann-hornaday-dead-washington-post-film-critic-1235222901/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-186162559.jpg?w=650",
+      "publishedAt": "2026-10-20T01:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIyODQ3Lw",
+      "title": "Curry Barker on Why Gen Z Loves Going to the Movies: ‘It’s Social Interaction, but You’re Not Expected to Talk to Anyone’",
+      "description": "The 'Obsession' director accepted IndieWire's Future of Filmmaking Award at our Los Angeles summit, where he discussed his whirlwind year and his advice for young directors.",
+      "url": "https://www.indiewire.com/news/events/watch-curry-barker-indiewire-future-of-filmmaking-summit-1235222847/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1683.jpg?w=650",
+      "publishedAt": "2026-10-20T00:38:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-lzLTEyMzUyMjI4MzQv",
+      "title": "No One Left to Fire: Ted Sarandos Is Feeling the Heat as Netflix Struggles",
+      "description": "With Bela Bajaria and Dan Lin both out and the stock price below $70, all eyes are on what Sarandos will do to right the ship again.",
+      "url": "https://www.indiewire.com/news/analysis/ted-sarandos-no-one-else-fire-netflix-co-ceo-analysis-1235222834/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/05/GettyImages-1946489658.jpg?w=650",
+      "publishedAt": "2026-10-19T22:39:29.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-RzLTEyMzUyMjIyMjYv",
+      "title": "Ken Russell’s ‘The Devils’ Use Sets Unlike Any Other Period Film",
+      "description": "Production designer Derek Jarman's sets in \"The Devils,\" now gloriously restored, help make the past happen over and over again — now.",
+      "url": "https://www.indiewire.com/features/craft/ken-russell-the-devils-restoration-derek-jarman-sets-1235222226/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/M8DDEVI_EC004.jpg?w=650",
+      "publishedAt": "2026-10-19T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjI3OTIv",
+      "title": "The Cast of the New ‘Sense and Sensibility’ Is Just as Good as in the Beloved 1995 Version",
+      "description": "Director Georgia Oakley opens up about Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, and more in making the newest Jane Austen adaptation.",
+      "url": "https://www.indiewire.com/features/commentary/cast-new-sense-and-sensibility-versus-1995-version-1235222792/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSEAN_UC002_c6b396.jpg?w=650",
+      "publishedAt": "2026-10-19T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XAtMTIzNTIyMjI1MC8",
+      "title": "American Film Market Will Rethink Networking Through Partnership with Indie Creator Platform Callo",
+      "description": "Exclusive: AFM will offer badge holders access to the operating system to enable filmmakers to more easily connect with buyers, financiers, and sales agents.",
+      "url": "https://www.indiewire.com/news/business/american-film-market-networking-callo-partnership-1235222250/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/AFM-and-Callo.jpg?w=650",
+      "publishedAt": "2026-10-19T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-OC0xMjM1MjIyNzk2Lw",
       "title": "Jon Stewart Extends Weekly ‘Daily Show’ Hosting Gig Through 2028",
@@ -41,7 +113,7 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tom Cullen says he does not take playing LGBT roles lightly",
+      "title": "Tom Cullen says he doesn't take playing LGBT roles lightly",
       "description": "Welsh actor Tom Cullen says he approaches queer roles \"exactly the same\" as he would a straight character.",
       "url": "https://www.bbc.co.uk/news/articles/cw146g3l8p2xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df63/live/00858d50-cbce-11f1-bc2e-018d645d8d21.png",
@@ -160,6 +232,18 @@
       "category": "Movies"
     },
     {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "You Can See Everything seen by many on huge box office debut",
+      "description": "The documentary sees convicted fraudster Elizabeth Holmes invite a sceptical film crew into her home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a68e/live/732981e0-cbe7-11f1-ad7b-fd8c269705fe.jpg",
+      "publishedAt": "2026-10-19T10:37:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-2UtdXBvbi1hLXRpbWU",
       "title": "‘They were brilliant people’: fascinating film reveals a Harlem Renaissance reunion",
       "description": "In the dazzling archival documentary Once Upon a Time in Harlem, a 1972 cocktail party brings together various creative luminaries as they discuss and debate More than a flowering of the arts at the dawn of the 20th century, the Harlem Renaissance marked the breakthrough moment when Black Americans asserted their creative control, defining a culture that had been purpose-built to exclude them. The imprints were all over the Jazz Age – on bookshelves and radio, in flapper dresses and cloche hats, in Hubert Julian’s daring flights and the fractious debates between Marcus Garvey and WEB Du Bois. Like the David committee of the Italian Renaissance or the American Revolution’s Continental Congress, the Harlem Renaissance is one of those moments that makes you wonder: what was it really like? The Dark Tower salons? Those Cotton Club nights? The rent parties with all those New Negroes – a heady brew of southern émigrés, Caribbean vanguards and New York lifers – holding forth and hootin’ and hollerin’, high on the fact that they had found one another? Could they appreciate the significance of the moment as they were making it? “I remember being in Brooklyn in the 1990s and seeing various artists around,” says film-maker Liani Greaves, reflecting on her early career working with Tupac on Above the Rim and the director Hype Williams on Biggie music videos. “Brooklyn Moon Cafe was the spot. Sometimes we forget that it is The Now. We’re constantly looking to the next thing, looking outside.” Continue reading...",
@@ -220,54 +304,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-VyLTEyMzUyMjI1NTgv",
-      "title": "Léa Seydoux Became Fearless After the Controversies of ‘Blue Is the Warmest Color’ — She’s Doing It Again with ‘Gentle Monster’",
-      "description": "Marie Kreutzer's \"Gentle Monster\" is yet another example of how Seydoux explores the dark side of the human psyche. It could land her an Oscar nomination.",
-      "url": "https://www.indiewire.com/awards/consider-this/lea-seydoux-blue-is-the-warmest-color-gentle-monster-1235222558/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_3423.jpeg?w=650",
-      "publishedAt": "2026-10-18T21:23:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIyMjY3MS8",
-      "title": "‘La Bola Negra’ Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History",
-      "description": "Welcome to the exciting world of box office reporting, Ted Sarandos!",
-      "url": "https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/LBN_20251003_0441_carlaoset_R.jpg?w=650",
-      "publishedAt": "2026-10-18T15:02:25.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-2ktMTIzNTIyMjY3Ni8",
-      "title": "How Titmouse Animation Gave ‘Street Fighter’ Its Secret Sauce",
-      "description": "Studio co-founder Chris Prynoski told IndieWire about crafting the ‘90s anime-inspired flashback sequences for the video game adaptation.",
-      "url": "https://www.indiewire.com/features/animation/street-fighter-2026-animation-titmouse-chris-prynoski-1235222676/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSTFI_PA022.jpg?w=650",
-      "publishedAt": "2026-10-18T14:30:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5kLTEyMzUyMjI0NDYv",
-      "title": "‘You Can See Everything’ Opens to a Staggering $15 Million, Securing A24’s Place as Hollywood’s Hottest Brand",
-      "description": "Audiences rushed to theaters as Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary arrived shrouded in secrecy.",
-      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650",
-      "publishedAt": "2026-10-18T13:47:28.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-GEtYmFyb24tY29oZW4",
       "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
       "description": "Staines’s finest nailed the zeitgeist of the late 90s and early 00s, and now he’s back – but how does he fit into 2026? He discusses the backlash against his return, his worst ever interviewee and how he’s going to prevent world war two “Can you tell people that you’re&nbsp;from Hustler?” Ali G asks me. “Or The Source. Or Guns & Ammo. Speaking to a Guardian journalist ain’t a good look for me in the hood.” At Ali’s request, we are meeting in an independent chicken shop in Staines because – due to some sort of mix-up – he thought the one interview he had agreed to for his new film was Chicken Shop Date , which was “90% likely to lead to boning”. He follows this with an entirely unprintable reminiscence about the first time he and “me Julie” had sex in the disabled toilets of Egham KFC. Continue reading...",
@@ -280,18 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-HMtMTIzNTIyMjUzMC8",
-      "title": "‘Dirty Dancing’ Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby’s Next Chapter",
-      "description": "Producer Nina Jacobson also revealed why \"Crazy Rich Asians\" is getting an HBO series instead of a movie sequel at IndieWire's Future of Filmmaking Summit.",
-      "url": "https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/IMG_4805.jpeg?w=650",
-      "publishedAt": "2026-10-18T01:29:20.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Comedian Paul Whitehouse mugged at London cash machine",
       "description": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
@@ -301,18 +325,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMjI1MjYv",
-      "title": "Bill Hader Always Wanted to Direct a Film — His Divorce, ‘SNL,’ and Kiyoshi Kurosawa Helped Him Finally Build ‘They Know’",
-      "description": "The \"Barry\" creator revealed details about his upcoming horror film at IndieWire's Future of Filmmaking 2026 Summit presented by AT&#38;T in Los Angeles on Saturday.",
-      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
-      "publishedAt": "2026-10-17T21:43:45.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
