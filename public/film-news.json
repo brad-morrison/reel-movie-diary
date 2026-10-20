@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:48:15.557Z",
+  "generatedAt": "2026-10-20T12:44:32.547Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-9yLXJvYmluLWhhcmR5",
+      "title": "Children of the Wicker Man review – how the folk-horror classic haunted the family that made it",
+      "description": "Director Robin Hardy’s children lay bare the sometimes agonised family background to a movie that went from ruinous flop to cult favourite This documentary is a collaboration between Justin Hardy and Dominic Hardy, two of film director Robin Hardy’s children (he had seven in all, and was married five times), and it delves into the legacy of both their father and his most enduring work, 1973 folk-horror classic The Wicker Man. The latter still stands today, for all its imperfections and peculiarities, as one of the most unsettling and paradoxically influential British films of all time, despite being a box-office flop on its initial release. This latest work is partly an account of The Wicker Man’s troubled production – a story that’s been told in books and journalism a fair few times already – and its strange reemergence as a cult movie-cum-fetish object, and partly a therapeutic exercise for the brothers themselves, full of raw feeling that’s sometimes painful to watch. However, while the brothers’ willingness to share their pain remains admirable, their film feels hampered by omissions and silences. On some level it is haunted by the ghosts of significant players in the story who have passed away, including Hardy himself and screenwriter Anthony Shaffer, as well as other key figures who are alive but aren’t interviewed here. Where, for example, are the brothers’ other siblings? Allan Brown, author of Inside The Wicker Man: How Not to Make a Cult Classic, is mentioned in several juicy anecdotes but is also absent, while somewhat bafflingly there’s a fair amount of an interview with Scottish actor Bill Paterson, who was almost cast in the original film but wasn’t. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy",
+      "image": "https://i.guim.co.uk/img/media/f9339a30c7aec5d9e5c10a1ff6c993fb962f3a89/129_0_908_726/master/908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1a60ae85c1781d29e0d4a8719b7e2046",
+      "publishedAt": "2026-10-20T12:00:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ItY2xpbWF0ZS1maWxt",
+      "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
+      "description": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect climate change film for our era. Digger Rockwell, the eponymous protagonist played by Tom Cruise, is a bluntly caricatured Texas oilman blase about the environmental ruin of his drilling, even as it triggers a disastrous splitting of the Arctic ice sheet. This causes a vast iceberg, five times the size of Washington DC, to barrel towards Europe and threaten a devastating tsunami. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
+      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5498fb1fc094227d31932bf0c2f16783",
+      "publishedAt": "2026-10-20T12:00:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bGwtYW5kLXRhbGVudA",
+      "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
+      "description": "The actor’s forthcoming memoir Is It Too Late to Make a Run for It? says the makers had honourable intentions but the elements ‘didn’t coalesce’ Dame Judi Dench has long made her feelings clear about Cats, the doomed 2019 adaptation of the Andrew Lloyd Webber musical. In an interview the year after release, she said she had so far declined to watch the movie – in which she played wise moggy Old Deuteronomy – and described the orange fur coat she had to wear as looking like “five foxes fucking on my back”. In her forthcoming memoir, Is It Too Late to Make a Run for It? Dench reflects further on her involvement in the movie, which was universally panned and whose director, Tom Hooper, has not made a film since. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
+      "image": "https://i.guim.co.uk/img/media/4fd511b9ad4acdeee42a4de7d5af3159b2e82425/824_119_1127_902/master/1127.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c27bac37625b0e8f788d16782b260300",
+      "publishedAt": "2026-10-20T11:28:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-LWVjby1hY3RpdmlzbQ",
+      "title": "All Rivers Spill Their Stories to the Sea review – stirring portrait of fishers driven to eco-activism",
+      "description": "With catches down 80%, dead crabs and lobsters washed up on beaches and officials denying any responsibility, Hartlepool seafarers have taken a stand Hartlepool fisherman Stan Rennie has been called the next Mr Bates . For nearly 50 years Rennie has fished the same stretch of northeast coastline – then in October 2021, thousands of crabs, starfish and lobsters washed up dead and dying on the beaches. “It was like something out of a horror film,” says one local. Rennie and other fishermen suspected industrial pollution, but an investigation by the Department for Environment, Food and Rural Affairs concluded that the most likely cause of the die-off was “algal bloom”. For Rennie and the other fisherman, it didn’t add up. So, they crowdfunded their own independent scientific study. This documentary from Jeanie Finlay ( Your Fat Friend ) tells the story, and it’s maddening. The fishermen are close to bankruptcy, they’ve got mortgages and kids, catches are down 80%. The cost of diesel is higher than the price of a haul, and most put their boats up for sale. “Any jobs in Lidl?” reads one placard as they protest through town. What the fishermen suspect is that toxic sediment dredged from the River Tees and dumped in the sea is to blame. Their investigation finds evidence of a link to the chemical pyridine , a byproduct of steelmaking. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/all-rivers-spill-their-stories-to-the-sea-review-stirring-portrait-of-fishers-driven-to-eco-activism",
+      "image": "https://i.guim.co.uk/img/media/84f9ae81951c60e50d04c2bd8a000fdf30f77a7b/184_0_3602_2882/master/3602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=504f5a089ccf3fb5b4b884a9116cd81b",
+      "publishedAt": "2026-10-20T10:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-GVlbi1hbmltYXRpb24",
+      "title": "Monster Mia review – kooky kid discovers school of beastly besties in wholesome Halloween fun",
+      "description": "A scrappy girl discovers her tribe – which includes a vegan vampire – at a school for top scarers in this entertaining pre-teen animation In films, twins are usually written as either identical personalities or complete and total opposites, and it’s the latter dynamic that’s at work in this pre-teen animation. One twin is a popular straight-A student heavily invested in fitting in and doing well at ballet, while her sister Mia is a chaotic kook. They both live in Primrose, an appropriately named community that apparently used to be infested with monsters, but can now claim to be proudly monster-free for the last 500 years. The twins’ parents are supportive of their golden child and try their best to understand Mia too, but it is easier for them to praise the kid bringing home the perfect behaviour reports than the one exasperating her teachers with her determination to discover monsters, by hook or by crook. Scrappy Mia is, naturally, the protagonist of this film, and it’s not too long before she finds herself accidentally enrolled in Rotwood Academy, a school for monsters who would be shocked to discover a human in their midst; from their point of view, humans are brutal, cold-blooded creatures, best avoided, who prefer – ugh! – cupcakes to grave-worms. Mia quickly buddies up with some misfits including a vegan vampire, and the stage is thus set for some Addams Family Lite hijinks, with culture clash comedy highlighting the difference between monster norms and human ways providing much of the humour. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
+      "image": "https://i.guim.co.uk/img/media/7d0e3a30b075ab4043db3bde0b1967d3ead18be6/390_0_2024_1620/master/2024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=99a92334b9e64cfc5d9e1da5a5215599",
+      "publishedAt": "2026-10-20T08:00:20.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-dGlsbHktbm9yd29vZA",
       "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
@@ -136,18 +196,6 @@
       "category": "Classics"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tom Cullen says he doesn't take playing LGBT roles lightly",
-      "description": "Welsh actor Tom Cullen says he approaches queer roles \"exactly the same\" as he would a straight character.",
-      "url": "https://www.bbc.co.uk/news/articles/cw146g3l8p2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/df63/live/00858d50-cbce-11f1-bc2e-018d645d8d21.png",
-      "publishedAt": "2026-10-19T17:01:08.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-XItMTIzNTIyMjc1MC8",
       "title": "‘You Can See Everything’: Nathan Fielder Was So Skeptical He Could Break New Ground in Elizabeth Holmes Story, He Negotiated a Kill Switch with A24",
       "description": "Co-director Lance Oppenheim takes IndieWire inside the extremely unusual way his collaboration with Nathan Fielder and Elizabeth Holmes documentary came together.",
@@ -208,48 +256,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-bmNlLW9wcGVuaGVpbQ",
-      "title": "The reviews are in! Is You Can See Everything the greatest film ever?",
-      "description": "Nathan Fielder and Lance Oppenheim’s headspinning documentary about Elizabeth Holmes is an unprecedented critical success – even with a three-hour runtime Name: The best reviewed film in history. Age: Not even out yet, except in the US and Canada. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/you-can-see-everything-elizabeth-holmes-nathan-fielder-lance-oppenheim",
-      "image": "https://i.guim.co.uk/img/media/9efd1c8eb748a5d425926136967e687c5fc4581d/2077_863_1538_1230/master/1538.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e952bdb29d7f8fefd598a98a451d9d1",
-      "publishedAt": "2026-10-19T14:25:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-Zy1hd2F5LXJldmlldw",
-      "title": "The Night Is Fading Away review – hypnotic homage to cinema as a force for public good",
-      "description": "A local cinema becomes a refuge after Javier Milei’s election ushers in an era of far-right conservatism in Argentina Cinema halls – or dream palaces, as they’re affectionately called – offer a retreat into the realm of make-believe, and everyday drudgery is left at the door. Though set within a single-screen theatre in the Argentinian city of Córdoba, Ramiro Sonzini and Ezequiel Salinas’s hypnotic film invokes a more porous relationship between the screen and its audience. Here, the messiness of life beguilingly sneaks into this domain of fantasies, blurring the borders between public and private spaces. While the luminous black-and-white cinematography lends a dreamy fuzziness to the images, the narrative concerns are grounded in thorny economic realities. A film projectionist at his local cinema called Pelu (Octavio Bertone) is reassigned to the post of a night watchman due to budget cuts at the city hall. The cinema soon becomes his literal refuge: he moves out of his cramped rented flat and secretly takes up occupation at his workplace. He then welcomes a horde of other outsiders, including his unemployed roommate, an ageing drifter and a sex worker who livestreams her erotic shows from the cinema. Every night, they watch classic films from the old masters – Jean Renoir, Yasujiro Ozu and Robert Bresson to name a few – until the early hours. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/the-night-is-fading-away-review",
-      "image": "https://i.guim.co.uk/img/media/485d104475b5bf42f1ccdd35c0b577189d9c3788/324_0_1349_1080/master/1349.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3eda132f804d07ae1350791d2fbfaf80",
-      "publishedAt": "2026-10-19T12:00:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-291bnRlcmN1bHR1cmU",
       "title": "‘We tried to levitate the Pentagon’: the almost unbelievable life of Ed Sanders, trickster god of the US counterculture",
       "description": "He gave Jimi Hendrix his gear, freaked out Frank Sinatra, inspired Norman Mailer – and tried to topple the American war machine. As a documentary about his band the Fugs comes out, the 87-year-old gives a rare interview “Charles Manson once wrote me a letter saying, ‘If I was as powerful as you claim then you wouldn’t be here,’” Ed Sanders tells me over a video call, savouring the menace in that sentence. Sanders is an American maverick; a musician, poet, activist, journalist and author whose greatest hit remains his bestselling 1971 book The Family, in which he chronicled the lives, crimes and trials of Manson and his followers. Sanders was well placed to report on crazed hippies, having played a pivotal role in launching the US counterculture – though he very much espoused peace, love and consciousness-raising, rather than Manson’s apocalyptic worldview. Continue reading...",
       "url": "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture",
       "image": "https://i.guim.co.uk/img/media/02f5784fc22d34e61da7d7859d6981f0db985c44/765_111_1235_988/master/1235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e44b6569632215fe1f13ff8a622b3c46",
       "publishedAt": "2026-10-19T12:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-xlc3MtaW4tbW92aWVz",
-      "title": "Pedigree chums: why the movies are killing off fewer dogs",
-      "description": "Are film-makers wary of alienating increasingly sensitive audiences by offing a pooch? Or is humanity now just too soft to deal with the trauma of a Turner & Hooch? There was a time, not so long ago, when watching a film was a clearcut experience. There would be a good guy and a bad guy, and you would know who the bad guy was because they would shoot a dog in the face. It happened more times than you might expect. Mad Max 2, dog gets shot. Revenge, dog gets shot. Turner & Hooch, dog gets shot. Red, dog gets shot. Man with the Gun, dog gets shot. Badlands, dog gets shot. Dog Soldiers, you’ll never guess. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/pedigree-chums-why-dogs-are-dying-less-in-movies",
-      "image": "https://i.guim.co.uk/img/media/fb498aed613204eb8636c5b3053e3ceaed45171c/625_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30d8c14cc19366f4affec13481e83c39",
-      "publishedAt": "2026-10-19T11:36:45.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -266,18 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-aHQtZmFpcmdyb3VuZA",
-      "title": "Vampire Carnival review – it’s Twilight at the fairground as abs run wild in pointy-toothed tug of war",
-      "description": "A mortal twentysomething is caught in a love triangle with two hunky vampire carnival workers in a film with good looks but not much to chew on ‘Does this whole Edward Cullen act actually work?” A distinct Twilight feeling is in the air in this initially enlivening vampire flick, with willowy twentysomething mortal Gemma (Nell Verlaque) caught in the middle of a pointy-toothed tug of war between tender Italian hunk Sebastian (Alvise Rigo) and her bad boy ex Eric (Kieron Moore). When she strolls with her friends into a hot vampire carnival, the ab count nearly outdoes the haemoglobin one. But this good-looking whirligig winds up disappointingly disjointed. Gemma is still regrouping after her father’s suicide, an unspecified amount of time earlier. So her mum is relieved when she takes a night off from grieving by checking out the local fair with pals Ryan (Corrado Martini) and Olivia (Pauline Chávez). Absent for many years, creepy Eric has apparently joined the circus, featuring as the ostentatiously self-harming Man Who Feels No Pain. But when Sebastian invites Gemma into the carnival’s orgiastic inner sanctum, she learns they are a coven of bloodsuckers who, under leader Toussaint (Jason Isaac), have a strict no-killing code of conduct. Or, in the case of potential initiates like Gemma, obtaining consent. “No means no,” says immortal softboi Sebastian. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/vampire-carnival-review-twilight-fairground",
-      "image": "https://i.guim.co.uk/img/media/c84bd0552f44e986261e9eb408b10bce6940ea99/0_50_1234_987/master/1234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1311bd33c5be4741934450ee94487d74",
-      "publishedAt": "2026-10-19T10:00:05.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-hpbmctYWZ0ZXItYWxs",
@@ -349,18 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-17T01:55:45.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -484,18 +472,6 @@
       "category": "Trailers"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
-      "description": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
-      "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg",
-      "publishedAt": "2026-10-08T23:08:49.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XctYmVuLWFmZmxlY2s",
       "title": "Animals review – Ben Affleck’s dull Netflix thriller is lacking in bark and bite",
       "description": "Actor-director’s listless LA-set crime thriller makes for a surprisingly anonymous effort and one that feels very similar to many other, better films Ben Affleck has pushed through multiple Hollywood comebacks, at least one predicated on his facility behind the camera, directing Boston-based thrillers both artistically ambitious (Gone Baby Gone) and juicily crowd-pleasing (The Town). So now that his acting career seems particularly stable, as he works steadily and produces movies via the company he founded with longtime friend and collaborator Matt Damon, why does his directing career remain in what seems like post-Oscar doldrums? (Though he has never been nominated for a best director Oscar, his film Argo won best picture in 2013.) His new movie Animals appears perfectly situated within his wheelhouse: it’s a Los Angeles-based crime-and-politics thriller to match his earlier east coast work. The real surprise, however, is just how listless it can get. Affleck himself plays Mark Kimball, a Angeleno running for mayor of his home town. His status as an independent non-party-affiliated candidate (and one who scarcely exhibits a trace of a platform in what little we see of his stump speeches and interviews) is only one element of his unlikely backstory, which also includes history as a teacher, a lawyer and a veteran of the first Gulf war. (Not sure the math on all that checks out, but let’s allow it as evidence of a fusion between Mark’s dedication to service and a rapacious ambition.) He’s leveraged his family’s wealth to take him through the home stretch of a close campaign, and tensions are medium-high with his wife, Abby, (Kerry Washington), who’s hiding some problems of her own. Things get considerably worse when, on Halloween, he receives a phone call: Kidnappers have taken his preteen son Denny (Christopher Woodley). They’re demanding $7m that Mark doesn’t have to get him back safely. Continue reading...",
@@ -518,18 +494,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-y13aWxsLWZlcnJlbGw",
-      "title": "Can Ali G: Who Iz I? save character comedy cinema?",
-      "description": "Sacha Baron Cohen’s new film risks being outdated in a more rancorous era. But could it restore the personality-driven genre to big screens or end it altogether? For a man whose campaign slogan was once “Keep it real”, Ali G has his work cut out in the reality of 2026. The big dog of Da West Staines Massiv was the character with whom Sacha Baron Cohen carved out his own niche of gonzo-gotcha comedy in the late 1990s – and now he’s back with new film, Ali G: Who Iz I? But it’s unclear if his great creation has gone sufficiently fallow in the collective consciousness to still operate well in real-life situations, the kind of lethal idiot who once pitched Donald Trump anti-drip ice-cream gloves. And more critically, is the Ali G satirical project – which poked at 90s multicultural mores – still relevant and funny in far more rancorous times? It’s not just Baron Cohen’s career as an undercover operative that’s on the line. It’s the future of character-led comedy as a going concern, now that he seems to be the last man standing in this once-noble tradition – in cinemas, at least. To be clear, character comedy isn’t merely comedy with characters; it’s comedy filtered through a central persona that overlaps with the comedian playing it and whose subversive sensibility colours the entire work. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/08/can-ali-g-who-iz-i-save-character-comedy-cinema-sacha-baron-cohen-mike-myers-will-ferrell",
-      "image": "https://i.guim.co.uk/img/media/7b856c4ea60a0f266900cbadcdae948a7e98dc62/2374_0_1022_818/master/1022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9249260c3ea919d93ce81779e126131",
-      "publishedAt": "2026-10-08T10:58:30.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-bi1tb3ZpZXMtdGVjaA",
