@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T01:02:22.004Z",
+  "generatedAt": "2026-10-20T06:48:15.557Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-dGlsbHktbm9yd29vZA",
+      "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+      "description": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+      "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87fd20b7eea5d4a684e10ddd3854064e",
+      "publishedAt": "2026-10-20T06:00:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-Mtc3VwZXJuYXR1cmFs",
+      "title": "The Cycle review – forensic scientist autopsies her dad in grisly psychodrama that turns supernatural",
+      "description": "Tense story fritters away initial levels interest as generic horrors eclipse offbeat family dynamic This gloomy-toned film takes its sweet time revealing its genre nature, emerging as a proper horror flick more than halfway in with a detailed transformation sequence. It’s the sort of showreel stuff that special effects technicians and aficionados revel in, although others might find the creature design a little plasticky, not unlike the things we see being 3D-printed elsewhere in the feature. It’s a shame that the hardcore creature-feature stuff is a letdown because the drama leading up to it isn’t bad. We start with a forensic science expert called Meg (Deborah Ann Woll), a young woman whose shiny hair and perky professional attitude disguises a steely composure and strong stomach that’s not in the slightest bit discombobulated by all the rotting, decomposing flesh she deals with on the daily. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/the-cycle-review-forensic-scientist-autopsies-her-dad-in-grisly-psychodrama-that-turns-supernatural",
+      "image": "https://i.guim.co.uk/img/media/a4b4c34ea29ddc9c53ded14a45a217f18dd3909e/899_0_2043_1634/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=81b12c89c79e74549722f96e6de4cb3d",
+      "publishedAt": "2026-10-20T06:00:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-Yy0xMjM1MjIyOTAxLw",
       "title": "RIP Ann Hornaday, a Newspaper Film Critic Survivor",
@@ -244,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-2UtdXBvbi1hLXRpbWU",
-      "title": "‘They were brilliant people’: fascinating film reveals a Harlem Renaissance reunion",
-      "description": "In the dazzling archival documentary Once Upon a Time in Harlem, a 1972 cocktail party brings together various creative luminaries as they discuss and debate More than a flowering of the arts at the dawn of the 20th century, the Harlem Renaissance marked the breakthrough moment when Black Americans asserted their creative control, defining a culture that had been purpose-built to exclude them. The imprints were all over the Jazz Age – on bookshelves and radio, in flapper dresses and cloche hats, in Hubert Julian’s daring flights and the fractious debates between Marcus Garvey and WEB Du Bois. Like the David committee of the Italian Renaissance or the American Revolution’s Continental Congress, the Harlem Renaissance is one of those moments that makes you wonder: what was it really like? The Dark Tower salons? Those Cotton Club nights? The rent parties with all those New Negroes – a heady brew of southern émigrés, Caribbean vanguards and New York lifers – holding forth and hootin’ and hollerin’, high on the fact that they had found one another? Could they appreciate the significance of the moment as they were making it? “I remember being in Brooklyn in the 1990s and seeing various artists around,” says film-maker Liani Greaves, reflecting on her early career working with Tupac on Above the Rim and the director Hype Williams on Biggie music videos. “Brooklyn Moon Cafe was the spot. Sometimes we forget that it is The Now. We’re constantly looking to the next thing, looking outside.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/harlem-renaissance-documentary-once-upon-a-time",
-      "image": "https://i.guim.co.uk/img/media/9fa89b6157205c7300f14da0d47944b93e443f3f/93_0_1255_1004/master/1255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=565c3ca4a6fdaf2a17c04e93f300aaa6",
-      "publishedAt": "2026-10-19T10:00:06.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-aHQtZmFpcmdyb3VuZA",
       "title": "Vampire Carnival review – it’s Twilight at the fairground as abs run wild in pointy-toothed tug of war",
       "description": "A mortal twentysomething is caught in a love triangle with two hunky vampire carnival workers in a film with good looks but not much to chew on ‘Does this whole Edward Cullen act actually work?” A distinct Twilight feeling is in the air in this initially enlivening vampire flick, with willowy twentysomething mortal Gemma (Nell Verlaque) caught in the middle of a pointy-toothed tug of war between tender Italian hunk Sebastian (Alvise Rigo) and her bad boy ex Eric (Kieron Moore). When she strolls with her friends into a hot vampire carnival, the ab count nearly outdoes the haemoglobin one. But this good-looking whirligig winds up disappointingly disjointed. Gemma is still regrouping after her father’s suicide, an unspecified amount of time earlier. So her mum is relieved when she takes a night off from grieving by checking out the local fair with pals Ryan (Corrado Martini) and Olivia (Pauline Chávez). Absent for many years, creepy Eric has apparently joined the circus, featuring as the ostentatiously self-harming Man Who Feels No Pain. But when Sebastian invites Gemma into the carnival’s orgiastic inner sanctum, she learns they are a coven of bloodsuckers who, under leader Toussaint (Jason Isaac), have a strict no-killing code of conduct. Or, in the case of potential initiates like Gemma, obtaining consent. “No means no,” says immortal softboi Sebastian. Continue reading...",
@@ -274,18 +286,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/19/a-zack-snyder-dc-universe-might-not-have-been-such-a-bad-thing-after-all",
       "image": "https://i.guim.co.uk/img/media/ee4a4aefa639586fe4cc479b4045e4ed57579d23/405_331_1931_1545/master/1931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=359cb2f8b59a039daa1ecd91f1972eac",
       "publishedAt": "2026-10-19T09:45:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-ZlZWxnb29kLW1vdmll",
-      "title": "‘A beautiful dismantling of cynicism’: why Galaxy Quest is my feelgood movie",
-      "description": "The latest in our series of writers detailing their most easily rewatched comfort films is an appreciation of a smart, funny and tender ode to fan culture “By Grabthar’s hammer, by the sons of Worvan … you shall be avenged.” If you have seen Galaxy Quest, those words may bring you close to tears. They mark the moment when Alan Rickman’s character – a Shakespearean luvvie turned sci-fi sidekick – realises that the ludicrous catchphrase he has reluctantly uttered thousands of times does matter after all. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/galaxy-quest-feelgood-movie",
-      "image": "https://i.guim.co.uk/img/media/816af626e4a68d805eb0bfa985cd54f3c837d2c1/169_0_2359_1888/master/2359.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dde576f572bc9185454bd39a3d3c5ed8",
-      "publishedAt": "2026-10-19T09:00:24.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
