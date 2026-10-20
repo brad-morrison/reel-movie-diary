@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:44:32.547Z",
+  "generatedAt": "2026-10-20T18:38:15.457Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,138 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-aS0xMjM1MjIxNDc1Lw",
+      "title": "The Costumes Are Why ‘Your Mother Your Mother Your Mother’ Is a Movie Unlike Any Other",
+      "description": "Costume designer Deirdra Gowan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.",
+      "url": "https://www.indiewire.com/features/craft/your-mother-your-mother-your-mother-costumes-mahershala-ali-1235221475/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YMX3_03452_R.jpg?w=650",
+      "publishedAt": "2026-10-20T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMTcyODQv",
+      "title": "Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel",
+      "description": "As the newly-minted Tony winner introduces \"A Talent for Murder\" to festival audiences, he goes long with IndieWire on everything from \"Beautiful Creatures\" to \"Oppenheimer,\" \"Solo\" to \"Hail, Caesar!,\" and never taking any of it for granted.",
+      "url": "https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2295261213.jpg?w=650",
+      "publishedAt": "2026-10-20T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VmLTEyMzUyMjI5NTUv",
+      "title": "As It Readies for Boulder Debut, Sundance Institute Names Tracy Brady as Chief Marketing, Brand, and Communications Officer",
+      "description": "Brady will lead the Institute’s comprehensive marketing and communications strategy as it readies for its Boulder, Colorado debut.",
+      "url": "https://www.indiewire.com/news/festivals/sundance-institute-tracy-brady-marketing-comms-chief-1235222955/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Tracy-Brady-Headshot-e1792510759946.jpeg?w=650",
+      "publishedAt": "2026-10-20T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2EtMTIzNTIyMjk2MS8",
+      "title": "‘Klara and the Sun’ Review: Jenna Ortega Plays a Manic Pixie Android in Taika Waititi’s Confoundingly Awful Kazuo Ishiguro Adaptation",
+      "description": "Leave your brain behind. Where Ishiguro whisks you away with crisp, powerful prose in his celebrated dystopian fable, Waititi instead thwacks you with relentless whimsy and soul-crushing tweeness in an inadvertent(?) bid for director jail.",
+      "url": "https://www.indiewire.com/criticism/movies/klara-and-the-sun-review-jenna-ortega-1235222961/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDKLAN_SP030.jpg?w=650",
+      "publishedAt": "2026-10-20T17:26:50.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bS0xMjM1MjIyOTMxLw",
+      "title": "12 Must-See AFI Fest Movies According to the Festival’s Team, from Sexy Gay Romance ‘Flesh and Fuel’ to Animated ‘Iron Boy’",
+      "description": "AFI Fest programmers pick must-see features and shorts from this year's festival, running October 21-25 in Los Angeles.",
+      "url": "https://www.indiewire.com/features/general/afi-fest-must-see-movies-according-to-festival-team-1235222931/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/flesh-and-fuel-movie.jpg?w=650",
+      "publishedAt": "2026-10-20T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RzLTEyMzUyMjI4NzEv",
+      "title": "WGA East Moves to Block AI Models from Training on Members’ Work with New Software Partner Cloak: ‘Give Agency Back to Writers’",
+      "description": "WGAE members can register scripts with the program for free, while non-members can for a $10 fee.",
+      "url": "https://www.indiewire.com/news/business/wga-east-blocking-ai-models-training-scripts-1235222871/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=650",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-2UtYWxsZWdhdGlvbnM",
+      "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
+      "description": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention the sexual abuse allegations against the singer. In part, this was due to a legal clause, only spotted late in production, which stipulated that one of the men who accused Jackson of abusing them as a boy could never be depicted in a fictionalised account of the period. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations",
+      "image": "https://i.guim.co.uk/img/media/e17e36e0dea0d22d6aa3c4b6ffbb6de6f6b6f0d6/399_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba9c6269235f5239b6e8ad508f771dae",
+      "publishedAt": "2026-10-20T15:15:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RzLTEyMzUyMjI3OTAv",
+      "title": "Ryan Gosling Turned Obstacles Into Opportunities on ‘Project Hail Mary’ — with a Little Help from Julia Roberts",
+      "description": "The leading man from one of the year's biggest hits talks about acting opposite a rock alien and why the book was like a knife in his side.",
+      "url": "https://www.indiewire.com/features/interviews/ryan-gosling-on-project-hail-mary-rocky-julia-roberts-1235222790/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDPRHA_MG018-e1790781557430.jpg?w=650",
+      "publishedAt": "2026-10-20T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1jYXZlbWFuLXJvYmlu",
+      "title": "‘We’ll keep doing this if people pay us!’ The cast of TV hit Ghosts on making a movie – and maybe a caveman spinoff",
+      "description": "As the haunters of Button House hit the big screen with a plot about an escaped phantom, we hear how the team just missed each other too much – and why grunting Robin may get his own show When the final episode of Ghosts was aired in December 2023, the sitcom felt as if it had reached a definitive conclusion. The show’s central relationships, between Charlotte Ritchie’s Alison and the ghosts who haunt her tumbledown inherited manor house, were neatly tied up, as they encouraged her to sell the place to a hotel developer. It was a tearjerker of an episode for the millions of people who watched it, as well as for the cast and crew behind the scenes. “We had stopped the series with genuinely no intention of coming back,” explains the show’s co-creator Mathew Baynton, who also stars as the callow romantic poet Thomas. “We were all in tears on the last day of filming,” he says, now perched on the uncomfortable end of a chaise lounge in a London hotel suite. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/ghosts-the-possession-of-button-house-caveman-robin",
+      "image": "https://i.guim.co.uk/img/media/c2ae3c3fdae4ed3075bff768331432e6f533343f/291_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6e30109be5a25e5369d34d7b037b032",
+      "publishedAt": "2026-10-20T14:14:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-XN0aXZhbC1zaXRnZXM",
+      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
+      "description": "Olivia Colman goes vulpine, Rupert Grint’s newborn is a monster and Joko Anwar makes a warmhearted violent ghost story set in an Indonesian prison If I’d ever wanted children, the films showing at the 59th edition of the International Fantastic film festival of Catalonia in the coastal town of Sitges, south of Barcelona, would have soon set me straight. This year’s recurring themes were explosive parturition, chewed-up nipples and the fruit of the womb turning out to be at best sociopathic, at worst inhuman. The theme was celebrated in an evil-kiddy exhibition at the Miramar Cultural Centre, marking the 50th anniversary of Narciso Ibáñez Serrador’s “fantaterror” classic Who Can Kill a Child? , some of which was filmed in Sitges itself. The expo traced the subgenre from 1956’s The Bad Seed, via Rosemary’s Baby and The Exorcist, to this year’s Nightborn , in which poor Rupert Grint, as the hapless husband, is no match for the developing folk-horror bond between his depressed wife, their newborn “child”, and the spooky forest surrounding their house. Finnish director Hanna Bergholm, in her introduction, confessed it was inspired by her experiences of motherhood. Only up to a point, one hopes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
+      "image": "https://i.guim.co.uk/img/media/6deb0ada24ee21ec80947b107abe77270174231d/407_0_3907_3126/master/3907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b071ce96f935fdd04ff4203c5b5d537",
+      "publishedAt": "2026-10-20T14:10:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-R5LTEyMzUyMjI4NTEv",
+      "title": "‘Clayface’ Introduces DC Studios’ Gotham City — but Director James Watkins Never Felt Pressure to Set Up Future Films",
+      "description": "Watkins tells IndieWire about the \"incredibly supportive atmosphere\" that allowed him to make an R-rated horror movie that just happens to exist in a comic book universe.",
+      "url": "https://www.indiewire.com/features/interviews/clayface-director-james-watkins-interview-gotham-city-1235222851/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDCLAY_WB012.jpg?w=650",
+      "publishedAt": "2026-10-20T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-9yLXJvYmluLWhhcmR5",
       "title": "Children of the Wicker Man review – how the folk-horror classic haunted the family that made it",
@@ -64,40 +196,16 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-GVlbi1hbmltYXRpb24",
-      "title": "Monster Mia review – kooky kid discovers school of beastly besties in wholesome Halloween fun",
-      "description": "A scrappy girl discovers her tribe – which includes a vegan vampire – at a school for top scarers in this entertaining pre-teen animation In films, twins are usually written as either identical personalities or complete and total opposites, and it’s the latter dynamic that’s at work in this pre-teen animation. One twin is a popular straight-A student heavily invested in fitting in and doing well at ballet, while her sister Mia is a chaotic kook. They both live in Primrose, an appropriately named community that apparently used to be infested with monsters, but can now claim to be proudly monster-free for the last 500 years. The twins’ parents are supportive of their golden child and try their best to understand Mia too, but it is easier for them to praise the kid bringing home the perfect behaviour reports than the one exasperating her teachers with her determination to discover monsters, by hook or by crook. Scrappy Mia is, naturally, the protagonist of this film, and it’s not too long before she finds herself accidentally enrolled in Rotwood Academy, a school for monsters who would be shocked to discover a human in their midst; from their point of view, humans are brutal, cold-blooded creatures, best avoided, who prefer – ugh! – cupcakes to grave-worms. Mia quickly buddies up with some misfits including a vegan vampire, and the stage is thus set for some Addams Family Lite hijinks, with culture clash comedy highlighting the difference between monster norms and human ways providing much of the humour. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/monster-mia-review-halloween-pre-teen-animation",
-      "image": "https://i.guim.co.uk/img/media/7d0e3a30b075ab4043db3bde0b1967d3ead18be6/390_0_2024_1620/master/2024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=99a92334b9e64cfc5d9e1da5a5215599",
-      "publishedAt": "2026-10-20T08:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-dGlsbHktbm9yd29vZA",
-      "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
-      "description": "As a freaky Val Kilmer doppelganger stars in a new western and faux starlet Tilly Norwood is set for her feature debut, experts are split on whether mainstream adoption is a long way down the line – or just around the corner ‘Don’t fear the dead – and don’t fear me.” An exact facsimile of a young Val Kilmer, not quite dead and not quite alive, utters that baiting line in the trailer for the new western As Deep as the Grave. Director Coerte Voorhees knows exactly what he is doing – this is an AI-created version of the late actor, approved by his family but bringing with it a heap of controversy about whether such technology could make flesh-and-blood thespians redundant. Not just yet, judging by the extended glimpse of the film released earlier this year : it looks like a thirtysomething Kilmer, if a robot version had been sent back to the 1920s American wilderness by Skynet and, as well as being strangely rigid, had forgotten to download his voice, let alone his signature air of spacey shrewdness. Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-      "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87fd20b7eea5d4a684e10ddd3854064e",
-      "publishedAt": "2026-10-20T06:00:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-Mtc3VwZXJuYXR1cmFs",
-      "title": "The Cycle review – forensic scientist autopsies her dad in grisly psychodrama that turns supernatural",
-      "description": "Tense story fritters away initial levels interest as generic horrors eclipse offbeat family dynamic This gloomy-toned film takes its sweet time revealing its genre nature, emerging as a proper horror flick more than halfway in with a detailed transformation sequence. It’s the sort of showreel stuff that special effects technicians and aficionados revel in, although others might find the creature design a little plasticky, not unlike the things we see being 3D-printed elsewhere in the feature. It’s a shame that the hardcore creature-feature stuff is a letdown because the drama leading up to it isn’t bad. We start with a forensic science expert called Meg (Deborah Ann Woll), a young woman whose shiny hair and perky professional attitude disguises a steely composure and strong stomach that’s not in the slightest bit discombobulated by all the rotting, decomposing flesh she deals with on the daily. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/the-cycle-review-forensic-scientist-autopsies-her-dad-in-grisly-psychodrama-that-turns-supernatural",
-      "image": "https://i.guim.co.uk/img/media/a4b4c34ea29ddc9c53ded14a45a217f18dd3909e/899_0_2043_1634/master/2043.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=81b12c89c79e74549722f96e6de4cb3d",
-      "publishedAt": "2026-10-20T06:00:17.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Unseen Only Fools clips add depth, filmmaker says",
+      "description": "New clips from The Jolly Boys' Outing, shot in Margate, feature in a new show about the sitcom.",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlyzlzlwj0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/421a/live/60ce5e60-cbc1-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-20T05:06:11.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-Yy0xMjM1MjIyOTAxLw",
@@ -148,78 +256,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-9uLTEyMzUyMjI3OTIv",
-      "title": "The Cast of the New ‘Sense and Sensibility’ Is Just as Good as in the Beloved 1995 Version",
-      "description": "Director Georgia Oakley opens up about Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, and more in making the newest Jane Austen adaptation.",
-      "url": "https://www.indiewire.com/features/commentary/cast-new-sense-and-sensibility-versus-1995-version-1235222792/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSEAN_UC002_c6b396.jpg?w=650",
-      "publishedAt": "2026-10-19T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XAtMTIzNTIyMjI1MC8",
-      "title": "American Film Market Will Rethink Networking Through Partnership with Indie Creator Platform Callo",
-      "description": "Exclusive: AFM will offer badge holders access to the operating system to enable filmmakers to more easily connect with buyers, financiers, and sales agents.",
-      "url": "https://www.indiewire.com/news/business/american-film-market-networking-callo-partnership-1235222250/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/AFM-and-Callo.jpg?w=650",
-      "publishedAt": "2026-10-19T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-OC0xMjM1MjIyNzk2Lw",
-      "title": "Jon Stewart Extends Weekly ‘Daily Show’ Hosting Gig Through 2028",
-      "description": "Stewart will continue to host the show on Monday nights, with a rotating cast of correspondents handling the rest of the week, for the remainder of Trump's second term.",
-      "url": "https://www.indiewire.com/news/breaking-news/jon-stewart-keep-hosting-the-daily-show-through-2028-1235222796/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/02/daily_show_jon_stewart_2024_720.jpg?w=650",
-      "publishedAt": "2026-10-19T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjI1MTkv",
-      "title": "How Abel Ferrara and Joe Delia Made ‘Ms. 45’ a Grindhouse Classic, from Stealing Coppola’s Sound Effects to David Bowie’s Praise",
-      "description": "The director and composer look back on their exploitation classic as Delia prepares to perform the score live at a 45th-anniversary screening at the Southampton Playhouse.",
-      "url": "https://www.indiewire.com/features/interviews/abel-ferrara-ms-45-composer-joe-delia-interview-1235222519/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P106F996.jpg?w=650",
-      "publishedAt": "2026-10-19T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyMjc1MC8",
-      "title": "‘You Can See Everything’: Nathan Fielder Was So Skeptical He Could Break New Ground in Elizabeth Holmes Story, He Negotiated a Kill Switch with A24",
-      "description": "Co-director Lance Oppenheim takes IndieWire inside the extremely unusual way his collaboration with Nathan Fielder and Elizabeth Holmes documentary came together.",
-      "url": "https://www.indiewire.com/features/podcast/you-can-see-everything-how-documentary-came-together-1235222750/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
-      "publishedAt": "2026-10-19T16:50:01.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZC0xMjM1MjIyMjE1Lw",
-      "title": "The ’60 Minutes’ Overhaul Was Said to be Driven by New Ideas — You Can’t Tell That from Watching",
-      "description": "Prior to their tenure, Bari Weiss and Nick Bilton claimed CBS's popular news program was becoming obsolete. But through five episodes of their revamped version, changes are negligible and ratings are down. What gives?",
-      "url": "https://www.indiewire.com/criticism/culture/60-minutes-bari-weiss-new-ideas-watching-bad-1235222215/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/60-Minutes-Ross-Douthat-bad.jpg?w=650",
-      "publishedAt": "2026-10-19T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-gtZHRmLXN0LWxvdWlz",
       "title": "‘They pulled a guy’s face off. It’s my favourite bit!’ Linda Cardellini on Freaks and Geeks, Mad Men and slasher horror Crystal Lake",
       "description": "She got to torment Don Draper in Mad Men and has just won an Emmy for DTF St Louis. But nothing prepared the star for all the gore as she switched to horror with the Friday the 13th prequel ‘The first time I had the tooth in my hand,” says Linda Cardellini, “I thought, ‘Oh my God, this is what I’m doing.’” The star of Freaks and Geeks, ER, Dead to Me, Mad Men and DTF St Louis (for which she recently won an Emmy) is talking about her pivot towards full-blown horror. In Crystal Lake, the prequel to the Friday the 13th movies, Cardellini plays Pamela Voorhees, the original slasher of the 1980 film. The tooth, by the way, is human and gets embedded in Pam’s knuckle – until she yanks it out with a gruesome, revolting slurping sound. Casual filmgoers may associate Friday the 13th with Jason, the hockey-mask-wearing serial killer. But aficionados will know that Pam, Jason’s mother, is the villain of the first movie. “He didn’t even have the mask until the third movie,” says Cardellini, who has clearly done her homework. “Pam is the original killer, in vengeance of his death.” (There is some massaging of previous storylines in Crystal Lake, such as moving Jason’s drowning from the 1950s to the early 70s, but since the franchise is flexible enough to have sent Jason into space at one point, a bit of timeline tweaking feels fair game.) Continue reading...",
@@ -232,30 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-Zi0xMjM1MjIyNzQwLw",
-      "title": "Yet Another Netflix Stunner: Dan Lin Out as Film Chief",
-      "description": "After less than three years at the streamer, Lin is the latest high-powered exec to exit Netflix as it reorganizes its org chart and cuts around 1,000 jobs in the process.",
-      "url": "https://www.indiewire.com/news/business/netflix-dan-lin-out-film-chief-1235222740/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/SM2_0568_RT.jpg?w=650",
-      "publishedAt": "2026-10-19T15:43:03.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-GUtMTIzNTIyMjcxMy8",
-      "title": "Breakout ‘Behemoth!’ Musician Lukas Frank Reveals What It’s Like to Give Tony Gilroy a Rewrite",
-      "description": "Composer Lukas Frank called Tony Gilroy's version of the “Behemoth!\" original song “Your God Is Sleeping” a \"’70s protest song.\" “It wasn't that lame,” joked the director at the Middleburg Film Festival.",
-      "url": "https://www.indiewire.com/news/festivals/behemoth-lukas-frank-tony-gilroy-original-song-rewrite-1235222713/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2026MFFDAY04SundayOCT18_BEHEMETH_00198.jpg?w=650",
-      "publishedAt": "2026-10-19T15:06:34.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-291bnRlcmN1bHR1cmU",
       "title": "‘We tried to levitate the Pentagon’: the almost unbelievable life of Ed Sanders, trickster god of the US counterculture",
       "description": "He gave Jimi Hendrix his gear, freaked out Frank Sinatra, inspired Norman Mailer – and tried to topple the American war machine. As a documentary about his band the Fugs comes out, the 87-year-old gives a rare interview “Charles Manson once wrote me a letter saying, ‘If I was as powerful as you claim then you wouldn’t be here,’” Ed Sanders tells me over a video call, savouring the menace in that sentence. Sanders is an American maverick; a musician, poet, activist, journalist and author whose greatest hit remains his bestselling 1971 book The Family, in which he chronicled the lives, crimes and trials of Manson and his followers. Sanders was well placed to report on crazed hippies, having played a pivotal role in launching the US counterculture – though he very much espoused peace, love and consciousness-raising, rather than Manson’s apocalyptic worldview. Continue reading...",
@@ -265,18 +277,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "You Can See Everything seen by many on huge box office debut",
-      "description": "The documentary sees convicted fraudster Elizabeth Holmes invite a sceptical film crew into her home.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a68e/live/732981e0-cbe7-11f1-ad7b-fd8c269705fe.jpg",
-      "publishedAt": "2026-10-19T10:37:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -313,18 +313,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Comedian Paul Whitehouse mugged at London cash machine",
-      "description": "His wife wrote on Instagram that the actor had been \"mugged at a cash machine behind a Sainsbury's in Islington\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dnq2j4v3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b3f9/live/3b471730-ca82-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-18T00:06:36.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
