@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:44:40.078Z",
+  "generatedAt": "2026-10-21T18:38:25.522Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,16 +16,160 @@
   },
   "articles": [
     {
+      "id": "indiewire-24tMTIzNTIyMzE4Ni8",
+      "title": "Neon Boards ‘NAZA’ to Expand Distribution for Documentary About Israel’s Military Strikes on Gaza",
+      "description": "Co-directors Yuval Abraham and Rachel Szor's previous doc \"No Other Land\" was unable to find a U.S. distribution partner in 2024. Similarly, \"NAZA\" had been released independently, until now.",
+      "url": "https://www.indiewire.com/news/business/neon-joins-naza-israel-gaza-documentary-distribution-1235223186/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
+      "publishedAt": "2026-10-21T17:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-tlLTEyMzUyMjI0NDMv",
+      "title": "Watch Phil Lord and Chris Miller Go Deep on ‘Project Hail Mary’ Puppetry, Sandra Hüller’s Karaoke, and Making People ‘Cry About a Rock’",
+      "description": "The co-directors offered a detailed production presentation as a keynote during IndieWire's Future of Filmmaking Summit in Los Angeles.",
+      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-project-hail-mary-puppet-karaoke-1235222443/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1050.jpg?w=650",
+      "publishedAt": "2026-10-21T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjIzMDk2Lw",
+      "title": "Japanese Cult Blockbuster ‘Rex: A Dinosaur’s Story’ to Get First U.S. Theatrical Release in December",
+      "description": "Exclusive: One of the most expensive films ever produced in Japan, the '90s Christmas feature had its theatrical release cut short after its director was arrested for cocaine smuggling.",
+      "url": "https://www.indiewire.com/news/general-news/japanese-cult-film-rex-a-dinosaur-story-us-release-1235223096/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Rex-a-Dinosaurs-Story.png?w=650",
+      "publishedAt": "2026-10-21T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Yy0xMjM1MjIzMTA1Lw",
+      "title": "Watch Ava Duvernay Explain Why the 14th Amendment Is So Much More Than Birthright Citizenship",
+      "description": "At IndieWire's Art of the Doc event, the \"13th\" director explained why her Netflix follow-up contained much more than she initially expected.",
+      "url": "https://www.indiewire.com/news/events/watch-ava-duvernay-discuss-14th-indiewire-art-of-the-doc-1235223105/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B1983.jpg?w=650",
+      "publishedAt": "2026-10-21T16:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-ZGVmZW5kcy1hbGktZw",
+      "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+      "description": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’ Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on in a lengthy article for Time magazine . On the eve of the release of his new film, Ali G: Who Iz I?, Baron Cohen described satire as “more important than ever”, adding that “along the way, some people, instead of laughing, wince or worse, take offence.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
+      "image": "https://i.guim.co.uk/img/media/0d0d9dd4c9437fbbc7f178777a3a20d525e353bd/0_2507_8736_6989/master/8736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f962a10a74e6dd4d16bfa0b497593c30",
+      "publishedAt": "2026-10-21T16:06:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-R5LTEyMzUyMjMwOTMv",
+      "title": "Gen Z Feels ‘Doomed’ Watching AI, but Gen Alpha Feels Differently",
+      "description": "Over 30 percent of young people feel either \"doomed\" or \"scared\" when watching AI-generated content, but a study found notable differences in age groups.",
+      "url": "https://www.indiewire.com/news/general-news/gen-z-doomed-watching-ai-gen-alpha-feels-differently-study-1235223093/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=650",
+      "publishedAt": "2026-10-21T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-NlLWRvY3VtZW50YXJ5",
+      "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
+      "description": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into her home in a supposed act of “radical transparency”. Holmes is filmed, along with her partner, Billy Evans, and their two young children, in the weeks before starting a prison sentence for defrauding Theranos investors. “The best way for people to see who she is,” Evans says, “is to give as much access as possible into our daily lives”. It may also be the best way to market “Theranos 2.0”, which the couple are working on during filming. But the documentary questions whether Holmes is presenting her authentic self or a manufactured persona. Fielder speaks for the audience when he asks Holmes in a tense exchange whether she’s “being real” with him. “I’m always being real,” she says. That question of authenticity is at the heart of documentary film-making. You Can See Everything is as much about the ambiguous relationship between film-maker and subject as it is about Holmes herself. There is often a power struggle over narrative control in documentaries, with both sides of the dynamic wanting different outcomes from the final film. Watching You Can See Everything inevitably prompts the question: why would Holmes, days before she heads to jail, invite the scrutiny of a film crew? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bdbc121d08223f6e13a3d9b4dda1c68",
+      "publishedAt": "2026-10-21T15:02:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIyMjg2MS8",
+      "title": "A New Australian Horror Import Imagines ‘Obsession’ from a Very Different Perspective",
+      "description": "Film critic, author, and horror expert Alexandra Heller-Nicholas writes about taking her teenage son to see “The Only One,” and reigniting some classic Aussie horror hits and enduring societal questions in the process.",
+      "url": "https://www.indiewire.com/features/commentary/the-only-one-australian-horror-obsession-1235222861/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Copy-of-BHFF-11.jpg?w=650",
+      "publishedAt": "2026-10-21T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-jUtMTIzNTIyMzEzNy8",
+      "title": "‘Sinner Supper Club,’ a Gay Mumblegore Ghost Story, Sells to Factory 25",
+      "description": "Shot in six days on an iPhone, the film will premiere at NewFest.",
+      "url": "https://www.indiewire.com/news/general-news/sinner-supper-club-gay-ghost-story-sells-factory-25-1235223137/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.01.56-AM.png?w=650",
+      "publishedAt": "2026-10-21T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-5nLTEyMzUyMjMxMjgv",
+      "title": "Nathan Fielder Was Not Supposed to Be in ‘You Can See Everything’",
+      "description": "Lance Oppenheim tells IndieWire how the documentary radically changed course in the first few days of production, including Fielder deciding to co-direct, appear on camera, and completely alter how it was shot.",
+      "url": "https://www.indiewire.com/features/interviews/nathan-fielder-not-in-you-can-see-everything-1235223128/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650",
+      "publishedAt": "2026-10-21T14:19:55.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjIzMDA1Lw",
+      "title": "$1 Million Box Office Haul for ‘If I Go Will They Miss Me’ Provides a Release Template for the Smallest of Indies",
+      "description": "The Sundance darling from director Walter Thompson-Hernandez and distributor Rich Spirit never opened beyond 251 screens but has generated enormous word of mouth.",
+      "url": "https://www.indiewire.com/news/box-office/if-i-go-will-they-miss-me-box-office-james-shani-interview-1235223005/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-29-at-3.38.19-PM.png?w=650",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
       "description": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
       "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg",
-      "publishedAt": "2026-10-21T11:47:01.000Z",
+      "publishedAt": "2026-10-21T13:47:51.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "indiewire-2ktMTIzNTE5MzAyMy8",
+      "title": "‘Fatherland’ Review: Pawel Pawlikowski Fans Will Feel Cozily, Coldly at Home with His Latest Tour Through Europe’s Regrets",
+      "description": "The mighty Sandra Hüller stars as German author Thomas Mann's daughter, tasked with taking him on an emotional postwar trip in 1949, in the Polish filmmaker's chiseled-to-within-an-inch-of-its-life road movie.",
+      "url": "https://www.indiewire.com/criticism/movies/fatherland-review-sandra-huller-pawel-pawlikowski-1235193023/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.45.11 PM.png?w=650",
+      "publishedAt": "2026-10-21T12:46:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
     },
     {
       "id": "guardian-J5LTMwLXllYXJzLW9u",
@@ -112,90 +256,6 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-YS0xMjM1MjIxMjc5Lw",
-      "title": "‘Wildwood’ Review: Laika’s Epic Stop-Motion Wonder Lacks the Magic of the Studio’s Best Movies",
-      "description": "\"Wildwood\" is the antidote to all of the worst trends in mainstream animation, but it gets lost somewhere in the wilderness between reality and imagination.",
-      "url": "https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/wildwood.avif?w=650",
-      "publishedAt": "2026-10-20T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-aS0xMjM1MjIxNDc1Lw",
-      "title": "The Costumes Are Why ‘Your Mother Your Mother Your Mother’ Is a Movie Unlike Any Other",
-      "description": "Costume designer Deirdra Govan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.",
-      "url": "https://www.indiewire.com/features/craft/your-mother-your-mother-your-mother-costumes-mahershala-ali-1235221475/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YMX3_03452_R.jpg?w=650",
-      "publishedAt": "2026-10-20T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMTcyODQv",
-      "title": "Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel",
-      "description": "As the newly-minted Tony winner introduces \"A Talent for Murder\" to festival audiences, he goes long with IndieWire on everything from \"Beautiful Creatures\" to \"Oppenheimer,\" \"Solo\" to \"Hail, Caesar!,\" and never taking any of it for granted.",
-      "url": "https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2295261213.jpg?w=650",
-      "publishedAt": "2026-10-20T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VmLTEyMzUyMjI5NTUv",
-      "title": "As It Readies for Boulder Debut, Sundance Institute Names Tracy Brady as Chief Marketing, Brand, and Communications Officer",
-      "description": "Brady will lead the Institute’s comprehensive marketing and communications strategy as it readies for its Boulder, Colorado debut.",
-      "url": "https://www.indiewire.com/news/festivals/sundance-institute-tracy-brady-marketing-comms-chief-1235222955/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Tracy-Brady-Headshot-e1792510759946.jpeg?w=650",
-      "publishedAt": "2026-10-20T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2EtMTIzNTIyMjk2MS8",
-      "title": "‘Klara and the Sun’ Review: Jenna Ortega Plays a Manic Pixie Android in Taika Waititi’s Confoundingly Awful Kazuo Ishiguro Adaptation",
-      "description": "Leave your brain behind. Where Ishiguro whisks you away with crisp, powerful prose in his celebrated dystopian fable, Waititi instead thwacks you with relentless whimsy and soul-crushing tweeness in an inadvertent(?) bid for director jail.",
-      "url": "https://www.indiewire.com/criticism/movies/klara-and-the-sun-review-jenna-ortega-1235222961/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDKLAN_SP030.jpg?w=650",
-      "publishedAt": "2026-10-20T17:26:50.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bS0xMjM1MjIyOTMxLw",
-      "title": "12 Must-See AFI Fest Movies According to the Festival’s Team, from Sexy Gay Romance ‘Flesh and Fuel’ to Animated ‘Iron Boy’",
-      "description": "AFI Fest programmers pick must-see features and shorts from this year's festival, running October 21-25 in Los Angeles.",
-      "url": "https://www.indiewire.com/features/general/afi-fest-must-see-movies-according-to-festival-team-1235222931/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/flesh-and-fuel-movie.jpg?w=650",
-      "publishedAt": "2026-10-20T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUyMjI4NzEv",
-      "title": "WGA East Moves to Block AI Models from Training on Members’ Work with New Software Partner Cloak: ‘Give Agency Back to Writers’",
-      "description": "WGAE members can register scripts with the program for free, while non-members can for a $10 fee.",
-      "url": "https://www.indiewire.com/news/business/wga-east-blocking-ai-models-training-scripts-1235222871/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=650",
-      "publishedAt": "2026-10-20T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-2UtYWxsZWdhdGlvbnM",
       "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
       "description": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention the sexual abuse allegations against the singer. In part, this was due to a legal clause, only spotted late in production, which stipulated that one of the men who accused Jackson of abusing them as a boy could never be depicted in a fictionalised account of the period. Continue reading...",
@@ -205,54 +265,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUyMjI3OTAv",
-      "title": "Ryan Gosling Turned Obstacles Into Opportunities on ‘Project Hail Mary’ — with a Little Help from Julia Roberts",
-      "description": "The leading man from one of the year's biggest hits talks about acting opposite a rock alien and why the book was like a knife in his side.",
-      "url": "https://www.indiewire.com/features/interviews/ryan-gosling-on-project-hail-mary-rocky-julia-roberts-1235222790/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDPRHA_MG018-e1790781557430.jpg?w=650",
-      "publishedAt": "2026-10-20T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-1jYXZlbWFuLXJvYmlu",
-      "title": "‘We’ll keep doing this if people pay us!’ The cast of TV hit Ghosts on making a movie – and maybe a caveman spinoff",
-      "description": "As the haunters of Button House hit the big screen with a plot about an escaped phantom, we hear how the team just missed each other too much – and why grunting Robin may get his own show When the final episode of Ghosts was aired in December 2023, the sitcom felt as if it had reached a definitive conclusion. The show’s central relationships, between Charlotte Ritchie’s Alison and the ghosts who haunt her tumbledown inherited manor house, were neatly tied up, as they encouraged her to sell the place to a hotel developer. It was a tearjerker of an episode for the millions of people who watched it, as well as for the cast and crew behind the scenes. “We had stopped the series with genuinely no intention of coming back,” explains the show’s co-creator Mathew Baynton, who also stars as the callow romantic poet Thomas. “We were all in tears on the last day of filming,” he says, now perched on the uncomfortable end of a chaise lounge in a London hotel suite. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ghosts-the-possession-of-button-house-caveman-robin",
-      "image": "https://i.guim.co.uk/img/media/c2ae3c3fdae4ed3075bff768331432e6f533343f/291_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6e30109be5a25e5369d34d7b037b032",
-      "publishedAt": "2026-10-20T14:14:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-XN0aXZhbC1zaXRnZXM",
-      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
-      "description": "Olivia Colman goes vulpine, Rupert Grint’s newborn is a monster and Joko Anwar makes a warmhearted violent ghost story set in an Indonesian prison If I’d ever wanted children, the films showing at the 59th edition of the International Fantastic film festival of Catalonia in the coastal town of Sitges, south of Barcelona, would have soon set me straight. This year’s recurring themes were explosive parturition, chewed-up nipples and the fruit of the womb turning out to be at best sociopathic, at worst inhuman. The theme was celebrated in an evil-kiddy exhibition at the Miramar Cultural Centre, marking the 50th anniversary of Narciso Ibáñez Serrador’s “fantaterror” classic Who Can Kill a Child? , some of which was filmed in Sitges itself. The expo traced the subgenre from 1956’s The Bad Seed, via Rosemary’s Baby and The Exorcist, to this year’s Nightborn , in which poor Rupert Grint, as the hapless husband, is no match for the developing folk-horror bond between his depressed wife, their newborn “child”, and the spooky forest surrounding their house. Finnish director Hanna Bergholm, in her introduction, confessed it was inspired by her experiences of motherhood. Only up to a point, one hopes. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
-      "image": "https://i.guim.co.uk/img/media/6deb0ada24ee21ec80947b107abe77270174231d/407_0_3907_3126/master/3907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b071ce96f935fdd04ff4203c5b5d537",
-      "publishedAt": "2026-10-20T14:10:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-R5LTEyMzUyMjI4NTEv",
-      "title": "‘Clayface’ Introduces DC Studios’ Gotham City — but Director James Watkins Never Felt Pressure to Set Up Future Films",
-      "description": "Watkins tells IndieWire about the \"incredibly supportive atmosphere\" that allowed him to make an R-rated horror movie that just happens to exist in a comic book universe.",
-      "url": "https://www.indiewire.com/features/interviews/clayface-director-james-watkins-interview-gotham-city-1235222851/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDCLAY_WB012.jpg?w=650",
-      "publishedAt": "2026-10-20T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -290,18 +302,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-Yy0xMjM1MjIyOTAxLw",
-      "title": "RIP Ann Hornaday, a Newspaper Film Critic Survivor",
-      "description": "She was among the few women critics when she started out in 1995, and was the reviewer for the Washington Post for 23 years.",
-      "url": "https://www.indiewire.com/news/obituary/ann-hornaday-dead-washington-post-film-critic-1235222901/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-186162559.jpg?w=650",
-      "publishedAt": "2026-10-20T01:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-gtZHRmLXN0LWxvdWlz",
