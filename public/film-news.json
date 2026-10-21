@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:38:15.457Z",
+  "generatedAt": "2026-10-21T01:02:39.296Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,9 +16,45 @@
   },
   "articles": [
     {
+      "id": "indiewire-XItMTIzNTIyMjg5NS8",
+      "title": "After ‘You Can See Everything,’ What’s Next for ‘The Rehearsal’?",
+      "description": "For \"You Can See Everything,\" Nathan learned it from watching Nathan.",
+      "url": "https://www.indiewire.com/features/craft/you-can-see-everything-the-rehearsal-nathan-fielder-1235222895/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC124.jpg?w=650",
+      "publishedAt": "2026-10-20T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MjIzMDIwLw",
+      "title": "‘Possible Love’ Trailer: Two Families Are Divided by a Documentary in Netflix Oscar Hopeful",
+      "description": "Lee Chang-dong's latest heartbreaker opens in select theaters this Friday before streaming on November 13.",
+      "url": "https://www.indiewire.com/news/trailers/possible-love-second-trailer-netflix-1235223020/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/possible-Love_Still_R43_AAA04362_RT3.jpg?w=650",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjIxMjc5Lw",
+      "title": "‘Wildwood’ Review: Laika’s Epic Stop-Motion Wonder Lacks the Magic of the Studio’s Best Movies",
+      "description": "\"Wildwood\" is the antidote to all of the worst trends in mainstream animation, but it gets lost somewhere in the wilderness between reality and imagination.",
+      "url": "https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/wildwood.avif?w=650",
+      "publishedAt": "2026-10-20T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-aS0xMjM1MjIxNDc1Lw",
       "title": "The Costumes Are Why ‘Your Mother Your Mother Your Mother’ Is a Movie Unlike Any Other",
-      "description": "Costume designer Deirdra Gowan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.",
+      "description": "Costume designer Deirdra Govan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.",
       "url": "https://www.indiewire.com/features/craft/your-mother-your-mother-your-mother-costumes-mahershala-ali-1235221475/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YMX3_03452_R.jpg?w=650",
       "publishedAt": "2026-10-20T18:00:00.000Z",
@@ -218,42 +254,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIyODQ3Lw",
-      "title": "Curry Barker on Why Gen Z Loves Going to the Movies: ‘It’s Social Interaction, but You’re Not Expected to Talk to Anyone’",
-      "description": "The 'Obsession' director accepted IndieWire's Future of Filmmaking Award at our Los Angeles summit, where he discussed his whirlwind year and his advice for young directors.",
-      "url": "https://www.indiewire.com/news/events/watch-curry-barker-indiewire-future-of-filmmaking-summit-1235222847/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1683.jpg?w=650",
-      "publishedAt": "2026-10-20T00:38:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-lzLTEyMzUyMjI4MzQv",
-      "title": "No One Left to Fire: Ted Sarandos Is Feeling the Heat as Netflix Struggles",
-      "description": "With Bela Bajaria and Dan Lin both out and the stock price below $70, all eyes are on what Sarandos will do to right the ship again.",
-      "url": "https://www.indiewire.com/news/analysis/ted-sarandos-no-one-else-fire-netflix-co-ceo-analysis-1235222834/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/05/GettyImages-1946489658.jpg?w=650",
-      "publishedAt": "2026-10-19T22:39:29.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-RzLTEyMzUyMjIyMjYv",
-      "title": "Ken Russell’s ‘The Devils’ Use Sets Unlike Any Other Period Film",
-      "description": "Production designer Derek Jarman's sets in \"The Devils,\" now gloriously restored, help make the past happen over and over again — now.",
-      "url": "https://www.indiewire.com/features/craft/ken-russell-the-devils-restoration-derek-jarman-sets-1235222226/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/M8DDEVI_EC004.jpg?w=650",
-      "publishedAt": "2026-10-19T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
     },
     {
       "id": "guardian-gtZHRmLXN0LWxvdWlz",
