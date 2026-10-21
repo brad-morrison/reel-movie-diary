@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:02:39.296Z",
+  "generatedAt": "2026-10-21T12:44:40.078Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "description": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg",
+      "publishedAt": "2026-10-21T11:47:01.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-J5LTMwLXllYXJzLW9u",
+      "title": "Scream review – Wes Craven meta horror remains super smart and scary 30 years on",
+      "description": "Self-aware romp through the genre is redolent of the 90s but its ghost-masked killer is as alarming as ever The 30th anniversary re-release of the original Scream, from screenwriter Kevin Williamson and director Wes Craven, brings us to a locus classicus of the 90s: a self-aware romp through the horror genre. It features Skeet Ulrich’s high schooler Billy Loomis announcing that reality is “all one big movie – but you can’t pick your genre”, which is the meta-slasher equivalent of Jacques Derrida’s belief that there is nothing outside the text. A ghost-masked killer is murdering and terrorising the bland Californian town of Woodsboro, and we begin with his gruesome assault on Casey (Drew Barrymore); he makes chilling calls to people’s landline phones, in an era where that meant you more or less had them pinned them down to a certain location. (The existence of “cellular” phones was still an exotic novelty.) The mother of teen Sidney (Neve Campbell) had been brutally killed previously, a crime pinned on local man Cotton Weary (a cameo for Liev Schreiber) who is now in jail. But was he really guilty? Now Sidney is at risk like everyone else. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
+      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/423_589_1791_1433/master/1791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9978a483cfe617161f5005a9a0c31445",
+      "publishedAt": "2026-10-21T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
+      "description": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/96a5/live/85bef820-cd32-11f1-935f-b9c228680c6f.jpg",
+      "publishedAt": "2026-10-21T09:35:31.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-YS1kb2N1bWVudGFyeQ",
+      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
+      "description": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the release of Sofia Coppola’s Marie Antoinette starring Kirsten Dunst; it is a supportively unjudging, unironised study of the queen’s early years before the 1789 revolution, lavishly and accurately costumed, shot on location at Versailles and based on the Antonia Fraser biography – but also subversively and amusingly using pop tracks from the 70s and 80s on the soundtrack. It got a storm of booing from French critics, reportedly annoyed at the way their history had been reduced to a music video and fashion shoot with no French actors involved. Or hardly any. In fact, for all the lack of political grit, the film was interesting and accomplished, and deservedly has a fanbase – and it is to that constituency that this making-of documentary from the director’s mother Eleanor Coppola is really addressed. It is basically a sweet family home movie on digital video which shows something of the strain and the longueurs of shooting a demanding period picture, but tactfully not seeing anything really explosive or bad-tempered. It is very far from Eleanor Coppola’s sensational behind-the-scenes film Hearts of Darkness: A Filmmaker’s Apocalypse about the tumultuous creation of Apocalypse Now, directed by her husband Francis Ford Coppola. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
+      "image": "https://i.guim.co.uk/img/media/1bbf597540211d2a4254a4081b6a82359c42ff00/519_126_3485_2788/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=047a9ad20fd54b313e5f41c57e0aa52c",
+      "publishedAt": "2026-10-21T08:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-QtaG91c2UtY29tZWR5",
+      "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
+      "description": "Picking up not long after the events of the final episode of the BBC’s haunted house comedy, this glorious new film is every bit as warm and comforting as the TV sitcom What on earth is happening at Button House? Kitty has tasered a police officer. Fanny is pulling down her capacious Victorian drawers to show off her bottom. Robin the caveman has fallen in love with a crusty eco activist (to be fair she looks quite a bit like him). If you’ve never watched the BBC’s haunted house comedy Ghosts – one of the finest family television shows in recent memory – none of the above will make the slightest bit of sense. Neither perhaps will this glorious new film, which picks up with the ghosts not long after the events of the final episode in 2023 . Often when British sitcoms get a spin-off what happens is the gag-to-runtime ratio dips. But breaking out of the 30-minute episode structure seems to have freed up the writers to unleash new levels of giddiness with added spoonfuls of silliness. The jokes keep coming, and it’s every bit as warm and comforting as on TV. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
+      "image": "https://i.guim.co.uk/img/media/efbe53529f59b170b7c8d5e888ea4bfa207bae00/523_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=22fee992450fac24f049b52acdf7bd17",
+      "publishedAt": "2026-10-21T06:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-XItMTIzNTIyMjg5NS8",
       "title": "After ‘You Can See Everything,’ What’s Next for ‘The Rehearsal’?",
@@ -26,6 +86,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-3V0LXZpZXdlcnNoaXA",
+      "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
+      "description": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Interest in Elizabeth Holmes and the Theranos fraud scandal has surged amid buzz for You Can See Everything , the record-breaking documentary on the disgraced former CEO. Viewership for The Dropout , the 2022 Hulu series starring Amanda Seyfried as Holmes, surged by 186% in September compared with the month prior, according to Variety , after the announcement on 6 September of the previously secret film’s first teaser. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20154fec3bec7c337dd76d2f4deb29b5",
+      "publishedAt": "2026-10-20T21:16:23.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
     },
     {
       "id": "indiewire-eC0xMjM1MjIzMDIwLw",
@@ -184,18 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-9yLXJvYmluLWhhcmR5",
-      "title": "Children of the Wicker Man review – how the folk-horror classic haunted the family that made it",
-      "description": "Director Robin Hardy’s children lay bare the sometimes agonised family background to a movie that went from ruinous flop to cult favourite This documentary is a collaboration between Justin Hardy and Dominic Hardy, two of film director Robin Hardy’s children (he had seven in all, and was married five times), and it delves into the legacy of both their father and his most enduring work, 1973 folk-horror classic The Wicker Man. The latter still stands today, for all its imperfections and peculiarities, as one of the most unsettling and paradoxically influential British films of all time, despite being a box-office flop on its initial release. This latest work is partly an account of The Wicker Man’s troubled production – a story that’s been told in books and journalism a fair few times already – and its strange reemergence as a cult movie-cum-fetish object, and partly a therapeutic exercise for the brothers themselves, full of raw feeling that’s sometimes painful to watch. However, while the brothers’ willingness to share their pain remains admirable, their film feels hampered by omissions and silences. On some level it is haunted by the ghosts of significant players in the story who have passed away, including Hardy himself and screenwriter Anthony Shaffer, as well as other key figures who are alive but aren’t interviewed here. Where, for example, are the brothers’ other siblings? Allan Brown, author of Inside The Wicker Man: How Not to Make a Cult Classic, is mentioned in several juicy anecdotes but is also absent, while somewhat bafflingly there’s a fair amount of an interview with Scottish actor Bill Paterson, who was almost cast in the original film but wasn’t. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy",
-      "image": "https://i.guim.co.uk/img/media/f9339a30c7aec5d9e5c10a1ff6c993fb962f3a89/129_0_908_726/master/908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1a60ae85c1781d29e0d4a8719b7e2046",
-      "publishedAt": "2026-10-20T12:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-ItY2xpbWF0ZS1maWxt",
       "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
       "description": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect climate change film for our era. Digger Rockwell, the eponymous protagonist played by Tom Cruise, is a bluntly caricatured Texas oilman blase about the environmental ruin of his drilling, even as it triggers a disastrous splitting of the Arctic ice sheet. This causes a vast iceberg, five times the size of Washington DC, to barrel towards Europe and threaten a devastating tsunami. Continue reading...",
@@ -218,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LWVjby1hY3RpdmlzbQ",
-      "title": "All Rivers Spill Their Stories to the Sea review – stirring portrait of fishers driven to eco-activism",
-      "description": "With catches down 80%, dead crabs and lobsters washed up on beaches and officials denying any responsibility, Hartlepool seafarers have taken a stand Hartlepool fisherman Stan Rennie has been called the next Mr Bates . For nearly 50 years Rennie has fished the same stretch of northeast coastline – then in October 2021, thousands of crabs, starfish and lobsters washed up dead and dying on the beaches. “It was like something out of a horror film,” says one local. Rennie and other fishermen suspected industrial pollution, but an investigation by the Department for Environment, Food and Rural Affairs concluded that the most likely cause of the die-off was “algal bloom”. For Rennie and the other fisherman, it didn’t add up. So, they crowdfunded their own independent scientific study. This documentary from Jeanie Finlay ( Your Fat Friend ) tells the story, and it’s maddening. The fishermen are close to bankruptcy, they’ve got mortgages and kids, catches are down 80%. The cost of diesel is higher than the price of a haul, and most put their boats up for sale. “Any jobs in Lidl?” reads one placard as they protest through town. What the fishermen suspect is that toxic sediment dredged from the River Tees and dumped in the sea is to blame. Their investigation finds evidence of a link to the chemical pyridine , a byproduct of steelmaking. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/all-rivers-spill-their-stories-to-the-sea-review-stirring-portrait-of-fishers-driven-to-eco-activism",
-      "image": "https://i.guim.co.uk/img/media/84f9ae81951c60e50d04c2bd8a000fdf30f77a7b/184_0_3602_2882/master/3602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=504f5a089ccf3fb5b4b884a9116cd81b",
-      "publishedAt": "2026-10-20T10:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -338,18 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-phLWRvY3VtZW50YXJ5",
-      "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
-      "description": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossible to ignore”. NAZA, which is produced by the Guardian and details Israel’s mass killing of civilians in Gaza, was released in UK cinemas this week and will be shown in more than 50 countries. As well as its global cinema releases, NAZA will be available free on the Guardian’s website from late November. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
-      "image": "https://i.guim.co.uk/img/media/a2d241b1176a9d0f45fadb63749471777498fbd9/0_0_2528_2023/master/2528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60e513c9e793d9b157a52248f91ba512",
-      "publishedAt": "2026-10-16T15:42:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -482,18 +518,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-bi1tb3ZpZXMtdGVjaA",
-      "title": "Will the Zuckerberg, Musk and Altman movies make a dent on tech giant evangelism?",
-      "description": "The triple release of The Social Reckoning, Musk and Artificial is less a clear political stance, more like movie studio opportunism Hollywood is sending a clear message: it’s a friend of tech. Netflix is no longer a lone disruptor: historic studio MGM is now the property of Amazon’s Jeff Bezos; David Ellison’s takeover of Paramount and subsequent Warner Bros merger was supported by his tech giant father; and Apple TV has acted as a patron for multiple film-maker passion projects. Everyone, including trendy auteur-factory A24, is tying themselves financially to AI. The enormous pull of the tech industry – including its many trillions of dollars, oversized influence on politics and heavily pushed algorithms and AI products – means Hollywood is not alone in courting its wealth, but it has intensified the historic tension between art and commerce in the entertainment business. Technology that augments the human experience may be a compelling narrative subject, but this year brings a trio of films about the gurus responsible for the industry’s false promises. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/07/the-social-reckoning-musk-and-artificial-zuckerberg-musk-and-altman-movies-tech",
-      "image": "https://i.guim.co.uk/img/media/5644909e9a17646960a38921aee6a8502993ccc6/458_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7108b4687ee08319d96804473f94468f",
-      "publishedAt": "2026-10-07T13:43:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-y1tb3ZpZS1yZXZpZXc",
