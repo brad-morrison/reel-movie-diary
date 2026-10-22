@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:45:24.406Z",
+  "generatedAt": "2026-10-22T18:37:58.162Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,186 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMjM0MDQv",
+      "title": "‘Moonlight’ Turns 10: Tarell Alvin McCraney on the Film’s Lasting Legacy and That Best Picture Mix-Up",
+      "description": "The Oscar-winning screenwriter reflects on the beginnings of Barry Jenkins' \"Moonlight\" — and how it led to multiple Academy Awards, including Best Picture.",
+      "url": "https://www.indiewire.com/features/interviews/moonlight-turns-10-tarell-alvin-mccraney-interview-1235223404/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDMOON_EC125.jpg?w=650",
+      "publishedAt": "2026-10-22T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjIzMjcxLw",
+      "title": "‘The Hunger Games’ Producer Nina Jacobson Talks Using AI to Test ADR Lines Before Recording with Actors: ‘We Would Never Use It’ in the Film",
+      "description": "The conversation at IndieWire's Future of Filmmaking Summit also touched on the franchise's incredible longevity and resonance in our current political climate.",
+      "url": "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=650",
+      "publishedAt": "2026-10-22T18:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VsLTEyMzUyMjMyMjUv",
+      "title": "Artists Equity’s Amy Baer on Building a Sustainable Indie Model with Movies That Don’t Star Matt Damon or Ben Affleck",
+      "description": "The production label's president of film and TV discusses the newly-launched Artists Equity Independent Pictures and how to apply their unique model to smaller films.",
+      "url": "https://www.indiewire.com/news/business/artists-equity-amy-baer-sustainable-indie-model-1235223225/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2256157076.jpg?w=650",
+      "publishedAt": "2026-10-22T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-VkLTEyMzUyMjI5MzAv",
+      "title": "Don’t Get the Wrong Idea About ‘The Dropout’",
+      "description": "Watching Elizabeth Holmes watch \"The Dropout\" in \"You Can See Everything\" may leave viewers questioning the merits of Amanda Seyfried's Emmy-winning limited series. But its bona fides are stronger than ever — and the movie knows it.",
+      "url": "https://www.indiewire.com/features/commentary/the-dropout-wrong-you-can-see-everything-amanda-seyfried-1235222930/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Amanda-Seyfried-as-Elizabeth-Holmes-in-The-Dropout-on-Hulu.jpg?w=650",
+      "publishedAt": "2026-10-22T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XQtMTIzNTIyMzM1My8",
+      "title": "‘The Debut’ Is the Go-to Festival Crowdpleaser as Jesse Eisenberg’s Musical Comedy Launches at Virginia",
+      "description": "The Juliane Moore-starrer also just won Middleburg's Audience Award, but two hours away from the Virginia Film Festival in Charlottesville.",
+      "url": "https://www.indiewire.com/awards/industry/virginia-film-festival-opens-the-debut-1235223353/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/VAFF-2026-WED-JL-0107.jpg?w=650",
+      "publishedAt": "2026-10-22T16:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjE1MzAwLw",
+      "title": "Sandra Hüller’s Star Keeps Rising, but She’s Still Adjusting to Life in the Public Eye",
+      "description": "The Telluride Tributee breaks down a massive year that includes \"Fatherland,\" \"Rose,\" \"Project Hail Mary,\" and \"Digger.\"",
+      "url": "https://www.indiewire.com/features/interviews/sandra-huller-interview-fatherland-rose-project-hail-mary-1235215300/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3108.jpeg?w=650",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mktMTIzNTIyMzMzMy8",
+      "title": "Mayor Zohran Mamdani and Neon to Present Free ‘Once Upon a Time in Harlem’ New York City Screenings",
+      "description": "The Oscar-contending documentary that captures a 1972 meeting of Harlem Renaissance luminaries will screen at three NYC venues, October 24 - 25.",
+      "url": "https://www.indiewire.com/news/general-news/once-upon-a-time-in-harlem-free-nyc-screenings-mamdani-1235223333/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-26-at-10.10.35-AM.png?w=650",
+      "publishedAt": "2026-10-22T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3ktMTIzNTIyMTYxOC8",
+      "title": "‘Blue Film’: How the Controversial Camboy Drama Was Produced for Just $100,000",
+      "description": "The story of a sex worker and his john was too hot for major film festivals, but thanks to its microbudget, it's a box-office success.",
+      "url": "https://www.indiewire.com/news/business/blue-film-camboy-pedophile-drama-produced-100k-controversy-1235221618/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/BLUE_Still_3-1.jpg?w=650",
+      "publishedAt": "2026-10-22T15:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-YW5kLWEtcGVydmVydA",
+      "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
+      "description": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains substantial spoilers for Ali G: Who Iz I? • Review: Ali G: Who Iz I? The chair of the El Paso County Republican Party has said he intends to sue Sacha Baron Cohen over footage of the local politician used in new satirical comedy Ali G: Who Iz I? In the film, Michael Aboud is shown taking part in a training programme with another Cohen character, ex-Mossad terrorist expert Col Erran Morad, who instructs Aboud and fellow Maga sympathisers in self-defence techniques including the wearing, over clothes, of protective plastic buttocks. He also schools them in how to fire bullets from the middle of these buttocks by the repeated up and down manipulation of a rubber penis. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
+      "image": "https://i.guim.co.uk/img/media/c3f25bf80aa5601a22f016cfb9c0e93c07b27b68/337_0_4361_3488/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=520601a50f0c44d2caec11016fc6ecdf",
+      "publishedAt": "2026-10-22T15:10:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-bGFyLWJhZC10YXN0ZQ",
+      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
+      "description": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation • Exclusive: Republican leader embarrassed by film says he plays to sue Sacha Baron Cohen: ‘A liar and a pervert’ If you liked Sacha Baron Cohen’s Ali G the first time around, you’ll like this less; if you disliked it, you’ll dislike this more; if you suspected it was racist, you’ll be more emboldened to say so – especially as Baron Cohen has dreamed up a whole new character apparently to pre-empt and mock precisely that objection. Broad and crass as it often is – in fact always is – this Ali G sequel is sometimes funny: the athletic vigour of our hero’s pranking and punking is like the umpteenth Jackass film at which you might find yourself laughing, and Baron Cohen blunders with the semi-intentional force of an XL bully into the issue of whether jokes are still allowed. Unlike the first film, Ali G in Da House from 2002, this is not a full written-through narrative. It is basically another live-ammo series of hoaxes with some spectacular bad taste perpetrated upon the deserving and less deserving; it satirises the shamelessness of anti-woke free speech martyrs, punching up and down with grossout cringe, and the targets include some big names who shouldn’t be revealed here. There are two other subordinate characters: Erran Morad, a sinister Mossad/IDF officer turned US security consultant (who appeared in Baron Cohen’s Who Is America? TV series ), and a new figure: Dr Nira Cain-N’Degrocello, a grotesquely supercilious white liberal who is the self-appointed scourge of cultural appropriation. The dupes are built into a big silly climax fabricated with body doubles and (presumably) covert reshooting. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+      "image": "https://i.guim.co.uk/img/media/f68e33d5b692f17a2fdc4dec248180853a9faee4/633_0_3421_2740/master/3421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=c090f360b4b537fa0e1d144142b0136c",
+      "publishedAt": "2026-10-22T15:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-GwtMTIzNTIyMjk0OS8",
+      "title": "‘Nobody Wants This’ Season 3 Review: Netflix’s Fizzy Rom-Com Puts the Pop (and Pain) Back Into Modern Love",
+      "description": "Long-billed as the series' \"champagne\" season, the Adam Brody- and Kristen Bell-starring comedy goes down easy. Well, mostly.",
+      "url": "https://www.indiewire.com/criticism/shows/nobody-wants-this-season-3-review-netflix-rom-com-kristen-bell-1235222949/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Nobody_Wants_This_n_S3_E1_00_04_05_08RC2.jpg?w=650",
+      "publishedAt": "2026-10-22T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-FkZXItaW50ZXJ2aWV3",
+      "title": "Zach Braff: ‘You can be talented and good-looking, but acting success is still like winning the lottery’",
+      "description": "The Scrubs and Garden State star answers your questions about working with megastars, getting his hair to look good and being brutally killed on BoJack Horseman How do you manage not to act starstruck when directing people like Morgan Freeman, Michael Caine and Harrison Ford? TopTramp That’s where my acting comes in – I pretend that I don’t know how famous they are. Every actor really wants a leader. They want someone who knows the script really well, has a plan for how the scene is going to be executed, and – in the case of comedy – knows how to make it funny. The last thing any of those guys wants is someone coming in starstruck and wide-eyed. So I use my acting skills to pretend I’m not starstruck and treat them like normal people. Your Fake Doctors, Real Friends podcast was a real help through lockdown. You were very emotionally open and personal; it was like catching up with friends. I still think about your line that making it in acting, even if you’re talented and good-looking, is like winning the lottery. Do you think that early 00s Zach Braff would make it in the present day the way you did? KamesJ Back then, the broadcast networks were making so many pilots, at least it was work for people. Now, I think it’s a much harder landscape to break through. I firmly believe that you can be talented and good-looking, but success is still like winning the lottery. I know plenty of brilliant actors whose lottery ticket hasn’t come up yet. I started auditioning at 14 and barely got anything for years, so I’ve always felt very lucky. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
+      "image": "https://i.guim.co.uk/img/media/acee0b6bbc69aaf46ac77b00575538656462ad91/0_486_4002_3200/master/4002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad244d9bb0583b17f979bf431fe23da1",
+      "publishedAt": "2026-10-22T14:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-NoLTEyMzUyMTMyNzkv",
+      "title": "‘A Talent for Murder’ Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith",
+      "description": "Anton Corbijn directs the pair in a two-hander with real bite, as adapted by Joanna Murray-Smith from her devilish play \"Switzerland.\"",
+      "url": "https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg?w=650",
+      "publishedAt": "2026-10-22T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-S1zaGFkb3dzLWZpbG0",
+      "title": "‘If my brother hadn’t died, my life would be so different’: Olympic boxer Ramla Ali’s incredible journey",
+      "description": "From fleeing the Somali civil war to fighting at the Tokyo Olympics, Ali’s life has been remarkable – and now she is being played by Top Boy’s Jasmine Jobson in a new biopic. We hear from both on this ‘positive migrant story’ Boxer Ramla Ali sweeps into the green room of a West End cinema, tiny in a frothy dress with a huge skirt of cascading black feathers. It’s an absolute showstopper. She’s just introduced the premiere of a new film about her life. There are messages on her phone from Bear Grylls and Malala Yousafzai, who are in the audience watching. But the person who matters most is her mum, who is seeing it for the fourth time. What does she think? “She loves it,” says Ali quietly. The film is In the Shadows, directed by Anthony Wonke and stars Top Boy actor Jasmine Jobson. It tells the story of Ali’s journey to the 2021 Olympics in Tokyo. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ramla-ali-olympic-boxer-interview-in-the-shadows-film",
+      "image": "https://i.guim.co.uk/img/media/d9230cbc9dbc232b76fbf84a704d7180638188ed/468_203_3496_2797/master/3496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44a426d912dec127af87753570d1e311",
+      "publishedAt": "2026-10-22T13:28:59.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-lwLTEyMzUyMjI4NTMv",
+      "title": "Is Fan Fiction Really the Next Frontier in IP?",
+      "description": "Fan fiction is so hot right now. At least, that’s what everyone says.",
+      "url": "https://www.indiewire.com/features/commentary/fan-fiction-next-frontier-hollywood-ip-1235222853/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/LVHY_2026_UT_250818_BOSPHI_07356RC2_1_3000-H-2026.webp?w=650",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "guardian-WV2YW5zLXZpbGxhaW4",
       "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
@@ -64,42 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-W4tMTIzNTIyMzI3Ny8",
-      "title": "Ken Russell’s ‘The Devils’ Extends Theatrical Run Following Strong Box Office Debut",
-      "description": "Clockwork will keep the restored version of the controversial epic in cinemas beyond its one-week engagement.",
-      "url": "https://www.indiewire.com/news/general-news/ken-russell-the-devils-extends-theatrical-run-1235223277/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDDEVI_EC092.jpg?w=650",
-      "publishedAt": "2026-10-21T21:43:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-Yy0xMjM1MjIzMjY0Lw",
-      "title": "Watch ‘Man on the Run’ Director Morgan Neville Unpack Paul McCartney’s Life After Beatlemania",
-      "description": "Neville joined IndieWire editor-in-chief Brent Lang to discuss making the definitive doc about McCarney's Wings era.",
-      "url": "https://www.indiewire.com/news/events/man-on-the-run-paul-mccartney-director-art-of-the-doc-1235223264/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2550.jpg?w=650",
-      "publishedAt": "2026-10-21T21:40:56.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTUxMzYv",
-      "title": "‘Possible Love’ Review: Two Married Couples Begin to Covet Each Others’ Lives in the Latest Stunner from ‘Burning’ Director Lee Chang-dong",
-      "description": "Class conflict achieves vivid new dimension in this sprawling Netflix drama about the relationship between a rich documentary filmmaker and her blue collar subjects.",
-      "url": "https://www.indiewire.com/criticism/movies/possible-love-movie-review-1235215136/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/POSSIBLE-love.jpg?w=650",
-      "publishedAt": "2026-10-21T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-V3LWJvZHktaG9ycm9y",
       "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
       "description": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. There’s still interest there, of course (this summer’s Spider-Man is now the biggest film of all time in the US after all), but it’s no longer good enough to leave a high-speed conveyor belt unmanned, purpose and quality control be damned. 2019 saw a staggering 10 superhero films released in cinemas, and the inevitable exhaustion that followed, also fueled by Covid, led to a gradual winding down, monster hits turning into minor ones and sure bets often becoming expensive flops. As Peter Parker winged his way to box office records this summer, DC’s Supergirl bombed so hard that experts believe it might have cost Warners upwards of $200m in losses. It was just the latest disappointment for the brand after Black Adam, Joker: Folie à Deux, Blue Beetle and The Flash all underperformed while even last year’s much-heralded Superman reboot only grossed a solid $618m, a far cry from the $1bn heyday of the genre (things got so bad that even a fully filmed Batgirl adventure was deleted for the tax break ). Notably, the last DC film to swoop past that magic figure was Joker in 2019, a darker, lower-budget attempt to spotlight a villain rather than a hero, a big swing with relatively low stakes. Todd Phillips’s film might be best known by some for being brave enough to ask the question, “What if Taxi Driver sucked?” but for all of its many issues, it brought buzz and prestige and, shockingly, Oscars, to an easily ridiculed universe. It was also, crucially, something rare in that world: a close-to-good idea. Continue reading...",
@@ -112,66 +256,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-3UtMTIzNTIyMzAwMi8",
-      "title": "‘Clayface’ Review: A Gross Miscalculation (Emphasis on the Gross)",
-      "description": "James Watkins' gory, goopy R-rated body horror is an offbeat addition to the DCU's increasingly erratic output, but it feels much more like a curiosity than an essential story.",
-      "url": "https://www.indiewire.com/criticism/movies/clayface-review-body-horror-dcu-1235223002/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650",
-      "publishedAt": "2026-10-21T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-mQtMTIzNTIyMzIxNS8",
-      "title": "Tom Cruise to Be Honored with AFI Life Achievement Award",
-      "description": "The \"Digger\" and \"Mission: Impossible\" star will be at the center of a gala tribute in Los Angeles in April.",
-      "url": "https://www.indiewire.com/news/general-news/tom-cruise-honored-afi-life-achievement-award-1235223215/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2298872276.jpg?w=650",
-      "publishedAt": "2026-10-21T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIyMzE4Ni8",
-      "title": "Neon Boards ‘NAZA’ to Expand Distribution for Documentary About Israel’s Military Strikes on Gaza",
-      "description": "Co-directors Yuval Abraham and Rachel Szor's previous doc \"No Other Land\" was unable to find a U.S. distribution partner in 2024. Similarly, \"NAZA\" had been released independently, until now.",
-      "url": "https://www.indiewire.com/news/business/neon-joins-naza-israel-gaza-documentary-distribution-1235223186/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/photo-NAZA-copy.webp?w=650",
-      "publishedAt": "2026-10-21T17:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjIzMDk2Lw",
-      "title": "Japanese Cult Blockbuster ‘Rex: A Dinosaur’s Story’ to Get First U.S. Theatrical Release in December",
-      "description": "Exclusive: One of the most expensive films ever produced in Japan, the '90s Christmas feature had its theatrical release cut short after its director was arrested for cocaine smuggling.",
-      "url": "https://www.indiewire.com/news/general-news/japanese-cult-film-rex-a-dinosaur-story-us-release-1235223096/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Rex-a-Dinosaurs-Story.png?w=650",
-      "publishedAt": "2026-10-21T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Yy0xMjM1MjIzMTA1Lw",
-      "title": "Watch Ava Duvernay Explain Why the 14th Amendment Is So Much More Than Birthright Citizenship",
-      "description": "At IndieWire's Art of the Doc event, the \"13th\" director explained why her Netflix follow-up contained much more than she initially expected.",
-      "url": "https://www.indiewire.com/news/events/watch-ava-duvernay-discuss-14th-indiewire-art-of-the-doc-1235223105/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B1983.jpg?w=650",
-      "publishedAt": "2026-10-21T16:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-ZGVmZW5kcy1hbGktZw",
       "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
       "description": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’ Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on in a lengthy article for Time magazine . On the eve of the release of his new film, Ali G: Who Iz I?, Baron Cohen described satire as “more important than ever”, adding that “along the way, some people, instead of laughing, wince or worse, take offence.” Continue reading...",
@@ -181,54 +265,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-R5LTEyMzUyMjMwOTMv",
-      "title": "Gen Z Feels ‘Doomed’ Watching AI, but Gen Alpha Feels Differently",
-      "description": "Over 30 percent of young people feel either \"doomed\" or \"scared\" when watching AI-generated content, but a study found notable differences in age groups.",
-      "url": "https://www.indiewire.com/news/general-news/gen-z-doomed-watching-ai-gen-alpha-feels-differently-study-1235223093/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=650",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-NlLWRvY3VtZW50YXJ5",
-      "title": "‘I’m always being real’: what on earth persuades disgraced people like Elizabeth Holmes to let the cameras in?",
-      "description": "With You Can See Everything, Holmes joins other such high-profile subjects as Lance Armstrong, Imelda Marcos and Anthony Weiner to allow film-makers to document their lives. But do they ever come out well? In You Can See Everything, convicted fraudster Elizabeth Holmes invites film-makers Nathan Fielder and Lance Oppenheim into her home in a supposed act of “radical transparency”. Holmes is filmed, along with her partner, Billy Evans, and their two young children, in the weeks before starting a prison sentence for defrauding Theranos investors. “The best way for people to see who she is,” Evans says, “is to give as much access as possible into our daily lives”. It may also be the best way to market “Theranos 2.0”, which the couple are working on during filming. But the documentary questions whether Holmes is presenting her authentic self or a manufactured persona. Fielder speaks for the audience when he asks Holmes in a tense exchange whether she’s “being real” with him. “I’m always being real,” she says. That question of authenticity is at the heart of documentary film-making. You Can See Everything is as much about the ambiguous relationship between film-maker and subject as it is about Holmes herself. There is often a power struggle over narrative control in documentaries, with both sides of the dynamic wanting different outcomes from the final film. Watching You Can See Everything inevitably prompts the question: why would Holmes, days before she heads to jail, invite the scrutiny of a film crew? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
-      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/433_0_1853_1484/master/1853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bdbc121d08223f6e13a3d9b4dda1c68",
-      "publishedAt": "2026-10-21T15:02:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIyMjg2MS8",
-      "title": "A New Australian Horror Import Imagines ‘Obsession’ from a Very Different Perspective",
-      "description": "Film critic, author, and horror expert Alexandra Heller-Nicholas writes about taking her teenage son to see “The Only One,” and reigniting some classic Aussie horror hits and enduring societal questions in the process.",
-      "url": "https://www.indiewire.com/features/commentary/the-only-one-australian-horror-obsession-1235222861/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Copy-of-BHFF-11.jpg?w=650",
-      "publishedAt": "2026-10-21T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-jUtMTIzNTIyMzEzNy8",
-      "title": "‘Sinner Supper Club,’ a Gay Mumblegore Ghost Story, Sells to Factory 25",
-      "description": "Shot in six days on an iPhone, the film will premiere at NewFest.",
-      "url": "https://www.indiewire.com/news/general-news/sinner-supper-club-gay-ghost-story-sells-factory-25-1235223137/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-10.01.56-AM.png?w=650",
-      "publishedAt": "2026-10-21T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -256,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-J5LTMwLXllYXJzLW9u",
-      "title": "Scream review – Wes Craven meta horror remains super smart and scary 30 years on",
-      "description": "Self-aware romp through the genre is redolent of the 90s but its ghost-masked killer is as alarming as ever The 30th anniversary re-release of the original Scream, from screenwriter Kevin Williamson and director Wes Craven, brings us to a locus classicus of the 90s: a self-aware romp through the horror genre. It features Skeet Ulrich’s high schooler Billy Loomis announcing that reality is “all one big movie – but you can’t pick your genre”, which is the meta-slasher equivalent of Jacques Derrida’s belief that there is nothing outside the text. A ghost-masked killer is murdering and terrorising the bland Californian town of Woodsboro, and we begin with his gruesome assault on Casey (Drew Barrymore); he makes chilling calls to people’s landline phones, in an era where that meant you more or less had them pinned them down to a certain location. (The existence of “cellular” phones was still an exotic novelty.) The mother of teen Sidney (Neve Campbell) had been brutally killed previously, a crime pinned on local man Cotton Weary (a cameo for Liev Schreiber) who is now in jail. But was he really guilty? Now Sidney is at risk like everyone else. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
-      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/423_589_1791_1433/master/1791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9978a483cfe617161f5005a9a0c31445",
-      "publishedAt": "2026-10-21T10:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
       "description": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
@@ -280,16 +304,16 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YS1kb2N1bWVudGFyeQ",
-      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
-      "description": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the release of Sofia Coppola’s Marie Antoinette starring Kirsten Dunst; it is a supportively unjudging, unironised study of the queen’s early years before the 1789 revolution, lavishly and accurately costumed, shot on location at Versailles and based on the Antonia Fraser biography – but also subversively and amusingly using pop tracks from the 70s and 80s on the soundtrack. It got a storm of booing from French critics, reportedly annoyed at the way their history had been reduced to a music video and fashion shoot with no French actors involved. Or hardly any. In fact, for all the lack of political grit, the film was interesting and accomplished, and deservedly has a fanbase – and it is to that constituency that this making-of documentary from the director’s mother Eleanor Coppola is really addressed. It is basically a sweet family home movie on digital video which shows something of the strain and the longueurs of shooting a demanding period picture, but tactfully not seeing anything really explosive or bad-tempered. It is very far from Eleanor Coppola’s sensational behind-the-scenes film Hearts of Darkness: A Filmmaker’s Apocalypse about the tumultuous creation of Apocalypse Now, directed by her husband Francis Ford Coppola. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
-      "image": "https://i.guim.co.uk/img/media/1bbf597540211d2a4254a4081b6a82359c42ff00/519_126_3485_2788/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=047a9ad20fd54b313e5f41c57e0aa52c",
-      "publishedAt": "2026-10-21T08:00:04.000Z",
+      "id": "guardian-3V0LXZpZXdlcnNoaXA",
+      "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
+      "description": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Interest in Elizabeth Holmes and the Theranos fraud scandal has surged amid buzz for You Can See Everything , the record-breaking documentary on the disgraced former CEO. Viewership for The Dropout , the 2022 Hulu series starring Amanda Seyfried as Holmes, surged by 186% in September compared with the month prior, according to Variety , after the announcement on 6 September of the previously secret film’s first teaser. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
+      "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20154fec3bec7c337dd76d2f4deb29b5",
+      "publishedAt": "2026-10-20T21:16:23.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Trailers"
     },
     {
       "id": "guardian-2UtYWxsZWdhdGlvbnM",
@@ -310,18 +334,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
       "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5498fb1fc094227d31932bf0c2f16783",
       "publishedAt": "2026-10-20T12:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-bGwtYW5kLXRhbGVudA",
-      "title": "‘Oh God, I can’t bear it’: Judi Dench says Cats film was ‘a waste of goodwill and talent’",
-      "description": "The actor’s forthcoming memoir Is It Too Late to Make a Run for It? says the makers had honourable intentions but the elements ‘didn’t coalesce’ Dame Judi Dench has long made her feelings clear about Cats, the doomed 2019 adaptation of the Andrew Lloyd Webber musical. In an interview the year after release, she said she had so far declined to watch the movie – in which she played wise moggy Old Deuteronomy – and described the orange fur coat she had to wear as looking like “five foxes fucking on my back”. In her forthcoming memoir, Is It Too Late to Make a Run for It? Dench reflects further on her involvement in the movie, which was universally panned and whose director, Tom Hooper, has not made a film since. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
-      "image": "https://i.guim.co.uk/img/media/4fd511b9ad4acdeee42a4de7d5af3159b2e82425/824_119_1127_902/master/1127.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c27bac37625b0e8f788d16782b260300",
-      "publishedAt": "2026-10-20T11:28:47.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -364,18 +376,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-ZW5pbmctd2Vla2VuZA",
-      "title": "Elizabeth Holmes documentary You Can See Everything debuts with huge $15m opening weekend",
-      "description": "Nathan Fielder and Lance Oppenheim’s buzzy film was shown on only 855 screens in the biggest documentary opening in North America since Fahrenheit 9/11 in 2004 Nathan Fielder’s nearly three-hour Elizabeth Holmes documentary, You Can See Everything , has opened to an extraordinary $15m domestic box office, the biggest opening weekend for a documentary in North America in more than 20 years. You Can See Everything, directed by Nathan Fielder and Lance Oppenheim, made $15m (A$21.5m, £11.2m) from only 855 screens, and had more than 2,000 sold-out screenings at the weekend, according to the production company A24. It is the biggest opening for a film playing on fewer than 1,000 screens since Borat opened to $26.5m in 2006. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/elizabeth-holmes-documentary-debuts-with-huge-opening-weekend",
-      "image": "https://i.guim.co.uk/img/media/13db4dc3f0dea8e3662995e85e5388a8d1bc7412/396_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b634388acf68b95ea8c76602c3d15e4d",
-      "publishedAt": "2026-10-18T23:06:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-GEtYmFyb24tY29oZW4",
       "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
       "description": "Staines’s finest nailed the zeitgeist of the late 90s and early 00s, and now he’s back – but how does he fit into 2026? He discusses the backlash against his return, his worst ever interviewee and how he’s going to prevent world war two “Can you tell people that you’re&nbsp;from Hustler?” Ali G asks me. “Or The Source. Or Guns & Ammo. Speaking to a Guardian journalist ain’t a good look for me in the hood.” At Ali’s request, we are meeting in an independent chicken shop in Staines because – due to some sort of mix-up – he thought the one interview he had agreed to for his new film was Chicken Shop Date , which was “90% likely to lead to boning”. He follows this with an entirely unprintable reminiscence about the first time he and “me Julie” had sex in the disabled toilets of Egham KFC. Continue reading...",
@@ -385,18 +385,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Street Fighter movie is 'made by fans for fans' - but can it KO the critics?",
-      "description": "Cast members Noah Centineo, Andrew Koji and Callina Liang discuss the latest video game adaptation.",
-      "url": "https://www.bbc.co.uk/news/articles/cj040z4ngnz1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5371/live/c6e78510-c959-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-16T12:06:04.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
