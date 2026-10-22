@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:49:52.017Z",
+  "generatedAt": "2026-10-22T12:45:24.406Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -16,11 +16,23 @@
   },
   "articles": [
     {
+      "id": "guardian-WV2YW5zLXZpbGxhaW4",
+      "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
+      "description": "Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes It’s likely that most audiences going into the surprise documentary smash You Can See Everything are familiar with either its nominal subject (and literal poster gal with an intense stare) Elizabeth Holmes, the tech founder serving a prison sentence for defrauding investors; or the film’s on-camera co-director Nathan Fielder. Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout. Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal. A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers. This should leave Billy Evans as the odd man out. Evans, Elizabeth Holmes’s partner (she has said they’re not legally married, though they did get engaged in 2018, have two children and seem to treat each other as spouses), is a not-particularly-famous guy whose screen time competes with the other three well-known faces in what is essentially a four-character drama. But while Evans isn’t boxed out in terms of screen time or memorability, he does remain the odd man out in the sense that in all the discussion You Can See Everything has prompted about manipulation, shifting sympathies and who can or cannot be trusted, everyone seems to agree on one crucial point: Billy Evans sucks. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
+      "image": "https://i.guim.co.uk/img/media/3f7cab546b8494a4addcf4ce96329a678b75a558/0_0_2411_1929/master/2411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e4a7eca201d1db8e95525b844520a653",
+      "publishedAt": "2026-10-22T09:00:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Dame Judi Dench: 'I can't do a play, a film or read any more'",
-      "description": "Dame Judi Dench tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
+      "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
+      "description": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
       "url": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ef9c/live/78b8e810-cdd8-11f1-a64c-550be9e3c66b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bf0d/live/be73bd80-ce14-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-22T06:41:29.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -280,18 +292,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-QtaG91c2UtY29tZWR5",
-      "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
-      "description": "Picking up not long after the events of the final episode of the BBC’s haunted house comedy, this glorious new film is every bit as warm and comforting as the TV sitcom What on earth is happening at Button House? Kitty has tasered a police officer. Fanny is pulling down her capacious Victorian drawers to show off her bottom. Robin the caveman has fallen in love with a crusty eco activist (to be fair she looks quite a bit like him). If you’ve never watched the BBC’s haunted house comedy Ghosts – one of the finest family television shows in recent memory – none of the above will make the slightest bit of sense. Neither perhaps will this glorious new film, which picks up with the ghosts not long after the events of the final episode in 2023 . Often when British sitcoms get a spin-off what happens is the gag-to-runtime ratio dips. But breaking out of the 30-minute episode structure seems to have freed up the writers to unleash new levels of giddiness with added spoonfuls of silliness. The jokes keep coming, and it’s every bit as warm and comforting as on TV. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
-      "image": "https://i.guim.co.uk/img/media/efbe53529f59b170b7c8d5e888ea4bfa207bae00/523_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=22fee992450fac24f049b52acdf7bd17",
-      "publishedAt": "2026-10-21T06:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-2UtYWxsZWdhdGlvbnM",
       "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
       "description": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention the sexual abuse allegations against the singer. In part, this was due to a legal clause, only spotted late in production, which stipulated that one of the men who accused Jackson of abusing them as a boy could never be depicted in a fictionalised account of the period. Continue reading...",
@@ -457,30 +457,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Robert Pattinson on new film Primetime and how hunting predators became hit TV",
-      "description": "The actor portrays the real-life host of American TV show, To Catch a Predator, in his latest film.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5d92423vyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8ac4/live/e680e510-c5b7-11f1-ad08-b9eb6b599088.jpg",
-      "publishedAt": "2026-10-11T23:39:12.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "description": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/28da/live/88bf0310-c56e-11f1-bd33-db1f7eaf2b30.jpg",
-      "publishedAt": "2026-10-10T23:31:35.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
