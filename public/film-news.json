@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T01:04:38.274Z",
+  "generatedAt": "2026-10-23T06:49:26.031Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-lsbS1mYXRoZXJsYW5k",
+      "title": "‘I struggle to see myself as someone special’: Sandra Hüller on being the star of four - or, possibly, five - of the year’s biggest films",
+      "description": "New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie Sandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, she is most often asked to embody deep self-possession. Even doing karaoke, Hüller is in control. And in real life, life is good. Her 2026 will end with four high-profile movies this year alone. Two (Fatherland and Rose) are black-and-white arthouse films that centre on her brilliance, and though one of the others (Digger) is already a Hollywood cautionary tale, a second (Project Hail Mary) was a giant $684m hit. (There may also be a fifth movie, bigger still. We will come back to that.) And yet, dressed in film star black, she is in tears. “This is really hard for me,” she says. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
+      "image": "https://i.guim.co.uk/img/media/c49fdf9e9c20738cda1003cd5d9c575e0e7d75da/501_86_1495_1196/master/1495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d552031c77e58b4e6f7b2d6fc9ffa55",
+      "publishedAt": "2026-10-23T04:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "US actor Tom Skerritt, star of Top Gun, Steel Magnolias and Alien, dies aged 93",
+      "description": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ebad/live/e0656410-ce51-11f1-a7e5-1bf3b637cfc1.jpg",
+      "publishedAt": "2026-10-22T21:10:36.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-XR0LWFjdG9yLWRlYWQ",
       "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
@@ -232,18 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-WV2YW5zLXZpbGxhaW4",
-      "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
-      "description": "Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes It’s likely that most audiences going into the surprise documentary smash You Can See Everything are familiar with either its nominal subject (and literal poster gal with an intense stare) Elizabeth Holmes, the tech founder serving a prison sentence for defrauding investors; or the film’s on-camera co-director Nathan Fielder. Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout. Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal. A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers. This should leave Billy Evans as the odd man out. Evans, Elizabeth Holmes’s partner (she has said they’re not legally married, though they did get engaged in 2018, have two children and seem to treat each other as spouses), is a not-particularly-famous guy whose screen time competes with the other three well-known faces in what is essentially a four-character drama. But while Evans isn’t boxed out in terms of screen time or memorability, he does remain the odd man out in the sense that in all the discussion You Can See Everything has prompted about manipulation, shifting sympathies and who can or cannot be trusted, everyone seems to agree on one crucial point: Billy Evans sucks. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
-      "image": "https://i.guim.co.uk/img/media/3f7cab546b8494a4addcf4ce96329a678b75a558/0_0_2411_1929/master/2411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e4a7eca201d1db8e95525b844520a653",
-      "publishedAt": "2026-10-22T09:00:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
       "description": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
@@ -280,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-      "description": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg",
-      "publishedAt": "2026-10-21T13:47:51.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-2VlLWV2ZXJ5dGhpbmc",
       "title": "UK cinemas report ‘bonkers’ demand for documentary You Can See Everything",
       "description": "Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the disgraced Theranos founder Elizabeth Holmes. Now, a month before Nathan Fielder’s documentary You Can See Everything reaches UK cinemas, tickets for screenings are already selling out after its remarkable $15m (£11.3m) opening weekend in the US. Continue reading...",
@@ -301,18 +301,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
-      "description": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/96a5/live/85bef820-cd32-11f1-935f-b9c228680c6f.jpg",
-      "publishedAt": "2026-10-21T09:35:31.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
