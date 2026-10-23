@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T06:49:26.031Z",
+  "generatedAt": "2026-10-23T12:43:01.242Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -16,12 +16,96 @@
   },
   "articles": [
     {
+      "id": "guardian-3Rvci1pbnRlcnZpZXc",
+      "title": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
+      "description": "The auteur’s new film – a study of labour, capital and the fallout of redundancy – won the grand jury prize at Venice. Telling tales of the disenfranchised is ‘our moral responsibility’, he says A quintessential 21st-century horror story: a&nbsp;private equity firm has set its sights on your company. That’s the premise behind director Lee Chang-dong’s new film, Possible Love, and the idea for it first came more than a decade ago, when mass layoffs resulted in a standoff that “fundamentally changed the Korean labour movement”. In 2009, workers at Ssangyong Motors company protested against plans to lay off between 37 and 43% of&nbsp;the workforce, staging a historic 77-day strike and occupation of the factory that was eventually broken up by riot police. “Until that point in time in Korea, labourers’ rights were widely accepted,” Lee says, speaking through an interpreter in a central London hotel; “however, afterwards, the basic rights of labourers changed; to the public, they couldn’t be seen as more important than market profitability or&nbsp;corporate competitiveness.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview",
+      "image": "https://i.guim.co.uk/img/media/3cf973d2d86c0befe097325ad05138a88e4f6048/0_20_6189_4950/master/6189.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6812a795fc799c4c42125e978e5a86aa",
+      "publishedAt": "2026-10-23T12:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-dhcnMtbHVjYXNmaWxt",
+      "title": "Taika Waititi’s Star Wars film is the latest to hit the buffers. At some point Lucasfilm is going to have to actually make a movie",
+      "description": "Waititi joins a long list of movie-makers who were expected to bring a new direction to the franchise, before the studio appeared to get cold feet Movie-making these days is a very expensive endeavour. In 1977, George Lucas’s Star Wars cost $11m to make, which would be approximately $60m in today’s money, and has since amassed $775m at the global box office, including rereleases. Fast forward to 2026 and the most recent film in the long-running space saga, The Mandalorian and Grogu , cost a reported $165m and brought in $346m worldwide. If there was ever a Hollywood gold rush, the mines ran dry long ago. Perhaps this is one of the reasons why Disney-owned Lucasfilm seems to be so terrified of making new Star Wars movies. Since 2019’s The Rise of Skywalker, only one Star Wars film, the aforementioned Mando and Grogu movie, has actually made it into cinemas. But that has not stopped the studio announcing a small armada of other projects – sometimes via press release, more often at various high-profile celebrations, conferences or other corporate jamborees – that have so far failed to reach multiplexes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/taika-waititi-star-wars-lucasfilm",
+      "image": "https://i.guim.co.uk/img/media/329ed0b41488d6e4f501835a6f778d4b9769eacc/1161_0_5995_4800/master/5995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=21f52f694a8469b0cd4fc352c1cb534f",
+      "publishedAt": "2026-10-23T10:39:45.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-VzLW9mLXRoZS1zZWFz",
+      "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
+      "description": "When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups It was an otherwise typical day on 25 September 2021 when thousands of dead and dying crustaceans washed up on beaches in Yorkshire and the north-east of England. Early morning walkers and swimmers were aghast to find a sickening carpet of twitching, fitting crabs. It would be the first but not the last die-off, which would see the disappearance of vast swathes of integral native sea life along an extended stretch of coast, including seal pups. It would also see the decimation of the local fishing industry and, with that, a way of life. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "image": "https://i.guim.co.uk/img/media/be28a35af2ed73e59b658e3d66973ce3df6289a6/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77d62872e65ce4504b4c9b6131993140",
+      "publishedAt": "2026-10-23T10:03:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Final James Bond screen tests to take place this weekend, reports say",
+      "description": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
+      "url": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e35e/live/15f1bc90-cec1-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-23T09:41:44.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-2Nod2ltbWVyLW11Ymk",
+      "title": "Junk review – David Schwimmer is lost in Mubi’s frustrating LA-set misstep",
+      "description": "The Friends alum makes up half of a messy and pretentious comedy drama that boasts some visual panache but is dragged down by a confused tone You could be forgiven, upon watching the first scene of Junk, for believing that this debut feature will boldly, perhaps ill-advisedly, dare to satirize the industry it’s purporting to join. At a swanky restaurant in LA, four people aglow with self-importance embark on the time-honored ritual of discussing the screenplays they’re working on – specifically, the screenplay Martin (David Schwimmer), is “working on”. It’s classic industry navel-gazing, underscored by a tight focus on Martin’s clammy face as he sputters poorly through a confidence game. Schwimmer, of course, is still best known for playing a perpetually and comedically exasperated sitcom character; it’s hard to square that extremely familiar voice with Martin’s dark bluster on how “drug-addled gen Zers” have “no respect for the communal aspect of the cinema”, an off-putting rant that is also a tad intriguing – who is more pretentious here, the sweaty character or the picture starkly sending him up? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/junk-movie-review-david-schwimmer-mubi",
+      "image": "https://i.guim.co.uk/img/media/488139961f8241bab8c60398f95a2fa7b5ab9694/330_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=dedb9b3f67bebb826caed6438850e4ab",
+      "publishedAt": "2026-10-23T09:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-lsbS1mYXRoZXJsYW5k",
       "title": "‘I struggle to see myself as someone special’: Sandra Hüller on being the star of four - or, possibly, five - of the year’s biggest films",
       "description": "New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie Sandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, she is most often asked to embody deep self-possession. Even doing karaoke, Hüller is in control. And in real life, life is good. Her 2026 will end with four high-profile movies this year alone. Two (Fatherland and Rose) are black-and-white arthouse films that centre on her brilliance, and though one of the others (Digger) is already a Hollywood cautionary tale, a second (Project Hail Mary) was a giant $684m hit. (There may also be a fifth movie, bigger still. We will come back to that.) And yet, dressed in film star black, she is in tears. “This is really hard for me,” she says. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
-      "image": "https://i.guim.co.uk/img/media/c49fdf9e9c20738cda1003cd5d9c575e0e7d75da/501_86_1495_1196/master/1495.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d552031c77e58b4e6f7b2d6fc9ffa55",
+      "image": "https://i.guim.co.uk/img/media/4a661eb493e51ac644735b1fab3879d820d790af/0_61_2435_1947/master/2435.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7113fdf32a008a21db74ba4af03461c6",
       "publishedAt": "2026-10-23T04:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ViLWZpbG0tbnR3bmZi",
+      "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+      "description": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers. The Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566",
+      "publishedAt": "2026-10-22T23:31:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ci1qYWNrLWxvd2Rlbg",
+      "title": "James Bond finalists to screen-test for role this week – reports",
+      "description": "Actors in the mix to play 007 in Denis Villeneuve’s installment include Callum Turner and Jack Lowden The search for the next James Bond may finally be nearing its end: according to reports, a very select group of actors will screen-test to become the next British agent 007 this weekend. According to the Hollywood Reporter and Variety , citing several sources, a group of actors reportedly including Callum Turner and Slow Horses’ Jack Lowden, will appear in front of cameras as the secret agent this weekend in London. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+      "image": "https://i.guim.co.uk/img/media/f29a99d1942b4d9dd7a6675196347a4f1d6f4fdb/286_0_4432_3546/master/4432.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10a019ed533e0180fa7d0ca495d292f9",
+      "publishedAt": "2026-10-22T21:16:02.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -112,18 +196,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-Rla2FyLW9iaXR1YXJ5",
-      "title": "Nana Patekar obituary",
-      "description": "Indian actor known for his roles in Salaam Bombay! and the Bollywood hits Parinda and Krantiveer, who had a controversial personal life The Indian actor Nana Patekar, who has died of a heart attack aged 75, first broke through in Mira Nair’s Salaam Bombay! (1988), and the Bollywood hits Parinda (1989) and Krantiveer (1994). These early credits established Patekar as a performer of rare versatility: he and Irrfan Khan remain the only performers to have won Filmfare’s best actor, best supporting actor and best villain awards (considered India’s “oscars”). Yet the question of whether Patekar was better suited to heroism or villainy lingered unresolved: allegations of sexual harassment and intimidation first made by his former co-star Tanushree Dutta in 2008 kickstarted India’s #MeToo movement when she raised them again in 2018. Until that point, Patekar’s rougher edges had mostly been celebrated. As an actor, he demonstrated a baggy-eyed naturalism that spoke more to Bombay streetlife than Bollywood fantasy. He was given to writing out his dialogue until he had internalised it, and his growling line readings were both idiosyncratic and much imitated. Satyajit Ray counted among the actor’s most illustrious admirers, but apparently could not find a suitable project for him ; Patekar instead had Nair to thank for launching him to international prominence in Salaam Bombay! as Baba Golub, the brutal pimp and drug dealer lording over an army of street children. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/nana-patekar-obituary",
-      "image": "https://i.guim.co.uk/img/media/cbe82cdb6725c6ee61a24a053a1848cb3e9ba95a/291_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86c7a6ca38f3642978006a3368245f76",
-      "publishedAt": "2026-10-22T17:38:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-VkLTEyMzUyMjI5MzAv",
       "title": "Don’t Get the Wrong Idea About ‘The Dropout’",
       "description": "Watching Elizabeth Holmes watch \"The Dropout\" in \"You Can See Everything\" may leave viewers questioning the merits of Amanda Seyfried's Emmy-winning limited series. But its bona fides are stronger than ever — and the movie knows it.",
@@ -184,30 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YW5kLWEtcGVydmVydA",
-      "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
-      "description": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains substantial spoilers for Ali G: Who Iz I? • Review: Ali G: Who Iz I? The chair of the El Paso County Republican Party has said he intends to sue Sacha Baron Cohen over footage of the local politician used in new satirical comedy Ali G: Who Iz I? In the film, Michael Aboud is shown taking part in a training programme with another Cohen character, ex-Mossad terrorist expert Col Erran Morad, who instructs Aboud and fellow Maga sympathisers in self-defence techniques including the wearing, over clothes, of protective plastic buttocks. He also schools them in how to fire bullets from the middle of these buttocks by the repeated up and down manipulation of a rubber penis. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
-      "image": "https://i.guim.co.uk/img/media/c3f25bf80aa5601a22f016cfb9c0e93c07b27b68/337_0_4361_3488/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=520601a50f0c44d2caec11016fc6ecdf",
-      "publishedAt": "2026-10-22T15:10:18.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bGFyLWJhZC10YXN0ZQ",
-      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
-      "description": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation • Exclusive: Republican leader embarrassed by film says he plays to sue Sacha Baron Cohen: ‘A liar and a pervert’ If you liked Sacha Baron Cohen’s Ali G the first time around, you’ll like this less; if you disliked it, you’ll dislike this more; if you suspected it was racist, you’ll be more emboldened to say so – especially as Baron Cohen has dreamed up a whole new character apparently to pre-empt and mock precisely that objection. Broad and crass as it often is – in fact always is – this Ali G sequel is sometimes funny: the athletic vigour of our hero’s pranking and punking is like the umpteenth Jackass film at which you might find yourself laughing, and Baron Cohen blunders with the semi-intentional force of an XL bully into the issue of whether jokes are still allowed. Unlike the first film, Ali G in Da House from 2002, this is not a full written-through narrative. It is basically another live-ammo series of hoaxes with some spectacular bad taste perpetrated upon the deserving and less deserving; it satirises the shamelessness of anti-woke free speech martyrs, punching up and down with grossout cringe, and the targets include some big names who shouldn’t be revealed here. There are two other subordinate characters: Erran Morad, a sinister Mossad/IDF officer turned US security consultant (who appeared in Baron Cohen’s Who Is America? TV series ), and a new figure: Dr Nira Cain-N’Degrocello, a grotesquely supercilious white liberal who is the self-appointed scourge of cultural appropriation. The dupes are built into a big silly climax fabricated with body doubles and (presumably) covert reshooting. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
-      "image": "https://i.guim.co.uk/img/media/f68e33d5b692f17a2fdc4dec248180853a9faee4/633_0_3421_2740/master/3421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=c090f360b4b537fa0e1d144142b0136c",
-      "publishedAt": "2026-10-22T15:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-GwtMTIzNTIyMjk0OS8",
       "title": "‘Nobody Wants This’ Season 3 Review: Netflix’s Fizzy Rom-Com Puts the Pop (and Pain) Back Into Modern Love",
       "description": "Long-billed as the series' \"champagne\" season, the Adam Brody- and Kristen Bell-starring comedy goes down easy. Well, mostly.",
@@ -254,6 +302,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-WV2YW5zLXZpbGxhaW4",
+      "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
+      "description": "Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes It’s likely that most audiences going into the surprise documentary smash You Can See Everything are familiar with either its nominal subject (and literal poster gal with an intense stare) Elizabeth Holmes, the tech founder serving a prison sentence for defrauding investors; or the film’s on-camera co-director Nathan Fielder. Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout. Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal. A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers. This should leave Billy Evans as the odd man out. Evans, Elizabeth Holmes’s partner (she has said they’re not legally married, though they did get engaged in 2018, have two children and seem to treat each other as spouses), is a not-particularly-famous guy whose screen time competes with the other three well-known faces in what is essentially a four-character drama. But while Evans isn’t boxed out in terms of screen time or memorability, he does remain the odd man out in the sense that in all the discussion You Can See Everything has prompted about manipulation, shifting sympathies and who can or cannot be trusted, everyone seems to agree on one crucial point: Billy Evans sucks. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
+      "image": "https://i.guim.co.uk/img/media/3f7cab546b8494a4addcf4ce96329a678b75a558/0_0_2411_1929/master/2411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e4a7eca201d1db8e95525b844520a653",
+      "publishedAt": "2026-10-22T09:00:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -316,18 +376,6 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-2UtYWxsZWdhdGlvbnM",
-      "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
-      "description": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention the sexual abuse allegations against the singer. In part, this was due to a legal clause, only spotted late in production, which stipulated that one of the men who accused Jackson of abusing them as a boy could never be depicted in a fictionalised account of the period. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations",
-      "image": "https://i.guim.co.uk/img/media/e17e36e0dea0d22d6aa3c4b6ffbb6de6f6b6f0d6/399_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba9c6269235f5239b6e8ad508f771dae",
-      "publishedAt": "2026-10-20T15:15:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ItY2xpbWF0ZS1maWxt",
       "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
       "description": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect climate change film for our era. Digger Rockwell, the eponymous protagonist played by Tom Cruise, is a bluntly caricatured Texas oilman blase about the environmental ruin of his drilling, even as it triggers a disastrous splitting of the Arctic ice sheet. This causes a vast iceberg, five times the size of Washington DC, to barrel towards Europe and threaten a devastating tsunami. Continue reading...",
@@ -352,18 +400,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-291bnRlcmN1bHR1cmU",
-      "title": "‘We tried to levitate the Pentagon’: the almost unbelievable life of Ed Sanders, trickster god of the US counterculture",
-      "description": "He gave Jimi Hendrix his gear, freaked out Frank Sinatra, inspired Norman Mailer – and tried to topple the American war machine. As a documentary about his band the Fugs comes out, the 87-year-old gives a rare interview “Charles Manson once wrote me a letter saying, ‘If I was as powerful as you claim then you wouldn’t be here,’” Ed Sanders tells me over a video call, savouring the menace in that sentence. Sanders is an American maverick; a musician, poet, activist, journalist and author whose greatest hit remains his bestselling 1971 book The Family, in which he chronicled the lives, crimes and trials of Manson and his followers. Sanders was well placed to report on crazed hippies, having played a pivotal role in launching the US counterculture – though he very much espoused peace, love and consciousness-raising, rather than Manson’s apocalyptic worldview. Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/oct/19/ed-sanders-interview-the-fugs-film-counterculture",
-      "image": "https://i.guim.co.uk/img/media/02f5784fc22d34e61da7d7859d6981f0db985c44/765_111_1235_988/master/1235.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e44b6569632215fe1f13ff8a622b3c46",
-      "publishedAt": "2026-10-19T12:00:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-hpbmctYWZ0ZXItYWxs",
       "title": "A Zack Snyder DC Universe might not have been such a bad thing, after all",
       "description": "After Joss Whedon’s arrival, back in the news with comments from Ben Affleck, the franchise lost a sense of earnest passion that could have sustained a weary DCEU Nine years after superhero epic Justice League arrived in cinemas, there ought to be very little left to say about how it all went wrong. Zack Snyder shot the film, Joss Whedon substantially rewrote and reshot it, and audiences eventually got to see both men’s versions. Any debate over their relative merits long ago disappeared. Whedon is pretty much cancelled; Snyder has reinvented himself as the writer-director of extremely average ersatz Star Wars movies for Netflix, and an entirely new DC universe is under way that has very little to do with either of them. To a greater or lesser extent, the world has moved on. But Ben Affleck’s latest comments raise an uncomfortable question about whether Snyder’s departure was ever presented honestly. Speaking to Josh Horowitz on the Happy Sad Confused podcast , Affleck, who played Batman, described the Justice League reshoots as the lowest point of his career, but reserved his strongest criticism for the circumstances of Snyder’s departure. The director stepped away in May 2017 , two months after his daughter Autumn killed herself, aged 20, with the public explanation that he needed to be with his family. Affleck, however, alleged that studio Warner Bros had used the tragedy to justify replacing him. “The way in which that was, I thought, used as an excuse was one of the shittiest things I’ve ever seen,” Affleck said. “It was so gross.” Continue reading...",
@@ -374,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-GEtYmFyb24tY29oZW4",
-      "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
-      "description": "Staines’s finest nailed the zeitgeist of the late 90s and early 00s, and now he’s back – but how does he fit into 2026? He discusses the backlash against his return, his worst ever interviewee and how he’s going to prevent world war two “Can you tell people that you’re&nbsp;from Hustler?” Ali G asks me. “Or The Source. Or Guns & Ammo. Speaking to a Guardian journalist ain’t a good look for me in the hood.” At Ali’s request, we are meeting in an independent chicken shop in Staines because – due to some sort of mix-up – he thought the one interview he had agreed to for his new film was Chicken Shop Date , which was “90% likely to lead to boning”. He follows this with an entirely unprintable reminiscence about the first time he and “me Julie” had sex in the disabled toilets of Egham KFC. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/oct/18/ali-g-film-who-iz-i-interview-sacha-baron-cohen",
-      "image": "https://i.guim.co.uk/img/media/25aed892b82e08b2e0eed3714f8d98e4724206f5/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7dc797b4f5be2b13b0abf640fb7cc525",
-      "publishedAt": "2026-10-18T09:00:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-ItbW92aWUtcmV2aWV3",
@@ -422,18 +446,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-ctYWFyb24tc29ya2lu",
-      "title": "The Social Reckoning isn’t as angry or as potent as a Facebook drama should be",
-      "description": "Aaron Sorkin’s attempt to return to the success of The Social Network is a strangely dated and incomplete look at a world that needs a sharper eye In retrospect, David Fincher’s 2010 film The Social Network was a landmark for a quiet, even counterintuitive reason. Before the film was released, some questioned whether Aaron Sorkin, a writer not exactly known for his mastery of, nevermind obsession with, the technical sphere, was the right man to tell the origin story of Facebook. And while Sorkin may well have converted Mark Zuckerberg into terms he could better understand – namely, a motormouthed wiseass who deep down wants to impress a smart, serious-minded girl – he and Fincher also made one of the first internet-centric movies to treat online life as a natural extension of IRL dynamics, rather than the otherworldly tech portal seen in so many 90s internet movies. Granted, that’s the whole deal with Facebook: its viral spread of social networking, something so simple and addictive that aunts, grandpas and co-workers everywhere could understand it. Yet understanding its simultaneous extension and distortion of the real world wasn’t a given; four years later, for example, 2014’s Men, Women and Children was widely derided for taking an alarmist approach to the internet as a haven for adults seeking an affair, teenagers nursing porn addictions and fame-hungry strivers of all ages. The Social Network, on the other hand, is remarkably nonjudgmental about the basic mechanics of Facebook, rooting its nascent flaws in the human weaknesses that birthed it. In retrospect, the movie only feels outdated to the extent that it underestimates Zuckerberg’s grasping for power and the potential for grim carelessness that his online kingdom was built on. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/13/the-social-reckoning-aaron-sorkin",
-      "image": "https://i.guim.co.uk/img/media/b14a9b14430495500b14eea4327e8f10c0d0632e/582_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a6f2b77984356e92aa25fb5e9f80e39b",
-      "publishedAt": "2026-10-13T09:00:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-ktbW92aWUtcmV2aWV3",
