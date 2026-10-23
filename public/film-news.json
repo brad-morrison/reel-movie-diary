@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T12:43:01.242Z",
+  "generatedAt": "2026-10-23T18:39:28.353Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMjI1MjYv",
+      "title": "Watch Bill Hader Explain the Many Influences That Led to His First Film, ‘They Know’",
+      "description": "The \"Barry\" creator revealed details about his upcoming horror film at IndieWire's Future of Filmmaking 2026 Summit presented by AT&#38;T in Los Angeles on Saturday.",
+      "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
+      "publishedAt": "2026-10-23T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-93LTEyMzUyMjM0NjQv",
+      "title": "‘Yaga’ Review: Hudson Williams’ Creepy Dual Roles Can’t Save a Witchy Mystery That’s Not Creepy Enough",
+      "description": "A reimagining of the Baba Yaga myth (and her own play), Kat Sandler's AMC+ series follows a beat cop and a private investigator as they search a misty, mysterious coastal town for a powerful family's missing heir.",
+      "url": "https://www.indiewire.com/criticism/shows/yaga-review-hudson-williams-amc-show-1235223464/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Yaga-Hudson-Williams-series-on-AMC.jpg?w=650",
+      "publishedAt": "2026-10-23T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WEtMTIzNTIyMzU0NS8",
+      "title": "Will ‘Wicker’ Be Black Bear’s First Big Breakout?",
+      "description": "It's a year since CEO Teddy Schwarzman embraced North American distribution with “Christy.” What has he learned?",
+      "url": "https://www.indiewire.com/news/box-office/wicker-black-bear-breakout-box-office-erotic-drama-1235223545/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/hhcrg21ioWicker-Still_1.jpg?w=650",
+      "publishedAt": "2026-10-23T17:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MTk0NDgyLw",
+      "title": "Pawel Pawlikowski’s Historical Stunner ‘Fatherland’ Is About Far More Than Thomas Mann — It’s About Today’s Own Fissures",
+      "description": "The Polish filmmaker, working in German with exquisite actors Sandra Hüller and August Diehl, tells IndieWire about finding resonant conflicts in his moving post-war Cannes hit that completes his black-and-white period trilogy.",
+      "url": "https://www.indiewire.com/features/interviews/pawel-pawlikowski-fatherland-interview-cannes-1235194482/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/IMG_2843.jpeg?w=650",
+      "publishedAt": "2026-10-23T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JvLTEyMzUxNzYxNTcv",
+      "title": "‘The Only Living Pickpocket in New York’ Review: An Old School Thief Holds on in the Age of Apple Pay",
+      "description": "Produced under Rian Johnson’s T-Street banner, writer/director Noah Segan's New York picture breathes new life into the subgenre.",
+      "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-28-at-12.06.28-PM.png?w=650",
+      "publishedAt": "2026-10-23T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyMzU0My8",
+      "title": "Daniel Pemberton on Scoring ‘Without a Map,’ from ‘Project Hail Mary’ to David Byrne and Elon Musk",
+      "description": "Daniel Pemberton joins IndieWire's \"Screen Talk\" to chat scores in four movies, including \"Ink\" and \"The Drama.\"",
+      "url": "https://www.indiewire.com/features/podcast/composer-daniel-pemberton-project-hail-mary-musk-interview-1235223543/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P1027YUH.jpg?w=650",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JkLTEyMzUxNzUwMzkv",
+      "title": "‘Wicker’ Review: Olivia Colman Rides Alexander Skarsgård’s Wood in Bawdy Sex Fantasy About Hysterically Horny Villagers",
+      "description": "Eleanor Wilson and Alex Huston Fischer's second feature is a kooky sex-crazed folk tale in search of a greater purpose beyond its premise, but Colman and Skarsgård prove irresistibly weird and wonderful.",
+      "url": "https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/hhcrg21ioWicker-Still_1.jpg?w=650",
+      "publishedAt": "2026-10-23T15:30:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIzMzA5Lw",
+      "title": "‘The Only Living Pickpocket in New York’ Added a Secret Extra Shoot Day to Break Some Location Rules",
+      "description": "Writer-director Noah Segan and producers Leopold Hughes and Katie McNeill talk about leaning into the city's energy to create a great New York movie in the tradition of Scorsese and Spike Lee.",
+      "url": "https://www.indiewire.com/features/interviews/only-living-pickpocket-in-new-york-producers-locations-1235223309/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/The_Only_Living_Pickpocket_in_New_York-Still_1.jpg?w=650",
+      "publishedAt": "2026-10-23T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mluYWwtYXVkaXRpb24",
+      "title": "I expect you to cry: what the James Bond actors may face at the final audition",
+      "description": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph? This weekend, the identity of the next James Bond is finally expected to be known – to the insiders, at least. According to reports, a number of youngish British actors – definitely three, possibly five – will have their final screen tests. To say it has been a long time coming is an understatement. It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans. Whoever is declared to be 007 will be joining the franchise after what is likely to be the longest fallow period in the franchise’s 64-year history. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
+      "image": "https://i.guim.co.uk/img/media/6afdddbdf1497e7b3c968daff33d3ed06120f174/0_55_4000_3197/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9822dbbe5717b604bf4a9a8de36648fb",
+      "publishedAt": "2026-10-23T12:38:44.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-3Rvci1pbnRlcnZpZXc",
       "title": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
@@ -82,18 +190,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/23/sandra-huller-new-film-fatherland",
       "image": "https://i.guim.co.uk/img/media/4a661eb493e51ac644735b1fab3879d820d790af/0_61_2435_1947/master/2435.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7113fdf32a008a21db74ba4af03461c6",
       "publishedAt": "2026-10-23T04:00:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ViLWZpbG0tbnR3bmZi",
-      "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-      "description": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers. The Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566",
-      "publishedAt": "2026-10-22T23:31:22.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -184,90 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VsLTEyMzUyMjMyMjUv",
-      "title": "Artists Equity’s Amy Baer on Building a Sustainable Indie Model with Movies That Don’t Star Matt Damon or Ben Affleck",
-      "description": "The production label's president of film and TV discusses the newly-launched Artists Equity Independent Pictures and how to apply their unique model to smaller films.",
-      "url": "https://www.indiewire.com/news/business/artists-equity-amy-baer-sustainable-indie-model-1235223225/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2256157076.jpg?w=650",
-      "publishedAt": "2026-10-22T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-VkLTEyMzUyMjI5MzAv",
-      "title": "Don’t Get the Wrong Idea About ‘The Dropout’",
-      "description": "Watching Elizabeth Holmes watch \"The Dropout\" in \"You Can See Everything\" may leave viewers questioning the merits of Amanda Seyfried's Emmy-winning limited series. But its bona fides are stronger than ever — and the movie knows it.",
-      "url": "https://www.indiewire.com/features/commentary/the-dropout-wrong-you-can-see-everything-amanda-seyfried-1235222930/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Amanda-Seyfried-as-Elizabeth-Holmes-in-The-Dropout-on-Hulu.jpg?w=650",
-      "publishedAt": "2026-10-22T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XQtMTIzNTIyMzM1My8",
-      "title": "‘The Debut’ Is the Go-to Festival Crowdpleaser as Jesse Eisenberg’s Musical Comedy Launches at Virginia",
-      "description": "The Juliane Moore-starrer also just won Middleburg's Audience Award, but two hours away from the Virginia Film Festival in Charlottesville.",
-      "url": "https://www.indiewire.com/awards/industry/virginia-film-festival-opens-the-debut-1235223353/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/VAFF-2026-WED-JL-0107.jpg?w=650",
-      "publishedAt": "2026-10-22T16:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjE1MzAwLw",
-      "title": "Sandra Hüller’s Star Keeps Rising, but She’s Still Adjusting to Life in the Public Eye",
-      "description": "The Telluride Tributee breaks down a massive year that includes \"Fatherland,\" \"Rose,\" \"Project Hail Mary,\" and \"Digger.\"",
-      "url": "https://www.indiewire.com/features/interviews/sandra-huller-interview-fatherland-rose-project-hail-mary-1235215300/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_3108.jpeg?w=650",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mktMTIzNTIyMzMzMy8",
-      "title": "Mayor Zohran Mamdani and Neon to Present Free ‘Once Upon a Time in Harlem’ New York City Screenings",
-      "description": "The Oscar-contending documentary that captures a 1972 meeting of Harlem Renaissance luminaries will screen at three NYC venues, October 24 - 25.",
-      "url": "https://www.indiewire.com/news/general-news/once-upon-a-time-in-harlem-free-nyc-screenings-mamdani-1235223333/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-26-at-10.10.35-AM.png?w=650",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3ktMTIzNTIyMTYxOC8",
-      "title": "‘Blue Film’: How the Controversial Camboy Drama Was Produced for Just $100,000",
-      "description": "The story of a sex worker and his john was too hot for major film festivals, but thanks to its microbudget, it's a box-office success.",
-      "url": "https://www.indiewire.com/news/business/blue-film-camboy-pedophile-drama-produced-100k-controversy-1235221618/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/BLUE_Still_3-1.jpg?w=650",
-      "publishedAt": "2026-10-22T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-GwtMTIzNTIyMjk0OS8",
-      "title": "‘Nobody Wants This’ Season 3 Review: Netflix’s Fizzy Rom-Com Puts the Pop (and Pain) Back Into Modern Love",
-      "description": "Long-billed as the series' \"champagne\" season, the Adam Brody- and Kristen Bell-starring comedy goes down easy. Well, mostly.",
-      "url": "https://www.indiewire.com/criticism/shows/nobody-wants-this-season-3-review-netflix-rom-com-kristen-bell-1235222949/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Nobody_Wants_This_n_S3_E1_00_04_05_08RC2.jpg?w=650",
-      "publishedAt": "2026-10-22T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-FkZXItaW50ZXJ2aWV3",
       "title": "Zach Braff: ‘You can be talented and good-looking, but acting success is still like winning the lottery’",
       "description": "The Scrubs and Garden State star answers your questions about working with megastars, getting his hair to look good and being brutally killed on BoJack Horseman How do you manage not to act starstruck when directing people like Morgan Freeman, Michael Caine and Harrison Ford? TopTramp That’s where my acting comes in – I pretend that I don’t know how famous they are. Every actor really wants a leader. They want someone who knows the script really well, has a plan for how the scene is going to be executed, and – in the case of comedy – knows how to make it funny. The last thing any of those guys wants is someone coming in starstruck and wide-eyed. So I use my acting skills to pretend I’m not starstruck and treat them like normal people. Your Fake Doctors, Real Friends podcast was a real help through lockdown. You were very emotionally open and personal; it was like catching up with friends. I still think about your line that making it in acting, even if you’re talented and good-looking, is like winning the lottery. Do you think that early 00s Zach Braff would make it in the present day the way you did? KamesJ Back then, the broadcast networks were making so many pilots, at least it was work for people. Now, I think it’s a much harder landscape to break through. I firmly believe that you can be talented and good-looking, but success is still like winning the lottery. I know plenty of brilliant actors whose lottery ticket hasn’t come up yet. I started auditioning at 14 and barely got anything for years, so I’ve always felt very lucky. Continue reading...",
@@ -278,18 +290,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-NoLTEyMzUyMTMyNzkv",
-      "title": "‘A Talent for Murder’ Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith",
-      "description": "Anton Corbijn directs the pair in a two-hander with real bite, as adapted by Joanna Murray-Smith from her devilish play \"Switzerland.\"",
-      "url": "https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg?w=650",
-      "publishedAt": "2026-10-22T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-S1zaGFkb3dzLWZpbG0",
