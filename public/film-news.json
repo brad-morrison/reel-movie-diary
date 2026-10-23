@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:37:58.162Z",
+  "generatedAt": "2026-10-23T01:04:38.274Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-XR0LWFjdG9yLWRlYWQ",
+      "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
+      "description": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93. His publicist confirmed to Variety that he died from natural causes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+      "image": "https://i.guim.co.uk/img/media/476d2c07cc0cb11581f1b009b5bb0b312843ea5b/442_0_2790_2232/master/2790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78102e3fa502f78598876083437642d8",
+      "publishedAt": "2026-10-22T20:19:49.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-2gtMTIzNTIyMzQ5OC8",
+      "title": "Tom Skerritt, ‘Alien’ and ‘M*A*S*H’ Star, Dies at 93",
+      "description": "The late screen actor's credits also include \"Top Gun,\" \"Contact,\" \"A River Runs Through It,\" and \"Steel Magnolias.\"",
+      "url": "https://www.indiewire.com/news/obituary/tom-skerritt-dead-alien-mash-1235223498/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-915862442.jpg?w=650",
+      "publishedAt": "2026-10-22T19:32:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMjM0Njcv",
+      "title": "Cinema Eye Honors Unveil Nominees for 2027’s Best Documentary Films and Series",
+      "description": "In the first wave of announcements for its 20th annual ceremony, Cinema Eye Honors revealed the films on the Audience Choice Prize Longlist, its Unforgettables Honorees, its Broadcast nominees, and its Shorts List.",
+      "url": "https://www.indiewire.com/awards/results/2027-cinema-eye-honors-documentary-nominees-1235223467/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/04/GMTB-Cleared-Still-Andrea-Gomez.jpg?w=650",
+      "publishedAt": "2026-10-22T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-V3LTEyMzUyMjM0MDQv",
       "title": "‘Moonlight’ Turns 10: Tarell Alvin McCraney on the Film’s Lasting Legacy and That Best Picture Mix-Up",
@@ -50,6 +86,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "guardian-Rla2FyLW9iaXR1YXJ5",
+      "title": "Nana Patekar obituary",
+      "description": "Indian actor known for his roles in Salaam Bombay! and the Bollywood hits Parinda and Krantiveer, who had a controversial personal life The Indian actor Nana Patekar, who has died of a heart attack aged 75, first broke through in Mira Nair’s Salaam Bombay! (1988), and the Bollywood hits Parinda (1989) and Krantiveer (1994). These early credits established Patekar as a performer of rare versatility: he and Irrfan Khan remain the only performers to have won Filmfare’s best actor, best supporting actor and best villain awards (considered India’s “oscars”). Yet the question of whether Patekar was better suited to heroism or villainy lingered unresolved: allegations of sexual harassment and intimidation first made by his former co-star Tanushree Dutta in 2008 kickstarted India’s #MeToo movement when she raised them again in 2018. Until that point, Patekar’s rougher edges had mostly been celebrated. As an actor, he demonstrated a baggy-eyed naturalism that spoke more to Bombay streetlife than Bollywood fantasy. He was given to writing out his dialogue until he had internalised it, and his growling line readings were both idiosyncratic and much imitated. Satyajit Ray counted among the actor’s most illustrious admirers, but apparently could not find a suitable project for him ; Patekar instead had Nair to thank for launching him to international prominence in Salaam Bombay! as Baba Golub, the brutal pimp and drug dealer lording over an army of street children. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/nana-patekar-obituary",
+      "image": "https://i.guim.co.uk/img/media/cbe82cdb6725c6ee61a24a053a1848cb3e9ba95a/291_0_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86c7a6ca38f3642978006a3368245f76",
+      "publishedAt": "2026-10-22T17:38:27.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-VkLTEyMzUyMjI5MzAv",
@@ -184,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-lwLTEyMzUyMjI4NTMv",
-      "title": "Is Fan Fiction Really the Next Frontier in IP?",
-      "description": "Fan fiction is so hot right now. At least, that’s what everyone says.",
-      "url": "https://www.indiewire.com/features/commentary/fan-fiction-next-frontier-hollywood-ip-1235222853/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/LVHY_2026_UT_250818_BOSPHI_07356RC2_1_3000-H-2026.webp?w=650",
-      "publishedAt": "2026-10-22T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-WV2YW5zLXZpbGxhaW4",
       "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
       "description": "Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes It’s likely that most audiences going into the surprise documentary smash You Can See Everything are familiar with either its nominal subject (and literal poster gal with an intense stare) Elizabeth Holmes, the tech founder serving a prison sentence for defrauding investors; or the film’s on-camera co-director Nathan Fielder. Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout. Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal. A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers. This should leave Billy Evans as the odd man out. Evans, Elizabeth Holmes’s partner (she has said they’re not legally married, though they did get engaged in 2018, have two children and seem to treat each other as spouses), is a not-particularly-famous guy whose screen time competes with the other three well-known faces in what is essentially a four-character drama. But while Evans isn’t boxed out in terms of screen time or memorability, he does remain the odd man out in the sense that in all the discussion You Can See Everything has prompted about manipulation, shifting sympathies and who can or cannot be trusted, everyone seems to agree on one crucial point: Billy Evans sucks. Continue reading...",
@@ -230,30 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjI2ODEv",
-      "title": "When VFX and Practical Sets Work Together, Sometimes You Invent New Cameras",
-      "description": "\"Whalefall\" production designer Ramsey Avery tells IndieWire about the collaboration that led the filmmaking team inside the belly of a whale.",
-      "url": "https://www.indiewire.com/features/craft/whalefall-production-designer-ramsey-avery-interview-1235222681/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWHAL_H3011_a6e821.jpg?w=650",
-      "publishedAt": "2026-10-21T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-V3LWJvZHktaG9ycm9y",
-      "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "description": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. There’s still interest there, of course (this summer’s Spider-Man is now the biggest film of all time in the US after all), but it’s no longer good enough to leave a high-speed conveyor belt unmanned, purpose and quality control be damned. 2019 saw a staggering 10 superhero films released in cinemas, and the inevitable exhaustion that followed, also fueled by Covid, led to a gradual winding down, monster hits turning into minor ones and sure bets often becoming expensive flops. As Peter Parker winged his way to box office records this summer, DC’s Supergirl bombed so hard that experts believe it might have cost Warners upwards of $200m in losses. It was just the latest disappointment for the brand after Black Adam, Joker: Folie à Deux, Blue Beetle and The Flash all underperformed while even last year’s much-heralded Superman reboot only grossed a solid $618m, a far cry from the $1bn heyday of the genre (things got so bad that even a fully filmed Batgirl adventure was deleted for the tax break ). Notably, the last DC film to swoop past that magic figure was Joker in 2019, a darker, lower-budget attempt to spotlight a villain rather than a hero, a big swing with relatively low stakes. Todd Phillips’s film might be best known by some for being brave enough to ask the question, “What if Taxi Driver sucked?” but for all of its many issues, it brought buzz and prestige and, shockingly, Oscars, to an easily ridiculed universe. It was also, crucially, something rare in that world: a close-to-good idea. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
-      "image": "https://i.guim.co.uk/img/media/5a7432637109b7fd063d4a9251350d06a9460b35/1052_0_2247_1800/master/2247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b23d940c63c20350142b6a746a273408",
-      "publishedAt": "2026-10-21T19:00:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZGVmZW5kcy1hbGktZw",
@@ -398,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-nV6emllc3QtZmlsbXM",
-      "title": "‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films",
-      "description": "Primetime and You Can See Everything are both clammy, audacious awards contenders that challenge our sense of reality. Ahead of the release of his drama starring Robert Pattinson as a TV vigilante, the 30-year-old director talks crime, punishment and South Park To direct one movie that is on everyone’s lips in awards season is remarkable. To make two begins to look like sorcery. That is the position in which the 30-year-old Florida-born film-maker Lance Oppenheim now finds himself. Next month brings the release of You Can See Everything, the three-hour documentary which he co-directed with faux-naif deadpan imp Nathan Fielder, in which they spend a month living with the disgraced health-tech mogul Elizabeth Holmes before she begins her 11-year prison sentence for fraud and conspiracy. The film, described by Oppenheim as “head-spinning” and so shrouded in secrecy that Variety magazine’s list of Oscar predictions identifies one of its cast members only as “[Redacted]”, is expected to become the first documentary nominated for best picture. When I meet Oppenheim in a London hotel, it is to discuss his other hot ticket, Primetime, for which Robert Pattinson is the one attracting Oscar buzz. The Batman actor gives a high-wire performance as Chris Hansen, the sensationalist US television vigilante renowned for ambushing paedophiles on To Catch a Predator, which was a disreputable and highly addictive segment of the current affairs show Dateline NBC between 2004 and 2007. Hansen later parlayed the idea, and his crusading shtick, into a succession of spin-offs. Some, including Hansen Vs Predators, had the same sleazy catnip quality. Others, such as a sting to collar bicycle thieves, did not. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/stranger-than-stranger-than-fiction-how-lance-oppenheim-made-the-years-two-buzziest-films",
-      "image": "https://i.guim.co.uk/img/media/7528553baf05edd3b792bcba2197a9fa77754cbd/301_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=247632a74390e480de9c7465a6d56982",
-      "publishedAt": "2026-10-15T14:55:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-LXJldmlldy1tb3ZpZQ",
