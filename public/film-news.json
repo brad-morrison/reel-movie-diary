@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:00:55.671Z",
+  "generatedAt": "2026-10-24T18:34:52.694Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XQtMTIzNTIyMzY2NS8",
+      "title": "Watch the ‘Buddy’ Team Explain How They Made the World Fall in Love with a Murderous Unicorn",
+      "description": "At IndieWire's Future of Filmmaking Summit, \"Buddy\" producer Tracy Rosenblum, co-writer Jamie King, and Roadside Attractions head of digital marketing Melissa Yerou unpacked the formula behind one of 2026's breakout hits.",
+      "url": "https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1332_e4d22d.jpg?w=650",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIzMTA5Lw",
+      "title": "Quentin Tarantino Surprises Fans with an Early Look at ‘The Further Mis-Adventures of Cliff Booth’",
+      "description": "Tarantino introduced the first 17 minutes of his upcoming collaboration with David Fincher after an AFI Fest screening of \"Once Upon a Time...in Hollywood.\"",
+      "url": "https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-l0LTEyMzUyMjM0OTQv",
       "title": "‘Color Book’ Director David Fortune Used Ice Cold Showers to Practice His AT&#038;T Untold Stories Award Pitch — Watch",
@@ -130,30 +154,6 @@
       "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-28-at-12.06.28-PM.png?w=650",
       "publishedAt": "2026-10-23T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyMzU0My8",
-      "title": "Daniel Pemberton on Scoring ‘Without a Map,’ from ‘Project Hail Mary’ to David Byrne and Elon Musk",
-      "description": "Daniel Pemberton joins IndieWire's \"Screen Talk\" to chat scores in four movies, including \"Ink\" and \"The Drama.\"",
-      "url": "https://www.indiewire.com/features/podcast/composer-daniel-pemberton-project-hail-mary-musk-interview-1235223543/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P1027YUH.jpg?w=650",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JkLTEyMzUxNzUwMzkv",
-      "title": "‘Wicker’ Review: Olivia Colman Rides Alexander Skarsgård’s Wood in Bawdy Sex Fantasy About Hysterically Horny Villagers",
-      "description": "Eleanor Wilson and Alex Huston Fischer's second feature is a kooky sex-crazed folk tale in search of a greater purpose beyond its premise, but Colman and Skarsgård prove irresistibly weird and wonderful.",
-      "url": "https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/hhcrg21ioWicker-Still_1.jpg?w=650",
-      "publishedAt": "2026-10-23T15:30:01.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
