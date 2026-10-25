@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:34:52.694Z",
+  "generatedAt": "2026-10-25T01:06:53.147Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-W9ucy1pbnRlcnZpZXc",
+      "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
+      "description": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’ Get our weekend culture and lifestyle email I didn’t know before reading your new memoir that you were almost Tony Soprano. Is there a role that you really wanted that you didn’t end up getting? It’s not Tony Soprano. There is not a role that I didn’t get that I ever gave more than four hours of grievance to. When I don’t get something, I move on. Because there’s no point. I’m very pragmatic that way. It’s for your own mental health. Once it’s gone, it’s gone. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
+      "image": "https://i.guim.co.uk/img/media/cab01c5fad28b62e8733a621fb51b61f41017c4b/346_0_5186_4149/master/5186.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31303a06ece0c321d70d347e371245b7",
+      "publishedAt": "2026-10-24T19:00:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-XQtMTIzNTIyMzY2NS8",
       "title": "Watch the ‘Buddy’ Team Explain How They Made the World Fall in Love with a Murderous Unicorn",
@@ -244,6 +256,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-ViLWZpbG0tbnR3bmZi",
+      "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+      "description": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers. The Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566",
+      "publishedAt": "2026-10-22T23:31:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-ci1qYWNrLWxvd2Rlbg",
       "title": "James Bond finalists to screen-test for role this week – reports",
       "description": "Actors in the mix to play 007 in Denis Villeneuve’s installment include Callum Turner and Jack Lowden The search for the next James Bond may finally be nearing its end: according to reports, a very select group of actors will screen-test to become the next British agent 007 this weekend. According to the Hollywood Reporter and Variety , citing several sources, a group of actors reportedly including Callum Turner and Slow Horses’ Jack Lowden, will appear in front of cameras as the secret agent this weekend in London. Continue reading...",
@@ -278,6 +302,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
+    },
+    {
+      "id": "guardian-YW5kLWEtcGVydmVydA",
+      "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
+      "description": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains substantial spoilers for Ali G: Who Iz I? • Review: Ali G: Who Iz I? The chair of the El Paso County Republican Party has said he intends to sue Sacha Baron Cohen over footage of the local politician used in new satirical comedy Ali G: Who Iz I? In the film, Michael Aboud is shown taking part in a training programme with another Cohen character, ex-Mossad terrorist expert Col Erran Morad, who instructs Aboud and fellow Maga sympathisers in self-defence techniques including the wearing, over clothes, of protective plastic buttocks. He also schools them in how to fire bullets from the middle of these buttocks by the repeated up and down manipulation of a rubber penis. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
+      "image": "https://i.guim.co.uk/img/media/c3f25bf80aa5601a22f016cfb9c0e93c07b27b68/337_0_4361_3488/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=520601a50f0c44d2caec11016fc6ecdf",
+      "publishedAt": "2026-10-22T15:10:18.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-FkZXItaW50ZXJ2aWV3",
@@ -350,42 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZGVmZW5kcy1hbGktZw",
-      "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
-      "description": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’ Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on in a lengthy article for Time magazine . On the eve of the release of his new film, Ali G: Who Iz I?, Baron Cohen described satire as “more important than ever”, adding that “along the way, some people, instead of laughing, wince or worse, take offence.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
-      "image": "https://i.guim.co.uk/img/media/0d0d9dd4c9437fbbc7f178777a3a20d525e353bd/0_2507_8736_6989/master/8736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f962a10a74e6dd4d16bfa0b497593c30",
-      "publishedAt": "2026-10-21T16:06:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-2VlLWV2ZXJ5dGhpbmc",
-      "title": "UK cinemas report ‘bonkers’ demand for documentary You Can See Everything",
-      "description": "Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the disgraced Theranos founder Elizabeth Holmes. Now, a month before Nathan Fielder’s documentary You Can See Everything reaches UK cinemas, tickets for screenings are already selling out after its remarkable $15m (£11.3m) opening weekend in the US. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
-      "image": "https://i.guim.co.uk/img/media/3fa4d7fee2339404c80b536747970d155671a067/220_0_4978_3982/master/4978.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e08d93ea3a505405d514fb9f252e6efb",
-      "publishedAt": "2026-10-21T13:06:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-3V0LXZpZXdlcnNoaXA",
-      "title": "You Can See Everything mania lifts viewership for The Dropout by 186%",
-      "description": "The hit Elizabeth Holmes documentary led to increased interest in the award-winning narrative series on Hulu as well as Bad Blood, a 2018 book on the scandal ‘Stranger than stranger-than-fiction’: how Lance Oppenheim made the year’s two buzziest films ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Interest in Elizabeth Holmes and the Theranos fraud scandal has surged amid buzz for You Can See Everything , the record-breaking documentary on the disgraced former CEO. Viewership for The Dropout , the 2022 Hulu series starring Amanda Seyfried as Holmes, surged by 186% in September compared with the month prior, according to Variety , after the announcement on 6 September of the previously secret film’s first teaser. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/you-can-see-everything-dropout-viewership",
-      "image": "https://i.guim.co.uk/img/media/43262d3520c1b8d4bf9cdb310837f776e397d34a/714_0_3570_2856/master/3570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20154fec3bec7c337dd76d2f4deb29b5",
-      "publishedAt": "2026-10-20T21:16:23.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "guardian-ItY2xpbWF0ZS1maWxt",
