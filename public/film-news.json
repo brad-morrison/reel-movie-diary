@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:06:53.147Z",
+  "generatedAt": "2026-10-25T18:35:30.190Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-bi0xMjM1MjIzNjgzLw",
+      "title": "‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?",
+      "description": "James Gunn and Peter Safran were brought in to revitalize the comic book brand with mixed results.",
+      "url": "https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/rev-1-CLAY-02881_High_Res_JPEG-copy.jpeg?w=650",
+      "publishedAt": "2026-10-25T16:36:38.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-hhLWJhcm9uLWNvaGVu",
+      "title": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen",
+      "description": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiring actor from North Carolina, has told the Guardian he recognised star Sacha Baron Cohen early in the shoot but continued pretending to be a hard-right Maga sympathiser prepared to defend the US border at all costs. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
+      "image": "https://i.guim.co.uk/img/media/f5599ab33d9069f18e4c758184c7041963277884/600_280_1321_1057/master/1321.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e23416de72ec0074af9cdd613cbfde0d",
+      "publishedAt": "2026-10-25T16:13:19.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-I0LTEyMzUyMjM2Nzkv",
+      "title": "Box Office: A24’s ‘You Can See Everything’ Scores Huge $19.5 Million Second Weekend",
+      "description": "Nathan Fielder and Lance Oppenheim's twisty look at Elizabeth Holmes saw its grosses increase from its red-hot debut.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-huge-second-weekend-a24-1235223679/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650",
+      "publishedAt": "2026-10-25T13:48:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-W9ucy1pbnRlcnZpZXc",
       "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
@@ -146,30 +182,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MTk0NDgyLw",
-      "title": "Pawel Pawlikowski’s Historical Stunner ‘Fatherland’ Is About Far More Than Thomas Mann — It’s About Today’s Own Fissures",
-      "description": "The Polish filmmaker, working in German with exquisite actors Sandra Hüller and August Diehl, tells IndieWire about finding resonant conflicts in his moving post-war Cannes hit that completes his black-and-white period trilogy.",
-      "url": "https://www.indiewire.com/features/interviews/pawel-pawlikowski-fatherland-interview-cannes-1235194482/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/IMG_2843.jpeg?w=650",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JvLTEyMzUxNzYxNTcv",
-      "title": "‘The Only Living Pickpocket in New York’ Review: An Old School Thief Holds on in the Age of Apple Pay",
-      "description": "Produced under Rian Johnson’s T-Street banner, writer/director Noah Segan's New York picture breathes new life into the subgenre.",
-      "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-28-at-12.06.28-PM.png?w=650",
-      "publishedAt": "2026-10-23T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-mluYWwtYXVkaXRpb24",
@@ -398,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-gtZHRmLXN0LWxvdWlz",
-      "title": "‘They pulled a guy’s face off. It’s my favourite bit!’ Linda Cardellini on Freaks and Geeks, Mad Men and slasher horror Crystal Lake",
-      "description": "She got to torment Don Draper in Mad Men and has just won an Emmy for DTF St Louis. But nothing prepared the star for all the gore as she switched to horror with the Friday the 13th prequel ‘The first time I had the tooth in my hand,” says Linda Cardellini, “I thought, ‘Oh my God, this is what I’m doing.’” The star of Freaks and Geeks, ER, Dead to Me, Mad Men and DTF St Louis (for which she recently won an Emmy) is talking about her pivot towards full-blown horror. In Crystal Lake, the prequel to the Friday the 13th movies, Cardellini plays Pamela Voorhees, the original slasher of the 1980 film. The tooth, by the way, is human and gets embedded in Pam’s knuckle – until she yanks it out with a gruesome, revolting slurping sound. Casual filmgoers may associate Friday the 13th with Jason, the hockey-mask-wearing serial killer. But aficionados will know that Pam, Jason’s mother, is the villain of the first movie. “He didn’t even have the mask until the third movie,” says Cardellini, who has clearly done her homework. “Pam is the original killer, in vengeance of his death.” (There is some massaging of previous storylines in Crystal Lake, such as moving Jason’s drowning from the 1950s to the early 70s, but since the franchise is flexible enough to have sent Jason into space at one point, a bit of timeline tweaking feels fair game.) Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/19/linda-cardellini-freaks-and-geeks-mad-men-crystal-lake-friday-13th-dtf-st-louis",
-      "image": "https://i.guim.co.uk/img/media/814b9aed610d5c354d71f4afd1eb9c1a771a062f/344_0_2023_1618/master/2023.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e9a85e1dce112dd95f60e497cfb7a97",
-      "publishedAt": "2026-10-19T15:46:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-hpbmctYWZ0ZXItYWxs",
