@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-26T07:03:36.325Z",
+  "generatedAt": "2026-10-26T14:12:10.154Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-FwYW5lc2UtaG9ycm9y",
+      "title": "Never After Dark review – ghostbuster-for-hire meets her match in Japanese exorcism horror",
+      "description": "Shogun’s Moeka Hoshi stars as a travelling caster-out of ghosts who confronts a wounded and recalcitrant spirit in this inventive chiller If you watched this Japanese-language ghost-story horror thriller cold, you might be a little surprised that the credits reveal that the director is one Dave Boyle – and not someone from Japan, so steeped is it in Japanese lore and culture. It turns out that Boyle has been interested in Japan for a long time, and even wrote, directed and starred in the 2006 feature film Big Dreams Little Tokyo, about an American sharing a flat with an aspiring sumo wrestler. More recently, Boyle was a key director-producer for the Netflix series House of Ninjas, and Never After Dark seems to have evolved as a spun-off side hustle between Boyle and Ninjas star Kento Kaku, who produced it and takes a supporting role. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/never-after-dark-review-japanese-horror",
+      "image": "https://i.guim.co.uk/img/media/8510a7a6e91859257a2a58386685315ff61bf795/611_0_5766_4613/master/5766.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ef358b6bcf76c0e6fda78aaf33394dff",
+      "publishedAt": "2026-10-26T13:00:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MTc4OTkzLw",
+      "title": "‘Queen at Sea’ Review: Juliette Binoche Guides Director Lance Hammer Back to Screens with a Searing Film About Dementia and Consent",
+      "description": "Binoche and Tom Courtenay star as the fraying family members (and therefore caretakers) of a dementia-addled woman whose time, memory, and function have run out.",
+      "url": "https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/202616031_5_ORG-1.jpg?w=650",
+      "publishedAt": "2026-10-26T12:02:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dy1qb2huLWhhbm5haA",
+      "title": "Bad Day at the Office review – gratuitously entertaining Go-Pro thriller is like Crank meets The Hangover",
+      "description": "John Hannah parkours through gangland London in a hyperactive first-person action film that has to keep the heartrate down This ludicrous, rabid thriller, shot largely on first-person GoPros, is like Peep Show on PCP. The cumulative effect is of being crammed into a monster-truck tyre and rolled down Mount Everest. It is relentlessly committed to packing the frame with gratuitously entertaining gimmickry, and needlessly annotates the action in pink graffiti – for example, totting up at one point how many people the hero has knocked unconscious with a dildo – so that it borderline qualifies as experimental cinema. Among the many advantages of its perspective is that it helps us buy that John Hannah, 64, is a parkour genius. Hannah plays Karl Davis – or that is apparently his name, when this amnesiac wakes up to a Hangover-like bombsite of a hotel room. He’s got a banging headache, party detritus is littered everywhere, and there is a dead body in the bathtub. Or perhaps this scenario is Crank inverted; Davis has left a box of pills and a note to self to take one whenever his heart rate gets too elevated. Which of course happens 10 seconds later. A pair of fake police officers arrive to search the room, only for Davis to trounce them with scary efficiency, just as maid Molly (Radha Mitchell), with whom he shacked up the night before, walks through the door. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/bad-day-at-the-office-review-john-hannah",
+      "image": "https://i.guim.co.uk/img/media/80ea07ccd4a2daa967993a890d29482cbcea3320/436_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7954a73a7484744b61f1c391e4f573c4",
+      "publishedAt": "2026-10-26T11:00:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-S1tb25leS1yZXZpZXc",
+      "title": "All About the Money review – confusion and compelling weirdness of wealthy leftwing heir",
+      "description": "This profile of James ‘Fergie’ Chambers, who set up a commune in rural Massachusetts and is fighting extradition from Spain, is a brave attempt to package a complex character and story For a film that dispenses a lot of backstory information via intertitles, you are left with a lot of questions when the credits finally roll. For example, how in the world did Irish film-maker Sinéad O’Shea gain access to her main subject: James Cox Chambers, AKA “Fergie”, the American heir to a multimillion-dollar fortune – whom we first meet as the founding member and bankroller of a communist community of less than a dozen people in Alford, a town in rural Massachusetts. A scion of the wealthy Cox family, a liberal clan who have backed leftist causes in the past, Fergie wants to take things even further politically and is willing to use his own hefty inheritance (about $250m) to support his fellow communards’ commitment to learning, self-sustaining farm work and running a jujitsu studio and gym that won’t accept members of the police as members. But when the group decide to protest at Elbit Systems, the Israeli-owned arms manufacturer, its actions slide into “criminal mischief and criminal trespassing”, according to reports. Several Alford members are arrested, including one Paige Belanger; O’Shea’s film cuts back and forth between interviews with Belanger and other communards and Chambers, who has scarpered to Tunisia. Although he pays for Belanger’s defence and covers other costs arising from the action, considerable rancour rises between Fergie, Paige and other former Alford community members, that O’Shea perhaps wisely doesn’t let the film get too bogged down with trying to parse. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/all-about-the-money-review",
+      "image": "https://i.guim.co.uk/img/media/918ae224638a3ea8dc2521da656606de37ee2d60/761_0_1804_1443/master/1804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=4a3fadcac5698ff4959bb3d0de880333",
+      "publishedAt": "2026-10-26T09:00:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-mVlbGdvb2QtbW92aWU",
+      "title": "‘Vicarious wish-fulfillment’: why That Thing You Do! is my feelgood movie",
+      "description": "The latest in our ongoing series of writers explaining their most rewatched comfort films is a journey back to the 90s for Tom Hanks’ heartfelt 60s-set music comedy “How did we get here?” That’s the question Steve Zahn’s character in That Thing You Do! asks his bandmate with bemusement right before they perform on live television. It’s a moment I have thought of many times over the past 30 years. Sometimes, it’s been a moment I’ve aspired to, and sometimes it’s a moment I’ve felt myself. When the band hears their song on the radio for the first time, it’s one of the most ebullient moments I’ve ever seen on film. There is a euphoria that is recognizable for anyone who has ever felt the joy of a creative accomplishment – and isn’t that all of us, in one way or another? That’s what makes That Thing You Do! my feelgood movie. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/that-thing-you-do-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/f2e83c195ef9dd5d884e84854d662f2dd5497016/0_75_2095_1677/master/2095.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa0d5c6d4ea7121a8a14fcebf767d06d",
+      "publishedAt": "2026-10-26T09:00:27.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-VudGFyeS1nZW9yZ2lh",
+      "title": "Ever Since I Knew Myself review – confronting the scars of childhood",
+      "description": "Maka Gogaladze’s debut feature looks at generational differences in the context of Georgia’s education system and emphasis on collectivism The scars imprinted on impressionable young minds can never fully fade away. Aiming her lens at a rocky beach thrashed by crashing waves, Maka Gogaladze opens her intimate film with a painful anecdote from her adolescent years. Through on-screen texts against a stormy sky, the Georgian film-maker recalls the time she dumped all of her poems into the garbage. The impulsive decision was a gesture of rebellion against her domineering mother; Gogaladze had wanted her to feel guilty. This debut feature would appear, at first glance, to be another act of revolt. Putting her mother in front of the camera, Gogaladze asks probing, at times blunt, questions about the strict education thrust on her in childhood. Together, they talk about piano lessons that ended in tears, and tough academic exams that continued to haunt the director well into her adulthood. Their contrasting personalities are fascinatingly revealed across these conversations in all their tension, yet these sequences also represent a moving effort to reach across generational differences. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia",
+      "image": "https://i.guim.co.uk/img/media/598566db5c765a3afab9827a8e399b04597969d4/949_0_5981_4787/master/5981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=82cfb3d52e74a91cedcbc8730b1ac5bb",
+      "publishedAt": "2026-10-26T07:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-mVjdGluZy1hbmltb2w",
       "title": "‘Nothing worked for me until I was clean and sober’: Ashley Walters on acting, directing – and turning his life around",
@@ -62,18 +134,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-W9ucy1pbnRlcnZpZXc",
-      "title": "Anthony LaPaglia: ‘There is not a role I didn’t get that I ever gave more than four hours of grievance to – even Tony Soprano’",
-      "description": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’ Get our weekend culture and lifestyle email I didn’t know before reading your new memoir that you were almost Tony Soprano. Is there a role that you really wanted that you didn’t end up getting? It’s not Tony Soprano. There is not a role that I didn’t get that I ever gave more than four hours of grievance to. When I don’t get something, I move on. Because there’s no point. I’m very pragmatic that way. It’s for your own mental health. Once it’s gone, it’s gone. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/25/anthony-lapaglia-10-chaotic-questions-interview",
-      "image": "https://i.guim.co.uk/img/media/cab01c5fad28b62e8733a621fb51b61f41017c4b/346_0_5186_4149/master/5186.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31303a06ece0c321d70d347e371245b7",
-      "publishedAt": "2026-10-24T19:00:42.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "indiewire-XQtMTIzNTIyMzY2NS8",
@@ -184,54 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-tlLTEyMzUyMjI0NDMv",
-      "title": "Watch Phil Lord and Chris Miller Go Deep on ‘Project Hail Mary’ Puppetry, Sandra Hüller’s Karaoke, and Making People ‘Cry About a Rock’",
-      "description": "The co-directors offered a detailed production presentation as a keynote during IndieWire's Future of Filmmaking Summit in Los Angeles.",
-      "url": "https://www.indiewire.com/news/events/phil-lord-chris-miller-project-hail-mary-puppet-karaoke-1235222443/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1050.jpg?w=650",
-      "publishedAt": "2026-10-23T17:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-mluYWwtYXVkaXRpb24",
-      "title": "I expect you to cry: what the James Bond actors may face at the final audition",
-      "description": "Jack Lowden, Callum Turner and Josh O’Connor are rumoured to be the final candidates taking screentests this weekend. So how can they best prepare? And who is likely to triumph? This weekend, the identity of the next James Bond is finally expected to be known – to the insiders, at least. According to reports, a number of youngish British actors – definitely three, possibly five – will have their final screen tests. To say it has been a long time coming is an understatement. It is five years since Daniel Craig was killed in a hail of missiles at the end of No Time to Die, and in that time – even long before it – a swarm of actors have been tipped to replace him, only to age out of the role due to a combination of indecisiveness and cutthroat backstage corporate shenanigans. Whoever is declared to be 007 will be joining the franchise after what is likely to be the longest fallow period in the franchise’s 64-year history. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/i-expect-you-to-cry-what-the-james-bond-actors-may-face-at-the-final-audition",
-      "image": "https://i.guim.co.uk/img/media/6afdddbdf1497e7b3c968daff33d3ed06120f174/0_55_4000_3197/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9822dbbe5717b604bf4a9a8de36648fb",
-      "publishedAt": "2026-10-23T12:38:44.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-3Rvci1pbnRlcnZpZXc",
-      "title": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
-      "description": "The auteur’s new film – a study of labour, capital and the fallout of redundancy – won the grand jury prize at Venice. Telling tales of the disenfranchised is ‘our moral responsibility’, he says A quintessential 21st-century horror story: a&nbsp;private equity firm has set its sights on your company. That’s the premise behind director Lee Chang-dong’s new film, Possible Love, and the idea for it first came more than a decade ago, when mass layoffs resulted in a standoff that “fundamentally changed the Korean labour movement”. In 2009, workers at Ssangyong Motors company protested against plans to lay off between 37 and 43% of&nbsp;the workforce, staging a historic 77-day strike and occupation of the factory that was eventually broken up by riot police. “Until that point in time in Korea, labourers’ rights were widely accepted,” Lee says, speaking through an interpreter in a central London hotel; “however, afterwards, the basic rights of labourers changed; to the public, they couldn’t be seen as more important than market profitability or&nbsp;corporate competitiveness.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview",
-      "image": "https://i.guim.co.uk/img/media/3cf973d2d86c0befe097325ad05138a88e4f6048/0_20_6189_4950/master/6189.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6812a795fc799c4c42125e978e5a86aa",
-      "publishedAt": "2026-10-23T12:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-dhcnMtbHVjYXNmaWxt",
-      "title": "Taika Waititi’s Star Wars film is the latest to hit the buffers. At some point Lucasfilm is going to have to actually make a movie",
-      "description": "Waititi joins a long list of movie-makers who were expected to bring a new direction to the franchise, before the studio appeared to get cold feet Movie-making these days is a very expensive endeavour. In 1977, George Lucas’s Star Wars cost $11m to make, which would be approximately $60m in today’s money, and has since amassed $775m at the global box office, including rereleases. Fast forward to 2026 and the most recent film in the long-running space saga, The Mandalorian and Grogu , cost a reported $165m and brought in $346m worldwide. If there was ever a Hollywood gold rush, the mines ran dry long ago. Perhaps this is one of the reasons why Disney-owned Lucasfilm seems to be so terrified of making new Star Wars movies. Since 2019’s The Rise of Skywalker, only one Star Wars film, the aforementioned Mando and Grogu movie, has actually made it into cinemas. But that has not stopped the studio announcing a small armada of other projects – sometimes via press release, more often at various high-profile celebrations, conferences or other corporate jamborees – that have so far failed to reach multiplexes. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/taika-waititi-star-wars-lucasfilm",
-      "image": "https://i.guim.co.uk/img/media/329ed0b41488d6e4f501835a6f778d4b9769eacc/1161_0_5995_4800/master/5995.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=21f52f694a8469b0cd4fc352c1cb534f",
-      "publishedAt": "2026-10-23T10:39:45.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-VzLW9mLXRoZS1zZWFz",
       "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
       "description": "When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups It was an otherwise typical day on 25 September 2021 when thousands of dead and dying crustaceans washed up on beaches in Yorkshire and the north-east of England. Early morning walkers and swimmers were aghast to find a sickening carpet of twitching, fitting crabs. It would be the first but not the last die-off, which would see the disappearance of vast swathes of integral native sea life along an extended stretch of coast, including seal pups. It would also see the decimation of the local fishing industry and, with that, a way of life. Continue reading...",
@@ -304,18 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "US actor Tom Skerritt, star of Top Gun, Steel Magnolias and Alien, dies aged 93",
-      "description": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ebad/live/e0656410-ce51-11f1-a7e5-1bf3b637cfc1.jpg",
-      "publishedAt": "2026-10-22T21:10:36.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XR0LWFjdG9yLWRlYWQ",
       "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
       "description": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93. His publicist confirmed to Variety that he died from natural causes. Continue reading...",
@@ -328,12 +328,12 @@
       "category": "TV"
     },
     {
-      "id": "guardian-YW5kLWEtcGVydmVydA",
-      "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’",
-      "description": "Exclusive: Michael Aboud, whose actions in what he believed to be a documentary are likely to come under considerable scrutiny, has expressed anger at the film-maker • This article contains substantial spoilers for Ali G: Who Iz I? • Review: Ali G: Who Iz I? The chair of the El Paso County Republican Party has said he intends to sue Sacha Baron Cohen over footage of the local politician used in new satirical comedy Ali G: Who Iz I? In the film, Michael Aboud is shown taking part in a training programme with another Cohen character, ex-Mossad terrorist expert Col Erran Morad, who instructs Aboud and fellow Maga sympathisers in self-defence techniques including the wearing, over clothes, of protective plastic buttocks. He also schools them in how to fire bullets from the middle of these buttocks by the repeated up and down manipulation of a rubber penis. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-a-liar-and-a-pervert",
-      "image": "https://i.guim.co.uk/img/media/c3f25bf80aa5601a22f016cfb9c0e93c07b27b68/337_0_4361_3488/master/4361.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=520601a50f0c44d2caec11016fc6ecdf",
-      "publishedAt": "2026-10-22T15:10:18.000Z",
+      "id": "guardian-bGFyLWJhZC10YXN0ZQ",
+      "title": "Ali G: Who Iz I? review – Sacha Baron Cohen’s high-stakes satire punches up and down with spectacular bad taste",
+      "description": "Baron Cohen’s live-ammo prankster is back, 20 years on, but has to battle with his own irrelevance in search of big laughs and the approval of a new generation • Exclusive: Republican leader embarrassed by film says he plans to sue Sacha Baron Cohen: ‘A liar and a pervert’ If you liked Sacha Baron Cohen’s Ali G the first time around, you’ll like this less; if you disliked it, you’ll dislike this more; if you suspected it was racist, you’ll be more emboldened to say so – especially as Baron Cohen has dreamed up a whole new character apparently to pre-empt and mock precisely that objection. Broad and crass as it often is – in fact always is – this Ali G sequel is sometimes funny: the athletic vigour of our hero’s pranking and punking is like the umpteenth Jackass film at which you might find yourself laughing, and Baron Cohen blunders with the semi-intentional force of an XL bully into the issue of whether jokes are still allowed. Unlike the first film, Ali G in Da House from 2002, this is not a full written-through narrative. It is basically another live-ammo series of hoaxes with some spectacular bad taste perpetrated upon the deserving and less deserving; it satirises the shamelessness of anti-woke free speech martyrs, punching up and down with grossout cringe, and the targets include some big names who shouldn’t be revealed here. There are two other subordinate characters: Erran Morad, a sinister Mossad/IDF officer turned US security consultant (who appeared in Baron Cohen’s Who Is America? TV series ), and a new figure: Dr Nira Cain-N’Degrocello, a grotesquely supercilious white liberal who is the self-appointed scourge of cultural appropriation. The dupes are built into a big silly climax fabricated with body doubles and (presumably) covert reshooting. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+      "image": "https://i.guim.co.uk/img/media/f68e33d5b692f17a2fdc4dec248180853a9faee4/633_0_3421_2740/master/3421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=c090f360b4b537fa0e1d144142b0136c",
+      "publishedAt": "2026-10-22T15:00:29.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -412,6 +412,54 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-J5LTMwLXllYXJzLW9u",
+      "title": "Scream review – Wes Craven meta horror remains super smart and scary 30 years on",
+      "description": "Self-aware romp through the genre is redolent of the 90s but its ghost-masked killer is as alarming as ever The 30th anniversary re-release of the original Scream, from screenwriter Kevin Williamson and director Wes Craven, brings us to a locus classicus of the 90s: a self-aware romp through the horror genre. It features Skeet Ulrich’s high schooler Billy Loomis announcing that reality is “all one big movie – but you can’t pick your genre”, which is the meta-slasher equivalent of Jacques Derrida’s belief that there is nothing outside the text. A ghost-masked killer is murdering and terrorising the bland Californian town of Woodsboro, and we begin with his gruesome assault on Casey (Drew Barrymore); he makes chilling calls to people’s landline phones, in an era where that meant you more or less had them pinned them down to a certain location. (The existence of “cellular” phones was still an exotic novelty.) The mother of teen Sidney (Neve Campbell) had been brutally killed previously, a crime pinned on local man Cotton Weary (a cameo for Liev Schreiber) who is now in jail. But was he really guilty? Now Sidney is at risk like everyone else. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
+      "image": "https://i.guim.co.uk/img/media/5636927239d5c1d782c032f6a6ad19796e3e799f/423_589_1791_1433/master/1791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9978a483cfe617161f5005a9a0c31445",
+      "publishedAt": "2026-10-21T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-YS1kb2N1bWVudGFyeQ",
+      "title": "Making Marie Antoinette review – sweet Coppola home movie reveals the family business",
+      "description": "Shot by Sofia’s mother Eleanor this documentary shows something of the strain of shooting a period piece, but is a far cry from the tumultuous portrait of her husband in Hearts of Darkness It is 20 years since the release of Sofia Coppola’s Marie Antoinette starring Kirsten Dunst; it is a supportively unjudging, unironised study of the queen’s early years before the 1789 revolution, lavishly and accurately costumed, shot on location at Versailles and based on the Antonia Fraser biography – but also subversively and amusingly using pop tracks from the 70s and 80s on the soundtrack. It got a storm of booing from French critics, reportedly annoyed at the way their history had been reduced to a music video and fashion shoot with no French actors involved. Or hardly any. In fact, for all the lack of political grit, the film was interesting and accomplished, and deservedly has a fanbase – and it is to that constituency that this making-of documentary from the director’s mother Eleanor Coppola is really addressed. It is basically a sweet family home movie on digital video which shows something of the strain and the longueurs of shooting a demanding period picture, but tactfully not seeing anything really explosive or bad-tempered. It is very far from Eleanor Coppola’s sensational behind-the-scenes film Hearts of Darkness: A Filmmaker’s Apocalypse about the tumultuous creation of Apocalypse Now, directed by her husband Francis Ford Coppola. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/making-marie-antoinette-review-sofia-eleanor-coppola-documentary",
+      "image": "https://i.guim.co.uk/img/media/1bbf597540211d2a4254a4081b6a82359c42ff00/519_126_3485_2788/master/3485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=047a9ad20fd54b313e5f41c57e0aa52c",
+      "publishedAt": "2026-10-21T08:00:04.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-QtaG91c2UtY29tZWR5",
+      "title": "Ghosts: The Possession of Button House review – new levels of giddiness unleashed in spooky spin-off",
+      "description": "Picking up not long after the events of the final episode of the BBC’s haunted house comedy, this glorious new film is every bit as warm and comforting as the TV sitcom What on earth is happening at Button House? Kitty has tasered a police officer. Fanny is pulling down her capacious Victorian drawers to show off her bottom. Robin the caveman has fallen in love with a crusty eco activist (to be fair she looks quite a bit like him). If you’ve never watched the BBC’s haunted house comedy Ghosts – one of the finest family television shows in recent memory – none of the above will make the slightest bit of sense. Neither perhaps will this glorious new film, which picks up with the ghosts not long after the events of the final episode in 2023 . Often when British sitcoms get a spin-off what happens is the gag-to-runtime ratio dips. But breaking out of the 30-minute episode structure seems to have freed up the writers to unleash new levels of giddiness with added spoonfuls of silliness. The jokes keep coming, and it’s every bit as warm and comforting as on TV. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
+      "image": "https://i.guim.co.uk/img/media/efbe53529f59b170b7c8d5e888ea4bfa207bae00/523_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=22fee992450fac24f049b52acdf7bd17",
+      "publishedAt": "2026-10-21T06:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XN0aXZhbC1zaXRnZXM",
+      "title": "Explosive births, talking foxes and the devil in a trenchcoat – the Sitges fantastic film festival in all its creepy glory",
+      "description": "Olivia Colman goes vulpine, Rupert Grint’s newborn is a monster and Joko Anwar makes a warmhearted violent ghost story set in an Indonesian prison If I’d ever wanted children, the films showing at the 59th edition of the International Fantastic film festival of Catalonia in the coastal town of Sitges, south of Barcelona, would have soon set me straight. This year’s recurring themes were explosive parturition, chewed-up nipples and the fruit of the womb turning out to be at best sociopathic, at worst inhuman. The theme was celebrated in an evil-kiddy exhibition at the Miramar Cultural Centre, marking the 50th anniversary of Narciso Ibáñez Serrador’s “fantaterror” classic Who Can Kill a Child? , some of which was filmed in Sitges itself. The expo traced the subgenre from 1956’s The Bad Seed, via Rosemary’s Baby and The Exorcist, to this year’s Nightborn , in which poor Rupert Grint, as the hapless husband, is no match for the developing folk-horror bond between his depressed wife, their newborn “child”, and the spooky forest surrounding their house. Finnish director Hanna Bergholm, in her introduction, confessed it was inspired by her experiences of motherhood. Only up to a point, one hopes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/20/international-fantastic-film-festival-sitges",
+      "image": "https://i.guim.co.uk/img/media/6deb0ada24ee21ec80947b107abe77270174231d/407_0_3907_3126/master/3907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b071ce96f935fdd04ff4203c5b5d537",
+      "publishedAt": "2026-10-20T14:10:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
       "id": "guardian-ItY2xpbWF0ZS1maWxt",
       "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
       "description": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect climate change film for our era. Digger Rockwell, the eponymous protagonist played by Tom Cruise, is a bluntly caricatured Texas oilman blase about the environmental ruin of his drilling, even as it triggers a disastrous splitting of the Arctic ice sheet. This causes a vast iceberg, five times the size of Washington DC, to barrel towards Europe and threaten a devastating tsunami. Continue reading...",
@@ -436,28 +484,16 @@
       "category": "TV"
     },
     {
-      "id": "guardian-2F6dW8taXNoaWd1cm8",
-      "title": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "description": "The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futurism and non-satire, adapted by Waititi from the Kazuo Ishiguro novel, which winds up saying nothing substantial or meaningful (or funny) about artificial intelligence, love or grief. Klara and the Sun is soft-centred sci-fi-lite, simultaneously demanding we laugh at its (unfunny) humour and wipe away a tear at its pass-agg poignancy. With earlier films like Hunt for the Wilderpeople and Thor: Ragnarok, Waititi showed he can do comedy. But this, sadly, is closer to his notorious fey-Hitler fantasy Jojo Rabbit – misjudged and self-admiring. In the world to come in an uncanny valley of the almost-real, families can buy “artificial friend” or AF robots for their kids. In terms of tech plausibility overall, incidentally, their status isn’t entirely clear: AF salesperson (Natasha Lyonne) says that the recent third world war has wiped out the internet. (This post-WW3 world looks in pretty good shape apart from that.) And these AF humanoids incidentally have a kind of purple blood called PEC-9 running through them which one character incidentally tells us is “highly flammable”. (Uh-oh. Quite the design fault.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
-      "image": "https://i.guim.co.uk/img/media/f55061596ee9bbd917a6bb5a6f872bb89a19c8e4/532_0_2637_2110/master/2637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=7d0ebf7c0330302c859a6717a9bb8128",
-      "publishedAt": "2026-10-15T20:15:40.000Z",
+      "id": "guardian-JtYW5jZXMtcmFua2Vk",
+      "title": "Your full attention: Jesse Eisenberg’s 10 best film performances – ranked!",
+      "description": "As his new movie The Debut closes the London film festival, we count down the best of the actor’s shy, sly and sometimes hairy outings A doppelganger role can be a trap for an actor: either the two roles are not sufficiently distinct, or they are too hammily different, and either way the result can look like a film school graduation project. But Jesse Eisenberg gives a stylish split-personality turn in Richard Ayoade’s adaptation of the Dostoevsky novella. He plays Simon, a nerdily shy and self-effacing computer programmer in a grim futureworld, ignored by his employers and by co-worker Hannah (Mia Wasikowska), with whom he is hopelessly in love. But then his carbon copy, James, arrives, also of course played by Eisenberg. James is a confident alpha-achiever who impresses his bosses and entrances Hannah – to Simon’s gibbering despair. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/15/jesse-eisenberg-10-best-film-performances-ranked",
+      "image": "https://i.guim.co.uk/img/media/e1d5e89cc416800ddeac122dbb6aca0f7b85947a/806_0_4099_3280/master/4099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f1035a328b268938f1eabd33455d8d31",
+      "publishedAt": "2026-10-15T11:00:11.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
-      "description": "There are brief, simple pleasures in the inevitable new big screen take on the classic game but like the recent Mortal Kombat movies, it’s a largely incoherent mess We just had Resident Evil , Zach Cregger’s giddy, nasty, devilishly fun spin on Capcom’s popular zombie franchise. It gave us renewed hope (after Sonic the Hedgehog, The Last of Us and Fallout) that video game adaptations could be good, actually. But now here comes Street Fighter, a garish and incoherent mess that amuses in fits and starts but barely improves on the Mortal Kombat movies before it, crushing those hopes in its atomic suplex. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/street-fighter-movie-review",
-      "image": "https://i.guim.co.uk/img/media/52ef44150323d22986e27a5e3e1002d650f7c0e2/362_0_5125_4098/master/5125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=87e8ee64357d53a13f78fc2aacd294f2",
-      "publishedAt": "2026-10-15T16:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Movies"
     },
     {
       "id": "guardian-hlLXJpY2gtc2F0aXJl",
@@ -484,24 +520,36 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-y1tb3ZpZS1yZXZpZXc",
-      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "description": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of the blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c6fd2ae556ee7e19b660e8b81218225f",
-      "publishedAt": "2026-10-01T16:51:21.000Z",
+      "id": "guardian-Rldy1zY290dC0yMDI2",
+      "title": "Hamlet’s goodbye, the last of Leigh, Birmingham blues and a vampire in Vienna: 12 great films at the London film festival",
+      "description": "Our critic picks out some of the most outstanding cinema screening at the UK’s most prestigious film event in 2026 This film puts Andrew Scott in line to become the first out gay man to win the best actor Oscar . He plays Ian Charleson, who became a star in Chariots of Fire and in 1989 took on the role of Hamlet at London’s National Theatre when Daniel Day-Lewis withdrew, despite being desperately ill with Aids, knowing that the strain would accelerate his illness. For Charleson, the play’s themes of life and death, truth and falsehood, justice and injustice, were all too real. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/06/london-film-festival-mike-leigh-elsinore-andew-scott-2026",
+      "image": "https://i.guim.co.uk/img/media/b1d820849009b44ef7fe96ee04cbc96d06626708/111_0_1167_933/master/1167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84c371feb6c46d9f178d0f6f49a47f09",
+      "publishedAt": "2026-10-06T11:29:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FuZC1mcmllbmRzaGlw",
+      "title": "Possible Love review – a tale of two couples is finely judged study of exploitation and friendship",
+      "description": "Acclaimed Korean director Lee Chang-dong returns with an inspired account of an unhappy married couple befriended by a documentary maker and her wealthy husband Korean auteur Lee Chang-dong brings to Venice his first feature for eight years. It is a finely judged, beautifully acted and rather novelistic work, in which a character at one point actually compares her surroundings to something from a novel. It is expansive and diffuse in terms of storytelling scope and dramatic focus, rich in intelligence while paying its audience the compliment of treating them as intelligent also. There are moments of pure inspiration in the superb flashback scenes of two characters’ early lives, and I rather regretted that these flashbacks were phased out relatively early on and that more was not made of their relationship with the present. Possible Love is perhaps a little contrived and self-aware and unsure how much emphasis to lay on its moments of irony and comedy, but it is made with such fluency and verve. It is a tale of two couples. Jeon Do-yeon (from Lee’s Secret Sunshine) and Sul Kyung-gu play Mi-ok and Ho-seok, a deeply unhappy married couple from a blue-collar background with a young son. Ho-seok is angry, depressed and struggling with a drinking problem after a catastrophic end to a strike at the factory where he worked. While at the funeral of a colleague of Ho-seok’s, who has taken his own life, he and Mi-ok meet a fashionable and wealthy couple who are making a documentary about the injustice of the way the factory workers were treated. (This couple have a dog instead of a child.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/06/possible-love-review-a-tale-of-two-couples-is-finely-judged-study-of-exploitation-and-friendship",
+      "image": "https://i.guim.co.uk/img/media/07ad374a58c4eb6a8b75717180f4390e37b9fb71/440_0_2594_2076/master/2594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=9bfac8d7318ef8f5d8e86b39adb5d0c9",
+      "publishedAt": "2026-09-06T14:30:07.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
-      "description": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely contained chamber-piece movies, where a handful of characters find themselves in a usually remote house, dialogue taking obvious precedence over action. There were some highlights, such as Kevin Williamson’s timely slasher Sick , and some considerable low points, such as Sam Levinson’s vapid drama Malcolm & Marie , but while we had plenty of them, none of them rivalled some of the greatest and smartest pre-pandemic examples. The very best tended to be based on plays and quite often starred Michael Caine. He was in Anthony Shaffer’s Sleuth, which went from Tony to Oscar success back in the 1970s, and then the arguably even better Deathtrap in the decade after, which Sidney Lumet adapted from Ira Levin’s deviously plotted play. In between there was also an under-seen TV movie called One of My Wives Is Missing , based on 60s play Trap for a Single Man, which was notably lesser but still delivered a similarly specific brand of twisty, talky thrills. There would be secrets, surprises, reversals and usually at least one dead body by the end of it, a subgenre entirely indebted to the work of Agatha Christie (who reportedly loved Sleuth on stage so much that she dedicated a picture of herself to be hung in the house used in the big screen adaptation). The bar is therefore held rather high, a puzzle that requires an ingenious level of writing that needs to be smart without smug and shocking without feeling cheap. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=57736b885b83a9edb64da4c385f8619d",
-      "publishedAt": "2026-09-15T21:58:01.000Z",
+      "id": "guardian-G9waGVyLWhhbXBzb24",
+      "title": "These Violent Delights review – Scottish Ballet’s feverish Romeo and Juliet is bold and unsettling",
+      "description": "A taut, dreamlike reimagining of Shakespeare’s tragedy strips away romance in favour of dread, creating an engrossing and fiercely physical dance film Scottish Ballet, under the direction of Christopher Hampson and Oscar Sansom, gives us an engrossing dance riff on Shakespeare’s Romeo and Juliet. The title alludes to Friar Lawrence saying, at the couple’s secret wedding ceremony, that “these violent delights have violent ends”, that their passion will consume itself in the act of marriage – which is true, but not in the way he thinks. The ballet is fierce, athletic, knotty and sensual; it is not a filmed event beneath a proscenium arch but a film that inhabits its own theatrical space. The whole event is a radically impressionistic compression of the play’s action, bringing it down to just 70 minutes, an extended nightmarish dream sequence with a repeated and disturbing scene of Juliet being dragged across the grass by an unseen force. This version chucks out, among other things, the balcony scene, and it interestingly modifies the ending, suggesting that the double-suicide might not be a trick that goes wrong but an anguished mutual gesture of despair. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/14/these-violent-delights-review-oscar-sansom-christopher-hampson",
+      "image": "https://i.guim.co.uk/img/media/515bc37d481a8cce2061d891096013cd9a021aee/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=202bba75a13b2fb65bbceabddad43fa6",
+      "publishedAt": "2026-08-14T15:55:31.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -514,30 +562,6 @@
       "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
       "image": "https://i.guim.co.uk/img/media/c634079f14def5b226501d12820227ed17195d8a/1341_205_5172_4137/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=e401ac258cba864ae585e5828c380bb3",
       "publishedAt": "2026-05-14T17:22:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WNoYXJtaW5nLXRhbGU",
-      "title": "The Only Living Pickpocket in New York review – John Turturro steals this simple, charming tale",
-      "description": "Sundance film festival: the actor plays a pickpocket who steals from the wrong person in a leisurely, straightforward crime thriller with a sting in its tail Noah Segan’s light-footed crime noir The Only Living Pickpocket in New York is a film obsessed with the gap between the old and new. There are memories shared about how things used to be, and some older characters refusing to keep up with digital progression, while there are eye-rolls from the younger generation, poking fun at those losing touch with how the world now operates. I’d argue that the theme is often a little overplayed, a classic case of writer-director Segan – a frequent Rian Johnson collaborator – telling rather than showing. But his film makes a convincing case for the old, a brisk throwback to a 70s-era character-led thriller, made with borrowed flair from yesteryear. The title is itself partly borrowed from a Simon and Garfunkel song and speaks to a protagonist of a dying breed, a pickpocket who prides himself on the old ways; though he might swipe smartphones, he doesn’t own one. He’s played by John Turturro, an actor who hasn’t enjoyed many a lead role of late – his last was in the ill-received Big Lebowski “sequel” The Jesus Rolls and that’s only because he wrote and directed it himself. But this is a welcome step up, or step back up, for someone deserving of something more substantial to tear into. Fittingly, he’s someone who would have arguably had a more prominent career as a leading man in a different time. The Only Living Pickpocket in New York is screening at the Sundance film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/28/the-only-living-pickpocket-in-new-york-review-john-turturro-steals-this-simple-charming-tale",
-      "image": "https://i.guim.co.uk/img/media/09e34d99e519ef154df22dfd5adca6b25103c13e/1114_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=3ee871f345224f983d19726c21488a3c",
-      "publishedAt": "2026-01-28T03:53:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1vbGl2aWEtY29sbWFu",
-      "title": "Wicker review – Olivia Colman is smelly fisherwoman falling for wicker man in uneven fable",
-      "description": "Sundance film festival: an inventively made fantasy boasts eye-catching premise and typically rewarding performance from Oscar-winner but something’s missing In terms of attention-demanding loglines, this year’s Sundance has a few. There’s the body horror Saccharine, about a diet craze that involves eating human ashes, midnight movie Buddy , about a Barney-esque kids TV star who starts murdering children and then there’s Mum, I’m Alien Pregnant which, well, you can probably imagine. But the annual “wait, what?” prize easily goes to the offbeat fable Wicker, the story of a smelly spinster fisherwoman who commissions herself a husband made of, that’s right, wicker. While the film does have its expected amount of audience-provoking moments – wicker-fucking bringing the most noise both on and off the screen – to its credit, there’s an attempt to give us more than just easy shock value, something that can’t always be said for films in this often tedious category. Writer-directors Alex Huston Fischer and Eleanor Wilson, who previously brought the mostly likable alien invasion comedy Save Yourselves! to the festival, use their far-out premise to touch upon more of-our-world issues like the patriarchal cruelty of marriage and the special fury reserved for those who dare to live outside of the accepted rules. They succeed in brief flashes but ultimately, there’s too much here that doesn’t gel, a tonally uneven mix of mostly unfunny bawdy humour, dark fantasy and unlikely romance, too much wood but not enough fire. Wicker is screening at the Sundance film festival Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/25/wicker-review-olivia-colman",
-      "image": "https://i.guim.co.uk/img/media/1d79d4339115efca91ee07764f9ae399c1a75666/439_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=8685fd4331eec5fa33e7e161fb7a6864",
-      "publishedAt": "2026-01-25T16:27:33.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
