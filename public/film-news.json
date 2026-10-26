@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T18:35:30.190Z",
+  "generatedAt": "2026-10-26T07:03:36.325Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 28
+      "articles": 29
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-mVjdGluZy1hbmltb2w",
+      "title": "‘Nothing worked for me until I was clean and sober’: Ashley Walters on acting, directing – and turning his life around",
+      "description": "In Adolescence he proved himself one of the UK’s best actors. Now he has directed his first film, Animol. He reflects on the road from prison and addiction to soaring success Ashley Walters seems to have lived his life on fast-forward. Before he turned 21 he had already had a No 1 hit, performed on TV and the West End stage, become a father and served seven months in prison. He has had another lifetime’s worth of incident since – including seven more children – but at the ripe old age of 44, enough water has passed under the bridge for Walters to have some perspective on his youth. Not that all that living appears to have left a mark: when we meet in London, he’s the picture of health, his face unwrinkled, eyes twinkling, hair cut in a crisp lineup. Back in the early 2000s, he fit a certain stereotype of Black British youth as Asher D, the rapper from deprived and supposedly crime-ridden Peckham, who rolled with the street-tough So Solid Crew, got into beefs with east London rivals such as Dizzee Rascal, was demonised by the tabloids and called a “boasting macho idiot rapper ” by the then culture minister Kim Howells. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/26/ashley-walters-on-acting-directing-animol",
+      "image": "https://i.guim.co.uk/img/media/36ea7ebaef65f1c285e4a94492be673b32493d59/1828_0_2838_2270/master/2838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46738869ff123e8ce325c06b9e3e55d0",
+      "publishedAt": "2026-10-26T05:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-bi0xMjM1MjIzNjgzLw",
       "title": "‘Clayface’ Tops the Box Office with $24 Million. What Does It Signal About DC Studios’ Latest Reboot?",
