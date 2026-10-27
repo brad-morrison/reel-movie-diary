@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T18:48:04.665Z",
+  "generatedAt": "2026-10-27T01:05:37.576Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-Yy0xMjM1MjIzODY3Lw",
+      "title": "Watch ‘My Undesirable Friends’ Director Julia Loktev Recall the Week Russia Invaded Ukraine",
+      "description": "At IndieWire's Art of the Doc event, Loktev explained why her film about the lives of Russian journalists had to take a different turn.",
+      "url": "https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650",
+      "publishedAt": "2026-10-27T00:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjIzNzc4Lw",
+      "title": "‘Wildwood’ Sparked a Much-Needed Comeback for Laika at the Box Office",
+      "description": "Travis Knight's stop-motion animated epic opened to $12.2 million, which is on par with the opening for the company's \"Kubo and the Two Strings.\"",
+      "url": "https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650",
+      "publishedAt": "2026-10-26T22:09:59.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjIzNjAwLw",
+      "title": "James Gunn and Peter Safran’s DC Experiment: What’s Working, What Isn’t, and What’s Next",
+      "description": "Four years and three movies into a total rebuild, we review — and grade — the latest iteration of the DC Universe.",
+      "url": "https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650",
+      "publishedAt": "2026-10-26T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjM3NzIv",
+      "title": "Laika and Fathom Take Legal Action to Stop ‘Wildwood’ Screenings at L.A.’s Bruin Theatre",
+      "description": "The companies tell IndieWire they want to end the planned engagement, citing concerns about operator Rui Pereira and the brands' values. Screenings continued through Sunday.",
+      "url": "https://www.indiewire.com/news/breaking-news/laika-fathom-wildwood-bruin-theatre-legal-action-1235223772/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-26-at-12.23.47-PM.png?w=650",
+      "publishedAt": "2026-10-26T20:39:33.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Oscar-winning producer says BBC gave her £400,000 payout after she raised antisemitism concerns",
+      "description": "The BBC says it did not uphold any of the allegations of antisemitism but accepted there were \"shortcomings\" in how it treated Lucie Kon.",
+      "url": "https://www.bbc.co.uk/news/articles/crwydxw0we8yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0461/live/62fc5a80-d16a-11f1-87df-afb7a168a1f2.jpg",
+      "publishedAt": "2026-10-26T20:16:45.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIyMzUxNC8",
+      "title": "‘Elastic Hearts’ Filmmakers Claim Their Movie Was Denied a Texas Tax Incentive Over Abortion Storyline",
+      "description": "Exclusive: The $2 million drama starring Cole Sprouse spent $1.24 million in qualified spending in the state only to wait nine months for a rejection.",
+      "url": "https://www.indiewire.com/news/breaking-news/elastic-hearts-film-denied-texas-tax-credit-abortion-cole-sprouse-1235223514/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Darby-Lee-Stack-EH_stills_anneschwartz_141.jpg?w=650",
+      "publishedAt": "2026-10-26T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WQtMTIzNTIyMzU2Mi8",
+      "title": "Why Emmy Wins and Hollywood Recognition Don’t Guarantee Jobs for BIPOC Artists: ‘The Needle Has Not F***ing Moved’",
+      "description": "“We need to stop saying that. It’s only moving for a select few,\" Vietnamese actor Trieu Tran told IndieWire, which speaks to talent of color below and above the line about the industry's opportunity problem.",
+      "url": "https://www.indiewire.com/features/interviews/hollywood-diversity-problem-isnt-just-about-who-gets-hired-1235223562/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1242926713.jpg?w=650",
+      "publishedAt": "2026-10-26T19:33:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Star Trek actor Walter Koenig, who played Pavel Chekov, dies aged 90",
@@ -37,18 +121,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Coronation Street star returns to cobbles after 11 years",
-      "description": "The Welsh actor is back as Owen Armstrong and looking forward to a \"cracking\" storyline.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1w1w1jjjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/23a7/live/d1293160-cebb-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-26T17:49:40.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -208,78 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XQtMTIzNTIyMzY2NS8",
-      "title": "Watch the ‘Buddy’ Team Explain How They Made the World Fall in Love with a Murderous Unicorn",
-      "description": "At IndieWire's Future of Filmmaking Summit, \"Buddy\" producer Tracy Rosenblum, co-writer Jamie King, and Roadside Attractions head of digital marketing Melissa Yerou unpacked the formula behind one of 2026's breakout hits.",
-      "url": "https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1332_e4d22d.jpg?w=650",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIzMTA5Lw",
-      "title": "Quentin Tarantino Surprises Fans with an Early Look at ‘The Further Mis-Adventures of Cliff Booth’",
-      "description": "Tarantino introduced the first 17 minutes of his upcoming collaboration with David Fincher after an AFI Fest screening of \"Once Upon a Time...in Hollywood.\"",
-      "url": "https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
-      "publishedAt": "2026-10-24T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-l0LTEyMzUyMjM0OTQv",
-      "title": "‘Color Book’ Director David Fortune Used Ice Cold Showers to Practice His AT&#038;T Untold Stories Award Pitch — Watch",
-      "description": "The 2023 AT&#38;T award winner stopped by IndieWire's Future of Filmmaking Summit to explain his preparation for the biggest pitch of his life.",
-      "url": "https://www.indiewire.com/news/events/att-award-winner-david-fortune-future-of-filmmaking-summit-1235223494/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1613.jpg?w=650",
-      "publishedAt": "2026-10-23T21:56:27.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2MtMTIzNTIyMzY1MS8",
-      "title": "‘They’re Still Humans Like the Rest of Us’: Watch the ‘Everest: The Other Side’ Directors Discuss Relating to Extreme Athletes",
-      "description": "At IndieWire's Art of the Doc event, Elizabeth Chai Vasarhelyi and Jimmy Chin explained what draws them to some of the world's biggest risk-takers.",
-      "url": "https://www.indiewire.com/news/events/everest-the-other-side-directors-indiewire-art-of-the-doc-1235223651/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2121.jpg?w=650",
-      "publishedAt": "2026-10-23T21:24:38.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NzLTEyMzUyMjM2MjQv",
-      "title": "Yes, That’s a Wicker Penis: Inside Alexander Skarsgård’s Wild ‘Wicker’ Transformation",
-      "description": "And yes, those are also wicker nipples.",
-      "url": "https://www.indiewire.com/features/craft/wicker-husband-alexander-skarsgard-prosthetics-1235223624/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/W_R_00004.jpg?w=650",
-      "publishedAt": "2026-10-23T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-20tMTIzNTIyMzYwMS8",
-      "title": "‘Marie Antoinette’ at 20: Sofia Coppola on How the Film Almost Broke Her, the Critical Backlash, and Paying Tribute to Mom",
-      "description": "Sofia Coppola tells IndieWire what she learned seeing her career through her late mother's eyes by finishing Eleanor Coppola's \"Making Marie Antoinette.\"",
-      "url": "https://www.indiewire.com/features/podcast/marie-antoinette-sofia-coppola-critical-backlash-music-mom-1235223601/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MA_800dpi_23_Credit_Sofia-Coppola.jpeg?w=650",
-      "publishedAt": "2026-10-23T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-3Rvci1pbnRlcnZpZXc",
       "title": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
       "description": "The auteur’s new film – a study of labour, capital and the fallout of redundancy – won the grand jury prize at Venice. Telling tales of the disenfranchised is ‘our moral responsibility’, he says A quintessential 21st-century horror story: a&nbsp;private equity firm has set its sights on your company. That’s the premise behind director Lee Chang-dong’s new film, Possible Love, and the idea for it first came more than a decade ago, when mass layoffs resulted in a standoff that “fundamentally changed the Korean labour movement”. In 2009, workers at Ssangyong Motors company protested against plans to lay off between 37 and 43% of&nbsp;the workforce, staging a historic 77-day strike and occupation of the factory that was eventually broken up by riot police. “Until that point in time in Korea, labourers’ rights were widely accepted,” Lee says, speaking through an interpreter in a central London hotel; “however, afterwards, the basic rights of labourers changed; to the public, they couldn’t be seen as more important than market profitability or&nbsp;corporate competitiveness.” Continue reading...",
@@ -313,18 +313,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Final James Bond screen tests to take place this weekend, reports say",
-      "description": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
-      "url": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e35e/live/15f1bc90-cec1-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-23T09:41:44.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
