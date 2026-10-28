@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:34:50.497Z",
+  "generatedAt": "2026-10-28T18:31:34.293Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-LWRpZXMtYWdlZC04OA",
+      "title": "Peter Medak, veteran director of The Krays and The Changeling, dies aged 88",
+      "description": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking Bad Peter Medak, the British-Hungarian director of The Changeling, The Krays and Let Him Have It, has died aged 88. According to the Hollywood Reporter, Medak’s family announced he died in Los Angeles on Tuesday. Medak enjoyed a long and varied career across film and TV, which included spirit-of-the-times classics A Day in the Death of Joe Egg and The Ruling Class (both from 1972), cult horror The Changeling with George C Scott, and The Krays and Let Him Have It, period true crime films made in the early 1990s. He also directed numerous episodes of high-profile TV drama, including the 80s revival of The Twilight Zone, Homicide: Life on the Street, and Hannibal. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
+      "image": "https://i.guim.co.uk/img/media/64e02666420906b5465098b638072cbf8f8b0764/0_6_2712_2169/master/2712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2df0f180e8cedce2223f045c60252df0",
+      "publishedAt": "2026-10-28T17:43:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIyNDEyNi8",
+      "title": "Slamdance Names Screenplay Competition Winners for 2026 — Read the Full List",
+      "description": "James Oxyer’s thriller “Termite” won the $10,000 grand prize, while Wes Andre Goodrich’s “Citizens” took first place in the feature category.",
+      "url": "https://www.indiewire.com/awards/results/slamdance-2026-screenplay-competition-winners-1235224126/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DSC_8200.jpg?w=650",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-WFzc2V0cy1zZWl6ZWQ",
+      "title": "Iranian film-maker Jafar Panahi given new prison sentence",
+      "description": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’ An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets. The 66-year-old, who won the Palme d’Or at Cannes last year for It Was Just an Accident , was sentenced in absentia, his lawyer, Mostafa Nili, told the Iranian news outlet Emtedad. The court also imposed a two-year travel ban and barred him from using social media for two years, Nili said. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+      "image": "https://i.guim.co.uk/img/media/eeda814a0e57b32cb66caf23aad99c1bc3a01f27/480_226_3047_2438/master/3047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaf18c07f2f1c8e5090cffb61c6db6f6",
+      "publishedAt": "2026-10-28T16:56:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMjQxNDcv",
+      "title": "ACE Eddie Awards Will Honor John Carpenter as Filmmaker of the Year",
+      "description": "Editors Bonnie Koehler, ACE, and Christopher Nelson, ACE, will receive career achievement honors.",
+      "url": "https://www.indiewire.com/awards/results/john-carpenter-golden-eddie-ace-1235224147/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/GettyImages-167944112.jpg?w=650",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3ItMTIzNTIyNDA2Ny8",
+      "title": "Watermelon Pictures to Offer Discounted Tickets, Free Streaming for Gaza Doc ‘American Doctor’ Before Election Day",
+      "description": "Exclusive: The Sundance documentary follows three physicians as they advocate for Palestinian colleagues and patients.",
+      "url": "https://www.indiewire.com/news/business/watermelon-pictures-sets-free-streaming-american-doctor-1235224067/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/AmericanDoctor_Still8_CourtesyOfWatermelonPictures.jpg?w=650",
+      "publishedAt": "2026-10-28T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-1zLTEyMzUyMjQwODcv",
+      "title": "Sundance Reveals First 2027 Legacy Films for Boulder Debut: ‘Y Tu Mamá También,’ ‘Memento,’ and More",
+      "description": "The festival will screen restorations of Sundance classics like \"Nitrate Kisses\" and \"Y Tu Mamá También\" at its first Boulder edition in January.",
+      "url": "https://www.indiewire.com/news/festivals/sundance-film-festival-2027-legacy-films-1235224087/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/ytu.jpg?w=650",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyNDA0OS8",
+      "title": "Roberto Rossellini Retrospectives Head to New York and L.A. for the Italian Neorealist Master’s 120th Birthday",
+      "description": "Film Forum in New York, the Italian Ministry of Culture, and Cinecittà will present Rossellini 120, a 25-film retrospective dedicated to Roberto Rossellini, opening November 20 at Film Forum.",
+      "url": "https://www.indiewire.com/news/general-news/roberto-rossellini-retrospectives-new-york-los-angeles-1235224049/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MBDVOTO_EC020.jpg?w=650",
+      "publishedAt": "2026-10-28T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjIzOTYyLw",
+      "title": "‘The Gilded Age’ Cast on Returning for Season 4 After a Ratings Surge: ‘It’s Go Big or Go Home’",
+      "description": "Carrie Coon, Cynthia Nixon, Morgan Spector, Julian Fellowes and more on the marital problems, blowout parties, and social scandals in store for the HBO hit.",
+      "url": "https://www.indiewire.com/features/interviews/gilded-age-cast-season-4-ratings-hit-1235223962/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108RKPH.jpg?w=650",
+      "publishedAt": "2026-10-28T13:31:20.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "guardian-ZXNzYS1yZWRncmF2ZQ",
       "title": "The Devils review – Ken Russell’s 1971 possessed-nuns tale is a frenzied aria of confrontation and hysteria",
@@ -172,54 +268,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XMtMTIzNTIyMzczNi8",
-      "title": "‘The Gilded Age’ Review: Season 4 Is Team Bertha’s Time to Shine",
-      "description": "In a season laced with career aspirations and complications (supplementary to the lace gowns and lavish meals, of course), Julian Fellowes and Sonja Warfield's effervescent period drama sees Carrie Coon's rising socialite ascend to another plane.",
-      "url": "https://www.indiewire.com/criticism/shows/the-gilded-age-season-4-review-carrie-coon-hbo-series-1235223736/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Gilded-Age-Season-4-Carrie-Coon-Jack-Gilpin-Taissa-Farmiga-Ashlie-Atkinson.jpg?w=650",
-      "publishedAt": "2026-10-27T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-JkLTEyMzUyMjM5MTkv",
-      "title": "‘I Play Rocky’ Wins Virginia Film Fest Audience Award as Peter Farrelly’s Stallone Drama Readies for Theaters",
-      "description": "Exclusive: The Anthony Ippolito breakout vehicle was TIFF's first runner-up and has since wowed festival and tastemaker crowds.",
-      "url": "https://www.indiewire.com/news/festivals/i-play-rocky-wins-virginia-film-festival-audience-award-1235223919/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDIPLA_MG002.jpg?w=650",
-      "publishedAt": "2026-10-27T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjIzODk1Lw",
-      "title": "Gotham Film Awards 2026 Nominations Spread the Love from ‘All of a Sudden’ to ‘The Invite’",
-      "description": "\"All of a Sudden,\" \"Clarissa,\" \"La Gradiva,\" \"The Invite,\" and \"Tender Loving Care\" lead overall nominations with four each. This year's selection also brings back the Audience Award.",
-      "url": "https://www.indiewire.com/awards/results/gotham-film-awards-2026-nominations-1235223895/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDINVI_EC182-1.jpg?w=650",
-      "publishedAt": "2026-10-27T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMjM4ODYv",
-      "title": "Luchino Visconti’s Tragic, Beautiful Final Film ‘L’Innocente’ Restored in 4K — Watch the Trailer",
-      "description": "The 1976 marital melodrama joins Visconti classics like \"White Nights\" and \"Conversation Piece\" in returning to theaters, restored.",
-      "url": "https://www.indiewire.com/news/trailers/luchino-visconti-linnocente-4k-restoration-trailer-1235223886/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/L_Innocente_NYFF64_06.avif?w=650",
-      "publishedAt": "2026-10-27T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "guardian-WV3LWZpbG0tYXJlbmE",
       "title": "‘How on earth is this man not sweating?’ Director Brett Morgen’s painstaking 10-year remaster Bowie’s ‘greatest filmed performance’",
       "description": "Moonage Daydream director Brett Morgan has turned lost footage of two 1978 concerts into an arena spectacular. ‘You can feel the danger and excitement’, he says • ‘Lost’ 1978 David Bowie tour film to play arenas in 2027, remastered by Moonage Daydream director Brett Morgen In 2017, when Brett Morgen began work on his acclaimed 2022 David Bowie documentary, Moonage Daydream , he was given complete access to the late star’s entire, cavernous archive. “My eyes were immediately drawn to a stack of gleaming 35mm cans with the word ‘Stage’ written on them,” he remembers. At first, the director – whose work also includes Kurt Cobain: Montage of Heck and the Rolling Stones documentary Crossfire Hurricane – assumed the cans might contain some sort of footage shot around Bowie’s 1978 live album, Stage, recorded in mostly in Philadelphia. However, he soon realised they actually contained the holy grail of Bowie artefacts: footage of the legendary Earl’s Court shows later that year, which had remained unseen for almost 50 years. “Making Moonage Daydream, I had access to every filmed performance in existence of David Bowie,” he says, “but when I saw this one I knew this was without question the greatest filmed performance of his career.” Continue reading...",
@@ -232,30 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-c3RvcGhlci1ub2xhbg",
-      "title": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
-      "description": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t Think back. Do you remember when Elon Musk, in a weird online tantrum, and without having seen the film, condemned the supposed wokery in Christopher Nolan’s The Odyssey, for getting Elliot Page to play Sinon and Lupita Nyong’o to play Helen of Troy? As the plaudits and the box-office receipts for Nolan’s Odyssey piled stratospherically up , Musk showed that being a good loser is not among his qualities. He petulantly exclaimed that he could do his own better and more authentic Odyssey on Grok AI . And now he has released the first online seven-minute “episode” to a world that has long since forgotten about this claim and didn’t care in the first place. In Musk’s version, as the tale begins Odysseus is – off screen – pretending to be mad to avoid fighting in the Trojan war. Grim-faced Palamedes and Agamemnon are shown testing this ruse by taking his baby boy Telemachus and placing him in the harm’s way of a plough in a field; Odysseus instantly rushes to save his child, showing that he isn’t mad, and agrees to fight. We see him join the armada, with Penelope and Telemachus (soon to grow to a little boy) left behind. This, effectively, is a prologue sequence that is not in Nolan. The expeditionary force arrives at Troy, and an intertitle tells us we have cut to a 10-years-later flashforward; the siege is about to escalate into the fake-horse attack. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
-      "image": "https://i.guim.co.uk/img/media/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/master/1550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=2d661d233a58b4257142862bda0fd231",
-      "publishedAt": "2026-10-27T13:01:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIyMzA5NC8",
-      "title": "How Two Rival Columnists Created Hollywood’s Gossip Machine — and Taught America to Worship Attention",
-      "description": "In this excerpt from her new book \"Hollywood Whispers: The Untold Story of the Original Gossip Queens, Louella Parsons and Hedda Hopper,\" author Eileen Cope charts the origins of a legendary show business rivalry.",
-      "url": "https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2023/02/Sunset-Boulevard.jpg?w=650",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XctcHJpbWEtZmFjaWU",
       "title": "‘If a person isn’t conscious, they’re not saying yes’: Cynthia Erivo on her searing new film about sexual assault",
       "description": "In Prima Facie, she plays a rising-star barrister, well versed in defending men accused of sexual violence. Then she is raped by a colleague, and her world implodes. Erivo talks about the potential impact of the film – and how she is navigating her stratospheric success Cynthia Erivo is contemplating her favourite crisps, the ridged American brand Ruffles, as we sit talking in a quiet corner of a west London restaurant. Dressed all in black and sporting her signature elongated nails, she is known for her healthy lifestyle, but everyone, it seems, has their vices. “Ruffles are just perfect,” she says. “When you get a good batch, and the salt-to-potato ratio is perfect … it’s amazing.” Erivo has just touched down after singing in Phoenix, Arizona, the night before, and has been running me through the health routine that helps her maintain her frantic schedule. Before her concert, there was the Dior front row at Paris fashion week, and she has just been announced as a guest host on SNL UK. Erivo doesn’t drink alcohol (today she orders some peppermint tea); she’s vegan; she doesn’t eat airline food, only her own prepacked meals. She even has an infra-red sauna “to help me heal from the inside”. Earlier this year she ran the London Marathon before jumping on stage to perform Dracula, where she played all 23 parts; she had rehearsed her lines while going on gruelling marathon training runs. All that requires discipline – and snacks – to keep the show on the road. Continue reading...",
@@ -265,18 +289,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Yy0xMjM1MjIzODY3Lw",
-      "title": "Watch ‘My Undesirable Friends’ Director Julia Loktev Recall the Week Russia Invaded Ukraine",
-      "description": "At IndieWire's Art of the Doc event, Loktev explained why her film about the lives of Russian journalists had to take a different turn.",
-      "url": "https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2597.jpg?w=650",
-      "publishedAt": "2026-10-27T00:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -298,18 +310,6 @@
       "url": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
       "image": "https://i.guim.co.uk/img/media/f5599ab33d9069f18e4c758184c7041963277884/600_280_1321_1057/master/1321.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e23416de72ec0074af9cdd613cbfde0d",
       "publishedAt": "2026-10-25T16:13:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-3Rvci1pbnRlcnZpZXc",
-      "title": "‘Fighting an impossible fight is the only way to reclaim dignity’: Lee Chang-dong on class warfare and his searing Oscar contender",
-      "description": "The auteur’s new film – a study of labour, capital and the fallout of redundancy – won the grand jury prize at Venice. Telling tales of the disenfranchised is ‘our moral responsibility’, he says A quintessential 21st-century horror story: a&nbsp;private equity firm has set its sights on your company. That’s the premise behind director Lee Chang-dong’s new film, Possible Love, and the idea for it first came more than a decade ago, when mass layoffs resulted in a standoff that “fundamentally changed the Korean labour movement”. In 2009, workers at Ssangyong Motors company protested against plans to lay off between 37 and 43% of&nbsp;the workforce, staging a historic 77-day strike and occupation of the factory that was eventually broken up by riot police. “Until that point in time in Korea, labourers’ rights were widely accepted,” Lee says, speaking through an interpreter in a central London hotel; “however, afterwards, the basic rights of labourers changed; to the public, they couldn’t be seen as more important than market profitability or&nbsp;corporate competitiveness.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/lee-chang-dong-possible-love-director-interview",
-      "image": "https://i.guim.co.uk/img/media/3cf973d2d86c0befe097325ad05138a88e4f6048/0_20_6189_4950/master/6189.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6812a795fc799c4c42125e978e5a86aa",
-      "publishedAt": "2026-10-23T12:00:25.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
