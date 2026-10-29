@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:35:09.106Z",
+  "generatedAt": "2026-10-29T18:31:38.055Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -16,9 +16,129 @@
   },
   "articles": [
     {
+      "id": "indiewire-2gtMTIzNTIyNDYxOS8",
+      "title": "Curry Barker Drops Surprise New Short Film ‘Mama Bear’ — Watch",
+      "description": "The five-minute film, which Barker wrote, directed, and edited, was released on his That's a Bad Idea YouTube channel.",
+      "url": "https://www.indiewire.com/news/general-news/curry-barker-directs-new-short-film-mama-bear-watch-1235224619/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-10.42.32-AM.png?w=650",
+      "publishedAt": "2026-10-29T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JzLTEyMzUyMjQ1Mjkv",
+      "title": "The Netflix Original Movie Experiment Has Failed — and Netflix Will Be All the Better for It",
+      "description": "Netflix spent the last 10 years trying to render movie theaters obsolete. Now the company is giving up just in time to avoid becoming obsolete itself.",
+      "url": "https://www.indiewire.com/features/commentary/netflix-lost-the-war-on-movie-theaters-1235224529/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-12.56.39.png?w=650",
+      "publishedAt": "2026-10-29T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyNDA3OC8",
+      "title": "‘Nocturne’ Review: Stephen Graham and Bill Camp Brighten Up Apple’s Staid Crime Thriller for Sad Dads",
+      "description": "A handsome production and solid cast can't quite make \"Nocturne\" more than the sum of its very familiar parts: a serial killer who keeps killing from behind bars, a retired cop who can't stay away, a town on the brink, families in peril, revenge, secrets, DelCo accents — you know the drill.",
+      "url": "https://www.indiewire.com/criticism/shows/nocturne-review-stephen-graham-bill-camp-apple-series-1235224078/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Nocturne-Apple-TV-series-Liev-Schreiber-Poorna-Jagannathan.jpg?w=650",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMjQ1NzIv",
+      "title": "‘Wicker’ Is Even Better — and Hornier — in 4DX",
+      "description": "Last night, audiences got to experience an event that intensified the pleasures of the year's most surprisingly romantic film in extremely visceral ways.",
+      "url": "https://www.indiewire.com/features/commentary/wicker-4dx-better-hornier-sexier-1235224572/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/W_R_00006.jpg?w=650",
+      "publishedAt": "2026-10-29T16:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZXJlLW5vbmUtZGllcw",
+      "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
+      "description": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul Newman Elke Sommer, the prolific German star of the Pink Panther film A Shot in the Dark, early 70s Agatha Christie adaptation And Then there Were None, and British sex comedy Carry on Behind, has died aged 85. Bild magazine reported that Sommer died in Los Angeles of heart failure. German-born Sommer, whose best-known film roles were in the 1960s and 70s, was one of the wave of European performers who crossed over to Hollywood and English-language cinema with considerable success, following the postwar emergence of European new wave cinema. Sommer was one of the few German actors to make waves at the time, as Hollywood made much of her bombshell image. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+      "image": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0494b084e18c10f307cbd17136f270dd",
+      "publishedAt": "2026-10-29T16:36:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI0NTQ1Lw",
+      "title": "Rare Stanley Kubrick Interview Headed to TCM’s ‘Plot Thickens’ Podcast as Bonus Episode",
+      "description": "Exclusive: Host Ben Mankiewicz will share the 1972 \"A Clockwork Orange\"-era interview with Newsday film critic Joseph Gelmis on January 7, 2027.",
+      "url": "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDFOOR_EC009.jpg?w=650",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Z3LTEyMzUyMjQ1NjEv",
+      "title": "AMC Releases ‘Dune 3’ Two-Headed Sandworm Popcorn Bucket That Manages to Look Even More NSFW",
+      "description": "The theater chain also unveiled a Sandworm Thumper design with a working thumper. Cue the memes.",
+      "url": "https://www.indiewire.com/news/business/amc-theatres-dune-3-two-headed-sandworm-popcorn-bucket-nsfw-1235224561/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-12.39.59-PM.png?w=650",
+      "publishedAt": "2026-10-29T15:27:43.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyNDU0MC8",
+      "title": "‘Everytime’ Trailer: The Mind-Bending Grief Portrait That’s Left Audiences Spellbound Since Cannes",
+      "description": "Exclusive: After an Oscar-qualifying November release, Sandra Wollner's Cannes winner, set across a consciousness-opening family holiday, will open theatrically on February 12, 2027. Watch the teaser trailer.",
+      "url": "https://www.indiewire.com/news/trailers/everytime-trailer-sandra-wollner-cannes-winner-1235224540/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Everytime_MainStillTheBarricadesPanamaFilm_GregoryOke.jpg?w=650",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "guardian-WZmZWN0cy1yYW5rZWQ",
+      "title": "Exploding heads, mutant aliens and bursting chests: horror’s greatest special effects – ranked!",
+      "description": "From the beheading in The Omen to the attic scene in The Birds, here’s a countdown of the genre’s most iconic moments – in glorious, old-school pre-CGI style Towards the end of the 20th century, when film-makers’ overreliance on CGI was increasingly making special effects less special, it took the old-school practical approach of Japanese film-maker Hideo Nakata to make one’s hair stand on end. Just when you think the cursed VHS tape has claimed its last victim, Sadako’s vengeful ghost emerges from the well, comes closer … and climbs out of the television screen. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/29/exploding-heads-mutant-aliens-and-bursting-chests-horrors-greatest-special-effects-ranked",
+      "image": "https://i.guim.co.uk/img/media/74a0cd981829a622de6e4a6a5964bf6280aa7aa2/0_3_2496_1996/master/2496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2f43d3c21a5cb1b58157d505ea1d770",
+      "publishedAt": "2026-10-29T13:00:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-jQtMTIzNTIyNDMxNS8",
+      "title": "Reality Check: Why ‘You Can See Everything’ Faces a Long Road to the Oscars",
+      "description": "Before we crown the A24 hit a contender, let's do the numbers.",
+      "url": "https://www.indiewire.com/awards/consider-this/you-can-see-everything-isnt-an-oscars-contender-analysis-a24-1235224315/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2297971761.jpg?w=650",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-ZWQta2VyYXppbmVzcw",
       "title": "I Love Boosters review – supercool outlaw women go shoplifting in Boots Riley’s frantic and funny caper",
-      "description": "Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire Here is an entertaining, if very exhausting fantasy-caper about the fashion biz from Boots Riley, a madcap mile-a-minute melee of unadulterated ker-aziness. You might need a couple of ibuprofen and a lie-down afterwards. Demi Moore perhaps thought she was here getting a gamey starring role, comparable to her Oscar-nominated turn in the beauty-industry satire The Substance . In fact, the way the film is structured and edited, Moore is hardly more than a returning cameo, though a potent one. She plays Christie Smith, a billionaire couture designer who has an office in a trendily designed city block which leans over at an experimental angle. Christie is the object of obsessive attention from “boosters”: supercool young outlaw women who, nettled by her arrogance, shoplift her clothes from upscale stores and sell them on at knockdown Robin Hood prices. They are Corvette (Keke Palmer), Sade (Naomi Ackie) and Mariah (Taylour Paige), the latter having the superpower of, by holding her breath, turning herself into a white woman who is less likely to be challenged in a store; an interesting metaphor for what Frantz Fanon might have called black skin, white masks. Continue reading...",
+      "description": "Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire Here is an entertaining, if very exhausting fantasy-caper about the fashion biz from Boots Riley, a madcap mile-a-minute melee of unadulterated ker-aziness. You might need a couple of ibuprofen and a lie-down afterwards. Demi Moore perhaps thought she was here getting a gamey starring role, comparable to her Oscar-nominated turn in the beauty-industry satire The Substance . In fact, the way the film is structured and edited, Moore is hardly more than a returning cameo, though a potent one. She plays Christie Smith, a billionaire couture designer who has an office in a trendily designed city block which leans over at an experimental angle. Christie is the object of obsessive attention from “boosters”: supercool young outlaw women who, nettled by her arrogance, shoplift her clothes from upscale stores and sell them on at knockdown Robin Hood prices. They are Corvette (Keke Palmer), Sade (Naomi Ackie) and Mariah (Taylour Paige), the latter having the ability to, by holding her breath, turning herself into a white woman who is less likely to be challenged in a store; an interesting metaphor for what Frantz Fanon might have called black skin, white masks. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/29/i-love-boosters-review-boots-riley-shoplifting-satire-is-a-mile-a-minute-melee-of-unadulterated-keraziness",
       "image": "https://i.guim.co.uk/img/media/68f075915ca88393c3952d93cc4f40407920a439/916_0_2257_1806/master/2257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c3158c817304424c460f776710ec3144",
       "publishedAt": "2026-10-29T09:00:27.000Z",
@@ -100,6 +220,18 @@
       "category": "Movies"
     },
     {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
+      "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/72d2/live/2e044570-d2ed-11f1-8d86-83eebc838351.jpg",
+      "publishedAt": "2026-10-28T21:09:34.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-2UtMTIzNTIyNDE4OS8",
       "title": "A Flop at the Chinese Box Office Shows AI Still Has a Tough Road Ahead in Theaters",
       "description": "\"Sanxingdui: Future Past,\" a fully AI-generated feature, made just $181K in its opening weekend in Chinese theaters against a budget of $1.5 million.",
@@ -148,18 +280,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-nMtMTIzNTIyNDEyNi8",
-      "title": "Slamdance Names Screenplay Competition Winners for 2026 — Read the Full List",
-      "description": "James Oxyer’s thriller “Termite” won the $10,000 grand prize, while Wes Andre Goodrich’s “Citizens” took first place in the feature category.",
-      "url": "https://www.indiewire.com/awards/results/slamdance-2026-screenplay-competition-winners-1235224126/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/DSC_8200.jpg?w=650",
-      "publishedAt": "2026-10-28T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-WFzc2V0cy1zZWl6ZWQ",
       "title": "Iranian film-maker Jafar Panahi given new prison sentence",
       "description": "Charges against him are unclear after return to Iran despite being sentenced last year for ‘propaganda activities’ An Iranian court has handed the award-winning film director Jafar Panahi a new prison sentence of five years and one month and ordered the seizure of all his assets. The 66-year-old, who won the Palme d’Or at Cannes last year for It Was Just an Accident , was sentenced in absentia, his lawyer, Mostafa Nili, told the Iranian news outlet Emtedad. The court also imposed a two-year travel ban and barred him from using social media for two years, Nili said. Continue reading...",
@@ -172,90 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-NlLTEyMzUyMjQxNDcv",
-      "title": "ACE Eddie Awards Will Honor John Carpenter as Filmmaker of the Year",
-      "description": "Editors Bonnie Koehler, ACE, and Christopher Nelson, ACE, will receive career achievement honors.",
-      "url": "https://www.indiewire.com/awards/results/john-carpenter-golden-eddie-ace-1235224147/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/GettyImages-167944112.jpg?w=650",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3ItMTIzNTIyNDA2Ny8",
-      "title": "Watermelon Pictures to Offer Discounted Tickets, Free Streaming for Gaza Doc ‘American Doctor’ Before Election Day",
-      "description": "Exclusive: The Sundance documentary follows three physicians as they advocate for Palestinian colleagues and patients.",
-      "url": "https://www.indiewire.com/news/business/watermelon-pictures-sets-free-streaming-american-doctor-1235224067/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/AmericanDoctor_Still8_CourtesyOfWatermelonPictures.jpg?w=650",
-      "publishedAt": "2026-10-28T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-1zLTEyMzUyMjQwODcv",
-      "title": "Sundance Reveals First 2027 Legacy Films for Boulder Debut: ‘Y Tu Mamá También,’ ‘Memento,’ and More",
-      "description": "The festival will screen restorations of Sundance classics like \"Nitrate Kisses\" and \"Y Tu Mamá También\" at its first Boulder edition in January.",
-      "url": "https://www.indiewire.com/news/festivals/sundance-film-festival-2027-legacy-films-1235224087/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/ytu.jpg?w=650",
-      "publishedAt": "2026-10-28T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyNDA0OS8",
-      "title": "Roberto Rossellini Retrospectives Head to New York and L.A. for the Italian Neorealist Master’s 120th Birthday",
-      "description": "Film Forum in New York, the Italian Ministry of Culture, and Cinecittà will present Rossellini 120, a 25-film retrospective dedicated to Roberto Rossellini, opening November 20 at Film Forum.",
-      "url": "https://www.indiewire.com/news/general-news/roberto-rossellini-retrospectives-new-york-los-angeles-1235224049/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MBDVOTO_EC020.jpg?w=650",
-      "publishedAt": "2026-10-28T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjIzOTYyLw",
-      "title": "‘The Gilded Age’ Cast on Returning for Season 4 After a Ratings Surge: ‘It’s Go Big or Go Home’",
-      "description": "Carrie Coon, Cynthia Nixon, Morgan Spector, Julian Fellowes and more on the marital problems, blowout parties, and social scandals in store for the HBO hit.",
-      "url": "https://www.indiewire.com/features/interviews/gilded-age-cast-season-4-ratings-hit-1235223962/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108RKPH.jpg?w=650",
-      "publishedAt": "2026-10-28T13:31:20.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-ZXNzYS1yZWRncmF2ZQ",
-      "title": "The Devils review – Ken Russell’s 1971 possessed-nuns tale is a frenzied aria of confrontation and hysteria",
-      "description": "Oliver Reed and Vanessa Redgrave put in the performances of their lives in this film originally banned for obscenity that highlights the violence of power ‘I could never be Satan’s boy. I haven’t the humility.” The speaker is Father Urbain Grandier, the 17th-century French priest accused of witchcraft, stylishly played by Oliver Reed, in Ken Russell’s scabrous 1971 classic; it is now restored and rereleased in its complete form after years of censorship. It comes from an era when movies, playing in high-street cinemas, still had the power to shock, to position that shock in the polite cultural mainstream and to compel serious discussion about whether that shock – or, conversely, a ban – was justified. The Devils is based on a true story of politically directed mass hysteria, adapted by Russell from two literary works: Aldous Huxley’s The Devils of Loudun and John Whiting’s stage play The Devils . Of course it is obscene; obscenity is the glowing sulphurous paint which Russell is applying to the canvas. It is about obscenity – but the obscenity does not reside in the sexualised images of the crucified Christ or naked nuns disporting themselves; it is the violence of authority that is shown to be obscene. The idea of martyrs or heretics being burned at the stake has long been an accepted fact recounted in U-certificate history lessons, and a punishment which survived well into the European enlightenment. Russell shows you what it might actually look like and that is to involve a confrontational assault on good taste. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/28/the-devils-review-ken-russell-oliver-reed-vanessa-redgrave",
-      "image": "https://i.guim.co.uk/img/media/075f292ff0a60aef3f54026534ce2c6f3ac7a5fe/1121_134_2209_1769/master/2209.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=72d55d0ea1cfa06d472e6deafcc9cdbe",
-      "publishedAt": "2026-10-28T11:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-eWRhbmNlLW1lcmdlcg",
-      "title": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
-      "description": "Since 1994, Turner Classic Movies has been a haven for old film lovers. Now with Skydance’s David Ellison calling the shots, fans are panicking over its unclear future I have made many attempts to lessen the existential disaster we call Tuesday – tacos, trivia – but lately only one thing works. Every night just before 8pm, I hide my phone under a pillow in the next room, plate up a carb-heavy dinner, and turn on Turner Classic Movies (TCM) for Sweater Weather, a series of films dedicated to the transitional season. Every Tuesday in October, Alicia Malone, an affable Australian film historian wearing business casual and a flippy bob, introduces a double feature. These are often midcentury melodramas featuring striking leads, serpentine plots, and the burnt hues of fall rendered in indulgent Technicolor. Like All That Heaven Allows (1955), about a widow who finds herself crushed under the weight of 1950s suburban conformity – and the teeny waistline of her swing skirts – while nursing a crush on her much-younger gardener. Or Leave Her to Heaven (1945), about a beautiful socialite so obsessed with her hapless husband that she will kill anyone who threatens their bond. Continue reading...",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger",
-      "image": "https://i.guim.co.uk/img/media/4ee095f7bae6f38b04b00f68159333b5f6396e43/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b16c2ef72c28ac510cb07e8e5e43e44",
-      "publishedAt": "2026-10-28T11:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-ei1nbGVubi1jbG9zZQ",
       "title": "‘It’s the gay Titanic!’ Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory",
       "description": "Oozing panache and bagging awards already, La Bola Negra is an eye-popping war and prejudice epic starring Penélope Cruz in a blond wig and Glenn Close speaking Spanish. We meet the ex-lovers who dreamed it up When Javier Ambrossi and Javier Calvo – the directing duo known in their native Spain as “Los Javis” – began writing their queer epic La Bola Negra, they weren’t thinking about whether it would be stylish (which it is) or win numerous awards (which it has) or capture what they refer to as “the anti-fascist zeitgeist” (which it does). Instead, they thought only of scale. “I’m done with LGBTQ+ movies being niche,” says Ambrossi. “I was like, ‘Let’s make the biggest, gayest war movie ever .’” Job done. At Cannes this year, the best director prize was awarded jointly to them and to Paweł Pawlikowski, who made the Thomas Mann road trip film Fatherland . La Bola Negra is now an Oscars frontrunner, with best picture and best director nominations all but guaranteed. Brimming with panache, the movie darts back and forth between three stories set in Spain: in 1932, a young man applying for membership of an exclusive casino is rejected on the grounds of his suspected homosexuality; in 1937, a callow nationalist soldier develops tender feelings for the injured republican prisoner under his watch; and in 2017, a queer historian inherits an unfinished story by Federico García Lorca. That story lends the movie its title and provides the thread that sews its strands together. Continue reading...",
@@ -265,30 +301,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9jLTEyMzUyMjM5MzIv",
-      "title": "Watch ‘Everybody to Kenmure Street’ Director Felipe Bustos Sierra Break Down the Decades of Activism That Led to One Spontaneous Protest",
-      "description": "At IndieWire's Art of the Doc event, Sierra explained why his film had to introduce Glasgow's long history of social justice protests in order to contextualize its events.",
-      "url": "https://www.indiewire.com/news/events/everybody-to-kenmure-street-indiewire-art-of-the-doc-1235223932/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2289.jpg?w=650",
-      "publishedAt": "2026-10-27T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VsLTEyMzUyMjM5NTIv",
-      "title": "Watch Emmy Rossum and Hulu’s ‘Furious’ Team Explain How They Found Humanity in a Broken System",
-      "description": "The star and executive producer of Hulu's hit crime show joined Quincy Tyler Bernstine, Steve Way, and composer Ariel Marx at Vidiots on October 16 for a screening and Q&#38;A with IndieWire.",
-      "url": "https://www.indiewire.com/news/events/emmy-rossum-furious-cast-indiewire-panel-1235223952/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A0891.jpg?w=650",
-      "publishedAt": "2026-10-27T21:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
