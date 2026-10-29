@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:49:46.343Z",
+  "generatedAt": "2026-10-29T06:38:03.744Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-GhvbnktaXBwb2xpdGE",
+      "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
+      "description": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty years ago this December, cinema’s greatest underdog story hit the screen, a tale about a Philadelphia ham-and-egger who takes the world heavyweight boxing champ all the way to the final bell, losing the fight on a judge’s decision but winning the hearts of a nation. That film, of course, was Rocky. Its creation, famously, was no less remarkable an underdog story – one about an out-of-work character actor with the curious name of Sylvester Stallone who wrote his own boxing movie then managed to convince a studio not only to finance it, but also to cast him in the title role. He then went one further than the character he was playing by earning the top prize: a best picture Oscar. If you thought, half a century on, Rocky’s punching power – its unerring ability to make heroes out of zeroes – has faded, think again. This, after all, is a movie franchise whose stirring qualities are enough to make thousands of people hurtle up all 72 of the Philadelphia Museum of Art’s steps every year in homage to its plucky pugilist . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
+      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6110bb3df37baee704f2cfe7b25bcb47",
+      "publishedAt": "2026-10-29T05:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-luLTEyMzUyMjQzNjcv",
       "title": "Barbara Barrie, Oscar-Nominated ‘Breaking Away’ and ‘Private Benjamin’ Star, Dies at 95",
@@ -230,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-y1mb3ItYWxleC1jb3g",
-      "title": "Post your questions for Alex Cox",
-      "description": "As the cult director of Repo Man and Sid and Nancy prepares to release his final film, Dead Souls, he takes your questions Everybody has their swansong, whether they know it or not. But for Alex Cox, his latest film Dead Souls – a darkly comic western loosely based on Nikolai Gogol’s 1842 novel – is billed as his final film. If it really is his last film, the fiercely independent British film-maker can look back on a helluva run. He broke through with 1984 punk classic Repo Man, then went on to direct Gary Oldman as Sid Vicious in Sid and Nancy. He made the political “western” Walker in 1987, starring Ed Harris – then from 1988 to 1994 introduced viewers to cult and overlooked films as the original presenter of BBC Two’s Moviedrome, essentially doing film nerd YouTube decades before YouTube existed. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/28/post-your-questions-for-alex-cox",
-      "image": "https://i.guim.co.uk/img/media/9c7ec3ce96c482041b3c52c4d5629eb10fe4b068/60_362_2697_2159/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2d08614abd0546df1b9c95607597954",
-      "publishedAt": "2026-10-28T06:00:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-ei1nbGVubi1jbG9zZQ",
