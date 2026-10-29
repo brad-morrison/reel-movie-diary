@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:31:34.293Z",
+  "generatedAt": "2026-10-29T00:49:46.343Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 1
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -16,9 +16,69 @@
   },
   "articles": [
     {
+      "id": "indiewire-luLTEyMzUyMjQzNjcv",
+      "title": "Barbara Barrie, Oscar-Nominated ‘Breaking Away’ and ‘Private Benjamin’ Star, Dies at 95",
+      "description": "The character actress death was \"medically assisted\" following a terminal cancer diagnosis.",
+      "url": "https://www.indiewire.com/news/obituary/barbara-barrie-dead-breaking-away-private-benjamin-1235224367/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Barbara-Barrie-Obituary.jpg?w=650",
+      "publishedAt": "2026-10-28T21:47:19.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c143/live/4223ae30-d313-11f1-808a-1f9b061d2360.jpg",
+      "publishedAt": "2026-10-28T21:16:30.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIyNDE4OS8",
+      "title": "A Flop at the Chinese Box Office Shows AI Still Has a Tough Road Ahead in Theaters",
+      "description": "\"Sanxingdui: Future Past,\" a fully AI-generated feature, made just $181K in its opening weekend in Chinese theaters against a budget of $1.5 million.",
+      "url": "https://www.indiewire.com/news/box-office/ai-generated-feature-film-flops-chinese-box-office-1235224189/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/china-fully-ai-movie-box-office-convert.io_.jpg?w=650",
+      "publishedAt": "2026-10-28T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-l0LTEyMzUyMjM5NTkv",
+      "title": "Hoorae’s Microdramas Found 580 Million Views. Can TikTok Get Hollywood Working Again? — Watch",
+      "description": "At IndieWire’s Future of Filmmaking Summit, Issa Rae’s team made a practical case for vertical storytelling — and getting filmmakers back on set, even as the economics come into focus.",
+      "url": "https://www.indiewire.com/news/events/watch-hoorae-media-microdramas-future-of-filmmaking-summit-1235223959/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1552_febcc6.jpg?w=650",
+      "publishedAt": "2026-10-28T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-3ItMTIzNTIyMzk3NS8",
+      "title": "What Do You Get When the ‘Texas Chainsaw’ Director Takes on the Marquis de Sade? The Kinky Pleasures of ‘Night Terrors’",
+      "description": "Tobe Hooper's forgotten, maligned blend of horror and soft-core erotica arrives on Blu-ray in all its nude horseback riding, snake charming, eyeball-gouging glory, just in time for Halloween.",
+      "url": "https://www.indiewire.com/features/commentary/tobe-hooper-night-terrors-softcore-porn-horror-1235223975/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/NightTerrors_nfgj_1.1.22_8a7d4a15-faf8-480b-bc61-0cc8abd844a1.jpg.webp?w=650",
+      "publishedAt": "2026-10-28T18:36:10.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-LWRpZXMtYWdlZC04OA",
       "title": "Peter Medak, veteran director of The Krays and The Changeling, dies aged 88",
-      "description": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking Bad Peter Medak, the British-Hungarian director of The Changeling, The Krays and Let Him Have It, has died aged 88. According to the Hollywood Reporter, Medak’s family announced he died in Los Angeles on Tuesday. Medak enjoyed a long and varied career across film and TV, which included spirit-of-the-times classics A Day in the Death of Joe Egg and The Ruling Class (both from 1972), cult horror The Changeling with George C Scott, and The Krays and Let Him Have It, period true crime films made in the early 1990s. He also directed numerous episodes of high-profile TV drama, including the 80s revival of The Twilight Zone, Homicide: Life on the Street, and Hannibal. Continue reading...",
+      "description": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking Bad Peter Medak, the British-Hungarian director of The Changeling, The Krays and Let Him Have It, has died aged 88. Medak’s family announced he died peacefully in Los Angeles on Tuesday. Medak enjoyed a long and varied career across film and TV, which included spirit-of-the-times classics A Day in the Death of Joe Egg and The Ruling Class (both from 1972), cult horror The Changeling with George C Scott, and The Krays and Let Him Have It, period true crime films made in the early 1990s. He also directed numerous episodes of high-profile TV drama, including the 80s revival of The Twilight Zone, Homicide: Life on the Street, and Hannibal. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
       "image": "https://i.guim.co.uk/img/media/64e02666420906b5465098b638072cbf8f8b0764/0_6_2712_2169/master/2712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2df0f180e8cedce2223f045c60252df0",
       "publishedAt": "2026-10-28T17:43:26.000Z",
@@ -137,7 +197,7 @@
     },
     {
       "id": "guardian-GlsYXJlZS1uZWxzb24",
-      "title": "Everest: The Other Side review – couple’s climb on the mountain’s toughest face comes with tricky moral questions over their lofty ambitions",
+      "title": "Everest: The Other Side review – couple’s climb on the mountain’s toughest face comes with tricky moral questions",
       "description": "Immersive portrait of mountaineers Jim Morrison and Hilaree Nelson as they seek to become the first people to ski down Everest’s north face With some of its showings in the huge Imax format, this National Geographic-backed documentary feels like a callback to the early, glory days of large-format cinema when it was all about spectacle and scale, turning footage of natural-world wonders into an immersive experience. Those with a fear of heights or prone to vertigo may find this all a bit too immersive, in fact. That’s even more the case considering the point of the movie appears to be to provoke anxiety in the viewer for nearly the entire running time as we watch the subjects scale the steeper, far less travelled north face of Mount Everest and then, for reasons never quite adequately explained, ski back down it again. Such was the mission of experienced mountaineer Jim Morrison , an amiable-seeming fellow who, like all of those who pursue extreme sports, seems to feel a compulsion to put himself in the kind of grave danger that, should things go wrong, would put other people in danger rescuing him. His partner Hilaree Nelson shares his passion, and the two of them set off to be the first people to ski down Everest’s north face, and the first third of the film tracks them as they plan and eventually do practice runs to achieve this goal. Neither seems able to adequately explain why they’ve chosen to take such a risk, although Nelson tries a bit to articulate her mountaineering life almost as if it’s a career choice that her two teenage sons should simply accept as her choice to make, and maybe even thank her for – even if that means that should she be injured or lost they and Morrison (who is not the boys’ biological father) would also have to deal with the aftermath. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson",
       "image": "https://i.guim.co.uk/img/media/9156ec9a14a257330f047e3feba0a4b9a5cb3cf4/199_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c99c1c1de5dc61b631d7955a363b5a30",
@@ -218,54 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-FuLTEyMzUyMjQwMzIv",
-      "title": "Jafar Panahi Faces Five-Year Prison Sentence in Iran After Releasing ‘It Was Just an Accident’",
-      "description": "The Oscar-nominated filmmaker and Palme d'Or winner has also been banned from travel and social media activity for two years.",
-      "url": "https://www.indiewire.com/news/general-news/jafar-panahi-sentenced-prison-iran-1235224032/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2266387749-e1793131029947.jpg?w=650",
-      "publishedAt": "2026-10-27T21:03:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-J5LTEyMzUxODUwNDAv",
-      "title": "‘Manhood’ Review: Penis Enlargement Documentary Curves Left of Center",
-      "description": "Daniel Lombroso's certainly bizarre but sensitive portrait follows a PhalloFill entrepreneur (it's what it sounds like) and two of his clients as they walk us through a cosmetic phenomenon whose main clientele are insecure men.",
-      "url": "https://www.indiewire.com/criticism/movies/manhood-review-penis-enlargement-documentary-1235185040/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/Manhood.png?w=650",
-      "publishedAt": "2026-10-27T20:27:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjIzODY1Lw",
-      "title": "Will ‘You Can See Everything’ Catch ‘Fahrenheit 9/11’ to Be the Highest-Grossing Documentary Ever?",
-      "description": "Nathan Fielder's doc is a cultural sensation, but it's unlikely to match the fervor around Michael Moore's seminal George W. Bush screed.",
-      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-catch-fahrenheit-9-11-box-office-1235223865/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDYOCA_EC124.jpg?w=650",
-      "publishedAt": "2026-10-27T19:42:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-l4LTEyMzUyMjM5NTAv",
-      "title": "‘The Mosquito Bowl’ Review: ‘Friday Night Lights’ Meets ‘Five Came Back’ in Peter Berg’s Formulaic Netflix Movie About a World War II Football Game",
-      "description": "Ray Nicholson and Bill Skarsgård star in an unexceptional sports drama that falls well short of a first down.",
-      "url": "https://www.indiewire.com/criticism/movies/the-mosquito-bowl-movie-review-netflix-1235223950/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MB_20251002_26576_R.webp?w=650",
-      "publishedAt": "2026-10-27T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-WV3LWZpbG0tYXJlbmE",
