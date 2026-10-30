@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T06:38:17.999Z",
+  "generatedAt": "2026-10-30T12:35:15.710Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,11 +16,59 @@
   },
   "articles": [
     {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/baa8/live/5fe73760-d440-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-30T12:01:36.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Y2stY29taWMtcGFpbg",
+      "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
+      "description": "Kentridge’s cine-musical creation, made to accompany Shostakovich’s 10th Symphony, is a marvel of puppetry, dance and humour, exploring humanity, grief and idealism The Baku international arts festival in Azerbaijan is showcasing an amazing cine-musical creation, perhaps the most amazing animation I have ever seen. Oh to Believe in Another World is an hour-long collage animation with live-action choreography by the 71-year-old South African artist and film-maker William Kentridge . It is shown with the live orchestral accompaniment of Shostakovich’s 10th Symphony, and this event is partly in honour of the 120th anniversary of Shostakovich’s birth this year, and partly to honour Shostakovich’s reportedly unrequited love (and lifelong friendship) for his student, Azerbaijani pianist and composer Elmira Nazirova. The 10th symphony was inspired by Stalin and premiered shortly after his death, so it seems probable that Shostakovich had been at work on it for some time before this, long enough beforehand for at least some of the composition to have been conceived without any sense of Stalin’s death. Could part of it perhaps have been originally intended as an obediently dramatic tribute to Stalin? Yet the music arguably combines fear, awe, revulsion, and a hysterical reaction to the mad energy of Stalin’s genocidal tyranny, a darkly ambiguous respect for the great dictator whose victory in 1945 was a mainstay of the postwar dispensation; perhaps there is also a feeling in the music’s swirl that a great and terrible era has passed away, and with it a kind of grief at all that had been sacrificed to it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
+      "image": "https://i.guim.co.uk/img/media/767e80dd289faea26ca4fe0ee96b3c5c9829a068/753_19_2828_2263/master/2828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=50ca5b3ae99339226003f39de2a568a8",
+      "publishedAt": "2026-10-30T09:29:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WhvcnJvci1tb3ZpZXM",
+      "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
+      "description": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre Dame Minor spoilers ahead Hiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, is a disaffected male rage. That’s perhaps the most commonplace horror of our times, whether on the internet or politics, and you feel the tremors of it steadily breaking the surface in Yoo Ah-in’s performance. He plays Jong-su, an aspiring writer, quietly frustrated with his lot in life. Jong-su works odd jobs and tends to his incarcerated father’s dilapidated farm, growing more desperate to grasp some sense of control over the world around him, which is where the scary part comes in. Chang-dong is the master dramatist who with Burning tilts violently into thriller territory, navigating elements from Taxi Driver, The Vanishing and Michael Haneke’s Caché, using the language of horror movies to conjure up a creeping anxiety and dread that erupts into pure existential fear. Radheyan Simonpillai Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
+      "image": "https://i.guim.co.uk/img/media/1790e09bea721dd17b1415a3fc87c9bf0891235e/630_0_2974_2381/master/2974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99b119df920e1fc8ffd23cb95c26eca0",
+      "publishedAt": "2026-10-30T09:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-LW1vdmllLXdpY2tlcg",
+      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
+      "description": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own marriage? Another year, another raunchy comedy-drama in which Alexander Skarsgård is the answer to a social outcast’s erotic dreams. “I fucking loved Pillion so much!” says Olivia Colman, reliably sweary straight out of the gate, as she brings up last year’s British indie hit starring Skarsgård as a leather-clad dom with a timid traffic warden as his submissive. “And when they kissed at the end … Aww .” The 52-year-old Oscar-winner for The Favourite gives a mock-sniffle and a little shake of her frizzy grey locks, then pretends to dab her eyes. Seated beside her in a London hotel room and wearing a bright orange “I’m With Stupid” T-shirt, Skarsgård tilts his head appreciatively. In Pillion, it was Harry Melling who had the privilege of being ravaged by the 50-year-old Swedish actor. Now it is Colman’s turn in Wicker, an earthy adult fairytale filmed in Budapest and set in a medieval village populated almost exclusively by British comic actors who converse in language both archaically formal (“Happy to transact with you”) and bluntly colloquial (“I’d better fuck off”). Among them is Phil Daniels as a leering butcher and Richard E Grant as a doctor who is even more inept at his job than Grant was as a Celebrity Traitor. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
+      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1fed75c364ff44ae0f1c8e867d8ec33",
+      "publishedAt": "2026-10-30T08:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
       "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
       "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adc6/live/62ea9ce0-d3ff-11f1-b497-e5f21e10c3e0.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-10-30T03:57:06.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -38,6 +86,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "bbc-F9jYW1wYWlnbj1yc3M",
+      "title": "'A big loss' - Fans react to death of Sir Patrick Stewart",
+      "description": "Admirers of the Star Trek actor gathered at his Hollywood Walk of Fame Star in Los Angeles to pay tribute to his life and acting career.",
+      "url": "https://www.bbc.co.uk/news/videos/c6e9lpg2j5z3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1413/live/dce986e0-d3fb-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-30T00:58:30.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
     },
     {
       "id": "indiewire-WQtMTIzNTIyNDY3MC8",
@@ -220,18 +280,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-b3Jyb3Itcm9tYW5jZQ",
-      "title": "Wicker review – Olivia Colman finds the perfect lover in intriguing folk-horror romance",
-      "description": "Colman stars as a depressed and bullied fisherwoman in medieval England. Fortunately, Peter Dinklage’s basketmaker delivers the answer to her dreams – an Alexander Skarsgård made of wicker The spirit of mystery author Shirley Jackson is interestingly revived in this peculiar folk-horror romance, adapted from a 2006 story called The Wicker Husband by British writer Ursula Wills. It’s almost funny but not exactly, and almost disturbing but not exactly, occupying a strange and intriguing Venn-diagram overlap between macabre horror and sentimentality. Yet devotees of bucolic British screen-scariness will note that it is, after all, about a wicker man. The scene is a fabular medieval-effect village that could be in central Europe or England, where there are bizarre patriarchal rituals, like the placing of metal collars on new brides. A depressed middle-aged fisherwoman (fiercely and naturalistically played by Olivia Colman) lives alone in a remote cottage and regularly brings her unappetising tench and gudgeon to market, where she is mocked and bullied by the nasty, closed-minded locals, including Richard E Grant as a lazy and incompetent doctor. Chief among her tormentors is the spiteful tailor’s wife, an elegant, sharp-faced woman played by Elizabeth Debicki. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
-      "image": "https://i.guim.co.uk/img/media/09cca9caafc5dbf003f61c9d07f5912ff5f41927/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=50c768889eaf207e56684c7b1ca79a00",
-      "publishedAt": "2026-10-29T07:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Actor targets 'scarred villain' screen stereotype",
       "description": "Robert Rhodes says people with scars \"experience joy, love and success just like everyone else\".",
@@ -257,35 +305,11 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "AI microdrama edit of Neighbours worries actors and crew",
-      "description": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character.",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9486/live/12deed00-d350-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-29T03:15:35.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
       "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
       "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/85bb/live/bcdd9ca0-d384-11f1-b5f4-fd541fd21001.jpg",
       "publishedAt": "2026-10-28T21:16:30.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Liverpool's Littlewoods film studios plan given £20m Budget boost",
-      "description": "The long-delayed redevelopment is subject to final approval, with calls for strict oversight.",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve188r94o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/72d2/live/2e044570-d2ed-11f1-8d86-83eebc838351.jpg",
-      "publishedAt": "2026-10-28T21:09:34.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -352,18 +376,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-mVjdGluZy1hbmltb2w",
-      "title": "‘Nothing worked for me until I was clean and sober’: Ashley Walters on acting, directing – and turning his life around",
-      "description": "In Adolescence he proved himself one of the UK’s best actors. Now he has directed his first film, Animol. He reflects on the road from prison and addiction to soaring success Ashley Walters seems to have lived his life on fast-forward. Before he turned 21 he had already had a No 1 hit, performed on TV and the West End stage, become a father and served seven months in prison. He has had another lifetime’s worth of incident since – including seven more children – but at the ripe old age of 44, enough water has passed under the bridge for Walters to have some perspective on his youth. Not that all that living appears to have left a mark: when we meet in London, he’s the picture of health, his face unwrinkled, eyes twinkling, hair cut in a crisp lineup. Back in the early 2000s, he fit a certain stereotype of Black British youth as Asher D, the rapper from deprived and supposedly crime-ridden Peckham, who rolled with the street-tough So Solid Crew, got into beefs with east London rivals such as Dizzee Rascal, was demonised by the tabloids and called a “boasting macho idiot rapper ” by the then culture minister Kim Howells. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/26/ashley-walters-on-acting-directing-animol",
-      "image": "https://i.guim.co.uk/img/media/36ea7ebaef65f1c285e4a94492be673b32493d59/1828_0_2838_2270/master/2838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46738869ff123e8ce325c06b9e3e55d0",
-      "publishedAt": "2026-10-26T05:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-hhLWJhcm9uLWNvaGVu",
       "title": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen",
       "description": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men apparently discredited by the new Ali G movie Ali G: Who Iz I?, has said that he was in on the joke, but that the film-makers didn’t realise this. Loudermilk, a 54-year-old aspiring actor from North Carolina, has told the Guardian he recognised star Sacha Baron Cohen early in the shoot but continued pretending to be a hard-right Maga sympathiser prepared to defend the US border at all costs. Continue reading...",
@@ -410,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ViLWZpbG0tbnR3bmZi",
-      "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
-      "description": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers. The Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
-      "image": "https://i.guim.co.uk/img/media/31201c1760c6e17c017d649709e8347212f4ae61/843_0_7857_6286/master/7857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c18d68ffff68fdc17b6895d6095b5566",
-      "publishedAt": "2026-10-22T23:31:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-WV2YW5zLXZpbGxhaW4",
