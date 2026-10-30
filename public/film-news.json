@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:50:48.044Z",
+  "generatedAt": "2026-10-30T06:38:17.999Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,30 @@
   },
   "articles": [
     {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+      "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adc6/live/62ea9ce0-d3ff-11f1-b497-e5f21e10c3e0.jpg",
+      "publishedAt": "2026-10-30T03:57:06.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nQtMTIzNTIyNDY5NS8",
+      "title": "Ian McKellen Honors His Friend Patrick Stewart: ‘The Most Respected and Beloved Actor of His Generation’",
+      "description": "The two English actors first met with the Royal Shakespeare Company and starred together in the \"X-Men\" series.",
+      "url": "https://www.indiewire.com/news/general-news/ian-mckellen-tribute-patrick-stewart-1235224695/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/McKellen-Stewart-Tribute.jpg?w=650",
+      "publishedAt": "2026-10-30T01:38:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
       "id": "indiewire-WQtMTIzNTIyNDY3MC8",
       "title": "Patrick Stewart Never Took His Gravitas for Granted, Even When He Was Subverting It",
       "description": "The English actor, who died Thursday, could take command of a scene with a single syllable. But he didn't stop there, rewarding audiences who followed him everywhere.",
@@ -26,18 +50,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-      "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
-      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/68aa/live/62ba1a00-d3de-11f1-9c32-1532a6164171.jpg",
-      "publishedAt": "2026-10-29T20:24:59.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "indiewire-ay0xMjM1MjI0MjA4Lw",
@@ -254,18 +266,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-luLTEyMzUyMjQzNjcv",
-      "title": "Barbara Barrie, Oscar-Nominated ‘Breaking Away’ and ‘Private Benjamin’ Star, Dies at 95",
-      "description": "The character actress death was \"medically assisted\" following a terminal cancer diagnosis.",
-      "url": "https://www.indiewire.com/news/obituary/barbara-barrie-dead-breaking-away-private-benjamin-1235224367/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Barbara-Barrie-Obituary.jpg?w=650",
-      "publishedAt": "2026-10-28T21:47:19.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
