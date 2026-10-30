@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T12:35:15.710Z",
+  "generatedAt": "2026-10-30T18:26:57.941Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -16,16 +16,100 @@
   },
   "articles": [
     {
+      "id": "indiewire-dy0xMjM1MjI0NzI4Lw",
+      "title": "‘Who Killed Alex Odeh?’ Review: A Scattered but Searing Documentary Examines America’s Tacit Acceptance of Anti-Arab Discrimination",
+      "description": "Jason Osder and William Youmans’ film uses the \"unsolved\" murder of a Palestinian-American civil rights activist to explore how bigotry has become so normalized in this country.",
+      "url": "https://www.indiewire.com/criticism/movies/who-killed-alex-odeh-documentary-movie-review-1235224728/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/202605733_1_RWD_1920.jpg?w=650",
+      "publishedAt": "2026-10-30T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjQ3Mzgv",
+      "title": "Carrie Coon on ‘The Liberation,’ Life After ‘White Lotus,’ and Why Hollywood ‘Places Limitations’ on Actors — ‘Screen Talk’ Podcast Interview",
+      "description": "The charming \"Gilded Age\" star joins IndieWire's \"Screen Talk\" to discuss her magnetic performance as a Holocaust survivor, life as an actor on the \"top of the B list,\" and her family's eclectic home viewing habits, including her husband, co-star Tracy Letts.",
+      "url": "https://www.indiewire.com/features/podcast/carrie-coon-podcast-interview-the-liberation-1235224738/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108O8XN.jpg?w=650",
+      "publishedAt": "2026-10-30T17:56:24.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MjI0NzQzLw",
+      "title": "Netflix’s ‘Cliff Booth’ Won’t Play on Cinemark or Regal’s IMAX Screens",
+      "description": "David Fincher's film with Brad Pitt has an exclusive IMAX theatrical window beginning on Thanksgiving via AMC's 500 screens worldwide.",
+      "url": "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/UFP25_R02_104y_v04.189840.jpg?w=650",
+      "publishedAt": "2026-10-30T17:40:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-      "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/baa8/live/5fe73760-d440-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-30T12:01:36.000Z",
+      "title": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
+      "description": "Tributes have been paid to the legendary Star Trek actor Sir Patrick Stewart, who was born in Mirfield.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f948/live/75d0a300-d46c-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-10-30T17:12:20.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjQ2MzEv",
+      "title": "‘Ramayana: Rise of a Legend’ Review: India’s National Epic Gets a Fittingly Massive Cinematic Treatment",
+      "description": "Nitesh Tiwari's Bollywood blockbuster will never bore you, even if you occasionally find yourself yearning for some quiet character development.",
+      "url": "https://www.indiewire.com/criticism/movies/ramayana-rise-of-a-legend-review-1235224631/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.33.27-AM.png?w=650",
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bC0xMjM1MjIyMzY0Lw",
+      "title": "The 1973 ‘The Wicker Man’ Is a Classic, but Neil LaBute’s Loathed 2006 Remake Is Even Better",
+      "description": "In a Halloween-week edition of the \"Correct Opinion\" column, we take a look at a rare remake of a classic that's superior to the original — not that you would have known it from the reviews.",
+      "url": "https://www.indiewire.com/features/commentary/nicolas-cage-the-wicker-man-better-than-original-1235222364/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWIMA_EC013.jpg?w=650",
+      "publishedAt": "2026-10-30T15:44:53.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+      "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c120/live/9945dbf0-d45f-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-30T12:43:46.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9jLTEyMzUyMTQ1MzYv",
+      "title": "‘Everest: The Other Side’ Review: A Grieving Ski Mountaineer Scales the Face of Death in Chai Vasarhelyi and Jimmy Chin’s Climbing Doc",
+      "description": "Haunted by tragedies this NatGeo doc never flinches at, Jim Morrison makes the dangerous attempt to climb up and ski down the Everest's North Face in another spellbinding chronicle from the Oscar-winning \"Free Solo\" team.",
+      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/everest_the_other_side.jpg?w=600",
+      "publishedAt": "2026-10-30T12:09:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
     },
     {
       "id": "guardian-Y2stY29taWMtcGFpbg",
@@ -42,7 +126,7 @@
     {
       "id": "guardian-WhvcnJvci1tb3ZpZXM",
       "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
-      "description": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre Dame Minor spoilers ahead Hiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, is a disaffected male rage. That’s perhaps the most commonplace horror of our times, whether on the internet or politics, and you feel the tremors of it steadily breaking the surface in Yoo Ah-in’s performance. He plays Jong-su, an aspiring writer, quietly frustrated with his lot in life. Jong-su works odd jobs and tends to his incarcerated father’s dilapidated farm, growing more desperate to grasp some sense of control over the world around him, which is where the scary part comes in. Chang-dong is the master dramatist who with Burning tilts violently into thriller territory, navigating elements from Taxi Driver, The Vanishing and Michael Haneke’s Caché, using the language of horror movies to conjure up a creeping anxiety and dread that erupts into pure existential fear. Radheyan Simonpillai Continue reading...",
+      "description": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre Dame Minor spoilers ahead Hiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, is a disaffected male rage. That’s perhaps the most commonplace horror of our times, whether on the internet or politics, and you feel the tremors of it steadily breaking the surface in Yoo Ah-in’s performance. He plays Jong-su, an aspiring writer, quietly frustrated with his lot in life. Jong-su works odd jobs and tends to his incarcerated father’s dilapidated farm, growing more desperate to grasp some sense of control over the world around him, which is where the scary part comes in. Lee is the master dramatist who with Burning tilts violently into thriller territory, navigating elements from Taxi Driver, The Vanishing and Michael Haneke’s Caché, using the language of horror movies to conjure up a creeping anxiety and dread that erupts into pure existential fear. Radheyan Simonpillai Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
       "image": "https://i.guim.co.uk/img/media/1790e09bea721dd17b1415a3fc87c9bf0891235e/630_0_2974_2381/master/2974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99b119df920e1fc8ffd23cb95c26eca0",
       "publishedAt": "2026-10-30T09:00:50.000Z",
@@ -86,18 +170,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
-    },
-    {
-      "id": "bbc-F9jYW1wYWlnbj1yc3M",
-      "title": "'A big loss' - Fans react to death of Sir Patrick Stewart",
-      "description": "Admirers of the Star Trek actor gathered at his Hollywood Walk of Fame Star in Los Angeles to pay tribute to his life and acting career.",
-      "url": "https://www.bbc.co.uk/news/videos/c6e9lpg2j5z3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1413/live/dce986e0-d3fb-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-30T00:58:30.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "indiewire-WQtMTIzNTIyNDY3MC8",
@@ -172,30 +244,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-XMtMTIzNTIyNDA3OC8",
-      "title": "‘Nocturne’ Review: Stephen Graham and Bill Camp Brighten Up Apple’s Staid Crime Thriller for Sad Dads",
-      "description": "A handsome production and solid cast can't quite make \"Nocturne\" more than the sum of its very familiar parts: a serial killer who keeps killing from behind bars, a retired cop who can't stay away, a town on the brink, families in peril, revenge, secrets, DelCo accents — you know the drill.",
-      "url": "https://www.indiewire.com/criticism/shows/nocturne-review-stephen-graham-bill-camp-apple-series-1235224078/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Nocturne-Apple-TV-series-Liev-Schreiber-Poorna-Jagannathan.jpg?w=650",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMjQ1NzIv",
-      "title": "‘Wicker’ Is Even Better — and Hornier — in 4DX",
-      "description": "Last night, audiences got to experience an event that intensified the pleasures of the year's most surprisingly romantic film in extremely visceral ways.",
-      "url": "https://www.indiewire.com/features/commentary/wicker-4dx-better-hornier-sexier-1235224572/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/W_R_00006.jpg?w=650",
-      "publishedAt": "2026-10-29T16:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZXJlLW5vbmUtZGllcw",
       "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
       "description": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul Newman Elke Sommer, the prolific German star of the Pink Panther film A Shot in the Dark, early 70s Agatha Christie adaptation And Then there Were None, and British sex comedy Carry on Behind, has died aged 85. Bild magazine reported that Sommer died in Los Angeles of heart failure. German-born Sommer, whose best-known film roles were in the 1960s and 70s, was one of the wave of European performers who crossed over to Hollywood and English-language cinema with considerable success, following the postwar emergence of European new wave cinema. Sommer was one of the few German actors to make waves at the time, as Hollywood made much of her bombshell image. Continue reading...",
@@ -206,42 +254,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjI0NTQ1Lw",
-      "title": "Rare Stanley Kubrick Interview Headed to TCM’s ‘Plot Thickens’ Podcast as Bonus Episode",
-      "description": "Exclusive: Host Ben Mankiewicz will share the 1972 \"A Clockwork Orange\"-era interview with Newsday film critic Joseph Gelmis on January 7, 2027.",
-      "url": "https://www.indiewire.com/news/general-news/stanley-kubrick-rare-interview-tcm-plot-thickens-podcast-1235224545/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDFOOR_EC009.jpg?w=650",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Z3LTEyMzUyMjQ1NjEv",
-      "title": "AMC Releases ‘Dune 3’ Two-Headed Sandworm Popcorn Bucket That Manages to Look Even More NSFW",
-      "description": "The theater chain also unveiled a Sandworm Thumper design with a working thumper. Cue the memes.",
-      "url": "https://www.indiewire.com/news/business/amc-theatres-dune-3-two-headed-sandworm-popcorn-bucket-nsfw-1235224561/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-12.39.59-PM.png?w=650",
-      "publishedAt": "2026-10-29T15:27:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyNDU0MC8",
-      "title": "‘Everytime’ Trailer: The Mind-Bending Grief Portrait That’s Left Audiences Spellbound Since Cannes",
-      "description": "Exclusive: After an Oscar-qualifying November release, Sandra Wollner's Cannes winner, set across a consciousness-opening family holiday, will open theatrically on February 12, 2027. Watch the teaser trailer.",
-      "url": "https://www.indiewire.com/news/trailers/everytime-trailer-sandra-wollner-cannes-winner-1235224540/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Everytime_MainStillTheBarricadesPanamaFilm_GregoryOke.jpg?w=650",
-      "publishedAt": "2026-10-29T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "guardian-WZmZWN0cy1yYW5rZWQ",
@@ -256,18 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-jQtMTIzNTIyNDMxNS8",
-      "title": "Reality Check: Why ‘You Can See Everything’ Faces a Long Road to the Oscars",
-      "description": "Before we crown the A24 hit a contender, let's do the numbers.",
-      "url": "https://www.indiewire.com/awards/consider-this/you-can-see-everything-isnt-an-oscars-contender-analysis-a24-1235224315/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2297971761.jpg?w=650",
-      "publishedAt": "2026-10-29T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZWQta2VyYXppbmVzcw",
       "title": "I Love Boosters review – supercool outlaw women go shoplifting in Boots Riley’s frantic and funny caper",
       "description": "Demi Moore’s haute-couture maven attracts the attention of a gang of contemporary Robin Hood type clothes robbers in Riley’s fashion biz satire Here is an entertaining, if very exhausting fantasy-caper about the fashion biz from Boots Riley, a madcap mile-a-minute melee of unadulterated ker-aziness. You might need a couple of ibuprofen and a lie-down afterwards. Demi Moore perhaps thought she was here getting a gamey starring role, comparable to her Oscar-nominated turn in the beauty-industry satire The Substance . In fact, the way the film is structured and edited, Moore is hardly more than a returning cameo, though a potent one. She plays Christie Smith, a billionaire couture designer who has an office in a trendily designed city block which leans over at an experimental angle. Christie is the object of obsessive attention from “boosters”: supercool young outlaw women who, nettled by her arrogance, shoplift her clothes from upscale stores and sell them on at knockdown Robin Hood prices. They are Corvette (Keke Palmer), Sade (Naomi Ackie) and Mariah (Taylour Paige), the latter having the ability to, by holding her breath, turning herself into a white woman who is less likely to be challenged in a store; an interesting metaphor for what Frantz Fanon might have called black skin, white masks. Continue reading...",
@@ -278,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Actor targets 'scarred villain' screen stereotype",
-      "description": "Robert Rhodes says people with scars \"experience joy, love and success just like everyone else\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6qxndy4jldno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/31c1/live/9bc57130-d20a-11f1-b3b6-c1e79e957e40.jpg",
-      "publishedAt": "2026-10-29T06:36:09.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-GhvbnktaXBwb2xpdGE",
