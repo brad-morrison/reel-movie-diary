@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:28:14.421Z",
+  "generatedAt": "2026-10-31T18:27:05.305Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,18 @@
   },
   "articles": [
     {
+      "id": "indiewire-l0LTEyMzUyMjQ4OTIv",
+      "title": "What Genre Will Be Hollywood’s Next Big Trend? Watch IndieWire’s ‘Pitch Me’ Panelists Weigh in",
+      "description": "At IndieWire's Future of Filmmaking Summit, a panel of executives and representatives explain how they look for breakout hits.",
+      "url": "https://www.indiewire.com/news/events/watch-pitch-me-panel-indiewire-future-of-filmmaking-summit-1235224892/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B1327_b85318.jpg?w=650",
+      "publishedAt": "2026-10-31T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Black Doves actress says she loved playing 'a very Welsh assassin'",
       "description": "Gabrielle Creevy says she auditioned for the role using her Welsh accent \"and they loved it\".",
@@ -25,6 +37,18 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bWVudC1pbmR1c3RyeQ",
+      "title": "‘Never big enough’: inside the booming penis enlargement industry",
+      "description": "In a revealing documentary, a looksmaxxing-influenced world where ‘your social capital is tied to your appearance’ has led to more men wanting more Man’s obsession with his member is a tale as old as time, writ large in sky-scraping edifices, in allusions that flatter (big dick energy) or offend (prick), in the countless artifacts across the ages that venerate male potency – a porn star’s description of Donald Trump’s “toadstool” penis. But it’s the booming intimate wellness industry – AKA the rash (ahem) of fillers, therapies and cosmetic procedures that have come into vogue since the little blue pill rocked the market – that most intrigued Daniel Lombroso, the esteemed documentarian who made his name at the Atlantic and the New Yorker dissecting male fragility. “A lot of the stories I worked on at those places were kind of fringy subculture and oftentimes adjacent to white nationalism,” says Lombroso, who became aware of the rising demand for penile enhancement procedures while reporting on plastic surgery trends at the New Yorker. “I started calling all these practitioners. But to make an embedded film the way I do, you need someone who’s very open.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/31/manhood-movie-penis-enlargement-industry",
+      "image": "https://i.guim.co.uk/img/media/fa0ca84a29a6d409cd46f36915abcc4b5f90c555/364_44_1239_992/master/1239.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4327454909b0463f74a08cc10df03b85",
+      "publishedAt": "2026-10-31T09:00:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -220,6 +244,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-3Rvci1zdXBlcmhlcm8",
+      "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
+      "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial potential of blue-chip British classical training like Patrick Stewart. With style, technique and the most minutely self-aware, almost vaudevillian sense of mimicry, Shakespearean thesps can turn their hand to American movies and high-end American television and show the American method actors how it’s done – sometimes, even, at the beginning of their screen careers, at a competitively low wage. Stewart was one of the thoroughbreds of the Royal Shakespeare Company’s 1970s stage generation who had also had classy small screen roles, such as his intimidating Sejanus in I, Claudius opposite Derek Jacobi. But he effected a warp-speed leap to pop culture stardom by getting the role of Jean-Luc Picard, captain of the Federation starship USS Enterprise, in TV’s Star Trek: The Next Generation, the hugely successful reboot of Star Trek that ran from 1987 to 1994, spawning four separate feature films and then another series, Star Trek: Picard. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+      "image": "https://i.guim.co.uk/img/media/cb6cea9c589ef2978546a42f9a1aeb9c96ec1450/393_193_2243_1795/master/2243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f906fb65f4bc69d8a3195e9fc7a983b4",
+      "publishedAt": "2026-10-30T01:25:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
       "id": "indiewire-WQtMTIzNTIyNDY3MC8",
       "title": "Patrick Stewart Never Took His Gravitas for Granted, Even When He Was Subverting It",
       "description": "The English actor, who died Thursday, could take command of a scene with a single syllable. But he didn't stop there, rewarding audiences who followed him everywhere.",
@@ -254,30 +290,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-2gtMTIzNTIyNDYxOS8",
-      "title": "Curry Barker Drops Surprise New Short Film ‘Mama Bear’ — Watch",
-      "description": "The five-minute film, which Barker wrote, directed, and edited, was released on his That's a Bad Idea YouTube channel.",
-      "url": "https://www.indiewire.com/news/general-news/curry-barker-directs-new-short-film-mama-bear-watch-1235224619/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-10.42.32-AM.png?w=650",
-      "publishedAt": "2026-10-29T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
-      "title": "The Mosquito Bowl review – Netflix mixes football, war and cliches in slick by-the-numbers saga",
-      "description": "Peter Berg’s handsomely made second world war drama about a football game before the battle of Okinawa is stirring but filled with eye-rolling dialogue Forgive me, but it is difficult not to be a little cynical about The Mosquito Bowl, Peter Berg’s grimly serious action feature situated (and marketed during many an NFL game) at the intersection of two predominant male interests: football and the second world war. Though both are certainly rich topics for cinema, and though I have been a fan of many a football/war story – most especially Berg’s NBC series Friday Night Lights – it is, let’s say, a tricky time for movies filled with dubiously nostalgic patriotism and masculinity. The trailer practically drips with a borderline parodic virility: a cadre of handsome up-and-coming male actors streaked with dirt; a group of men “trained for glory” and “called to war”, triumphantly hoisting aloft footballs, beer and guns to ponderous music. But Berg is a capable and battle-tested director who knows his way around both a clock-ticking thriller ( Deepwater Horizon , Lone Survivor ) and the football field. So while The Mosquito Bowl, adapted for Netflix by Berg and Mark L Smith from a nonfiction book by Buzz Bissinger, fulfills its promise of American male pablum – there is many a clunky monologue about honor and duty and the “white buzz” of adrenaline – it also delivers on competently made, absorbing action sequences. (In huge news for Friday Night Lights fans, the football scenes here are once again scored by Explosions in the Sky.) Both in sport and in war, Berg has a knack for grace within visual cacophony and chaos; graphic sequences in battle and from the 1944 Christmas Eve pickup game at Guadalcanal that gives the film its name suggest, far more than its anvil-heavy dialogue, the connections between the gridiron and the battlefield, how the fleetness and camaraderie of sport can be wielded for survival and killing. There is a stomach-churning catharsis in experiencing, as in Sam Mendes’s 1917 or Alex Garland’s Warfare , the real-time brutality and capriciousness of war. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
-      "image": "https://i.guim.co.uk/img/media/2183461f44353da3f2611218286e20edea1be335/519_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=7aa5f612366ea7cda69494cd69d1959d",
-      "publishedAt": "2026-10-29T17:37:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
     },
     {
       "id": "guardian-ZXJlLW5vbmUtZGllcw",
@@ -386,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-VzLW9mLXRoZS1zZWFz",
-      "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
-      "description": "When thousands of dying crabs washed up on a Yorkshire beach in 2021, Stan Rennie’s livelihood was immediately threatened. Five years later, he’s leading the fight back against toxic ocean pollution – and corporate coverups It was an otherwise typical day on 25 September 2021 when thousands of dead and dying crustaceans washed up on beaches in Yorkshire and the north-east of England. Early morning walkers and swimmers were aghast to find a sickening carpet of twitching, fitting crabs. It would be the first but not the last die-off, which would see the disappearance of vast swathes of integral native sea life along an extended stretch of coast, including seal pups. It would also see the decimation of the local fishing industry and, with that, a way of life. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
-      "image": "https://i.guim.co.uk/img/media/be28a35af2ed73e59b658e3d66973ce3df6289a6/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77d62872e65ce4504b4c9b6131993140",
-      "publishedAt": "2026-10-23T10:03:02.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-2Nod2ltbWVyLW11Ymk",
