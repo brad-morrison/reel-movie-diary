@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T00:48:45.796Z",
+  "generatedAt": "2026-11-01T12:28:39.345Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-WxpZXQtdHVybnMtMzA",
+      "title": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
+      "description": "The maximalist, heart over head adaptation of the romantic tragedy made stars of its leads and became an English teacher’s most trusted weapon for Bard-averse students Romeo + Juliet is not the most renowned or beloved of Shakespeare’s plays, but it is perhaps the most foundational. The 16th-century tragedy, a story of love-addled teenagers and white-hot resentment, is often an English student’s first introduction to the bard’s oeuvre – more accessible and relatable to teens, with its plaintive lust and histrionic mood swings, than the more austere machinations in, say, Macbeth, Hamlet or Othello. And if Romeo + Juliet is the young person’s entry to Elizabethan English, perhaps no version of it is more worthy of the term “gateway drug” than Baz Luhrmann’s 1996 film version, which reimagined Verona’s family feud as a tropical gang war and launched an army of teenage crushes with the faces of Leonardo DiCaprio and Claire Danes. The maximalist interpretation of Shakespeare’s most lovelorn work, released 30 years ago this week (!), retains Elizabethan verse but announces its divergence from rigid classicism from the jump. Our scene is set in fair Verona beach by a news anchor via TV set, relaying the woe of two star-cross’d lovers before clips of civil strife. Fresh off his breakout success in 1992’s Strictly Ballroom, the Australian director boldly mapped the medieval story on to 90s tabloid fixations – grainy footage of violence in the streets, magazine headlines of capos and criminals, helicopter views of car chases and riots that recalled the media circus around the OJ Simpson chase two years prior. It is a movie that could have only been made in the 90s; Luhrmann’s vision of two warring families as rival gangs, replete with their own economic operations and marked territory, tapped into the era’s preoccupation with gangland as a source of transportive art, from movies to hip-hop, and as a conservative fixation for ideas on intrinsic criminality. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/01/baz-luhrmann-romeo-and-juliet-turns-30",
+      "image": "https://i.guim.co.uk/img/media/780dc006ffeb503f765b140a9823242821e3ff21/141_0_2387_1911/master/2387.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8503f93b207c75d212dc148a4bd0ca7d",
+      "publishedAt": "2026-11-01T10:00:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
     {
       "id": "indiewire-VsLTEyMzUyMjQ4OTgv",
       "title": "The Arcane Knowledge Directors Wish They Could Summon",
@@ -230,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LW1vdmllLXdpY2tlcg",
-      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
-      "description": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own marriage? Another year, another raunchy comedy-drama in which Alexander Skarsgård is the answer to a social outcast’s erotic dreams. “I fucking loved Pillion so much!” says Olivia Colman, reliably sweary straight out of the gate, as she brings up last year’s British indie hit starring Skarsgård as a leather-clad dom with a timid traffic warden as his submissive. “And when they kissed at the end … Aww .” The 52-year-old Oscar-winner for The Favourite gives a mock-sniffle and a little shake of her frizzy grey locks, then pretends to dab her eyes. Seated beside her in a London hotel room and wearing a bright orange “I’m With Stupid” T-shirt, Skarsgård tilts his head appreciatively. In Pillion, it was Harry Melling who had the privilege of being ravaged by the 50-year-old Swedish actor. Now it is Colman’s turn in Wicker, an earthy adult fairytale filmed in Budapest and set in a medieval village populated almost exclusively by British comic actors who converse in language both archaically formal (“Happy to transact with you”) and bluntly colloquial (“I’d better fuck off”). Among them is Phil Daniels as a leering butcher and Richard E Grant as a doctor who is even more inept at his job than Grant was as a Celebrity Traitor. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
-      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1fed75c364ff44ae0f1c8e867d8ec33",
-      "publishedAt": "2026-10-30T08:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
