@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:28:39.345Z",
+  "generatedAt": "2026-11-01T18:27:00.821Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Gavin and Stacey actor hopes his band will be 'the next Stereophonics'",
+      "description": "Oscar Hartland, who played Neil the Baby, says he's on a \"mission to create a new modern sound for Wales\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgq0v87z8zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/b279/live/63ebaee0-d5d0-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-01T17:01:06.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-HMtaGltc2VsZi1sZWc",
+      "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at the The Range LA. The news was first reported on celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+      "image": "https://i.guim.co.uk/img/media/9aea3e244e5b8f6508611933ef1afa3ad05ac8de/392_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4ec2a21d56c2b1f8a965f846d447675",
+      "publishedAt": "2026-11-01T16:39:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NlLTEyMzUyMjQ5NTQv",
+      "title": "Box Office: ‘You Can See Everything’ Beats ‘Clayface’ to Capture First Place",
+      "description": "The A24 documentary has now earned more than Michael Moore's \"Bowling for Columbine.\"",
+      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-beats-clayface-first-place-1235224954/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650",
+      "publishedAt": "2026-11-01T16:23:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjI0ODk5Lw",
+      "title": "Producer Titles Can Be Bought, but Real Creative Producers Take Them for Themselves",
+      "description": "Producers Alison Owen, Carla Hacken, and Lauren Miller Rogen tell IndieWire about the importance of persistence in bringing films and TV shows to life.",
+      "url": "https://www.indiewire.com/features/craft/scad-savannah-film-fest-producers-lauren-miller-rogen-1235224899/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2302415807.jpg?w=650",
+      "publishedAt": "2026-11-01T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-VkLTEyMzUyMjQ5NDMv",
+      "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
+      "description": "The Oscar-nominated director of \"Heat\" and \"The Insider\" was treated for a \"superficial injury.\"",
+      "url": "https://www.indiewire.com/news/breaking-news/michael-mann-accidentally-shoots-himself-in-leg-hospitalized-1235224943/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/07/GettyImages-1817497483.jpg?w=650",
+      "publishedAt": "2026-11-01T14:55:27.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-WxpZXQtdHVybnMtMzA",
       "title": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
@@ -208,18 +268,6 @@
       "category": "Classics"
     },
     {
-      "id": "indiewire-9jLTEyMzUyMTQ1MzYv",
-      "title": "‘Everest: The Other Side’ Review: A Grieving Ski Mountaineer Scales the Face of Death in Chai Vasarhelyi and Jimmy Chin’s Climbing Doc",
-      "description": "Haunted by tragedies this NatGeo doc never flinches at, Jim Morrison makes the dangerous attempt to climb up and ski down the Everest's North Face in another spellbinding chronicle from the Oscar-winning \"Free Solo\" team.",
-      "url": "https://www.indiewire.com/criticism/movies/everest-the-other-side-review-everest-climbing-doc-1235214536/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/everest_the_other_side.jpg?w=600",
-      "publishedAt": "2026-10-30T12:09:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-Y2stY29taWMtcGFpbg",
       "title": "Oh to Believe in Another World review – William Kentridge’s amazing animated ballet of black comic pain",
       "description": "Kentridge’s cine-musical creation, made to accompany Shostakovich’s 10th Symphony, is a marvel of puppetry, dance and humour, exploring humanity, grief and idealism The Baku international arts festival in Azerbaijan is showcasing an amazing cine-musical creation, perhaps the most amazing animation I have ever seen. Oh to Believe in Another World is an hour-long collage animation with live-action choreography by the 71-year-old South African artist and film-maker William Kentridge . It is shown with the live orchestral accompaniment of Shostakovich’s 10th Symphony, and this event is partly in honour of the 120th anniversary of Shostakovich’s birth this year, and partly to honour Shostakovich’s reportedly unrequited love (and lifelong friendship) for his student, Azerbaijani pianist and composer Elmira Nazirova. The 10th symphony was inspired by Stalin and premiered shortly after his death, so it seems probable that Shostakovich had been at work on it for some time before this, long enough beforehand for at least some of the composition to have been conceived without any sense of Stalin’s death. Could part of it perhaps have been originally intended as an obediently dramatic tribute to Stalin? Yet the music arguably combines fear, awe, revulsion, and a hysterical reaction to the mad energy of Stalin’s genocidal tyranny, a darkly ambiguous respect for the great dictator whose victory in 1945 was a mainstay of the postwar dispensation; perhaps there is also a feeling in the music’s swirl that a great and terrible era has passed away, and with it a kind of grief at all that had been sacrificed to it. Continue reading...",
@@ -244,6 +292,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-LW1vdmllLXdpY2tlcg",
+      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
+      "description": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own marriage? Another year, another raunchy comedy-drama in which Alexander Skarsgård is the answer to a social outcast’s erotic dreams. “I fucking loved Pillion so much!” says Olivia Colman, reliably sweary straight out of the gate, as she brings up last year’s British indie hit starring Skarsgård as a leather-clad dom with a timid traffic warden as his submissive. “And when they kissed at the end … Aww .” The 52-year-old Oscar-winner for The Favourite gives a mock-sniffle and a little shake of her frizzy grey locks, then pretends to dab her eyes. Seated beside her in a London hotel room and wearing a bright orange “I’m With Stupid” T-shirt, Skarsgård tilts his head appreciatively. In Pillion, it was Harry Melling who had the privilege of being ravaged by the 50-year-old Swedish actor. Now it is Colman’s turn in Wicker, an earthy adult fairytale filmed in Budapest and set in a medieval village populated almost exclusively by British comic actors who converse in language both archaically formal (“Happy to transact with you”) and bluntly colloquial (“I’d better fuck off”). Among them is Phil Daniels as a leering butcher and Richard E Grant as a doctor who is even more inept at his job than Grant was as a Celebrity Traitor. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
+      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1fed75c364ff44ae0f1c8e867d8ec33",
+      "publishedAt": "2026-10-30T08:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-RfY2FtcGFpZ249cnNz",
       "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
       "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
@@ -256,18 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-nQtMTIzNTIyNDY5NS8",
-      "title": "Ian McKellen Honors His Friend Patrick Stewart: ‘The Most Respected and Beloved Actor of His Generation’",
-      "description": "The two English actors first met with the Royal Shakespeare Company and starred together in the \"X-Men\" series.",
-      "url": "https://www.indiewire.com/news/general-news/ian-mckellen-tribute-patrick-stewart-1235224695/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/McKellen-Stewart-Tribute.jpg?w=650",
-      "publishedAt": "2026-10-30T01:38:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
       "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
       "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial potential of blue-chip British classical training like Patrick Stewart. With style, technique and the most minutely self-aware, almost vaudevillian sense of mimicry, Shakespearean thesps can turn their hand to American movies and high-end American television and show the American method actors how it’s done – sometimes, even, at the beginning of their screen careers, at a competitively low wage. Stewart was one of the thoroughbreds of the Royal Shakespeare Company’s 1970s stage generation who had also had classy small screen roles, such as his intimidating Sejanus in I, Claudius opposite Derek Jacobi. But he effected a warp-speed leap to pop culture stardom by getting the role of Jean-Luc Picard, captain of the Federation starship USS Enterprise, in TV’s Star Trek: The Next Generation, the hugely successful reboot of Star Trek that ran from 1987 to 1994, spawning four separate feature films and then another series, Star Trek: Picard. Continue reading...",
@@ -278,18 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-WQtMTIzNTIyNDY3MC8",
-      "title": "Patrick Stewart Never Took His Gravitas for Granted, Even When He Was Subverting It",
-      "description": "The English actor, who died Thursday, could take command of a scene with a single syllable. But he didn't stop there, rewarding audiences who followed him everywhere.",
-      "url": "https://www.indiewire.com/news/obituary/patrick-stewart-tribute-never-took-gravitas-for-granted-1235224670/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P111B02E-e1793314118990.jpg?w=650",
-      "publishedAt": "2026-10-29T23:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-ZXJlLW5vbmUtZGllcw",
@@ -358,18 +394,6 @@
       "url": "https://www.theguardian.com/music/2026/oct/27/david-bowie-stage-isolar-brett-morgen-interview-film-arena",
       "image": "https://i.guim.co.uk/img/media/3fbe0ff38eaa4cd358604cd692ee4dc739de4928/0_876_2525_2020/master/2525.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0d8082c9592ac02142f5a9ee60d2fddf",
       "publishedAt": "2026-10-27T14:00:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-XctcHJpbWEtZmFjaWU",
-      "title": "‘If a person isn’t conscious, they’re not saying yes’: Cynthia Erivo on her searing new film about sexual assault",
-      "description": "In Prima Facie, she plays a rising-star barrister, well versed in defending men accused of sexual violence. Then she is raped by a colleague, and her world implodes. Erivo talks about the potential impact of the film – and how she is navigating her stratospheric success Cynthia Erivo is contemplating her favourite crisps, the ridged American brand Ruffles, as we sit talking in a quiet corner of a west London restaurant. Dressed all in black and sporting her signature elongated nails, she is known for her healthy lifestyle, but everyone, it seems, has their vices. “Ruffles are just perfect,” she says. “When you get a good batch, and the salt-to-potato ratio is perfect … it’s amazing.” Erivo has just touched down after singing in Phoenix, Arizona, the night before, and has been running me through the health routine that helps her maintain her frantic schedule. Before her concert, there was the Dior front row at Paris fashion week, and she has just been announced as a guest host on SNL UK. Erivo doesn’t drink alcohol (today she orders some peppermint tea); she’s vegan; she doesn’t eat airline food, only her own prepacked meals. She even has an infra-red sauna “to help me heal from the inside”. Earlier this year she ran the London Marathon before jumping on stage to perform Dracula, where she played all 23 parts; she had rehearsed her lines while going on gruelling marathon training runs. All that requires discipline – and snacks – to keep the show on the road. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/oct/27/cynthia-erivo-interview-prima-facie",
-      "image": "https://i.guim.co.uk/img/media/62c574131da2b51f1485f6499abf602f524b8e6f/0_1208_6123_4895/master/6123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fed696f17a061678fa0cbaaf080740a",
-      "publishedAt": "2026-10-27T10:00:09.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -446,18 +470,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-hpbmctYWZ0ZXItYWxs",
-      "title": "A Zack Snyder DC Universe might not have been such a bad thing, after all",
-      "description": "After Joss Whedon’s arrival, back in the news with comments from Ben Affleck, the franchise lost a sense of earnest passion that could have sustained a weary DCEU Nine years after superhero epic Justice League arrived in cinemas, there ought to be very little left to say about how it all went wrong. Zack Snyder shot the film, Joss Whedon substantially rewrote and reshot it, and audiences eventually got to see both men’s versions. Any debate over their relative merits long ago disappeared. Whedon is pretty much cancelled; Snyder has reinvented himself as the writer-director of extremely average ersatz Star Wars movies for Netflix, and an entirely new DC universe is under way that has very little to do with either of them. To a greater or lesser extent, the world has moved on. But Ben Affleck’s latest comments raise an uncomfortable question about whether Snyder’s departure was ever presented honestly. Speaking to Josh Horowitz on the Happy Sad Confused podcast , Affleck, who played Batman, described the Justice League reshoots as the lowest point of his career, but reserved his strongest criticism for the circumstances of Snyder’s departure. The director stepped away in May 2017 , two months after his daughter Autumn killed herself, aged 20, with the public explanation that he needed to be with his family. Affleck, however, alleged that studio Warner Bros had used the tragedy to justify replacing him. “The way in which that was, I thought, used as an excuse was one of the shittiest things I’ve ever seen,” Affleck said. “It was so gross.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/19/a-zack-snyder-dc-universe-might-not-have-been-such-a-bad-thing-after-all",
-      "image": "https://i.guim.co.uk/img/media/ee4a4aefa639586fe4cc479b4045e4ed57579d23/405_331_1931_1545/master/1931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=359cb2f8b59a039daa1ecd91f1972eac",
-      "publishedAt": "2026-10-19T09:45:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-2F6dW8taXNoaWd1cm8",
