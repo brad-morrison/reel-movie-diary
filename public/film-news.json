@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:44:48.564Z",
+  "generatedAt": "2026-11-02T06:41:49.250Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-WNhaWxlZS1zcGFlbnk",
+      "title": "Alex Garland’s Elden Ring adaptation is on course to be Hollywood’s goriest ever fantasy movie",
+      "description": "The expansive project has hype and money behind it – but how do you avoid it falling into the disappointment trap so many films end up stumbling into? If the history of failed Hollywood fantasy projects over the past 20 years has taught us anything, it is that transporting audiences to another world is only half the battle: you also have to give them a reason to spend several hours there. The Golden Compass diluted Philip Pullman’s theological bite, Warcraft thought that just explaining its world would make us care about it, and The Dark Tower compressed Stephen King’s sprawling mythology so ruthlessly that it scarcely left room for a story. All these films at one point had fans of the original source material quivering with anticipation at the prospect of seeing their beloved worlds on the big screen; all ended up disappointing. Which brings us to the forthcoming Alex Garland adaptation of the hugely popular high fantasy video game, Elden Ring. If there was ever a cinematic test of the phrase “too big to fail”, it is surely this. Elden Ring has sold more than 30m copies and is widely regarded as one of the greatest video games ever made. George RR Martin himself wrote the foundational mythology of warring demigods that underpins its gorgeous fantasy hellscape. And Garland as writer-director seems almost impossibly perfect: as the creative behind Dredd, Ex Machina and Annihilation, he has both the taste for beautiful nightmares and the geek credentials to deliver something extraordinary. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny",
+      "image": "https://i.guim.co.uk/img/media/3153d8dfcc692315cd63ebeabf01d29718716a6a/115_69_2462_1969/master/2462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f88e9615905a77bbffe38cea5a7ed27c",
+      "publishedAt": "2026-11-02T06:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-HMtaGltc2VsZi1sZWc",
       "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
@@ -266,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-WhvcnJvci1tb3ZpZXM",
-      "title": "‘I left shellshocked’: writers on their scariest non-horror movies",
-      "description": "For Halloween, Guardian writers have picked the most efficiently terrifying films outside of the horror genre from How to Have Sex to The Hunchback of Notre Dame Minor spoilers ahead Hiding in plain sight throughout Lee Chang-dong’s deliciously enigmatic Burning, in which a spirited young woman (Jeon Jong-seo) disappears, and a wealthy playboy (Steven Yeun) gives serial killer vibes, is a disaffected male rage. That’s perhaps the most commonplace horror of our times, whether on the internet or politics, and you feel the tremors of it steadily breaking the surface in Yoo Ah-in’s performance. He plays Jong-su, an aspiring writer, quietly frustrated with his lot in life. Jong-su works odd jobs and tends to his incarcerated father’s dilapidated farm, growing more desperate to grasp some sense of control over the world around him, which is where the scary part comes in. Lee is the master dramatist who with Burning tilts violently into thriller territory, navigating elements from Taxi Driver, The Vanishing and Michael Haneke’s Caché, using the language of horror movies to conjure up a creeping anxiety and dread that erupts into pure existential fear. Radheyan Simonpillai Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/30/scariest-non-horror-movies",
-      "image": "https://i.guim.co.uk/img/media/1790e09bea721dd17b1415a3fc87c9bf0891235e/630_0_2974_2381/master/2974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99b119df920e1fc8ffd23cb95c26eca0",
-      "publishedAt": "2026-10-30T09:00:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-LW1vdmllLXdpY2tlcg",
