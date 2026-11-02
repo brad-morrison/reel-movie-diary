@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:30:25.651Z",
+  "generatedAt": "2026-11-02T18:28:37.875Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-V3LTEyMzUyMjQ1NjMv",
+      "title": "‘The Fall and Rise of Reggie Dinkins’ Is the Funniest Series of the Year",
+      "description": "In an era filled with too many forgettable revivals and too few legitimate comedies, the \"30 Rock\" team made something new while adhering to their joke-dense, pop-culture savvy, and network-friendly approach to sitcoms. The result? The year's funniest show.",
+      "url": "https://www.indiewire.com/criticism/shows/the-fall-and-rise-of-reggie-dinkins-season-2-review-1235224563/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Fall-and-Rise-of-Reggie-Dinkins-Season-2-Daniel-Radcliffe-Tracy-Morgan.jpg?w=650",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-jctMTIzNTIyNTAxOS8",
+      "title": "Netflix Will Give Joel Coen’s Gothic Mystery ‘Jack of Spades’ a Theatrical Release in 2027",
+      "description": "The film stars Patsy Ferran, Josh O’Connor, Damian Lewis, and Lesley Manville.",
+      "url": "https://www.indiewire.com/news/breaking-news/netflix-joel-coen-jack-of-spades-theatrical-release-2027-1235225019/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300603366.jpg?w=650",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIyNTAwNS8",
+      "title": "As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually",
+      "description": "As California continues to lose production jobs, can the state find a way to keep Hollywood local?",
+      "url": "https://www.indiewire.com/news/breaking-news/production-jobs-flee-california-governor-newsom-film-tax-credit-plan-1235225005/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/SSDHOLL_EC002.jpg?w=650",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjI1MDAwLw",
+      "title": "‘Earthlings in Love’ Review: A Sentimental Sci-fi Journey Makes the Leap from TikTok to the Tokyo International Film Festival",
+      "description": "“One Cut of the Dead” director Shinichiro Ueda helms a project that’s better than a “vertical drama” has any right to be.",
+      "url": "https://www.indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/earthlings-in-love-ueda-1.webp?w=650",
+      "publishedAt": "2026-11-02T15:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Jack Lowden says James Bond speculation is 'flattering'",
+      "description": "The Slow Horses star is among three actors reported to be in the running for the iconic movie role.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5cdd/live/970abd30-d6c9-11f1-ac20-7783925c811f.jpg",
+      "publishedAt": "2026-11-02T14:53:27.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjI0OTU3Lw",
+      "title": "Ruth Madeley Never Thought Acting Was an Option — Now, She’s Playing a Disability Rights Legend in ‘Being Heumann’",
+      "description": "Madeley talks to IndieWire about her role as 1970s wheelchair-using activist Judy Heumann in Siân Heder's Oscar-contending biopic.",
+      "url": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P108O6SX.jpg?w=650",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1qYWNrLW1hY2lubmVz",
+      "title": "One in a Million review – deeply moving film about displacement, freedom and the upheaval of starting again",
+      "description": "Following a Syrian mother and daughter over a decade, Itab Azzam and Jack MacInnes capture a family transformed There’s a startling moment in this BBC refugee documentary when Syrian mother Nisreen – in the apparently miserable situation of hiking across the Balkans towards Germany, four kids in tow – suddenly explodes with joy. “This is the best holiday I’ve ever had! It’s an amazing adventure. Now I have the chance to walk in the rain – I love it!” Shunted off early into an arranged marriage, never having left Syria until forced out of Aleppo by the civil war, for Nisreen this running jump into the unknown represents total liberation. Itab Azzam and Jack MacInnes’ superb, forthright and highly moving film bypasses the usual refugee dichotomies, that they’re either external threats or history’s victims. Instead of flat abstractions, we get the knotty reality. Focused over a 10-year period from 2015 to 2025 principally on Nisreen’s eldest daughter Israa, it presents an intimate chronicle of how geographical displacement and cultural dislocation reshape families and lives from the inside. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/02/one-in-a-million-review-itab-azzam-jack-macinnes",
+      "image": "https://i.guim.co.uk/img/media/d89c344617db3a06b446a31740fb03f9eadae8e5/0_17_2528_2022/master/2528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=83edce255b4a7df92396fa0d13ab77ed",
+      "publishedAt": "2026-11-02T13:00:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-mZpY2UtZGlzYXN0ZXI",
       "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
@@ -88,24 +172,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-WNhbi1oaWdobGFuZHM",
-      "title": "I Died review – moving portrait of Tzotzil women confronting patriarchal violence in the Mexican highlands",
-      "description": "Ana Ts’uyeb’s poetic film celebrates the resilience of Indigenous women while exploring the possibility of a different future Shot in her home village of Naranjatic Alto in the Mexican highlands, Ana Ts’uyeb’s documentary debut is a stirring ode to the courageous women of the Indigenous Tzotzil community . The film centres on three important figures in her life: her mother, Margarita; her aunt, Juana; and her sister-in-law, Faustina. Each is from a different generation, yet they have all suffered at the hands of patriarchal violence. The patterns of systemic abuse and disenfranchisement are startlingly similar. All three women recall past opportunities to advance their education, hopes and dreams that were squashed by fathers and other male relatives. Also rampant are physical and psychological abuse. There’s a sobering matter-of-fact tone to their reminiscence; their unfortunate experiences appear to be a common reality endured by many Tzotzil women. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/02/i-died-review-moving-portrait-of-tzotzil-women-confronting-patriarchal-violence-in-the-mexican-highlands",
-      "image": "https://i.guim.co.uk/img/media/6f5267864f2f482758bd0cf69b62e00528d77e6a/529_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=292ebb407652ec7992c3b97d547fbda3",
-      "publishedAt": "2026-11-02T07:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WNhaWxlZS1zcGFlbnk",
-      "title": "Alex Garland’s Elden Ring adaptation is on course to be Hollywood’s goriest ever fantasy movie",
-      "description": "The expansive project has hype and money behind it – but how do you avoid it falling into the disappointment trap so many films end up stumbling into? If the history of failed Hollywood fantasy projects over the past 20 years has taught us anything, it is that transporting audiences to another world is only half the battle: you also have to give them a reason to spend several hours there. The Golden Compass diluted Philip Pullman’s theological bite, Warcraft thought that just explaining its world would make us care about it, and The Dark Tower compressed Stephen King’s sprawling mythology so ruthlessly that it scarcely left room for a story. All these films at one point had fans of the original source material quivering with anticipation at the prospect of seeing their beloved worlds on the big screen; all ended up disappointing. Which brings us to the forthcoming Alex Garland adaptation of the hugely popular high fantasy video game, Elden Ring. If there was ever a cinematic test of the phrase “too big to fail”, it is surely this. Elden Ring has sold more than 30m copies and is widely regarded as one of the greatest video games ever made. George RR Martin himself wrote the foundational mythology of warring demigods that underpins its gorgeous fantasy hellscape. And Garland as writer-director seems almost impossibly perfect: as the creative behind Dredd, Ex Machina and Annihilation, he has both the taste for beautiful nightmares and the geek credentials to deliver something extraordinary. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/02/alex-garland-elden-ring-adaptation-amazon-mgm-cailee-spaeny",
-      "image": "https://i.guim.co.uk/img/media/3153d8dfcc692315cd63ebeabf01d29718716a6a/115_69_2462_1969/master/2462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f88e9615905a77bbffe38cea5a7ed27c",
-      "publishedAt": "2026-11-02T06:00:33.000Z",
+      "id": "guardian-HMtaGltc2VsZi1sZWc",
+      "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at the The Range LA. The news was first reported on celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+      "image": "https://i.guim.co.uk/img/media/9aea3e244e5b8f6508611933ef1afa3ad05ac8de/392_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4ec2a21d56c2b1f8a965f846d447675",
+      "publishedAt": "2026-11-01T16:39:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -184,21 +256,9 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Black Doves actress says she loved playing 'a very Welsh assassin'",
-      "description": "Gabrielle Creevy says she auditioned for the role using her Welsh accent \"and they loved it\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w1znl8q1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cdbb/live/01b8d640-d51b-11f1-b9b6-63098f5263b3.jpg",
-      "publishedAt": "2026-10-31T10:28:41.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-2MtMTIzNTIyNDc5Ny8",
       "title": "Watch the ‘Rehearsals for a Revolution’ Director and Editor Explain How Memories Can Help Fight Authoritarianism",
-      "description": "At our Art of the Doc event, director Pegah Ahangurani and editor Arash Ashtiani went deep on one of the year's most acclaimed films.",
+      "description": "At our Art of the Doc event, director Pegah Ahangarani and editor Arash Ashtiani went deep on one of the year's most acclaimed films.",
       "url": "https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2706.jpg?w=650",
       "publishedAt": "2026-10-30T21:14:42.000Z",
@@ -218,66 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjI0NzI4Lw",
-      "title": "‘Who Killed Alex Odeh?’ Review: A Scattered but Searing Documentary Examines America’s Tacit Acceptance of Anti-Arab Discrimination",
-      "description": "Jason Osder and William Youmans’ film uses the \"unsolved\" murder of a Palestinian-American civil rights activist to explore how bigotry has become so normalized in this country.",
-      "url": "https://www.indiewire.com/criticism/movies/who-killed-alex-odeh-documentary-movie-review-1235224728/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/202605733_1_RWD_1920.jpg?w=650",
-      "publishedAt": "2026-10-30T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMjQ3Mzgv",
-      "title": "Carrie Coon on ‘The Liberation,’ Life After ‘White Lotus,’ and Why Hollywood ‘Places Limitations’ on Actors — ‘Screen Talk’ Podcast Interview",
-      "description": "The charming \"Gilded Age\" star joins IndieWire's \"Screen Talk\" to discuss her magnetic performance as a Holocaust survivor, life as an actor on the \"top of the B list,\" and her family's eclectic home viewing habits, including her husband, co-star Tracy Letts.",
-      "url": "https://www.indiewire.com/features/podcast/carrie-coon-podcast-interview-the-liberation-1235224738/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108O8XN.jpg?w=650",
-      "publishedAt": "2026-10-30T17:56:24.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-eC0xMjM1MjI0NzQzLw",
-      "title": "Netflix’s ‘Cliff Booth’ Won’t Play on Cinemark or Regal’s IMAX Screens",
-      "description": "David Fincher's film with Brad Pitt has an exclusive IMAX theatrical window beginning on Thanksgiving via AMC's 500 screens worldwide.",
-      "url": "https://www.indiewire.com/news/breaking-news/netflix-cliff-booth-wont-play-cinemark-regal-imax-1235224743/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/UFP25_R02_104y_v04.189840.jpg?w=650",
-      "publishedAt": "2026-10-30T17:40:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjQ2MzEv",
-      "title": "‘Ramayana: Rise of a Legend’ Review: India’s National Epic Gets a Fittingly Massive Cinematic Treatment",
-      "description": "Nitesh Tiwari's Bollywood blockbuster will never bore you, even if you occasionally find yourself yearning for some quiet character development.",
-      "url": "https://www.indiewire.com/criticism/movies/ramayana-rise-of-a-legend-review-1235224631/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-29-at-11.33.27-AM.png?w=650",
-      "publishedAt": "2026-10-30T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bC0xMjM1MjIyMzY0Lw",
-      "title": "The 1973 ‘The Wicker Man’ Is a Classic, but Neil LaBute’s Loathed 2006 Remake Is Even Better",
-      "description": "In a Halloween-week edition of the \"Correct Opinion\" column, we take a look at a rare remake of a classic that's superior to the original — not that you would have known it from the reviews.",
-      "url": "https://www.indiewire.com/features/commentary/nicolas-cage-the-wicker-man-better-than-original-1235222364/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWIMA_EC013.jpg?w=650",
-      "publishedAt": "2026-10-30T15:44:53.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
