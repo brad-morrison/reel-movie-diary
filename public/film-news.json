@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:28:37.875Z",
+  "generatedAt": "2026-11-03T00:42:53.620Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMjQ5MzYv",
+      "title": "The First Time Producers Had to Find a New James Bond, the Result Was the Best 007 Movie Ever",
+      "description": "As the makers of the next James Bond film zero in on their Agent 007, we look back at \"On Her Majesty's Secret Service,\" which replaced Sean Connery with unknown George Lazenby and became a favorite of filmmakers like Christopher Nolan and Steven Soderbergh.",
+      "url": "https://www.indiewire.com/features/commentary/george-lazenby-james-bond-on-her-majestys-secret-service-1235224936/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDONHE_EC023.jpg?w=650",
+      "publishedAt": "2026-11-02T21:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-24tMTIzNTIyNTA1Ny8",
+      "title": "‘The Liberation’ Trailer: Carrie Coon Is Lured Into Lily James’ Cult in a Gut-Wrenching Drama",
+      "description": "The fall festival hit opens in theaters on January 8, courtesy of Bleecker Street.",
+      "url": "https://www.indiewire.com/news/trailers/the-liberation-trailer-carrie-coon-1235225057/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
+      "publishedAt": "2026-11-02T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMTg3MjAv",
+      "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
+      "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
+      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-07-09-100054.webp?w=650",
+      "publishedAt": "2026-11-02T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI1MDYyLw",
+      "title": "‘The Hunger Games: Sunrise on the Reaping’ Will Be in 3D in Theaters — and on Meta’s New VR Glasses",
+      "description": "Lionsgate is partnering with Facebook parent company Meta on the 3D version of the film and will collaborate on future titles for the VR glasses hitting shelves next spring.",
+      "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MTc4NTY3Lw",
+      "title": "‘Mouse’ Review: ‘Saint Frances’ and ‘Ghostlight’ Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale",
+      "description": "Around these parts, every Kelly O'Sullivan and Alex Thompson feature film is an event. The pair's third production together is no exception — and their best to date.",
+      "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/Mouse.webp?w=650",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-5lLTEyMzUyMTY2MTcv",
+      "title": "‘I Play Rocky’ Review: Sylvester Stallone’s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
+      "description": "Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.",
+      "url": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp?w=650",
+      "publishedAt": "2026-11-02T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMjUwMzgv",
+      "title": "IndieWire’s Trevor Wallace Wins Daytime Emmy for Editing ‘IndieWire Craft Roundtables’",
+      "description": "IndieWire's long-time video producer won on his first nomination for editing the first season of our PBS series.",
+      "url": "https://www.indiewire.com/awards/results/trevor-wallace-wins-emmy-indiewire-craft-roundtables-1235225038/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2302798543.jpg?w=650",
+      "publishedAt": "2026-11-02T18:28:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Suitcase Richard Burton sent Elizabeth Taylor's clothes to sister in up for auction",
+      "description": "The Welsh film star sent his then-wife and actress Elizabeth Taylor's unwanted clothes to his sister.",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z0l98kp4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/116e/live/e4074ad0-d6d4-11f1-a701-fddedf244c16.png",
+      "publishedAt": "2026-11-02T18:02:51.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-V3LTEyMzUyMjQ1NjMv",
       "title": "‘The Fall and Rise of Reggie Dinkins’ Is the Funniest Series of the Year",
@@ -80,7 +176,7 @@
       "title": "Ruth Madeley Never Thought Acting Was an Option — Now, She’s Playing a Disability Rights Legend in ‘Being Heumann’",
       "description": "Madeley talks to IndieWire about her role as 1970s wheelchair-using activist Judy Heumann in Siân Heder's Oscar-contending biopic.",
       "url": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P108O6SX.jpg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2294595569.jpg?w=650",
       "publishedAt": "2026-11-02T14:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -174,97 +270,13 @@
     {
       "id": "guardian-HMtaGltc2VsZi1sZWc",
       "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
-      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at the The Range LA. The news was first reported on celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
+      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered The Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at The Range LA. The news was first reported on the celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
       "image": "https://i.guim.co.uk/img/media/9aea3e244e5b8f6508611933ef1afa3ad05ac8de/392_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4ec2a21d56c2b1f8a965f846d447675",
       "publishedAt": "2026-11-01T16:39:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMjQ5NTQv",
-      "title": "Box Office: ‘You Can See Everything’ Beats ‘Clayface’ to Capture First Place",
-      "description": "The A24 documentary has now earned more than Michael Moore's \"Bowling for Columbine.\"",
-      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-beats-clayface-first-place-1235224954/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650",
-      "publishedAt": "2026-11-01T16:23:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MjI0ODk5Lw",
-      "title": "Producer Titles Can Be Bought, but Real Creative Producers Take Them for Themselves",
-      "description": "Producers Alison Owen, Carla Hacken, and Lauren Miller Rogen tell IndieWire about the importance of persistence in bringing films and TV shows to life.",
-      "url": "https://www.indiewire.com/features/craft/scad-savannah-film-fest-producers-lauren-miller-rogen-1235224899/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2302415807.jpg?w=650",
-      "publishedAt": "2026-11-01T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-VkLTEyMzUyMjQ5NDMv",
-      "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
-      "description": "The Oscar-nominated director of \"Heat\" and \"The Insider\" was treated for a \"superficial injury.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/michael-mann-accidentally-shoots-himself-in-leg-hospitalized-1235224943/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/07/GettyImages-1817497483.jpg?w=650",
-      "publishedAt": "2026-11-01T14:55:27.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VsLTEyMzUyMjQ4OTgv",
-      "title": "The Arcane Knowledge Directors Wish They Could Summon",
-      "description": "As part of SCAD Savannah Film Fest's Behind Their Lens panel, directors like Sophy Romvari and Kenna Harris told IndieWire about the areas of filmmaking they'd love to explore more.",
-      "url": "https://www.indiewire.com/features/craft/scad-savannah-film-festival-directors-panel-1235224898/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2302281050.jpg?w=650",
-      "publishedAt": "2026-10-31T23:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RoLTEyMzUyMjQ4OTcv",
-      "title": "Artisans Break Down the Tricks and Treats of Designing a Trojan Horse at SCAD Savannah Film Festival",
-      "description": "Production designer Ruth de Jong, editor Sarah Broshar, and costume designer Amy Roth tell IndieWire about the hidden touches they've built into their crafts.",
-      "url": "https://www.indiewire.com/features/craft/scad-savannah-film-festival-artisans-ruth-de-jong-amy-roth-1235224897/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2302264273.jpg?w=650",
-      "publishedAt": "2026-10-31T22:14:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-l0LTEyMzUyMjQ4OTIv",
-      "title": "What Genre Will Be Hollywood’s Next Big Trend? Watch IndieWire’s ‘Pitch Me’ Panelists Weigh in",
-      "description": "At IndieWire's Future of Filmmaking Summit, a panel of executives and representatives explain how they look for breakout hits.",
-      "url": "https://www.indiewire.com/news/events/watch-pitch-me-panel-indiewire-future-of-filmmaking-summit-1235224892/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B1327_b85318.jpg?w=650",
-      "publishedAt": "2026-10-31T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2MtMTIzNTIyNDc5Ny8",
-      "title": "Watch the ‘Rehearsals for a Revolution’ Director and Editor Explain How Memories Can Help Fight Authoritarianism",
-      "description": "At our Art of the Doc event, director Pegah Ahangarani and editor Arash Ashtiani went deep on one of the year's most acclaimed films.",
-      "url": "https://www.indiewire.com/news/events/watch-rehearsals-for-a-revolution-director-art-of-the-doc-1235224797/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_B2706.jpg?w=650",
-      "publishedAt": "2026-10-30T21:14:42.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
