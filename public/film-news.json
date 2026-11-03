@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:30:52.505Z",
+  "generatedAt": "2026-11-03T18:27:30.028Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,126 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9uLTEyMzUyMjUxNTgv",
+      "title": "Even Netflix Is Turning to AI to Help Audiences Figure Out What to Watch",
+      "description": "A new function called AI Discover launches today for select users in the United States.",
+      "url": "https://www.indiewire.com/news/general-news/netflix-ai-discover-function-1235225158/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/AIDiscover-Product-02.jpg?w=650",
+      "publishedAt": "2026-11-03T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-WVkYWstb2JpdHVhcnk",
+      "title": "Peter Medak obituary",
+      "description": "Film and television director who won plaudits for The Ruling Class, The Changeling and The Krays In 2013, when Martin Scorsese compiled a brief list of his favourite horror films, he placed the eerie and overlooked 1980 ghost story The Changeling in the company of classics such as The Shining, The Exorcist and Psycho. Scorsese called it a “haunted house movie filled with sadness and dread”; Guillermo del Toro called it “a masterpiece”. Its director was the versatile British-Hungarian film-maker Peter Medak, who has died aged 88. The Changeling concerns a composer ( George C Scott ) who is grieving the deaths of his wife and daughter in a road accident. After moving into a long-vacant Seattle mansion where things start going bump in the night, he becomes convinced that a spectral presence is trying to communicate with him. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/03/peter-medak-obituary",
+      "image": "https://i.guim.co.uk/img/media/8a29ca3998eca15ec5ae40a75873ec1eb1c4e307/115_0_2670_2137/master/2670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e6fe73405eaaae66ea07700a01dee92",
+      "publishedAt": "2026-11-03T16:44:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-m4tMTIzNTIxMzg0OS8",
+      "title": "To Follow Her Best Picture Win, Siân Heder Opted to Make ‘the Hardest Story She Could Imagine’",
+      "description": "For \"Being Heumann,\" Heder takes on a seminal moment in the life of the remarkable disability activist Judy Heumann. She imagined a risky film, populated by all manner of disabled performers, that felt more \"Dog Dog Afternoon\" than cultural vegetables. All that? It was scary. It was worth it.",
+      "url": "https://www.indiewire.com/features/interviews/sian-heder-best-picture-coda-next-film-being-heumann-1235213849/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294050383.jpg?w=650",
+      "publishedAt": "2026-11-03T16:30:01.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjE3MzM1Lw",
+      "title": "How to Make IndieWire a Preferred Source on Google",
+      "description": "You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.",
+      "url": "https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-11-at-1.41.40-PM.png?w=650",
+      "publishedAt": "2026-11-03T15:30:12.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-Y2luZW1hLWZ1dHVyZQ",
+      "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
+      "description": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer. But is it any good? The Guardian watched Sanxingdui: Future Past in a virtually empty cinema in Beijing, and found it no worse than plenty of human-centred mindless action flicks. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+      "image": "https://i.guim.co.uk/img/media/0ad0e79a806a919abfc3cd4cc770615dbd933484/250_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baa7685906950060a4923d5c6d646caf",
+      "publishedAt": "2026-11-03T14:32:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIyNTE0MC8",
+      "title": "Taika Waititi’s Delusional ‘Klara and the Sun’ Instagram Post Exemplifies the Dangers of a Growing Divide Between Critics and Artists in the Digital Age",
+      "description": "Let's spare a thought for those sad lost souls who couldn’t achieve their dreams of staying relevant artists.",
+      "url": "https://www.indiewire.com/features/commentary/taika-waititi-bad-instagram-post-critics-klara-and-the-sun-1235225140/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-8.34.28-PM.png?w=650",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "The Crown star Josh O'Connor reacts to Bond rumours",
+      "description": "BAFTA nominated actor Josh O'Connor says he is \"honoured\" by the speculation he could be next Bond.",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6870/live/02f05e20-d787-11f1-9440-953b82c8f55a.jpg",
+      "publishedAt": "2026-11-03T14:25:40.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RvLTEyMzUyMjUwNTMv",
+      "title": "Before He Played Sylvester Stallone in ‘I Play Rocky,’ Star Anthony Ippolito Fought Hard for His Own Big Break",
+      "description": "To snag the starring role in Peter Farrelly's crowd-pleasing \"I Play Rocky,\" the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.",
+      "url": "https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2301399143.jpg?w=650",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Y29tZWR5LWhvcnJvcg",
+      "title": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
+      "description": "Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy In this amusingly silly exercise in gross-out body horror and bathos from New Zealand, thirtysomething underachiever Mary (Hannah Lynch) finds herself unexpectedly pregnant after shy neighbour Boo (Arlo Green) ejaculates on her in the communal laundry room with his tentacle-bearing alien penis (hence the self-explanatory title). We never quite find out why Boo has such outre sex organs, but nothing here should be overthought since it is all about setting up moments where the New Zealand cast react with deadpan calmness (or at best mild annoyance) to the most bizarre circumstances, as if it’s all just another Tuesday on South Island. Fortunately, the cast is well up for serving this sort of underplayed comedy, especially supporting players Yvette Parsons and Jackie van Beek, as Mary and Arlo’s single mums Cynthia and Ann respectively. For example, somewhere towards the end (and don’t worry, there’s nothing to spoil here), Cynthia gets a little het up about Mary farting too much, after a nest of mucus, tissue and alien gristle shoots out of Mary’s nether regions. Ann, on the other hand, gets quite concerned about the mess all this is making of her immaculate flat, and keeps apologising for the disorder to anyone who shows up, including unflappable paramedics Sofia (Karen O’Leary) and Sophie (Ariadne Baltazar). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/03/mum-im-alien-pregnant-review-slime-and-silliness-in-amusing-new-zealand-comedy-horror",
+      "image": "https://i.guim.co.uk/img/media/3d523060ea03fa1529c7477c7e2f253f1e39e6f8/341_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ab9d37b2c2c3c475388119f2b62254fb",
+      "publishedAt": "2026-11-03T13:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZC1ub21pbmF0aW9ucw",
+      "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
+      "description": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised Elsinore, the drama in which Andrew Scott plays the actor Ian Charleson as he takes on Shakespeare’s Hamlet in the last months of his life, before he died of Aids in 1990, has emerged as the leading contender for the British independent film awards (Bifas). The film, which is directed by Simon Stone and co-stars Olivia Colman, Billie Piper and Johnny Flynn, received 12 nominations, including best British independent film, best director for Stone and best lead performance for Scott. Elsinore has collected rave reviews since its premiere at the Telluride film festival in September, with the Guardian’s Benjamin Lee describing it as “a devastating movie [that] is a reminder of Charleson’s strength and the many men like him and it implores us to remember them too”. Scott is also already being tipped as the favourite for the best actor Oscar – and he would be the first out gay actor to win. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
+      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/374_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb567be8a15e3b3168117a924eba986e",
+      "publishedAt": "2026-11-03T12:49:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-AxMS1lYXJ0aHF1YWtl",
       "title": "Ghost Town review – the phantoms and lost souls haunting a Japanese city after the 2011 earthquake",
@@ -46,18 +166,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/03/manipulation-review-preposterous-da-vinci-code-thriller-david-balda",
       "image": "https://i.guim.co.uk/img/media/d6e88b3175792a73c8d474ace09cab07b4aa600e/5195_0_6322_5057/master/6322.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=094429f32c9cdd5049ae213caae0542b",
       "publishedAt": "2026-11-03T09:00:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1vbi1jb25mb3JtaXR5",
-      "title": "New Group review – schoolkids build human pyramids in bizarre Japanese horror-satire on conformity",
-      "description": "Two outsider students at a super-strict high school find they are definitely not with the programme in Yûta Shimotsu’s body-bending sci-fi scarer Here is an intermittently amusing Japanese social satire about conformity directed by Yûta Shimotsu; it has flashes of brilliance but lacks the kind of engaging characters that could have taken it to the next level. Ai (Anna Yamada) is an unpopular pupil who has always tried to fit in, and Yu (Yuzu Aoki) is a transfer student who more deliberately resists the demands of peer pressure. Their high school is super-strict at a baseline level – and when things start to degenerate, with students forming themselves into human pyramids and turning into mindless drones, it becomes clear something extremely peculiar is at work. Fans of The Faculty, Robert Rodriguez and Kevin Williamson’s 1998 high-school riff on Invasion of the Body Snatchers, might be pricking up their ears at this point, but New Group is a less straightforward narrative than the American film, prioritising eeriness and mystery over fun and games. It gets full marks for what you might call its groupthink set-pieces: students acting en masse as a giant, many-celled organism. Some of the choreography and image-making here is fantastic: as with Zach Cregger’s recent Resident Evil , in which multi-limbed crazy mutants are performed by human dancers and acrobats with circus-style skills, then augmented with a smattering of FX, the focus here is the human body as the basis for the memorable stunts. CGI has clearly been used too, but is not the be-all-and-end-all, and this makes a difference: there’s a tangible sense of bodies on the line. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/new-group-review-schoolkids-build-human-pyramids-in-bizarre-japanese-horror-satire-on-conformity",
-      "image": "https://i.guim.co.uk/img/media/d67c0d97cb75262e95df0068028e5dd34ecb2013/199_0_1728_1383/master/1728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=94b3d7748967db915f3e920d50c9322c",
-      "publishedAt": "2026-11-03T07:00:42.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -148,18 +256,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-cy0xMjM1MjI1MDYyLw",
-      "title": "‘The Hunger Games: Sunrise on the Reaping’ Will Be in 3D in Theaters — and on Meta’s New VR Glasses",
-      "description": "Lionsgate is partnering with Facebook parent company Meta on the 3D version of the film and will collaborate on future titles for the VR glasses hitting shelves next spring.",
-      "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
-      "publishedAt": "2026-11-02T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-bi0xMjM1MTc4NTY3Lw",
       "title": "‘Mouse’ Review: ‘Saint Frances’ and ‘Ghostlight’ Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale",
       "description": "Around these parts, every Kelly O'Sullivan and Alex Thompson feature film is an event. The pair's third production together is no exception — and their best to date.",
@@ -172,40 +268,16 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-5lLTEyMzUyMTY2MTcv",
-      "title": "‘I Play Rocky’ Review: Sylvester Stallone’s Wild Hollywood Underdog Story Gets a Punchy Crowdpleaser",
-      "description": "Peter Farrelly continues his reign of making audience-delighting hits for the TIFF crowd, but this one pulls its punches a bit.",
-      "url": "https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/DSCF1969_C2-H-2026.webp?w=650",
-      "publishedAt": "2026-11-02T19:00:00.000Z",
+      "id": "indiewire-cy0xMjM1MjI1MDYyLw",
+      "title": "‘The Hunger Games: Sunrise on the Reaping’ Will Be in 3D in Theaters — and on Meta’s New VR Glasses",
+      "description": "Lionsgate is partnering with Facebook parent company Meta on the 3D version of the film and will collaborate on future titles for the VR glasses hitting shelves next spring.",
+      "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
+      "publishedAt": "2026-11-02T20:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-S1jb2xtYW4tbW92aWU",
-      "title": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
-      "description": "Olivia Colman’s steamy romance, where she plays a woman in love with a wicker man, becomes an unlikely pick for the theme park-like cinema experience What does Olivia Colman’s hot sex with a basket tell us about heteropessimism? ‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker Since its introduction in the US in 2014, 4DX, the rollercoaster-ization of the theatrical experience, has primarily been the purview of action movies. And for good reason; the high-speed chases of a Fast and Furious movie, or repetitive battle sequences of an Avatar saga, translate easily to the moving chairs, scent machines and wind/water sprayers of the format, which more closely resembles an amusement park ride than cinema. As a longtime fan of plane turbulence-style seat movement, I thought the immersive pleasures of 4DX – the second most-popular of so-called large premium formats in the US, behind Imax – reached its zenith in the summer of 2024 with the release of Twisters, a perfectly fine action movie about tornadoes that became an 11/10 experience when jostled in one’s seat to actual wind and rain. But a recent, unexpected candidate is finally pushing the bounds of 4DX again, making the most of the format’s potential to enhance the sensorial joys of cinema. Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie",
-      "image": "https://i.guim.co.uk/img/media/6539b8202f026e4a326b2c90286760d1575be653/2287_546_4273_3419/master/4273.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a43973acc174882d5fec7b4f210aa00",
-      "publishedAt": "2026-11-02T18:29:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMjUwMzgv",
-      "title": "IndieWire’s Trevor Wallace Wins Daytime Emmy for Editing ‘IndieWire Craft Roundtables’",
-      "description": "IndieWire's long-time video producer won for editing the first season of our PBS series.",
-      "url": "https://www.indiewire.com/awards/results/trevor-wallace-wins-emmy-indiewire-craft-roundtables-1235225038/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2302798543.jpg?w=650",
-      "publishedAt": "2026-11-02T18:28:45.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -218,42 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjQ1NjMv",
-      "title": "‘The Fall and Rise of Reggie Dinkins’ Is the Funniest Series of the Year",
-      "description": "In an era filled with too many forgettable revivals and too few legitimate comedies, the \"30 Rock\" team made something new while adhering to their joke-dense, pop-culture savvy, and network-friendly approach to sitcoms. The result? The year's funniest show.",
-      "url": "https://www.indiewire.com/criticism/shows/the-fall-and-rise-of-reggie-dinkins-season-2-review-1235224563/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Fall-and-Rise-of-Reggie-Dinkins-Season-2-Daniel-Radcliffe-Tracy-Morgan.jpg?w=650",
-      "publishedAt": "2026-11-02T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-jctMTIzNTIyNTAxOS8",
-      "title": "Netflix Will Give Joel Coen’s Gothic Mystery ‘Jack of Spades’ a Theatrical Release in 2027",
-      "description": "The film stars Patsy Ferran, Josh O’Connor, Damian Lewis, and Lesley Manville.",
-      "url": "https://www.indiewire.com/news/breaking-news/netflix-joel-coen-jack-of-spades-theatrical-release-2027-1235225019/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300603366.jpg?w=650",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIyNTAwNS8",
-      "title": "As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually",
-      "description": "As California continues to lose production jobs, can the state find a way to keep Hollywood local?",
-      "url": "https://www.indiewire.com/news/breaking-news/production-jobs-flee-california-governor-newsom-film-tax-credit-plan-1235225005/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/SSDHOLL_EC002.jpg?w=650",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -376,18 +412,6 @@
       "category": "Classics"
     },
     {
-      "id": "guardian-ZXJlLW5vbmUtZGllcw",
-      "title": "Elke Sommer, prolific German star of A Shot in the Dark and And Then There Were None, dies aged 85",
-      "description": "The Berlin-born performer had a gift for languages that took her to Hollywood, landing roles alongside Peter Sellers, Dick Van Dyke and Paul Newman Elke Sommer, the prolific German star of the Pink Panther film A Shot in the Dark, early 70s Agatha Christie adaptation And Then there Were None, and British sex comedy Carry on Behind, has died aged 85. Bild magazine reported that Sommer died in Los Angeles of heart failure. German-born Sommer, whose best-known film roles were in the 1960s and 70s, was one of the wave of European performers who crossed over to Hollywood and English-language cinema with considerable success, following the postwar emergence of European new wave cinema. Sommer was one of the few German actors to make waves at the time, as Hollywood made much of her bombshell image. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
-      "image": "https://i.guim.co.uk/img/media/a5bd5bf44de86d5645ef230aec31ff1400c125a8/0_318_2104_1683/master/2104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0494b084e18c10f307cbd17136f270dd",
-      "publishedAt": "2026-10-29T16:36:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-GhvbnktaXBwb2xpdGE",
       "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
       "description": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty years ago this December, cinema’s greatest underdog story hit the screen, a tale about a Philadelphia ham-and-egger who takes the world heavyweight boxing champ all the way to the final bell, losing the fight on a judge’s decision but winning the hearts of a nation. That film, of course, was Rocky. Its creation, famously, was no less remarkable an underdog story – one about an out-of-work character actor with the curious name of Sylvester Stallone who wrote his own boxing movie then managed to convince a studio not only to finance it, but also to cast him in the title role. He then went one further than the character he was playing by earning the top prize: a best picture Oscar. If you thought, half a century on, Rocky’s punching power – its unerring ability to make heroes out of zeroes – has faded, think again. This, after all, is a movie franchise whose stirring qualities are enough to make thousands of people hurtle up all 72 of the Philadelphia Museum of Art’s steps every year in homage to its plucky pugilist . Continue reading...",
@@ -398,18 +422,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LWRpZXMtYWdlZC04OA",
-      "title": "Peter Medak, veteran director of The Krays and The Changeling, dies aged 88",
-      "description": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking Bad Peter Medak, the British-Hungarian director of The Changeling, The Krays and Let Him Have It, has died aged 88. Medak’s family announced he died peacefully in Los Angeles on Tuesday. Medak enjoyed a long and varied career across film and TV, which included spirit-of-the-times classics A Day in the Death of Joe Egg and The Ruling Class (both from 1972), cult horror The Changeling with George C Scott, and The Krays and Let Him Have It, period true crime films made in the early 1990s. He also directed numerous episodes of high-profile TV drama, including the 80s revival of The Twilight Zone, Homicide: Life on the Street, and Hannibal. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
-      "image": "https://i.guim.co.uk/img/media/64e02666420906b5465098b638072cbf8f8b0764/0_6_2712_2169/master/2712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2df0f180e8cedce2223f045c60252df0",
-      "publishedAt": "2026-10-28T17:43:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-ei1nbGVubi1jbG9zZQ",
