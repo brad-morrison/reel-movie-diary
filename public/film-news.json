@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T00:42:53.620Z",
+  "generatedAt": "2026-11-03T06:33:32.077Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-XctMTIzNTIyNTE3My8",
+      "title": "‘Okinawa Saudade’ Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement",
+      "description": "Yoju Matsubayashi's latest film follows third-generation Okinawan-Brazilian as they reflect on their distant homeland.",
+      "url": "https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Okinawa-Saudade.webp?w=650",
+      "publishedAt": "2026-11-03T03:42:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-3MtMTIzNTIyNTA4NS8",
+      "title": "AT&#038;T and IndieWire’s Filmmaker Party at AFI Fest Celebrated Filmmakers and Those Who Champion Them",
+      "description": "A week after partnering on our Future of Filmmaking Summit, AT&#38;T and IndieWire teamed up again to celebrate the next generation of storytellers.",
+      "url": "https://www.indiewire.com/news/events/indiewire-att-afi-fest-filmmaker-party-photos-1235225085/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B6711.jpg?w=650",
+      "publishedAt": "2026-11-03T01:04:27.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-F9jYW1wYWlnbj1yc3M",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg",
+      "publishedAt": "2026-11-03T00:09:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-NlLTEyMzUyMjQ5MzYv",
       "title": "The First Time Producers Had to Find a New James Bond, the Result Was the Best 007 Movie Ever",
@@ -90,7 +126,7 @@
     {
       "id": "indiewire-VzLTEyMzUyMjUwMzgv",
       "title": "IndieWire’s Trevor Wallace Wins Daytime Emmy for Editing ‘IndieWire Craft Roundtables’",
-      "description": "IndieWire's long-time video producer won on his first nomination for editing the first season of our PBS series.",
+      "description": "IndieWire's long-time video producer won for editing the first season of our PBS series.",
       "url": "https://www.indiewire.com/awards/results/trevor-wallace-wins-emmy-indiewire-craft-roundtables-1235225038/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2302798543.jpg?w=650",
       "publishedAt": "2026-11-02T18:28:45.000Z",
@@ -148,18 +184,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-YS0xMjM1MjI1MDAwLw",
-      "title": "‘Earthlings in Love’ Review: A Sentimental Sci-fi Journey Makes the Leap from TikTok to the Tokyo International Film Festival",
-      "description": "“One Cut of the Dead” director Shinichiro Ueda helms a project that’s better than a “vertical drama” has any right to be.",
-      "url": "https://www.indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/earthlings-in-love-ueda-1.webp?w=650",
-      "publishedAt": "2026-11-02T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Jack Lowden says James Bond speculation is 'flattering'",
       "description": "The Slow Horses star is among three actors reported to be in the running for the iconic movie role.",
@@ -169,18 +193,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjI0OTU3Lw",
-      "title": "Ruth Madeley Never Thought Acting Was an Option — Now, She’s Playing a Disability Rights Legend in ‘Being Heumann’",
-      "description": "Madeley talks to IndieWire about her role as 1970s wheelchair-using activist Judy Heumann in Siân Heder's Oscar-contending biopic.",
-      "url": "https://www.indiewire.com/features/interviews/being-heumann-ruth-madeley-interview-1235224957/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2294595569.jpg?w=650",
-      "publishedAt": "2026-11-02T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
