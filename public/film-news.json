@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T18:27:30.028Z",
+  "generatedAt": "2026-11-04T00:42:08.905Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9uLTEyMzUyMjUyMzQv",
+      "title": "The Mad (Color) Science Behind Rian Johnson’s New Camera App",
+      "description": "Steve Yedlin talks to IndieWire about designing the Chromagraph app and bullying the iPhone camera to behave more cinematically — with math!",
+      "url": "https://www.indiewire.com/features/craft/steve-yedlin-interview-chromagraph-camera-app-rian-johnson-1235225234/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/WUDM_20240620_05144_R2.jpg?w=650",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI1MzQzLw",
+      "title": "5 Big Challenges in Creating Criterion’s ‘The Complete Kubrick’: From Navigating HDR/4K to Preserving Stanley Kubrick’s Love of Mono Sound",
+      "description": "The producer of Criterion's new Stanley Kubrick Box Set tells IndieWire about trying to get inside the mind of a director who was obsessed with his films' home video presentation.",
+      "url": "https://www.indiewire.com/features/interviews/the-complete-kubrick-inside-criterion-box-set-1235225343/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/CompleteKubrick_16x9.jpeg?w=650",
+      "publishedAt": "2026-11-03T22:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-F5LTEyMzUyMjUxODUv",
+      "title": "Ebenezer’s Venmo and ‘How to Rob a Bank’ ATMs: Studios Are Now Promoting Movies by Just Giving Away Money",
+      "description": "Film marketing teams are creating stunts around cold, hard cash — a bid at virality built for the internet's bleak age of endless transactions.",
+      "url": "https://www.indiewire.com/features/general/ebenezer-venmo-how-to-rob-a-bank-atm-studios-giveaway-1235225185/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/11/EbenezerVenmoHowToRobABankATMSplit.jpg?w=650",
+      "publishedAt": "2026-11-03T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Ni0xMjM1MjI1MTgyLw",
+      "title": "What Are Local Movie Theaters Showing on Election Night?",
+      "description": "From “The Devils” and David Lynch to a one-person erotic cinema and “Hardball,” here's how film programmers all across the U.S. are serving their communities on November 3.",
+      "url": "https://www.indiewire.com/features/interviews/what-are-movie-theaters-showing-election-night-2026-1235225182/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/election-night-showings_39f7c5.jpg?w=650",
+      "publishedAt": "2026-11-03T20:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIyNTExMS8",
+      "title": "Don’t Forget, Oscar Watchers: ‘The Odyssey,’ ‘Project Hail Mary,’ and Other Big Guns Are Coming Back",
+      "description": "The studios are ramping up their blockbusters for Oscar consideration as \"Disclosure Day\" star Emily Blunt hits the promo trail and \"The Odyssey\" Best Actor front-runner Matt Damon takes on \"Project Hail Mary\" charmer Ryan Gosling.",
+      "url": "https://www.indiewire.com/awards/predictions/oscar-big-guns-odyssey-disclosure-day-project-hail-mary-campaigns-1235225111/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/MCDODYS_UV016.jpg?w=650",
+      "publishedAt": "2026-11-03T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjUyNTUv",
+      "title": "‘The Intertwining’ Review: Two Medical Students Uncover Buried Truths in Tense Psychological Drama",
+      "description": "A Japanese woman and a Korean woman learn they were switched during IVF in an intensely controlled film from Kiyoshi Kurosawa protegé Akira Yamamoto.",
+      "url": "https://www.indiewire.com/criticism/movies/the-intertwining-movie-review-1235225255/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/35649bbd-c2a1-48b5-9baf-7d86fce5bfae.jpeg?w=650",
+      "publishedAt": "2026-11-03T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIyNTI0NS8",
+      "title": "Billy Evans Hosts AMA on (His Own) X Account: ‘You Can See Everything’ Subject on Not Being a Cocaine Fan, Going Full Frontal, and What His Cousin’s Thing Was",
+      "description": "Elizabeth Holmes' life partner spend Monday answering \"legally permissible\" questions from fans.",
+      "url": "https://www.indiewire.com/news/general-news/billy-evans-you-can-see-everything-elizabeth-holmes-cocaine-full-frontal-1235225245/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-03-at-9.16.58-AM.png?w=650",
+      "publishedAt": "2026-11-03T18:56:05.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTE5MzU4NC8",
+      "title": "Jordan Firstman Opens Up with ‘Club Kid,’ His Hilarious, Tender, and Must-See Feature Filmmaking Debut",
+      "description": "“I’ve softened a lot in the process of making it,” Firstman told IndieWire, reflecting on the melancholy portrait he paints in a film about queer nightlife and learning how to be seen.",
+      "url": "https://www.indiewire.com/features/interviews/jordan-firstman-club-kid-interview-1235193584/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2275835762.jpg?w=650",
+      "publishedAt": "2026-11-03T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-9uLTEyMzUyMjUxNTgv",
       "title": "Even Netflix Is Turning to AI to Help Audiences Figure Out What to Watch",
@@ -100,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-RvLTEyMzUyMjUwNTMv",
-      "title": "Before He Played Sylvester Stallone in ‘I Play Rocky,’ Star Anthony Ippolito Fought Hard for His Own Big Break",
-      "description": "To snag the starring role in Peter Farrelly's crowd-pleasing \"I Play Rocky,\" the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.",
-      "url": "https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2301399143.jpg?w=650",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-Y29tZWR5LWhvcnJvcg",
       "title": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
       "description": "Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy In this amusingly silly exercise in gross-out body horror and bathos from New Zealand, thirtysomething underachiever Mary (Hannah Lynch) finds herself unexpectedly pregnant after shy neighbour Boo (Arlo Green) ejaculates on her in the communal laundry room with his tentacle-bearing alien penis (hence the self-explanatory title). We never quite find out why Boo has such outre sex organs, but nothing here should be overthought since it is all about setting up moments where the New Zealand cast react with deadpan calmness (or at best mild annoyance) to the most bizarre circumstances, as if it’s all just another Tuesday on South Island. Fortunately, the cast is well up for serving this sort of underplayed comedy, especially supporting players Yvette Parsons and Jackie van Beek, as Mary and Arlo’s single mums Cynthia and Ann respectively. For example, somewhere towards the end (and don’t worry, there’s nothing to spoil here), Cynthia gets a little het up about Mary farting too much, after a nest of mucus, tissue and alien gristle shoots out of Mary’s nether regions. Ann, on the other hand, gets quite concerned about the mess all this is making of her immaculate flat, and keeps apologising for the disorder to anyone who shows up, including unflappable paramedics Sofia (Karen O’Leary) and Sophie (Ariadne Baltazar). Continue reading...",
@@ -172,30 +256,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XctMTIzNTIyNTE3My8",
-      "title": "‘Okinawa Saudade’ Review: A Moving Documentary About the Okinawan-Brazilian Community Explores the History of Displacement",
-      "description": "Yoju Matsubayashi's latest film follows third-generation Okinawan-Brazilian as they reflect on their distant homeland.",
-      "url": "https://www.indiewire.com/criticism/movies/okinawa-saudade-documentary-review-1235225173/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Okinawa-Saudade.webp?w=650",
-      "publishedAt": "2026-11-03T03:42:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-3MtMTIzNTIyNTA4NS8",
-      "title": "AT&#038;T and IndieWire’s Filmmaker Party at AFI Fest Celebrated Filmmakers and Those Who Champion Them",
-      "description": "A week after partnering on our Future of Filmmaking Summit, AT&#38;T and IndieWire teamed up again to celebrate the next generation of storytellers.",
-      "url": "https://www.indiewire.com/news/events/indiewire-att-afi-fest-filmmaker-party-photos-1235225085/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B6711.jpg?w=650",
-      "publishedAt": "2026-11-03T01:04:27.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LW1pa2UtbmljaG9scw",
       "title": "Dustin Hoffman says filming The Graduate was ‘a terrible experience’ due to Mike Nichols’ ‘sadism’",
       "description": "In his new memoir, the actor reveals he was slapped 27 times until he was dizzy for a scene director Nichols ‘didn’t even use’ Almost 60 years after The Graduate was released, Dustin Hoffman has revealed that making the 1967 film that launched his career was “a terrible experience” and he felt “immediately uncomfortable, unworthy” as a Jewish actor playing “the ultimate Wasp”, Ben Braddock. In an essay for the New Yorker , drawn from his upcoming memoir Look at Me, which was co-written with New Yorker staff writer Ariel Levy, the 89-year-old actor wrote: “The Graduate exacerbated all my insecurities from the start. Continue reading...",
@@ -209,7 +269,7 @@
     },
     {
       "id": "bbc-F9jYW1wYWlnbj1yc3M",
-      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
       "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg",
@@ -217,66 +277,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NlLTEyMzUyMjQ5MzYv",
-      "title": "The First Time Producers Had to Find a New James Bond, the Result Was the Best 007 Movie Ever",
-      "description": "As the makers of the next James Bond film zero in on their Agent 007, we look back at \"On Her Majesty's Secret Service,\" which replaced Sean Connery with unknown George Lazenby and became a favorite of filmmakers like Christopher Nolan and Steven Soderbergh.",
-      "url": "https://www.indiewire.com/features/commentary/george-lazenby-james-bond-on-her-majestys-secret-service-1235224936/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDONHE_EC023.jpg?w=650",
-      "publishedAt": "2026-11-02T21:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIyNTA1Ny8",
-      "title": "‘The Liberation’ Trailer: Carrie Coon Is Lured Into Lily James’ Cult in a Gut-Wrenching Drama",
-      "description": "The fall festival hit opens in theaters on January 8, courtesy of Bleecker Street.",
-      "url": "https://www.indiewire.com/news/trailers/the-liberation-trailer-carrie-coon-1235225057/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Carrie-Coon-in-The-Liberation_FINAL-Key-Still-courtesy-Bleecker-Street.jpg?w=650",
-      "publishedAt": "2026-11-02T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMTg3MjAv",
-      "title": "‘Godzilla Minus Zero’ Review: The King of the Monsters Returns with a Direct Sequel That’s One Better Than the Last Movie in Almost Every Way",
-      "description": "Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.",
-      "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-07-09-100054.webp?w=650",
-      "publishedAt": "2026-11-02T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-bi0xMjM1MTc4NTY3Lw",
-      "title": "‘Mouse’ Review: ‘Saint Frances’ and ‘Ghostlight’ Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale",
-      "description": "Around these parts, every Kelly O'Sullivan and Alex Thompson feature film is an event. The pair's third production together is no exception — and their best to date.",
-      "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/02/Mouse.webp?w=650",
-      "publishedAt": "2026-11-02T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI1MDYyLw",
-      "title": "‘The Hunger Games: Sunrise on the Reaping’ Will Be in 3D in Theaters — and on Meta’s New VR Glasses",
-      "description": "Lionsgate is partnering with Facebook parent company Meta on the 3D version of the film and will collaborate on future titles for the VR glasses hitting shelves next spring.",
-      "url": "https://www.indiewire.com/news/breaking-news/hunger-games-sunrise-reaping-3d-version-meta-vr-glasses-1235225062/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
-      "publishedAt": "2026-11-02T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
