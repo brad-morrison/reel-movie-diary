@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T12:30:40.995Z",
+  "generatedAt": "2026-11-04T18:28:11.894Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-W4tMTIzNTE5Mzk2NS8",
+      "title": "‘Club Kid’ Review: Jordan Firstman’s Brazen, Funny, and Surprisingly Earnest Directing Debut Is a Wild Party Movie with Heart",
+      "description": "The controversy-courting comedian/actor reinvents himself as a filmmaker, and as the star of his own hugely crowdpleasing movie as a washed-up New York party promoter forced to mature the hard way.",
+      "url": "https://www.indiewire.com/criticism/movies/club-kid-review-jordan-firstman-1235193965/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.06.54 PM.png?w=650",
+      "publishedAt": "2026-11-04T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIxMzY1Ny8",
+      "title": "‘Being Heumann’ Review: Siân Heder’s ‘CODA’ Follow-Up Is an Essential Biopic That’s Not Afraid to Have Some Fun",
+      "description": "Heder's look at a remarkable period in activist Judy Heumann's work is life-affirming in myriad ways, and boasts a star turn from Ruth Madeley.",
+      "url": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-3-1.jpeg?w=632",
+      "publishedAt": "2026-11-04T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-S1kaWVzLWFnZWQtOTM",
+      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
+      "description": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi and children Bonifacio and Beatrice Brass announced the news of the director’s death to Italian press agency Ansa on Wednesday. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
+      "image": "https://i.guim.co.uk/img/media/200f4cf3cbea53e1603982201c59d54825ccfb60/324_0_3240_2592/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2518b1fa334eef143bd1af41cdb02130",
+      "publishedAt": "2026-11-04T16:47:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjI1MjI0Lw",
+      "title": "Will Brill Won a Tony and Got His First Leading Film Role, but That’s Not How He Measures Success",
+      "description": "A Tony winner for \"Stereophonic,\" a leading man thanks to \"The Musical,\" and the kind of supporting star who makes everything better (like this week's \"Being Heumann\"), Brill tells IndieWire what real creative joy looks like.",
+      "url": "https://www.indiewire.com/features/interviews/will-brill-tony-stereophonic-the-musical-being-heumann-1235225224/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2294591069-e1793721640877.jpg?w=650",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjU0NDAv",
+      "title": "‘Cherry &#038; Virgin’ Review: A Fantastic Indie Anime Blends Different Art Styles and a Slew of Pop Culture References into an Innovative Modern Rom-Com",
+      "description": "An erotic manga artist who's never had sex falls in love with a similarly inexperienced illustrator in Masanao Kawajiri's Tokyo International Film Festival standout.",
+      "url": "https://www.indiewire.com/criticism/movies/cherry-virgin-anime-movie-review-1235225440/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Cherry-and-Virgin-footage-screenshot.webp?w=650",
+      "publishedAt": "2026-11-04T15:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIyNTMwMC8",
+      "title": "Alan Cumming Says ‘Tip Toe’ Was His Greatest Role Ever — but He Never Wants to Think About It Again",
+      "description": "Series creator Russell T. Davies and Cumming tells IndieWire all about that devastating finale and why this role made the actor's career.",
+      "url": "https://www.indiewire.com/features/interviews/alan-cumming-tip-toe-greatest-role-ever-finale-1235225300/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Feature-option-1-toe1-104-100125-3451-a.jpg?w=650",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyNTQzMi8",
+      "title": "‘Caligula’ Director Tinto Brass Dies at 93",
+      "description": "The Italian filmmaker was best known for his hardcore portrait of the Roman emperor, but also made several notable erotic movies.",
+      "url": "https://www.indiewire.com/news/obituary/caligula-director-tinto-brass-dies-1235225432/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/08/Caligula-still-X.png?w=650",
+      "publishedAt": "2026-11-04T14:03:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI1MDIyLw",
+      "title": "‘The Greatest’ Review: Amazon’s Handsome Muhammed Ali Biopic Connects in Spite of Itself",
+      "description": "Produced in collaboration with the iconic athlete's estate, creator Ben Watkins' earnest eight-part series follows Ali from his Gold Medal win through his first championship belt.",
+      "url": "https://www.indiewire.com/criticism/shows/the-greatest-review-muhammad-ali-amazon-prime-series-1235225022/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Greatest-Amazon-series-Muhammad-Ali-show.jpg?w=650",
+      "publishedAt": "2026-11-04T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Z2Utc2NhbGUtZXBpYw",
+      "title": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
+      "description": "Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from director Nitesh Tiwari, with music by Hans Zimmer and AR Rahman, based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu. It has often been adapted for live-action and animated movies in the past, though surely not on this scale, the current three-hour blockbuster being only the first half. (There are no musical numbers though.) The idea of aristocrats submitting stoically and yet playfully to exile in the forest has something Shakespearean about it, and if you are suffering from Homer-withdrawal after Christopher Nolan’s The Odyssey , a story about the noble Prince Rama finally vowing to wage war on a distant city where his wife has been abducted might just fit the bill. Ranbir Kapoor plays the mythical Rama, a noble warrior and statesman who has been brought into being in the city state of Ayodhya as a bodily representative of Vishnu, and from the first his sense of destiny is overwhelming. But what exactly is that destiny? In broad terms, his fate is to face off with Ravana (Naveen “Yash” Kumar), king of far-off Lanka, a figure whose former slave status once triggered in him such a cosmically intense prayer for justice that Lord Brahma offered him the superpower of athletic strength and indifference to pain. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
+      "image": "https://i.guim.co.uk/img/media/12eb62d74a294db635745f2c7c9b1e8210c29723/1288_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=130aa45399b120ccaf847f4b539ca3f7",
+      "publishedAt": "2026-11-04T13:00:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-XN0LWNvbW1lbnRhcnk",
       "title": "Crawlers review – killer-spiders movie offers giant-arachnid action alongside anticapitalist commentary",
@@ -124,90 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-V3LTEyMzUyMjUyNTUv",
-      "title": "‘The Intertwining’ Review: Two Medical Students Uncover Buried Truths in Tense Psychological Drama",
-      "description": "A Japanese woman and a Korean woman learn they were switched during IVF in an intensely controlled film from Kiyoshi Kurosawa protegé Akira Yamamoto.",
-      "url": "https://www.indiewire.com/criticism/movies/the-intertwining-movie-review-1235225255/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/35649bbd-c2a1-48b5-9baf-7d86fce5bfae.jpeg?w=650",
-      "publishedAt": "2026-11-03T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIyNTI0NS8",
-      "title": "Billy Evans Hosts AMA on (His Own) X Account: ‘You Can See Everything’ Subject on Not Being a Cocaine Fan, Going Full Frontal, and What His Cousin’s Thing Was",
-      "description": "Elizabeth Holmes' life partner spend Monday answering \"legally permissible\" questions from fans.",
-      "url": "https://www.indiewire.com/news/general-news/billy-evans-you-can-see-everything-elizabeth-holmes-cocaine-full-frontal-1235225245/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-03-at-9.16.58-AM.png?w=650",
-      "publishedAt": "2026-11-03T18:56:05.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTE5MzU4NC8",
-      "title": "Jordan Firstman Opens Up with ‘Club Kid,’ His Hilarious, Tender, and Must-See Feature Filmmaking Debut",
-      "description": "“I’ve softened a lot in the process of making it,” Firstman told IndieWire, reflecting on the melancholy portrait he paints in a film about queer nightlife and learning how to be seen.",
-      "url": "https://www.indiewire.com/features/interviews/jordan-firstman-club-kid-interview-1235193584/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/GettyImages-2275835762.jpg?w=650",
-      "publishedAt": "2026-11-03T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMjUxNTgv",
-      "title": "Even Netflix Is Turning to AI to Help Audiences Figure Out What to Watch",
-      "description": "A new function called AI Discover launches today for select users in the United States.",
-      "url": "https://www.indiewire.com/news/general-news/netflix-ai-discover-function-1235225158/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/AIDiscover-Product-02.jpg?w=650",
-      "publishedAt": "2026-11-03T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-WVkYWstb2JpdHVhcnk",
-      "title": "Peter Medak obituary",
-      "description": "Film and television director who won plaudits for The Ruling Class, The Changeling and The Krays In 2013, when Martin Scorsese compiled a brief list of his favourite horror films, he placed the eerie and overlooked 1980 ghost story The Changeling in the company of classics such as The Shining, The Exorcist and Psycho. Scorsese called it a “haunted house movie filled with sadness and dread”; Guillermo del Toro called it “a masterpiece”. Its director was the versatile British-Hungarian film-maker Peter Medak, who has died aged 88. The Changeling concerns a composer ( George C Scott ) who is grieving the deaths of his wife and daughter in a road accident. After moving into a long-vacant Seattle mansion where things start going bump in the night, he becomes convinced that a spectral presence is trying to communicate with him. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/peter-medak-obituary",
-      "image": "https://i.guim.co.uk/img/media/8a29ca3998eca15ec5ae40a75873ec1eb1c4e307/115_0_2670_2137/master/2670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e6fe73405eaaae66ea07700a01dee92",
-      "publishedAt": "2026-11-03T16:44:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-m4tMTIzNTIxMzg0OS8",
-      "title": "To Follow Her Best Picture Win, Siân Heder Opted to Make ‘the Hardest Story She Could Imagine’",
-      "description": "For \"Being Heumann,\" Heder takes on a seminal moment in the life of the remarkable disability activist Judy Heumann. She imagined a risky film, populated by all manner of disabled performers, that felt more \"Dog Dog Afternoon\" than cultural vegetables. All that? It was scary. It was worth it.",
-      "url": "https://www.indiewire.com/features/interviews/sian-heder-best-picture-coda-next-film-being-heumann-1235213849/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2294050383.jpg?w=650",
-      "publishedAt": "2026-11-03T16:30:01.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjE3MzM1Lw",
-      "title": "How to Make IndieWire a Preferred Source on Google",
-      "description": "You can ensure that IndieWire's reporting and analysis informs all of your searches in a few simple steps.",
-      "url": "https://www.indiewire.com/news/general-news/how-to-make-indiewire-preferred-news-source-google-1235217335/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-11-at-1.41.40-PM.png?w=650",
-      "publishedAt": "2026-11-03T15:30:12.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-Y2luZW1hLWZ1dHVyZQ",
       "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
       "description": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer. But is it any good? The Guardian watched Sanxingdui: Future Past in a virtually empty cinema in Beijing, and found it no worse than plenty of human-centred mindless action flicks. Continue reading...",
@@ -217,18 +241,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-W4tMTIzNTIyNTE0MC8",
-      "title": "Taika Waititi’s Delusional ‘Klara and the Sun’ Instagram Post Exemplifies the Dangers of a Growing Divide Between Critics and Artists in the Digital Age",
-      "description": "Let's spare a thought for those sad lost souls who couldn’t achieve their dreams of staying relevant artists.",
-      "url": "https://www.indiewire.com/features/commentary/taika-waititi-bad-instagram-post-critics-klara-and-the-sun-1235225140/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-02-at-8.34.28-PM.png?w=650",
-      "publishedAt": "2026-11-03T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -244,12 +256,12 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-Y29tZWR5LWhvcnJvcg",
-      "title": "Mum, I’m Alien Pregnant review – slime and silliness in amusing New Zealand comedy horror",
-      "description": "Mucus, alien gristle, a tentacle-bearing penis and, of course, the pregnancy of the title are all borne with deadpan calmness in this underplayed comedy In this amusingly silly exercise in gross-out body horror and bathos from New Zealand, thirtysomething underachiever Mary (Hannah Lynch) finds herself unexpectedly pregnant after shy neighbour Boo (Arlo Green) ejaculates on her in the communal laundry room with his tentacle-bearing alien penis (hence the self-explanatory title). We never quite find out why Boo has such outre sex organs, but nothing here should be overthought since it is all about setting up moments where the New Zealand cast react with deadpan calmness (or at best mild annoyance) to the most bizarre circumstances, as if it’s all just another Tuesday on South Island. Fortunately, the cast is well up for serving this sort of underplayed comedy, especially supporting players Yvette Parsons and Jackie van Beek, as Mary and Arlo’s single mums Cynthia and Ann respectively. For example, somewhere towards the end (and don’t worry, there’s nothing to spoil here), Cynthia gets a little het up about Mary farting too much, after a nest of mucus, tissue and alien gristle shoots out of Mary’s nether regions. Ann, on the other hand, gets quite concerned about the mess all this is making of her immaculate flat, and keeps apologising for the disorder to anyone who shows up, including unflappable paramedics Sofia (Karen O’Leary) and Sophie (Ariadne Baltazar). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/mum-im-alien-pregnant-review-slime-and-silliness-in-amusing-new-zealand-comedy-horror",
-      "image": "https://i.guim.co.uk/img/media/3d523060ea03fa1529c7477c7e2f253f1e39e6f8/341_0_2917_2334/master/2917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ab9d37b2c2c3c475388119f2b62254fb",
-      "publishedAt": "2026-11-03T13:00:07.000Z",
+      "id": "guardian-ZC1ub21pbmF0aW9ucw",
+      "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
+      "description": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised Elsinore, the drama in which Andrew Scott plays the actor Ian Charleson as he takes on Shakespeare’s Hamlet in the last months of his life, before he died of Aids in 1990, has emerged as the leading contender for the British independent film awards (Bifas). The film, which is directed by Simon Stone and co-stars Olivia Colman, Billie Piper and Johnny Flynn, received 12 nominations, including best British independent film, best director for Stone and best lead performance for Scott. Elsinore has collected rave reviews since its premiere at the Telluride film festival in September, with the Guardian’s Benjamin Lee describing it as “a devastating movie [that] is a reminder of Charleson’s strength and the many men like him and it implores us to remember them too”. Scott is also already being tipped as the favourite for the best actor Oscar – and he would be the first out gay actor to win. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
+      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/374_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb567be8a15e3b3168117a924eba986e",
+      "publishedAt": "2026-11-03T12:49:40.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -274,18 +286,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg",
       "publishedAt": "2026-11-03T00:09:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Jack Lowden says James Bond speculation is 'flattering'",
-      "description": "The Slow Horses star is among three actors reported to be in the running for the iconic movie role.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5cdd/live/970abd30-d6c9-11f1-ac20-7783925c811f.jpg",
-      "publishedAt": "2026-11-02T14:53:27.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -338,18 +338,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-2lja2VyLWh1c2JhbmQ",
-      "title": "Basketweavers get in a twist over Alexander Skarsgård’s Wicker Husband",
-      "description": "Why is he not made of willow? Why is he plaited and not woven? World’s basket makers have plenty of questions Hollywood heart-throbs are known for their good looks and charisma. But in a classic plot twist, the latest big-screen dreamboat causing viewers to get hot and bothered isn’t even human. Alexander Skarsgård’s Wicker Husband character in the romcom Wicker has sent the internet into a frenzy. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/30/basketweavers-get-in-a-twist-over-alexander-skarsgard-wicker-husband",
-      "image": "https://i.guim.co.uk/img/media/be0d97fc91c315045415219d27f15042ad1de9dc/0_160_2893_2314/master/2893.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bb046054fd30a8a414b853277bfa888",
-      "publishedAt": "2026-10-30T12:24:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-LW1vdmllLXdpY2tlcg",
