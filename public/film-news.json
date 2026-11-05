@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:28:11.894Z",
+  "generatedAt": "2026-11-05T00:42:21.670Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-YS0xMjM1MjI1NTQyLw",
+      "title": "Cinematography Legend Robert Richardson Answered a Film Student’s Email — Their Conversation Became ‘The White Devil’",
+      "description": "Jana Hojdová wanted to ask the Oscar-winning cinematographer about his life. A pandemic lockdown and 650 hours of footage later, her documentary captures what it means for a legend to feel understood.",
+      "url": "https://www.indiewire.com/features/interviews/robert-richardson-white-devil-documentary-jana-hojdova-1235225542/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RR3-Jana-and-Robert-BW.jpg?w=650",
+      "publishedAt": "2026-11-05T00:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xpLTEyMzUyMjU0NTUv",
+      "title": "Watch ‘The Greatest’ Team Discuss How They Made the Impossible ‘Possible’ on Muhammad Ali Series",
+      "description": "Creator Ben Watkins and his team discuss the challenges they faced making the Prime Video series, from costume quick changes at the Colosseum to a last minute original song from Wyclef Jean.",
+      "url": "https://www.indiewire.com/news/events/watch-the-greatest-crafts-team-panel-muhammad-ali-1235225455/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B3998.jpg?w=650",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
+      "description": "A Hollywood giant and singing superstars caused a stir after arriving in a Welsh seaside town.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1eda/live/c2f5ceb0-d3b0-11f1-8d02-39b68eca6add.jpg",
+      "publishedAt": "2026-11-04T23:01:45.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WQtMTIzNTIyNTQ3NS8",
+      "title": "‘The Ballad of Lieutenant Dan,’ Documentary About Gary Sinise’s Work with Veterans, Acquired by Freestyle Digital Media",
+      "description": "Exclusive: The film follows the Oscar-nominated actor as he grapples with the death of his son.",
+      "url": "https://www.indiewire.com/news/general-news/ballad-of-lieutenant-dan-documentary-gary-sinise-acquired-1235225475/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/LtDan_Image_3.png?w=650",
+      "publishedAt": "2026-11-04T19:38:46.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyNTAzNS8",
+      "title": "‘Wildwood’ Director Travis Knight on How Live-Action Filmmaking Shaped His Stop-Motion Animated Adventure",
+      "description": "Director Travis Knight tells IndieWire about bringing techniques he learned in live action to Laika's stop-motion epic adventure story.",
+      "url": "https://www.indiewire.com/features/animation/wildwood-laika-travis-knight-director-interview-1235225035/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDWILD_EC240.jpg?w=650",
+      "publishedAt": "2026-11-04T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-W4tMTIzNTE5Mzk2NS8",
       "title": "‘Club Kid’ Review: Jordan Firstman’s Brazen, Funny, and Surprisingly Earnest Directing Debut Is a Wild Party Movie with Heart",
@@ -124,6 +184,18 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-3NuYW4tZW5kb3JzZXM",
+      "title": "Callum Turner emerges as James Bond favourite as Pierce Brosnan endorses actor: ‘He’s so strong’",
+      "description": "Bookmakers’ odds have shortened to 8/13 for the British actor, seen sipping martinis with his wife Dua Lipa at the weekend Ten days after final screentests for the most coveted role in British cinema, one actor has emerged as a strong favourite to don the 007 tux for Denis Villeneuve’s forthcoming film. The bookmaker William Hill has cut the odds of Callum Turner being named as the next James Bond from 3/1 to 8/13, with previous favourite Jack Lowden now at 2/1. Josh O’Connor, who also auditioned recently, is now at 9/2, with Richard Madden, Robert Pattinson and Joe Alwyn at 16/1. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses",
+      "image": "https://i.guim.co.uk/img/media/f37a48aca2888cfcf476afc3bcd3095144cdca17/319_76_2888_2309/master/2888.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c383fef0dcec0fcbff733e692f4a0f5b",
+      "publishedAt": "2026-11-04T12:34:54.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-XN0LWNvbW1lbnRhcnk",
       "title": "Crawlers review – killer-spiders movie offers giant-arachnid action alongside anticapitalist commentary",
       "description": "A witty creature feature set in a multi-occupancy building in Los Angeles that takes aim at unscrupulous landlords and finance bros This arachnid-themed horror is fairly traditional in terms of its structure, core monster threat and scares-to-laughs ratio, but there are a few winningly modern touches. For starters, there is a very contemporary anticapitalist undertow: it all takes place in a single multi-occupancy building (supposedly in Los Angeles, though the whole film was filmed in Portugal) owned by a slimy landlord (William Miller), who rails against the city’s “socialist” local council making it harder for him to rip off his tenants. And the tenants range across the spectrum of income levels and careers, in a way which is directly correlated to how sympathetic they are and therefore how likely to get spider-bit. So you shouldn’t get too attached any of the characters who work in finance, are “influencers”, or in any way act high and mighty towards the building’s long suffering supervisor Serena (Matilda Lutz), a tomboy-femme girl in shorts and biker boots who is also an aspiring musician. Serena is the one who finds the first victim, a UCLA professor in arachnology who is killed by an exotic spider which grows to extra-large proportions, from a colony ruled by a super-sized queen that appears semi-sentient. Continue reading...",
@@ -178,54 +250,6 @@
       "url": "https://www.indiewire.com/features/craft/steve-yedlin-interview-chromagraph-camera-app-rian-johnson-1235225234/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/WUDM_20240620_05144_R2.jpg?w=650",
       "publishedAt": "2026-11-03T23:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjI1MzQzLw",
-      "title": "5 Big Challenges in Creating Criterion’s ‘The Complete Kubrick’: From Navigating HDR/4K to Preserving Stanley Kubrick’s Love of Mono Sound",
-      "description": "The producer of Criterion's new Stanley Kubrick Box Set tells IndieWire about trying to get inside the mind of a director who was obsessed with his films' home video presentation.",
-      "url": "https://www.indiewire.com/features/interviews/the-complete-kubrick-inside-criterion-box-set-1235225343/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/CompleteKubrick_16x9.jpeg?w=650",
-      "publishedAt": "2026-11-03T22:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-F5LTEyMzUyMjUxODUv",
-      "title": "Ebenezer’s Venmo and ‘How to Rob a Bank’ ATMs: Studios Are Now Promoting Movies by Just Giving Away Money",
-      "description": "Film marketing teams are creating stunts around cold, hard cash — a bid at virality built for the internet's bleak age of endless transactions.",
-      "url": "https://www.indiewire.com/features/general/ebenezer-venmo-how-to-rob-a-bank-atm-studios-giveaway-1235225185/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2099/11/EbenezerVenmoHowToRobABankATMSplit.jpg?w=650",
-      "publishedAt": "2026-11-03T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Ni0xMjM1MjI1MTgyLw",
-      "title": "What Are Local Movie Theaters Showing on Election Night?",
-      "description": "From “The Devils” and David Lynch to a one-person erotic cinema and “Hardball,” here's how film programmers all across the U.S. are serving their communities on November 3.",
-      "url": "https://www.indiewire.com/features/interviews/what-are-movie-theaters-showing-election-night-2026-1235225182/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/election-night-showings_39f7c5.jpg?w=650",
-      "publishedAt": "2026-11-03T20:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIyNTExMS8",
-      "title": "Don’t Forget, Oscar Watchers: ‘The Odyssey,’ ‘Project Hail Mary,’ and Other Big Guns Are Coming Back",
-      "description": "The studios are ramping up their blockbusters for Oscar consideration as \"Disclosure Day\" star Emily Blunt hits the promo trail and \"The Odyssey\" Best Actor front-runner Matt Damon takes on \"Project Hail Mary\" charmer Ryan Gosling.",
-      "url": "https://www.indiewire.com/awards/predictions/oscar-big-guns-odyssey-disclosure-day-project-hail-mary-campaigns-1235225111/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/MCDODYS_UV016.jpg?w=650",
-      "publishedAt": "2026-11-03T20:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
@@ -310,18 +334,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
       "image": "https://i.guim.co.uk/img/media/d7b64fbe0899203bc4829c0fcdc8765e118e88ff/0_327_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ac9879753492f81d7e8ecdb9ac8a235",
       "publishedAt": "2026-11-02T08:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-HMtaGltc2VsZi1sZWc",
-      "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
-      "description": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered The Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at The Range LA. The news was first reported on the celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
-      "image": "https://i.guim.co.uk/img/media/9aea3e244e5b8f6508611933ef1afa3ad05ac8de/392_0_2725_2180/master/2725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4ec2a21d56c2b1f8a965f846d447675",
-      "publishedAt": "2026-11-01T16:39:37.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
