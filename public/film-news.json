@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:33:53.953Z",
+  "generatedAt": "2026-11-05T12:31:15.654Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-1qYWNrLW1hY2lubmVz",
+      "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
+      "description": "In 2015, two film-makers first met 11-year-old refugee Israa, forced to abandon Aleppo for a new life in Europe, along with her parents and siblings. None of them imagined what would come next In 2015, an 11-year-old Syrian girl called Israa matter-of-factly explained how her family would survive if their dinghy sank crossing the sea from Turkey to Greece. Her father would grab her disabled sister; her mother would look after the baby. “And I,” said Israa, a huge smile lighting her face, “I know how to rescue myself.” Wife-and-husband documentary-makers Itab Azzam and Jack MacInnes met Israa while filming a BBC series, Exodus , about refugees trying to reach Europe. Their plan was to follow Israa and her family on their hazardous journey to Germany. But after Israa reached safety, the pair kept filming. Ten years in the making, their documentary, One in a Million, is extraordinary - with echoes of Richard Linklater’s Boyhood and the Up! series . We watch Israa grow up in front of our eyes, from a sunny-natured 11-year-old to a woman, married with a baby of her own. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
+      "image": "https://i.guim.co.uk/img/media/dd21ec002793498971d5c2fdf4669f4ea9096e95/179_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b176817c80e93ef91ac1448d43cb8c1",
+      "publishedAt": "2026-11-05T11:39:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-Hl3b29kLXRyaXVtcGg",
+      "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+      "description": "Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie For fun, excitement and the transcendental thrill of success, there’s nothing to touch this very enjoyable drama about the making of Sylvester Stallone’s Oscar-winning 1976 boxing movie, Rocky. It’s a movie of duplicates and surfaces and heartfelt imitations. Perhaps not very profound but, as Oscar Wilde’s Lord Henry Wotton says, it is only shallow people who do not judge by appearances. It is the story of the struggling young Italian-American unknown who’d had some minor acting jobs – including softcore pornography – but wrote a thumpingly good screenplay inspired by the underdog white boxer Chuck Wepner , who briefly knocked Ali down in 1975. With tremendous self-belief, Stallone insisted he play the lead role himself, holding out against vast cash offers to just take the writing credit and let an established star into the ring. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=ca47b64e255c7a64611fe8cf2bdff1ab",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
+      "title": "Jimmy review – simple-minded James Stewart biopic is too straightforward",
+      "description": "Riverdale’s KJ Apa gives surprisingly solid performance but this corny look at iconic actor’s life is missed opportunity The last time New Zealand actor KJ Apa took on a midcentury American pop-cultural icon, he was playing a nominally sexy yet often weirdly bloodless version of Archie Andrews, the feckless teen next door on the comic-book riff Riverdale. He also frequently ceded scenes to his scene partners, whether former teen idols like Luke Perry or newer, more dynamic personalities like Camila Mendes or Madelaine Petsch. Now he’s taking on an even more beloved and therefore trickier part: James Stewart, the Pennsylvania-accented avatar of decency who starred in dozens of classic films and spent decades as a box office mainstay. Yes, Archie has been promoted to a Jimmy Stewart biopic. The movie, called just plain Jimmy, focuses on Stewart’s willing military service during the second world war and its immediate aftermath. Here, Apa is in far less danger of being outshined by his co-stars; it’s competing memories of the real Stewart, available through so many great, good, and watchable-because-of-him movies, that he has to worry about. The substantial and perhaps only surprise that Jimmy has up its sleeve is that Apa does a reasonable imitation of one of the most immediately distinctive movie stars of all time. Plenty of people can approximate that famous voice, less clipped and urbane than so many of his costars, but Apa gets some of his gangly physicality, too. In scenes of distress (whether real-life or acted out on a movie set), he captures the way Stewart could look and sound as if he was about to topple over with overflowing emotion when he got himself worked up for a big scene. It’s not a note-perfect recreation, or even a particularly surprising one, but Apa does disappear into it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/jimmy-james-stewart-movie-review",
+      "image": "https://i.guim.co.uk/img/media/3b4548217e0b97672e70a8abbe9e9f43a7adedcd/732_128_2537_2032/master/2537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=4e5fff260dfee4f19995f1b8f78aa81e",
+      "publishedAt": "2026-11-05T10:00:01.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
+      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/434b/live/650744e0-d8ed-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-05T09:04:42.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-W5nbGFuZC1yZXZpZXc",
+      "title": "Think of England review – far-fetched tale of state-sponsored second world war porn turns deadly serious",
+      "description": "Apocryphal plans to send an arousing morale booster to troops battling the Nazis make scant sense, and nor does the resulting movie Some potentially interesting ideas here and a good cast … but the whole thing disintegrates into a very weird and ill-judged mess. It looks as if it might be a saucy romp, but is in fact doomily serious, like a stilted, stricken stage play. Sexual violence, PTSD and misogyny are among the issues that the film fails to address convincingly. Writer-director Richard Hawkins (who scripted Paul Greengrass’s The Theory of Flight ) imagines that during the second world war the British government commissioned porn films to be shown to troops as a morale-boost. This is supposedly based on an “urban myth” whose existence does not appear to be evident other than in online material relating to this film – although Britain’s Political Warfare Executive (PWE) is known to have dropped pornographic leaflets over Germany to damage enemy morale, crudely depicting wives cheating on absent soldier husbands, etc. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/think-of-england-review",
+      "image": "https://i.guim.co.uk/img/media/453507f5bd1aa8b78bb2af9dc137ddcdb82221c1/907_350_4641_3713/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=edef5e13480f2c5dc8ecbfb7413e56a7",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-MtanVkeS1oZXVtYW5u",
+      "title": "Being Heumann review – stirring biopic of a pioneering disability rights campaigner",
+      "description": "Heartfelt real-life drama follows the late activist whose groundbreaking struggle helped build a rainbow alliance with gay action groups and the Black Panthers The remarkable story of the late US disability rights campaigner and wheelchair user Judy Heumann – pronounced “human” – is the subject of this heartfelt if Hollywoodised story from director and co-writer Sian Heder, based on Heumann’s own 2020 memoir of the same title. In the lead is British actor Ruth Madeley , who has spina bifida and is herself a disability rights activist; she gives a forthright, smart, sympathetic performance. Heumann’s finest hour was to get the federal government to sign into law Section 504 of the 1973 Rehabilitation Act , whose accessibility provisions had been resisted by Nixon, Ford and then Carter. In 1977, Heumann led a guerrilla sit-in occupation of the San Francisco Health, Education and Welfare offices, her group being a rainbow alliance including gay action groups and the Black Panthers. Secretary of State for Health Joseph Califano sensationally conceded and signed the bill that he and the political establishment had obstructed for years. He is played by Mark Ruffalo, whose nice-guy persona and one-note performance of exasperated detachment does however rather obscure the fact that in real life, Califano at first personally authorised moves to starve the protesters out. In the movie, this grim political decision is not explicitly dramatised. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/being-heumann-review-disability-rights-judy-heumann",
+      "image": "https://i.guim.co.uk/img/media/40ab030ae950587f921e7024d1e0ba4e157076b8/1689_66_5018_4015/master/5018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=ea95f58941a8060b519ebf8381dce010",
+      "publishedAt": "2026-11-05T07:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Bike from Batman film could sell for £900,000",
@@ -30,9 +102,9 @@
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-      "description": "A Hollywood giant and singing superstars caused a stir after arriving in a Welsh seaside town.",
+      "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
       "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/889f/live/a6b3b310-d8de-11f1-bc8e-97806a9f0cfa.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8890/live/9649af60-d8f3-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-11-05T06:07:19.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -232,78 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-XN0LWNvbW1lbnRhcnk",
-      "title": "Crawlers review – killer-spiders movie offers giant-arachnid action alongside anticapitalist commentary",
-      "description": "A witty creature feature set in a multi-occupancy building in Los Angeles that takes aim at unscrupulous landlords and finance bros This arachnid-themed horror is fairly traditional in terms of its structure, core monster threat and scares-to-laughs ratio, but there are a few winningly modern touches. For starters, there is a very contemporary anticapitalist undertow: it all takes place in a single multi-occupancy building (supposedly in Los Angeles, though the whole film was filmed in Portugal) owned by a slimy landlord (William Miller), who rails against the city’s “socialist” local council making it harder for him to rip off his tenants. And the tenants range across the spectrum of income levels and careers, in a way which is directly correlated to how sympathetic they are and therefore how likely to get spider-bit. So you shouldn’t get too attached any of the characters who work in finance, are “influencers”, or in any way act high and mighty towards the building’s long suffering supervisor Serena (Matilda Lutz), a tomboy-femme girl in shorts and biker boots who is also an aspiring musician. Serena is the one who finds the first victim, a UCLA professor in arachnology who is killed by an exotic spider which grows to extra-large proportions, from a colony ruled by a super-sized queen that appears semi-sentient. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/crawlers-review-killer-spiders-movie-offers-giant-arachnid-action-alongside-anticapitalist-commentary",
-      "image": "https://i.guim.co.uk/img/media/2861dc96850ae96d2017327ba40b8fe6429ded22/800_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=46964ab900457d5415d9f804543b1171",
-      "publishedAt": "2026-11-04T11:00:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mFtaWxpYXItZmFjZXM",
-      "title": "Merry Christmas Aubrey Flint review – Dickensian festive Britpic decorated by selection box of familiar faces",
-      "description": "A cast including Richard E Grant, Celia Imrie, Kiell Smith-Bynoe and Nigel Planer warm up a formulaic narrative about a imperilled retirement community The annual drive to expand the festive film canon begins unseasonably early with a modest, sentimentally inclined Britpic that opens like a penny-pinching John Lewis ad; thankfully, it improves from there. The titular Mr Flint (John Bradley) is a Napoleonic history buff whose animus towards late December dates from seeing his (French) mother drop dead amid the Christmas decorations; now he spends the holidays cavilling at carollers and insisting that the icy pavements of his native York come with health-and-safety warnings. This very much not being the kind of film to confirm a fellow in such beliefs, Aubrey is instead nudged towards a developer-targeted retirement community planning one last theatre production; and when the residents choose A Christmas Carol, it all but closes the book on where this film is heading. The real hero here is casting director Lucy Amos; she gathers familiar faces who deserve a Christmas bonus for making the formulaic narrative seem far livelier than it is. Atop a mince-pie frosting of sugar, we get a welcome sprinkling of comic stardust; sure, you may struggle to identify Richard E Grant beneath the frizzy wig-and-’tache combo that transforms his toy shop owner Mr Hopkins into a modern Geppetto, but the care home alone gifts us Dave Johns as a former manager, Kiell Smith-Bynoe gardening under Karl Pilkington’s ever-irascible eye, and other eminent residents including Celia Imrie, Brian Bovell and Nigel Planer, whose Ghost of Christmas Present forms a funny little coda to the Nicholas Craig story . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/merry-christmas-aubrey-flint-review-dickensian-festive-britpic-decorated-by-selection-box-of-familiar-faces",
-      "image": "https://i.guim.co.uk/img/media/65349d0fd9448e1abd4d761c37e283213d5c4fee/408_405_2805_2245/master/2805.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=75575a3cde465e2986f2624b8dc06d29",
-      "publishedAt": "2026-11-04T09:00:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1vZi1oaXMtdGV0aGVy",
-      "title": "Amazing Grace review – blazing Hannah Walters struggles to save a lonely caller at the end of his tether",
-      "description": "Daniel P Lewis stars in his own script as an isolated man beset by trauma as a helpline counsellor Walters tries to heal his pain While working for a helpline one night, counsellor Grace (a terrific Hannah Walters) gets a call from Walter (Daniel P Lewis, also the film’s screenwriter), an isolated working-class man beset by trauma and loneliness who is contemplating killing himself. Grace quickly ascertains that Walter is in profound emotional distress, and although he keeps hanging up on her when her probing questions become too painful, he also keeps calling back until he feels safe enough to speak about the root causes of his anguish and accept help. However, other factors threaten to destabilise Walter’s fragile recovery as the violence that’s always been a part of his life erupts once again. Even if you didn’t read up on any of the background to this intimate, microscale drama, you’d be likely to suss while watching that it’s a labour of love for some of the cast and crew, perhaps born of a desire to show people in pain that there is help out there for them. That manifest sincerity and altruistic intent is so strongly palpable here that it somewhat wards off negative criticism, but it has to be admitted that the film does have its weaknesses. For a start, confining the action to Grace and Walter’s conversations and then observing how he reacts increasingly self-destructively after each talk means we follow a repetitive cycle of confession-reaction rinse-and-repeat. Lewis’s performance is dialled up to the max from the start, so it doesn’t have anywhere to go over the long haul. Added to which, the film keeps cutting away to somewhat strident flashbacks to explain what happened to him, instead of letting the revelations emerge through speech. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/amazing-grace-review-blazing-hannah-walters-struggles-to-save-a-lonely-caller-at-the-end-of-his-tether",
-      "image": "https://i.guim.co.uk/img/media/ef617b129340e62746b0b644a6dcb0cd72df20e9/131_140_993_795/master/993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c3fd252281d98b8791076d3412834cdf",
-      "publishedAt": "2026-11-04T07:00:27.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aHMtbS1zYXlzLXllcw",
-      "title": "Judi Dench says Daniel Craig ordered her death. James Bond just got a lot scarier",
-      "description": "Not only did Craig insist his 007 die at the end of his run, but now we learn from Dench’s memoir that it was his idea to kill her off too. How will the next Bond top that? Shoot a puppy? Now that the next James Bond actor is on the brink of being unveiled , it may be a good time to take a proper look at the prior 007 with clear eyes. Because, while the reputations of all the previous Bonds have ossified over the years – in chronological order: sexy, wooden, camp, boring and silly – the Daniel Craig era is finally coming into focus. And it turns out that he was actually the angel of death. Obviously anyone who saw No Time to Die knows this, because that film ended with Bond being exploded in a hail of missile fire. But according to Judi Dench’s new memoir Is It Too Late to Make a Run for It? , it was also Craig’s decision to kill off M, too. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/is-daniel-craig-the-most-ruthless-killer-in-james-bond-history-his-plan-to-bump-off-judi-denchs-m-says-yes",
-      "image": "https://i.guim.co.uk/img/media/98f1a6227c302cb02d8635c90a00cfd7d5cda2b2/314_39_1754_1404/master/1754.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6b3c29325c1700872b3626c0cc0166f2",
-      "publishedAt": "2026-11-04T06:00:26.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Y2luZW1hLWZ1dHVyZQ",
-      "title": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-      "description": "Chinese investors placing high value on AI despite unpopularity of Sanxingdui: Future Past China’s first fully AI-generated movie has flopped, earning just 1.7m yuan (£191,000) at the box office despite costing “tens of millions” to make, according to its producer. But is it any good? The Guardian watched Sanxingdui: Future Past in a virtually empty cinema in Beijing, and found it no worse than plenty of human-centred mindless action flicks. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
-      "image": "https://i.guim.co.uk/img/media/0ad0e79a806a919abfc3cd4cc770615dbd933484/250_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=baa7685906950060a4923d5c6d646caf",
-      "publishedAt": "2026-11-03T14:32:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "The Crown star Josh O'Connor reacts to Bond rumours",
-      "description": "BAFTA nominated actor Josh O'Connor says he is \"honoured\" by the speculation he could be next Bond.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6870/live/02f05e20-d787-11f1-9440-953b82c8f55a.jpg",
-      "publishedAt": "2026-11-03T14:25:40.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZC1ub21pbmF0aW9ucw",
       "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
       "description": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised Elsinore, the drama in which Andrew Scott plays the actor Ian Charleson as he takes on Shakespeare’s Hamlet in the last months of his life, before he died of Aids in 1990, has emerged as the leading contender for the British independent film awards (Bifas). The film, which is directed by Simon Stone and co-stars Olivia Colman, Billie Piper and Johnny Flynn, received 12 nominations, including best British independent film, best director for Stone and best lead performance for Scott. Elsinore has collected rave reviews since its premiere at the Telluride film festival in September, with the Guardian’s Benjamin Lee describing it as “a devastating movie [that] is a reminder of Charleson’s strength and the many men like him and it implores us to remember them too”. Scott is also already being tipped as the favourite for the best actor Oscar – and he would be the first out gay actor to win. Continue reading...",
@@ -328,18 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-F9jYW1wYWlnbj1yc3M",
-      "title": "Film star Ranbir Kapoor on AI, movies and fatherhood",
-      "description": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg",
-      "publishedAt": "2026-11-03T00:09:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-mZpY2UtZGlzYXN0ZXI",
       "title": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
       "description": "The Jojo Rabbit director blamed the dismal numbers for his film of Kazuo Ishiguro’s novel on ‘obsolete’ reviewers’ notices, adding that he works ‘for the people’ – whose Rotten Tomatoes ratings are much higher Taika Waititi has launched a furious broadside at “critics” following the disastrous commercial performance of Klara and the Sun, his new film adapted from a Kazuo Ishiguro novel. In a post on social media , Waititi wrote: “This Halloween, let’s spare a thought for those sad lost souls who couldn’t achieve their dreams of becoming artists, and thus settled, and became critics.” Continue reading...",
@@ -361,18 +349,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
-      "description": "Tributes have been paid to the legendary Star Trek actor Sir Patrick Stewart, who was born in Mirfield.",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/f948/live/75d0a300-d46c-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-30T20:59:53.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
