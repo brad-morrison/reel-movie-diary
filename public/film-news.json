@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:42:04.611Z",
+  "generatedAt": "2026-11-06T06:34:08.524Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-9yLTEyMzUyMjU4NTcv",
+      "title": "Rosamund Pike Starring in Body Horror Film ‘Feed’ for ‘Star Wars: The Acolyte’ Creator Leslye Headland",
+      "description": "The film will look at \"our obsession with social media and self-improvement\" with the story of an influencer and her mom.",
+      "url": "https://www.indiewire.com/news/breaking-news/rosamund-pike-starring-in-body-horror-film-star-wars-the-acolyte-creator-1235225857/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.27.13-PM.png?w=650",
+      "publishedAt": "2026-11-06T00:45:23.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-WwtMTIzNTIxODcxMy8",
       "title": "Letterboxd Finalizing $330 Million Sale to The New York Times",
@@ -142,18 +154,6 @@
       "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
       "publishedAt": "2026-11-05T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTE5MTE3NC8",
-      "title": "Cannes 2026 Movies Sold: Kino Lorber Buys Clio Barnard’s BIFA Contender ‘I See Buildings Fall Like Lightning’",
-      "description": "The film was recently nominated for eight British Independent Film Awards, including best British independent film, best director, best screenplay, and best ensemble performance.",
-      "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/film_banner_i-see-buildings-fall-like-lightning_o_1jn9kou59lspj9av6m9v1emo1i.jpg?w=650",
-      "publishedAt": "2026-11-05T16:05:18.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
