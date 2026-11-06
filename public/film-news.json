@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:29:32.378Z",
+  "generatedAt": "2026-11-06T00:42:04.611Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WwtMTIzNTIxODcxMy8",
+      "title": "Letterboxd Finalizing $330 Million Sale to The New York Times",
+      "description": "A24 was also in the mix to acquire the cinephile social networking site.",
+      "url": "https://www.indiewire.com/news/breaking-news/letterboxd-new-york-times-company-330-million-deal-1235218713/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/LetterboxdNYTLogoSplit.jpg?w=650",
+      "publishedAt": "2026-11-05T23:52:22.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-lzLTEyMzUyMjQ5MDkv",
+      "title": "Why ASMR Invaded the Soundscape of ‘La Bola Negra’",
+      "description": "Supervising sound editors Alejandro López and Anna Harrington tell IndieWire about using sound to toggle between timelines in 'La Bola Negra.'",
+      "url": "https://www.indiewire.com/features/craft/la-bola-negra-sound-design-interview-los-javis-1235224909/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/LBN_analog_roll17_23_carlaoset.jpg?w=650",
+      "publishedAt": "2026-11-05T23:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RpLTEyMzUyMjU4MTEv",
+      "title": "Two ‘Ramayana’ Cuts Are in Theaters — but Your Best Bet for the Indian Epic Is Clear",
+      "description": "Sony has released two competing versions of the Bollywood epic. How do they compare?",
+      "url": "https://www.indiewire.com/features/commentary/ramayana-movie-english-cut-vs-hindi-1235225811/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-05-at-1.03.35-PM.png?w=650",
+      "publishedAt": "2026-11-05T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIxNTkwMy8",
+      "title": "‘Everytime’ Review: Sandra Wollner’s Infinitely Beguiling Portrait of Grief in the Digital Age Is One of the Most Haunting Films of the Decade",
+      "description": "Picking up where the likes of \"Aftersun\" and \"Personal Shopper\" left off, Wollner's unforgettable third feature explores the modern world's changing relationship to death.",
+      "url": "https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Everytime_MainStillTheBarricadesPanamaFilm_GregoryOke.jpg?w=650",
+      "publishedAt": "2026-11-05T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIyNTc3Ny8",
+      "title": "‘La Bola Negra’ Wins Denver Film Festival Top Prize as More Regional Fests Boost Oscar Hopefuls",
+      "description": "The Sly Stallone behind-the-scenes biopic \"I Play Rocky\" won the narrative feature audience award, repeating a pattern that started in Toronto.",
+      "url": "https://www.indiewire.com/news/festivals/denver-film-festival-2026-award-winners-1235225777/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDLABO_ZX008.jpg?w=650",
+      "publishedAt": "2026-11-05T19:41:33.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WwtMTIzNTIyNTU0Ni8",
+      "title": "‘The Weed Eaters’ Lands Expanded Release from Yellow Veil Pictures: New Zealand Cannibal Movie Sets Winter Rollout",
+      "description": "Exclusive: Director Callum Devlin's feature gets expanded stateside distribution after debuting in the Letterboxd Video Store in September.",
+      "url": "https://www.indiewire.com/news/business/the-weed-eaters-cannibal-horror-acquired-yellow-veil-1235225546/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/weedeaters.jpeg?w=650",
+      "publishedAt": "2026-11-05T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIxMzkxMi8",
+      "title": "‘Wild Horse Nine’ Review: Martin McDonagh’s Prickly but Unconvincing CIA Satire Recasts ‘In Bruges’ as the Stuff of a Classic Western",
+      "description": "John Malkovich and Sam Rockwell are two CIA agents vacationing on Easter Island in McDonagh's sardonic look at American interventionism.",
+      "url": "https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/WHN-03439_V1.jpg?w=650",
+      "publishedAt": "2026-11-05T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-9kLTEyMzUyMjUyNjYv",
       "title": "‘North of North’ Season 2 Review: Netflix’s Defiantly Nice Arctic Sitcom Is for the Warmhearted F**k-Ups",
@@ -40,11 +124,11 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-ZS0xMjM1MjI1MTE5Lw",
-      "title": "AI Movie ‘Gods Don’t Give Gifts’ Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings",
-      "description": "Creator and YouTuber Gossip Goblin says it would be \"disingenuous to write it all off\" as just a stunt.",
-      "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
+      "id": "indiewire-I2LTEyMzUyMjU2Mzkv",
+      "title": "Robert Pattinson to Receive 2026 American Cinematheque Award",
+      "description": "The prolific star of several successful 2026 films, from \"The Odyssey\" to \"Primetime,\" will be the 40th recipient of the award from American Cinematheque after Ryan Gosling backed out of the event in October.",
+      "url": "https://www.indiewire.com/awards/results/robert-pattinson-american-cinematheque-award-2026-1235225639/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png?w=650",
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -52,11 +136,11 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-I2LTEyMzUyMjU2Mzkv",
-      "title": "Robert Pattinson to Receive 2026 American Cinematheque Award",
-      "description": "The prolific star of several successful 2026 films, from \"The Odyssey\" to \"Primetime,\" will be the 40th recipient of the award from American Cinematheque after Ryan Gosling backed out of the event in October.",
-      "url": "https://www.indiewire.com/awards/results/robert-pattinson-american-cinematheque-award-2026-1235225639/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png?w=650",
+      "id": "indiewire-ZS0xMjM1MjI1MTE5Lw",
+      "title": "AI Movie ‘Gods Don’t Give Gifts’ Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings",
+      "description": "Creator and YouTuber Gossip Goblin says it would be \"disingenuous to write it all off\" as just a stunt.",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
       "publishedAt": "2026-11-05T17:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -70,54 +154,6 @@
       "url": "https://www.indiewire.com/news/festivals/cannes-2026-movies-sold-so-far-paper-tiger-minotaur-1235191174/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/05/film_banner_i-see-buildings-fall-like-lightning_o_1jn9kou59lspj9av6m9v1emo1i.jpg?w=650",
       "publishedAt": "2026-11-05T16:05:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-llLTEyMzUyMjU3MDIv",
-      "title": "Sony Pictures Classics Buys Jean-Pierre Jeunet’s ‘Violette’",
-      "description": "This marks the indie studio's fourth collaboration with the director of \"Amelie\" and \"The City of Lost Children.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/sony-pictures-classics-buys-jean-pierre-jeunets-violette-amelie-1235225702/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/PALOMAR-24-25-FILMS-STUDIOCANAL-FRANCE-2-CINEMA.jpg?w=650",
-      "publishedAt": "2026-11-05T16:00:09.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-ci0xMjM1MjI1NTY0Lw",
-      "title": "Henry Jaglom’s ‘Tracks’ Is a Masterpiece of Post-Vietnam Cinema — Watch the Trailer for the New Restoration",
-      "description": "Jaglom's body of work is one of the most important in American independent cinema, and now it's returning the big screen thanks to a major new restoration effort from Cinématographe and Hope Runs High.",
-      "url": "https://www.indiewire.com/news/trailers/tracks-restoration-henry-jaglom-dennis-hopper-1235225564/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Tracks-Gun-Cover.jpg?w=650",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-WMtMTIzNTIyNTU4MC8",
-      "title": "I Remember ‘Rocky’: My Front Row Seat to the Marketing of a Million-to-One Blockbuster",
-      "description": "Back in 1976, no one knew who Sly Stallone was. Luckily, the United Artists marketing department knew how to build a box office contender.",
-      "url": "https://www.indiewire.com/awards/industry/rocky-sylvester-stallone-i-play-rocky-oscars-marketing-classic-1235225580/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2016/12/roc001bv.jpg?w=650",
-      "publishedAt": "2026-11-05T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIyNTYxOS8",
-      "title": "MUBI Has Cleared the Path for Sandra Hüller to Land Multiple Oscar Nominations This Season",
-      "description": "Sandra Hüller may not end up a double Best Actress nominee, but MUBI moving her \"Fatherland\" performance to the Best Supporting Actress race could cause a positive ripple effect for the rest of her Oscar-contending films.",
-      "url": "https://www.indiewire.com/awards/consider-this/mubi-sandra-huller-multiple-oscar-nominations-1235225619/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFATH_K3004.jpg?w=650",
-      "publishedAt": "2026-11-05T15:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
@@ -145,30 +181,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIyNTY1OC8",
-      "title": "‘Tender Loving Care’ Trailer: Mike Leigh’s Likely Final Film Pairs Him with a Career-Best Kate O’Flynn",
-      "description": "Mike Leigh reunites with several repeat actors, including Kate O'Flynn, who plays a child protection service reeling from loss — in a film packed with losses.",
-      "url": "https://www.indiewire.com/news/trailers/tender-loving-care-trailer-mike-leigh-final-movie-1235225658/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/img_54050.webp?w=650",
-      "publishedAt": "2026-11-05T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI1NDQ0Lw",
-      "title": "‘Black Doves’ Review: Season 2 Sticks to Its Guns in Keira Knightley’s Excellent, Existential Spy Thriller",
-      "description": "The follow-up to Joe Barton's 2024 Netflix series tracks Knightley and Ben Whishaw's best spy-friends as they fend off attacks from a separate espionage organization while trying to square their perilous professional lives with their personal relationships, identity, and purpose.",
-      "url": "https://www.indiewire.com/criticism/shows/black-doves-season-2-review-keira-knightley-netflix-series-1235225444/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Black-Doves-Season-2-Keira-Knightley-Netflix-series-Ambika-Mod.jpg?w=650",
-      "publishedAt": "2026-11-05T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Reviews"
     },
     {
@@ -280,18 +292,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-dC0xMjM1MjI1NTY4Lw",
-      "title": "Pixar Promotes Jonathan Garson to President, Taking Reins from Retiring Executive Jim Morris",
-      "description": "Garson, who has worked within Disney for more than 30 years, will assume the role in January.",
-      "url": "https://www.indiewire.com/news/breaking-news/pixar-names-jonathan-garson-president-1235225568/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/JonathanGarsonPixar.jpg?w=650",
-      "publishedAt": "2026-11-05T00:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-S1kaWVzLWFnZWQtOTM",
       "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
       "description": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi and children Bonifacio and Beatrice Brass announced the news of the director’s death to Italian press agency Ansa on Wednesday. Continue reading...",
@@ -353,7 +353,7 @@
     },
     {
       "id": "guardian-LW1vdmllLXdpY2tlcg",
-      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
+      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skarsgård on their steamy folk-horror movie Wicker",
       "description": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own marriage? Another year, another raunchy comedy-drama in which Alexander Skarsgård is the answer to a social outcast’s erotic dreams. “I fucking loved Pillion so much!” says Olivia Colman, reliably sweary straight out of the gate, as she brings up last year’s British indie hit starring Skarsgård as a leather-clad dom with a timid traffic warden as his submissive. “And when they kissed at the end … Aww .” The 52-year-old Oscar-winner for The Favourite gives a mock-sniffle and a little shake of her frizzy grey locks, then pretends to dab her eyes. Seated beside her in a London hotel room and wearing a bright orange “I’m With Stupid” T-shirt, Skarsgård tilts his head appreciatively. In Pillion, it was Harry Melling who had the privilege of being ravaged by the 50-year-old Swedish actor. Now it is Colman’s turn in Wicker, an earthy adult fairytale filmed in Budapest and set in a medieval village populated almost exclusively by British comic actors who converse in language both archaically formal (“Happy to transact with you”) and bluntly colloquial (“I’d better fuck off”). Among them is Phil Daniels as a leering butcher and Richard E Grant as a doctor who is even more inept at his job than Grant was as a Celebrity Traitor. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
       "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1fed75c364ff44ae0f1c8e867d8ec33",
