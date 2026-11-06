@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:30:58.087Z",
+  "generatedAt": "2026-11-06T18:29:01.118Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 1
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-3ktMTIzNTIyNTQwOC8",
+      "title": "The Johnny Depp Comeback Hits Judgment Day with ‘Ebenezer’: How Paramount Is Carefully Reintroducing the Controversial Star",
+      "description": "The studio has promoted the Christmas film with in-character stunts and an intimate preview screening, emphasizing Depp's big performance over his personality.",
+      "url": "https://www.indiewire.com/features/general/johnny-depp-comeback-paramount-ebenezer-promotion-controversy-1235225408/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/11/JohnnyDeppEbenezerPremiere.jpg?w=650",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-5hLTEyMzUyMjU5NzYv",
+      "title": "Box Office: ‘Godzilla Minus Zero’ Roars With $6.7 Million in Previews, ‘Ramayana: Rise of a Legend’ Earns $3.5 Million",
+      "description": "\"Cat in the Hat\" is no match for the kaiju's return.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-previews-ramayana-1235225976/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC012-1.jpg?w=650",
+      "publishedAt": "2026-11-06T17:55:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIyNTkyNy8",
+      "title": "Emily Feingold Hired as EVP, Communications for The Walt Disney Company",
+      "description": "The former Netflix communications guru will join Disney as David Jefferson departs.",
+      "url": "https://www.indiewire.com/news/business/emily-feingold-hired-communications-walt-disney-company-1235225927/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-9.38.43-AM.png?w=650",
+      "publishedAt": "2026-11-06T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyNTgyOS8",
+      "title": "James Gray on His ‘Only Real Beef with Streaming’ and the ‘Recurring Nightmare’ That Started at Cannes in 2009",
+      "description": "Gray joined IndieWire's \"Screen Talk\" podcast live at the Virginia Film Festival to talk \"Paper Tiger,\" \"Little Odessa,\" and more in an amusingly wide-ranging chat.",
+      "url": "https://www.indiewire.com/features/podcast/james-gray-streaming-cannes-controversies-nightmares-1235225829/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/55616305842_d99e80a3a8_o.jpg?w=650",
+      "publishedAt": "2026-11-06T15:58:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-m8tMTIzNTIyNTAwNi8",
+      "title": "‘I Play Rocky’ Celebrates Sylvester Stallone the Screenwriter — but Rocky Balboa Was Only the Beginning",
+      "description": "After his Oscar-nominated screenplay for \"Rocky,\" Stallone wrote or co-wrote 23 more features, becoming one of the most prolific and accomplished scribes of his era.",
+      "url": "https://www.indiewire.com/features/commentary/sylvester-stallone-screenwriter-rocky-rambo-1235225006/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/M8DCLIF_EC005.jpg?w=650",
+      "publishedAt": "2026-11-06T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-QtbW92aWUtcmV2aWV3",
+      "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
+      "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+      "image": "https://i.guim.co.uk/img/media/07048846bc1de89d9d63210a3221853e31347902/243_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a3ffea5d3a620a6949b5ce3ca0b3e536",
+      "publishedAt": "2026-11-06T14:38:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dW5lLXN0YXItd2Fycw",
+      "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
+      "description": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope not A long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and it would become immediately clear that no amount of evildoing could withstand a neurotic gold butler, a dustbin with ideas above its station and a walking seven-foot tall shagpile carpet with a very low tolerance for disagreement. It is worth remembering this when considering Florence Pugh’s recent declaration, ahead of next month’s Dune: Part Three, that Dune is her generation’s Star Wars . And then wondering how much trouble we might be in if she’s actually right. “I think they brought back movie-going. What an event the second [Dune] was,” Pugh cheerfully told the New York Times. “It was just so lovely to be a part of something that we know is our generational kind of Star Wars.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
+      "image": "https://i.guim.co.uk/img/media/6f8a53f102e7ec7d1d7cf97b93fcb707b5f0de49/192_0_4926_3942/master/4926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9a48eb5da20235a5e47027de9520084b",
+      "publishedAt": "2026-11-06T14:04:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI1NzI2Lw",
+      "title": "Inside ‘Godzilla Minus Zero’: How an R Rating, Filming in IMAX, and Epic Kaiju Battles Broke Franchise Tradition",
+      "description": "Spoilers ahead, as director Takashi Yamazaki takes IndieWire behind the scenes of his latest kaiju monster mayhem, from its biggest fight scenes to why \"Minus Zero\" needed a franchise-first R rating.",
+      "url": "https://www.indiewire.com/features/interviews/godzilla-minus-zero-spoilers-interview-fight-scenes-1235225726/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P108SOG7.jpg?w=650",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-dGFsbG9uZS1ib3hlcg",
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
@@ -124,78 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-WwtMTIzNTIyNTU0Ni8",
-      "title": "‘The Weed Eaters’ Lands Expanded Release from Yellow Veil Pictures: New Zealand Cannibal Movie Sets Winter Rollout",
-      "description": "Exclusive: Director Callum Devlin's feature gets expanded stateside distribution after debuting in the Letterboxd Video Store in September.",
-      "url": "https://www.indiewire.com/news/business/the-weed-eaters-cannibal-horror-acquired-yellow-veil-1235225546/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/weedeaters.jpeg?w=650",
-      "publishedAt": "2026-11-05T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIxMzkxMi8",
-      "title": "‘Wild Horse Nine’ Review: Martin McDonagh’s Prickly but Unconvincing CIA Satire Recasts ‘In Bruges’ as the Stuff of a Classic Western",
-      "description": "John Malkovich and Sam Rockwell are two CIA agents vacationing on Easter Island in McDonagh's sardonic look at American interventionism.",
-      "url": "https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/03/WHN-03439_V1.jpg?w=650",
-      "publishedAt": "2026-11-05T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-9kLTEyMzUyMjUyNjYv",
-      "title": "‘North of North’ Season 2 Review: Netflix’s Defiantly Nice Arctic Sitcom Is for the Warmhearted F**k-Ups",
-      "description": "Indie Spirit and Gotham Award nominee Anna Lambe shines even brighter in a second season that sees her single mom double down on \"leveling up\" — at work, in love, and as a contributing member of her cherished Inuk community, which, like her, needs all the help it can get.",
-      "url": "https://www.indiewire.com/criticism/shows/north-of-north-season-2-review-netflix-comedy-series-good-1235225266/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/North-of-North-Season-2-Netflix-comedy-Anna-Lambe.jpg?w=650",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyNTYzMC8",
-      "title": "‘Hen’ Review: A Cockeyed Comedy Sees Europe’s Migrant Crisis Through the Eyes of a Chicken",
-      "description": "Executive-produced by Ari Aster, György Pálfi's new film evokes \"EO\" and \"Flow\" with its animal POV on humanity's moral failures.",
-      "url": "https://www.indiewire.com/criticism/movies/hen-movie-review-1235225630/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Hen.jpg?w=650",
-      "publishedAt": "2026-11-05T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-I2LTEyMzUyMjU2Mzkv",
-      "title": "Robert Pattinson to Receive 2026 American Cinematheque Award",
-      "description": "The prolific star of several successful 2026 films, from \"The Odyssey\" to \"Primetime,\" will be the 40th recipient of the award from American Cinematheque after Ryan Gosling backed out of the event in October.",
-      "url": "https://www.indiewire.com/awards/results/robert-pattinson-american-cinematheque-award-2026-1235225639/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png?w=650",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjI1MTE5Lw",
-      "title": "AI Movie ‘Gods Don’t Give Gifts’ Gets Serious with AI-Generated Grimes Cameo, Times Square Marketing Push, Oscar Screenings",
-      "description": "Creator and YouTuber Gossip Goblin says it would be \"disingenuous to write it all off\" as just a stunt.",
-      "url": "https://www.indiewire.com/news/breaking-news/ai-movie-gods-dont-give-gifts-grimes-cameo-times-square-1235225119/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Grimes_3-No-Logo-1.png?w=650",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-21tZXItb2JpdHVhcnk",
       "title": "Elke Sommer obituary",
       "description": "Glamorous star of 1960s films best known for her role opposite Peter Sellers in A Shot in the Dark Like Ingrid Bergman and Sophia Loren, the German actor Elke Sommer was part of the postwar crossover wave of European stars who pepped up the tail end of the Hollywood studio era. Sommer, who has died aged 85, matched them for glamour but not dramatic prestige. Her sex-kitten image gave her a decade in the limelight playing exotic continental paramours for leading men and glamorous assassins in the 1960s. With her beehive hairdo and an upturned nose she was initially self-conscious about, Sommer brought freshness and gameness to her most celebrated role: as Maria Gambrelli, the maid whom Peter Sellers as Inspector Clouseau goes out of his way to exonerate of murder in the 1964 comedy A Shot in the Dark. In the words of the trailer : “Number one sexpot, I mean suspect.” Continue reading...",
@@ -220,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YW50ZXJuLXJldmlldw",
-      "title": "Raise the Red Lantern review – Gong Li gives a decade-defining performance in an addictively ruthless masterpiece",
-      "description": "Gong simmers with rage, loneliness and humiliation as the ‘fourth mistress’ navigating the intimate political savagery of her husband’s compound in Zhang Yimou’s 1991 drama Revisiting Zhang Yimou’s grippingly addictive psychological drama from 1991, adapted from a novella by Su Tong , is a reminder of what a great impact this movie made on western audiences. They responded to its arguably westernised tale of a young woman’s desperate loneliness in a sinister environment that resembles something by Charlotte Brontë or Daphne du Maurier. Like Jung Chang’s memoir Wild Swans from the same year, Raise the Red Lantern opened our eyes to 20th-century China’s secret theatre of cruelty and misogyny; elaborate domestic rituals of submission and servitude coexisted with infinitely subtle plotting, resentful manoeuvring and covert denunciation, habits of thought that could so easily be absorbed into Maoism. Gong Li gives one of the great performances of the 1990s as Songlian, a beautiful, intelligent young woman in 1920s China who is forced to abandon her university studies after just six months because her father has died and there is no longer money for the fees. In the unforgettable opening scene, which unfolds with a single unbroken shot of Gong’s pale face, incandescent with shock and pain, Songlian announces to her callous stepmother (who remains off camera) that she is ready to accept marriage – and then her eyes brim with tears. Her suppressed rage, loneliness and humiliation are to simmer below the surface for the rest of the film. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
-      "image": "https://i.guim.co.uk/img/media/e2bcc14d5a4e7cc1f707f93b69d4770a10798fb4/321_0_4391_3512/master/4391.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=46ffa1bed97aff63fcc3bfe4bc4b216d",
-      "publishedAt": "2026-11-05T13:00:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-1qYWNrLW1hY2lubmVz",
       "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
       "description": "In 2015, two film-makers first met 11-year-old refugee Israa, forced to abandon Aleppo for a new life in Europe, along with her parents and siblings. None of them imagined what would come next In 2015, an 11-year-old Syrian girl called Israa matter-of-factly explained how her family would survive if their dinghy sank crossing the sea from Turkey to Greece. Her father would grab her disabled sister; her mother would look after the baby. “And I,” said Israa, a huge smile lighting her face, “I know how to rescue myself.” Wife-and-husband documentary-makers Itab Azzam and Jack MacInnes met Israa while filming a BBC series, Exodus , about refugees trying to reach Europe. Their plan was to follow Israa and her family on their hazardous journey to Germany. But after Israa reached safety, the pair kept filming. Ten years in the making, their documentary, One in a Million, is extraordinary - with echoes of Richard Linklater’s Boyhood and the Up! series . We watch Israa grow up in front of our eyes, from a sunny-natured 11-year-old to a woman, married with a baby of her own. Continue reading...",
@@ -250,30 +262,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-11-05T09:04:42.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Bike from Batman film could sell for £900,000",
-      "description": "The \"Batpod\" features in a chase scene with Christian Bale's Batman and Heath Ledger's Joker.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxzpw9y74o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/9b53/live/27de8fa0-d6c3-11f1-ac20-7783925c811f.jpg",
-      "publishedAt": "2026-11-05T06:15:25.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-      "description": "The Pulp Fiction director and Spinning Around singer caused a stir in a Welsh seaside town.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn068j9z4w3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8890/live/9649af60-d8f3-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-05T06:07:19.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -364,18 +352,6 @@
       "category": "TV"
     },
     {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-      "description": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
-      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-30T03:57:06.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
       "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
       "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial potential of blue-chip British classical training like Patrick Stewart. With style, technique and the most minutely self-aware, almost vaudevillian sense of mimicry, Shakespearean thesps can turn their hand to American movies and high-end American television and show the American method actors how it’s done – sometimes, even, at the beginning of their screen careers, at a competitively low wage. Stewart was one of the thoroughbreds of the Royal Shakespeare Company’s 1970s stage generation who had also had classy small screen roles, such as his intimidating Sejanus in I, Claudius opposite Derek Jacobi. But he effected a warp-speed leap to pop culture stardom by getting the role of Jean-Luc Picard, captain of the Federation starship USS Enterprise, in TV’s Star Trek: The Next Generation, the hugely successful reboot of Star Trek that ran from 1987 to 1994, spawning four separate feature films and then another series, Star Trek: Picard. Continue reading...",
@@ -386,18 +362,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "guardian-GhvbnktaXBwb2xpdGE",
-      "title": "How did a fishmonger who starred in an adult movie make Rocky? The film about Sylvester Stallone’s amazing triumph",
-      "description": "Belittled for his speech and looks, and so short of cash he had to sell his dog, Stallone managed to write and star in one of the greatest boxing movies ever. How does Anthony Ippolito feel about playing his hero? Fifty years ago this December, cinema’s greatest underdog story hit the screen, a tale about a Philadelphia ham-and-egger who takes the world heavyweight boxing champ all the way to the final bell, losing the fight on a judge’s decision but winning the hearts of a nation. That film, of course, was Rocky. Its creation, famously, was no less remarkable an underdog story – one about an out-of-work character actor with the curious name of Sylvester Stallone who wrote his own boxing movie then managed to convince a studio not only to finance it, but also to cast him in the title role. He then went one further than the character he was playing by earning the top prize: a best picture Oscar. If you thought, half a century on, Rocky’s punching power – its unerring ability to make heroes out of zeroes – has faded, think again. This, after all, is a movie franchise whose stirring qualities are enough to make thousands of people hurtle up all 72 of the Philadelphia Museum of Art’s steps every year in homage to its plucky pugilist . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/29/rocky-sylvester-stallone-anthony-ippolita",
-      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6110bb3df37baee704f2cfe7b25bcb47",
-      "publishedAt": "2026-10-29T05:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-dhcnMtbHVjYXNmaWxt",
