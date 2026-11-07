@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:29:01.118Z",
+  "generatedAt": "2026-11-07T00:41:00.096Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,102 @@
   },
   "articles": [
     {
+      "id": "indiewire-nMtMTIzNTIyNTk3Ny8",
+      "title": "Letterboxd’s Sale to the New York Times: 9 Pros, Cons, and Big Questions from the $330 Million Deal",
+      "description": "As the social media platform at the center of film culture gets new ownership, some changes are likely in store.",
+      "url": "https://www.indiewire.com/features/general/letterboxd-bought-new-york-times-pros-cons-questions-1235225977/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/letterboxd-logo-v-neg-rgb-1000px.png?w=650",
+      "publishedAt": "2026-11-06T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-duLTEyMzUyMjU4Mzkv",
+      "title": "How ‘Godzilla Minus Zero’ Used Real-World Sound to Make Its Monsters More Terrifying",
+      "description": "Sound designer Natsuko Inoue and sound mixer Hisafumi Takeuchi tell IndieWire how they breathed life into the warring monster kings of \"Godzilla Minus Zero.\"",
+      "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-real-world-sound-design-1235225839/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC015_5c195b.jpg?w=650",
+      "publishedAt": "2026-11-06T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MTc0Nzk5Lw",
+      "title": "‘Zi’ Review: Kogonada Rediscovers His Voice with a Microbudget Hong Kong Experiment Starring Michelle Mao and Haley Lu Richardson",
+      "description": "Smarting from an ill-received foray into studio filmmaking, the \"Columbus\" director rebounds with a DIY curio about a wayward artist's journey back to herself.",
+      "url": "https://www.indiewire.com/criticism/movies/zi-movie-review-kogonada-1235174799/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/8emdy62lyzi-Still_1.jpg?w=650",
+      "publishedAt": "2026-11-06T21:02:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-mctMTIzNTIyNTk2MC8",
+      "title": "‘To Hold a Mountain’ Took on the Government — Now It’s Montenegro’s Oscar Submission",
+      "description": "At IndieWire's Art of the Doc, co-director and producer Biljana Tutorov explained what happens when the people in your documentary win their fight before you've released your film.",
+      "url": "https://www.indiewire.com/news/events/to-hold-a-mountain-documentary-montenegro-ending-1235225960/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B3108_6bb362.jpg?w=650",
+      "publishedAt": "2026-11-06T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-YW4tZmlsbS1tYWtlcg",
+      "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
+      "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
+      "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MTc2MjI2Lw",
+      "title": "‘Soul Patrol’ Review: The Vietnam War’s First Black Special Ops Team Shares Their Stories in An Enlightening Documentary",
+      "description": "Director J.M. Harper uses archival footage and testimonies from the members of the titular Soul Patrol to share their stories.",
+      "url": "https://www.indiewire.com/criticism/movies/soul-patrol-documentary-review-sundance-1235176226/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Sundancesoulpatrol.jpg?w=650",
+      "publishedAt": "2026-11-06T19:22:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-by0xMjM1MjI1OTc0Lw",
+      "title": "Could ‘The Further Mis-Adventures of Cliff Booth’ Re-Ignite Quentin Tarantino’s Bruce Lee Controversy?",
+      "description": "The new trailer doesn't shy away from the most discourse-inducing scene from “Once Upon a Time in Hollywood.”",
+      "url": "https://www.indiewire.com/news/general-news/further-mis-adventures-of-cliff-booth-trailer-bruce-lee-tarantino-1235225974/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-06-at-9.15.04-AM.png?w=650",
+      "publishedAt": "2026-11-06T18:59:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-TItMTIzNTIyNTk5MS8",
+      "title": "Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dead at 52",
+      "description": "Lelio, who was found dead at his home in Santiago amid a health issue, also directed \"Gloria\" star Paulina García to a Silver Bear win in 2013 before remaking the film as \"Gloria Bell\" with Julianne Moore in 2018.",
+      "url": "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P114LRRT.jpg?w=650",
+      "publishedAt": "2026-11-06T18:38:34.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-3ktMTIzNTIyNTQwOC8",
       "title": "The Johnny Depp Comeback Hits Judgment Day with ‘Ebenezer’: How Paramount Is Carefully Reintroducing the Controversial Star",
       "description": "The studio has promoted the Christmas film with in-character stunts and an intimate preview screening, emphasizing Depp's big performance over his personality.",
@@ -29,7 +125,7 @@
     },
     {
       "id": "indiewire-5hLTEyMzUyMjU5NzYv",
-      "title": "Box Office: ‘Godzilla Minus Zero’ Roars With $6.7 Million in Previews, ‘Ramayana: Rise of a Legend’ Earns $3.5 Million",
+      "title": "Box Office: ‘Godzilla Minus Zero’ Roars with $6.7 Million in Previews, ‘Ramayana: Rise of a Legend’ Earns $3.5 Million",
       "description": "\"Cat in the Hat\" is no match for the kaiju's return.",
       "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-previews-ramayana-1235225976/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC012-1.jpg?w=650",
@@ -100,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-cy0xMjM1MjI1NzI2Lw",
-      "title": "Inside ‘Godzilla Minus Zero’: How an R Rating, Filming in IMAX, and Epic Kaiju Battles Broke Franchise Tradition",
-      "description": "Spoilers ahead, as director Takashi Yamazaki takes IndieWire behind the scenes of his latest kaiju monster mayhem, from its biggest fight scenes to why \"Minus Zero\" needed a franchise-first R rating.",
-      "url": "https://www.indiewire.com/features/interviews/godzilla-minus-zero-spoilers-interview-fight-scenes-1235225726/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P108SOG7.jpg?w=650",
-      "publishedAt": "2026-11-06T13:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-dGFsbG9uZS1ib3hlcg",
       "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
       "description": "The actor’s triumphant breakthrough has clear ancestors in grimy tales of working-class struggle, but finds a fresh, rousing idealism Peter Farrelly’s new film I Play Rocky is about the underdog-with-heart story of how a great boxing movie got made against the odds with its plucky young untried screenwriter allowed to star. So here is a reissue of that 1976 film for its 50th anniversary. It’s a forthright, rousingly idealistic film, wholesome in its essential patriotism, and which unselfconsciously shrugs off the boxing-movie’s gloomy generic inheritance, throwing away its grim traditional baggage of tragedy, cynicism and loss. It also doubles as a love letter to Philadelphia, the cradle of American democracy. Its writer and insurgent star Sylvester Stallone created the role of Rocky Balboa, a punchy heavyweight fighter just turned 30, making peanuts slugging it out with bums and reduced to collecting debts for the Philly mob; this is an indignity which infuriates his grizzled old trainer and former mentor Mickey (Burgess Meredith) who once saw greatness in Rocky and is disgusted to see him selling out. Rocky is moreover entirely oblivious to national preparations to celebrate the 1976 bicentennial. (Boxing is for this anniversary what country music was in Robert Altman’s Nashville , only without the disorientation and pessimism.) Continue reading...",
@@ -145,78 +229,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9yLTEyMzUyMjU4NTcv",
-      "title": "Rosamund Pike Starring in Body Horror Film ‘Feed’ for ‘Star Wars: The Acolyte’ Creator Leslye Headland",
-      "description": "The film will look at \"our obsession with social media and self-improvement\" with the story of an influencer and her mom.",
-      "url": "https://www.indiewire.com/news/breaking-news/rosamund-pike-starring-in-body-horror-film-star-wars-the-acolyte-creator-1235225857/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.27.13-PM.png?w=650",
-      "publishedAt": "2026-11-06T00:45:23.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WwtMTIzNTIxODcxMy8",
-      "title": "Letterboxd Finalizing $330 Million Sale to The New York Times",
-      "description": "A24 was also in the mix to acquire the cinephile social networking site.",
-      "url": "https://www.indiewire.com/news/breaking-news/letterboxd-new-york-times-company-330-million-deal-1235218713/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/LetterboxdNYTLogoSplit.jpg?w=650",
-      "publishedAt": "2026-11-05T23:52:22.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-lzLTEyMzUyMjQ5MDkv",
-      "title": "Why ASMR Invaded the Soundscape of ‘La Bola Negra’",
-      "description": "Supervising sound editors Alejandro López and Anna Harrington tell IndieWire about using sound to toggle between timelines in \"La Bola Negra.\"",
-      "url": "https://www.indiewire.com/features/craft/la-bola-negra-sound-design-interview-los-javis-1235224909/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/LBN_analog_roll17_23_carlaoset.jpg?w=650",
-      "publishedAt": "2026-11-05T23:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RpLTEyMzUyMjU4MTEv",
-      "title": "Two ‘Ramayana’ Cuts Are in Theaters — but Your Best Bet for the Indian Epic Is Clear",
-      "description": "Sony has released two competing versions of the Bollywood epic. How do they compare?",
-      "url": "https://www.indiewire.com/features/commentary/ramayana-movie-english-cut-vs-hindi-1235225811/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-05-at-1.03.35-PM.png?w=650",
-      "publishedAt": "2026-11-05T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIxNTkwMy8",
-      "title": "‘Everytime’ Review: Sandra Wollner’s Infinitely Beguiling Portrait of Grief in the Digital Age Is One of the Most Haunting Films of the Decade",
-      "description": "Picking up where the likes of \"Aftersun\" and \"Personal Shopper\" left off, Wollner's unforgettable third feature explores the modern world's changing relationship to death.",
-      "url": "https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Everytime_MainStillTheBarricadesPanamaFilm_GregoryOke.jpg?w=650",
-      "publishedAt": "2026-11-05T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIyNTc3Ny8",
-      "title": "‘La Bola Negra’ Wins Denver Film Festival Top Prize as More Regional Fests Boost Oscar Hopefuls",
-      "description": "The Sly Stallone behind-the-scenes biopic \"I Play Rocky\" won the narrative feature audience award, repeating a pattern that started in Toronto.",
-      "url": "https://www.indiewire.com/news/festivals/denver-film-festival-2026-award-winners-1235225777/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDLABO_ZX008.jpg?w=650",
-      "publishedAt": "2026-11-05T19:41:33.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -338,18 +350,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-LW1vdmllLXdpY2tlcg",
-      "title": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skarsgård on their steamy folk-horror movie Wicker",
-      "description": "She plays a depressed fisherwoman. He plays a man made of wicker who is solely dedicated to her pleasure. How did the actors feel about this strange, emotional connection – and what did Colman draw from her own marriage? Another year, another raunchy comedy-drama in which Alexander Skarsgård is the answer to a social outcast’s erotic dreams. “I fucking loved Pillion so much!” says Olivia Colman, reliably sweary straight out of the gate, as she brings up last year’s British indie hit starring Skarsgård as a leather-clad dom with a timid traffic warden as his submissive. “And when they kissed at the end … Aww .” The 52-year-old Oscar-winner for The Favourite gives a mock-sniffle and a little shake of her frizzy grey locks, then pretends to dab her eyes. Seated beside her in a London hotel room and wearing a bright orange “I’m With Stupid” T-shirt, Skarsgård tilts his head appreciatively. In Pillion, it was Harry Melling who had the privilege of being ravaged by the 50-year-old Swedish actor. Now it is Colman’s turn in Wicker, an earthy adult fairytale filmed in Budapest and set in a medieval village populated almost exclusively by British comic actors who converse in language both archaically formal (“Happy to transact with you”) and bluntly colloquial (“I’d better fuck off”). Among them is Phil Daniels as a leering butcher and Richard E Grant as a doctor who is even more inept at his job than Grant was as a Celebrity Traitor. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
-      "image": "https://i.guim.co.uk/img/media/d47b5322c26410f2cceaf0c888d44817a0c388d2/654_0_6539_5231/master/6539.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1fed75c364ff44ae0f1c8e867d8ec33",
-      "publishedAt": "2026-10-30T08:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
