@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T12:28:33.403Z",
+  "generatedAt": "2026-11-07T18:27:21.045Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-b2dlLWhvbGx5d29vZA",
+      "title": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
+      "description": "Dickens character is actor’s first big studio role after years overshadowed by legal battles with ex-wife Amber Heard “It’s good to be back,” Johnny Depp declares in the trailer for Ebenezer, in which he stars as Charles Dickens’s miserly Scrooge – his first big Hollywood studio production in eight years. The message is clear: this is Depp’s comeback, after years in which his career was overshadowed by legal battles with his former wife Amber Heard. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/07/johnny-depp-ebenezer-film-scrooge-hollywood",
+      "image": "https://i.guim.co.uk/img/media/18da89459cb16624bf4035cd6ef735fbbf9f9335/642_4_3933_3146/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d62e4cd6481f0d41b25a6abd0083b8c",
+      "publishedAt": "2026-11-07T14:00:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Trailers"
+    },
     {
       "id": "guardian-VyeXdoZXJlLW9zY2Fy",
       "title": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
@@ -118,6 +130,18 @@
       "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
       "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
       "publishedAt": "2026-11-06T20:56:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZGlyZWN0b3ItZGllcw",
+      "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "description": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+      "image": "https://i.guim.co.uk/img/media/f6a6cae8f175168cacea46f4a86c8976eba48874/0_1_3771_3014/master/3771.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf17f0b84abb311e2b9dd28a34f717d1",
+      "publishedAt": "2026-11-06T19:23:24.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -350,30 +374,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-LW1pa2UtbmljaG9scw",
-      "title": "Dustin Hoffman says filming The Graduate was ‘a terrible experience’ due to Mike Nichols’ ‘sadism’",
-      "description": "In his new memoir, the actor reveals he was slapped 27 times until he was dizzy for a scene director Nichols ‘didn’t even use’ Almost 60 years after The Graduate was released, Dustin Hoffman has revealed that making the 1967 film that launched his career was “a terrible experience” and he felt “immediately uncomfortable, unworthy” as a Jewish actor playing “the ultimate Wasp”, Ben Braddock. In an essay for the New Yorker , drawn from his upcoming memoir Look at Me, which was co-written with New Yorker staff writer Ariel Levy, the 89-year-old actor wrote: “The Graduate exacerbated all my insecurities from the start. Look At Me by Dustin Hoffman (Simon & Schuster, £25). To support the Guardian, order your copy at guardianbookshop.com . Delivery charges may apply. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/dustin-hoffman-memoir-look-at-me-the-graduate-mike-nichols",
-      "image": "https://i.guim.co.uk/img/media/e0483e599e212ab962fb493968a1831a1c8ca232/16_0_2494_1994/master/2494.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8352ec02bf37800f67175d54f498680",
-      "publishedAt": "2026-11-03T00:54:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-bWF5aGV3LWFyY2hlcg",
-      "title": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
-      "description": "Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses – a devastating subject but laced with humour too, they say Ahead of production on their first job together, Rhys Ifans and Laura Linney didn’t undergo the standard “chemistry read” to make sure they got on. Which is remarkable, given what their characters would have to do to each other in Onwards and Sideways. In the Norfolk-set BBC film directed by John Madden (Shakespeare in Love), Ifans would have to nearly throttle Linney while in the grip of night terrors, she’d have to collapse in his arms in a weeping mess having bankrupted herself with a gambling addiction; both situations arising from the neurological condition afflicting their characters: Parkinson’s disease. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
-      "image": "https://i.guim.co.uk/img/media/d7b64fbe0899203bc4829c0fcdc8765e118e88ff/0_327_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ac9879753492f81d7e8ecdb9ac8a235",
-      "publishedAt": "2026-11-02T08:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
