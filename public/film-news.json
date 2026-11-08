@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:28:29.948Z",
+  "generatedAt": "2026-11-08T18:27:22.938Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-G0tMTIzNTIyNjEzMi8",
+      "title": "Box Office: ‘Godzilla Minus Zero’ Thunders with $31.6 Million, Scoring the Biggest Debut Ever for a Live-Action, Foreign Language Film",
+      "description": "\"Godzilla Minus Zero\" continues a streak of unlikely blockbusters and shows moviegoers don't care about subtitles.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-debut-record-foreign-film-1235226132/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC012-1.jpg?w=650",
+      "publishedAt": "2026-11-08T16:21:19.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-RzLTEyMzUyMjYxMzYv",
+      "title": "Dylan Skolnick Returning as Co-Director of the Cinema Arts Centre Following Protests and Boycotts",
+      "description": "The leader of the Long Island cultural institution was fired in September for what the board described as \"serious misconduct.\"",
+      "url": "https://www.indiewire.com/news/general-news/dylan-skolnick-returning-director-cinema-arts-centre-protests-1235226136/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/JOC_9637.jpg?w=650",
+      "publishedAt": "2026-11-08T14:31:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Jzb24taW50ZXJ2aWV3",
+      "title": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
+      "description": "Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back Get our weekend culture and lifestyle email If, for whatever reason, you want to feel a bit sad, think too hard about what Elliott from ET would have been like as an adult. Or Coraline, or Matilda, or Chihiro, or those kids in Mary Poppins. The most amazing thing that ever happened in their lives – magic nanny, alien friend, psychic abilities, otherworldly adventures – was already over when they were kids. If that bad Harry Potter play taught us anything, they probably all grew into loser adults. This is the central premise for Allen, a new Netflix family film by Daley Pearson, co-founder of Ludo Studio, the Brisbane production company behind a little show called Bluey. As a kid growing up in the small coastal town of Coolum, Petey (TJ Power) happens across a friendly, bug-eyed extraterrestrial; the little guy can’t quite pronounce “alien”, so they settle on “Allen”. Petey and Allen are best pals for one blissful month, sharing a love for Cheezels, VHS and board games – until suddenly, Allen is summoned home. Decades later, Petey is trapped in a state of arrested development and obsession that frustrates everyone around him – until Allen returns, for surprising reasons I will not spoil here. Continue reading...",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
+      "image": "https://i.guim.co.uk/img/media/f1ead92dae446014b276f48f382171da47a02ded/590_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d96ad70f6d5f84202d275d81939dd37",
+      "publishedAt": "2026-11-08T14:00:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-E0dGgtYW1lbmRtZW50",
       "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
@@ -220,30 +256,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-nktMTIzNTIyNTkyNy8",
-      "title": "Emily Feingold Hired as EVP, Communications for The Walt Disney Company",
-      "description": "The former Netflix communications guru will join Disney as David Jefferson departs.",
-      "url": "https://www.indiewire.com/news/business/emily-feingold-hired-communications-walt-disney-company-1235225927/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-9.38.43-AM.png?w=650",
-      "publishedAt": "2026-11-06T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyNTgyOS8",
-      "title": "James Gray on His ‘Only Real Beef with Streaming’ and the ‘Recurring Nightmare’ That Started at Cannes in 2009",
-      "description": "Gray joined IndieWire's \"Screen Talk\" podcast live at the Virginia Film Festival to talk \"Paper Tiger,\" \"Little Odessa,\" and more in an amusingly wide-ranging chat.",
-      "url": "https://www.indiewire.com/features/podcast/james-gray-streaming-cannes-controversies-nightmares-1235225829/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/55616305842_d99e80a3a8_o.jpg?w=650",
-      "publishedAt": "2026-11-06T15:58:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-QtbW92aWUtcmV2aWV3",
       "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
       "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
@@ -266,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-dGFsbG9uZS1ib3hlcg",
-      "title": "Rocky review – 50 years on, Stallone’s boxer remains an exhilaratingly gritty contender",
-      "description": "The actor’s triumphant breakthrough has clear ancestors in grimy tales of working-class struggle, but finds a fresh, rousing idealism Peter Farrelly’s new film I Play Rocky is about the underdog-with-heart story of how a great boxing movie got made against the odds with its plucky young untried screenwriter allowed to star. So here is a reissue of that 1976 film for its 50th anniversary. It’s a forthright, rousingly idealistic film, wholesome in its essential patriotism, and which unselfconsciously shrugs off the boxing-movie’s gloomy generic inheritance, throwing away its grim traditional baggage of tragedy, cynicism and loss. It also doubles as a love letter to Philadelphia, the cradle of American democracy. Its writer and insurgent star Sylvester Stallone created the role of Rocky Balboa, a punchy heavyweight fighter just turned 30, making peanuts slugging it out with bums and reduced to collecting debts for the Philly mob; this is an indignity which infuriates his grizzled old trainer and former mentor Mickey (Burgess Meredith) who once saw greatness in Rocky and is disgusted to see him selling out. Rocky is moreover entirely oblivious to national preparations to celebrate the 1976 bicentennial. (Boxing is for this anniversary what country music was in Robert Altman’s Nashville , only without the disorientation and pessimism.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
-      "image": "https://i.guim.co.uk/img/media/2ffa1c538f5b2cec11ae1e12ff28e90f502049ed/112_0_2029_1623/master/2029.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=d41f711875d3edadeb260abbcc30aa65",
-      "publishedAt": "2026-11-06T11:00:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-ZhbWlseS1mcmVlZG9t",
