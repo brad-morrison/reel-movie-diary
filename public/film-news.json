@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:46:14.446Z",
+  "generatedAt": "2026-11-08T12:28:29.948Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-E0dGgtYW1lbmRtZW50",
+      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
+      "description": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus while making her new film – or how anyone does, when the onslaught of news, fake news and disputed facts seems designed to overwhelm – she starts to answer, then stops. Her eyes have filled&nbsp;with tears. “I just got emotional, as you said that, because it was the film that saved me,” she says. “It’s been a very tough two years. I live in Los Angeles, and I’ve seen people in my neighbourhood pulled out of their cars. The lady who sells flowers next to my office was there&nbsp;one day, and the next day she wasn’t. People I know personally are literally hiding in their houses, like Anne Frank vibes … So when I would feel the rage and the fear, I&nbsp;put it into the film … And I just … I was doing something.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
+      "image": "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1895c991b6e1a10d6d19798310bda51c",
+      "publishedAt": "2026-11-08T10:00:36.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-b2dlLWhvbGx5d29vZA",
       "title": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
@@ -326,18 +338,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-aGVyLXJveS1kZWF0aA",
-      "title": "‘I was given the big picture early’: Rory Kinnear on love, drama – and how his father’s death changed his life",
-      "description": "When Kinnear was 10, his beloved father Roy died in an on-set accident. This affected how he now approaches his work as an actor, and also his understanding of life’s most important questions At first glance, Rory Kinnear is Mr Normal. Bald head, nice face, wholly unremarkable. As an actor, he’s not one for flashy tricks – no dramatic weight loss or gain, rarely disguising himself with prosthetics or CGI. Yet, somehow, whatever role Kinnear plays, he’s totally different. So here I am in his dressing room at the Theatre Royal Haymarket in London, face to face with the man I’ve just seen on stage, and whose films and TV shows I’ve pored over for the past week, failing to recognise him. For starters, at 6ft, he’s taller than he should be. And more hench. And, actually, hotter. Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/rory-kinnear-father-roy-death",
-      "image": "https://i.guim.co.uk/img/media/5cda7168cf5fb36f6ae62e2a2b634949507de814/793_1631_7028_5622/master/7028.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a762615a6905a6d43c0cd9532c44b9f",
-      "publishedAt": "2026-11-05T05:00:55.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-S1kaWVzLWFnZWQtOTM",
