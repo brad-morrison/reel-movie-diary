@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:42:37.993Z",
+  "generatedAt": "2026-11-09T12:31:27.193Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-3NvbnMtY3JlZWstdHY",
+      "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
+      "description": "As he releases a memoir, the actor opens up about the late James Van Der Beek, the magic of the Creek, and facing homophobia for playing gay in the 90s There are worse things to spend a couple of decades chasing than the feeling of being young, successful and surrounded by people who love you. For Kerr Smith, though, the particular magic of Dawson’s Creek has proved just about impossible to replicate. “I’ve spent the last 25 years of my career trying to re-create that experience,” Smith says of the WB teen drama, on which he played the sensitive jock Jack McPhee for five seasons. “I’ve been trying to measure up to it my entire career.” Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
+      "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
+      "publishedAt": "2026-11-09T11:00:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-Y29tZm9ydC1tb3ZpZQ",
+      "title": "‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie",
+      "description": "The latest in our ongoing series of writers highlighting their go-to comfort films is a reminder of the dark joys that can be found in David Fincher’s devilish thriller “When I think of my wife, I always think of the back of her head,” narrates Ben Affleck in the opening scene of Gone Girl , David Fincher’s 2014 adaptation of the bestselling thriller novel. “I picture cracking her lovely skull, unspooling her brains, trying to get answers to the primal questions of any marriage: What are you thinking? How are you feeling? What have we done to each other?” From the outset, Gone Girl probably sounds like quite an odd choice for a feelgood movie. The film follows Nick (Affleck) and Amy Dunne (Rosamund Pike), whose once-picture-perfect marriage has become a humiliatingly predictable tale of resentment and infidelity – and when Amy suddenly disappears in suspicious circumstances, it only gets more disturbing. But I find myself being drawn to this film every year when the days start to shorten. There is a strange catharsis (and comfort) in watching a scorned woman get her revenge, one meticulously planned move at a time. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
+      "image": "https://i.guim.co.uk/img/media/fcb22334443769a37b4f2c24c130816341980cd1/560_347_2476_1982/master/2476.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=109afa3de560849a159eb3581cf0e3f5",
+      "publishedAt": "2026-11-09T10:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-LWlyYW4tcmVmdWdlZQ",
+      "title": "A Fox Under a Pink Moon review – Iranian teen refugee paints boldly imaginative self-portrait",
+      "description": "Soraya Akhlaghi filmed her perilous flight from Iran and precarious new life over five years on her phone, reassembled here with yearning animations The world feels like an overwhelmingly forlorn place in this striking refugee self-portrait, shot on smartphone by Soraya Akhlaghi over five years and assembled remotely by co-director Mehrdad Oskouei. Fleeing a dead-end life as a Tehran maid, Soraya – who is just 16 at the beginning of the film – starts out at an Istanbul asylum centre. Most “games” – as border-crossing sorties with people-smugglers are euphemistically called – end in failure in the wilderness at the hands of hostile law enforcement officers. Soraya is hoping to join her mother, who left for Austria after the death of Soraya’s father when she was a child. She winds up back in the Iranian capital, with her violent husband. Of Afghan heritage, she watches the Taliban takeover on TV – and over-identifies with the stricken populace desperate to board a US plane. Gearing up for the next escape attempt, if she can dodge being beaten by her partner, the Turkish border police offer more of the same. Whatever the latest travail, she narrates it to camera in a numbed monologue. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/a-fox-under-a-pink-moon-review-iran-refugee",
+      "image": "https://i.guim.co.uk/img/media/21a3e8e4703c4e13be27a665443f93f0aecb3ece/144_71_1184_947/master/1184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=430f47db457352bc61331c18472e5bc2",
+      "publishedAt": "2026-11-09T10:00:06.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Wtlbnppbi1rdW5zZWw",
+      "title": "100 Sunset review – elliptical, elusive drama dreamlike through Toronto’s tight-knit Tibetan community",
+      "description": "Kunsang Kyirong’s debut feature fades like a vapour trail in a mood of disorientation and dislocation Not much happens and very little is explained in this elliptical, elusive drama by Canadian-Tibetan film-maker Kunsang Kyirong. Her film, her feature directing debut, takes us inside the tight-knit world of Toronto’s Tibetan community, using a cast of nonprofessional actors. It drifts in a dreamlike manner as it follows introverted 18-year-old Kunsel (Kenzin Kunsel), who lives in a grey slab high-rise block nicknamed Sunset Towers; its Tibetan residents seem to know everything about each other’s business. Her uncle Geysar (Tsering Bawa) is the caretaker, and runs card games out of their apartment. Kunsel is shy to the point of wordlessness; she is also a compulsive thief, rifling through handbags and coat pockets, with a knack for pilfering her victims’ most precious belongings. One night she steals a camcorder, and the shaky footage she subsequently films provides an inkling into her interior life – there is the faintest flicker of voyeurism as she begins spying on her neighbours, filming from her window. In particular, her gaze rests on Passang (Sonam Choekyi), a woman only a couple of years older than herself, who recently moved into number 100 with her husband. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel",
+      "image": "https://i.guim.co.uk/img/media/cc3aa9d18a27f0c0763ceb5fc9ca64a133856287/506_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd1c8b403631ae868b118f2f7de10d4a",
+      "publishedAt": "2026-11-09T07:00:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4eb2/live/e5e231a0-d9cf-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-09T06:47:09.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-bmQtY29udGVuZGVycw",
       "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
@@ -112,18 +172,6 @@
       "category": "Trailers"
     },
     {
-      "id": "guardian-VyeXdoZXJlLW9zY2Fy",
-      "title": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
-      "description": "Ballet dancer, action hero, Bond girl ... The actor won an Oscar for Everything Everywhere All At Once but she’s been through some challenges on the way Before agreeing to appear in Blade Runner 2099, Michelle Yeoh received a letter – “an amazing letter, a love letter” – from Silka Luisa, the project’s creator, imploring her to be involved. Yeoh, who is 64, has played grandes dames, action heroes and a low-income Chinese-American battling the tax authorities in an infinite multiverse, but Blade Runner was different. The sci-fi series, a follow-up of sorts to Ridley Scott’s 1982 movie classic and its 2017 sequel , features both humans and replicants, their bioengineered antagonists, and Yeoh was adamant: “I don’t want to be human.” After working on ideas of what a synthetic human might look like, the result is Olwen, a terrifying individual with “a very cold, steely look in her eyes. And the way she moves – it’s not robotic. She’s sort of fluid. Like a dragon. Like a serpent.” Yeoh is an actor who likes to figure things out for herself and, in the prep stages for Blade Runner 2099, the key question she thought about while building her character was, “What is it to be human? Are you born with humanity or does it come from the things you go through?” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
-      "image": "https://i.guim.co.uk/img/media/79b85c937ffed09426bf9c4a8da0474288e3be69/0_1278_5625_4500/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4921e40b40f4e84256971d8f8b4d5ae0",
-      "publishedAt": "2026-11-07T12:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Gladiator II stuntman sues over injuries from on-set explosion",
       "description": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
@@ -145,18 +193,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "An Indian film that nobody would release is finally a hit - 18 awards later",
-      "description": "Extraordinary scenes of audiences crying leaving theatres after watching the film have been shared on social media.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly334rem5do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1489/live/c9303e00-d9eb-11f1-bbe5-797ee05bee69.jpg",
-      "publishedAt": "2026-11-06T22:59:54.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -208,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YW4tZmlsbS1tYWtlcg",
-      "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
-      "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
-      "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZGlyZWN0b3ItZGllcw",
       "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
       "description": "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52. He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder. Continue reading...",
@@ -268,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-dW5lLXN0YXItd2Fycw",
-      "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
-      "description": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope not A long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and it would become immediately clear that no amount of evildoing could withstand a neurotic gold butler, a dustbin with ideas above its station and a walking seven-foot tall shagpile carpet with a very low tolerance for disagreement. It is worth remembering this when considering Florence Pugh’s recent declaration, ahead of next month’s Dune: Part Three, that Dune is her generation’s Star Wars . And then wondering how much trouble we might be in if she’s actually right. “I think they brought back movie-going. What an event the second [Dune] was,” Pugh cheerfully told the New York Times. “It was just so lovely to be a part of something that we know is our generational kind of Star Wars.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
-      "image": "https://i.guim.co.uk/img/media/6f8a53f102e7ec7d1d7cf97b93fcb707b5f0de49/192_0_4926_3942/master/4926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9a48eb5da20235a5e47027de9520084b",
-      "publishedAt": "2026-11-06T14:04:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ZhbWlseS1mcmVlZG9t",
       "title": "‘Mom encouraged me to get breast implants’: Disney child star Christy Carlson Romano on fame, family and freedom",
       "description": "She started acting at six and by 16 was starring in Even Stevens with Shia LaBeouf. Then her career fell apart. Here, she explains how she survived growing up in the spotlight In a class at college, Christy Carlson Romano was encouraged to think about her “community”. Who were their people, the tutor asked the class, and where did they belong? The answer that popped into Carlson Romano’s head was child actors, but not the ones that went on to have successful grown-up careers. “The ones who were once the shining stars,” she writes in her memoir, “and who are now just trying to find out their places in the world.” Carlson Romano had returned to college after initially dropping out. She had survived sexual assault and toxic relationships, was broke and drinking too much. But before all that, she had been a teenage Disney star. She had made it. The title of her memoir, Once Upon a Trainwreck, gives you a flavour of where Carlson Romano, 42, is coming from, but what’s most striking isn’t that she goes off the rails (she doesn’t, hugely, compared to other former child stars), but how sensible and mature she is as a child. It’s alarming. When fans recognise her now – she was in the popular Disney series Even Stevens which started in 2000 – they tell her she was a huge part of their childhoods. She had been acting the part of a normal suburban girl, the perfectionist Ren Stevens, while having no idea what that was like. She was already a mini adult. Continue reading...",
@@ -314,18 +326,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-1qYWNrLW1hY2lubmVz",
-      "title": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
-      "description": "In 2015, two film-makers first met 11-year-old refugee Israa, forced to abandon Aleppo for a new life in Europe, along with her parents and siblings. None of them imagined what would come next In 2015, an 11-year-old Syrian girl called Israa matter-of-factly explained how her family would survive if their dinghy sank crossing the sea from Turkey to Greece. Her father would grab her disabled sister; her mother would look after the baby. “And I,” said Israa, a huge smile lighting her face, “I know how to rescue myself.” Wife-and-husband documentary-makers Itab Azzam and Jack MacInnes met Israa while filming a BBC series, Exodus , about refugees trying to reach Europe. Their plan was to follow Israa and her family on their hazardous journey to Germany. But after Israa reached safety, the pair kept filming. Ten years in the making, their documentary, One in a Million, is extraordinary - with echoes of Richard Linklater’s Boyhood and the Up! series . We watch Israa grow up in front of our eyes, from a sunny-natured 11-year-old to a woman, married with a baby of her own. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/05/syrian-family-10-year-journey-one-in-a-million-itab-azzam-and-jack-macinnes",
-      "image": "https://i.guim.co.uk/img/media/dd21ec002793498971d5c2fdf4669f4ea9096e95/179_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b176817c80e93ef91ac1448d43cb8c1",
-      "publishedAt": "2026-11-05T11:39:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
