@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:46:03.099Z",
+  "generatedAt": "2026-11-09T06:42:37.993Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-bmQtY29udGVuZGVycw",
+      "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
+      "description": "Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them wrecked and disillusioned. “I’d like to kill him,” Sean Connery famously said of Bond, that “dull, prosaic English policeman”; it was Daniel Craig who finally managed to do it, a fifth film torturously pulled out of him because Barbara Broccoli agreed to knock him off . As soon as his Bond took a missile to the bonce, Craig dived right into playing all the oddballs he could get, with Benoit Blanc as palate cleanser. Bond might never be an actor’s most interesting role, but it is always the one that leads the obit. With the auditions for the next Bond under way, reports recently emerged that the official contenders were Jack Lowden, Josh O’Connor, Callum Turner and a mysterious fourth actor who no one seemed to know. But over the weekend multiple sources confirmed to the Hollywood trades that the mysterious fourth – and fifth – contenders were Robert Pattinson and Nicholas Hoult. Both great actors, but one of them has made a casting decision that has dragged on, and on, and on, suddenly feel genuinely exciting for the first time. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
+      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1763167d0167516ee43f267cf2dd3645",
+      "publishedAt": "2026-11-09T05:29:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI2MTU2Lw",
+      "title": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards",
+      "description": "The Critics Choice Association gave the Nathan Fielder-Lance Oppenheim documentary five awards, including the top prize.",
+      "url": "https://www.indiewire.com/awards/results/critics-choice-documentary-award-winners-full-list-1235226156/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
+      "publishedAt": "2026-11-09T02:42:36.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-NlLTEyMzUyMjYxNDQv",
       "title": "Box Office: ‘You Can See Everything’ Hits $80 Million, Becoming A24’s Third-Biggest Domestic Release",
@@ -242,30 +266,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-3ktMTIzNTIyNTQwOC8",
-      "title": "The Johnny Depp Comeback Hits Judgment Day with ‘Ebenezer’: How Paramount Is Carefully Reintroducing the Controversial Star",
-      "description": "The studio has promoted the Christmas film with in-character stunts and an intimate preview screening, emphasizing Depp's big performance over his personality.",
-      "url": "https://www.indiewire.com/features/general/johnny-depp-comeback-paramount-ebenezer-promotion-controversy-1235225408/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2099/11/JohnnyDeppEbenezerPremiere.jpg?w=650",
-      "publishedAt": "2026-11-06T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-QtbW92aWUtcmV2aWV3",
-      "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
-      "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07048846bc1de89d9d63210a3221853e31347902/243_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a3ffea5d3a620a6949b5ce3ca0b3e536",
-      "publishedAt": "2026-11-06T14:38:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-dW5lLXN0YXItd2Fycw",
