@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:31:27.193Z",
+  "generatedAt": "2026-11-09T18:28:33.460Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-dC1tYXJpbmUtZGllcw",
+      "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
+      "description": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92. Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s most heartbreaking chapter. He recalled the experience in the recording booth as easy and relaxed, with rudimentary technology and notes from an assistant director instructing him to pretend his own mother had died when voicing Bambi’s reaction to his mother being killed by a hunter. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
+      "image": "https://i.guim.co.uk/img/media/4a2f0cd9fa8b0cd8733fdc02c69594c202d67501/306_274_2685_2148/master/2685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4af65fa4c0eba560e5b8174a07404837",
+      "publishedAt": "2026-11-09T17:48:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-5nLTEyMzUyMjYyMTEv",
+      "title": "Rejected Twice by Sundance, ‘Mouse’ Is One of the Year’s Best Movies. Why Aren’t More People Talking About It?",
+      "description": "Alex Thompson and Kelly O'Sullivan's spectacular coming-of-age grief drama was also rejected by Telluride and Toronto, where it would've played like gangbusters. The Chicago filmmaking duo, meanwhile, tells IndieWire why they're not quite ready to embrace Hollywood.",
+      "url": "https://www.indiewire.com/features/interviews/mouse-movie-sundance-rejection-indie-filmmaking-1235226211/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2191837091-e1794246315407.jpg?w=650",
+      "publishedAt": "2026-11-09T17:43:15.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bS0xMjM1MjI2MjQwLw",
+      "title": "DC Studios Shakeup: James Gunn, Peter Safran Stepping Down as Co-CEOs, Marvel Vet Jeremy Latcham Named Chief Creative Officer",
+      "description": "The \"Superman\" director and his longtime producing partner are exiting the company.",
+      "url": "https://www.indiewire.com/news/breaking-news/dc-studios-shakeup-james-gunn-peter-safran-out-jeremy-latcham-1235226240/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/James-Gunn-Peter-Safran-DC-Studios.jpg?w=650",
+      "publishedAt": "2026-11-09T17:15:31.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JzLTEyMzUyMjYwODEv",
+      "title": "From Los Javis to Lord and Miller, Director Duos Are a High-Risk, High-Reward Prospect in the Oscar Race",
+      "description": "Awards bodies have never been easy on director duos, but 2026 has seen strong enough work from the teams behind \"La Bola Negra,\" \"Project Hail Mary,\" and \"You Can See Everything\" to make Best Director Oscar history.",
+      "url": "https://www.indiewire.com/awards/consider-this/director-duos-project-hail-mary-la-bola-negra-oscars-1235226081/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-03-02-PM-8955.jpg?w=650",
+      "publishedAt": "2026-11-09T16:04:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjE2OTQzLw",
+      "title": "How John Malkovich Nailed the Role of His Career with ‘Wild Horse Nine’",
+      "description": "Now 72, Malkovich says he enjoyed channeling his jaded CIA spy's fearless rage. It could win him an Oscar.",
+      "url": "https://www.indiewire.com/awards/consider-this/john-malkovich-interview-wild-horse-nine-oscars-1235216943/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970-1.jpg?w=650",
+      "publishedAt": "2026-11-09T14:23:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ZC0xMjM1MjI2MTU1Lw",
+      "title": "‘Half Nelson’ at 20: How a $700,000 Indie Addiction Drama Earned Ryan Gosling His First Oscar Nod",
+      "description": "Ahead of a new dual-disc 4K re-release and a return to theaters, filmmakers Ryan Fleck and Anna Boden look back on their indie drama, starring Gosling as a freebasing middle-school teacher.",
+      "url": "https://www.indiewire.com/features/interviews/half-nelson-at-20-how-ryan-gosling-earned-first-oscar-nod-1235226155/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDHANE_EC003.jpg?w=650",
+      "publishedAt": "2026-11-09T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-F2aWQtd2lsa2luc29u",
+      "title": "1 in 2 review – compassionate film about dealing with bowel cancer is a personal plea on behalf of the young",
+      "description": "David Wilkinson made this warm, generous documentary of his own treatment, and asks why so many much younger people are getting the same diagnosis ‘I am lucky, as I have become old.” That is the pithy, personal summary offered by English film-maker David Wilkinson, whose previous movie was his thoughtful, eloquent film The Marbles , which reopened the case for the restitution of the Parthenon marbles to Greece. Now he reveals that he was in fact battling stage four bowel cancer throughout its making, and this new and very personal film is now about his own condition, a film in which the director is front and centre, speaking candidly to camera in the very midst of his treatment. In fact, 1 in 2 is specifically about his shock and sadness that so many people alongside him in waiting rooms, or online in bowel cancer discussion groups are so young, in their 40s, or 30s, or 20s. Wilkinson makes it his business to give these people a voice, along with the medical professionals in the NHS who are battling to help them. He also wants to find something out: why is something that was once considered an old person’s disease on the rise in younger age groups in developed nations? It appears to be due to diet and lifestyle. Could it be microplastics? There are no clearcut answers. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson",
+      "image": "https://i.guim.co.uk/img/media/6a6c084e58c86744bf49cc6952f1b8d982d9625f/509_0_2353_1882/master/2353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b1e06bf2bb954cb56ae9c05971c230d0",
+      "publishedAt": "2026-11-09T13:00:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-FpLTEyMzUyMjYxMjQv",
+      "title": "Cinematographers’ Favorite Festival Is All About AI This Year — but Artists Still Hate the Tech",
+      "description": "ToruńCAMERIMAGE promised to devote its 2026 edition to \"the hopes and threats of AI.\" The discussions are more than living up to that.",
+      "url": "https://www.indiewire.com/news/festivals/camerimage-2026-is-all-about-ai-1235226124/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-09-at-9.44.41-AM.png?w=650",
+      "publishedAt": "2026-11-09T12:35:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Ioan Gruffudd in AI warning after fan claimed they had been in year-long affair",
+      "description": "The Aberdare actor urged fans not to send money, saying \"explicit and disturbing\" images are \"not me\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvydp2vz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/e285/live/20937fa0-dc39-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-09T12:09:44.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-3NvbnMtY3JlZWstdHY",
       "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
@@ -54,7 +162,7 @@
     {
       "id": "guardian-Wtlbnppbi1rdW5zZWw",
       "title": "100 Sunset review – elliptical, elusive drama dreamlike through Toronto’s tight-knit Tibetan community",
-      "description": "Kunsang Kyirong’s debut feature fades like a vapour trail in a mood of disorientation and dislocation Not much happens and very little is explained in this elliptical, elusive drama by Canadian-Tibetan film-maker Kunsang Kyirong. Her film, her feature directing debut, takes us inside the tight-knit world of Toronto’s Tibetan community, using a cast of nonprofessional actors. It drifts in a dreamlike manner as it follows introverted 18-year-old Kunsel (Kenzin Kunsel), who lives in a grey slab high-rise block nicknamed Sunset Towers; its Tibetan residents seem to know everything about each other’s business. Her uncle Geysar (Tsering Bawa) is the caretaker, and runs card games out of their apartment. Kunsel is shy to the point of wordlessness; she is also a compulsive thief, rifling through handbags and coat pockets, with a knack for pilfering her victims’ most precious belongings. One night she steals a camcorder, and the shaky footage she subsequently films provides an inkling into her interior life – there is the faintest flicker of voyeurism as she begins spying on her neighbours, filming from her window. In particular, her gaze rests on Passang (Sonam Choekyi), a woman only a couple of years older than herself, who recently moved into number 100 with her husband. Continue reading...",
+      "description": "Kunsang Kyirong’s debut feature fades like a vapour trail in a mood of disorientation and dislocation Not much happens and very little is explained in this elliptical, elusive drama by Canadian-Tibetan film-maker Kunsang Kyirong. Her film, her feature directing debut, takes us inside the tight-knit world of Toronto’s Tibetan community, using a cast of nonprofessional actors. It drifts in a dreamlike manner as it follows introverted 18-year-old Kunsel (Tenzin Kunsel), who lives in a grey slab high-rise block nicknamed Sunset Towers; its Tibetan residents seem to know everything about each other’s business. Her uncle Geysar (Tsering Bawa) is the caretaker, and runs card games out of their apartment. Kunsel is shy to the point of wordlessness; she is also a compulsive thief, rifling through handbags and coat pockets, with a knack for pilfering her victims’ most precious belongings. One night she steals a camcorder, and the shaky footage she subsequently films provides an inkling into her interior life – there is the faintest flicker of voyeurism as she begins spying on her neighbours, filming from her window. In particular, her gaze rests on Passang (Sonam Choekyi), a woman only a couple of years older than herself, who recently moved into number 100 with her husband. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/09/100-sunset-review-kunsang-kyirong-kenzin-kunsel",
       "image": "https://i.guim.co.uk/img/media/cc3aa9d18a27f0c0763ceb5fc9ca64a133856287/506_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=dd1c8b403631ae868b118f2f7de10d4a",
       "publishedAt": "2026-11-09T07:00:03.000Z",
@@ -160,16 +268,16 @@
       "category": "TV"
     },
     {
-      "id": "guardian-b2dlLWhvbGx5d29vZA",
-      "title": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
-      "description": "Dickens character is actor’s first big studio role after years overshadowed by legal battles with ex-wife Amber Heard “It’s good to be back,” Johnny Depp declares in the trailer for Ebenezer, in which he stars as Charles Dickens’s miserly Scrooge – his first big Hollywood studio production in eight years. The message is clear: this is Depp’s comeback, after years in which his career was overshadowed by legal battles with his former wife Amber Heard. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/07/johnny-depp-ebenezer-film-scrooge-hollywood",
-      "image": "https://i.guim.co.uk/img/media/18da89459cb16624bf4035cd6ef735fbbf9f9335/642_4_3933_3146/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d62e4cd6481f0d41b25a6abd0083b8c",
-      "publishedAt": "2026-11-07T14:00:13.000Z",
+      "id": "guardian-VyeXdoZXJlLW9zY2Fy",
+      "title": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a replicant in Blade Runner 2099",
+      "description": "Ballet dancer, action hero, Bond girl ... The actor won an Oscar for Everything Everywhere All At Once but she’s been through some challenges on the way Before agreeing to appear in Blade Runner 2099, Michelle Yeoh received a letter – “an amazing letter, a love letter” – from Silka Luisa, the project’s creator, imploring her to be involved. Yeoh, who is 64, has played grandes dames, action heroes and a low-income Chinese-American battling the tax authorities in an infinite multiverse, but Blade Runner was different. The sci-fi series, a follow-up of sorts to Ridley Scott’s 1982 movie classic and its 2017 sequel , features both humans and replicants, their bioengineered antagonists, and Yeoh was adamant: “I don’t want to be human.” After working on ideas of what a synthetic human might look like, the result is Olwen, a terrifying individual with “a very cold, steely look in her eyes. And the way she moves – it’s not robotic. She’s sort of fluid. Like a dragon. Like a serpent.” Yeoh is an actor who likes to figure things out for herself and, in the prep stages for Blade Runner 2099, the key question she thought about while building her character was, “What is it to be human? Are you born with humanity or does it come from the things you go through?” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
+      "image": "https://i.guim.co.uk/img/media/79b85c937ffed09426bf9c4a8da0474288e3be69/0_1278_5625_4500/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4921e40b40f4e84256971d8f8b4d5ae0",
+      "publishedAt": "2026-11-07T12:00:10.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Trailers"
+      "category": "Classics"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -208,39 +316,15 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-duLTEyMzUyMjU4Mzkv",
-      "title": "How ‘Godzilla Minus Zero’ Used Real-World Sound to Make Its Monsters More Terrifying",
-      "description": "Sound designer Natsuko Inoue and sound mixer Hisafumi Takeuchi tell IndieWire how they breathed life into the warring monster kings of \"Godzilla Minus Zero.\"",
-      "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-real-world-sound-design-1235225839/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC015_5c195b.jpg?w=650",
-      "publishedAt": "2026-11-06T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-YS0xMjM1MTc0Nzk5Lw",
-      "title": "‘Zi’ Review: Kogonada Rediscovers His Voice with a Microbudget Hong Kong Experiment Starring Michelle Mao and Haley Lu Richardson",
-      "description": "Smarting from an ill-received foray into studio filmmaking, the \"Columbus\" director rebounds with a DIY curio about a wayward artist's journey back to herself.",
-      "url": "https://www.indiewire.com/criticism/movies/zi-movie-review-kogonada-1235174799/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/8emdy62lyzi-Still_1.jpg?w=650",
-      "publishedAt": "2026-11-06T21:02:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-mctMTIzNTIyNTk2MC8",
-      "title": "‘To Hold a Mountain’ Took on the Government — Now It’s Montenegro’s Oscar Submission",
-      "description": "At IndieWire's Art of the Doc, co-director and producer Biljana Tutorov explained what happens when the people in your documentary win their fight before you've released your film.",
-      "url": "https://www.indiewire.com/news/events/to-hold-a-mountain-documentary-montenegro-ending-1235225960/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B3108_6bb362.jpg?w=650",
-      "publishedAt": "2026-11-06T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-YW4tZmlsbS1tYWtlcg",
+      "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
+      "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
+      "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -256,39 +340,15 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-ZS0xMjM1MTc2MjI2Lw",
-      "title": "‘Soul Patrol’ Review: The Vietnam War’s First Black Special Ops Team Shares Their Stories in An Enlightening Documentary",
-      "description": "Director J.M. Harper uses archival footage and testimonies from the members of the titular Soul Patrol to share their stories.",
-      "url": "https://www.indiewire.com/criticism/movies/soul-patrol-documentary-review-sundance-1235176226/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Sundancesoulpatrol.jpg?w=650",
-      "publishedAt": "2026-11-06T19:22:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-by0xMjM1MjI1OTc0Lw",
-      "title": "Could ‘The Further Mis-Adventures of Cliff Booth’ Re-Ignite Quentin Tarantino’s Bruce Lee Controversy?",
-      "description": "The new trailer doesn't shy away from the most discourse-inducing scene from “Once Upon a Time in Hollywood.”",
-      "url": "https://www.indiewire.com/news/general-news/further-mis-adventures-of-cliff-booth-trailer-bruce-lee-tarantino-1235225974/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-06-at-9.15.04-AM.png?w=650",
-      "publishedAt": "2026-11-06T18:59:14.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-TItMTIzNTIyNTk5MS8",
-      "title": "Sebastián Lelio, Chilean Director of Oscar-Winning ‘A Fantastic Woman,’ Dead at 52",
-      "description": "Lelio, who was found dead at his home in Santiago amid a health issue, also directed \"Gloria\" star Paulina García to a Silver Bear win in 2013 before remaking the film as \"Gloria Bell\" with Julianne Moore in 2018.",
-      "url": "https://www.indiewire.com/news/breaking-news/sebastian-lelio-a-fantastic-woman-director-dead-at-52-1235225991/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P114LRRT.jpg?w=650",
-      "publishedAt": "2026-11-06T18:38:34.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-dW5lLXN0YXItd2Fycw",
+      "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
+      "description": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope not A long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and it would become immediately clear that no amount of evildoing could withstand a neurotic gold butler, a dustbin with ideas above its station and a walking seven-foot tall shagpile carpet with a very low tolerance for disagreement. It is worth remembering this when considering Florence Pugh’s recent declaration, ahead of next month’s Dune: Part Three, that Dune is her generation’s Star Wars . And then wondering how much trouble we might be in if she’s actually right. “I think they brought back movie-going. What an event the second [Dune] was,” Pugh cheerfully told the New York Times. “It was just so lovely to be a part of something that we know is our generational kind of Star Wars.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
+      "image": "https://i.guim.co.uk/img/media/6f8a53f102e7ec7d1d7cf97b93fcb707b5f0de49/192_0_4926_3942/master/4926.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9a48eb5da20235a5e47027de9520084b",
+      "publishedAt": "2026-11-06T14:04:43.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -302,30 +362,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-ctc29jaWFsLWRyYW1h",
-      "title": "‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe",
-      "description": "The Romanian auteur’s new film could have been the kind of homogenous ‘Europudding’ he’s railed against for years. Instead, it’s a culture-clash skewering of conservative and liberal values worthy of its Palme d’Or ‘Pffff!” Cristian Mungiu lets out an exasperated sigh. We are sitting in the basement of a London hotel, at the end of a long morning of back-to-back interviews for the Romanian film-maker, and his press handler has just snuck into the room to remind him of his next appointment across town. But Mungiu blanks him and leans on to his table, because he wants to tell one more story. In 2013, Mungiu was part of a delegation of European auteurs who travelled to Brussels to meet the then president of the European Commission, José Manuel Barroso. At the time, the EU and US were in talks to slash barriers to trade between the two economic blocs, and the film-makers were lobbying the Commission to spare their industry from the deal . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/too-many-stories-exist-only-to-make-you-think-youre-on-the-right-side-cristian-mungiu-on-fjord-his-disquieting-social-drama",
-      "image": "https://i.guim.co.uk/img/media/68ca6db8cea42984134c2dea54e6af8653aa63a8/805_0_4026_3221/master/4026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2713e351ef99dc6852ee8e2ed57264e",
-      "publishedAt": "2026-11-06T08:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-y1nZW9yZ2UtbHVjYXM",
-      "title": "‘George Lucas told me off for wearing lipstick’: Celia Imrie on Traitors, Star Wars and treating the lens like a lover",
-      "description": "The actor answers your questions about trapeze lessons, Bond villain ambitions and Michael Caine’s top tips You looked as if you had such a good time on Celebrity Traitors last year – you had them hanging on your every word. What was it like? Who have you kept in touch with? breezehillpete They absolutely didn’t hang on my every word. I’m fascinated to watch it now, because at a distance, I can see how people follow each other. That herd mentality is very evident at the round table, but I always went in a different direction and people didn’t follow me. Then, of course, I accused Alan [Carr] at the end: “I think you are one, aren’t you?”, so I had to go the next day. I didn’t quite know what I was letting myself in for, but I had a great time. Kate [Garraway] and I had to go on that Uncloaked thing after. She turned to me and she said: “Oh, but Celia, we’re now all one big happy family, aren’t we?” I said: “Well, frankly, I don’t want to see any of them ever again in the whole of my life,” and everybody laughed. But truthfully, we haven’t really run into each other since. Nevertheless, I think I was with a marvellous company, and I liked them all. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/05/celia-imrie-interview-traitors-star-wars-george-lucas",
-      "image": "https://i.guim.co.uk/img/media/c0340dcf43abc5a2a5c19ed0ac7b9f99822abe99/0_0_2152_1721/master/2152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad1da9e168a75587dc3de0d0d837c8e2",
-      "publishedAt": "2026-11-05T13:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -412,18 +448,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-WV2YW5zLXZpbGxhaW4",
-      "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
-      "description": "Nathan Fielder’s conversation-igniting film on the Theranos founder finds its darkest moments in her deceptive, Charlie Kirk-loving fiance Billy Evans Secrets, lies and a shock A-list cameo: how You Can See Everything became the film of the year ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes It’s likely that most audiences going into the surprise documentary smash You Can See Everything are familiar with either its nominal subject (and literal poster gal with an intense stare) Elizabeth Holmes, the tech founder serving a prison sentence for defrauding investors; or the film’s on-camera co-director Nathan Fielder. Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout. Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal. A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers. This should leave Billy Evans as the odd man out. Evans, Elizabeth Holmes’s partner (she has said they’re not legally married, though they did get engaged in 2018, have two children and seem to treat each other as spouses), is a not-particularly-famous guy whose screen time competes with the other three well-known faces in what is essentially a four-character drama. But while Evans isn’t boxed out in terms of screen time or memorability, he does remain the odd man out in the sense that in all the discussion You Can See Everything has prompted about manipulation, shifting sympathies and who can or cannot be trusted, everyone seems to agree on one crucial point: Billy Evans sucks. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
-      "image": "https://i.guim.co.uk/img/media/3f7cab546b8494a4addcf4ce96329a678b75a558/0_0_2411_1929/master/2411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e4a7eca201d1db8e95525b844520a653",
-      "publishedAt": "2026-10-22T09:00:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-V3LWJvZHktaG9ycm9y",
       "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
       "description": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. There’s still interest there, of course (this summer’s Spider-Man is now the biggest film of all time in the US after all), but it’s no longer good enough to leave a high-speed conveyor belt unmanned, purpose and quality control be damned. 2019 saw a staggering 10 superhero films released in cinemas, and the inevitable exhaustion that followed, also fueled by Covid, led to a gradual winding down, monster hits turning into minor ones and sure bets often becoming expensive flops. As Peter Parker winged his way to box office records this summer, DC’s Supergirl bombed so hard that experts believe it might have cost Warners upwards of $200m in losses. It was just the latest disappointment for the brand after Black Adam, Joker: Folie à Deux, Blue Beetle and The Flash all underperformed while even last year’s much-heralded Superman reboot only grossed a solid $618m, a far cry from the $1bn heyday of the genre (things got so bad that even a fully filmed Batgirl adventure was deleted for the tax break ). Notably, the last DC film to swoop past that magic figure was Joker in 2019, a darker, lower-budget attempt to spotlight a villain rather than a hero, a big swing with relatively low stakes. Todd Phillips’s film might be best known by some for being brave enough to ask the question, “What if Taxi Driver sucked?” but for all of its many issues, it brought buzz and prestige and, shockingly, Oscars, to an easily ridiculed universe. It was also, crucially, something rare in that world: a close-to-good idea. Continue reading...",
@@ -434,18 +458,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItY2xpbWF0ZS1maWxt",
-      "title": "Tom Cruise’s Digger is a commercial flop – but also the perfect climate film for our time",
-      "description": "The movie follows Digger Rockwell, whose drilling triggers a vast iceberg that’s five times the size of Washington DC Digger, the new Alejandro González Iñárritu film, is bombastic, misanthropic and an epic, critically savaged flop. It is also the near-perfect climate change film for our era. Digger Rockwell, the eponymous protagonist played by Tom Cruise, is a bluntly caricatured Texas oilman blase about the environmental ruin of his drilling, even as it triggers a disastrous splitting of the Arctic ice sheet. This causes a vast iceberg, five times the size of Washington DC, to barrel towards Europe and threaten a devastating tsunami. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/20/tom-cruise-digger-climate-film",
-      "image": "https://i.guim.co.uk/img/media/e6552c72052af6953ffc7ae055106a9afdc8a68a/249_0_2565_2052/master/2565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5498fb1fc094227d31932bf0c2f16783",
-      "publishedAt": "2026-10-20T12:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-2F6dW8taXNoaWd1cm8",
