@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:27:22.938Z",
+  "generatedAt": "2026-11-09T00:46:03.099Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-NlLTEyMzUyMjYxNDQv",
+      "title": "Box Office: ‘You Can See Everything’ Hits $80 Million, Becoming A24’s Third-Biggest Domestic Release",
+      "description": "The Elizabeth Holmes doc has also surpassed \"March of the Penguins.\"",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650",
+      "publishedAt": "2026-11-08T18:28:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-G0tMTIzNTIyNjEzMi8",
       "title": "Box Office: ‘Godzilla Minus Zero’ Thunders with $31.6 Million, Scoring the Biggest Debut Ever for a Live-Action, Foreign Language Film",
@@ -42,7 +54,7 @@
     {
       "id": "guardian-Jzb24taW50ZXJ2aWV3",
       "title": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
-      "description": "Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back Get our weekend culture and lifestyle email If, for whatever reason, you want to feel a bit sad, think too hard about what Elliott from ET would have been like as an adult. Or Coraline, or Matilda, or Chihiro, or those kids in Mary Poppins. The most amazing thing that ever happened in their lives – magic nanny, alien friend, psychic abilities, otherworldly adventures – was already over when they were kids. If that bad Harry Potter play taught us anything, they probably all grew into loser adults. This is the central premise for Allen, a new Netflix family film by Daley Pearson, co-founder of Ludo Studio, the Brisbane production company behind a little show called Bluey. As a kid growing up in the small coastal town of Coolum, Petey (TJ Power) happens across a friendly, bug-eyed extraterrestrial; the little guy can’t quite pronounce “alien”, so they settle on “Allen”. Petey and Allen are best pals for one blissful month, sharing a love for Cheezels, VHS and board games – until suddenly, Allen is summoned home. Decades later, Petey is trapped in a state of arrested development and obsession that frustrates everyone around him – until Allen returns, for surprising reasons I will not spoil here. Continue reading...",
+      "description": "Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back Get our weekend culture and lifestyle email If, for whatever reason, you want to feel a bit sad, think too hard about what Elliott from ET would have been like as an adult. Or Coraline, or Matilda, or Chihiro, or those kids in Mary Poppins. The most amazing thing that ever happened in their lives – magic nanny, alien friend, psychic abilities, otherworldly adventures – was already over when they were kids. If that bad Harry Potter play taught us anything, they probably all grew into loser adults. This is the central premise for Allen, a new Netflix family film by Daley Pearson, co-founder of Ludo Studio, the Brisbane production company behind a little show called Bluey. As a kid growing up in the small Sunshine Coast town of Coolum Beach, Petey (TJ Power) happens across a friendly, bug-eyed extraterrestrial; the little guy can’t quite pronounce “alien”, so they settle on “Allen”. Petey and Allen are best pals for one blissful month, sharing a love for Cheezels, VHS and board games – until suddenly, Allen is summoned home. Decades later, Petey is trapped in a state of arrested development and obsession that frustrates everyone around him – until Allen returns, for surprising reasons I will not spoil here. Continue reading...",
       "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
       "image": "https://i.guim.co.uk/img/media/f1ead92dae446014b276f48f382171da47a02ded/590_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d96ad70f6d5f84202d275d81939dd37",
       "publishedAt": "2026-11-08T14:00:43.000Z",
@@ -238,18 +250,6 @@
       "url": "https://www.indiewire.com/features/general/johnny-depp-comeback-paramount-ebenezer-promotion-controversy-1235225408/",
       "image": "https://www.indiewire.com/wp-content/uploads/2099/11/JohnnyDeppEbenezerPremiere.jpg?w=650",
       "publishedAt": "2026-11-06T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-5hLTEyMzUyMjU5NzYv",
-      "title": "Box Office: ‘Godzilla Minus Zero’ Roars with $6.7 Million in Previews, ‘Ramayana: Rise of a Legend’ Earns $3.5 Million",
-      "description": "\"Cat in the Hat\" is no match for the kaiju's return.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-previews-ramayana-1235225976/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC012-1.jpg?w=650",
-      "publishedAt": "2026-11-06T17:55:11.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
