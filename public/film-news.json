@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T00:41:44.414Z",
+  "generatedAt": "2026-11-10T12:30:36.384Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-VzLXRoZS1zY2llbmNl",
+      "title": "Traces of Justice review – ‘Chinese Sherlock Holmes’ at centre of arresting forensic cop thriller",
+      "description": "Based on real scientist Cui Daozhi, this sharp feature has thumping set pieces and knotty puzzles set across 30 years of gripping cases The latest from Chen Sicheng, prime mover behind the hit Detective Chinatown franchise , offers a disarming mix of propaganda, copaganda and gripping narrative. It’s essentially a portmanteau biopic: its hero is Cui Xun, a fictional stand-in for the venerable Cui Daozhi , a still-extant real-life figure who so revolutionised forensic science he became known as “China’s Sherlock Holmes”. Ripping three-and-a-bit tales from the casebook – involving a 1970s child killer, a grisly 1980s multiple murder and a 1990s bus bombing (plus one lingering loose end), Chen constructs a history of forensic investigation that is also, in variably oblique ways, a history of Chinese law enforcement, which is shown evolving from boozy, gloveless crime-scene trampling to something far more streamlined and professional. Within the handsome period framework, Chen follows the science: one era’s crazy innovation becomes commonplace in the next. A rookie Cui (played here by Zhang Yi, ageing up subtly) uses boiled potatoes to take dental imprints; when these run out, he and his colleagues start biting one another’s cheeks to make their points. (Their scars are a terrific visual gag: scientists literally showing their working.) By the 90s, when Cui is heading a team working out of a vast, well-staffed warehouse, we seem mere moments away from David Caruso’s sunglasses and memorable Who guitar riffs. The forbidding subtext is presumably that, after 50 years of such breakthroughs, there’s no more getting away with it; as one suspect insists: “everyone pays for what they’ve done.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/10/traces-of-justice-review-arresting-forensic-cop-thriller-chases-the-science",
+      "image": "https://i.guim.co.uk/img/media/a0cfa0593918e2939e36b4ffb6830bddd25faeda/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e4520f54acaf91de8dc7c54ea36a7bbb",
+      "publishedAt": "2026-11-10T11:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-WNpYWwtb3BzLXRlYW0",
+      "title": "Soul Patrol review – heartstopping story of the US army’s first Black special ops team at work in Vietnam",
+      "description": "Based on a 2003 memoir, this remarkable documentary shows the incredible bravery these young men showed in the face of battle and unrelenting bigotry Here is the remarkable story of the US army’s “Soul Patrol” unit in the Vietnam war: the all-Black Long-Range Reconnaissance Patrol (or LURP), a six-man team of largely teenage African American soldiers, within Company F 51st Infantry. Their duty was to go behind the Vietcong enemy lines, each carrying 150lbs of kit and an M16 assault rifle, and in conditions of terrifying danger report on the enemy’s movements. One heart stopping anecdote is about a panicky member of the unit, who had never seen fireflies before, and became convinced he had seen a Vietcong insurgent in the undergrowth, smoking a cigarette. The film also reports on their later, poignant reunion as old men, using their contemporary home-movie footage and dramatically recreating some scenes. It is based on the 2003 memoir of the same title by unit member Ed Emanuel (who had gone into journalism in civilian life), based on his own experiences and those of his comrades who he had been able to track down. The publication of the book itself was intended to bring other ex-soldiers out of the woodwork, which it duly did. The Soul Patrol was at one level a special forces unit, an elite squad that was tough, capable, resourceful, operating at the highest standards of soldiering – and yet it was also subject to racist exploitation as cannon-fodder. This was what many in the unit came to suspect, and one interviewee here recounts his almost hallucinatory sense the enemy itself had spared them from certain death in the jungle, aware of their awful sacrificial purpose. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team",
+      "image": "https://i.guim.co.uk/img/media/10e283ee44de9a59c7e623cab61992b890c56d71/356_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94c3e6ba9e91b75c63a0e03d974ba1cc",
+      "publishedAt": "2026-11-10T07:00:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-2ktMTIzNTIyNjMyNy8",
       "title": "King Ghidorah Is Ready for Its Close-Up: How ‘Godzilla Minus Zero’ Cracked the Legendary Monster’s Next Evolution",
@@ -220,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-bmQtY29udGVuZGVycw",
-      "title": "Robert Pattinson has auditioned for James Bond – and finally the 007 race is interesting | Sian Cain",
-      "description": "Hollywood’s weirdest man has entered the fray and the casting decision that has dragged on and on suddenly feels exciting for the first time Why does anyone want to play James Bond? The franchise seems to spit out its leads, leaving them wrecked and disillusioned. “I’d like to kill him,” Sean Connery famously said of Bond, that “dull, prosaic English policeman”; it was Daniel Craig who finally managed to do it, a fifth film torturously pulled out of him because Barbara Broccoli agreed to knock him off . As soon as his Bond took a missile to the bonce, Craig dived right into playing all the oddballs he could get, with Benoit Blanc as palate cleanser. Bond might never be an actor’s most interesting role, but it is always the one that leads the obit. With the auditions for the next Bond under way, reports recently emerged that the official contenders were Jack Lowden, Josh O’Connor, Callum Turner and a mysterious fourth actor who no one seemed to know. But over the weekend multiple sources confirmed to the Hollywood trades that the mysterious fourth – and fifth – contenders were Robert Pattinson and Nicholas Hoult. Both great actors, but one of them has made a casting decision that has dragged on, and on, and on, suddenly feel genuinely exciting for the first time. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/09/robert-pattinson-nicholas-hoult-josh-oconnor-new-james-bond-contenders",
-      "image": "https://i.guim.co.uk/img/media/43692c0f9aa90da237854870883d6f7776d3d296/620_76_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=1763167d0167516ee43f267cf2dd3645",
-      "publishedAt": "2026-11-09T05:29:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-dC0xMjM1MjI2MTU2Lw",
       "title": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards",
       "description": "The Critics Choice Association gave the Nathan Fielder-Lance Oppenheim documentary five awards, including the top prize.",
@@ -266,18 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-Jzb24taW50ZXJ2aWV3",
-      "title": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
-      "description": "Allen, the first live-action film from Pearson’s Ludo Studio, follows a man who met an alien as a kid – and becomes obsessed with bringing him back Get our weekend culture and lifestyle email If, for whatever reason, you want to feel a bit sad, think too hard about what Elliott from ET would have been like as an adult. Or Coraline, or Matilda, or Chihiro, or those kids in Mary Poppins. The most amazing thing that ever happened in their lives – magic nanny, alien friend, psychic abilities, otherworldly adventures – was already over when they were kids. If that bad Harry Potter play taught us anything, they probably all grew into loser adults. This is the central premise for Allen, a new Netflix family film by Daley Pearson, co-founder of Ludo Studio, the Brisbane production company behind a little show called Bluey. As a kid growing up in the small Sunshine Coast town of Coolum Beach, Petey (TJ Power) happens across a friendly, bug-eyed extraterrestrial; the little guy can’t quite pronounce “alien”, so they settle on “Allen”. Petey and Allen are best pals for one blissful month, sharing a love for Cheezels, VHS and board games – until suddenly, Allen is summoned home. Decades later, Petey is trapped in a state of arrested development and obsession that frustrates everyone around him – until Allen returns, for surprising reasons I will not spoil here. Continue reading...",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/09/allen-netflix-australian-film-bluey-studio-daley-pearson-interview",
-      "image": "https://i.guim.co.uk/img/media/f1ead92dae446014b276f48f382171da47a02ded/590_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d96ad70f6d5f84202d275d81939dd37",
-      "publishedAt": "2026-11-08T14:00:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-E0dGgtYW1lbmRtZW50",
