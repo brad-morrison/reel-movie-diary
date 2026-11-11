@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T06:34:21.931Z",
+  "generatedAt": "2026-11-11T12:31:22.873Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 4
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-Zy1kb2N1bWVudGFyeQ",
+      "title": "Give Me the Ball! review – tennis trailblazer Billie Jean King is ferocious force for equality",
+      "description": "Sparky and engaging documentary about the ‘battle of the sexes’ player, who fought her whole career to ensure the women’s game got the respect it deserved After the engaging Evert and Navratilova documentary Chris and Martina: The Final Set comes this watchable and engaging documentary portrait of Billie Jean King. It includes sparky talking-head contributions from the woman herself, in her vivid red glasses, one of many sets that she apparently carries in a separate accessory case – perhaps the influence of her old friend Elton John. There is also, of course, ample (if familiar) archive footage of her amazing climb to greatness and pop-cultural political importance. And as always with tennis documentaries, it is the British viewers, not the Americans, who can appreciate the unmistakable BBC-commentating voice of Dan Maskell. King (née Moffitt) was a ferocious force in women’s tennis from the 60s onwards and a vehement but polite advocate for equal rights on prize money. The women’s game was equally skilful, though not possessed of the same brutal brawn-power, and sold as many stadium seats. King sensationally helped to launch the Virginia Slims women’s tour – one of the great commercial revolutions in US sports, and had to work hard on promotion and sponsorship at the same time as simply training and playing. And while all this was happening, she had to come to terms with her gay sexuality, while married to the poignantly devoted Larry King, who is a gallantly supportive interviewee here. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/give-me-the-ball-review-billie-jean-king-documentary",
+      "image": "https://i.guim.co.uk/img/media/0504f0b7fb71d26ede92c4bac3aae9a3f6a257b9/570_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5594fa800a78c85453eb54791bd8f52f",
+      "publishedAt": "2026-11-11T11:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-bWFkYW1lLWJvdmFyeQ",
+      "title": "Female Perversions review – Tilda Swinton searches for erotic adventures in rework of Madame Bovary",
+      "description": "The actor’s 1996 first US film, as a lawyer trying to manage her complicated love life and traumatic fantasies, marked her out as a screen presence like no other Tilda Swinton made her US debut 30 years ago with this insouciant, startling, experimental adventure in eroticism and neuroticism. It’s an amazingly unselfconscious performance which marked her out as quite unlike any other female lead, all but impossible to cast in boilerplate Hollywood cinema. First-time indie film-maker Susan Streitfeld was director and co-writer on this adaptation of psychoanalyst Louise J Kaplan ’s nonfiction study Female Perversions: The Temptations of Emma Bovary, which suggested that what we think of perversions are not clinical pathologies, but creative and liberating strategies, nonconformist choreographies, modes of escaping oppressive gender roles, and a rational search for pleasure. Streitfeld’s fictional reworking does not focus on Emma Bovary. Instead Swinton plays a character called Eve, a brilliant, beautiful – and single – lawyer with an elegant, angular style; she is as graceful and sometimes comically clumsy as a baby giraffe. Eve is having a passionate affair with a hunky seismologist called John (Clancy Brown), an amusing metaphor for the quake-level sex they’re having. She is also deeply attractive and attracted to women, yet also assailed by traumatised fantasies or flashbacks of something in her past; there are terrible lurches of guilt or fear, abuse, loss, self-harm or impostor syndrome. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/female-perversions-review-tilda-swinton-searches-for-erotic-adventures-in-rework-of-madame-bovary",
+      "image": "https://i.guim.co.uk/img/media/fb5fb79a13644b037862e5f54efa96246a667d80/217_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=cb52e191776c44e78915c10be76d0d83",
+      "publishedAt": "2026-11-11T10:00:36.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-LW1vc3Qtd2F0Y2hlZA",
+      "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
+      "description": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in cinemas across the world last month. The film , which is directed by the Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, has reached a worldwide audience of 1,547,033 as of Friday 6 November, making it one of the most-watched documentary films with a theatrical release in 2026. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
+      "image": "https://i.guim.co.uk/img/media/7fdf274bbdcb8c27b637964b07c4022b4b09c9c6/1358_19_2482_1986/master/2482.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d81cf0f1f12e8ad8ee7a9887331e7ff",
+      "publishedAt": "2026-11-11T09:47:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-HktMTIzNTIyNjc4NC8",
       "title": "Stacy Keach, ‘Fat City’ and ‘Mike Hammer’ Star, Dead at 85",
@@ -196,18 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-VzLXRoZS1zY2llbmNl",
-      "title": "Traces of Justice review – ‘Chinese Sherlock Holmes’ at centre of arresting forensic cop thriller",
-      "description": "Based on real scientist Cui Daozhi, this sharp feature has thumping set pieces and knotty puzzles set across 30 years of gripping cases The latest from Chen Sicheng, prime mover behind the hit Detective Chinatown franchise , offers a disarming mix of propaganda, copaganda and gripping narrative. It’s essentially a portmanteau biopic: its hero is Cui Xun, a fictional stand-in for the venerable Cui Daozhi , a still-extant real-life figure who so revolutionised forensic science he became known as “China’s Sherlock Holmes”. Ripping three-and-a-bit tales from the casebook – involving a 1970s child killer, a grisly 1980s multiple murder and a 1990s bus bombing (plus one lingering loose end), Chen constructs a history of forensic investigation that is also, in variably oblique ways, a history of Chinese law enforcement, which is shown evolving from boozy, gloveless crime-scene trampling to something far more streamlined and professional. Within the handsome period framework, Chen follows the science: one era’s crazy innovation becomes commonplace in the next. A rookie Cui (played here by Zhang Yi, ageing up subtly) uses boiled potatoes to take dental imprints; when these run out, he and his colleagues start biting one another’s cheeks to make their points. (Their scars are a terrific visual gag: scientists literally showing their working.) By the 90s, when Cui is heading a team working out of a vast, well-staffed warehouse, we seem mere moments away from David Caruso’s sunglasses and memorable Who guitar riffs. The forbidding subtext is presumably that, after 50 years of such breakthroughs, there’s no more getting away with it; as one suspect insists: “everyone pays for what they’ve done.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/10/traces-of-justice-review-arresting-forensic-cop-thriller-chases-the-science",
-      "image": "https://i.guim.co.uk/img/media/a0cfa0593918e2939e36b4ffb6830bddd25faeda/285_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e4520f54acaf91de8dc7c54ea36a7bbb",
-      "publishedAt": "2026-11-10T11:00:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-eC1kb2N1bWVudGFyeQ",
       "title": "‘I’m looking for faces which surprise me’: how Richard Avedon photographed the soul of his subjects",
       "description": "Ron Howard’s illuminating Netflix documentary looks back on the career of one of America’s most inventive and versatile photographers Richard Avedon had only taken a couple of frames when he accidentally hit his head on a light being held above him. The Dalai Lama burst into laughter. That was when Avedon snapped two more frames and announced: “Oh, I got it!” Avedon’s assistant, Sebastian Kim , was baffled. “I was like, what the hell happened? There’s only four frames out of a roll of 12 frames,” he recalls in a phone interview. “I realised he knew at that moment that something had happened, a mistake had happened: he hit his head and the Dalai Lama lit up.” Continue reading...",
@@ -218,18 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-WNpYWwtb3BzLXRlYW0",
-      "title": "Soul Patrol review – heartstopping story of the US army’s first Black special ops team at work in Vietnam",
-      "description": "Based on a 2003 memoir, this remarkable documentary shows the incredible bravery these young men showed in the face of battle and unrelenting bigotry Here is the remarkable story of the US army’s “Soul Patrol” unit in the Vietnam war: the all-Black Long-Range Reconnaissance Patrol (or LURP), a six-man team of largely teenage African American soldiers, within Company F 51st Infantry. Their duty was to go behind the Vietcong enemy lines, each carrying 150lbs of kit and an M16 assault rifle, and in conditions of terrifying danger report on the enemy’s movements. One heart stopping anecdote is about a panicky member of the unit, who had never seen fireflies before, and became convinced he had seen a Vietcong insurgent in the undergrowth, smoking a cigarette. The film also reports on their later, poignant reunion as old men, using their contemporary home-movie footage and dramatically recreating some scenes. It is based on the 2003 memoir of the same title by unit member Ed Emanuel (who had gone into journalism in civilian life), based on his own experiences and those of his comrades who he had been able to track down. The publication of the book itself was intended to bring other ex-soldiers out of the woodwork, which it duly did. The Soul Patrol was at one level a special forces unit, an elite squad that was tough, capable, resourceful, operating at the highest standards of soldiering – and yet it was also subject to racist exploitation as cannon-fodder. This was what many in the unit came to suspect, and one interviewee here recounts his almost hallucinatory sense the enemy itself had spared them from certain death in the jungle, aware of their awful sacrificial purpose. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team",
-      "image": "https://i.guim.co.uk/img/media/10e283ee44de9a59c7e623cab61992b890c56d71/356_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94c3e6ba9e91b75c63a0e03d974ba1cc",
-      "publishedAt": "2026-11-10T07:00:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-dC1tYXJpbmUtZGllcw",
@@ -316,18 +328,6 @@
       "category": "Classics"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
-      "description": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/93a3/live/d2421090-d9e1-11f1-bbe5-797ee05bee69.jpg",
-      "publishedAt": "2026-11-07T01:38:49.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-YW4tZmlsbS1tYWtlcg",
       "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
       "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
@@ -376,18 +376,6 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-05T09:04:42.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-S1kaWVzLWFnZWQtOTM",
       "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
       "description": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi and children Bonifacio and Beatrice Brass announced the news of the director’s death to Italian press agency Ansa on Wednesday. Continue reading...",
@@ -410,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-ZC1ub21pbmF0aW9ucw",
-      "title": "Andrew Scott drama Elsinore leads British independent film award nominations",
-      "description": "Elsinore is in contention for 12 Bifas, including for Scott’s highly praised performance, while Clio Barnard’s I See Buildings Fall Like Lightning, Ashley Walters’ Animol and Mike Leigh’s Tender Loving Care are also recognised Elsinore, the drama in which Andrew Scott plays the actor Ian Charleson as he takes on Shakespeare’s Hamlet in the last months of his life, before he died of Aids in 1990, has emerged as the leading contender for the British independent film awards (Bifas). The film, which is directed by Simon Stone and co-stars Olivia Colman, Billie Piper and Johnny Flynn, received 12 nominations, including best British independent film, best director for Stone and best lead performance for Scott. Elsinore has collected rave reviews since its premiere at the Telluride film festival in September, with the Guardian’s Benjamin Lee describing it as “a devastating movie [that] is a reminder of Charleson’s strength and the many men like him and it implores us to remember them too”. Scott is also already being tipped as the favourite for the best actor Oscar – and he would be the first out gay actor to win. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/03/andrew-scott-elsinore-shakespeare-bifas-british-independent-film-award-nominations",
-      "image": "https://i.guim.co.uk/img/media/0f864bb228335b662713414c4c8d09f7311c76cb/374_0_3751_3000/master/3751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb567be8a15e3b3168117a924eba986e",
-      "publishedAt": "2026-11-03T12:49:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
