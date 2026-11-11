@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:27:35.737Z",
+  "generatedAt": "2026-11-11T00:42:52.653Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,78 @@
   },
   "articles": [
     {
+      "id": "indiewire-I2LTEyMzUyMjU1MjAv",
+      "title": "Want a Full Scholarship to One of Our Film Festival Intensives? IndieWire’s Future of Filmmaking Video Contest Is Now Live",
+      "description": "A three-minute Instagram reel could be all it takes to attend Cannes, Venice, SXSW, or SXSW London with IndieWire.",
+      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-video-contest-2026-1235225520/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IWFOF-Video-Contest-2026.png?w=650",
+      "publishedAt": "2026-11-10T23:46:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bS0xMjM1MjI2NTI2Lw",
+      "title": "Why Ari Aster and Lars Knudsen’s Square Peg Built a Therapy Circle for Hollywood’s Next Generation in Texas",
+      "description": "IndieWire talks to the mentors and participants behind the second year of Square Peg Social, which offers four days of not only panels and one-on-ones with top filmmakers, but also camaraderie and commiseration for those who've just begun their careers.",
+      "url": "https://www.indiewire.com/features/interviews/square-peg-social-2026-ari-aster-lance-oppenheim-1235226526/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2026_SquarePeg_Portraits_0751-e1794341215297.jpg?w=650",
+      "publishedAt": "2026-11-10T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-W4tMTIzNTIyNjQ0OS8",
+      "title": "‘Ink’ Star Jack O’Connell on His ‘New Era’ as a Leading Man: ‘Thank F**k for Danny Boyle’",
+      "description": "The \"Skins\" alum tells IndieWire about finally fulfilling his dream of working with the Oscar-winning director, and how their Netflix film taps into the pain of how capitalism crushes working class artists.",
+      "url": "https://www.indiewire.com/awards/consider-this/ink-star-jack-oconnell-new-era-leading-man-1235226449/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/INK_00166_R3-1.jpg?w=650",
+      "publishedAt": "2026-11-10T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjY1MTcv",
+      "title": "How Casting the New ‘Harry Potter’ Helped ‘Club Kid’ Find Its Adorable 10-Year-Old Star",
+      "description": "Jordan Firstman and casting director Carmen tell IndieWire how their low-budget indie got much-needed help from the team behind the upcoming HBO series.",
+      "url": "https://www.indiewire.com/features/craft/casting-harry-potter-club-kid-jordan-firstman-son-1235226517/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/clb_001-2.jpeg?w=650",
+      "publishedAt": "2026-11-10T21:02:21.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI2NTE5Lw",
+      "title": "Stephen Miller’s Wife Katie Miller Reportedly Ended Podcast Deal with Paramount After He Took White House Chief of Staff Role",
+      "description": "The conservative podcast host also ended new episodes of her existing podcast \"The Katie Miller Show\" as part of Stephen Miller's recusals.",
+      "url": "https://www.indiewire.com/news/general-news/stephen-miller-katie-miller-ended-podcast-deal-paramount-1235226519/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2250617519.jpg?w=650",
+      "publishedAt": "2026-11-10T20:20:53.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WQtMTIzNTIyNjIwNS8",
+      "title": "‘The Rings of Power’ Season 3 Review: Amazon’s ‘Lord of the Rings’ Series Is Just Going Through the Motions",
+      "description": "Shrouded by a marked loss of enthusiasm, J.D. Payne and Patrick McKay's \"Lord of the Rings\" prequel series succumbs to its worst tendencies in a new season that's too content to witness the inevitable.",
+      "url": "https://www.indiewire.com/criticism/shows/the-rings-of-power-season-3-lord-of-the-rings-series-bad-1235226205/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Lord-of-the-Rings-Rings-of-Power-Season-3-Sauron-actor-Charlie-Vickers.jpg?w=650",
+      "publishedAt": "2026-11-10T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
       "id": "indiewire-JkLTEyMzUyMjY0Mjkv",
       "title": "Casey Bloys to Receive the Milestone Award at 2027 PGAs",
       "description": "The newly minted co-chair and chief content officer, Skydance Direct-to-Consumer, who's spent the last decade running HBO, will receive the Milestone Award at the 38th annual Producers Guild Awards.",
@@ -26,6 +98,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "TV"
+    },
+    {
+      "id": "guardian-nJhc3Mtb2JpdHVhcnk",
+      "title": "Tinto Brass obituary",
+      "description": "Italian director drawn to the erotic best known for his 1979 film Caligula, which is now regarded as a cult favourite No matter how one defines the films of the director Tinto Brass, who has died aged 93, they manage, in most cases, to keep a distance, however narrowly, from pornography. Although the Italian maestro of erotica never objected to being called a pornographer, he made the distinction by claiming: “I develop the moments of lust and desire out of the stories themselves .” There is no doubt that most of his two dozen features, the most notorious being Salon Kitty (1976) and Caligula (1979) , could be variously labelled sexploitation (the female nude shown purely for sexual or commercial reasons), sexist, softcore (no erections or ejaculations), kitsch (bad taste) and camp (“its essence being its love of the unnatural: of artifice and exaggeration”, in Susan Sontag ’s definition). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/10/tinto-brass-obituary",
+      "image": "https://i.guim.co.uk/img/media/05cddbc4ba84a5741324e88949fe56a20f2f5b43/264_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41eac61768667f0b6b2fac9aba36a18b",
+      "publishedAt": "2026-11-10T16:58:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-9uLTEyMzUxOTUyMTEv",
@@ -148,30 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VzLTEyMzUyMjYxNTMv",
-      "title": "Best Actress Frontrunner Julianne Moore Nailed ‘The Debut’ by Singing, Styling Her Hair Like Liza Minnelli, and Avoiding Playing ‘Some Suffering Mom’",
-      "description": "The Oscar winner asked Jesse Eisenberg to write her a role that allowed her to do comedy. It could lead to her second statue.",
-      "url": "https://www.indiewire.com/awards/consider-this/julianne-moore-interview-the-debut-haircut-singing-oscar-chances-1235226153/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TheDebut_Still02R.jpg?w=650",
-      "publishedAt": "2026-11-09T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-5uLTEyMzUyMjYyNjMv",
-      "title": "Our Plea to the New DC Studios Head: No More Shared Universe!",
-      "description": "The MCU is a miracle to have existed, and it made sense for DC to want its own, but we're well beyond that. Just make good movies instead.",
-      "url": "https://www.indiewire.com/news/analysis/advice-new-dc-studios-head-no-shared-universe-james-gunn-1235226263/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/07/GvmrpyDWEAASzOW.jpg?w=650",
-      "publishedAt": "2026-11-09T20:07:43.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-dC1tYXJpbmUtZGllcw",
       "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
       "description": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92. Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s most heartbreaking chapter. He recalled the experience in the recording booth as easy and relaxed, with rudimentary technology and notes from an assistant director instructing him to pretend his own mother had died when voicing Bambi’s reaction to his mother being killed by a hunter. Continue reading...",
@@ -182,66 +242,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-5nLTEyMzUyMjYyMTEv",
-      "title": "Rejected Twice by Sundance, ‘Mouse’ Is One of the Year’s Best Movies. Why Aren’t More People Talking About It?",
-      "description": "Alex Thompson and Kelly O'Sullivan's spectacular coming-of-age grief drama was also rejected by Telluride and Toronto, where it would've played like gangbusters. The Chicago filmmaking duo, meanwhile, tells IndieWire why they're not quite ready to embrace Hollywood.",
-      "url": "https://www.indiewire.com/features/interviews/mouse-movie-sundance-rejection-indie-filmmaking-1235226211/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2191837091-e1794246315407.jpg?w=650",
-      "publishedAt": "2026-11-09T17:43:15.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bS0xMjM1MjI2MjQwLw",
-      "title": "DC Studios Shakeup: James Gunn, Peter Safran Stepping Down as Co-CEOs, Marvel Vet Jeremy Latcham Named Chief Creative Officer",
-      "description": "The \"Superman\" director and his longtime producing partner are exiting the company.",
-      "url": "https://www.indiewire.com/news/breaking-news/dc-studios-shakeup-james-gunn-peter-safran-out-jeremy-latcham-1235226240/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/James-Gunn-Peter-Safran-DC-Studios.jpg?w=650",
-      "publishedAt": "2026-11-09T17:15:31.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMjYwODEv",
-      "title": "From Los Javis to Lord and Miller, Director Duos Are a High-Risk, High-Reward Prospect in the Oscar Race",
-      "description": "Awards bodies have never been easy on director duos, but 2026 has seen strong enough work from the teams behind \"La Bola Negra,\" \"Project Hail Mary,\" and \"You Can See Everything\" to make Best Director Oscar history.",
-      "url": "https://www.indiewire.com/awards/consider-this/director-duos-project-hail-mary-la-bola-negra-oscars-1235226081/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-03-02-PM-8955.jpg?w=650",
-      "publishedAt": "2026-11-09T16:04:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjE2OTQzLw",
-      "title": "How John Malkovich Nailed the Role of His Career with ‘Wild Horse Nine’",
-      "description": "Now 72, Malkovich says he enjoyed channeling his jaded CIA spy's fearless rage. It could win him an Oscar.",
-      "url": "https://www.indiewire.com/awards/consider-this/john-malkovich-interview-wild-horse-nine-oscars-1235216943/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/TFF53_RB_Tribute_John-Malkovich-1040970-1.jpg?w=650",
-      "publishedAt": "2026-11-09T14:23:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-F2aWQtd2lsa2luc29u",
-      "title": "1 in 2 review – compassionate film about dealing with bowel cancer is a personal plea on behalf of the young",
-      "description": "David Wilkinson made this warm, generous documentary of his own treatment, and asks why so many much younger people are getting the same diagnosis ‘I am lucky, as I have become old.” That is the pithy, personal summary offered by English film-maker David Wilkinson, whose previous movie was his thoughtful, eloquent film The Marbles , which reopened the case for the restitution of the Parthenon marbles to Greece. Now he reveals that he was in fact battling stage four bowel cancer throughout its making, and this new and very personal film is now about his own condition, a film in which the director is front and centre, speaking candidly to camera in the very midst of his treatment. In fact, 1 in 2 is specifically about his shock and sadness that so many people alongside him in waiting rooms, or online in bowel cancer discussion groups are so young, in their 40s, or 30s, or 20s. Wilkinson makes it his business to give these people a voice, along with the medical professionals in the NHS who are battling to help them. He also wants to find something out: why is something that was once considered an old person’s disease on the rise in younger age groups in developed nations? It appears to be due to diet and lifestyle. Could it be microplastics? There are no clearcut answers. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/09/1-in-2-review-bowel-cancer-david-wilkinson",
-      "image": "https://i.guim.co.uk/img/media/6a6c084e58c86744bf49cc6952f1b8d982d9625f/509_0_2353_1882/master/2353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b1e06bf2bb954cb56ae9c05971c230d0",
-      "publishedAt": "2026-11-09T13:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -257,7 +257,7 @@
     },
     {
       "id": "guardian-3NvbnMtY3JlZWstdHY",
-      "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first gay kiss",
+      "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first male gay kiss",
       "description": "As he releases a memoir, the actor opens up about the late James Van Der Beek, the magic of the Creek, and facing homophobia for playing gay in the 90s There are worse things to spend a couple of decades chasing than the feeling of being young, successful and surrounded by people who love you. For Kerr Smith, though, the particular magic of Dawson’s Creek has proved just about impossible to replicate. “I’ve spent the last 25 years of my career trying to re-create that experience,” Smith says of the WB teen drama, on which he played the sensitive jock Jack McPhee for five seasons. “I’ve been trying to measure up to it my entire career.” Continue reading...",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
       "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
