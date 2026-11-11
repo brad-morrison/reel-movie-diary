@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T00:42:52.653Z",
+  "generatedAt": "2026-11-11T06:34:21.931Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-HktMTIzNTIyNjc4NC8",
+      "title": "Stacy Keach, ‘Fat City’ and ‘Mike Hammer’ Star, Dead at 85",
+      "description": "The tough guy actor had accrued more than 200 screen credits over a career that spanned seven decades.",
+      "url": "https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/StacyKeachObit.jpg?w=650",
+      "publishedAt": "2026-11-11T01:20:51.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-I2LTEyMzUyMjU1MjAv",
       "title": "Want a Full Scholarship to One of Our Film Festival Intensives? IndieWire’s Future of Filmmaking Video Contest Is Now Live",
@@ -218,18 +230,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-2ktMTIzNTIyNjMyNy8",
-      "title": "King Ghidorah Is Ready for Its Close-Up: How ‘Godzilla Minus Zero’ Cracked the Legendary Monster’s Next Evolution",
-      "description": "Producer Kazuaki Kishida and visual effects artist Tatsuji Nojima tell IndieWire about the detail work that makes King Ghidorah such a threat.",
-      "url": "https://www.indiewire.com/features/craft/godzilla-minus-zero-king-ghidorah-vfx-takashi-yamazaki-1235226327/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/『ゴジラ-0.0』パブカット㉒.jpeg?w=650",
-      "publishedAt": "2026-11-09T21:22:32.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-dC1tYXJpbmUtZGllcw",
