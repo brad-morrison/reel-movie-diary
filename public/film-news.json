@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:27:22.290Z",
+  "generatedAt": "2026-11-12T00:43:45.269Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 1
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-bC0xMjM1MjI2NTA0Lw",
+      "title": "Sandra Wollner’s ‘Everytime’ Is a Stunning Film About Grief Like You’ve Never Seen Before",
+      "description": "The German filmmaker's portrait of life after tragedy is filled with the unexpected. She tells IndieWire about video game cut scenes, the power of banal memories, the scene that makes everyone gasp, and what it all means. Sort of.",
+      "url": "https://www.indiewire.com/awards/consider-this/sandra-wollner-everytime-grief-video-games-fall-1235226504/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ccElsaOkazaki_EVERYTIME_240801_makingof_DSCF8407-1_Berlin.jpg?w=650",
+      "publishedAt": "2026-11-11T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bGwtYWN0b3ItZGllcw",
+      "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
+      "description": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers , has died at the age of 91. Hall died on Tuesday, her family confirmed alongside a statement that described her as “a beloved actress, author, poet, educator and public speaker whose contributions touched countless lives throughout her remarkable career”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
+      "image": "https://i.guim.co.uk/img/media/15b03fc1613e6f2a8ee018097989f1fe3348e027/200_0_2299_1840/master/2299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1384d477ff72acf773a71735b854d1a",
+      "publishedAt": "2026-11-11T19:47:16.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-F4LTEyMzUyMjY1Nzcv",
+      "title": "How ‘Godzilla Minus Zero’ Dominated the Box Office: GKIDS Chief on IMAX’s Impact and the Growing Market for Foreign-Language Movies",
+      "description": "In an interview with IndieWire, the distributor's president Dave Jesteadt credits younger audiences and premium large-formats for building the record opening.",
+      "url": "https://www.indiewire.com/features/interviews/godzilla-minus-zero-box-office-gkids-imax-1235226577/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GodzillaMinusZero.jpg?w=650",
+      "publishedAt": "2026-11-11T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZXZpZXctbmV0ZmxpeA",
+      "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
+      "description": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house Thanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgates holding back the seasonal tide of holiday movies have opened to fully drown yuletide junkies in cheer. Among the first out of the gates is Netflix’s The Gospel of Christmas, brought to you by the maker of A Madea Christmas. Instead of Tyler Perry in drag, reluctantly upholding the role of family linchpin, this time it’s Durrell Babbs – AKA the R&B stalwart Tank – playing Isaac, a secular musician who is forced into ministry when his pastor father charges him with resurrecting a sister congregation that’s become a blight in a New York neighborhood defined by immorality and anomie. ( East New York, maybe.) The 103-minute feature is both a ploy to horn in on Hallmark’s well-established territory and a proper return to Perry’s roots in gospel musical theater – but with considerably more money behind it and greater latitude to bend the usual chestnuts on faith and family toward his Old Testament-facing sermons. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
+      "image": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=d1cacc107f746feb2e5d4d01aad18b3b",
+      "publishedAt": "2026-11-11T18:43:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "indiewire-HMtMTIzNTIyNjUzOS8",
       "title": "Democrats Won. When Do Hollywood Crews Get Back to Work?",
@@ -54,7 +102,7 @@
     {
       "id": "guardian-cmV2aWV3LWFtYXpvbg",
       "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "description": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any small shred of faith in the system and any vague semblance of financial equity is still unlikely to come any time soon. It’s therefore theoretically ideal timing for films that provide some sort of rousing David v Goliath catharsis, a win on-screen when one feels entirely out of reach in real life. But like Paul Greengrass’s muddy and muddled peasant revolt drama The Uprising which crashed and burned in September, David Leitch’s How to Rob a Bank can’t quite find a way to capture a moment that should be easy to capture. The director is best known for synthetic action films that prioritise noise above all else, from Deadpool 2 to Bullet Train to Hobbs & Shaw, a tonal through-line that could be most generously described as “annoying”. Continue reading...",
+      "description": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any small shred of faith in the system and any vague semblance of financial equity is still unlikely to come anytime soon. It’s therefore theoretically ideal timing for films that provide some sort of rousing David v Goliath catharsis, a win on-screen when one feels entirely out of reach in real life. But like Paul Greengrass’s muddy and muddled peasant revolt drama The Uprising which crashed and burned in September, David Leitch’s How to Rob a Bank can’t quite find a way to capture a moment that should be easy to capture. The director is best known for synthetic action films that prioritise noise above all else, from Deadpool 2 to Bullet Train to Hobbs & Shaw, a tonal throughline that could be most generously described as “annoying”. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
       "image": "https://i.guim.co.uk/img/media/15232fb98f98235a792c7e329f27ba8619bb4456/340_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=48a7523f7142114b260f0bba58fbdc75",
       "publishedAt": "2026-11-11T17:00:29.000Z",
@@ -110,18 +158,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Toby Jones stars in film about UK Mars mission",
-      "description": "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/213d/live/3acce750-ddcc-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-11T14:10:11.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "indiewire-JzLTEyMzUyMjY4MTgv",
@@ -206,54 +242,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-I2LTEyMzUyMjU1MjAv",
-      "title": "Want a Full Scholarship to One of Our Film Festival Intensives? IndieWire’s Future of Filmmaking Video Contest Is Now Live",
-      "description": "A three-minute Instagram reel could be all it takes to attend Cannes, Venice, SXSW, or SXSW London with IndieWire.",
-      "url": "https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-video-contest-2026-1235225520/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IWFOF-Video-Contest-2026.png?w=650",
-      "publishedAt": "2026-11-10T23:46:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bS0xMjM1MjI2NTI2Lw",
-      "title": "Why Ari Aster and Lars Knudsen’s Square Peg Built a Therapy Circle for Hollywood’s Next Generation in Texas",
-      "description": "IndieWire talks to the mentors and participants behind the second year of Square Peg Social, which offers four days of not only panels and one-on-ones with top filmmakers, but also camaraderie and commiseration for those who've just begun their careers.",
-      "url": "https://www.indiewire.com/features/interviews/square-peg-social-2026-ari-aster-lance-oppenheim-1235226526/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2026_SquarePeg_Portraits_0751-e1794341215297.jpg?w=650",
-      "publishedAt": "2026-11-10T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-nJhc3Mtb2JpdHVhcnk",
-      "title": "Tinto Brass obituary",
-      "description": "Italian director drawn to the erotic best known for his 1979 film Caligula, which is now regarded as a cult favourite No matter how one defines the films of the director Tinto Brass, who has died aged 93, they manage, in most cases, to keep a distance, however narrowly, from pornography. Although the Italian maestro of erotica never objected to being called a pornographer, he made the distinction by claiming: “I develop the moments of lust and desire out of the stories themselves .” There is no doubt that most of his two dozen features, the most notorious being Salon Kitty (1976) and Caligula (1979) , could be variously labelled sexploitation (the female nude shown purely for sexual or commercial reasons), sexist, softcore (no erections or ejaculations), kitsch (bad taste) and camp (“its essence being its love of the unnatural: of artifice and exaggeration”, in Susan Sontag ’s definition). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/10/tinto-brass-obituary",
-      "image": "https://i.guim.co.uk/img/media/05cddbc4ba84a5741324e88949fe56a20f2f5b43/264_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41eac61768667f0b6b2fac9aba36a18b",
-      "publishedAt": "2026-11-10T16:58:38.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-eC1kb2N1bWVudGFyeQ",
-      "title": "‘I’m looking for faces which surprise me’: how Richard Avedon photographed the soul of his subjects",
-      "description": "Ron Howard’s illuminating Netflix documentary looks back on the career of one of America’s most inventive and versatile photographers Richard Avedon had only taken a couple of frames when he accidentally hit his head on a light being held above him. The Dalai Lama burst into laughter. That was when Avedon snapped two more frames and announced: “Oh, I got it!” Avedon’s assistant, Sebastian Kim , was baffled. “I was like, what the hell happened? There’s only four frames out of a roll of 12 frames,” he recalls in a phone interview. “I realised he knew at that moment that something had happened, a mistake had happened: he hit his head and the Dalai Lama lit up.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/10/richard-avedon-photography-netflix-documentary",
-      "image": "https://i.guim.co.uk/img/media/c68b486daa29ebd2a8d358b39ad06a60105e317b/1094_0_8998_7200/master/8998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d752704c613a2b99c82e2d75deacbc6",
-      "publishedAt": "2026-11-10T10:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-dC1tYXJpbmUtZGllcw",
