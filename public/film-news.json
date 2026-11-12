@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T12:32:01.909Z",
+  "generatedAt": "2026-11-12T18:28:17.809Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 1
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-VyLTEyMzUyMjczMzgv",
+      "title": "Brad Pitt to Star in ‘Connector’ from ‘Sound of Metal’ Director Darius Marder for Apple",
+      "description": "The '70s drama follows a NYC ironworker who becomes a working class legend.",
+      "url": "https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/07/2221709688.jpg?w=650",
+      "publishedAt": "2026-11-12T18:15:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-N0LTEyMzUyMjcxOTIv",
+      "title": "‘American Doctor’ and ‘You Can See Everything’ Lead 2027 Cinema Eye Honors Film Nominations",
+      "description": "Po Si Teng’s “American Doctor” and Nathan Fielder and Lance Oppenheim’s “You Can See Everything” led the 20th annual Cinema Eye Honors with seven nominations each.",
+      "url": "https://www.indiewire.com/awards/results/2027-cinema-eye-honors-film-nominations-full-list-1235227192/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-02-01-AM-2629.jpg?w=650",
+      "publishedAt": "2026-11-12T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjczMDEv",
+      "title": "What Makes a Good Oscar Campaign? Just Ask Sony Classics’ Michael Barker and Tom Bernard",
+      "description": "The Sony Pictures Classics co-presidents join IndieWire's \"Screen Talk\" podcast this week to talk about their slate of films, the state of the business, and more.",
+      "url": "https://www.indiewire.com/features/podcast/sony-pictures-classics-michael-barker-tom-bernard-interview-1235227301/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P106DCCJ.jpg?w=650",
+      "publishedAt": "2026-11-12T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "guardian-cm9vZ2UtZGlja2Vucw",
+      "title": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+      "description": "The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives Here for lovers of Dickens – and fans of subtext – is an unexpectedly watchable new movie version of A Christmas Carol starring a top-hatted and heavily madeup Johnny Depp; it is a film about whether it’s possible for a man to earn redemption before it is too late. (The answer is … sure, as long as you say sorry and change your ways. But Mr Scrooge never launched a libel action against the Sun for calling him an un-Christmassy old meanie.) In fact, screenwriter Nathaniel Halpern and director Ti West have put together a perfectly serviceable, faithful adaptation – a tradaptation, if you will – of Dickens’s masterpiece about the hideous old miser saved from damnation on Christmas Eve by the appearance of three Christmas ghosts, from yuletides past, present and future. It sticks to the accepted narrative beats and more or less all the familiar episodes, but with a few twists. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+      "image": "https://i.guim.co.uk/img/media/3469927fefcac2dcf0c7e9e0fc56bb606ad79688/301_0_3598_2878/master/3598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c4544d82183ad62496248b0d42cbd0d3",
+      "publishedAt": "2026-11-12T17:14:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cC0xMjM1MjI3MDE0Lw",
+      "title": "‘Ebenezer’ Review: Johnny Depp Is Absolutely Insufferable in a Dull and Dreary Christmas Carol",
+      "description": "Ti West's horror-inflected take on Dickens' classic has a few nice flourishes, but Depp's muggy performance torpedoes the whole thing from the start.",
+      "url": "https://www.indiewire.com/criticism/movies/ebenezer-movie-review-johnny-depp-1235227014/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/EbenezerScrooge.jpg?w=650",
+      "publishedAt": "2026-11-12T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-dhcmEtam92YW5vdmlj",
+      "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
+      "description": "To Hold a Mountain tells the incredible story of a woman whose way of life was threatened when she heard her pastures were set to become a Nato training zone The star of To Hold a Mountain is having trouble with her goats, which keep escaping. So my interview with Mileva “Gara” Jovanović is rescheduled to a moment where the animals are under control and Gara can descend from the peaks to her small winter residence in a small village near the capital of Podgorica, for a video call. “You have to take care of them because they are always searching for their paths,” says Gara, whose Montenegrin is translated into English by Biljana Tutorov, the joint writer-director of the stunning film about Gara’s life in the mountains of Sinjajevina. “But the goats are good, especially when they know the shepherdess. I’m a good shepherdess. They listen to me.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
+      "image": "https://i.guim.co.uk/img/media/4d3c6855b73200a5c030617c09edf2f1446d35b1/86_135_1152_922/master/1152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22cf1e3a2fbbbdcce667be75c280550d",
+      "publishedAt": "2026-11-12T16:14:17.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9wLTEyMzUyMjI5MTgv",
+      "title": "After ‘Whalefall’ Flops, Can Imagine Entertainment Return to Box Office Glory with ‘How to Rob a Bank’?",
+      "description": "The production banner founded by Ron Howard and Brian Grazer is trying to make the kind of big screen hit that first solidified it as a major Hollywood player.",
+      "url": "https://www.indiewire.com/features/general/how-to-rob-a-bank-imagine-entertainment-box-office-whalefall-flop-1235222918/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2027/10/ImagineEntertainmentSplit.jpg?w=650",
+      "publishedAt": "2026-11-12T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-50YXJpZXMtcmFua2Vk",
+      "title": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
+      "description": "Ahead of the UK release of Nathan Fielder’s hotly anticipated Elizabeth Holmes film, we count down the most shocking and affecting true stories ever committed to cinema A 50-second dispatch from daily life blew the whistle on the approaching juggernaut of cinema and its unbeatable horsepower of verisimilitude. But if we must be strictly factual about the iconic Lumière brothers’ short, the anecdote about audience members fleeing their seats in fear of being crushed by the oncoming locomotive probably never happened . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "image": "https://i.guim.co.uk/img/media/1e2d25e640821f45f785e7ee5b5793f97bc3f4ad/1340_0_1571_1257/master/1571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61ac694b2c76bd8d1853a857c120adfd",
+      "publishedAt": "2026-11-12T13:32:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Bond producer first female president of film school",
+      "description": "Barbara Broccoli is succeeding David Puttnam in the role in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gngnk09do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8d88/live/edb4f5e0-3afa-11f0-9a86-f7906cd4e14e.jpg",
+      "publishedAt": "2026-11-12T12:54:06.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "guardian-ctbWFpa2EtbW9ucm9l",
       "title": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
@@ -50,6 +158,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-wtcmVib290LWVtYWls",
+      "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
+      "description": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a signal of a long overdue romcom resurgence, or you are embittered because it’s another sign that Hollywood has run out of original ideas. I hold absolutely no truck with the latter view. Quite frankly, if there was ever a film in dire need of a reboot, then it’s You’ve Got Mail. The film is almost 28 years old, and it shows every single day of its age. You’ve seen it, you know how it goes. It’s about two people who use the futuristic new technology of email (email is no longer new) to communicate, despite being rival booksellers ( nobody reads books any more ), and eventually begin a relationship ( nobody wants to be in a relationship any more ). The whole thing is preposterous. Of course they should try again. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
+      "image": "https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70a99c81a7f2e55854259e9b833055a3",
+      "publishedAt": "2026-11-12T05:00:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Classics"
     },
     {
       "id": "indiewire-bC0xMjM1MjI2NTA0Lw",
@@ -88,18 +208,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZXZpZXctbmV0ZmxpeA",
-      "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
-      "description": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house Thanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgates holding back the seasonal tide of holiday movies have opened to fully drown yuletide junkies in cheer. Among the first out of the gates is Netflix’s The Gospel of Christmas, brought to you by the maker of A Madea Christmas. Instead of Tyler Perry in drag, reluctantly upholding the role of family linchpin, this time it’s Durrell Babbs – AKA the R&B stalwart Tank – playing Isaac, a secular musician who is forced into ministry when his pastor father charges him with resurrecting a sister congregation that’s become a blight in a New York neighborhood defined by immorality and anomie. ( East New York, maybe.) The 103-minute feature is both a ploy to horn in on Hallmark’s well-established territory and a proper return to Perry’s roots in gospel musical theater – but with considerably more money behind it and greater latitude to bend the usual chestnuts on faith and family toward his Old Testament-facing sermons. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
-      "image": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=d1cacc107f746feb2e5d4d01aad18b3b",
-      "publishedAt": "2026-11-11T18:43:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-HMtMTIzNTIyNjUzOS8",
       "title": "Democrats Won. When Do Hollywood Crews Get Back to Work?",
       "description": "A proposed federal tax credit, state incentives, and new leadership in Los Angeles might help production bounce back — but many film and TV crews still don’t know when they’ll see their next paycheck.",
@@ -136,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-cmV2aWV3LWFtYXpvbg",
-      "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "description": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any small shred of faith in the system and any vague semblance of financial equity is still unlikely to come anytime soon. It’s therefore theoretically ideal timing for films that provide some sort of rousing David v Goliath catharsis, a win on-screen when one feels entirely out of reach in real life. But like Paul Greengrass’s muddy and muddled peasant revolt drama The Uprising which crashed and burned in September, David Leitch’s How to Rob a Bank can’t quite find a way to capture a moment that should be easy to capture. The director is best known for synthetic action films that prioritise noise above all else, from Deadpool 2 to Bullet Train to Hobbs & Shaw, a tonal throughline that could be most generously described as “annoying”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
-      "image": "https://i.guim.co.uk/img/media/15232fb98f98235a792c7e329f27ba8619bb4456/340_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=48a7523f7142114b260f0bba58fbdc75",
-      "publishedAt": "2026-11-11T17:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-F5LTEyMzUxOTQyMTEv",
       "title": "‘Paper Tiger’ Review: Adam Driver Gives a Career-Best Performance in James Gray’s Devastating Tragedy",
       "description": "Like all of James Gray's best films, \"Paper Tiger\" is both sweepingly mythic and hauntingly personal all at once.",
@@ -172,66 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-XItMTIzNTIyNjg1MS8",
-      "title": "‘Iron Boy’ Trailer: Beloved Animated Feature Oscar Contender Throws a Whole Watercolor World Out of Whack",
-      "description": "Exclusive: Watch the trailer for director Louis Clichy's beautifully off-balance coming-of-age story.",
-      "url": "https://www.indiewire.com/news/trailers/iron-boy-trailer-louis-clichy-animated-feature-oscar-1235226851/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
-      "publishedAt": "2026-11-11T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIyNjgzMi8",
-      "title": "Jeremy O. Harris EPs ‘American Theater,’ About a Canceled MAGA Theater Director’s Bizarre Attempted Comeback — Watch the Trailer",
-      "description": "Harris tells IndieWire about the Slamdance winner now rolling out in theaters, a documentary that observes a Southern fringe theater director's attempt to rise from his own ashes via a restaging of the Salem Witch Trials.",
-      "url": "https://www.indiewire.com/news/trailers/american-theater-trailer-jeremy-o-harris-documentary-1235226832/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/AT_PressImage_2.png?w=650",
-      "publishedAt": "2026-11-11T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMjY4MTgv",
-      "title": "Fan Edits Are Legal with Moonbeem, Distribution Network Hosts Approved Clips from Filmmakers",
-      "description": "Exclusive: The company, which was incubated by the Sundance Institute, unveils its free panel for Adobe Premiere Pro.",
-      "url": "https://www.indiewire.com/news/general-news/fan-edits-legal-moonbeem-approved-clips-from-filmmakers-1235226818/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2024/03/MV5BZTU5ZWQ2ZWQtYTRiZi00YTAxLTgwZWItZGYxNGZkZTMzMjhmXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg?w=650",
-      "publishedAt": "2026-11-11T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjI2NDU3Lw",
-      "title": "‘How to Rob a Bank’ Review: David Leitch’s Fun and Poppy YouTube Heist Movie Almost Gets Away with It",
-      "description": "Nicholas Hoult plays a live-streaming Robin Hood in an \"eat the rich\" thriller funded by Jeff Bezos.",
-      "url": "https://www.indiewire.com/criticism/movies/how-to-rob-a-bank-movie-review-1235226457/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/How-To-Rob-A-Bank-2026-Nicholas-Hoult-Amazon-MGM-Studios-.webp?w=650",
-      "publishedAt": "2026-11-11T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WFzc2F1bHQtZHJhbWE",
-      "title": "Prima Facie review – Cynthia Erivo’s brilliant barrister blazes in sexual assault drama",
-      "description": "Adaptation of the international stage hit stars a commanding Erivo as Tessa, whose career defending rape suspects is undermined by experience A blazingly fierce, effortlessly commanding central performance from Cynthia Erivo, like something from classical drama, powers this movie adaptation of Suzie Miller’s international stage hit (which starred Sheridan Harbridge in the original Australian production , and then Jodie Comer in London’s West End ). Miller has written the screenplay, with Susanna White directing . In the theatre, it is a bravura solo spectacle, a stream-of-consciousness torrent which puts you right inside the trauma and the terror. The movie opens things out to a more conventionally presented drama and we lose something of that overwhelming moment-by-moment access to the lead character’s inner thoughts. But the resulting story is robustly constructed and tremendously acted. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama",
-      "image": "https://i.guim.co.uk/img/media/eee8fceb398c4c476b87e549bb79c606a7183c87/855_173_4443_3554/master/4443.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=dbb731195a2651ffd2838b11ca0dd001",
-      "publishedAt": "2026-11-11T13:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-LW1vc3Qtd2F0Y2hlZA",
       "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
       "description": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in cinemas across the world last month. The film , which is directed by the Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, has reached a worldwide audience of 1,547,033 as of Friday 6 November, making it one of the most-watched documentary films with a theatrical release in 2026. Continue reading...",
@@ -241,18 +277,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HktMTIzNTIyNjc4NC8",
-      "title": "Stacy Keach, ‘Fat City’ and ‘Mike Hammer’ Star, Dead at 85",
-      "description": "The tough guy actor had accrued more than 200 screen credits over a career that spanned seven decades.",
-      "url": "https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/StacyKeachObit.jpg?w=650",
-      "publishedAt": "2026-11-11T01:20:51.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -374,18 +398,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-S1kaWVzLWFnZWQtOTM",
-      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-      "description": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’ Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93. His wife Caterina Varzi and children Bonifacio and Beatrice Brass announced the news of the director’s death to Italian press agency Ansa on Wednesday. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-      "image": "https://i.guim.co.uk/img/media/200f4cf3cbea53e1603982201c59d54825ccfb60/324_0_3240_2592/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2518b1fa334eef143bd1af41cdb02130",
-      "publishedAt": "2026-11-04T16:47:15.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
