@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T00:43:45.269Z",
+  "generatedAt": "2026-11-12T06:34:57.125Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-GluZy1ob2xseXdvb2Q",
+      "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
+      "description": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking for something a little lighter, and surely nothing can be more jolly, more wholesome than a Christmas romcom. In Christmas & Chaos, Kirk plays Sadie, a pop star in search of a hit – or, to be more precise, three hits for a new musical by an impresario (a comedic Jason Isaacs who only appears on screen via video call). She has just a couple of weeks to come up with something with handsome-and-heartbroken composer (Ben McGregor). Kirk, who also produced the film, approached Jamie Adams, director of several low-budget British films, including Black Mountain Poets, intrigued by his regular use of improvisation. They worked out the story together, says Kirk, but made it without a script. All they knew was that “this was a Christmas movie, these two have got a deadline to make these hit songs and maybe there’ll be some kind of romance. And then it became something else, which is even more interesting.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
+      "image": "https://i.guim.co.uk/img/media/19f0d1b8e6552a91c82f21629502f329e20afe22/0_128_2559_2046/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fb74cbfdadc10d96be16556fef0fd93",
+      "publishedAt": "2026-11-12T06:00:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-bC0xMjM1MjI2NTA0Lw",
       "title": "Sandra Wollner’s ‘Everytime’ Is a Stunning Film About Grief Like You’ve Never Seen Before",
@@ -218,18 +230,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-LW1vc3Qtd2F0Y2hlZA",
-      "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
-      "description": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in cinemas across the world last month. The film , which is directed by the Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, has reached a worldwide audience of 1,547,033 as of Friday 6 November, making it one of the most-watched documentary films with a theatrical release in 2026. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-      "image": "https://i.guim.co.uk/img/media/7fdf274bbdcb8c27b637964b07c4022b4b09c9c6/1358_19_2482_1986/master/2482.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d81cf0f1f12e8ad8ee7a9887331e7ff",
-      "publishedAt": "2026-11-11T09:47:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "indiewire-HktMTIzNTIyNjc4NC8",
