@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-13T06:34:18.443Z",
+  "generatedAt": "2026-11-13T12:30:52.261Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 27
+      "articles": 28
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -16,8 +16,32 @@
   },
   "articles": [
     {
+      "id": "guardian-YW5ub3VuY2VkLTAwNw",
+      "title": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
+      "description": "As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it And then there were five. While nothing has been officially announced, it is widely understood that the shortlist to replace Daniel Craig as James Bond is now down to a handful of actors: Callum Turner, Jack Lowden, Josh O’Connor, Robert Pattinson and Nicholas Hoult. The hunt for a new Bond comes at a propitious moment for the franchise as a whole, 25 films in (not counting the two “unofficial” entries, Casino Royale in 1967 and Never Say Never Again in 1983). After Daniel Craig stood down from the role after completing No Time to Die (in which Bond appeared to be killed in a missile strike), Amazon MGM Studios paid over $1bn to acquire “creative control” from Barbara Broccoli and Michael G Wilson, the British-American heirs to the series’ original producer Albert “Cubby” Broccoli and longtime stewards of the Bond films. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007",
+      "image": "https://i.guim.co.uk/img/media/3b6fefef892541b4cbaa946c4cf1385b74aa8110/807_313_1562_1251/master/1562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=662b9024800300b53ad13933f1e45ce4",
+      "publishedAt": "2026-11-13T11:31:21.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-XN0YWluLW5ldGZsaXg",
+      "title": "Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit",
+      "description": "The Oscar winner plays a singer turned detective searching for her niece in an overly generic Nashville-based mystery that fails to find its footing Given the popularity of its music and the streaming services’ interest in faith-based programming, I’m always a little surprised that there aren’t more movies and TV shows about Nashville. Well, at least the idea of Nashville, the country music mecca that is perpetually struggling to define itself within and against the country at large, a place that has always been more diverse than its reputation yet still stands for a certain image of white, Christian Americana. There are plenty of enduring contradictions to mine there – the hyper-masculine men singing with their hearts on their sleeve, the Madonna-badass complex among its relatively few female stars, the suburban money in a genre ostensibly speaking to the rural common man. Netflix seems to be aiming for some of those complexities with Heartland, a patchy neo-noir thriller starring Jessica Chastain as a washed-up former star turned vigilante detective with an axe to grind on Music Row. Chastain’s Misty Jones is certainly a thorny Nashville archetype, a female lead we might call “unlikable” painted in the stark terms of a bad country song (said with love as someone raised on country radio). The first five minutes of the nearly two-hour feature from Shana Feste, the writer-director perhaps best known for the 2010 movie Country Strong that launched Gwyneth Paltrow’s brief singing career , churn through the greatest hits of on-screen female fuck-up: teary loneliness, near-wordless pick-up of a stranger from the bar, beer bottle on the nightstand, joint in the bathroom, haunting echoes of erstwhile better days (in this case, a Grammy in an empty fridge, which does feel inspired in its bluntness). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix",
+      "image": "https://i.guim.co.uk/img/media/caf1eab024b3341cf78781448428f46d86ddeebd/1303_513_5275_4220/master/5275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a0877d3132db6f8caf45d414b864aebb",
+      "publishedAt": "2026-11-13T08:01:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-3JlLW9zY2FyLWJ1eno",
-      "title": "‘Women are pitted against each other. It’s a blood sport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
+      "title": "‘Women are pitted against each other. It’s a bloodsport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
       "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To which Beckett replied: “Inwards.” Hearing this story, another Billie – the teen pop star turned Doctor Who companion and Olivier award-winning powerhouse Billie Piper – lets out a laugh so raucous and expansive, it is as if a flock of gaily coloured birds has been released into the room, flapping and squawking in every corner. “Fuck, that’s awesome,” she says. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz",
       "image": "https://i.guim.co.uk/img/media/3f6c8d132693f32bab221c36e1e2651d202da2c9/0_165_3695_2956/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=035b239ce724ccf9ca989475e1c12324",
@@ -25,6 +49,30 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-JseS01bS1hdWN0aW9u",
+      "title": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
+      "description": "Used in the famous ‘I am your father’ scene, the on-screen prop was originally expected to sell for a fraction of the price Auctioneers estimated it would sell for over $1m, but on Thursday a Star Wars lightsaber used by Darth Vader in the famous “I am your father” scene from The Empire Strikes Back ended up selling for nearly $5m. Darth Vader’s saber was one of 27 lightsaber props up for sale by Heritage Auctions in the US, including ones used by Ewan McGregor’s Obi-Wan Kenobi and Hayden Christensen’s Anakin Skywalker in Revenge of the Sith. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction",
+      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/233_0_2483_1986/master/2483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bff72ea6cc119fd314659b94fdac80c4",
+      "publishedAt": "2026-11-13T04:41:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+      "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-13T00:54:04.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "TV"
     },
     {
@@ -218,30 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-GluZy1ob2xseXdvb2Q",
-      "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
-      "description": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking for something a little lighter, and surely nothing can be more jolly, more wholesome than a Christmas romcom. In Christmas & Chaos, Kirk plays Sadie, a pop star in search of a hit – or, to be more precise, three hits for a new musical by an impresario (a comedic Jason Isaacs who only appears on screen via video call). She has just a couple of weeks to come up with something with handsome-and-heartbroken composer (Ben McGregor). Kirk, who also produced the film, approached Jamie Adams, director of several low-budget British films, including Black Mountain Poets, intrigued by his regular use of improvisation. They worked out the story together, says Kirk, but made it without a script. All they knew was that “this was a Christmas movie, these two have got a deadline to make these hit songs and maybe there’ll be some kind of romance. And then it became something else, which is even more interesting.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
-      "image": "https://i.guim.co.uk/img/media/19f0d1b8e6552a91c82f21629502f329e20afe22/0_128_2559_2046/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fb74cbfdadc10d96be16556fef0fd93",
-      "publishedAt": "2026-11-12T06:00:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-wtcmVib290LWVtYWls",
-      "title": "You had me at LOL: some notes for the You’ve Got Mail reboot",
-      "description": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead … the film-makers behind the remake of the dial-up classic will be facing an embarrassment of pitches Assuming you have already heard about the You’ve Got Mail reboot, you are probably in one of two states. You are either excited that the news might be a signal of a long overdue romcom resurgence, or you are embittered because it’s another sign that Hollywood has run out of original ideas. I hold absolutely no truck with the latter view. Quite frankly, if there was ever a film in dire need of a reboot, then it’s You’ve Got Mail. The film is almost 28 years old, and it shows every single day of its age. You’ve seen it, you know how it goes. It’s about two people who use the futuristic new technology of email (email is no longer new) to communicate, despite being rival booksellers ( nobody reads books any more ), and eventually begin a relationship ( nobody wants to be in a relationship any more ). The whole thing is preposterous. Of course they should try again. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/youve-got-mail-reboot-email",
-      "image": "https://i.guim.co.uk/img/media/d4876fbb6e84518f1d6e3c49077a93e7c33549ad/171_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70a99c81a7f2e55854259e9b833055a3",
-      "publishedAt": "2026-11-12T05:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "indiewire-bC0xMjM1MjI2NTA0Lw",
