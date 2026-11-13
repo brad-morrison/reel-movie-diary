@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T18:28:17.809Z",
+  "generatedAt": "2026-11-13T00:44:05.827Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 27
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-ZS0xMjM1MjI3MzgxLw",
+      "title": "Jensen Huang’s Biopic Feels Inevitable — The Right One Might Be Impossible",
+      "description": "After \"The Social Reckoning\" stumbled at the box office and voter backlash over data centers dovetailed with awards buzz for \"Artificial,\" any film about the former Nvidia exec would have to keep pace with a tech industry that’s changing by the day.",
+      "url": "https://www.indiewire.com/features/general/jensen-huang-biopic-inevitable-1235227381/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2.jpg?w=650",
+      "publishedAt": "2026-11-12T23:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTE5NDY4MC8",
+      "title": "Miles Teller Opens Up About ‘Paper Tiger,’ Adam Driver, and Losing His Home Before Filming James Gray’s Movie",
+      "description": "In James Gray's Cannes hit about two brothers falling out with the Russian mafia, Teller plays against type as a sensitive family man opposite Adam Driver and Scarlett Johansson.",
+      "url": "https://www.indiewire.com/features/interviews/miles-teller-interview-paper-tiger-1235194680/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/IMG_2852_395d53-e1779170145365.jpeg?w=650",
+      "publishedAt": "2026-11-12T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyNjQ5OS8",
+      "title": "‘The Good Daughter’ Review: Rose Byrne Sizzles in Peacock’s Brutal Trauma-Drama About Crime-Solving Sisters",
+      "description": "The clichés stack up nearly as fast as the clever cast can distinguish them in Karin Slaughter's six-episode adaptation of her own book, which follows long-separated sisters who reunite to defend a young woman from the predators lurking in their brutish, backwoods hometown.",
+      "url": "https://www.indiewire.com/criticism/shows/the-good-daughter-review-rose-byrne-peacock-series-1235226499/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Good-Daughter-Rose-Byrne-Meghann-Fahy-Peacock-series.jpg?w=650",
+      "publishedAt": "2026-11-12T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold: ‘Woman Unknown,’ May el-Toukhy’s Golden Lion Winner, Sells to Cohen Media Group",
+      "description": "Star Mathilde Arcel also won Best Actress out of Venice.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
+      "publishedAt": "2026-11-12T18:47:42.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjI3MzM0Lw",
+      "title": "‘Avengers: Doomsday’ Has 10 Credited Writers, Including Hugh Jackman and Ryan Reynolds",
+      "description": "The film's official WGA credits all but confirm that Deadpool and Wolverine will appear in the blockbuster sequel.",
+      "url": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/06/173759_0039.jpg?w=650",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjU0NDUv",
+      "title": "Saoirse Ronan Has Wanted to Direct Since She Was a Kid, and Her Exquisite First Short ‘Paper Plane’ Proves She’s Got the Goods",
+      "description": "In her first and only interview since winning Best Narrative Short at the Austin Film Festival (and earning Oscar-qualifying status for her directorial debut), Ronan tells IndieWire about the joyous (and occasionally scary) process of moving into what could be a brand-new career for her.",
+      "url": "https://www.indiewire.com/features/interviews/saoirse-ronan-directorial-debut-short-paper-plane-interview-1235225445/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300540275-1-e1793896779341.jpg?w=650",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-VyLTEyMzUyMjczMzgv",
       "title": "Brad Pitt to Star in ‘Connector’ from ‘Sound of Metal’ Director Darius Marder for Apple",
@@ -30,7 +102,7 @@
     {
       "id": "indiewire-N0LTEyMzUyMjcxOTIv",
       "title": "‘American Doctor’ and ‘You Can See Everything’ Lead 2027 Cinema Eye Honors Film Nominations",
-      "description": "Po Si Teng’s “American Doctor” and Nathan Fielder and Lance Oppenheim’s “You Can See Everything” led the 20th annual Cinema Eye Honors with seven nominations each.",
+      "description": "Poh Si Teng’s “American Doctor” and Nathan Fielder and Lance Oppenheim’s “You Can See Everything” led the 20th annual Cinema Eye Honors with seven nominations each.",
       "url": "https://www.indiewire.com/awards/results/2027-cinema-eye-honors-film-nominations-full-list-1235227192/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-02-01-AM-2629.jpg?w=650",
       "publishedAt": "2026-11-12T18:00:00.000Z",
@@ -196,76 +268,28 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-F4LTEyMzUyMjY1Nzcv",
-      "title": "How ‘Godzilla Minus Zero’ Dominated the Box Office: GKIDS Chief on IMAX’s Impact and the Growing Market for Foreign-Language Movies",
-      "description": "In an interview with IndieWire, the distributor's president Dave Jesteadt credits younger audiences and premium large-formats for building the record opening.",
-      "url": "https://www.indiewire.com/features/interviews/godzilla-minus-zero-box-office-gkids-imax-1235226577/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GodzillaMinusZero.jpg?w=650",
-      "publishedAt": "2026-11-11T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIyNjUzOS8",
-      "title": "Democrats Won. When Do Hollywood Crews Get Back to Work?",
-      "description": "A proposed federal tax credit, state incentives, and new leadership in Los Angeles might help production bounce back — but many film and TV crews still don’t know when they’ll see their next paycheck.",
-      "url": "https://www.indiewire.com/features/interviews/hollywood-jobs-after-midterms-film-tax-credits-1235226539/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2303762870_aeffe5.jpg?w=650",
-      "publishedAt": "2026-11-11T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-bS0xMjM1MjI2NjE3Lw",
-      "title": "Attend, the First Marketplace Connecting Filmmakers Directly to Theater Owners, Finally Launches Today",
-      "description": "IndieWire got a first look at The Fithian Group's long-awaited portal ahead of its debut at the American Film Market.",
-      "url": "https://www.indiewire.com/news/breaking-news/attend-marketplace-filmmakers-theater-owners-launch-afm-1235226617/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Attend-Screenshot.jpg?w=650",
-      "publishedAt": "2026-11-11T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIyNjgyNy8",
-      "title": "DC Studios’ Latest Reboot: James Gunn and Peter Safran’s Exit Is About Cost-Cutting, Not Just Creative Issues",
-      "description": "The pair signed a very generous deal with David Zaslav. Jeremy Latcham will be a lot cheaper.",
-      "url": "https://www.indiewire.com/news/analysis/dc-studios-pushed-out-james-gunn-peter-safran-cost-cutting-skydance-1235226827/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2022/10/James-Gunn.jpg?w=650",
-      "publishedAt": "2026-11-11T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-F5LTEyMzUxOTQyMTEv",
-      "title": "‘Paper Tiger’ Review: Adam Driver Gives a Career-Best Performance in James Gray’s Devastating Tragedy",
-      "description": "Like all of James Gray's best films, \"Paper Tiger\" is both sweepingly mythic and hauntingly personal all at once.",
-      "url": "https://www.indiewire.com/criticism/movies/paper-tiger-movie-review-james-gray-1235194211/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-1.56.37 PM.png?w=650",
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-ZXZpZXctbmV0ZmxpeA",
+      "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
+      "description": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house Thanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgates holding back the seasonal tide of holiday movies have opened to fully drown yuletide junkies in cheer. Among the first out of the gates is Netflix’s The Gospel of Christmas, brought to you by the maker of A Madea Christmas. Instead of Tyler Perry in drag, reluctantly upholding the role of family linchpin, this time it’s Durrell Babbs – AKA the R&B stalwart Tank – playing Isaac, a secular musician who is forced into ministry when his pastor father charges him with resurrecting a sister congregation that’s become a blight in a New York neighborhood defined by immorality and anomie. ( East New York, maybe.) The 103-minute feature is both a ploy to horn in on Hallmark’s well-established territory and a proper return to Perry’s roots in gospel musical theater – but with considerably more money behind it and greater latitude to bend the usual chestnuts on faith and family toward his Old Testament-facing sermons. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
+      "image": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=d1cacc107f746feb2e5d4d01aad18b3b",
+      "publishedAt": "2026-11-11T18:43:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "indiewire-Ny0xMjM1MjI2Nzk5Lw",
-      "title": "Kate Berlant and John Early to Host the 2027 Film Independent Spirit Awards",
-      "description": "The \"Maddie's Secret\" co-stars and longtime collaborators will host the 42nd annual Film Independent Spirit Awards at the Hollywood Palladium on Saturday, March 6, 2027.",
-      "url": "https://www.indiewire.com/news/general-news/kate-berlant-john-early-host-independent-spirit-awards-2027-1235226799/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2233931061.jpg?w=650",
-      "publishedAt": "2026-11-11T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
+      "id": "guardian-cmV2aWV3LWFtYXpvbg",
+      "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
+      "description": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any small shred of faith in the system and any vague semblance of financial equity is still unlikely to come anytime soon. It’s therefore theoretically ideal timing for films that provide some sort of rousing David v Goliath catharsis, a win on-screen when one feels entirely out of reach in real life. But like Paul Greengrass’s muddy and muddled peasant revolt drama The Uprising which crashed and burned in September, David Leitch’s How to Rob a Bank can’t quite find a way to capture a moment that should be easy to capture. The director is best known for synthetic action films that prioritise noise above all else, from Deadpool 2 to Bullet Train to Hobbs & Shaw, a tonal throughline that could be most generously described as “annoying”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
+      "image": "https://i.guim.co.uk/img/media/15232fb98f98235a792c7e329f27ba8619bb4456/340_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=48a7523f7142114b260f0bba58fbdc75",
+      "publishedAt": "2026-11-11T17:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-LW1vc3Qtd2F0Y2hlZA",
@@ -278,6 +302,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-WNpYWwtb3BzLXRlYW0",
+      "title": "Soul Patrol review – heartstopping story of the US army’s first Black special ops team at work in Vietnam",
+      "description": "Based on a 2003 memoir, this remarkable documentary shows the incredible bravery these young men showed in the face of battle and unrelenting bigotry Here is the remarkable story of the US army’s “Soul Patrol” unit in the Vietnam war: the all-Black Long-Range Reconnaissance Patrol (or LURP), a six-man team of largely teenage African American soldiers, within Company F 51st Infantry. Their duty was to go behind the Vietcong enemy lines, each carrying 150lbs of kit and an M16 assault rifle, and in conditions of terrifying danger report on the enemy’s movements. One heart stopping anecdote is about a panicky member of the unit, who had never seen fireflies before, and became convinced he had seen a Vietcong insurgent in the undergrowth, smoking a cigarette. The film also reports on their later, poignant reunion as old men, using their contemporary home-movie footage and dramatically recreating some scenes. It is based on the 2003 memoir of the same title by unit member Ed Emanuel (who had gone into journalism in civilian life), based on his own experiences and those of his comrades who he had been able to track down. The publication of the book itself was intended to bring other ex-soldiers out of the woodwork, which it duly did. The Soul Patrol was at one level a special forces unit, an elite squad that was tough, capable, resourceful, operating at the highest standards of soldiering – and yet it was also subject to racist exploitation as cannon-fodder. This was what many in the unit came to suspect, and one interviewee here recounts his almost hallucinatory sense the enemy itself had spared them from certain death in the jungle, aware of their awful sacrificial purpose. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team",
+      "image": "https://i.guim.co.uk/img/media/10e283ee44de9a59c7e623cab61992b890c56d71/356_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94c3e6ba9e91b75c63a0e03d974ba1cc",
+      "publishedAt": "2026-11-10T07:00:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-dC1tYXJpbmUtZGllcw",
@@ -376,6 +412,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-QtbW92aWUtcmV2aWV3",
+      "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
+      "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+      "image": "https://i.guim.co.uk/img/media/07048846bc1de89d9d63210a3221853e31347902/243_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a3ffea5d3a620a6949b5ce3ca0b3e536",
+      "publishedAt": "2026-11-06T14:38:28.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-dW5lLXN0YXItd2Fycw",
       "title": "If Dune is this generation’s Star Wars, we are all in big trouble",
       "description": "According to Florence Pugh, Denis Villeneuve’s stunningly strange and breathtaking universe is the equivalent to George Lucas’ heroic space opera. Let’s hope not A long time ago, far far away, in a galaxy called the 1970s, kids dreamed of joining the rebellion, rescuing a princess and blowing up the Death Star. Peer into the cosmic tea leaves and it would become immediately clear that no amount of evildoing could withstand a neurotic gold butler, a dustbin with ideas above its station and a walking seven-foot tall shagpile carpet with a very low tolerance for disagreement. It is worth remembering this when considering Florence Pugh’s recent declaration, ahead of next month’s Dune: Part Three, that Dune is her generation’s Star Wars . And then wondering how much trouble we might be in if she’s actually right. “I think they brought back movie-going. What an event the second [Dune] was,” Pugh cheerfully told the New York Times. “It was just so lovely to be a part of something that we know is our generational kind of Star Wars.” Continue reading...",
@@ -400,6 +448,30 @@
       "category": "TV"
     },
     {
+      "id": "guardian-Hl3b29kLXRyaXVtcGg",
+      "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
+      "description": "Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie For fun, excitement and the transcendental thrill of success, there’s nothing to touch this very enjoyable drama about the making of Sylvester Stallone’s Oscar-winning 1976 boxing movie, Rocky. It’s a movie of duplicates and surfaces and heartfelt imitations. Perhaps not very profound but, as Oscar Wilde’s Lord Henry Wotton says, it is only shallow people who do not judge by appearances. It is the story of the struggling young Italian-American unknown who’d had some minor acting jobs – including softcore pornography – but wrote a thumpingly good screenplay inspired by the underdog white boxer Chuck Wepner , who briefly knocked Ali down in 1975. With tremendous self-belief, Stallone insisted he play the lead role himself, holding out against vast cash offers to just take the writing credit and let an established star into the ring. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=ca47b64e255c7a64611fe8cf2bdff1ab",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-Z2Utc2NhbGUtZXBpYw",
+      "title": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
+      "description": "Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from director Nitesh Tiwari, with music by Hans Zimmer and AR Rahman, based on the ancient classical poem about Rama, an avatar of the Hindu god Vishnu. It has often been adapted for live-action and animated movies in the past, though surely not on this scale, the current three-hour blockbuster being only the first half. (There are no musical numbers though.) The idea of aristocrats submitting stoically and yet playfully to exile in the forest has something Shakespearean about it, and if you are suffering Homer-withdrawal after Christopher Nolan’s The Odyssey , a story about the noble Prince Rama finally vowing to wage war on a distant city where his wife has been abducted might just fit the bill. Ranbir Kapoor plays the mythical Rama, a noble warrior and statesman who has been brought into being in the city state of Ayodhya as a bodily representative of Vishnu, and from the first his sense of destiny is overwhelming. But what exactly is that destiny? In broad terms, his fate is to face off with Ravana (Naveen “Yash” Kumar), king of far-off Lanka, a figure whose former slave status once triggered in him such a cosmically intense prayer for justice that Lord Brahma offered him the superpower of athletic strength and indifference to pain. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
+      "image": "https://i.guim.co.uk/img/media/12eb62d74a294db635745f2c7c9b1e8210c29723/1288_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=130aa45399b120ccaf847f4b539ca3f7",
+      "publishedAt": "2026-11-04T13:00:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
       "id": "guardian-3Rvci1zdXBlcmhlcm8",
       "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
       "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial potential of blue-chip British classical training like Patrick Stewart. With style, technique and the most minutely self-aware, almost vaudevillian sense of mimicry, Shakespearean thesps can turn their hand to American movies and high-end American television and show the American method actors how it’s done – sometimes, even, at the beginning of their screen careers, at a competitively low wage. Stewart was one of the thoroughbreds of the Royal Shakespeare Company’s 1970s stage generation who had also had classy small screen roles, such as his intimidating Sejanus in I, Claudius opposite Derek Jacobi. But he effected a warp-speed leap to pop culture stardom by getting the role of Jean-Luc Picard, captain of the Federation starship USS Enterprise, in TV’s Star Trek: The Next Generation, the hugely successful reboot of Star Trek that ran from 1987 to 1994, spawning four separate feature films and then another series, Star Trek: Picard. Continue reading...",
@@ -412,120 +484,24 @@
       "category": "Classics"
     },
     {
-      "id": "guardian-2Nod2ltbWVyLW11Ymk",
-      "title": "Junk review – David Schwimmer is lost in Mubi’s frustrating LA-set misstep",
-      "description": "The Friends alum makes up half of a messy and pretentious comedy drama that boasts some visual panache but is dragged down by a confused tone You could be forgiven, upon watching the first scene of Junk, for believing that this debut feature will boldly, perhaps ill-advisedly, dare to satirize the industry it’s purporting to join. At a swanky restaurant in LA, four people aglow with self-importance embark on the time-honored ritual of discussing the screenplays they’re working on – specifically, the screenplay Martin (David Schwimmer), is “working on”. It’s classic industry navel-gazing, underscored by a tight focus on Martin’s clammy face as he sputters poorly through a confidence game. Schwimmer, of course, is still best known for playing a perpetually and comedically exasperated sitcom character; it’s hard to square that extremely familiar voice with Martin’s dark bluster on how “drug-addled gen Zers” have “no respect for the communal aspect of the cinema”, an off-putting rant that is also a tad intriguing – who is more pretentious here, the sweaty character or the picture starkly sending him up? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/23/junk-movie-review-david-schwimmer-mubi",
-      "image": "https://i.guim.co.uk/img/media/488139961f8241bab8c60398f95a2fa7b5ab9694/330_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=dedb9b3f67bebb826caed6438850e4ab",
-      "publishedAt": "2026-10-23T09:00:05.000Z",
+      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
+      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
+      "description": "The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One , the most recent reboot featuring the 70-year-old kaiju – the version(s) from his native Japan, mind, not the Americanized one concurrently starring in a series of Warner Bros blockbusters opposite King Kong – wasn’t just another monster-movie success. It fully crossed over, becoming the highest-grossing Japanese-language movie ever released in North America, and won an Academy Award to boot for its terrific visual effects. Now. Japanese Godzilla characters are mainstream enough to pop up in Happy Meals, and the Toho -made sequel Godzilla Minus Zero is world-premiering at the New York film festival. Arguably the artsiest, brainiest of the major fall fests is playing unexpected host to a truly spectacular monster battle royale, packaged alongside some of the same thoughtful historical context that informed the previous film. Writer, director and VFX maestro Takashi Yamazaki returns for the sequel, bringing his lead characters back with him. In the previous film, former military pilot Kōichi Shikishima (Ryunosuke Kamiki) used his experience with Godzilla to overcome his guilt and shame over failing to complete a pointless kamikaze mission toward the end of the second world war – the devastation of which brought Japan back to “zero”, hence a newly emergent Godzilla bringing the country to “minus one”. Minus Zero catches up with Kōichi, his now-wife Noriko (Minami Hamabe), and their adopted daughter Akiko (Sae Nagatani) two years later, in 1949 (although Akiko somehow seems more or less the same age). Another monster threat looms over post-war Japan in the form of a dragon-like creature dubbed Ghidorah, whose menace will be familiar to kaiju fans. (Though he isn’t seen directly in trailers, this isn’t a spoiler; he’s featured from the very first scene of the film.) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
+      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=28c408b70d445b2f5511072533709389",
+      "publishedAt": "2026-09-27T00:00:49.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
+      "category": "Trailers"
     },
     {
-      "id": "guardian-V3LWJvZHktaG9ycm9y",
-      "title": "Clayface review – flesh-stretching DC body horror is very gory but not very good",
-      "description": "Liverpool makes for an unconvincing Gotham City in this effectively gross but otherwise middling attempt to milk money from a lesser-known Batman villain A sense of desperation is understandably in the air over at DC, the company, like Marvel, slowly realising that the mass superhero fever has finally broken. There’s still interest there, of course (this summer’s Spider-Man is now the biggest film of all time in the US after all), but it’s no longer good enough to leave a high-speed conveyor belt unmanned, purpose and quality control be damned. 2019 saw a staggering 10 superhero films released in cinemas, and the inevitable exhaustion that followed, also fueled by Covid, led to a gradual winding down, monster hits turning into minor ones and sure bets often becoming expensive flops. As Peter Parker winged his way to box office records this summer, DC’s Supergirl bombed so hard that experts believe it might have cost Warners upwards of $200m in losses. It was just the latest disappointment for the brand after Black Adam, Joker: Folie à Deux, Blue Beetle and The Flash all underperformed while even last year’s much-heralded Superman reboot only grossed a solid $618m, a far cry from the $1bn heyday of the genre (things got so bad that even a fully filmed Batgirl adventure was deleted for the tax break ). Notably, the last DC film to swoop past that magic figure was Joker in 2019, a darker, lower-budget attempt to spotlight a villain rather than a hero, a big swing with relatively low stakes. Todd Phillips’s film might be best known by some for being brave enough to ask the question, “What if Taxi Driver sucked?” but for all of its many issues, it brought buzz and prestige and, shockingly, Oscars, to an easily ridiculed universe. It was also, crucially, something rare in that world: a close-to-good idea. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/21/clayface-movie-review-body-horror",
-      "image": "https://i.guim.co.uk/img/media/5a7432637109b7fd063d4a9251350d06a9460b35/1052_0_2247_1800/master/2247.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b23d940c63c20350142b6a746a273408",
-      "publishedAt": "2026-10-21T19:00:54.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-2F6dW8taXNoaWd1cm8",
-      "title": "Klara and the Sun review – Taika Waititi’s manic pixie dream robot sci-fi is a sentimental mess",
-      "description": "The director of Hunt for the Wilderpeople and Jojo Rabbit turns Kazuo Ishiguro’s AI fable into a twee, tiresome tale of love and grief Taika Waititi detonates an explosion of postmodern quirkiness and ironic dorkiness in this unbearably mannered, unspeakably acted film. It’s a slice of sentimental whimsy-futurism and non-satire, adapted by Waititi from the Kazuo Ishiguro novel, which winds up saying nothing substantial or meaningful (or funny) about artificial intelligence, love or grief. Klara and the Sun is soft-centred sci-fi-lite, simultaneously demanding we laugh at its (unfunny) humour and wipe away a tear at its pass-agg poignancy. With earlier films like Hunt for the Wilderpeople and Thor: Ragnarok, Waititi showed he can do comedy. But this, sadly, is closer to his notorious fey-Hitler fantasy Jojo Rabbit – misjudged and self-admiring. In the world to come in an uncanny valley of the almost-real, families can buy “artificial friend” or AF robots for their kids. In terms of tech plausibility overall, incidentally, their status isn’t entirely clear: AF salesperson (Natasha Lyonne) says that the recent third world war has wiped out the internet. (This post-WW3 world looks in pretty good shape apart from that.) And these AF humanoids incidentally have a kind of purple blood called PEC-9 running through them which one character incidentally tells us is “highly flammable”. (Uh-oh. Quite the design fault.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/klara-and-the-sun-review-taika-waititi-kazuo-ishiguro",
-      "image": "https://i.guim.co.uk/img/media/f55061596ee9bbd917a6bb5a6f872bb89a19c8e4/532_0_2637_2110/master/2637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=7d0ebf7c0330302c859a6717a9bb8128",
-      "publishedAt": "2026-10-15T20:15:40.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "Street Fighter review – nostalgia only goes so far in junky fighting game movie",
-      "description": "There are brief, simple pleasures in the inevitable new big screen take on the classic game but like the recent Mortal Kombat movies, it’s a largely incoherent mess We just had Resident Evil , Zach Cregger’s giddy, nasty, devilishly fun spin on Capcom’s popular zombie franchise. It gave us renewed hope (after Sonic the Hedgehog, The Last of Us and Fallout) that video game adaptations could be good, actually. But now here comes Street Fighter, a garish and incoherent mess that amuses in fits and starts but barely improves on the Mortal Kombat movies before it, crushing those hopes in its atomic suplex. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/15/street-fighter-movie-review",
-      "image": "https://i.guim.co.uk/img/media/52ef44150323d22986e27a5e3e1002d650f7c0e2/362_0_5125_4098/master/5125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=87e8ee64357d53a13f78fc2aacd294f2",
-      "publishedAt": "2026-10-15T16:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-11bGxpZ2FuLWxhaWth",
-      "title": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
-      "description": "The makers of Coraline return with their distinctive animation style in a magical tale of a secret world of strange beasts, talking animals and evil governesses Here is an engaging family movie from the Portland-based Laika studio that created Coraline . It is a fantasy adventure in Laika’s distinctively crafted stop-motion animation, written by Chris Butler from the bestseller of the same title by Carson Ellis and Colin Meloy, the latter being a band member of The Decemberists , one of whose tour posters we duly glimpse in this film. The director is Laika’s lead animator Travis Knight. It’s a forthright, exuberant, good-natured and old-fashioned children’s tale which CS Lewis and JRR Tolkien might have recognised, a story about the mysterious glory of going on a quest and the terrible fear and wish-fulfilment euphoria of being called upon to confront secret forces that the grownups know nothing about. The setting is modern-day Portland, Oregon, a groovy city whose hipster-ish stores (there’s a coffee shop actually called Dripster) and Woke 1.0 signage are affectionately mocked. But most of all, the film is aware of a huge forest park next to the city, a place here mythologised as the impassable wilderness or “wildwood” where strange creatures, fairytale nobility and wisecracking talking animals reputedly dwell, of which the city-dwelling humans are entirely ignorant. Prue (voiced by Peyton Elizabeth Lee) is a 12-year-old girl whose parents (voiced by Jake Johnson and Maya Erskine) are a couple of amiable hippies who believe in natural forces and benign magic. They have another child, Prue’s baby brother Mac, who Prue has to look after one day, pushing him in his stroller around the city and having to endure a certain classmate of hers tagging along. This is nerdy Curtis (Jacob Tremblay) who has a crush on her. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/11/wildwood-review-carey-mulligan-laika",
-      "image": "https://i.guim.co.uk/img/media/f707330ce8f93700ee5d4ae17aaf115e7e70f3c0/709_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=52b6fc0961e26df51a0aa42721bc62e3",
-      "publishedAt": "2026-10-11T13:21:20.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-y1tb3ZpZS1yZXZpZXc",
-      "title": "You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit",
-      "description": "New York film festival: No spoilers here – TV’s grand illusionist meets his match when he moves in with Theranos founder and her family For anyone remotely near the worlds of documentary, comedy or medical fraud, there has been one thing on the mind for weeks now: a single-minute clip of Nathan Fielder , the absurdist comedian whose boundary-pushing HBO series The Rehearsal cemented his status as docu-reality’s premier auteur, staring into the deep blue eyes of Elizabeth Holmes , the disgraced founder of the blood-testing startup Theranos. Unblinking, faces inches apart, the famously dry purveyor of harebrained business schemes and the convicted fraudster appeared locked in a battle of wills. “Are you being real right now?” Fielder asked her, in a classically meta bit – could Fielder really have spent years filming a secret documentary with one of Silicon Valley’s most notorious pariahs? The prospect of TV’s grand illusionist versus emblematic girl-boss scammer seemed potentially too good to be true; buzz for You Can See Everything, Fielder’s furtive documentary co-directed with wunderkind du jour Lance Oppenheim (whose narrative feature debut, the Robert Pattinson-starring Primetime , premiered last month) was such that access to the film’s New York film festival premiere on Wednesday became this fall’s hottest ticket . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/01/you-can-see-everything-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07a7fdf5a679e1e6d7aff52f8bae4f175f98be98/507_0_1854_1484/master/1854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=c6fd2ae556ee7e19b660e8b81218225f",
-      "publishedAt": "2026-10-01T16:51:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ItbW92aWUtcmV2aWV3",
-      "title": "A Talent for Murder review – Helen Mirren is a viperous Patricia Highsmith in hit-and-miss thriller",
-      "description": "Toronto film festival: A fictionalised version of the cantankerous crime author plots a murder with an ambitious editor in a story in need of a sharper edge The restrictions of Covid led to an inevitable rise in safely contained chamber-piece movies, where a handful of characters find themselves in a usually remote house, dialogue taking obvious precedence over action. There were some highlights, such as Kevin Williamson’s timely slasher Sick , and some considerable low points, such as Sam Levinson’s vapid drama Malcolm & Marie , but while we had plenty of them, none of them rivalled some of the greatest and smartest pre-pandemic examples. The very best tended to be based on plays and quite often starred Michael Caine. He was in Anthony Shaffer’s Sleuth, which went from Tony to Oscar success back in the 1970s, and then the arguably even better Deathtrap in the decade after, which Sidney Lumet adapted from Ira Levin’s deviously plotted play. In between there was also an under-seen TV movie called One of My Wives Is Missing , based on 60s play Trap for a Single Man, which was notably lesser but still delivered a similarly specific brand of twisty, talky thrills. There would be secrets, surprises, reversals and usually at least one dead body by the end of it, a subgenre entirely indebted to the work of Agatha Christie (who reportedly loved Sleuth on stage so much that she dedicated a picture of herself to be hung in the house used in the big screen adaptation). The bar is therefore held rather high, a puzzle that requires an ingenious level of writing that needs to be smart without smug and shocking without feeling cheap. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/15/talent-for-murder-movie-review",
-      "image": "https://i.guim.co.uk/img/media/c0546f1edb151cbb516a59ee2f6cc6544f750044/439_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=57736b885b83a9edb64da4c385f8619d",
-      "publishedAt": "2026-09-15T21:58:01.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-mlsbS1mZXN0aXZhbGk",
-      "title": "Fatherland review – Sandra Hüller brings a bayonet of intelligence to Paweł Pawlikowski’s taut return",
-      "description": "Hanns Zischler stars as Thomas Mann on his 1949 tour of Germany, contending with political barbs, personal tragedy and his daughter, played by an extraordinary Hüller Here is an impossibly elegant, poised historical vignette whose brevity and control can hardly contain its characters’ personal and historical pain. It is directed and co-written by the Polish film-maker Paweł Pawlikowski and shot in lustrous monochrome by Lukasz Zal; it is a film about exile and betrayal, the impossibility of going home and of reconciling an artist’s children to their secondary importance. The setting is 1949 and the celebrated German novelist and Nobel laureate Thomas Mann – who fled the Nazis before the war for California exile and US citizenship – has returned home, first visiting Frankfurt (now in West Germany) to receive an award named after Goethe, whose birthplace this is. It is Goethe’s enlightened civilised wisdom and apolitical artistry Mann will pointedly evoke in his many elaborate speeches. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/may/14/fatherland-review-sandra-huller-thomas-mann-pawel-pawlikowski-cannes-film-festivali",
-      "image": "https://i.guim.co.uk/img/media/c634079f14def5b226501d12820227ed17195d8a/1341_205_5172_4137/master/5172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=e401ac258cba864ae585e5828c380bb3",
-      "publishedAt": "2026-05-14T17:22:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WNoYXJtaW5nLXRhbGU",
-      "title": "The Only Living Pickpocket in New York review – John Turturro steals this simple, charming tale",
-      "description": "Sundance film festival: the actor plays a pickpocket who steals from the wrong person in a leisurely, straightforward crime thriller with a sting in its tail Noah Segan’s light-footed crime noir The Only Living Pickpocket in New York is a film obsessed with the gap between the old and new. There are memories shared about how things used to be, and some older characters refusing to keep up with digital progression, while there are eye-rolls from the younger generation, poking fun at those losing touch with how the world now operates. I’d argue that the theme is often a little overplayed, a classic case of writer-director Segan – a frequent Rian Johnson collaborator – telling rather than showing. But his film makes a convincing case for the old, a brisk throwback to a 70s-era character-led thriller, made with borrowed flair from yesteryear. The title is itself partly borrowed from a Simon and Garfunkel song and speaks to a protagonist of a dying breed, a pickpocket who prides himself on the old ways; though he might swipe smartphones, he doesn’t own one. He’s played by John Turturro, an actor who hasn’t enjoyed many a lead role of late – his last was in the ill-received Big Lebowski “sequel” The Jesus Rolls and that’s only because he wrote and directed it himself. But this is a welcome step up, or step back up, for someone deserving of something more substantial to tear into. Fittingly, he’s someone who would have arguably had a more prominent career as a leading man in a different time. The Only Living Pickpocket in New York is screening at the Sundance film festival and is seeking distribution Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/28/the-only-living-pickpocket-in-new-york-review-john-turturro-steals-this-simple-charming-tale",
-      "image": "https://i.guim.co.uk/img/media/09e34d99e519ef154df22dfd5adca6b25103c13e/1114_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=3ee871f345224f983d19726c21488a3c",
-      "publishedAt": "2026-01-28T03:53:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1vbGl2aWEtY29sbWFu",
-      "title": "Wicker review – Olivia Colman is smelly fisherwoman falling for wicker man in uneven fable",
-      "description": "Sundance film festival: an inventively made fantasy boasts eye-catching premise and typically rewarding performance from Oscar-winner but something’s missing In terms of attention-demanding loglines, this year’s Sundance has a few. There’s the body horror Saccharine, about a diet craze that involves eating human ashes, midnight movie Buddy , about a Barney-esque kids TV star who starts murdering children and then there’s Mum, I’m Alien Pregnant which, well, you can probably imagine. But the annual “wait, what?” prize easily goes to the offbeat fable Wicker, the story of a smelly spinster fisherwoman who commissions herself a husband made of, that’s right, wicker. While the film does have its expected amount of audience-provoking moments – wicker-fucking bringing the most noise both on and off the screen – to its credit, there’s an attempt to give us more than just easy shock value, something that can’t always be said for films in this often tedious category. Writer-directors Alex Huston Fischer and Eleanor Wilson, who previously brought the mostly likable alien invasion comedy Save Yourselves! to the festival, use their far-out premise to touch upon more of-our-world issues like the patriarchal cruelty of marriage and the special fury reserved for those who dare to live outside of the accepted rules. They succeed in brief flashes but ultimately, there’s too much here that doesn’t gel, a tonally uneven mix of mostly unfunny bawdy humour, dark fantasy and unlikely romance, too much wood but not enough fire. Wicker is screening at the Sundance film festival Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/jan/25/wicker-review-olivia-colman",
-      "image": "https://i.guim.co.uk/img/media/1d79d4339115efca91ee07764f9ae399c1a75666/439_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=8685fd4331eec5fa33e7e161fb7a6864",
-      "publishedAt": "2026-01-25T16:27:33.000Z",
+      "id": "guardian-FydGluLW1jZG9uYWdo",
+      "title": "Wild Horse Nine review – Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
+      "description": "Venice film festival Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
+      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b20f508970b55da4d0b004f6d15434c9",
+      "publishedAt": "2026-09-03T17:30:44.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
