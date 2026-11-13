@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T00:44:05.827Z",
+  "generatedAt": "2026-11-13T06:34:18.443Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-3JlLW9zY2FyLWJ1eno",
+      "title": "‘Women are pitted against each other. It’s a blood sport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
+      "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To which Beckett replied: “Inwards.” Hearing this story, another Billie – the teen pop star turned Doctor Who companion and Olivier award-winning powerhouse Billie Piper – lets out a laugh so raucous and expansive, it is as if a flock of gaily coloured birds has been released into the room, flapping and squawking in every corner. “Fuck, that’s awesome,” she says. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz",
+      "image": "https://i.guim.co.uk/img/media/3f6c8d132693f32bab221c36e1e2651d202da2c9/0_165_3695_2956/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=035b239ce724ccf9ca989475e1c12324",
+      "publishedAt": "2026-11-13T05:00:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-ZS0xMjM1MjI3MzgxLw",
       "title": "Jensen Huang’s Biopic Feels Inevitable — The Right One Might Be Impossible",
@@ -202,18 +214,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/12/victorian-psycho-review-maika-monroe",
       "image": "https://i.guim.co.uk/img/media/ff84d85793038e65f1b7aea5a0b37fd9deeee8c4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=cec349eed0993617335e3a621b33054d",
       "publishedAt": "2026-11-12T11:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-V0ZmxpeC10cmFpbGVy",
-      "title": "Allen review – what would happen if ET came back for Elliott as an adult? Turns out nothing great",
-      "description": "This good-natured if relentlessly unsubtle family film from Netflix and the studio behind Bluey relies on a cute alien with no personality It’s important for stories about magical formative experiences to make the point that time marches forward. Puff the Magic Dragon slinks back into his cave; Max bids farewell to the Wild Things and returns home; the snowman melts, leaving behind only a hat and scarf. It’s not just about the passage of time, but the melancholic act of saying goodbye – the child moving on, the experience imprinted on to their psyches. Allen, the first live-action feature from Ludo Studio – the production company behind a little show called Bluey – has a quirky point of difference. Instead of following a child who befriends a cute little alien then grows into a man enriched by the brief relationship, that child becomes a manchild – unable to move on and haunted by the feeling that his best days are behind him. This twist on convention is enough to pique our interest, but not to sustain it: Allen ultimately feels like a facsimile of countless other films, beholden to, rather than liberated from, formula. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/allen-film-review-netflix-trailer",
-      "image": "https://i.guim.co.uk/img/media/47daaa3d17cd944434fc378d8fa0f4a6f77204a2/785_0_1875_1500/master/1875.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=0e764886ddd2324e9d012281b09fa5af",
-      "publishedAt": "2026-11-12T07:00:12.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
