@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:30:52.261Z",
+  "generatedAt": "2026-11-13T18:27:00.122Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,16 +16,64 @@
   },
   "articles": [
     {
-      "id": "guardian-YW5ub3VuY2VkLTAwNw",
-      "title": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
-      "description": "As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it And then there were five. While nothing has been officially announced, it is widely understood that the shortlist to replace Daniel Craig as James Bond is now down to a handful of actors: Callum Turner, Jack Lowden, Josh O’Connor, Robert Pattinson and Nicholas Hoult. The hunt for a new Bond comes at a propitious moment for the franchise as a whole, 25 films in (not counting the two “unofficial” entries, Casino Royale in 1967 and Never Say Never Again in 1983). After Daniel Craig stood down from the role after completing No Time to Die (in which Bond appeared to be killed in a missile strike), Amazon MGM Studios paid over $1bn to acquire “creative control” from Barbara Broccoli and Michael G Wilson, the British-American heirs to the series’ original producer Albert “Cubby” Broccoli and longtime stewards of the Bond films. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007",
-      "image": "https://i.guim.co.uk/img/media/3b6fefef892541b4cbaa946c4cf1385b74aa8110/807_313_1562_1251/master/1562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=662b9024800300b53ad13933f1e45ce4",
-      "publishedAt": "2026-11-13T11:31:21.000Z",
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Man dies after being seriously injured at Edinburgh film studio",
+      "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f46/live/9a3c9120-df59-11f1-9172-871e44a840d8.png",
+      "publishedAt": "2026-11-13T15:36:41.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xtLTEyMzUyMjQyMTMv",
+      "title": "David O. Russell’s ‘Madden’ Biopic Is Out Next Week — Does Anybody Know or Care?",
+      "description": "Amazon MGM Studios' release strategy for the five-time Oscar nominee's forthcoming \"Madden,\" starring Nicolas Cage in a fat suit and hairpiece, suggests a classic case of bag-and-tag.",
+      "url": "https://www.indiewire.com/features/commentary/david-o-russell-madden-biopic-amazon-burying-nicolas-cage-film-1235224213/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Nicolas-Cage-John-Madden-and-Christian-Bale-Al-Davis-in-MADDEN-Photo-Credit-Chuck-Zlotnick-_-Prime-Amazon-Content-Services-LLC.jpg?w=650",
+      "publishedAt": "2026-11-13T15:05:16.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIyNzM1MC8",
+      "title": "In Shana Feste’s Films, Gender-Flipping Cinema’s ‘Tradition of Celebrating Damaged Men’ Is Its Own Reward",
+      "description": "Her Jessica Chastain-starring Netflix drama \"Heartland\" is the latest entry in Feste's distinct canon. It's a space where, she tells IndieWire, women aren't \"unlikable,\" they're just more nuanced, more complicated, and way more able to get shit done.",
+      "url": "https://www.indiewire.com/features/interviews/heartland-shana-feste-jessica-chastain-netflix-movie-1235227350/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TR_20251022_02917_R.jpg?w=650",
+      "publishedAt": "2026-11-13T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-ZS0xMjM1MjI3Mjg0Lw",
+      "title": "’12 12 12&#8242; Review: Anthony Mackie and Jamie Dornan’s Ticking-Clock Heist Thriller Runs on Broken Time",
+      "description": "An FBI agent out for revenge. A thief planning one last score. You know the story, but in Dudi Appleton and Jim Keeble's convoluted Apple series, you can watch it unfold across three non-chronological timelines.",
+      "url": "https://www.indiewire.com/criticism/shows/12-12-12-review-apple-tv-series-heist-anthony-mackie-1235227284/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/12-12-12-Anthony-Mackie-series-on-Apple-TV.jpg?w=650",
+      "publishedAt": "2026-11-13T14:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-bmQtY29udGVuZGVycw",
+      "title": "Robert Pattinson reportedly leads James Bond contenders",
+      "description": "Reports that the star – the most high-profile of the final five contenders – has been offered favourable contract terms hint that Amazon MGM may want him as its first 007 Robert Pattinson has emerged as the favourite in the race to succeed Daniel Craig as James Bond, according to a credible film-industry source. Writing in Puck , Matthew Belloni suggests that the favourable contract terms he says have been offered to Pattinson suggest that the actor, currently in cinemas with reality-crime thriller Primetime , is studio Amazon MGM’s preferred choice for the role. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
+      "image": "https://i.guim.co.uk/img/media/5d9df4d9855cba3883b954df19e7f67df283ede1/39_222_5628_4502/master/5628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5610b5cf312fa55be91e4fbc2df4ea9c",
+      "publishedAt": "2026-11-13T13:40:35.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "TV"
+      "category": "Movies"
     },
     {
       "id": "guardian-XN0YWluLW5ldGZsaXg",
@@ -196,18 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-cC0xMjM1MjI3MDE0Lw",
-      "title": "‘Ebenezer’ Review: Johnny Depp Is Absolutely Insufferable in a Dull and Dreary Christmas Carol",
-      "description": "Ti West's horror-inflected take on Dickens' classic has a few nice flourishes, but Depp's muggy performance torpedoes the whole thing from the start.",
-      "url": "https://www.indiewire.com/criticism/movies/ebenezer-movie-review-johnny-depp-1235227014/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/EbenezerScrooge.jpg?w=650",
-      "publishedAt": "2026-11-12T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-dhcmEtam92YW5vdmlj",
       "title": "‘Goats are good. They listen’: the herder who defeated Montenegro’s military – and can identify her cows’ herby burps",
       "description": "To Hold a Mountain tells the incredible story of a woman whose way of life was threatened when she heard her pastures were set to become a Nato training zone The star of To Hold a Mountain is having trouble with her goats, which keep escaping. So my interview with Mileva “Gara” Jovanović is rescheduled to a moment where the animals are under control and Gara can descend from the peaks to her small winter residence in a small village near the capital of Podgorica, for a video call. “You have to take care of them because they are always searching for their paths,” says Gara, whose Montenegrin is translated into English by Biljana Tutorov, the joint writer-director of the stunning film about Gara’s life in the mountains of Sinjajevina. “But the goats are good, especially when they know the shepherdess. I’m a good shepherdess. They listen to me.” Continue reading...",
@@ -217,18 +253,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9wLTEyMzUyMjI5MTgv",
-      "title": "After ‘Whalefall’ Flops, Can Imagine Entertainment Return to Box Office Glory with ‘How to Rob a Bank’?",
-      "description": "The production banner founded by Ron Howard and Brian Grazer is trying to make the kind of big screen hit that first solidified it as a major Hollywood player.",
-      "url": "https://www.indiewire.com/features/general/how-to-rob-a-bank-imagine-entertainment-box-office-whalefall-flop-1235222918/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2027/10/ImagineEntertainmentSplit.jpg?w=650",
-      "publishedAt": "2026-11-12T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -244,18 +268,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Bond producer first female president of film school",
-      "description": "Barbara Broccoli is succeeding David Puttnam in the role in February.",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gngnk09do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8d88/live/edb4f5e0-3afa-11f0-9a86-f7906cd4e14e.jpg",
-      "publishedAt": "2026-11-12T12:54:06.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-ctbWFpa2EtbW9ucm9l",
       "title": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
       "description": "The It Follows and Longlegs star tears into the role of a murderous governess in this hit-and-miss adaptation of Virginia Feito’s gory novel It’s not that hard to figure out why a lower-class woman toiling away in Victorian England would be so easily driven to violently murder everyone around her. If it’s not the brittle entitlement of those who employ you, it’s the unending misogyny of the system you’re forced to be a subservient part of, all the while being underpaid and undervalued and at the mercy of sexual violence, a multitude of diseases and an average lifespan of just 42. As Winifred Notty (Maika Monroe) fills the frame in Victorian Psycho, heading to a new job as governess for a rich family, it’s easy to be on her side. Even as her murderous impulses start to rear their head, they’re made somewhat understandable, although Winifred isn’t just a woman reacting to the various injustices of the time – she’s one responding to a demon within her, a darkness she has chosen to embrace rather than resist. Darkness is her friend, a protection against harm, and a way to possess some sort of control in a world that has denied her any of it. Continue reading...",
@@ -268,15 +280,15 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-bC0xMjM1MjI2NTA0Lw",
-      "title": "Sandra Wollner’s ‘Everytime’ Is a Stunning Film About Grief Like You’ve Never Seen Before",
-      "description": "The German filmmaker's portrait of life after tragedy is filled with the unexpected. She tells IndieWire about video game cut scenes, the power of banal memories, the scene that makes everyone gasp, and what it all means. Sort of.",
-      "url": "https://www.indiewire.com/awards/consider-this/sandra-wollner-everytime-grief-video-games-fall-1235226504/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ccElsaOkazaki_EVERYTIME_240801_makingof_DSCF8407-1_Berlin.jpg?w=650",
-      "publishedAt": "2026-11-11T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
+      "id": "guardian-GluZy1ob2xseXdvb2Q",
+      "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
+      "description": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking for something a little lighter, and surely nothing can be more jolly, more wholesome than a Christmas romcom. In Christmas & Chaos, Kirk plays Sadie, a pop star in search of a hit – or, to be more precise, three hits for a new musical by an impresario (a comedic Jason Isaacs who only appears on screen via video call). She has just a couple of weeks to come up with something with handsome-and-heartbroken composer (Ben McGregor). Kirk, who also produced the film, approached Jamie Adams, director of several low-budget British films, including Black Mountain Poets, intrigued by his regular use of improvisation. They worked out the story together, says Kirk, but made it without a script. All they knew was that “this was a Christmas movie, these two have got a deadline to make these hit songs and maybe there’ll be some kind of romance. And then it became something else, which is even more interesting.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
+      "image": "https://i.guim.co.uk/img/media/19f0d1b8e6552a91c82f21629502f329e20afe22/0_128_2559_2046/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fb74cbfdadc10d96be16556fef0fd93",
+      "publishedAt": "2026-11-12T06:00:11.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -458,18 +470,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-ZhbWlseS1mcmVlZG9t",
-      "title": "‘Mom encouraged me to get breast implants’: Disney child star Christy Carlson Romano on fame, family and freedom",
-      "description": "She started acting at six and by 16 was starring in Even Stevens with Shia LaBeouf. Then her career fell apart. Here, she explains how she survived growing up in the spotlight In a class at college, Christy Carlson Romano was encouraged to think about her “community”. Who were their people, the tutor asked the class, and where did they belong? The answer that popped into Carlson Romano’s head was child actors, but not the ones that went on to have successful grown-up careers. “The ones who were once the shining stars,” she writes in her memoir, “and who are now just trying to find out their places in the world.” Carlson Romano had returned to college after initially dropping out. She had survived sexual assault and toxic relationships, was broke and drinking too much. But before all that, she had been a teenage Disney star. She had made it. The title of her memoir, Once Upon a Trainwreck, gives you a flavour of where Carlson Romano, 42, is coming from, but what’s most striking isn’t that she goes off the rails (she doesn’t, hugely, compared to other former child stars), but how sensible and mature she is as a child. It’s alarming. When fans recognise her now – she was in the popular Disney series Even Stevens which started in 2000 – they tell her she was a huge part of their childhoods. She had been acting the part of a normal suburban girl, the perfectionist Ren Stevens, while having no idea what that was like. She was already a mini adult. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/disney-child-star-christy-carlson-romano-fame-family-freedom",
-      "image": "https://i.guim.co.uk/img/media/f10988a40ba5ac5d4b59f5d1131c36308e0adcdd/0_24_4672_3738/master/4672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a851eb30c04987583a75028de3a0e3d6",
-      "publishedAt": "2026-11-06T10:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-Hl3b29kLXRyaXVtcGg",
