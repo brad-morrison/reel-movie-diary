@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:27:00.122Z",
+  "generatedAt": "2026-11-14T00:41:13.896Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,16 +16,100 @@
   },
   "articles": [
     {
+      "id": "indiewire-cy0xMjM1MjI3Mzc2Lw",
+      "title": "After ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
+      "description": "Stealing stories from your friends is part of the creative process, he said. \"There is not any law that creates the limits of the autofiction.\"",
+      "url": "https://www.indiewire.com/features/interviews/pedro-almodovar-interview-bitter-christmas-1235227376/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P101EC48.jpg?w=650",
+      "publishedAt": "2026-11-13T23:42:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Man dies after being seriously injured at Edinburgh film studio",
+      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
+      "description": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-13T22:17:14.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XctMTIzNTIyNzgwOS8",
+      "title": "Production Designer Ruth De Jong on How to Build (Ancient) Worlds for Auteurs",
+      "description": "Ruth De Jong tells IndieWire about the odyssey behind \"The Odyssey,\" as well as projects for David Lynch, Paul Thomas Anderson, and Terrence Malick.",
+      "url": "https://www.indiewire.com/features/craft/production-designer-ruth-de-jong-the-odyssey-interview-1235227809/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDODYS_UV014.jpg?w=650",
+      "publishedAt": "2026-11-13T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Dept Q crew member dies after being injured at Edinburgh film studio",
       "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
       "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f46/live/9a3c9120-df59-11f1-9172-871e44a840d8.png",
-      "publishedAt": "2026-11-13T15:36:41.000Z",
+      "publishedAt": "2026-11-13T21:23:46.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
+    },
+    {
+      "id": "indiewire-HMtMTIzNTIyNzc3OC8",
+      "title": "IndieWire Honors Film Celebration to Fête John Turturro, the ‘Artificial’ Cast, Los Javis, and More",
+      "description": "IndieWire Honors will celebrate the year in film with awards given to John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, James Gray, Adam Driver, Los Javis, and many more.",
+      "url": "https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IndieWire-Honors-Dec-2026.jpg?w=650",
+      "publishedAt": "2026-11-13T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-llLTEyMzUyMjc3Nzcv",
+      "title": "Margot Robbie Teaming with ‘The Drama’ Director Kristoffer Borgli for ‘The Week of Pain’ at A24",
+      "description": "The star has found her next vehicle after the coming \"Ocean's Eleven\" prequel from Bradley Cooper.",
+      "url": "https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Margotrobbie.jpg?w=650",
+      "publishedAt": "2026-11-13T19:43:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2UtMTIzNTIyNzM3OS8",
+      "title": "Will ‘Dune’ and ‘Avengers’ Drown Out Everything Else at the Box Office This Christmas?",
+      "description": "\"Werwulf,\" \"Mr. Irrelevant,\" \"Jumanji: Open World,\" \"Artificial,\" and \"The Angry Birds Movie 3\" are the other titles leading a crowded holiday.",
+      "url": "https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWERW_UC001.jpg?w=650",
+      "publishedAt": "2026-11-13T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI3NzI2Lw",
+      "title": "Russell Brand Was Sentenced for Rape and Sexual Assault on Monday. By Friday, Netflix Had a Sleazy Doc Ready to Go",
+      "description": "Olivia Isaacs' documentary on the (very) recently convicted and imprisoned rapist has been in the works for a while, but its fast-tracked release date seems designed to piggyback on the news, not offer any fresh insights.",
+      "url": "https://www.indiewire.com/features/commentary/netflix-russell-brand-documentary-insights-1235227726/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/russellbrandopensecretuniversal-base_na_03_zxx.jpg?w=650",
+      "publishedAt": "2026-11-13T18:32:10.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
     },
     {
       "id": "indiewire-xtLTEyMzUyMjQyMTMv",
@@ -112,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-      "description": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-13T00:54:04.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
       "id": "indiewire-ZS0xMjM1MjI3MzgxLw",
       "title": "Jensen Huang’s Biopic Feels Inevitable — The Right One Might Be Impossible",
       "description": "After \"The Social Reckoning\" stumbled at the box office and voter backlash over data centers dovetailed with awards buzz for \"Artificial,\" any film about the former Nvidia exec would have to keep pace with a tech industry that’s changing by the day.",
@@ -158,78 +230,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold: ‘Woman Unknown,’ May el-Toukhy’s Golden Lion Winner, Sells to Cohen Media Group",
-      "description": "Star Mathilde Arcel also won Best Actress out of Venice.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Woman-Unknown-photographer-Andrejs-Strokins-1024x576-1.jpg?w=650",
-      "publishedAt": "2026-11-12T18:47:42.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjI3MzM0Lw",
-      "title": "‘Avengers: Doomsday’ Has 10 Credited Writers, Including Hugh Jackman and Ryan Reynolds",
-      "description": "The film's official WGA credits all but confirm that Deadpool and Wolverine will appear in the blockbuster sequel.",
-      "url": "https://www.indiewire.com/news/general-news/hugh-jackman-ryan-reynolds-writing-credit-avengers-doomsday-1235227334/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/06/173759_0039.jpg?w=650",
-      "publishedAt": "2026-11-12T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjU0NDUv",
-      "title": "Saoirse Ronan Has Wanted to Direct Since She Was a Kid, and Her Exquisite First Short ‘Paper Plane’ Proves She’s Got the Goods",
-      "description": "In her first and only interview since winning Best Narrative Short at the Austin Film Festival (and earning Oscar-qualifying status for her directorial debut), Ronan tells IndieWire about the joyous (and occasionally scary) process of moving into what could be a brand-new career for her.",
-      "url": "https://www.indiewire.com/features/interviews/saoirse-ronan-directorial-debut-short-paper-plane-interview-1235225445/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300540275-1-e1793896779341.jpg?w=650",
-      "publishedAt": "2026-11-12T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMjczMzgv",
-      "title": "Brad Pitt to Star in ‘Connector’ from ‘Sound of Metal’ Director Darius Marder for Apple",
-      "description": "The '70s drama follows a NYC ironworker who becomes a working class legend.",
-      "url": "https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/07/2221709688.jpg?w=650",
-      "publishedAt": "2026-11-12T18:15:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-N0LTEyMzUyMjcxOTIv",
-      "title": "‘American Doctor’ and ‘You Can See Everything’ Lead 2027 Cinema Eye Honors Film Nominations",
-      "description": "Poh Si Teng’s “American Doctor” and Nathan Fielder and Lance Oppenheim’s “You Can See Everything” led the 20th annual Cinema Eye Honors with seven nominations each.",
-      "url": "https://www.indiewire.com/awards/results/2027-cinema-eye-honors-film-nominations-full-list-1235227192/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-02-01-AM-2629.jpg?w=650",
-      "publishedAt": "2026-11-12T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjczMDEv",
-      "title": "What Makes a Good Oscar Campaign? Just Ask Sony Classics’ Michael Barker and Tom Bernard",
-      "description": "The Sony Pictures Classics co-presidents join IndieWire's \"Screen Talk\" podcast this week to talk about their slate of films, the state of the business, and more.",
-      "url": "https://www.indiewire.com/features/podcast/sony-pictures-classics-michael-barker-tom-bernard-interview-1235227301/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P106DCCJ.jpg?w=650",
-      "publishedAt": "2026-11-12T17:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
     },
     {
       "id": "guardian-cm9vZ2UtZGlja2Vucw",
