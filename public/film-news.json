@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:41:13.896Z",
+  "generatedAt": "2026-11-14T06:31:52.193Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-1kZXBwLWViZW5lemVy",
+      "title": "this week’s UK cinema releases",
+      "description": "From Cynthia Erivo’s bravura barrister to Johnny Depp’s surprisingly good Scrooge, take a quick glance at this week’s new films *** Continue reading...",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer",
+      "image": "https://i.guim.co.uk/img/media/6592065df5d7754af2792be886bea25d6d521091/760_663_3366_2693/master/3366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0bc8de5611f81ed4f53e7dbb1a32423",
+      "publishedAt": "2026-11-14T05:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-cy0xMjM1MjI3Mzc2Lw",
       "title": "After ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
@@ -250,18 +262,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/12/to-hold-a-mountain-film-mileva-gara-jovanovic",
       "image": "https://i.guim.co.uk/img/media/4d3c6855b73200a5c030617c09edf2f1446d35b1/86_135_1152_922/master/1152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22cf1e3a2fbbbdcce667be75c280550d",
       "publishedAt": "2026-11-12T16:14:17.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-50YXJpZXMtcmFua2Vk",
-      "title": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
-      "description": "Ahead of the UK release of Nathan Fielder’s hotly anticipated Elizabeth Holmes film, we count down the most shocking and affecting true stories ever committed to cinema A 50-second dispatch from daily life blew the whistle on the approaching juggernaut of cinema and its unbeatable horsepower of verisimilitude. But if we must be strictly factual about the iconic Lumière brothers’ short, the anecdote about audience members fleeing their seats in fear of being crushed by the oncoming locomotive probably never happened . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
-      "image": "https://i.guim.co.uk/img/media/1e2d25e640821f45f785e7ee5b5793f97bc3f4ad/1340_0_1571_1257/master/1571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61ac694b2c76bd8d1853a857c120adfd",
-      "publishedAt": "2026-11-12T13:32:25.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
