@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:29:20.077Z",
+  "generatedAt": "2026-11-15T18:27:29.935Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-FuLTEyMzUyMjgwNzMv",
+      "title": "Box Office: ‘Club Kid’ Scores Best Limited Expansion of the Year as Younger Audiences Embrace Jordan Firstman’s Oscar Hopeful",
+      "description": "The Cannes breakout grossed $756,060 across 27 screens, bringing its domestic haul to nearly $1.5 million.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-club-kid-best-limited-expansion-of-2026-jordan-firstman-1235228073/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.06.54 PM.png?w=650",
+      "publishedAt": "2026-11-15T17:15:02.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-NrLTEyMzUyMjgwNjgv",
+      "title": "Box Office: ‘Ebenezer’ Opens to Modest $19 Million, Showing Johnny Depp Is Still a Draw for the Right Price",
+      "description": "The star emerged from his decade in the wilderness to post a respectable opening for his Christmas film.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/EbenezerScrooge.jpg?w=650",
+      "publishedAt": "2026-11-15T16:16:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-I2LTEyMzUyMjc3NjAv",
       "title": "‘Fatherland’ Wins Golden Frog at ToruńCAMERIMAGE 2026 — Full Winners List",
@@ -241,30 +265,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjI3MzgxLw",
-      "title": "Jensen Huang’s Biopic Feels Inevitable — The Right One Might Be Impossible",
-      "description": "After \"The Social Reckoning\" stumbled at the box office and voter backlash over data centers dovetailed with awards buzz for \"Artificial,\" any film about the former Nvidia exec would have to keep pace with a tech industry that’s changing by the day.",
-      "url": "https://www.indiewire.com/features/general/jensen-huang-biopic-inevitable-1235227381/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2.jpg?w=650",
-      "publishedAt": "2026-11-12T23:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTE5NDY4MC8",
-      "title": "Miles Teller Opens Up About ‘Paper Tiger,’ Adam Driver, and Losing His Home Before Filming James Gray’s Movie",
-      "description": "In James Gray's Cannes hit about two brothers falling out with the Russian mafia, Teller plays against type as a sensitive family man opposite Adam Driver and Scarlett Johansson.",
-      "url": "https://www.indiewire.com/features/interviews/miles-teller-interview-paper-tiger-1235194680/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/IMG_2852_395d53-e1779170145365.jpeg?w=650",
-      "publishedAt": "2026-11-12T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
