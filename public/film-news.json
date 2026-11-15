@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:28:40.497Z",
+  "generatedAt": "2026-11-15T00:45:55.563Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-I2LTEyMzUyMjc3NjAv",
+      "title": "‘Fatherland’ Wins Golden Frog at ToruńCAMERIMAGE 2026 — Full Winners List",
+      "description": "The Polish festival is all about cinematography, making its Golden Frog award a coveted honor for DPs.",
+      "url": "https://www.indiewire.com/news/festivals/toruncamerimage-golden-frog-winners-2026-1235227760/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.45.11 PM.png?w=650",
+      "publishedAt": "2026-11-14T18:51:30.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-ZGllcnMtdmlldG5hbQ",
       "title": "‘I relive that mission every single day of my life’: how Black soldiers handled the Vietnam war",
@@ -41,7 +53,7 @@
     },
     {
       "id": "indiewire-cy0xMjM1MjI3Mzc2Lw",
-      "title": "After ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
+      "title": "After Returning to Spanish with ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
       "description": "Stealing stories from your friends is part of the creative process, he said. \"There is not any law that creates the limits of the autofiction.\"",
       "url": "https://www.indiewire.com/features/interviews/pedro-almodovar-interview-bitter-christmas-1235227376/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P101EC48.jpg?w=650",
@@ -254,18 +266,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyNjQ5OS8",
-      "title": "‘The Good Daughter’ Review: Rose Byrne Sizzles in Peacock’s Brutal Trauma-Drama About Crime-Solving Sisters",
-      "description": "The clichés stack up nearly as fast as the clever cast can distinguish them in Karin Slaughter's six-episode adaptation of her own book, which follows long-separated sisters who reunite to defend a young woman from the predators lurking in their brutish, backwoods hometown.",
-      "url": "https://www.indiewire.com/criticism/shows/the-good-daughter-review-rose-byrne-peacock-series-1235226499/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Good-Daughter-Rose-Byrne-Meghann-Fahy-Peacock-series.jpg?w=650",
-      "publishedAt": "2026-11-12T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-cm9vZ2UtZGlja2Vucw",
