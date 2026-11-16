@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:39:33.720Z",
+  "generatedAt": "2026-11-16T18:29:48.220Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 5
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-mUtMTIzNTIyODMwNS8",
+      "title": "Why Casting Robert Pattinson as James Bond Is a High-Risk, High-Reward Gamble for Denis Villeneuve",
+      "description": "With the \"Batman\" franchise in flux, playing 007 gives Pattinson a new signature role. But his outsized fame represents a break from tradition.",
+      "url": "https://www.indiewire.com/news/analysis/robert-pattinson-james-bond-risky-casting-denis-villeneuve-1235228305/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png?w=650",
+      "publishedAt": "2026-11-16T16:51:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MjI4MzEwLw",
+      "title": "’14th’ Trailer: Ava DuVernay Unpacks the Necessity of Another Essential Constitutional Amendment",
+      "description": "A decade after the filmmaker tackled the 13th Amendment, she takes on another — and one arguably even more vital to true American democracy.",
+      "url": "https://www.indiewire.com/news/trailers/14th-trailer-ava-duvernay-netflix-1235228310/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/B0002289.jpg?w=650",
+      "publishedAt": "2026-11-16T16:42:55.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-16T15:46:45.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bi1jaG9pY2UtYm9uZA",
+      "title": "Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond | Peter Bradshaw",
+      "description": "Pattinson is a character actor whose talent for inscrutable appraisal may mean a new era for 007. Will this more willowy, classy Bond leave sexism in the shadows? • New James Bond announced ... and the name’s Pattinson, Robert Pattinson • Share your thoughts on the casting If it wasn’t Bond … maybe it would have been Dr No in some hi-tech reboot. But Robert Pattinson – with his movie-star chops and track record in hip A24-type character turns, and his gift for cool, inscrutable appraisal and sensual menace – is an exquisite choice as 007, playing on the darker and more sophisticated notes of Pattinson’s performing personality. And let’s hope, incidentally, that the actor now isn’t forced into a five-hour daily gym regimen to bulk up. I like the taller and more willowy Bond that Pattinson represents, the Bond from whose frame the tux hangs gracefully, the Bond with elegant abandon who’s a former British Naval officer, not a former US Navy Seal, the Bond who with a crinkly-eyed reptilian grin can style out waking up with a hangover after too many whisky-and-sodas at the baccarat table. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond",
+      "image": "https://i.guim.co.uk/img/media/fdbe68e252d8ff1f72989ac7e4235a2529bcdaf7/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c29c1c63795ebe2c85106d977dd8ed49",
+      "publishedAt": "2026-11-16T15:14:37.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIyMzIxMC8",
+      "title": "Robert Pattinson Is the Next James Bond: Denis Villeneuve Finds Star for His 007 Movie",
+      "description": "Villeneuve is directing the Amazon MGM Studios film from a script by Steven Knight, with Amy Pascal and David Heyman producing.",
+      "url": "https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Robert-Pattinson-credit-Jaap-Buitendijk-1.jpg?w=650",
+      "publishedAt": "2026-11-16T15:06:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mVydC1wYXR0aW5zb24",
+      "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
+      "description": "Daniel Craig’s successor in the franchise is confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007 • Share your thoughts on the casting • Peter Bradshaw: Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond Robert Pattinson has been announced as the successor to Daniel Craig, becoming the seventh actor to play the role in an official Bond movie. The news was revealed on the official James Bond social media accounts account on Monday. All earlier content was abruptly wiped from 007 on X and Instagram just before 3pm GMT and a repeating message typed out: “Identity confirmed.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
+      "image": "https://i.guim.co.uk/img/media/03f809f0dbaf4b49f8f048bcdadc0061d99eb31e/0_1072_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a29c79f2f84d825c622200b6f029716e",
+      "publishedAt": "2026-11-16T15:01:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XktMTIzNTIyNzI5OS8",
+      "title": "The Brits Are (Finally) Subverting the Cozy Crime Craze",
+      "description": "A trio of British imports are paving the way for a more engaging form of comfort TV.",
+      "url": "https://www.indiewire.com/features/commentary/brits-subverting-cozy-crime-bookish-ludwig-death-valley-1235227299/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Bookish-1.jpg?w=650",
+      "publishedAt": "2026-11-16T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-16T13:40:56.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-VsLW1hbnVlbC1nb2xm",
+      "title": "Filipiñana review – sexual exploitation at the golf club in menacing satire on class and privilege",
+      "description": "A sense of threat permeates a verdant private golf course in water-deprived Manila, peopled with submissive tee-girls and geisha-style caddies catering to the male clientele A spectacle filled with dreamlike tableaux, off-centre framing and slow trance-like zooms, Filipiñana is an elegant and politically pointed feature debut from the Filipino director and London Film School graduate Rafael Manuel, developed from his award-winning short film of the same name. It is a melancholy satire on caste shame, sexual politics and land exploitation in the Philippines, symbolised by a private golf course in Manila, an artificial landscape as depthless and surreal as the gardens in Last Year in Marienbad . Irrigating the vivid greens and undulating fairways requires oceans of precious water – water that, in the course of one unbearable heatwave, is rationed for the sweating lower orders in the city, way beyond the golf club’s luxurious precincts. Jorrybell Agoto plays the “Filipiñana” of the title, 17-year-old Isabel, the inscrutable witness to the club’s occult traditions and one of its legion of demurely submissive uniformed “tee-girls”, whose sole purpose is to position the balls for the wealthy (male) golfers about to tee off. (This is a task subject to much giggling innuendo in private among the girls themselves.) The tee-girls are not allowed to step on the course itself; that is the prerogative of the caddies, all women, each quaintly dressed in uniforms like that of an airline flight attendant, accessorised with a salakot -style peasant hat. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/filipinana-review-rafael-manuel-golf",
+      "image": "https://i.guim.co.uk/img/media/1b80aad0f21021d1e1376a759e941bbec5a04496/42_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=f8249e7c8e14e9eca6708a1148358772",
+      "publishedAt": "2026-11-16T13:00:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "The Scouse actor reaching new heights in Liverpool drama This City Is Ours",
@@ -26,6 +134,18 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
+    },
+    {
+      "id": "guardian-VsdC1jb252aWN0aW9u",
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "description": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and sincere apologies to those who suffered.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+      "image": "https://i.guim.co.uk/img/media/8645152ecf7185cd8b3f83c5e21adaaddb0697bc/480_355_3217_2574/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad3d380980f8f8911815e8a3f0e919bf",
+      "publishedAt": "2026-11-16T12:10:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -112,30 +232,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-S1sb3MtYm9yYWNob3M",
-      "title": "‘A songbook for protest movements’: how did this secret mission to smuggle antifascist music out of Spain ever get forgotten?",
-      "description": "In 1961, a group of Italian creatives crossed the border to collect anti-Franco resistance songs and share them with the world – sparking intense backlash from the dictator. A new documentary retraces that perilous journey In the summer of 1961, four Italians crossed the Pyrenees into fascist Spain. Unknown to the border guards, their car was loaded with microfilm, a tape recorder and, tucked in the pocket of a writer and musician named Sergio Liberovici, a book of matches – each split in half, etched with the addresses of Spanish antifascists in miniature and glued back together, a hairline fracture concealing secrets that, if discovered, could result in jail or worse. Along with Michele Luciano Straniero, Emilio Jona and Margherita Galante Garrone, Liberovici was a member of a leftwing collective named Cantacronache. Formed in 1958 and counting Italo Calvino and Umberto Eco among their collaborators, the collective was repulsed by the superficiality of Italian pop music and hoped to revitalise culture with Brechtian realism. At the time, Italy was fiercely divided into leftwing and rightwing political camps, and it was a record label, Italia Canta, linked to the Italian Communist party, that financed the trip. Its goal: to secretly document the resistance songs of the anti-Franco underground. It was a perilous task for all involved, but especially so for Cantacronache’s contacts. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/antifascist-music-spain-the-drunkmens-marseillaise-la-marsellesa-de-los-borachos",
-      "image": "https://i.guim.co.uk/img/media/7a1a6ea16390ca50812acf9789ab2f4e332add3a/697_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ed687501f928b07ef4217367e3e4496",
-      "publishedAt": "2026-11-16T06:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-aWdodGVzdC10b3VjaA",
-      "title": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
-      "description": "She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend. As new film The Slightest Touch tells the full story of that emotional day, its stars talk about their lifelong bond – and why he opened up about parenthood Last month, HBO sent a private jet to Dublin to fly the star of a new documentary to London for the premiere. Colin Farrell appears in the film. But the private jet was not for him. The VIP passenger was Emma Fogarty, who has a rare, incurable genetic skin condition, epidermolysis bullosa or EB. Taking a commercial flight would have been physically impossible for her. As a publicist working on the film whispered to me, it was the one time you can emit all that carbon with a clean conscience. Fogarty was born 42 years ago. When she was diagnosed with EB, her parents were told she was unlikely to survive a week – which was probably for the best, said the doctor. With EB, the proteins that hold the layers of skin together are missing or faulty, leaving it as fragile as a butterfly’s wings. The slightest knock or bang can cause the skin to tear or blister; 80% of Fogarty’s body is without skin, and is wrapped in bandages to protect the wounds. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch",
-      "image": "https://i.guim.co.uk/img/media/596f1380796ca4fa0a799cde4e6d345f2cedc137/632_220_1632_1306/master/1632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd08ddd02851b40c98e9f78c74ef1937",
-      "publishedAt": "2026-11-16T05:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "indiewire-FuLTEyMzUyMjgwNzMv",
       "title": "Box Office: ‘Club Kid’ Scores Best Limited Expansion of the Year as Younger Audiences Embrace Jordan Firstman’s Oscar Hopeful",
       "description": "The Cannes breakout grossed $756,060 across 27 screens, bringing its domestic haul to nearly $1.5 million.",
@@ -169,18 +265,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-ZGllcnMtdmlldG5hbQ",
-      "title": "‘I relive that mission every single day of my life’: how Black soldiers handled the Vietnam war",
-      "description": "In ambitious documentary Soul Patrol, the complicated experiences of the Vietnam war’s first Black special ops team are explored both on and off the battleground Ask the average American to name an elite US fighting force, and they might kick off with the Rangers or the Seals. But during the Vietnam war, a specialized patrol of army volunteers became critical to the US military effort. Known as long-range reconnaissance patrols, or LRRPs, these small teams of six to eight soldiers were dropped behind enemy lines to track supply routes and hostile positions, sometimes for days at a time. Stealth was essential. Their job was to identify targets and call in the cavalry, usually in the form of airstrikes, while avoiding direct engagement with enemy forces to preserve their cover. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/14/soul-patrol-documentary-black-soldiers-vietnam",
-      "image": "https://i.guim.co.uk/img/media/533d9e9ab4e154ef42ea2864be48d5973a4e7420/160_39_1619_1295/master/1619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dafef8fe19bd8ec46f4c79c3531ae960",
-      "publishedAt": "2026-11-14T10:00:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -230,54 +314,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIyNzM3OS8",
-      "title": "Will ‘Dune’ and ‘Avengers’ Drown Out Everything Else at the Box Office This Christmas?",
-      "description": "\"Werwulf,\" \"Mr. Irrelevant,\" \"Jumanji: Open World,\" \"Artificial,\" and \"The Angry Birds Movie 3\" are the other titles leading a crowded holiday.",
-      "url": "https://www.indiewire.com/news/box-office/will-dune-avengers-drown-out-xmas-box-office-1235227379/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWERW_UC001.jpg?w=650",
-      "publishedAt": "2026-11-13T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI3NzI2Lw",
-      "title": "Russell Brand Was Sentenced for Rape and Sexual Assault on Monday. By Friday, Netflix Had a Sleazy Doc Ready to Go",
-      "description": "Olivia Isaacs' documentary on the (very) recently convicted and imprisoned rapist has been in the works for a while, but its fast-tracked release date seems designed to piggyback on the news, not offer any fresh insights.",
-      "url": "https://www.indiewire.com/features/commentary/netflix-russell-brand-documentary-insights-1235227726/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/russellbrandopensecretuniversal-base_na_03_zxx.jpg?w=650",
-      "publishedAt": "2026-11-13T18:32:10.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-xtLTEyMzUyMjQyMTMv",
-      "title": "David O. Russell’s ‘Madden’ Biopic Is Out Next Week — Does Anybody Know or Care?",
-      "description": "Amazon MGM Studios' release strategy for the five-time Oscar nominee's forthcoming \"Madden,\" starring Nicolas Cage in a fat suit and hairpiece, suggests a classic case of bag-and-tag.",
-      "url": "https://www.indiewire.com/features/commentary/david-o-russell-madden-biopic-amazon-burying-nicolas-cage-film-1235224213/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Nicolas-Cage-John-Madden-and-Christian-Bale-Al-Davis-in-MADDEN-Photo-Credit-Chuck-Zlotnick-_-Prime-Amazon-Content-Services-LLC.jpg?w=650",
-      "publishedAt": "2026-11-13T15:05:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIyNzM1MC8",
-      "title": "In Shana Feste’s Films, Gender-Flipping Cinema’s ‘Tradition of Celebrating Damaged Men’ Is Its Own Reward",
-      "description": "Her Jessica Chastain-starring Netflix drama \"Heartland\" is the latest entry in Feste's distinct canon. It's a space where, she tells IndieWire, women aren't \"unlikable,\" they're just more nuanced, more complicated, and way more able to get shit done.",
-      "url": "https://www.indiewire.com/features/interviews/heartland-shana-feste-jessica-chastain-netflix-movie-1235227350/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TR_20251022_02917_R.jpg?w=650",
-      "publishedAt": "2026-11-13T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-bmQtY29udGVuZGVycw",
@@ -358,18 +394,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
       "image": "https://i.guim.co.uk/img/media/19f0d1b8e6552a91c82f21629502f329e20afe22/0_128_2559_2046/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fb74cbfdadc10d96be16556fef0fd93",
       "publishedAt": "2026-11-12T06:00:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-bGwtYWN0b3ItZGllcw",
-      "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
-      "description": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers , has died at the age of 91. Hall died on Tuesday, her family confirmed alongside a statement that described her as “a beloved actress, author, poet, educator and public speaker whose contributions touched countless lives throughout her remarkable career”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
-      "image": "https://i.guim.co.uk/img/media/15b03fc1613e6f2a8ee018097989f1fe3348e027/200_0_2299_1840/master/2299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1384d477ff72acf773a71735b854d1a",
-      "publishedAt": "2026-11-11T19:47:16.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
