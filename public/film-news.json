@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T18:27:29.935Z",
+  "generatedAt": "2026-11-16T06:51:55.878Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 28
+      "articles": 29
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-cm1hbi1za3lkYW5jZQ",
+      "title": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
+      "description": "The adventurous weirdness of the Gunn/Safran era that fans responded to is now history. Can the DCU ever get back on track? What was Warner Bros’ plan in 2022 , when the studio decided to reboot its superhero output, jettison the increasingly muddled DC Extended Universe (DCEU) and replace it with a sparkling new DC Universe (DCU)? In part it was to wipe the slate clean after years of false starts, abandoned storylines and tonal lurches. There was a little bit of Marvel envy to proceedings, and quite possibly a desire to avoid having to ever again discuss Batman v Superman: Dawn of Justice’s numerous failings . But mostly it was to take advantage of hiring of a man whom nobody could accuse of being short of ideas on how to make comic book movies. To a greater or lesser extent, the plan was James Gunn. Fast forward four years, and that plan lies in tatters. Gunn and his fellow DC Studios CEO Peter Safran have this week been fired (though they will reportedly stay on as film-makers), and Jeremy Latcham, another former Marvel man, is the new boss. What is the plan now? Nobody seems to know, and there is not much point asking David Ellison, the man whose Skydance empire has now gobbled up two of the former big five Hollywood studios (Paramount last year and Warner last month). That would be like asking for directions from a man who has just set fire to the map. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/james-gunn-fired-dc-studios-peter-safran-superman-skydance",
+      "image": "https://i.guim.co.uk/img/media/7f5751f059b0ae4dacc7f62de06673f7226f6075/270_0_2650_2120/master/2650.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e202db4816fe8e2468ee350d940d51e0",
+      "publishedAt": "2026-11-16T06:30:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Harry Potter films at 25: Behind-the-scenes quiz",
+      "description": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
+      "url": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc14/live/dd1820f0-df80-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-16T06:11:10.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-S1sb3MtYm9yYWNob3M",
+      "title": "‘A songbook for protest movements’: how did this secret mission to smuggle antifascist music out of Spain ever get forgotten?",
+      "description": "In 1961, a group of Italian creatives crossed the border to collect anti-Franco resistance songs and share them with the world – sparking intense backlash from the dictator. A new documentary retraces that perilous journey In the summer of 1961, four Italians crossed the Pyrenees into fascist Spain. Unknown to the border guards, their car was loaded with microfilm, a tape recorder and, tucked in the pocket of a writer and musician named Sergio Liberovici, a book of matches – each split in half, etched with the addresses of Spanish antifascists in miniature and glued back together, a hairline fracture concealing secrets that, if discovered, could result in jail or worse. Along with Michele Luciano Straniero, Emilio Jona and Margherita Galante Garrone, Liberovici was a member of a leftwing collective named Cantacronache. Formed in 1958 and counting Italo Calvino and Umberto Eco among their collaborators, the collective was repulsed by the superficiality of Italian pop music and hoped to revitalise culture with Brechtian realism. At the time, Italy was fiercely divided into leftwing and rightwing political camps, and it was a record label, Italia Canta, linked to the Italian Communist party, that financed the trip. Its goal: to secretly document the resistance songs of the anti-Franco underground. It was a perilous task for all involved, but especially so for Cantacronache’s contacts. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/antifascist-music-spain-the-drunkmens-marseillaise-la-marsellesa-de-los-borachos",
+      "image": "https://i.guim.co.uk/img/media/7a1a6ea16390ca50812acf9789ab2f4e332add3a/697_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ed687501f928b07ef4217367e3e4496",
+      "publishedAt": "2026-11-16T06:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-aWdodGVzdC10b3VjaA",
+      "title": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+      "description": "She has a rare debilitating skin condition but still tackled a marathon, helped by her old friend. As new film The Slightest Touch tells the full story of that emotional day, its stars talk about their lifelong bond – and why he opened up about parenthood Last month, HBO sent a private jet to Dublin to fly the star of a new documentary to London for the premiere. Colin Farrell appears in the film. But the private jet was not for him. The VIP passenger was Emma Fogarty, who has a rare, incurable genetic skin condition, epidermolysis bullosa or EB. Taking a commercial flight would have been physically impossible for her. As a publicist working on the film whispered to me, it was the one time you can emit all that carbon with a clean conscience. Fogarty was born 42 years ago. When she was diagnosed with EB, her parents were told she was unlikely to survive a week – which was probably for the best, said the doctor. With EB, the proteins that hold the layers of skin together are missing or faulty, leaving it as fragile as a butterfly’s wings. The slightest knock or bang can cause the skin to tear or blister; 80% of Fogarty’s body is without skin, and is wrapped in bandages to protect the wounds. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch",
+      "image": "https://i.guim.co.uk/img/media/596f1380796ca4fa0a799cde4e6d345f2cedc137/632_220_1632_1306/master/1632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd08ddd02851b40c98e9f78c74ef1937",
+      "publishedAt": "2026-11-16T05:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-FuLTEyMzUyMjgwNzMv",
       "title": "Box Office: ‘Club Kid’ Scores Best Limited Expansion of the Year as Younger Audiences Embrace Jordan Firstman’s Oscar Hopeful",
@@ -109,18 +157,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Dept Q crew member dies after being injured at Edinburgh film studio",
-      "description": "Emergency crews were called to reports of an incident at FirstStage in Leith.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7g5l4z9zeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/0f46/live/9a3c9120-df59-11f1-9172-871e44a840d8.png",
-      "publishedAt": "2026-11-13T21:23:46.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -232,18 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-XN0YWluLW5ldGZsaXg",
-      "title": "Heartland review – Jessica Chastain’s Netflix country music thriller is more miss than hit",
-      "description": "The Oscar winner plays a singer turned detective searching for her niece in an overly generic Nashville-based mystery that fails to find its footing Given the popularity of its music and the streaming services’ interest in faith-based programming, I’m always a little surprised that there aren’t more movies and TV shows about Nashville. Well, at least the idea of Nashville, the country music mecca that is perpetually struggling to define itself within and against the country at large, a place that has always been more diverse than its reputation yet still stands for a certain image of white, Christian Americana. There are plenty of enduring contradictions to mine there – the hyper-masculine men singing with their hearts on their sleeve, the Madonna-badass complex among its relatively few female stars, the suburban money in a genre ostensibly speaking to the rural common man. Netflix seems to be aiming for some of those complexities with Heartland, a patchy neo-noir thriller starring Jessica Chastain as a washed-up former star turned vigilante detective with an axe to grind on Music Row. Chastain’s Misty Jones is certainly a thorny Nashville archetype, a female lead we might call “unlikable” painted in the stark terms of a bad country song (said with love as someone raised on country radio). The first five minutes of the nearly two-hour feature from Shana Feste, the writer-director perhaps best known for the 2010 movie Country Strong that launched Gwyneth Paltrow’s brief singing career , churn through the greatest hits of on-screen female fuck-up: teary loneliness, near-wordless pick-up of a stranger from the bar, beer bottle on the nightstand, joint in the bathroom, haunting echoes of erstwhile better days (in this case, a Grammy in an empty fridge, which does feel inspired in its bluntness). Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/heartland-review-jessica-chastain-netflix",
-      "image": "https://i.guim.co.uk/img/media/caf1eab024b3341cf78781448428f46d86ddeebd/1303_513_5275_4220/master/5275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a0877d3132db6f8caf45d414b864aebb",
-      "publishedAt": "2026-11-13T08:01:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-3JlLW9zY2FyLWJ1eno",
       "title": "‘Women are pitted against each other. It’s a bloodsport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
       "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To which Beckett replied: “Inwards.” Hearing this story, another Billie – the teen pop star turned Doctor Who companion and Olivier award-winning powerhouse Billie Piper – lets out a laugh so raucous and expansive, it is as if a flock of gaily coloured birds has been released into the room, flapping and squawking in every corner. “Fuck, that’s awesome,” she says. Continue reading...",
@@ -254,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-JseS01bS1hdWN0aW9u",
-      "title": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
-      "description": "Used in the famous ‘I am your father’ scene, the on-screen prop was originally expected to sell for a fraction of the price Auctioneers estimated it would sell for over $1m, but on Thursday a Star Wars lightsaber used by Darth Vader in the famous “I am your father” scene from The Empire Strikes Back ended up selling for nearly $5m. Darth Vader’s saber was one of 27 lightsaber props up for sale by Heritage Auctions in the US, including ones used by Ewan McGregor’s Obi-Wan Kenobi and Hayden Christensen’s Anakin Skywalker in Revenge of the Sith. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction",
-      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/233_0_2483_1986/master/2483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bff72ea6cc119fd314659b94fdac80c4",
-      "publishedAt": "2026-11-13T04:41:51.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-cm9vZ2UtZGlja2Vucw",
