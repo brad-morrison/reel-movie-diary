@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:51:55.878Z",
+  "generatedAt": "2026-11-16T12:39:33.720Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "The Scouse actor reaching new heights in Liverpool drama This City Is Ours",
+      "description": "Adam Abbou says more needs to be done to improve working-class representation in TV.",
+      "url": "https://www.bbc.co.uk/news/articles/cm15e3xg9njeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e69/live/144f8410-df71-11f1-8112-6b9154c79b48.jpg",
+      "publishedAt": "2026-11-16T12:12:39.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Tourette's film I Swear wins three Scottish Baftas",
+      "description": "The film about Tourette syndrome campaigner John Davidson won Best Film, Best Director and Best Actor.",
+      "url": "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/74c2/live/cb325680-e1b5-11f1-9a3f-99aca912798e.png",
+      "publishedAt": "2026-11-16T12:04:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nMtMTIzNTIyODEzOS8",
+      "title": "Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films",
+      "description": "Floyd Norman, Ridley Scott, Christine Vachon, and Pamela Koffler also collected Honorary Oscars at the Academy's untelevised annual event that always draws a starry set of Oscar contenders.",
+      "url": "https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-16-at-6.39.50-AM.png?w=650",
+      "publishedAt": "2026-11-16T11:36:33.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-V0ZXItc3R5bGlhbm91",
+      "title": "The Nice Ones review – invasion of the sunny personality snatchers",
+      "description": "Peter Stylianou’s watchably unsettling tale of unbalanced minds and Unidentified Aerial Phenomena does its best to please Drone shots are two-a-penny in cinema these days, but it’s a mark of this £80,000 British indie sci-fi’s visual astuteness that it largely avoids them in a film plagued by drone-like entities. Instead, it takes a suggestive approach: protagonist Kate (Joelle Rae) is staring out of the window on a car journey, up into the night sky, when a pinprick of light flares out before shooting out a laser towards the ground – then darting off into a cloudbank. Kate chews over this anomaly with boyfriend Dale (Emrhys Cooper), en route to a get-together of his old uni gang in a countryside Airbnb. Already not at ease among his mates, Kate gets a ribbing when she repeats her UFO story (or Unidentified Aerial Phenomena, as they are called these days). And there are knowing glances about her psychiatric history: she once fended off an abusive boyfriend at knifepoint, insisting he was possessed. But if she is delusional, then it seems to be spreading: her one ally, spacey teacher Shelly (Ayvianna Snow), re-enters the room after a suspiciously long fag break, marvelling about how they will all imminently join “the light”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/the-nice-ones-review-peter-stylianou",
+      "image": "https://i.guim.co.uk/img/media/fce5c0985964a440ef281412e24d9600286edc8a/422_140_998_798/master/998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c2df13dacdeed6af58bff46badb718bd",
+      "publishedAt": "2026-11-16T10:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZWVsZ29vZC1tb3ZpZQ",
+      "title": "‘Partly the movie’s fault I’m a writer at all’: why Wonder Boys is my feelgood movie",
+      "description": "The latest in our series of writers picking their most comforting rewatches is a tribute to Curtis Hanson’s insightful 2000 comedy drama I’m allergic to movies and books about writers. Washed-up novelists, aspiring screenwriters, creative writing professors in the throes of a midlife crisis who cheat on their wives – take your pick. Chalk it up to my being a writer who for two decades wrote continually and fruitlessly about writers. And yet, I love Wonder Boys, Curtis Hanson’s 2000 comedy drama about a rumpled creative writing professor who can’t seem to finish his second novel and is having an affair with his boss’s wife. It’s partly the movie’s fault I’m a writer at all. I saw Wonder Boys on its opening weekend, when I was 17, and the notion of poring over novels with kindred spirits in a sun-dappled seminar room at some leafy liberal arts college – where I’d find myself a year later – held endless appeal. Even the misadventures of the film’s professor, Grady Tripp (Michael Douglas, never better), seemed romantic to me. On the eve of his university’s annual literary festival, Grady’s wife leaves him. His lover, Sara, announces she’s pregnant with his child. And James Leer, his brilliant but troubled student, who can rattle off Hollywood suicides in alphabetical order, shows up at the festival’s kick-off party cradling what may or may not be a cap gun. Grady responds to all this with the urgency of a veteran pot smoker – which he is. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/wonder-boys-curtis-hanson-feelgood-movie",
+      "image": "https://i.guim.co.uk/img/media/a270362bac9b7b2e8ed906227be1edbd39616db1/0_0_1725_1381/master/1725.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7d3ac02600d7af9190a8d0edce9dd3b",
+      "publishedAt": "2026-11-16T10:00:02.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-ZWxhLXNjaGFuZWxlYw",
+      "title": "Accidents, emotional affairs and impromptu Leonard Cohen dancing - My Wife Cries review",
+      "description": "Angela Schanelec’s famously uncompromising work takes on a new warmth in this sometimes playful study of everyday emotional turmoil The elliptical cinema of German film-maker Angela Schanelec is often described as uncompromising. This latest work, however, radiates a striking warmth. We see a marriage tearing at the seams, but this untethering is devoid of the usual dramatic flourishes. On an ordinary day like any another, construction worker Thomas (Vladimir Vulevic) notices a missed call from his wife, Carla (Agathe Bonitzer); when he phones back, she doesn’t pick up. The event holds little significance for the mild-mannered man; he carries on his usual chitchat with his co-workers, mundane catchups that unfold over static, tableaux-like shots. This deceptive calm is ruptured, however, when Thomas finds Carla sobbing helplessly on a park bench. A seismic change has taken hold within her: she will later confide in him of an emotional affair, and a tragic accident that leaves her emotionally unmoored. These revelations surface not through screaming matches, but by way of protracted conversations that resemble monologues rather than actual dialogue. Similar sequences recur as we are introduced to the rest of the couple’s social orbit, each of whom are wrestling with their own internal changes. There’s an enigmatic blend of theatricality and cinematic wizardry here; these wordy contemplations often occur when characters are on the move, walking, cycling or simply wandering about. There’s a subtle physicality and tactility to their inner struggles. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/my-wife-cries-review-angela-schanelec",
+      "image": "https://i.guim.co.uk/img/media/01a8f29721093550bb0e5a3010b5150dc735a55c/86_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d38418e298408ed8185586a95efe5dd4",
+      "publishedAt": "2026-11-16T07:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-cm1hbi1za3lkYW5jZQ",
       "title": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
@@ -112,18 +184,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1kZXBwLWViZW5lemVy",
-      "title": "Our critics’ verdicts on this week’s UK cinema releases",
-      "description": "From Cynthia Erivo’s bravura barrister to Johnny Depp’s surprisingly good Scrooge, take a quick glance at this week’s new films *** Continue reading...",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer",
-      "image": "https://i.guim.co.uk/img/media/6592065df5d7754af2792be886bea25d6d521091/760_663_3366_2693/master/3366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0bc8de5611f81ed4f53e7dbb1a32423",
-      "publishedAt": "2026-11-14T05:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-cy0xMjM1MjI3Mzc2Lw",
       "title": "After Returning to Spanish with ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
       "description": "Stealing stories from your friends is part of the creative process, he said. \"There is not any law that creates the limits of the autofiction.\"",
@@ -134,18 +194,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-      "description": "The TV star fell victim to a practical joke from the Hollywood stars of the Dune franchise.",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-13T22:17:14.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "indiewire-XctMTIzNTIyNzgwOS8",
@@ -232,18 +280,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-ZS0xMjM1MjI3Mjg0Lw",
-      "title": "’12 12 12&#8242; Review: Anthony Mackie and Jamie Dornan’s Ticking-Clock Heist Thriller Runs on Broken Time",
-      "description": "An FBI agent out for revenge. A thief planning one last score. You know the story, but in Dudi Appleton and Jim Keeble's convoluted Apple series, you can watch it unfold across three non-chronological timelines.",
-      "url": "https://www.indiewire.com/criticism/shows/12-12-12-review-apple-tv-series-heist-anthony-mackie-1235227284/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/12-12-12-Anthony-Mackie-series-on-Apple-TV.jpg?w=650",
-      "publishedAt": "2026-11-13T14:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-bmQtY29udGVuZGVycw",
       "title": "Robert Pattinson reportedly leads James Bond contenders",
       "description": "Reports that the star – the most high-profile of the final five contenders – has been offered favourable contract terms hint that Amazon MGM may want him as its first 007 Robert Pattinson has emerged as the favourite in the race to succeed Daniel Craig as James Bond, according to a credible film-industry source. Writing in Puck , Matthew Belloni suggests that the favourable contract terms he says have been offered to Pattinson suggest that the actor, currently in cinemas with reality-crime thriller Primetime , is studio Amazon MGM’s preferred choice for the role. Continue reading...",
@@ -278,6 +314,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
+    },
+    {
+      "id": "guardian-JseS01bS1hdWN0aW9u",
+      "title": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
+      "description": "Used in the famous ‘I am your father’ scene, the on-screen prop was originally expected to sell for a fraction of the price Auctioneers estimated it would sell for over $1m, but on Thursday a Star Wars lightsaber used by Darth Vader in the famous “I am your father” scene from The Empire Strikes Back ended up selling for nearly $5m. Darth Vader’s saber was one of 27 lightsaber props up for sale by Heritage Auctions in the US, including ones used by Ewan McGregor’s Obi-Wan Kenobi and Hayden Christensen’s Anakin Skywalker in Revenge of the Sith. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction",
+      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/233_0_2483_1986/master/2483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bff72ea6cc119fd314659b94fdac80c4",
+      "publishedAt": "2026-11-13T04:41:51.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-cm9vZ2UtZGlja2Vucw",
@@ -352,18 +400,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-LW1vc3Qtd2F0Y2hlZA",
-      "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
-      "description": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in cinemas across the world last month. The film , which is directed by the Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, has reached a worldwide audience of 1,547,033 as of Friday 6 November, making it one of the most-watched documentary films with a theatrical release in 2026. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-      "image": "https://i.guim.co.uk/img/media/7fdf274bbdcb8c27b637964b07c4022b4b09c9c6/1358_19_2482_1986/master/2482.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d81cf0f1f12e8ad8ee7a9887331e7ff",
-      "publishedAt": "2026-11-11T09:47:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-WNpYWwtb3BzLXRlYW0",
       "title": "Soul Patrol review – heartstopping story of the US army’s first Black special ops team at work in Vietnam",
       "description": "Based on a 2003 memoir, this remarkable documentary shows the incredible bravery these young men showed in the face of battle and unrelenting bigotry Here is the remarkable story of the US army’s “Soul Patrol” unit in the Vietnam war: the all-Black Long-Range Reconnaissance Patrol (or LURP), a six-man team of largely teenage African American soldiers, within Company F 51st Infantry. Their duty was to go behind the Vietcong enemy lines, each carrying 150lbs of kit and an M16 assault rifle, and in conditions of terrifying danger report on the enemy’s movements. One heart stopping anecdote is about a panicky member of the unit, who had never seen fireflies before, and became convinced he had seen a Vietcong insurgent in the undergrowth, smoking a cigarette. The film also reports on their later, poignant reunion as old men, using their contemporary home-movie footage and dramatically recreating some scenes. It is based on the 2003 memoir of the same title by unit member Ed Emanuel (who had gone into journalism in civilian life), based on his own experiences and those of his comrades who he had been able to track down. The publication of the book itself was intended to bring other ex-soldiers out of the woodwork, which it duly did. The Soul Patrol was at one level a special forces unit, an elite squad that was tough, capable, resourceful, operating at the highest standards of soldiering – and yet it was also subject to racist exploitation as cannon-fodder. This was what many in the unit came to suspect, and one interviewee here recounts his almost hallucinatory sense the enemy itself had spared them from certain death in the jungle, aware of their awful sacrificial purpose. Continue reading...",
@@ -374,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-dC1tYXJpbmUtZGllcw",
-      "title": "Donnie Dunagan, original voice of Disney’s Bambi and triple Purple Heart marine, dies aged 92",
-      "description": "Dunagan was six when he voiced the young deer in the classic cartoon, with an assistant director instructing him to pretend his own mother had died Donnie Dunagan, who voiced Bambi in the Walt Disney classic, as well as playing the son of Frankenstein opposite Basil Rathbone and Boris Karloff, has died aged 92. Dunagan was six when he was chosen to provide the voice of the young deer in the animation’s most heartbreaking chapter. He recalled the experience in the recording booth as easy and relaxed, with rudimentary technology and notes from an assistant director instructing him to pretend his own mother had died when voicing Bambi’s reaction to his mother being killed by a hunter. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/09/donnie-dunagan-bambi-voice-triple-purple-heart-marine-dies",
-      "image": "https://i.guim.co.uk/img/media/4a2f0cd9fa8b0cd8733fdc02c69594c202d67501/306_274_2685_2148/master/2685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4af65fa4c0eba560e5b8174a07404837",
-      "publishedAt": "2026-11-09T17:48:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-3NvbnMtY3JlZWstdHY",
@@ -422,18 +446,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-VyeXdoZXJlLW9zY2Fy",
-      "title": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a replicant in Blade Runner 2099",
-      "description": "Ballet dancer, action hero, Bond girl ... The actor won an Oscar for Everything Everywhere All At Once but she’s been through some challenges on the way Before agreeing to appear in Blade Runner 2099, Michelle Yeoh received a letter – “an amazing letter, a love letter” – from Silka Luisa, the project’s creator, imploring her to be involved. Yeoh, who is 64, has played grandes dames, action heroes and a low-income Chinese-American battling the tax authorities in an infinite multiverse, but Blade Runner was different. The sci-fi series, a follow-up of sorts to Ridley Scott’s 1982 movie classic and its 2017 sequel , features both humans and replicants, their bioengineered antagonists, and Yeoh was adamant: “I don’t want to be human.” After working on ideas of what a synthetic human might look like, the result is Olwen, a terrifying individual with “a very cold, steely look in her eyes. And the way she moves – it’s not robotic. She’s sort of fluid. Like a dragon. Like a serpent.” Yeoh is an actor who likes to figure things out for herself and, in the prep stages for Blade Runner 2099, the key question she thought about while building her character was, “What is it to be human? Are you born with humanity or does it come from the things you go through?” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
-      "image": "https://i.guim.co.uk/img/media/79b85c937ffed09426bf9c4a8da0474288e3be69/0_1278_5625_4500/master/5625.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4921e40b40f4e84256971d8f8b4d5ae0",
-      "publishedAt": "2026-11-07T12:00:10.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-YW4tZmlsbS1tYWtlcg",
