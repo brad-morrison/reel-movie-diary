@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:31:04.287Z",
+  "generatedAt": "2026-11-17T18:29:24.302Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,138 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/22ee/live/daa8b410-e2a0-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-17T17:57:56.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIyODcxMy8",
+      "title": "‘The Other Bennet Sister’ Christmas Special Trailer: Can Mary Bennet Still Be Herself and ‘the Perfect Wife’?",
+      "description": "The smash hit BritBox series will return this winter with three very specials, and one heck of a surprise for fans of Caroline Bingley.",
+      "url": "https://www.indiewire.com/news/trailers/the-other-bennet-sister-christmas-special-trailer-1235228713/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ella-bruccoleri-mary_6afc8971387b5.jpg?w=650",
+      "publishedAt": "2026-11-17T17:30:46.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-dlLTEyMzUyMjg2NjQv",
+      "title": "‘Madden’ Review: David O. Russell Fumbles Again with an Unfunny and Purposeless Football Biopic",
+      "description": "Would it surprise you to learn that Nicolas Cage in a fat suit doesn’t a compelling film make?",
+      "url": "https://www.indiewire.com/criticism/movies/madden-movie-review-nicolas-cage-1235228664/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/cage-madden-feature.jpg?w=650",
+      "publishedAt": "2026-11-17T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MjI4Njg2Lw",
+      "title": "Skydance Sets Film Leadership Team: Don Granger and Kira Goldberg to Head Paramount Motion Picture Group, Jesse Ehrman Promoted to WB Pictures Chief",
+      "description": "Mikey Ireland will remain as president of production at WB, while Bill Damaschke will leave the animation group.",
+      "url": "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
+      "publishedAt": "2026-11-17T16:57:54.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-mctMTIzNTIyODU5NS8",
+      "title": "Movie Theaters Are Back, but the Rest of Hollywood Seems to Be Crumbling",
+      "description": "Ticket sales are up 20 percent, but cord-cutting, streaming struggles, and costly mergers have the entertainment business running scared.",
+      "url": "https://www.indiewire.com/news/analysis/movie-theaters-comeback-hollywood-crumbling-1235228595/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2226702246-e1794922553132.jpg?w=650",
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyODUxNi8",
+      "title": "Desire, Death, and a Breakthrough Year for Queer Cinema",
+      "description": "Proving queerness isn’t the problem has become a unifying rallying cry in LGBTQ+ films like \"La Bola Negra,\" \"Leviticus,\" and \"Elsinore.\"",
+      "url": "https://www.indiewire.com/features/commentary/breakthrough-year-for-queer-cinema-la-bola-negra-elsinore-leviticus-1235228516/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/LaBolaNegra-Leviticus-Elsinore-Split.jpg?w=650",
+      "publishedAt": "2026-11-17T14:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-xvbmUtam9lLXBlc2Np",
+      "title": "Call my (estate) agent! Why celebrities are always buying each other’s homes",
+      "description": "If you’re seeking a discreet mansion with secluded grounds and plenty of room for your own memorabilia, you may want to remember Joe Pesci’s mistakes before trying the open market Last year, Austin Butler bought a mansion from Brad Pitt. The month before, Brad Pitt bought a mansion from one of the Killers. In 2022, Adele bought Sylvester Stallone’s old house, but only if he let her keep his Rocky statue. Aaron Paul recently sold a house that he bought from The Big Bang Theory’s Jim Parsons, who bought it from Robert Pattinson, after it was previously owned by Noah Wyle, Kareem Abdul-Jabbar, Tim Curry and the guy who directed Legally Blonde. If this makes it sound to you as if there are only a handful of celebrity-friendly homes on earth, and celebrities spend their lives swapping them around among themselves, then you’re right. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/17/celebrities-buying-each-others-homes-brad-pitt-sylvester-stallone-joe-pesci",
+      "image": "https://i.guim.co.uk/img/media/de1bdba5ee7807c6e69a6dcf01ea487472859e26/330_0_2230_1784/master/2230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa421f6ae20ae74f2ccb72dc1ccd6817",
+      "publishedAt": "2026-11-17T14:07:58.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1ldmVyZGVlbi1lcmE",
+      "title": "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era",
+      "description": "Overwrought and boring, this nadir of a prequel to the Games’ death match saga is nothing but a cash grab for an exhausted franchise Here is yet another iteration of the utterly exhausted, unbearably extended and now surreally boring Hunger Games franchise, based on the YA bestsellers by Suzanne Collins. This one has another of the series’ convoluted faux-mythic subtitles: Sunrise on the Reaping. What, “harvest dawn” not old-timey enough? Well, “reaping” in fact refers to an annual process by which ordinary smudgy faced, raggedy clothed people are chosen at random for compulsory participation in this futurist dystopia’s brutal, televised survival contest to the death: a bread-and-circuses nightmare with which the rulers keep the populace in a cowed and pacified state. In this Darwinian process, competitors strategically team up with (and then betray) some players against others in the short term, to stay in the game. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era",
+      "image": "https://i.guim.co.uk/img/media/fbb125058ee758d16b2182331552f95af8246b8c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=1d35446afec0489708c68bbef6b3940a",
+      "publishedAt": "2026-11-17T14:00:14.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-dy0xMjM1MjI4NDgxLw",
+      "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: They Shoot Franchises, Don’t They?",
+      "description": "Kidding, mostly, as this underwhelming sixth \"Hunger Games\" movie is about to make a hysterical amount of money.",
+      "url": "https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDHUGA_LG062.jpg?w=650",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+      "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png",
+      "publishedAt": "2026-11-17T13:15:38.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-1hcy1qYW1lcy1ib25k",
+      "title": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
+      "description": "Former 007 George Lazenby was supportive while The Lighthouse director Robert Eggers reveals what Pattinson was doing when the news broke • Robert Pattinson is James Bond. What happens next? • Peter Bradshaw’s take • Pattinson’s journey to James Bond • Behind Bond’s bankability Film industry figures including Ralph Fiennes, Brad Pitt and former Bond actor George Lazenby have reacted to the news that Robert Pattinson has been cast as the new 007. Pitt was asked about Pattinson while promoting his new film, The Further Mis-Adventures of Cliff Booth, and responded: “I think it’s a great choice. I love what that guy’s been doing. He’s been making such interesting choices, and then for him to balance it out, it’s really cool.” Pitt then made a playful pitch for a villain role in Bond 26, winking at the camera and saying: “Get Denis Villeneuve on the flip phone. Let’s go.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
+      "image": "https://i.guim.co.uk/img/media/1af950b033a60e4879dba795ec7d77db0e82a11f/882_293_2419_1936/master/2419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a5a984e3e024a05f59d90f5f1d8e565",
+      "publishedAt": "2026-11-17T13:03:24.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-XUtZG9jdW1lbnRhcnk",
       "title": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
@@ -64,18 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YmFsbC1kaXNhc3Rlcg",
-      "title": "Heysel 85 review – rage-filled denunciation of the incompetence that fuelled a football disaster",
-      "description": "Teodora Ana Mihai and her passionately committed cast reconstruct the grim sequence of bad judgments that led to 39 fans dying Shame and rage are the keynotes of this immersive, viscerally powerful drama-thriller set amid the macabre tragedy of football’s 1985 European Cup final between Juventus and Liverpool in the crumbling Heysel stadium in Brussels. Crowd disorder before kickoff in a poorly maintained, badly policed venue resulted in the deaths of 39 fans. In this film, the roar of the crowd echoing overhead through the stadium’s claustrophobic tunnels is like the wailing of the damned, while the sport’s officer class flinch and panic as if at a wartime loss. Grimly, the match was allowed to go ahead, despite the fatalities; the authorities believed the game itself would restore order on a bread-and-circuses basis, and that abandoning the match would only cause greater violence and chaos. Heysel 85 is directed and co-written by Romanian-born and Belgian-based film-maker Teodora Ana Mihai; she is a former collaborator of Cristian Mungiu, though maybe the influence here is more Paul Greengrass. The film-makers have been criticised for fictionalising aspects: the players are depicted as not being aware that fans had died before they took to the field – they were in fact largely aware, although it may well be true that the slippery authorities sought to minimise the truth as much as they could. And the fictionalised mayor of Brussels, here named Marc Dumont (Josse De Pauw), has been criticised as an unfair drunken caricature of the actual mayor, Hervé Brouhon. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/heysel-85-review-rage-filled-denunciation-of-the-incompetence-that-fuelled-a-football-disaster",
-      "image": "https://i.guim.co.uk/img/media/cb57f3f9d40de3dda05e4ddb979d2512f108482f/349_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=7a40e76853e3854a91bc0de18bb414c3",
-      "publishedAt": "2026-11-17T07:00:07.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-nMtMTIzNTIyODU0MC8",
       "title": "‘The Further Mis-Adventures of Cliff Booth’ First Reactions: Quentin Tarantino and David Fincher Deliver a ‘Pure Riot’ of a Hangout Movie",
       "description": "Following the Los Angeles premiere on Monday night, critics took to social media to express their delight at Brad Pitt's second turn as the eponymous stuntman.",
@@ -85,18 +205,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-Y2EtbGVua2lld2ljeg",
-      "title": "Sebastián Lelio remembered: ‘He had one hand with the ordinary day-to-day and the other in the heavens’",
-      "description": "Actor Elaine Cassidy, composer Matthew Herbert and writer Rebecca Lenkiewicz pay tribute to the extraordinary talents of the acclaimed Chilean director, who has died aged 52 Elaine Cassidy, actor, The Wonder Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/sebastian-lelio-remembered-elaine-cassidy-matthew-herbert-rebecca-lenkiewicz",
-      "image": "https://i.guim.co.uk/img/media/3e956ffcb26a5aafcb71a91fc7b3b223a49767d3/341_0_4419_3537/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf95cd2912f76dd782d9e5b800a7de9e",
-      "publishedAt": "2026-11-17T05:00:04.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -172,66 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold: ‘Edward Said: Between Worlds’ About Palestinian-American Author Lands at Kino Lorber",
-      "description": "The documentary from director Maiken Baird will release theatrically in 2027.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Still_Hero.jpg?w=650",
-      "publishedAt": "2026-11-16T19:53:33.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIyODMwNC8",
-      "title": "The Stop-Motion Tool That’s a Constant in This Crazy, AI-Mixed-Up World",
-      "description": "\"Wildwood\" director Travis Knight is as proud of what's core to Laika's animation process as what's new.",
-      "url": "https://www.indiewire.com/features/animation/wildwood-travis-knight-director-interview-laika-dragonframe-1235228304/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDWILD_EC246.jpg?w=650",
-      "publishedAt": "2026-11-16T19:10:22.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-W1vbmV5LXNwaW5uZXI",
-      "title": "The man with the golden touch: James Bond franchise is a money-spinner",
-      "description": "Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to James Bond James Bond may be 73 years old but the superspy holds a licence to print money, at the centre of an evergreen multibillion-pound franchise spanning blockbuster films, merchandise, licensing deals and sponsorship. The announcement that the Twilight and Batman actor Robert Pattinson is the next Bond comes seven years after Daniel Craig revealed that No Time To Die would be his last outing as 007. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
-      "image": "https://i.guim.co.uk/img/media/410e65812d5c14268a96c1cc5d4d25181b9cfcd5/75_42_2879_2304/master/2879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c26945270614dbf04f713b0ca5107a56",
-      "publishedAt": "2026-11-16T18:47:38.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-mUtMTIzNTIyODMwNS8",
-      "title": "Why Casting Robert Pattinson as James Bond Is a High-Risk, High-Reward Gamble for Denis Villeneuve",
-      "description": "With the \"Batman\" franchise in flux, playing 007 gives Pattinson a new signature role. But his outsized fame represents a break from tradition.",
-      "url": "https://www.indiewire.com/news/analysis/robert-pattinson-james-bond-risky-casting-denis-villeneuve-1235228305/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-1372400632.jpg?w=650",
-      "publishedAt": "2026-11-16T16:51:37.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-eC0xMjM1MjI4MzEwLw",
-      "title": "’14th’ Trailer: Ava DuVernay Unpacks the Necessity of Another Essential Constitutional Amendment",
-      "description": "A decade after the filmmaker tackled the 13th Amendment, she takes on another — and one arguably even more vital to true American democracy.",
-      "url": "https://www.indiewire.com/news/trailers/14th-trailer-ava-duvernay-netflix-1235228310/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/B0002289.jpg?w=650",
-      "publishedAt": "2026-11-16T16:42:55.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "James Bond: What we know so far about the next 007 film",
       "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
@@ -256,18 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-WUtMTIzNTIyMzIxMC8",
-      "title": "Robert Pattinson Is the Next James Bond: Denis Villeneuve Finds Star for His 007 Movie",
-      "description": "Villeneuve is directing the Amazon MGM Studios film from a script by Steven Knight, with Amy Pascal and David Heyman producing.",
-      "url": "https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Robert-Pattinson-credit-Jaap-Buitendijk-1.jpg?w=650",
-      "publishedAt": "2026-11-16T15:06:17.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-mVydC1wYXR0aW5zb24",
       "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
       "description": "Daniel Craig’s successor in the franchise is confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007 • Share your thoughts on the casting • Peter Bradshaw: Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond • Pattinson’s journey from Harry Potter to Bond via Twilight and the arthouse Robert Pattinson has been announced as the successor to Daniel Craig, becoming the seventh actor to play the role in an official Bond movie. The news was revealed on the official James Bond social media accounts account on Monday. All earlier content was abruptly wiped from 007 on X and Instagram just before 3pm GMT and a repeating message typed out: “Identity confirmed.” Continue reading...",
@@ -278,18 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XktMTIzNTIyNzI5OS8",
-      "title": "The Brits Are (Finally) Subverting the Cozy Crime Craze",
-      "description": "A trio of British imports are paving the way for a more engaging form of comfort TV.",
-      "url": "https://www.indiewire.com/features/commentary/brits-subverting-cozy-crime-bookish-ludwig-death-valley-1235227299/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Bookish-1.jpg?w=650",
-      "publishedAt": "2026-11-16T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -350,18 +374,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Harry Potter films at 25: Behind-the-scenes quiz",
-      "description": "Celebrate 25 years of the Harry Potter films with this behind-the-scenes quiz.",
-      "url": "https://www.bbc.co.uk/news/articles/ck8790rrqx57o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fc14/live/dd1820f0-df80-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-16T06:11:10.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-bmQtY29udGVuZGVycw",
@@ -496,6 +508,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-YW4tZmlsbS1tYWtlcg",
+      "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
+      "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
+      "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-QtbW92aWUtcmV2aWV3",
       "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
       "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
@@ -566,18 +590,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-b3VzZS1wcmVtaWVyZQ",
-      "title": "Black cakes and branded buckets: welcome to the White House premiere for Brett Ratner’s Melania movie",
-      "description": "Monochrome catering was all the rage at the VIP screening on Saturday for Ratner’s officially sanctioned $75m feature-length documentary about the First Lady. Have the photos whetted your appetite? This week sees the release of Melania, Amazon’s official feature-length documentary about Melania Trump. Melania was directed by Brett Ratner, and has a reported $40m production budget. And, obviously, you’re probably not going to watch it. Of course you’re not. Coming days after the killing of Alex Pretti by a US Border Patrol agent, an authorised vanity project about the current wife of a globally unpopular political leader – and directed by a man accused of sexual assault by multiple women (he was never charged, and denies the allegations), and whose production and release carried the smell of institutionalised media timidity – seems like just about the least appealing prospect ever. But, hey, any excuse for a party, right? Continue reading...",
-      "url": "https://www.theguardian.com/film/filmblog/2026/jan/26/melania-amazon-authorised-documentary-white-house-premiere",
-      "image": "https://i.guim.co.uk/img/media/2c6655b93dd7ed302ad44f04a662f805afd507c4/51_0_1589_1271/master/1589.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c80901d977ea441d596c27bfd9014890",
-      "publishedAt": "2026-01-26T14:40:16.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     }
   ]
 }
