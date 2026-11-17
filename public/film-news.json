@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:29:48.220Z",
+  "generatedAt": "2026-11-17T00:44:12.240Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 5
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -16,11 +16,143 @@
   },
   "articles": [
     {
+      "id": "indiewire-V3LTEyMzUyMjg0NDYv",
+      "title": "‘Hershey’ Review: An Unbelievably Flavorless Biopic About America’s Most Famous Chocolatier",
+      "description": "Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of \"values-based entertainment.\"",
+      "url": "https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/hershey.webp?w=650",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XQtMTIzNTIyODUyNi8",
+      "title": "‘Spider-Man: Brand New Day’ Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind",
+      "description": "The extended version of the mega blockbuster opens December 4, and tickets go on sale November 19.",
+      "url": "https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSPMA_SP128.jpg?w=650",
+      "publishedAt": "2026-11-16T23:37:56.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XYtMTIzNTE5NDgyMC8",
+      "title": "‘Minotaur’ Review: Andrey Zvyagintsev’s Riveting Comeback Remakes Claude Chabrol and ‘Unfaithful’ for a Hopeless Wartime Russia",
+      "description": "We've seen this story before, and we know where it's going, but the \"Loveless\" and \"Leviathan\" director repositions the cliches of adultery thrillers into his own gloomy register to engrossing, icily exacting results.",
+      "url": "https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.22.34 PM.png?w=650",
+      "publishedAt": "2026-11-16T21:45:18.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-DctMTIzNTIyODM4MS8",
+      "title": "Cary Grant, Clint Eastwood, and Christian Bale: The Stars Who Almost Played James Bond",
+      "description": "Since \"Dr. No\" began the series in 1962, some of the world's biggest stars have been considered for 007 — we look at the most famous contenders who turned down or were rejected for the role.",
+      "url": "https://www.indiewire.com/features/commentary/james-bond-actors-who-turned-down-rejected-007-1235228381/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MSDEISA_EC002-e1794872232259.jpg?w=650",
+      "publishedAt": "2026-11-16T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI4NDYwLw",
+      "title": "Robert Pattinson as James Bond Proves That IP Is No Longer the New Movie Stars",
+      "description": "The blockbuster casting news was the final nail in the coffin of Hollywood's prevailing 2010s logic.",
+      "url": "https://www.indiewire.com/features/commentary/robert-pattinson-james-bond-proves-ip-are-not-movie-stars-1235228460/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-1375347212.jpg?w=650",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold: ‘Edward Said: Between Worlds’ About Palestinian-American Author Lands at Kino Lorber",
+      "description": "The documentary from director Maiken Baird will release theatrically in 2027.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Edward-Said-Between-Worlds_Still_Hero.jpg?w=650",
+      "publishedAt": "2026-11-16T19:53:33.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-16T19:43:58.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIyODMwNC8",
+      "title": "The Stop-Motion Tool That’s a Constant in This Crazy, AI-Mixed-Up World",
+      "description": "\"Wildwood\" director Travis Knight is as proud of what's core to Laika's animation process as what's new.",
+      "url": "https://www.indiewire.com/features/animation/wildwood-travis-knight-director-interview-laika-dragonframe-1235228304/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDWILD_EC246.jpg?w=650",
+      "publishedAt": "2026-11-16T19:10:22.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-25vcmFyeS1vc2NhcnM",
+      "title": "Glenn Close cries! John Malkovich weeps! But it’s Nathan Fielder everyone wants to talk to at the honorary Oscars",
+      "description": "All of Hollywood’s biggest stars are in attendance for the Governors’ awards, but nobody gets drunk and the biggest draw is an awkward documentarian Timothée Chalamet was seconds away from getting into trouble. It was just after 6pm in Hollywood and Lynette Howell Taylor, president of the Academy of Motion Picture Arts and Sciences, was trying to corral a crowd of 700-odd people into sitting down so she could begin the Governors awards ceremony. She jokingly threatened to start calling out anyone still standing by name if they didn’t sit down imminently. Chalamet was the only one left on his feet, circling the table where he was due to sit next to his girlfriend, Kylie Jenner, opposite Tom Holland and Zendaya. Howell Taylor gave him a few seconds’ grace. He looked like the popular kid testing how far he could push a headteacher. The Governors awards had a curiously school-like atmosphere this year. Even the carpet in the Ray Dolby Ballroom was faded and striped. The social structure was much the same: closed-off and insular, with cliques, alliances, legendary enmities and intricate hierarchies of popularity and influence. There were those who seemed entirely comfortable – Chalamet, Holland, Tom Cruise, Matt Damon, Willem Dafoe, Seth Rogen – and others still angling for a better table. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/governers-awards-honorary-oscars",
+      "image": "https://i.guim.co.uk/img/media/7b8bab95f621af31b5180565a9a5e4c394e3d560/278_0_2777_2222/master/2777.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a99e717b6e7bbeef7fe5d9414a8f2370",
+      "publishedAt": "2026-11-16T18:47:42.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-W1vbmV5LXNwaW5uZXI",
+      "title": "The man with the golden touch: James Bond franchise is a money-spinner",
+      "description": "Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to James Bond James Bond may be 73 years old but the superspy holds a licence to print money, at the centre of an evergreen multibillion-pound franchise spanning blockbuster films, merchandise, licensing deals and sponsorship. The announcement that the Twilight and Batman actor Robert Pattinson is the next Bond comes seven years after Daniel Craig revealed that No Time To Die would be his last outing as 007. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
+      "image": "https://i.guim.co.uk/img/media/410e65812d5c14268a96c1cc5d4d25181b9cfcd5/75_42_2879_2304/master/2879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c26945270614dbf04f713b0ca5107a56",
+      "publishedAt": "2026-11-16T18:47:38.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-cy1ib25kLWNhcmVlcg",
+      "title": "Robert Pattinson’s journey from Harry Potter and Twilight to James Bond: ‘The honour of a lifetime’",
+      "description": "The 40-year-old British actor has had a remarkable career and is back again with the coveted 007 New James Bond announced ... and the name’s Pattinson, Robert Pattinson Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond There are big years in an actor’s career, and then there is Robert Pattinson ’s 2026. This year the 40-year-old Briton has been the face of everything from Kristoffer Borgli’s relationship satire The Drama to Christopher Nolan’s The Odyssey and Lance Oppenheim’s Primetime. Now, in the culmination of a remarkable run, he has landed the most coveted role in British cinema: James Bond. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-james-bond-career",
+      "image": "https://i.guim.co.uk/img/media/6ddcede3589dcbd5e43898c4eaf693c2dc330427/0_548_2343_1874/master/2343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be544c5e0fc259d809c1ecba00639e10",
+      "publishedAt": "2026-11-16T18:11:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-mUtMTIzNTIyODMwNS8",
       "title": "Why Casting Robert Pattinson as James Bond Is a High-Risk, High-Reward Gamble for Denis Villeneuve",
       "description": "With the \"Batman\" franchise in flux, playing 007 gives Pattinson a new signature role. But his outsized fame represents a break from tradition.",
       "url": "https://www.indiewire.com/news/analysis/robert-pattinson-james-bond-risky-casting-denis-villeneuve-1235228305/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-1372400632.jpg?w=650",
       "publishedAt": "2026-11-16T16:51:37.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -54,7 +186,7 @@
     {
       "id": "guardian-bi1jaG9pY2UtYm9uZA",
       "title": "Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond | Peter Bradshaw",
-      "description": "Pattinson is a character actor whose talent for inscrutable appraisal may mean a new era for 007. Will this more willowy, classy Bond leave sexism in the shadows? • New James Bond announced ... and the name’s Pattinson, Robert Pattinson • Share your thoughts on the casting If it wasn’t Bond … maybe it would have been Dr No in some hi-tech reboot. But Robert Pattinson – with his movie-star chops and track record in hip A24-type character turns, and his gift for cool, inscrutable appraisal and sensual menace – is an exquisite choice as 007, playing on the darker and more sophisticated notes of Pattinson’s performing personality. And let’s hope, incidentally, that the actor now isn’t forced into a five-hour daily gym regimen to bulk up. I like the taller and more willowy Bond that Pattinson represents, the Bond from whose frame the tux hangs gracefully, the Bond with elegant abandon who’s a former British Naval officer, not a former US Navy Seal, the Bond who with a crinkly-eyed reptilian grin can style out waking up with a hangover after too many whisky-and-sodas at the baccarat table. Continue reading...",
+      "description": "Pattinson is a character actor whose talent for inscrutable appraisal may mean a new era for 007. Will this more willowy, classy Bond leave sexism in the shadows? • New James Bond announced ... and the name’s Pattinson, Robert Pattinson • Share your thoughts on the casting • Pattinson’s journey from Harry Potter and Twilight to James Bond If it wasn’t Bond … maybe it would have been Dr No in some hi-tech reboot. But Robert Pattinson – with his movie-star chops and track record in hip A24-type character turns, and his gift for cool, inscrutable appraisal and sensual menace – is an exquisite choice as 007, playing on the darker and more sophisticated notes of Pattinson’s performing personality. And let’s hope, incidentally, that the actor now isn’t forced into a five-hour daily gym regimen to bulk up. I like the taller and more willowy Bond that Pattinson represents, the Bond from whose frame the tux hangs gracefully, the Bond with elegant abandon who’s a former British Naval officer, not a former US Navy Seal, the Bond who with a crinkly-eyed reptilian grin can style out waking up with a hangover after too many whisky-and-sodas at the baccarat table. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond",
       "image": "https://i.guim.co.uk/img/media/fdbe68e252d8ff1f72989ac7e4235a2529bcdaf7/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c29c1c63795ebe2c85106d977dd8ed49",
       "publishedAt": "2026-11-16T15:14:37.000Z",
@@ -78,7 +210,7 @@
     {
       "id": "guardian-mVydC1wYXR0aW5zb24",
       "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
-      "description": "Daniel Craig’s successor in the franchise is confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007 • Share your thoughts on the casting • Peter Bradshaw: Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond Robert Pattinson has been announced as the successor to Daniel Craig, becoming the seventh actor to play the role in an official Bond movie. The news was revealed on the official James Bond social media accounts account on Monday. All earlier content was abruptly wiped from 007 on X and Instagram just before 3pm GMT and a repeating message typed out: “Identity confirmed.” Continue reading...",
+      "description": "Daniel Craig’s successor in the franchise is confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007 • Share your thoughts on the casting • Peter Bradshaw: Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond • Pattinson’s journey from Harry Potter to Bond via Twilight and the arthouse Robert Pattinson has been announced as the successor to Daniel Craig, becoming the seventh actor to play the role in an official Bond movie. The news was revealed on the official James Bond social media accounts account on Monday. All earlier content was abruptly wiped from 007 on X and Instagram just before 3pm GMT and a repeating message typed out: “Identity confirmed.” Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
       "image": "https://i.guim.co.uk/img/media/03f809f0dbaf4b49f8f048bcdadc0061d99eb31e/0_1072_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a29c79f2f84d825c622200b6f029716e",
       "publishedAt": "2026-11-16T15:01:42.000Z",
@@ -196,18 +328,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-ZWxhLXNjaGFuZWxlYw",
-      "title": "Accidents, emotional affairs and impromptu Leonard Cohen dancing - My Wife Cries review",
-      "description": "Angela Schanelec’s famously uncompromising work takes on a new warmth in this sometimes playful study of everyday emotional turmoil The elliptical cinema of German film-maker Angela Schanelec is often described as uncompromising. This latest work, however, radiates a striking warmth. We see a marriage tearing at the seams, but this untethering is devoid of the usual dramatic flourishes. On an ordinary day like any another, construction worker Thomas (Vladimir Vulevic) notices a missed call from his wife, Carla (Agathe Bonitzer); when he phones back, she doesn’t pick up. The event holds little significance for the mild-mannered man; he carries on his usual chitchat with his co-workers, mundane catchups that unfold over static, tableaux-like shots. This deceptive calm is ruptured, however, when Thomas finds Carla sobbing helplessly on a park bench. A seismic change has taken hold within her: she will later confide in him of an emotional affair, and a tragic accident that leaves her emotionally unmoored. These revelations surface not through screaming matches, but by way of protracted conversations that resemble monologues rather than actual dialogue. Similar sequences recur as we are introduced to the rest of the couple’s social orbit, each of whom are wrestling with their own internal changes. There’s an enigmatic blend of theatricality and cinematic wizardry here; these wordy contemplations often occur when characters are on the move, walking, cycling or simply wandering about. There’s a subtle physicality and tactility to their inner struggles. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/my-wife-cries-review-angela-schanelec",
-      "image": "https://i.guim.co.uk/img/media/01a8f29721093550bb0e5a3010b5150dc735a55c/86_0_2700_2160/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=d38418e298408ed8185586a95efe5dd4",
-      "publishedAt": "2026-11-16T07:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-cm1hbi1za3lkYW5jZQ",
       "title": "The DCU’s James Gunn and Peter Safran are out – this is the biggest disaster to hit superhero movies in years",
       "description": "The adventurous weirdness of the Gunn/Safran era that fans responded to is now history. Can the DCU ever get back on track? What was Warner Bros’ plan in 2022 , when the studio decided to reboot its superhero output, jettison the increasingly muddled DC Extended Universe (DCEU) and replace it with a sparkling new DC Universe (DCU)? In part it was to wipe the slate clean after years of false starts, abandoned storylines and tonal lurches. There was a little bit of Marvel envy to proceedings, and quite possibly a desire to avoid having to ever again discuss Batman v Superman: Dawn of Justice’s numerous failings . But mostly it was to take advantage of hiring of a man whom nobody could accuse of being short of ideas on how to make comic book movies. To a greater or lesser extent, the plan was James Gunn. Fast forward four years, and that plan lies in tatters. Gunn and his fellow DC Studios CEO Peter Safran have this week been fired (though they will reportedly stay on as film-makers), and Jeremy Latcham, another former Marvel man, is the new boss. What is the plan now? Nobody seems to know, and there is not much point asking David Ellison, the man whose Skydance empire has now gobbled up two of the former big five Hollywood studios (Paramount last year and Warner last month). That would be like asking for directions from a man who has just set fire to the map. Continue reading...",
@@ -229,90 +349,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-FuLTEyMzUyMjgwNzMv",
-      "title": "Box Office: ‘Club Kid’ Scores Best Limited Expansion of the Year as Younger Audiences Embrace Jordan Firstman’s Oscar Hopeful",
-      "description": "The Cannes breakout grossed $756,060 across 27 screens, bringing its domestic haul to nearly $1.5 million.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-club-kid-best-limited-expansion-of-2026-jordan-firstman-1235228073/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-9.06.54 PM.png?w=650",
-      "publishedAt": "2026-11-15T17:15:02.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-NrLTEyMzUyMjgwNjgv",
-      "title": "Box Office: ‘Ebenezer’ Opens to Modest $19 Million, Showing Johnny Depp Is Still a Draw for the Right Price",
-      "description": "The star emerged from his decade in the wilderness to post a respectable opening for his Christmas film.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/EbenezerScrooge.jpg?w=650",
-      "publishedAt": "2026-11-15T16:16:52.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-I2LTEyMzUyMjc3NjAv",
-      "title": "‘Fatherland’ Wins Golden Frog at ToruńCAMERIMAGE 2026 — Full Winners List",
-      "description": "The Polish festival is all about cinematography, making its Golden Frog award a coveted honor for DPs.",
-      "url": "https://www.indiewire.com/news/festivals/toruncamerimage-golden-frog-winners-2026-1235227760/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.45.11 PM.png?w=650",
-      "publishedAt": "2026-11-14T18:51:30.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI3Mzc2Lw",
-      "title": "After Returning to Spanish with ‘Bitter Christmas,’ Pedro Almodóvar Might Be Done with English-Language Movies",
-      "description": "Stealing stories from your friends is part of the creative process, he said. \"There is not any law that creates the limits of the autofiction.\"",
-      "url": "https://www.indiewire.com/features/interviews/pedro-almodovar-interview-bitter-christmas-1235227376/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P101EC48.jpg?w=650",
-      "publishedAt": "2026-11-13T23:42:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XctMTIzNTIyNzgwOS8",
-      "title": "Production Designer Ruth De Jong on How to Build (Ancient) Worlds for Auteurs",
-      "description": "Ruth De Jong tells IndieWire about the odyssey behind \"The Odyssey,\" as well as projects for David Lynch, Paul Thomas Anderson, and Terrence Malick.",
-      "url": "https://www.indiewire.com/features/craft/production-designer-ruth-de-jong-the-odyssey-interview-1235227809/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDODYS_UV014.jpg?w=650",
-      "publishedAt": "2026-11-13T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIyNzc3OC8",
-      "title": "IndieWire Honors Film Celebration to Fête John Turturro, the ‘Artificial’ Cast, Los Javis, and More",
-      "description": "IndieWire Honors will celebrate the year in film with awards given to John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro, Ike Barinholtz, James Gray, Adam Driver, Los Javis, and many more.",
-      "url": "https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IndieWire-Honors-Dec-2026.jpg?w=650",
-      "publishedAt": "2026-11-13T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-llLTEyMzUyMjc3Nzcv",
-      "title": "Margot Robbie Teaming with ‘The Drama’ Director Kristoffer Borgli for ‘The Week of Pain’ at A24",
-      "description": "The star has found her next vehicle after the coming \"Ocean's Eleven\" prequel from Bradley Cooper.",
-      "url": "https://www.indiewire.com/news/business/margot-robbie-teams-kristoffer-borgli-director-a24-movie-1235227777/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Margotrobbie.jpg?w=650",
-      "publishedAt": "2026-11-13T19:43:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -350,18 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-JseS01bS1hdWN0aW9u",
-      "title": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
-      "description": "Used in the famous ‘I am your father’ scene, the on-screen prop was originally expected to sell for a fraction of the price Auctioneers estimated it would sell for over $1m, but on Thursday a Star Wars lightsaber used by Darth Vader in the famous “I am your father” scene from The Empire Strikes Back ended up selling for nearly $5m. Darth Vader’s saber was one of 27 lightsaber props up for sale by Heritage Auctions in the US, including ones used by Ewan McGregor’s Obi-Wan Kenobi and Hayden Christensen’s Anakin Skywalker in Revenge of the Sith. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/star-wars-darth-vader-lightsaber-sells-for-nearly-5m-auction",
-      "image": "https://i.guim.co.uk/img/media/d9dae96045308125438b564a2480095d842ede20/233_0_2483_1986/master/2483.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bff72ea6cc119fd314659b94fdac80c4",
-      "publishedAt": "2026-11-13T04:41:51.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-cm9vZ2UtZGlja2Vucw",
@@ -530,18 +554,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-3Rvci1zdXBlcmhlcm8",
-      "title": "Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men",
-      "description": "From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel hopeful for humanity ‘He stood for the best of us’: William Shatner and more pay tribute No actor showed the commercial potential of blue-chip British classical training like Patrick Stewart. With style, technique and the most minutely self-aware, almost vaudevillian sense of mimicry, Shakespearean thesps can turn their hand to American movies and high-end American television and show the American method actors how it’s done – sometimes, even, at the beginning of their screen careers, at a competitively low wage. Stewart was one of the thoroughbreds of the Royal Shakespeare Company’s 1970s stage generation who had also had classy small screen roles, such as his intimidating Sejanus in I, Claudius opposite Derek Jacobi. But he effected a warp-speed leap to pop culture stardom by getting the role of Jean-Luc Picard, captain of the Federation starship USS Enterprise, in TV’s Star Trek: The Next Generation, the hugely successful reboot of Star Trek that ran from 1987 to 1994, spawning four separate feature films and then another series, Star Trek: Picard. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
-      "image": "https://i.guim.co.uk/img/media/cb6cea9c589ef2978546a42f9a1aeb9c96ec1450/393_193_2243_1795/master/2243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f906fb65f4bc69d8a3195e9fc7a983b4",
-      "publishedAt": "2026-10-30T01:25:43.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
     },
     {
       "id": "guardian-ZmlsbS1mZXN0aXZhbA",
