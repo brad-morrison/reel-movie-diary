@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:29:24.302Z",
+  "generatedAt": "2026-11-18T00:44:57.906Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-tlLTEyMzUyMjg1MTcv",
+      "title": "A24’s TV Division Is Quietly Having as Strong a Year as Its Film Team",
+      "description": "With shows like \"Crystal Lake,\" \"Euphoria,\" and \"Margo's Got Money Troubles,\" the indie distributor has ramped up its output and landed shows on virtually every major streamer.",
+      "url": "https://www.indiewire.com/news/business/a24-tv-division-istrong-2026-crystal-lake-1235228517/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/NUP_211121_00008.jpg?w=650",
+      "publishedAt": "2026-11-17T22:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyODg2NS8",
+      "title": "‘The Further Mis-Adventures of Cliff Booth’ Throws Netflix’s Oscar Campaign a Curveball",
+      "description": "Of course Netflix has to campaign a film with this much built-in Oscars pedigree, but is that distracting the studio from supporting the viable awards contenders it already has?",
+      "url": "https://www.indiewire.com/awards/predictions/further-mis-adventures-cliff-booth-netflix-oscar-chances-1235228865/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2305495907.jpg?w=650",
+      "publishedAt": "2026-11-17T20:53:37.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-WUtMTIzNTIyODgxMS8",
+      "title": "How ‘Paper Tiger’ Evolved When Jeremy Strong and Anne Hathaway Couldn’t Reprise Their ‘Armageddon Time’ Roles",
+      "description": "James Gray discusses recasting his parents with Miles Teller and Scarlett Johansson, his father’s death, and shifting from memoir to crime thriller with “Paper Tiger.”",
+      "url": "https://www.indiewire.com/features/interviews/paper-tiger-sequel-armageddon-time-1235228811/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDPATI_EC045.jpg?w=650",
+      "publishedAt": "2026-11-17T20:20:13.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjg2NzYv",
+      "title": "Sean Connery Wasn’t the First James Bond: Meet Barry Nelson in the ‘Casino Royale’ You’ve Never Seen",
+      "description": "The role made famous by Sean Connery and newly inhabited by Robert Pattinson originated with an unlikely actor: \"The Shining\" hotel manager Barry Nelson.",
+      "url": "https://www.indiewire.com/features/commentary/first-james-bond-wasnt-sean-connery-meet-barry-nelson-1235228676/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TBDCLIM_EC039.jpg?w=650",
+      "publishedAt": "2026-11-17T19:02:03.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
@@ -150,7 +198,7 @@
     {
       "id": "guardian-XUtZG9jdW1lbnRhcnk",
       "title": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
-      "description": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Moroccan medina or a warren no self-respecting rabbit would allow. Buried amid the muddle is a man hunched over a computer keyboard, clacking out words meant to make sense of all the sounds that this physical media holds. Welcome to the lair of Robert Christgau, the self-declared “Dean of American Rock Critics”, as seen in a new documentary provocatively titled The Last Critic . “Bob is someone who has probably listened to more music, and published more words about music, than anyone to walk the face of the earth, and he’s still doing it in his mid-80s,” says Matty Wishnow, who directed the film. “It’s a career that’s both unprecedented and unrepeatable.” Continue reading...",
+      "description": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Moroccan medina or a warren no self-respecting rabbit would allow. Buried amid the muddle is a man hunched over a computer keyboard, clacking out words meant to make sense of all the sounds that these physical media hold. Welcome to the lair of Robert Christgau, the self-declared “Dean of American Rock Critics”, as seen in a new documentary provocatively titled The Last Critic . “Bob is someone who has probably listened to more music, and published more words about music, than anyone to walk the face of the earth, and he’s still doing it in his mid-80s,” says Matty Wishnow, who directed the film. “It’s a career that’s both unprecedented and unrepeatable.” Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/17/music-critic-robert-christgau-documentary",
       "image": "https://i.guim.co.uk/img/media/cde7c03e1f5a0dae3f87c3a6ed481d1fa73e6a58/502_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69161a101d76d7f13fa1b9d4c1d131a4",
       "publishedAt": "2026-11-17T11:00:36.000Z",
@@ -230,54 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XQtMTIzNTIyODUyNi8",
-      "title": "‘Spider-Man: Brand New Day’ Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind",
-      "description": "The extended version of the mega blockbuster opens December 4, and tickets go on sale November 19.",
-      "url": "https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSPMA_SP128.jpg?w=650",
-      "publishedAt": "2026-11-16T23:37:56.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XYtMTIzNTE5NDgyMC8",
-      "title": "‘Minotaur’ Review: Andrey Zvyagintsev’s Riveting Comeback Remakes Claude Chabrol and ‘Unfaithful’ for a Hopeless Wartime Russia",
-      "description": "We've seen this story before, and we know where it's going, but the \"Loveless\" and \"Leviathan\" director repositions the cliches of adultery thrillers into his own gloomy register to engrossing, icily exacting results.",
-      "url": "https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.22.34 PM.png?w=650",
-      "publishedAt": "2026-11-16T21:45:18.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-DctMTIzNTIyODM4MS8",
-      "title": "Cary Grant, Clint Eastwood, and Christian Bale: The Stars Who Almost Played James Bond",
-      "description": "Since \"Dr. No\" began the series in 1962, some of the world's biggest stars have been considered for 007 — we look at the most famous contenders who turned down or were rejected for the role.",
-      "url": "https://www.indiewire.com/features/commentary/james-bond-actors-who-turned-down-rejected-007-1235228381/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MSDEISA_EC002-e1794872232259.jpg?w=650",
-      "publishedAt": "2026-11-16T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI4NDYwLw",
-      "title": "Robert Pattinson as James Bond Proves That IP Is No Longer the New Movie Stars",
-      "description": "The blockbuster casting news was the final nail in the coffin of Hollywood's prevailing 2010s logic.",
-      "url": "https://www.indiewire.com/features/commentary/robert-pattinson-james-bond-proves-ip-are-not-movie-stars-1235228460/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-1375347212.jpg?w=650",
-      "publishedAt": "2026-11-16T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
