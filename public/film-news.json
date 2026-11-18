@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:35:08.372Z",
+  "generatedAt": "2026-11-18T12:31:59.421Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-5pcy12aWxsZW5ldXZl",
+      "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
+      "description": "The Crown star was reportedly an early favourite of director Denis Villeneuve, but ‘had reservations about the baggage associated with the role from the start’ Josh O’Connor, one of the actors on the final shortlist for the role of James Bond which was ultimately won by Robert Pattinson, was an early favourite of director Denis Villeneuve but pulled out of the contest before a decision was made, it has been reported. Writing in Puck’s What I’m Hearing newsletter , Matthew Belloni (who correctly forecast that Pattinson would win the role ) said that O’Connor “had reservations about the baggage associated with the role from the start” and pulled out shortly after his test. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+      "image": "https://i.guim.co.uk/img/media/f0267f7910cf541bbc76968089e75bbe1f13ba20/644_0_6444_5156/master/6444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d44bd40b5a342e2f1bd49a9bd3bfeb",
+      "publishedAt": "2026-11-18T11:51:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
+      "description": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T11:00:05.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-y1tYXNvbi1yZWV2ZXM",
+      "title": "Josephine review – Channing Tatum and Gemma Chan ballast knotty drama about a child witness to a rape",
+      "description": "Mason Reeves steals the show as an eight year old who stumbles across a sex assault but, despite strong performances, parts of the film feel contrived Beth de Araújo’s new movie takes a very big swing, and it has won prizes and acclaim since its premiere at Sundance. I was unsure about some of the film’s high-concept ideas but the lead performance from its eight-year-old newcomer Mason Reeves is outstanding. Those concerned about spoilers had better look away. Channing Tatum and Gemma Chan play Damien and Claire, a smart professional couple in San Francisco with a bright young daughter called Josephine, marvellously played by Reeves. Damien takes Josephine to Golden Gate Park one morning to play football (they turn out to enjoy watching the English Premier League on TV). She mischievously runs on ahead of her dad to a secluded spot in the park where Damien can’t immediately find her and it is there that Josephine witnesses a rape – not less horrifying for being filmed in long shot. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/josephine-review-mason-reeves",
+      "image": "https://i.guim.co.uk/img/media/dd31eea04dda79e57250b8e5a82ce81d278e221c/337_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e8728782172f01866fb0805cb0b21dc0",
+      "publishedAt": "2026-11-18T10:00:48.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-ZWUtZXZlcnl0aGluZw",
+      "title": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
+      "description": "With the UK release of You Can See Everything looming, now’s an ideal time to get up to speed on the bizarre, puckish and very meta comedic oeuvre of its star “There are three sides to every story: your side, my side, and the truth. And no one is lying. Memories shared serve each differently.” Those words were spoken by film producer Robert Evans – but nobody has ever interrogated the idea more skilfully than comedian Nathan Fielder. The three-hour documentary You Can See Everything – co-directed by and starring Fielder – opens in the UK on Friday, having already become an unlikely cultural phenomenon and box office sensation in the US. The film follows disgraced Theranos founder Elizabeth Holmes in the weeks leading up to her beginning a prison sentence for defrauding investors; what emerges is a profound meditation on the nature of truth and the fundamental unknowability of other human beings. To view the film as being simply about the Theranos scandal is akin to considering Casablanca merely a movie about a nightclub. And, as one might expect given Fielder’s background, it’s hilarious. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+      "image": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3de1e9ae2ff34263261eb3d38b7d99ed",
+      "publishedAt": "2026-11-18T08:00:35.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-1haGVyc2hhbGEtYWxp",
+      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali’s religious hitman on the hunt for baby milk",
+      "description": "The Oscar-winner plays a Muslim contract killer in a boisterous, blackly comic thriller with shades of John Woo and Tarantino There are shades of John Woo and Tarantino here in a black-comic thriller from Pakistani-American director Bassam Tariq. There are shades also of Blade, the Marvel character that this film’s star, Mahershala Ali, had been preparing to play in a planned but then cancelled MCU movie which Tariq was going to direct. Here Ali plays Latif, a military veteran turned hitman for hire who uses knives and swords, not guns, and just happens to be a devout Muslim. The title refers to the Islamic tradition in which Muhammad was asked three times who is the most deserving of respect and replied each time: “Your mother.” It is, however, this film’s semi-intentional irony that mothers and female authority figures are largely irrelevant in it, the drama being more about men without women. Latif is just finishing off a chaotic wet job in a squalid public bathroom one day, when he takes a call on his mobile from his teenage daughter Fatiha (played by Adia, from Steven Soderbergh’s streaming series Full Circle) telling him that his wife, Fatiha’s mother, has died. Convulsed with guilt at having neglected the family home for his homicidal profession, Latif arrives back to find his son Qadir (Jahleel Kamara) acting out, and his newborn baby allergic to formula, and only able to drink the expressed breast milk of which his late wife has left a limited stockpile in the fridge. So now this tough guy has to put the baby in a papoose and go around getting breast milk from Muslim family charities. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/your-mother-your-mother-your-mother-review-mahershala-ali",
+      "image": "https://i.guim.co.uk/img/media/d0119ef5a99ce9e9e79cd8b0ac55242d9e58206a/643_0_6442_5152/master/6442.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b021e5e3570da0a64960987f88fc23d1",
+      "publishedAt": "2026-11-18T07:00:34.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "BBC drama Shetland to return for 12th series",
+      "description": "The new series will be made up of six episodes filmed in locations on the Shetland Isles and across Scotland .",
+      "url": "https://www.bbc.co.uk/news/articles/cv62p3y89z13o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/24b6/live/bd9600d0-e2d2-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T06:23:02.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
     {
       "id": "guardian-by1kZWFkLWNsb3ducw",
       "title": "The first truly weird Bond: 13 things to know about Robert Pattinson – from heavy saliva to dead clowns",
@@ -32,8 +104,20 @@
       "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
       "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
       "url": "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin",
-      "image": "https://i.guim.co.uk/img/media/7d4e303fcd39d077eed325014feb8076e2ba95b8/0_870_4912_3929/master/4912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e0606962f9047a474ede2ed343178fe",
+      "image": "https://i.guim.co.uk/img/media/7d4e303fcd39d077eed325014feb8076e2ba95b8/887_1459_3376_2702/master/3376.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52a9ca15f59e53642402601be0190ea5",
       "publishedAt": "2026-11-18T05:00:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZmYtYmV6b3MtcGljaw",
+      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
+      "description": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson Amazon’s founder and billionaire chairman Jeff Bezos has said he was “heavily involved” in the decision to cast Robert Pattinson as the next James Bond. Amazon paid more than $1bn for “creative control” of the Bond franchise last year, striking a deal with the longtime heirs and stewards of the films, shocking fans who worried that Bezos’ takeover would signal an end to the franchise as they knew it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
+      "image": "https://i.guim.co.uk/img/media/7cbe6de1f6428412178cc0bf05d7ace0713c62c0/366_0_3913_3130/master/3913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab3883eb2e0181619043c052e0e1b788",
+      "publishedAt": "2026-11-18T02:13:58.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -196,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-y1ldmVyZGVlbi1lcmE",
-      "title": "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era",
-      "description": "Overwrought and boring, this nadir of a prequel to the Games’ death match saga is nothing but a cash grab for an exhausted franchise Here is yet another iteration of the utterly exhausted, unbearably extended and now surreally boring Hunger Games franchise, based on the YA bestsellers by Suzanne Collins. This one has another of the series’ convoluted faux-mythic subtitles: Sunrise on the Reaping. What, “harvest dawn” not old-timey enough? Well, “reaping” in fact refers to an annual process by which ordinary smudgy faced, raggedy clothed people are chosen at random for compulsory participation in this futurist dystopia’s brutal, televised survival contest to the death: a bread-and-circuses nightmare with which the rulers keep the populace in a cowed and pacified state. In this Darwinian process, competitors strategically team up with (and then betray) some players against others in the short term, to stay in the game. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era",
-      "image": "https://i.guim.co.uk/img/media/fbb125058ee758d16b2182331552f95af8246b8c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=1d35446afec0489708c68bbef6b3940a",
-      "publishedAt": "2026-11-17T14:00:14.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-dy0xMjM1MjI4NDgxLw",
       "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: They Shoot Franchises, Don’t They?",
       "description": "Kidding, mostly, as this underwhelming sixth \"Hunger Games\" movie is about to make a hysterical amount of money.",
@@ -244,42 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-XUtZG9jdW1lbnRhcnk",
-      "title": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
-      "description": "Beloved for his savage takedowns and rhapsodic raves, the legendary Village Voice reviewer opens up in a candid new documentary Rows and rows of CDs, albums, cassettes and books creak and groan on shelves that snake around the walls and choke the halls of an apartment in New York City’s East Village. The clutter that sprawls through its rooms is so dense it suggests the twistiest parts of a Moroccan medina or a warren no self-respecting rabbit would allow. Buried amid the muddle is a man hunched over a computer keyboard, clacking out words meant to make sense of all the sounds that these physical media hold. Welcome to the lair of Robert Christgau, the self-declared “Dean of American Rock Critics”, as seen in a new documentary provocatively titled The Last Critic . “Bob is someone who has probably listened to more music, and published more words about music, than anyone to walk the face of the earth, and he’s still doing it in his mid-80s,” says Matty Wishnow, who directed the film. “It’s a career that’s both unprecedented and unrepeatable.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/music-critic-robert-christgau-documentary",
-      "image": "https://i.guim.co.uk/img/media/cde7c03e1f5a0dae3f87c3a6ed481d1fa73e6a58/502_0_2697_2160/master/2697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69161a101d76d7f13fa1b9d4c1d131a4",
-      "publishedAt": "2026-11-17T11:00:36.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-bi1kb2N1bWVudGFyeQ",
-      "title": "American Doctor review – medics put their lives on the line in Gaza amid the carnage",
-      "description": "Poh Si Teng’s powerful documentary follows three doctors from the US who sign up to volunteer at the Nasser hospital This is the latest documentary about medics travelling to Palestine to treat civilian casualties; it’s a powerful, angry film, in a state of despair at the scale of suffering and devastation. A sliver of hope is the trio of doctors it profiles, individuals acting on their conscience. (The same can be said of director Poh Si Teng , who quit her job at ABC News and cashed in her savings to get the documentary off the ground.) It follows three American doctors who sign up to volunteer at the Nasser hospital in southern Gaza in early 2025 – though one of the trio, Thaer Ahmad, an ER doctor of Palestinian heritage from Chicago, is refused entry the night before they enter Gaza. His colleagues, Dr Feroze Sidhwa, a trauma surgeon, and Dr Mark Perlmutter, a Jewish-American orthopaedic surgeon, complete the mission. This is not the first time in Gaza for either of them. Before he leaves, Perlmutter packs antibiotics into a dozen or so little plastic bags dotted around his luggage; that way if he gets turned back at the border, he stands a chance of getting some of the life-saving medication through. Given the high death rate of medics in the war, he also gets a will drawn up before he goes. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/american-doctor-review-medics-put-their-lives-on-the-line-in-gaza-poh-si-ten-documentary",
-      "image": "https://i.guim.co.uk/img/media/b6d4c43469954f1e9d743d0fcd2ac49bd38105af/699_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=8cec1624e16c71fadcd8288c6a3746b4",
-      "publishedAt": "2026-11-17T11:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-TAteWVhcnMtbGF0ZXI",
-      "title": "Rocky is Philadelphia’s founding myth – and 50 years later, we’re still telling it",
-      "description": "As Sylvester Stallone’s Oscar-winning drama celebrates its 50th anniversary, I Play Rocky helps to further turn the boxing hero into the stuff of legend The story behind the making of Rocky has always sounded uncannily like Rocky itself. An unknown with an improbable dream, a skeptical establishment and a refusal to accept the odds: Sylvester Stallone’s real-life struggle to crack the industry and bring his breakthrough film to the screen contained all the elements of the underdog story he sought to tell. Now, half a century later, Peter Farrelly’s I Play Rocky has crafted those parallels into a crowd-pleasing yarn of its own. It’s an extraordinary afterlife for a modest boxing flick that became the highest-grossing film of 1976 on a $1m budget and won the Oscar for best picture over one of the most stacked fields in history. Yet its greatest achievement may be the durability of the story – dismissed then by the New York Times as a “sentimental little slum movie” and Gene Siskel as a “flatout schmaltzy saga” – that we’re still finding new ways to repurpose all these years later through six Rocky films, three Creed sequels, a Broadway musical , and too many documentaries, novelizations and video games to count. At some point long ago, a screenplay written in three and a half days and never envisioned as IP became something closer to contemporary folklore. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/rocky-philadelphia-founding-myth-50-years-later",
-      "image": "https://i.guim.co.uk/img/media/58a55aa7a9f317f2719b5cf227ec9d26d57caf42/0_0_1486_1189/master/1486.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78212749f514a6b7d9095b890175be40",
-      "publishedAt": "2026-11-17T10:00:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Classics"
-    },
-    {
       "id": "indiewire-nMtMTIzNTIyODU0MC8",
       "title": "‘The Further Mis-Adventures of Cliff Booth’ First Reactions: Quentin Tarantino and David Fincher Deliver a ‘Pure Riot’ of a Hangout Movie",
       "description": "Following the Los Angeles premiere on Monday night, critics took to social media to express their delight at Brad Pitt's second turn as the eponymous stuntman.",
@@ -289,18 +325,6 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
-      "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T02:11:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -341,18 +365,6 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "description": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/6e5e/live/d9ec2540-e1b8-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-16T13:40:56.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "The Scouse actor reaching new heights in Liverpool drama This City Is Ours",
       "description": "Adam Abbou says more needs to be done to improve working-class representation in TV.",
       "url": "https://www.bbc.co.uk/news/articles/cm15e3xg9njeo?at_medium=RSS&at_campaign=rss",
@@ -362,30 +374,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
-    },
-    {
-      "id": "guardian-VsdC1jb252aWN0aW9u",
-      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
-      "description": "French actor apologises to two women he was convicted of assaulting on a film set in 2021 The French actor Gérard Depardieu has dropped his appeal against a conviction for sexually assaulting two women on a film set, and has for the first time apologised to the victims. “I was found guilty. I hear it and I accept this conviction,” Depardieu, 77, said in a written statement. “I address my deep and sincere apologies to those who suffered.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
-      "image": "https://i.guim.co.uk/img/media/8645152ecf7185cd8b3f83c5e21adaaddb0697bc/480_355_3217_2574/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad3d380980f8f8911815e8a3f0e919bf",
-      "publishedAt": "2026-11-16T12:10:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Tourette's film I Swear wins three Scottish Baftas",
-      "description": "The film about Tourette syndrome campaigner John Davidson won Best Film, Best Director and Best Actor.",
-      "url": "https://www.bbc.co.uk/news/articles/crgqx11wkzy8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/74c2/live/cb325680-e1b5-11f1-9a3f-99aca912798e.png",
-      "publishedAt": "2026-11-16T12:04:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-cm1hbi1za3lkYW5jZQ",
@@ -398,18 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-bmQtY29udGVuZGVycw",
-      "title": "Robert Pattinson reportedly leads James Bond contenders",
-      "description": "Reports that the star – the most high-profile of the final five contenders – has been offered favourable contract terms hint that Amazon MGM may want him as its first 007 Robert Pattinson has emerged as the favourite in the race to succeed Daniel Craig as James Bond, according to a credible film-industry source. Writing in Puck , Matthew Belloni suggests that the favourable contract terms he says have been offered to Pattinson suggest that the actor, currently in cinemas with reality-crime thriller Primetime , is studio Amazon MGM’s preferred choice for the role. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
-      "image": "https://i.guim.co.uk/img/media/5d9df4d9855cba3883b954df19e7f67df283ede1/39_222_5628_4502/master/5628.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5610b5cf312fa55be91e4fbc2df4ea9c",
-      "publishedAt": "2026-11-13T13:40:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-3JlLW9zY2FyLWJ1eno",
@@ -502,6 +478,18 @@
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
       "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
       "publishedAt": "2026-11-09T11:00:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-E0dGgtYW1lbmRtZW50",
+      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
+      "description": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus while making her new film – or how anyone does, when the onslaught of news, fake news and disputed facts seems designed to overwhelm – she starts to answer, then stops. Her eyes have filled&nbsp;with tears. “I just got emotional, as you said that, because it was the film that saved me,” she says. “It’s been a very tough two years. I live in Los Angeles, and I’ve seen people in my neighbourhood pulled out of their cars. The lady who sells flowers next to my office was there&nbsp;one day, and the next day she wasn’t. People I know personally are literally hiding in their houses, like Anne Frank vibes … So when I would feel the rage and the fear, I&nbsp;put it into the film … And I just … I was doing something.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
+      "image": "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1895c991b6e1a10d6d19798310bda51c",
+      "publishedAt": "2026-11-08T10:00:36.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
