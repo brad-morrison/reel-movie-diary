@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:31:59.421Z",
+  "generatedAt": "2026-11-18T18:28:07.265Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-HQtMTIzNTIxNDU4NC8",
+      "title": "‘Elsinore’ Review: Andrew Scott’s Towering Performance as a Dying Actor Can’t Overcome AIDS-Movie Awards Bait Clichés",
+      "description": "Scott vividly portrays \"Gandhi\" and \"Chariots of Fire\" star Ian Charleson, who made \"Hamlet\" his final role at the National Theatre, but the movie around him sinks into forgettability.",
+      "url": "https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650",
+      "publishedAt": "2026-11-18T18:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-2gtMTIzNTIyODg5OC8",
+      "title": "Jim Cummings Wakes Up to a Post-One-Night-Stand Crisis in ‘DISC’ — Watch the Short",
+      "description": "Exclusive: Blake Winston Rice directs the short film, which premiered at the 2025 Toronto International Film Festival before screening at over 50 festivals worldwide.",
+      "url": "https://www.indiewire.com/news/general-news/jim-cummings-disc-short-film-vimeo-staff-pick-watch-1235228898/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-17-at-5.55.48-PM.png?w=650",
+      "publishedAt": "2026-11-18T17:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjI5MDg2Lw",
+      "title": "‘Artificial’ Trailer: Andrew Garfield Stuns in Luca Guadagnino’s Sharp, Shocking, Funny Portrayal of OpenAI CEO Sam Altman",
+      "description": "The \"Call Me by Your Name\" and \"Challengers\" director takes on artificial intelligence in the Neon release starring Andrew Garfield.",
+      "url": "https://www.indiewire.com/news/trailers/artificial-trailer-luca-guadagnino-sam-altman-1235229086/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ARTF_Still3.jpg?w=650",
+      "publishedAt": "2026-11-18T17:01:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-3ctMTIzNTIyOTEwOC8",
+      "title": "‘The Comeback King’ Trailer: Glen Powell Is a Cancelled Country Star in Judd Apatow’s Latest Directing Project",
+      "description": "Apatow and Powell co-wrote the Universal comedy, which also stars Madelyn Cline and a massive roster of country musicians.",
+      "url": "https://www.indiewire.com/news/trailers/the-comeback-king-trailer-glen-powell-judd-apatow-1235229108/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-18-at-8.42.56-AM.png?w=650",
+      "publishedAt": "2026-11-18T16:59:23.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-eC0xMjM1MTkzODA4Lw",
+      "title": "‘Gentle Monster’ Review: Léa Seydoux Learns the Truth About Her Husband in Marie Kreutzer’s Tough Study of Child Sex Abuse",
+      "description": "A tough and unflinching social drama about the predators among us — and how difficult it can be to see them for what they are.",
+      "url": "https://www.indiewire.com/criticism/movies/gentle-monster-movie-review-lea-seydoux-1235193808/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/image.webp?w=650",
+      "publishedAt": "2026-11-18T16:15:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjI5MDc2Lw",
+      "title": "Tilda Swinton, Mark Ruffalo, Jacques Audiard, and Others Join in Protest of Jafar Panahi’s Prison Sentence",
+      "description": "In October, the Tehran Revolutionary Court sentenced Jafar Panahi to more than five years in prison, plus additional penalties such as the seizure of assets and the freezing of his bank accounts.",
+      "url": "https://www.indiewire.com/news/general-news/jafar-panahi-prison-protested-mark-ruffalo-tilda-swinton-1235229076/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P103LW6J.jpg?w=650",
+      "publishedAt": "2026-11-18T15:01:25.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-xtLTEyMzUyMjg5ODAv",
+      "title": "What Happens If We Break Letterboxd?",
+      "description": "Repertory theaters have been a bright spot in a rough stretch for Hollywood. A possible Letterboxd sale raises concerns about how old movies find new audiences — and what happens if those young cinephiles scatter.",
+      "url": "https://www.indiewire.com/features/interviews/what-happens-if-we-break-letterboxd-repertory-film-1235228980/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-9.42.29-PM.png?w=650",
+      "publishedAt": "2026-11-18T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dnLTEyMzUyMjg3OTcv",
+      "title": "How GKIDS Home Releases Are Creating the Fandom They Want to See in the World",
+      "description": "Director of Home Entertainment Alison Kozberg tells IndieWire about bringing Mamoru Oshii and Yoshitaka Amano's \"Angel's Egg\" to Blu-ray.",
+      "url": "https://www.indiewire.com/features/craft/gkids-new-home-releases-linda-linda-linda-angels-egg-1235228797/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/image.jpeg?w=650",
+      "publishedAt": "2026-11-18T13:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-5pcy12aWxsZW5ldXZl",
       "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
@@ -52,6 +148,18 @@
       "category": "Reviews"
     },
     {
+      "id": "guardian-W5zb24tYm9uZC0wMDc",
+      "title": "‘Worst decision in cinema history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
+      "description": "‘Deliciously dark’! ‘Not sexy enough’! Opinion is split on whether the star of Twilight and The Batman is the right choice to play 007. Here’s what some of you thought So it’s official, Robert Pattinson will be James Bond. The long-awaited announcement of who would be stepping into 007’s tuxedo came as a surprise, and has divided opinion, judging by the more than 700 responses the Guardian received to a callout on the topic. Readers were split on whether bosses at the franchise’s owner Amazon were right to give the role to the star of Twilight, Tenet and The Batman. Here are some of their views. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+      "image": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_795_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=597b450a26ed42138e6e134d3d02a714",
+      "publishedAt": "2026-11-18T10:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-ZWUtZXZlcnl0aGluZw",
       "title": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
       "description": "With the UK release of You Can See Everything looming, now’s an ideal time to get up to speed on the bizarre, puckish and very meta comedic oeuvre of its star “There are three sides to every story: your side, my side, and the truth. And no one is lying. Memories shared serve each differently.” Those words were spoken by film producer Robert Evans – but nobody has ever interrogated the idea more skilfully than comedian Nathan Fielder. The three-hour documentary You Can See Everything – co-directed by and starring Fielder – opens in the UK on Friday, having already become an unlikely cultural phenomenon and box office sensation in the US. The film follows disgraced Theranos founder Elizabeth Holmes in the weeks leading up to her beginning a prison sentence for defrauding investors; what emerges is a profound meditation on the nature of truth and the fundamental unknowability of other human beings. To view the film as being simply about the Theranos scandal is akin to considering Casablanca merely a movie about a nightclub. And, as one might expect given Fielder’s background, it’s hilarious. Continue reading...",
@@ -82,6 +190,18 @@
       "url": "https://www.bbc.co.uk/news/articles/cv62p3y89z13o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/24b6/live/bd9600d0-e2d2-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-18T06:23:02.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "'Real life' family ghost story inspires 'nightmarish' new TV drama",
+      "description": "The \"real-life ghost story\" was filmed in Wales and stars Black Doves actress Gabrielle Creevy.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/da94/live/231ce0b0-e32b-11f1-acde-0b701d18dadb.jpg",
+      "publishedAt": "2026-11-18T06:10:18.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -150,7 +270,7 @@
     {
       "id": "indiewire-XMtMTIzNTIyODg2NS8",
       "title": "‘The Further Mis-Adventures of Cliff Booth’ Throws Netflix’s Oscar Campaign a Curveball",
-      "description": "Of course Netflix has to campaign a film with this much built-in Oscars pedigree, but is that distracting the studio from supporting the viable awards contenders it already has?",
+      "description": "Of course Netflix has to campaign a film with this much built-in Oscars pedigree, but is it the best bet for a Best Picture nomination?",
       "url": "https://www.indiewire.com/awards/predictions/further-mis-adventures-cliff-booth-netflix-oscar-chances-1235228865/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2305495907.jpg?w=650",
       "publishedAt": "2026-11-17T20:53:37.000Z",
@@ -172,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-9uLTEyMzUyMjg2NzYv",
-      "title": "Sean Connery Wasn’t the First James Bond: Meet Barry Nelson in the ‘Casino Royale’ You’ve Never Seen",
-      "description": "The role made famous by Sean Connery and newly inhabited by Robert Pattinson originated with an unlikely actor: \"The Shining\" hotel manager Barry Nelson.",
-      "url": "https://www.indiewire.com/features/commentary/first-james-bond-wasnt-sean-connery-meet-barry-nelson-1235228676/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TBDCLIM_EC039.jpg?w=650",
-      "publishedAt": "2026-11-17T19:02:03.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
       "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
@@ -193,42 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIyODcxMy8",
-      "title": "‘The Other Bennet Sister’ Christmas Special Trailer: Can Mary Bennet Still Be Herself and ‘the Perfect Wife’?",
-      "description": "The smash hit BritBox series will return this winter with three very specials, and one heck of a surprise for fans of Caroline Bingley.",
-      "url": "https://www.indiewire.com/news/trailers/the-other-bennet-sister-christmas-special-trailer-1235228713/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ella-bruccoleri-mary_6afc8971387b5.jpg?w=650",
-      "publishedAt": "2026-11-17T17:30:46.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-dlLTEyMzUyMjg2NjQv",
-      "title": "‘Madden’ Review: David O. Russell Fumbles Again with an Unfunny and Purposeless Football Biopic",
-      "description": "Would it surprise you to learn that Nicolas Cage in a fat suit doesn’t a compelling film make?",
-      "url": "https://www.indiewire.com/criticism/movies/madden-movie-review-nicolas-cage-1235228664/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/cage-madden-feature.jpg?w=650",
-      "publishedAt": "2026-11-17T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-eC0xMjM1MjI4Njg2Lw",
-      "title": "Skydance Sets Film Leadership Team: Don Granger and Kira Goldberg to Head Paramount Motion Picture Group, Jesse Ehrman Promoted to WB Pictures Chief",
-      "description": "Mikey Ireland will remain as president of production at WB, while Bill Damaschke will leave the animation group.",
-      "url": "https://www.indiewire.com/news/breaking-news/skydance-warner-bros-leadership-team-don-granger-kira-goldberg-netflix-1235228686/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650",
-      "publishedAt": "2026-11-17T16:57:54.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -242,54 +314,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "indiewire-mctMTIzNTIyODU5NS8",
-      "title": "Movie Theaters Are Back, but the Rest of Hollywood Seems to Be Crumbling",
-      "description": "Ticket sales are up 20 percent, but cord-cutting, streaming struggles, and costly mergers have the entertainment business running scared.",
-      "url": "https://www.indiewire.com/news/analysis/movie-theaters-comeback-hollywood-crumbling-1235228595/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2226702246-e1794922553132.jpg?w=650",
-      "publishedAt": "2026-11-17T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyODUxNi8",
-      "title": "Desire, Death, and a Breakthrough Year for Queer Cinema",
-      "description": "Proving queerness isn’t the problem has become a unifying rallying cry in LGBTQ+ films like \"La Bola Negra,\" \"Leviticus,\" and \"Elsinore.\"",
-      "url": "https://www.indiewire.com/features/commentary/breakthrough-year-for-queer-cinema-la-bola-negra-elsinore-leviticus-1235228516/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/LaBolaNegra-Leviticus-Elsinore-Split.jpg?w=650",
-      "publishedAt": "2026-11-17T14:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-xvbmUtam9lLXBlc2Np",
-      "title": "Call my (estate) agent! Why celebrities are always buying each other’s homes",
-      "description": "If you’re seeking a discreet mansion with secluded grounds and plenty of room for your own memorabilia, you may want to remember Joe Pesci’s mistakes before trying the open market Last year, Austin Butler bought a mansion from Brad Pitt. The month before, Brad Pitt bought a mansion from one of the Killers. In 2022, Adele bought Sylvester Stallone’s old house, but only if he let her keep his Rocky statue. Aaron Paul recently sold a house that he bought from The Big Bang Theory’s Jim Parsons, who bought it from Robert Pattinson, after it was previously owned by Noah Wyle, Kareem Abdul-Jabbar, Tim Curry and the guy who directed Legally Blonde. If this makes it sound to you as if there are only a handful of celebrity-friendly homes on earth, and celebrities spend their lives swapping them around among themselves, then you’re right. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/celebrities-buying-each-others-homes-brad-pitt-sylvester-stallone-joe-pesci",
-      "image": "https://i.guim.co.uk/img/media/de1bdba5ee7807c6e69a6dcf01ea487472859e26/330_0_2230_1784/master/2230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa421f6ae20ae74f2ccb72dc1ccd6817",
-      "publishedAt": "2026-11-17T14:07:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dy0xMjM1MjI4NDgxLw",
-      "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: They Shoot Franchises, Don’t They?",
-      "description": "Kidding, mostly, as this underwhelming sixth \"Hunger Games\" movie is about to make a hysterical amount of money.",
-      "url": "https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDHUGA_LG062.jpg?w=650",
-      "publishedAt": "2026-11-17T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -313,18 +337,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-nMtMTIzNTIyODU0MC8",
-      "title": "‘The Further Mis-Adventures of Cliff Booth’ First Reactions: Quentin Tarantino and David Fincher Deliver a ‘Pure Riot’ of a Hangout Movie",
-      "description": "Following the Los Angeles premiere on Monday night, critics took to social media to express their delight at Brad Pitt's second turn as the eponymous stuntman.",
-      "url": "https://www.indiewire.com/news/general-news/the-further-mis-adventures-of-cliff-booth-first-reactions-1235228540/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/UFP25_R02_104y_v04.189840.jpg?w=650",
-      "publishedAt": "2026-11-17T06:58:15.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
