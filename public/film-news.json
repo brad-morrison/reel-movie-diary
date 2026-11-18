@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T00:44:57.906Z",
+  "generatedAt": "2026-11-18T06:35:08.372Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,42 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-by1kZWFkLWNsb3ducw",
+      "title": "The first truly weird Bond: 13 things to know about Robert Pattinson – from heavy saliva to dead clowns",
+      "description": "How did Hollywood’s most eccentric star get cast in its most mainstream role? Here is all the bizarre and baffling lore from his lustrous career It’s bad news for Callum Turner, Jack Lowden and Josh O’Connor, of course, but the announcement that Robert Pattinson will be the next 007 means that those people who have never cared much about James Bond finally have a reason to. The appointment has been greeted with much excitement by everyone who has had a soft spot for R-Patz since Twilight, the sense-defying sparkly vampire franchise that transformed him into a reluctant teen heart-throb and household name. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/first-truly-weird-bond-13-things-robert-pattinson-from-heavy-saliva-to-dead-clowns",
+      "image": "https://i.guim.co.uk/img/media/74920581c0e4f3019e057da441ae3058a2bd7099/0_0_4529_3624/master/4529.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab485a0ddb314316dfdd3139afc6e3cb",
+      "publishedAt": "2026-11-18T05:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-24tamFuZS1iaXJraW4",
+      "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
+      "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
+      "url": "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin",
+      "image": "https://i.guim.co.uk/img/media/7d4e303fcd39d077eed325014feb8076e2ba95b8/0_870_4912_3929/master/4912.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e0606962f9047a474ede2ed343178fe",
+      "publishedAt": "2026-11-18T05:00:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-N0LTEyMzUyMjg4ODkv",
+      "title": "IDA Documentary Awards 2026 Nominations: ‘You Can See Everything,’ ‘Concrete Land,’ and More Earn Nods",
+      "description": "The 42nd annual IDA Documentary Awards will take place December 4, 2026, at The Ebell of Los Angeles.",
+      "url": "https://www.indiewire.com/awards/results/ida-documentary-awards-nominations-2026-full-list-1235228889/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/YCSE_EGGS.jpg?w=650",
+      "publishedAt": "2026-11-18T01:36:24.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-tlLTEyMzUyMjg1MTcv",
       "title": "A24’s TV Division Is Quietly Having as Strong a Year as Its Film Team",
@@ -110,6 +146,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-WRlby1leHBsYWluZXI",
+      "title": "What will Robert Pattinson bring to the James Bond role? – video explainer",
+      "description": "Robert Pattinson has been chosen as the next James Bond. The Guardian film critic Peter Bradshaw explains what Pattinson could bring to the role and how the franchise might evolve under Amazon's creative control Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond Continue reading...",
+      "url": "https://www.theguardian.com/film/video/2026/nov/17/what-will-robert-pattinson-bring-to-the-james-bond-role-video-explainer",
+      "image": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_812_9126_7294/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5637943996b45397992387b253d80cdf",
+      "publishedAt": "2026-11-17T16:32:03.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
     },
     {
       "id": "indiewire-mctMTIzNTIyODU5NS8",
@@ -232,18 +280,6 @@
       "category": "Classics"
     },
     {
-      "id": "guardian-QtaGFwcGVucy1uZXh0",
-      "title": "Robert Pattinson is James Bond. So what happens next?",
-      "description": "The wait for the new Bond is over but that’s only the beginning – there are still small issues such as the script, title, setting, casting, branding and promotion … • Robert Pattinson announced as James Bond – news • Share your thoughts on the casting • Peter Bradshaw’s take • Pattinson’s journey to James Bond • Behind Bond’s bankability It’s official: Robert Pattinson is the new James Bond . While never a certainty for the role, for those reading the runes inside the film industry, the announcement will have been a tiny bit anticlimactic. Ever since it emerged that the film’s producers appeared unsatisfied with their initial shortlist and called in Pattinson alongside Nicholas Hoult, it appeared that in this new era for Bond under Amazon MGM, the traditional Bond barrier against an established Hollywood leading man was no longer in place. And with no shade to Hoult, Pattinson’s record at delivering in major franchises – Twilight, The Batman, Dune – as well as his classy acting CV put him firmly in the driving seat. In another departure from traditional 007 practice, Amazon MGM announced the casting decision via posts on social media , rather than at a press call in a fancy London hotel, which is how the world officially found out about George Lazenby, Roger Moore and Pierce Brosnan . Although this will have been thought through as a way to maximise audience engagement with the forthcoming film, it perhaps is a disappointment to Bond purists that a big show wasn’t staged, and it may be Amazon MGM’s next order of business to organise a fan-type convention – or even piggyback on the next big fanclub event, due in December – to present Pattinson to an adoring audience. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/robert-pattinson-is-james-bond-so-what-happens-next",
-      "image": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_723_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f88676e1ce2ddd2d7b560b18d74e0a2e",
-      "publishedAt": "2026-11-17T07:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "indiewire-nMtMTIzNTIyODU0MC8",
       "title": "‘The Further Mis-Adventures of Cliff Booth’ First Reactions: Quentin Tarantino and David Fincher Deliver a ‘Pure Riot’ of a Hangout Movie",
       "description": "Following the Los Angeles premiere on Monday night, critics took to social media to express their delight at Brad Pitt's second turn as the eponymous stuntman.",
@@ -266,18 +302,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjg0NDYv",
-      "title": "‘Hershey’ Review: An Unbelievably Flavorless Biopic About America’s Most Famous Chocolatier",
-      "description": "Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of \"values-based entertainment.\"",
-      "url": "https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/hershey.webp?w=650",
-      "publishedAt": "2026-11-17T00:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -388,18 +412,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-YW5ub3VuY2VkLTAwNw",
-      "title": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
-      "description": "As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it And then there were five. While nothing has been officially announced, it is widely understood that the shortlist to replace Daniel Craig as James Bond is now down to a handful of actors: Callum Turner, Jack Lowden, Josh O’Connor, Robert Pattinson and Nicholas Hoult. The hunt for a new Bond comes at a propitious moment for the franchise as a whole, 25 films in (not counting the two “unofficial” entries, Casino Royale in 1967 and Never Say Never Again in 1983). After Daniel Craig stood down from the role after completing No Time to Die (in which Bond appeared to be killed in a missile strike), Amazon MGM Studios paid over $1bn to acquire “creative control” from Barbara Broccoli and Michael G Wilson, the British-American heirs to the series’ original producer Albert “Cubby” Broccoli and longtime stewards of the Bond films. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007",
-      "image": "https://i.guim.co.uk/img/media/3b6fefef892541b4cbaa946c4cf1385b74aa8110/807_313_1562_1251/master/1562.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=662b9024800300b53ad13933f1e45ce4",
-      "publishedAt": "2026-11-13T11:31:21.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-3JlLW9zY2FyLWJ1eno",
       "title": "‘Women are pitted against each other. It’s a bloodsport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
       "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To which Beckett replied: “Inwards.” Hearing this story, another Billie – the teen pop star turned Doctor Who companion and Olivier award-winning powerhouse Billie Piper – lets out a laugh so raucous and expansive, it is as if a flock of gaily coloured birds has been released into the room, flapping and squawking in every corner. “Fuck, that’s awesome,” she says. Continue reading...",
@@ -490,18 +502,6 @@
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
       "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
       "publishedAt": "2026-11-09T11:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-E0dGgtYW1lbmRtZW50",
-      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
-      "description": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus while making her new film – or how anyone does, when the onslaught of news, fake news and disputed facts seems designed to overwhelm – she starts to answer, then stops. Her eyes have filled&nbsp;with tears. “I just got emotional, as you said that, because it was the film that saved me,” she says. “It’s been a very tough two years. I live in Los Angeles, and I’ve seen people in my neighbourhood pulled out of their cars. The lady who sells flowers next to my office was there&nbsp;one day, and the next day she wasn’t. People I know personally are literally hiding in their houses, like Anne Frank vibes … So when I would feel the rage and the fear, I&nbsp;put it into the film … And I just … I was doing something.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
-      "image": "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1895c991b6e1a10d6d19798310bda51c",
-      "publishedAt": "2026-11-08T10:00:36.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
