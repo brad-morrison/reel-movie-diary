@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:28:07.265Z",
+  "generatedAt": "2026-11-19T00:44:20.154Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
+      "description": "Freja Brown beat more than 1,000 entries and met some of the stars after winning a competition.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gnxjy5zllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/718c/live/e3805b60-e368-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-18T23:01:49.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Z2h0b24tbWVlc3Rlcg",
+      "title": "Guarding Stars review – Leighton Meester is a delight in fizzy Netflix holiday romance",
+      "description": "As a female bodyguard protecting an A-list star, the Gossip Girl actor shines in Christmas movie a cut above the competition Though it is my personal opinion that Christmas should not begin until after Thanksgiving, I am pleased to say that we already have at least one treat in Netflix’s holiday movie assembly line: Guarding Stars, starring Leighton Meester as a frosty bodyguard tasked with protecting Jared Padalecki’s movie star at, of all places, his family’s Montana ranch, falls on the fizzy side of seasonal fluff. Good holiday movies are an exercise in knowing silliness, and so it is a relief when the first 10 minutes of this movie, directed by Elizabeth Allen Rosenbaum, strikes the rare December balance between hearth-like warmth (the twinkle in Meester’s chocolate eyes when her Hannah Brooks lands a verbal punch) and complete lunacy (she lands that punch in an argument with her ex about … cuddling … literally seconds after thwarting an assassination attempt in Times Square). As a homespun band of hot would-be cowboys later drawl at a Christmas parade in “Montana” (Canada, per usual): “Christmas is back, y’all.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester",
+      "image": "https://i.guim.co.uk/img/media/cb2891170722de5a167aebc17b137450b276e07f/306_0_4500_3600/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=8811907a7e9b62e66f0900499cbc6c8a",
+      "publishedAt": "2026-11-18T22:07:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-3UtMTIzNTIyODk4OC8",
+      "title": "‘Bedford Park’ Trailer: Sundance Winner Stars Moon Choi, Who Falls for the Other Driver in Her Mother’s Car Accident",
+      "description": "Exclusive: Set in New Jersey, Stephanie Ahn’s magical Sundance winner co-stars Son Sukku.",
+      "url": "https://www.indiewire.com/news/trailers/bedford-park-trailer-moon-choi-son-sukku-1235228988/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDBEPA_SP001.jpg?w=650",
+      "publishedAt": "2026-11-18T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-l0LTEyMzUyMjkyNTIv",
+      "title": "David Ellison on Elon Musk’s Skydance Investment, Trump and ‘Rush Hour 4,’ and Whether He Would’ve Made ‘Digger’",
+      "description": "The Skydance chief leaned on some talking points in a chat with the New York Times at the DealBook Summit.",
+      "url": "https://www.indiewire.com/news/general-news/david-ellison-elon-musk-digger-dealbook-summit-1235229252/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2305729094.jpg?w=650",
+      "publishedAt": "2026-11-18T21:56:45.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Z4LTEyMzUyMjg0ODIv",
+      "title": "Christopher Nolan and Guillermo del Toro Break Down ‘The Odyssey’ Monsters and AI’s Limitations with Production VFX Supervisor Andrew Jackson",
+      "description": "Exclusive: Watch the director and his longtime collaborator explain creating the Cyclops, Scylla, and Circes sequences at a Visual Effects Society screening.",
+      "url": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/NolanDelToroQA.jpg?w=650",
+      "publishedAt": "2026-11-18T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjI4NjUyLw",
+      "title": "‘I Play Rocky’ Star P.J. Byrne Isn’t a Scene-Stealer — He’s Something Better",
+      "description": "A master of \"hey, I love that guy!\" roles, Byrne brings his usual gusto, good humor, and deep work ethic to the role of legendary producer Irwin Winkler. The result? As he tells IndieWire, \"the most grounded performance\" of his career, but with the \"biggest laughs\" yet. Perfect.",
+      "url": "https://www.indiewire.com/awards/consider-this/i-play-rocky-p-j-byrne-scene-stealer-irwin-winkler-1235228652/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDIPLA_MG028.jpg?w=650",
+      "publishedAt": "2026-11-18T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3MtMTIzNTIyOTE1NS8",
+      "title": "Skydance to Combine Warner Bros. Television Group and Paramount Television Studios as One Big Studio",
+      "description": "Channing Dungey and Matt Thunell will team up to lead the combined group.",
+      "url": "https://www.indiewire.com/news/business/skydance-combine-warner-bros-tv-group-paramount-tv-studios-1235229155/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Channing-Dungey-Matt-Thunell.jpg?w=650",
+      "publishedAt": "2026-11-18T18:35:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "indiewire-HQtMTIzNTIxNDU4NC8",
       "title": "‘Elsinore’ Review: Andrew Scott’s Towering Performance as a Dying Actor Can’t Overcome AIDS-Movie Awards Bait Clichés",
@@ -25,6 +109,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-y1uaWNvbGFzLWNhZ2U",
+      "title": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell’s stinker",
+      "description": "Oscar-nominated director delivers a thoroughly unserious biopic, wasting Christian Bale and Sienna Miller’s talents John Madden was a beloved American original, the burly football coach who segued easily from Super Bowl burnout to television darling to the last name in gaming as the NFL was overtaking baseball as the national pastime. When he wasn’t crashing into family rooms on football Sundays and Thanksgivings to break down the game’s rough complexities into fun-sized morsels, he was pressing flesh with everyday Americans while barnstorming the country in his Madden cruiser – the coach bus he depended on to compensate for his well-documented fear of flying. That the Madden video game franchise outlived the avuncular Minnesotan , whose death at age 85 in 2021 was mourned throughout the sport, is as much a testament to his singular knack for teaching the game’s fundaments as it is to his willingness to bring his classroom to students, wherever they might huddle. But Madden, a new Amazon biopic that can’t decide whether it’s serious or slapstick, has drawn all the wrong lessons. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/madden-review-nicolas-cage",
+      "image": "https://i.guim.co.uk/img/media/9a92e28cc143ac26fa84f2f70fa45d2a86d73c9e/337_0_2099_1680/master/2099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=7e63586b5f9d26f1de0a48becb253f3f",
+      "publishedAt": "2026-11-18T17:35:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Reviews"
     },
     {
@@ -100,16 +196,16 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-dnLTEyMzUyMjg3OTcv",
-      "title": "How GKIDS Home Releases Are Creating the Fandom They Want to See in the World",
-      "description": "Director of Home Entertainment Alison Kozberg tells IndieWire about bringing Mamoru Oshii and Yoshitaka Amano's \"Angel's Egg\" to Blu-ray.",
-      "url": "https://www.indiewire.com/features/craft/gkids-new-home-releases-linda-linda-linda-angels-egg-1235228797/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/image.jpeg?w=650",
-      "publishedAt": "2026-11-18T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
+      "id": "guardian-Ymllcy1rb21idWNoYQ",
+      "title": "Zombucha! review – new Australian zombie film never quite finds its bite",
+      "description": "An accident in kombucha brewing leads to a zombie outbreak in a movie which is a little too low-key to live up to its delicious potential Get our weekend culture and lifestyle email Zombucha! is a relatively rare example of a genre film that’s not really a genre film. There are zombies in it, caused by an accident in kombucha brewing, but they arrive relatively late in the game – and anybody expecting flesh-chewing carnage will probably leave disappointed. Nor is the film a vehicle for social commentary, despite the premise having some delicious potential for wellness industry satire. What we do get is an enjoyably staged and well-paced production that’s never boring, despite the long wait for the main action. There’s also something kind of endearing about a zombie film so low-key it almost forgets to be a zombie film. Emma Leonard’s writing, Claudia Dzienny’s direction and the performances are all appealing, albeit lacking some flair. I was consistently entertained but will probably never return for a rewatch. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/zombucha-movie-film-review-zombies-kombucha",
+      "image": "https://i.guim.co.uk/img/media/b1c19ddfcadd6d91b03a68a5ecdbd650b1224aea/841_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=6c6b062feab361cd9b6ade8a29f188aa",
+      "publishedAt": "2026-11-18T14:00:05.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-5pcy12aWxsZW5ldXZl",
@@ -160,30 +256,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZWUtZXZlcnl0aGluZw",
-      "title": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
-      "description": "With the UK release of You Can See Everything looming, now’s an ideal time to get up to speed on the bizarre, puckish and very meta comedic oeuvre of its star “There are three sides to every story: your side, my side, and the truth. And no one is lying. Memories shared serve each differently.” Those words were spoken by film producer Robert Evans – but nobody has ever interrogated the idea more skilfully than comedian Nathan Fielder. The three-hour documentary You Can See Everything – co-directed by and starring Fielder – opens in the UK on Friday, having already become an unlikely cultural phenomenon and box office sensation in the US. The film follows disgraced Theranos founder Elizabeth Holmes in the weeks leading up to her beginning a prison sentence for defrauding investors; what emerges is a profound meditation on the nature of truth and the fundamental unknowability of other human beings. To view the film as being simply about the Theranos scandal is akin to considering Casablanca merely a movie about a nightclub. And, as one might expect given Fielder’s background, it’s hilarious. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/nathan-fielder-you-can-see-everything",
-      "image": "https://i.guim.co.uk/img/media/08d17e003ab321c38f581324883389ad5cc8fc3b/0_351_2523_2017/master/2523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3de1e9ae2ff34263261eb3d38b7d99ed",
-      "publishedAt": "2026-11-18T08:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-1haGVyc2hhbGEtYWxp",
-      "title": "Your Mother Your Mother Your Mother review – Mahershala Ali’s religious hitman on the hunt for baby milk",
-      "description": "The Oscar-winner plays a Muslim contract killer in a boisterous, blackly comic thriller with shades of John Woo and Tarantino There are shades of John Woo and Tarantino here in a black-comic thriller from Pakistani-American director Bassam Tariq. There are shades also of Blade, the Marvel character that this film’s star, Mahershala Ali, had been preparing to play in a planned but then cancelled MCU movie which Tariq was going to direct. Here Ali plays Latif, a military veteran turned hitman for hire who uses knives and swords, not guns, and just happens to be a devout Muslim. The title refers to the Islamic tradition in which Muhammad was asked three times who is the most deserving of respect and replied each time: “Your mother.” It is, however, this film’s semi-intentional irony that mothers and female authority figures are largely irrelevant in it, the drama being more about men without women. Latif is just finishing off a chaotic wet job in a squalid public bathroom one day, when he takes a call on his mobile from his teenage daughter Fatiha (played by Adia, from Steven Soderbergh’s streaming series Full Circle) telling him that his wife, Fatiha’s mother, has died. Convulsed with guilt at having neglected the family home for his homicidal profession, Latif arrives back to find his son Qadir (Jahleel Kamara) acting out, and his newborn baby allergic to formula, and only able to drink the expressed breast milk of which his late wife has left a limited stockpile in the fridge. So now this tough guy has to put the baby in a papoose and go around getting breast milk from Muslim family charities. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/your-mother-your-mother-your-mother-review-mahershala-ali",
-      "image": "https://i.guim.co.uk/img/media/d0119ef5a99ce9e9e79cd8b0ac55242d9e58206a/643_0_6442_5152/master/6442.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b021e5e3570da0a64960987f88fc23d1",
-      "publishedAt": "2026-11-18T07:00:34.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "BBC drama Shetland to return for 12th series",
       "description": "The new series will be made up of six episodes filmed in locations on the Shetland Isles and across Scotland .",
@@ -208,18 +280,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-by1kZWFkLWNsb3ducw",
-      "title": "The first truly weird Bond: 13 things to know about Robert Pattinson – from heavy saliva to dead clowns",
-      "description": "How did Hollywood’s most eccentric star get cast in its most mainstream role? Here is all the bizarre and baffling lore from his lustrous career It’s bad news for Callum Turner, Jack Lowden and Josh O’Connor, of course, but the announcement that Robert Pattinson will be the next 007 means that those people who have never cared much about James Bond finally have a reason to. The appointment has been greeted with much excitement by everyone who has had a soft spot for R-Patz since Twilight, the sense-defying sparkly vampire franchise that transformed him into a reluctant teen heart-throb and household name. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/first-truly-weird-bond-13-things-robert-pattinson-from-heavy-saliva-to-dead-clowns",
-      "image": "https://i.guim.co.uk/img/media/74920581c0e4f3019e057da441ae3058a2bd7099/0_0_4529_3624/master/4529.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab485a0ddb314316dfdd3139afc6e3cb",
-      "publishedAt": "2026-11-18T05:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-24tamFuZS1iaXJraW4",
       "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
       "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
@@ -234,61 +294,13 @@
     {
       "id": "guardian-ZmYtYmV6b3MtcGljaw",
       "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-      "description": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson Amazon’s founder and billionaire chairman Jeff Bezos has said he was “heavily involved” in the decision to cast Robert Pattinson as the next James Bond. Amazon paid more than $1bn for “creative control” of the Bond franchise last year, striking a deal with the longtime heirs and stewards of the films, shocking fans who worried that Bezos’ takeover would signal an end to the franchise as they knew it. Continue reading...",
+      "description": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson Amazon’s founder and billionaire chairman, Jeff Bezos , has said he was “heavily involved” in the decision to cast Robert Pattinson as the next James Bond. Amazon paid more than $1bn for “creative control” of the Bond franchise last year, striking a deal with the longtime heirs and stewards of the films, shocking fans who worried that Bezos’s takeover would signal an end to the franchise as they knew it. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
       "image": "https://i.guim.co.uk/img/media/7cbe6de1f6428412178cc0bf05d7ace0713c62c0/366_0_3913_3130/master/3913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab3883eb2e0181619043c052e0e1b788",
       "publishedAt": "2026-11-18T02:13:58.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-N0LTEyMzUyMjg4ODkv",
-      "title": "IDA Documentary Awards 2026 Nominations: ‘You Can See Everything,’ ‘Concrete Land,’ and More Earn Nods",
-      "description": "The 42nd annual IDA Documentary Awards will take place December 4, 2026, at The Ebell of Los Angeles.",
-      "url": "https://www.indiewire.com/awards/results/ida-documentary-awards-nominations-2026-full-list-1235228889/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/YCSE_EGGS.jpg?w=650",
-      "publishedAt": "2026-11-18T01:36:24.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-tlLTEyMzUyMjg1MTcv",
-      "title": "A24’s TV Division Is Quietly Having as Strong a Year as Its Film Team",
-      "description": "With shows like \"Crystal Lake,\" \"Euphoria,\" and \"Margo's Got Money Troubles,\" the indie distributor has ramped up its output and landed shows on virtually every major streamer.",
-      "url": "https://www.indiewire.com/news/business/a24-tv-division-istrong-2026-crystal-lake-1235228517/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/NUP_211121_00008.jpg?w=650",
-      "publishedAt": "2026-11-17T22:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyODg2NS8",
-      "title": "‘The Further Mis-Adventures of Cliff Booth’ Throws Netflix’s Oscar Campaign a Curveball",
-      "description": "Of course Netflix has to campaign a film with this much built-in Oscars pedigree, but is it the best bet for a Best Picture nomination?",
-      "url": "https://www.indiewire.com/awards/predictions/further-mis-adventures-cliff-booth-netflix-oscar-chances-1235228865/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2305495907.jpg?w=650",
-      "publishedAt": "2026-11-17T20:53:37.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-WUtMTIzNTIyODgxMS8",
-      "title": "How ‘Paper Tiger’ Evolved When Jeremy Strong and Anne Hathaway Couldn’t Reprise Their ‘Armageddon Time’ Roles",
-      "description": "James Gray discusses recasting his parents with Miles Teller and Scarlett Johansson, his father’s death, and shifting from memoir to crime thriller with “Paper Tiger.”",
-      "url": "https://www.indiewire.com/features/interviews/paper-tiger-sequel-armageddon-time-1235228811/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDPATI_EC045.jpg?w=650",
-      "publishedAt": "2026-11-17T20:20:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
