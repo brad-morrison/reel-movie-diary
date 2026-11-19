@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:35:37.393Z",
+  "generatedAt": "2026-11-19T12:31:57.734Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 7
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,66 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+      "description": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/be9e/live/b423cbd0-e3fa-11f1-a1b0-810734adec41.jpg",
+      "publishedAt": "2026-11-19T12:17:32.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-G95bWVudC1zY2hlbWU",
+      "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+      "description": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government. In a post on its official Instagram account , the UK government promoted its youth jobs guarantee scheme, first announced in August , with a picture of Robert Pattinson as Bond with the joke caption: “Robert Pattinson to apply for all 90,000 jobs created for young people through Youth Employment Scheme.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
+      "image": "https://i.guim.co.uk/img/media/bb255340ff495a85f3d9dc53a59fe54325fe236c/1599_118_3154_2524/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15cf615d781d2a62881ae76130021434",
+      "publishedAt": "2026-11-19T11:44:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-Zmstcm9iLXJlaW5lcg",
+      "title": "‘Perhaps we are safer not knowing’: a year after his death, Rob Reiner’s JFK assassination book is revealed",
+      "description": "The late director worked with David Hoffman and Dick Russell on a book about his lifelong fascination with what really happened on 22 November 1963 On 8 December last year, the great director Rob Reiner signed off the prologue for Who Killed JFK? , his book written with David Hoffman and Dick Russell and based on his podcast with Soledad O’Brien. Describing a lifelong fascination with the assassination of John F Kennedy in Dallas on 22 November 1963, and what he saw as the vast conspiracy to cover up who really killed the 35th president, Reiner wrote: “Maybe, people don’t truly want an answer. Perhaps we are safer not knowing … Well, I’m done being safe.” Six days later, Reiner and his wife, Michelle Reiner, were stabbed to death in their home. Charged with murder, their son Nick Reiner has pleaded not guilty . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/who-killed-jfk-rob-reiner",
+      "image": "https://i.guim.co.uk/img/media/c5f4acd97157425efcbe71127c1cef2479c0d28b/296_0_3073_2460/master/3073.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93d3205c8db6a59b38d2ac0f95ea9436",
+      "publishedAt": "2026-11-19T11:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-emFiZXRoLWhvbG1lcw",
+      "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+      "description": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizabeth Holmes . It was Holmes’s US biotech firm Theranos, run jointly with her then partner Sunny Balwani, which in 2003 notoriously claimed to have invented a little box that could diagnose all manner of illnesses from a single drop of blood, its corporate prestige pumped by credulous board members including George Schultz and Henry Kissinger. Yet Holmes has now met her match, perhaps even her predatory-platonic love match, in the film’s presenter Nathan Fielder, who is basically the Aleister Crowley of modern documentary satire, the hilarious dark master of turning truth into fiction and back again. His film delivers an extraordinary twist at around the halfway mark, and readers wanting to preserve the shock had better bail out here. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+      "image": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=ada9dc3030a3fc95fb8afd0efce1fa9a",
+      "publishedAt": "2026-11-19T10:00:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-aW5nLWFsdHJ1aXN0cw",
+      "title": "‘Sam-Bankman Fried messaged me from prison’: rising star Anthony Boyle on playing the disgraced tech bro – and a zero-hours bike courier",
+      "description": "The actor’s latest roles see him go from a delivery guy on £40 a day to the notorious crypto scammer who stole more than $10bn. His sympathies are clear: ‘I wasn’t brought up to care about money,’ he says In the spring of 2019, Anthony Boyle went to see Cillian Murphy in Grief Is the Thing with Feathers at St Ann’s Warehouse in Brooklyn. Afterwards, the 24-year-old actor hung around the stage door. “There were 500 people queueing up for Cillian, but I was the only one who wanted to meet Enda Walsh,” says Boyle, laughing. When the Dublin-born writer Walsh finally appeared, Boyle introduced himself. He was from west Belfast, he’d read Walsh’s plays at drama school, and it was his dream to work with him one day. He asked if Walsh would like to come and see him on Broadway, where he was playing Scorpius Malfoy, son of Draco, in Harry Potter and the Cursed Child. How did he respond? Boyle grins. “He was sort of like: ‘Oh.’” Since Walsh never went to see The Cursed Child, Boyle assumed the writer had immediately forgotten about him. Then, a few years later, he received a letter from Walsh explaining that he was adapting Keiran Goddard’s 2024 novel I See Buildings Fall Like Lightning , about five close friends from a council estate in Birmingham who find themselves questioning everything about their precarious lives as they hit 30. He had scripted the part of Patrick, a politically outspoken graduate working as a zero-hours bike courier to support his young family, with Boyle in mind. Clio Barnard was on board to direct. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
+      "image": "https://i.guim.co.uk/img/media/aab00c30910abdc724fc22513d5fb6af125eafb6/0_1254_4480_3584/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04d8e8e2526da6a05c14cea14d2527b1",
+      "publishedAt": "2026-11-19T08:00:22.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
@@ -232,54 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-y1tYXNvbi1yZWV2ZXM",
-      "title": "Josephine review – Channing Tatum and Gemma Chan ballast knotty drama about a child witness to a rape",
-      "description": "Mason Reeves steals the show as an eight year old who stumbles across a sex assault but, despite strong performances, parts of the film feel contrived Beth de Araújo’s new movie takes a very big swing, and it has won prizes and acclaim since its premiere at Sundance. I was unsure about some of the film’s high-concept ideas but the lead performance from its eight-year-old newcomer Mason Reeves is outstanding. Those concerned about spoilers had better look away. Channing Tatum and Gemma Chan play Damien and Claire, a smart professional couple in San Francisco with a bright young daughter called Josephine, marvellously played by Reeves. Damien takes Josephine to Golden Gate Park one morning to play football (they turn out to enjoy watching the English Premier League on TV). She mischievously runs on ahead of her dad to a secluded spot in the park where Damien can’t immediately find her and it is there that Josephine witnesses a rape – not less horrifying for being filmed in long shot. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/josephine-review-mason-reeves",
-      "image": "https://i.guim.co.uk/img/media/dd31eea04dda79e57250b8e5a82ce81d278e221c/337_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e8728782172f01866fb0805cb0b21dc0",
-      "publishedAt": "2026-11-18T10:00:48.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-W5zb24tYm9uZC0wMDc",
-      "title": "‘Worst decision in cinema history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
-      "description": "‘Deliciously dark’! ‘Not sexy enough’! Opinion is split on whether the star of Twilight and The Batman is the right choice to play 007. Here’s what some of you thought So it’s official, Robert Pattinson will be James Bond. The long-awaited announcement of who would be stepping into 007’s tuxedo came as a surprise, and has divided opinion, judging by the more than 700 responses the Guardian received to a callout on the topic. Readers were split on whether bosses at the franchise’s owner Amazon were right to give the role to the star of Twilight, Tenet and The Batman. Here are some of their views. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
-      "image": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_795_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=597b450a26ed42138e6e134d3d02a714",
-      "publishedAt": "2026-11-18T10:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "BBC drama Shetland to return for 12th series",
-      "description": "The new series will be made up of six episodes filmed in locations on the Shetland Isles and across Scotland .",
-      "url": "https://www.bbc.co.uk/news/articles/cv62p3y89z13o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/24b6/live/bd9600d0-e2d2-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-18T06:23:02.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "'Real life' family ghost story inspires 'nightmarish' new TV drama",
-      "description": "The \"real-life ghost story\" was filmed in Wales and stars Black Doves actress Gabrielle Creevy.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y4j73319dmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/da94/live/231ce0b0-e32b-11f1-acde-0b701d18dadb.jpg",
-      "publishedAt": "2026-11-18T06:10:18.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
-    },
-    {
       "id": "guardian-24tamFuZS1iaXJraW4",
       "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
       "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
@@ -370,18 +382,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-choice-bond",
       "image": "https://i.guim.co.uk/img/media/fdbe68e252d8ff1f72989ac7e4235a2529bcdaf7/560_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c29c1c63795ebe2c85106d977dd8ed49",
       "publishedAt": "2026-11-16T15:14:37.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-mVydC1wYXR0aW5zb24",
-      "title": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
-      "description": "Daniel Craig’s successor in the franchise is confirmed after a long casting process, making Pattinson the seventh actor to play the role of 007 • Share your thoughts on the casting • Peter Bradshaw: Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond • Pattinson’s journey from Harry Potter to Bond via Twilight and the arthouse Robert Pattinson has been announced as the successor to Daniel Craig, becoming the seventh actor to play the role in an official Bond movie. The news was revealed on the official James Bond social media accounts account on Monday. All earlier content was abruptly wiped from 007 on X and Instagram just before 3pm GMT and a repeating message typed out: “Identity confirmed.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
-      "image": "https://i.guim.co.uk/img/media/03f809f0dbaf4b49f8f048bcdadc0061d99eb31e/0_1072_9126_7301/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a29c79f2f84d825c622200b6f029716e",
-      "publishedAt": "2026-11-16T15:01:42.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -502,18 +502,6 @@
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
       "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
       "publishedAt": "2026-11-09T11:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-E0dGgtYW1lbmRtZW50",
-      "title": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
-      "description": "Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship When I ask Ava DuVernay how she kept her focus while making her new film – or how anyone does, when the onslaught of news, fake news and disputed facts seems designed to overwhelm – she starts to answer, then stops. Her eyes have filled&nbsp;with tears. “I just got emotional, as you said that, because it was the film that saved me,” she says. “It’s been a very tough two years. I live in Los Angeles, and I’ve seen people in my neighbourhood pulled out of their cars. The lady who sells flowers next to my office was there&nbsp;one day, and the next day she wasn’t. People I know personally are literally hiding in their houses, like Anne Frank vibes … So when I would feel the rage and the fear, I&nbsp;put it into the film … And I just … I was doing something.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
-      "image": "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1895c991b6e1a10d6d19798310bda51c",
-      "publishedAt": "2026-11-08T10:00:36.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
