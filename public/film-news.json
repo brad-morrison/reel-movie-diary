@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:30:40.049Z",
+  "generatedAt": "2026-11-20T00:42:38.129Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 7
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -16,11 +16,167 @@
   },
   "articles": [
     {
+      "id": "indiewire-3ctMTIzNTIyOTY0NS8",
+      "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Lands at Black Bear",
+      "description": "Hader directs and stars alongside Linda Cardellini in the psychological horror film about co-parenting after a divorce.",
+      "url": "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
+      "publishedAt": "2026-11-20T00:23:39.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-9uLTEyMzUyMjkzNTUv",
+      "title": "Why Good Voice Acting Doesn’t Have to Happen in Isolation",
+      "description": "\"Wildwood\" director Travis Knight and \"Tangles\" director Leah Nelson tell IndieWire how they helped shape vocal performances for animation.",
+      "url": "https://www.indiewire.com/features/animation/voice-directing-wildwood-tangles-animation-1235229355/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/2000.0130.marketing.rgb_.001.jpeg?w=650",
+      "publishedAt": "2026-11-19T23:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyOTYwNC8",
+      "title": "Watch the ‘Backrooms’ VFX Supervisor Explain His Unique Process of Collaborating with Kane Parsons",
+      "description": "During IndieWire's Craft Roundtables, Edward Douglas explained that Parsons' background in designing his own effects led to a unique workflow.",
+      "url": "https://www.indiewire.com/features/craft/backrooms-vfx-supervisor-craft-roundtables-1235229604/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9390.jpg?w=650",
+      "publishedAt": "2026-11-19T22:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUyMjk2MTUv",
+      "title": "Aaron Pierre on ‘Lanterns,’ the DC Shake-Up, and Landing a Role in Ryan Gosling’s ‘Star Wars’ Movie",
+      "description": "Pierre joins this week's episode of IndieWire's \"Screen Talk\" podcast. Plus, the co-hosts debate David Fincher and Quentin Tarantino's \"The Further Mis-Adventures of Cliff Booth.\"",
+      "url": "https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P107OHSK.jpg?w=650",
+      "publishedAt": "2026-11-19T21:59:19.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI1Nzc0Lw",
+      "title": "Director Brian Duffield Had to Find a New Form of Visual Storytelling for ‘Whalefall’",
+      "description": "Director Brian Duffield talks about the logistical and aesthetic challenges of telling a story that takes place almost entirely inside a whale's stomach.",
+      "url": "https://www.indiewire.com/features/podcast/brian-duffield-on-whalefall-filmmaker-toolkit-1235225774/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWHAL_H3011.jpg?w=650",
+      "publishedAt": "2026-11-19T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
+      "description": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
+      "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
+      "publishedAt": "2026-11-19T21:14:23.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI4ODM4Lw",
+      "title": "Ryan Coogler’s Proximity Media Hires Former Netflix Exec Tendo Nagenda as President",
+      "description": "The exec behind \"Da 5 Bloods,\" \"Glass Onion,\" and \"Ma Rainey's Black Bottom\" will oversee all of Proximity's creative divisions.",
+      "url": "https://www.indiewire.com/news/breaking-news/ryan-coogler-proximity-media-hires-tendo-nagenda-president-1235228838/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Tendo-Nagenda-Headshot.png?w=650",
+      "publishedAt": "2026-11-19T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
+      "title": "Fall Festival Movies Sold: Magnolia Heaps Dollars on ‘Trash Mountain’ with Caleb Hearon and Zooey Deschanel",
+      "description": "Kris Rey directed the dark comedy based on Hearon's own script that premiered at TIFF.",
+      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TRASH-MOUNTAIN-courtesy-of-Magnolia-Pictures.jpg?w=650",
+      "publishedAt": "2026-11-19T20:58:11.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-2QtMTIzNTIyOTMxOC8",
+      "title": "Why the Radical Lesbian Filmmaker Doc ‘Barbara Forever’ Deserves Oscar Recognition",
+      "description": "IndieWire talks to director Brydie O'Connor about her expansive, empathetic, Sundance-winning archival portrait of pioneering lesbian filmmaker Barbara Hammer.",
+      "url": "https://www.indiewire.com/awards/consider-this/barbara-forever-brydie-o-connor-doc-deserves-oscar-nod-1235229318/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/Barbara_Forever-Still_2.jpg?w=650",
+      "publishedAt": "2026-11-19T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIyODExOS8",
+      "title": "Don’t Forget the Other ‘Heat’ Movie, Which Gave Burt Reynolds One of His Best Noir Roles",
+      "description": "Derived from a screenplay by the legendary William Goldman, this hard-boiled gem was unfairly forgotten almost as soon as it was released. Its 40th anniversary provides an opportunity to fix that.",
+      "url": "https://www.indiewire.com/features/commentary/burt-reynolds-heat-40th-anniversary-history-1235228119/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/SIJA065_EC250.jpg?w=650",
+      "publishedAt": "2026-11-19T19:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
+      "description": "The classic 1977 film has been dubbed into Welsh for the first time and features a host of star names.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5xnye765zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4856/live/a3590150-e44d-11f1-9192-3924a59e54c7.jpg",
+      "publishedAt": "2026-11-19T19:07:07.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-RvLTEyMzUyMjUwNTMv",
+      "title": "Before He Played Sylvester Stallone in ‘I Play Rocky,’ Star Anthony Ippolito Fought Hard for His Own Big Break",
+      "description": "To snag the starring role in Peter Farrelly's crowd-pleasing \"I Play Rocky,\" the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.",
+      "url": "https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2301399143.jpg?w=650",
+      "publishedAt": "2026-11-19T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-JvLTEyMzUyMjk1NjQv",
+      "title": "‘The Gilded Age’ Renewed for Fifth Season Following Ratings Boom",
+      "description": "The HBO series, beloved for its opulence and pageantry, is coming off its most-watched season.",
+      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Gilded-Age-Season-4-Morgan-Spector-as-George-Russell.jpg?w=650",
+      "publishedAt": "2026-11-19T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
       "id": "guardian-NoZXItYnJhZC1waXR0",
       "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
       "description": "David Fincher directs Quentin Tarantino’s script, picking up from Once Upon a Time in Hollywood, and its lead is more ineffably beguiling than ever We got through to the very end of Quentin Tarantino’s previous film Once Upon a Time in Hollywood without finding out exactly how, why or if Brad Pitt’s stuntman character Cliff Booth murdered his wife. It was an issue only addressed in Tarantino’s novel based on the movie. And throughout the 140 minutes of this outrageous sugar-rush sequel – scripted by Tarantino and directed by David Fincher – this subject is tactfully passed over in silence, the one point that damages our perception of Cliff’s amiable-cowpoke good nature. Cliff is the guy who climaxed the previous picture by helping with a dramatic rescue; after, that is, gallantly refusing an age-gap relationship with Margaret Qualley’s jailbait teen. Well, we may not get the complete picture of Cliff’s matrimonial circumstances until Tarantino’s forthcoming crossover Cliff Booth novel, with which this film is to form a kind of multimedia narrative event. But there is nonetheless such a huge amount of energy, fun, scabrous black comedy, provocative bad taste and film-making style to be had here. Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
-      "image": "https://i.guim.co.uk/img/media/322d4ceb4e876c4889d355f2a87df7d99b44397a/322_0_3218_2574/master/3218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=197c65b890a33e194cb8b2cc358f29ce",
+      "image": "https://i.guim.co.uk/img/media/d332056d21c56c70525279014f547e816809b7b8/451_0_3216_2574/master/3216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b0ebf1abe2f67f372234b9b5afbd74e5",
       "publishedAt": "2026-11-19T18:00:08.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
@@ -40,78 +196,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-cy0xMjM1MjI5MjY4Lw",
-      "title": "Film Independent’s New President Wants to Build an L.A. Powerhouse — and Shake Up the Spirit Awards",
-      "description": "Exclusive: In his first public interview since his appointment as Film Independent president, Juan Devis shares his vision for the Los Angeles nonprofit — and for making the Spirit Awards more than “just a stop” on the awards circuit.",
-      "url": "https://www.indiewire.com/features/interviews/film-independent-president-juan-devis-spirit-awards-1235229268/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Juan_Devis_2304sm-photo-credit-Piper-Ferguson-e1795033670567.jpg?w=650",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WQtMTIzNTIyOTEzNi8",
-      "title": "‘Dig’ Review: Amy Poehler’s Talent-Rich Peacock Comedy Barely Scratches the Surface",
-      "description": "Co-created by Poehler and Mike Schur (in a mini \"Parks and Recreation\" reunion), \"Dig\" follows four women working at an archaeological excavation site in Greece who uncover an ancient statue that changes their lives forever.",
-      "url": "https://www.indiewire.com/criticism/shows/dig-review-amy-poehler-new-comedy-series-bad-1235229136/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Dig-series-Amy-Poehler-Peacock-show.jpg?w=650",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMjkzNzQv",
-      "title": "‘Rate It X’ Restored: A Documentary Traversing American Sexism in the 1980s Returns to Theaters",
-      "description": "Exclusive: Paula De Koenigsberg and Lucy Winer's doc is kicking off a limited theatrical release from Kino Lorber.",
-      "url": "https://www.indiewire.com/news/general-news/rate-it-x-rerelease-documentary-theaters-1235229374/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RATE-IT-X_Still_1.jpeg?w=650",
-      "publishedAt": "2026-11-19T16:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
-      "id": "indiewire-24tMTIzNTIyOTI1OS8",
-      "title": "‘Teenage Sex and Death at Camp Miasma’ Comes to VHS in Special Pan-and-Scan Edition from Mutant",
-      "description": "Exclusive: Jane Schoenbrun's love letter to video store horror sections finally exists in the format that inspired it.",
-      "url": "https://www.indiewire.com/news/general-news/teenage-sex-and-death-at-camp-miasma-vhs-edition-1235229259/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MBM-MIAS-VHS-NTSC_007.png?w=650",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JzLTEyMzUyMjk0ODEv",
-      "title": "‘Epic Zombie Christmas,’ Family Comedy About Senior Citizens and Teenagers Making a Horror Film, Begins Production",
-      "description": "Exclusive: Loam Entertainment and the team behind \"Bad Counselors\" will make this intergenerational family film.",
-      "url": "https://www.indiewire.com/news/general-news/epic-zombie-christmas-comedy-about-senior-citizens-and-teenagers-1235229481/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-10.36.11-AM.png?w=650",
-      "publishedAt": "2026-11-19T15:38:13.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-dzLTEyMzUyMjkxNzkv",
-      "title": "Should the Oscars Keep Nominating Diane Warren?",
-      "description": "She has 17 noms and was awarded an honorary Academy Award. But her colleagues at the Music Branch keep nominating her for competitive Oscars.",
-      "url": "https://www.indiewire.com/awards/consider-this/should-the-oscars-keep-nominating-diane-warren-songs-1235229179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/03/JO2_3116.jpg?w=650",
-      "publishedAt": "2026-11-19T15:15:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-Y2Utb2YtZ2FyYmFnZQ",
       "title": "Alex Cox: ‘John Lydon said Sid and Nancy was a nightmarish piece of garbage’",
       "description": "The cult film director and Moviedrome presenter answers your questions on why James Bond is anti-Russian propaganda, whether Christopher Nolan is a bore and wanting to save Hunter S Thompson Looking back, how do you regard your experience with Fear and Loathing in Las Vegas? And did you watch Terry Gilliam ’s version? AwapBamBoogers No, I didn’t watch it. I felt very sad about the whole thing because my wife and I were co-screenwriters. We went out to meet Hunter S Thompson and the poor guy was in a terrible state. He was hoovering up cocaine the whole time we were there. He had a great big TV screen, with a Post-it note saying: “Don’t watch too much TV.” We said we felt like his caseworkers, because all these guys in Hollywood like Johnny Depp were winding him up: “Dr Thompson, do something crazy, go out in the back garden and shoot a can of propane.” That’s all very well, but they were treating him like the freak in the county fairground. How many years was it after Fear and Loathing that the poor guy killed himself? He really needed an intervention. Instead, he was being encouraged by these Hollywood bastards. The giant boar in Razorback gave me nightmares when I saw it on Moviedrome . Did it give you nightmares too? Sootsayer I don’t remember. The films in Moviedrome were picked by [producer and director] Nick Freand Jones, who had access to all the films the BBC had under licence and didn’t know what to do with. Some of them I remember really well, but as I’m not so into horror films, I don’t remember Razorback. Continue reading...",
@@ -128,35 +212,11 @@
       "title": "The best and worst Bond films: ranked by critics and box office",
       "description": "With Robert Pattinson set to play the next Bond, see how all 27 films in the franchise score, from the Sean Connery years to the stripped-back ‘reboot’ of Casino Royale Want to get more charts in your inbox every fortnight? Sign up for The Crunch here The announcement of a new James Bond actor leads, inevitably, to ranking the previous Bonds and Bond films. Robert Pattinson will be the latest actor stepping into cinema’s second-longest running franchise. There have been 27 films since 1962, from the early Sean Connery years to the bombastic action-and-gadget flicks of the 90s, to the more stripped-back “reboot” of Casino Royale. Continue reading...",
       "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/19/bond-films-ranked-by-critics-and-box-office",
-      "image": "https://i.guim.co.uk/img/media/77b5c4c8c848bac3bbeb7c844393531ed5146936/0_0_1620_1296/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9465e679bfa706086787f5cc0eb4ebc",
+      "image": "https://i.guim.co.uk/img/media/35a32bc73d31b8eddbf0e6ed141503b921f1b9b4/0_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6938c908686ce68e3bcb3edadef17e68",
       "publishedAt": "2026-11-19T14:00:51.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyODI3My8",
-      "title": "‘The Altruists’ Review: Netflix’s Slight Sam Bankman-Fried Series Tells a Strange, Crooked Love Story",
-      "description": "Framing the downfall of FTX as the culmination of two nerds' inept love affair, Graham Moore and Jacqueline Hoyt's limited series struggles to deepen what we already know about the 2022 financial scandal, its two primary culprits, or their fellow tech founders.",
-      "url": "https://www.indiewire.com/criticism/shows/the-altruists-review-sam-bankman-fried-netflix-series-1235228273/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Altruists-Netflix-series-Julia-Garner-as-Caroline-and-Anthony-Boyle-as-Sam-Bankman-Fried-.jpg?w=650",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-RlLTEyMzUyMjkzNTcv",
-      "title": "Where Are the Women? Zero Female Directors on Blumhouse Atomic’s Theatrical Slate for 2027",
-      "description": "“They didn’t fall in next year’s slate,” Jason Blum told IndieWire. Of the 10 movies the company has dated for nationwide release, seven come from filmmakers it calls “emerging voices.” All are men.",
-      "url": "https://www.indiewire.com/features/interviews/blumhouse-atomic-no-women-directors-2027-horror-slate-1235229357/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/img_7774_1024_a30a59.jpg?w=650",
-      "publishedAt": "2026-11-19T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -229,42 +289,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-3UtMTIzNTIyODk4OC8",
-      "title": "‘Bedford Park’ Trailer: Sundance Winner Stars Moon Choi, Who Falls for the Other Driver in Her Mother’s Car Accident",
-      "description": "Exclusive: Set in New Jersey, Stephanie Ahn’s magical Sundance winner co-stars Son Sukku.",
-      "url": "https://www.indiewire.com/news/trailers/bedford-park-trailer-moon-choi-son-sukku-1235228988/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDBEPA_SP001.jpg?w=650",
-      "publishedAt": "2026-11-18T22:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-l0LTEyMzUyMjkyNTIv",
-      "title": "David Ellison on Elon Musk’s Skydance Investment, Trump and ‘Rush Hour 4,’ and Whether He Would’ve Made ‘Digger’",
-      "description": "The Skydance chief leaned on some talking points in a chat with the New York Times at the DealBook Summit.",
-      "url": "https://www.indiewire.com/news/general-news/david-ellison-elon-musk-digger-dealbook-summit-1235229252/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2305729094.jpg?w=650",
-      "publishedAt": "2026-11-18T21:56:45.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-Z4LTEyMzUyMjg0ODIv",
-      "title": "Christopher Nolan and Guillermo del Toro Break Down ‘The Odyssey’ Monsters and AI’s Limitations with Production VFX Supervisor Andrew Jackson",
-      "description": "Exclusive: Watch the director and his longtime collaborator explain creating the Cyclops, Scylla, and Circes sequences at a Visual Effects Society screening.",
-      "url": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/NolanDelToroQA.jpg?w=650",
-      "publishedAt": "2026-11-18T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
