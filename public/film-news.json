@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:35:16.365Z",
+  "generatedAt": "2026-11-20T12:32:18.335Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-dpdGgtYXJnZW50aW5h",
+      "title": "‘The hand of god’ and all that: Lineker, Shilton et al look back at 1986 England-Argentina clash – The Match review",
+      "description": "Argentinian co-directors Juan Cabral and Santiago Franco work hard to appear impartial in account that situates the game in a long continuum of conflict Here is a football documentary that is a cut above the drain-clogging content that loiters in streaming platforms everywhere. Its subject is the World Cup quarter-final contest between Argentina and England in 1986, a game constantly replayed in the collective consciousness for the two never-to-be-forgotten moments contributed by Diego Maradona: the illicit “hand of God” goal that gave Argentina the lead, and then five minutes later his sublime second goal, for which he skipped past half a dozen of the England team before slotting the ball home with the outside of his foot. It was this second strike, voted in 2002 as Fifa’s goal of the century , that partly lanced the boil of English rage over Maradona’s outrageous cheating; what could they do in the face of such authentic genius? Over and above football matters, it’s clear to see that there were bigger things at stake. Rather obviously, it happened only four years after the Falklands war, which thoroughly poisoned already tense relations between Britain and Argentina. The Match situates the 1986 clash as part of a continuum of strife, dating back at least to the arrival in 1765 of a British sea captain, John Byron, on the Falklands to claim them for Britain. Other key moments: Argentina’s Antonio Rattín getting sent off during the 1966 World Cup, and Maradona being invited on stage by Queen to sing Another One Bites the Dust during their mammoth 1981 South American tour. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/the-match-review-conciliatory-look-back-at-englands-hand-of-god-clash-with-argentina",
+      "image": "https://i.guim.co.uk/img/media/d896d2d8f251bfe4a1f2559146adadee6b42fa90/229_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c7390a52c9bb0ba891e87d21b8b54db3",
+      "publishedAt": "2026-11-20T11:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-b3RiYWxsLWJpb3BpYw",
+      "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
+      "description": "With the release of a new David O Russell biopic about the coach turned commentator turned gaming icon, those who knew him best remember his singular career Wearing his Oakland Raiders uniform and helmet, and gripping an orange traffic cone like a lance, Ted Hendricks rode into the training session on a roan horse and stopped at the 50-yard line. Some American football coaches might have reacted to the stunt with fury. But John Madden was unfazed. “We needed some relief from the intense grind,” recalls Hendricks, 79, who had borrowed the horse from a nearby stable. “It was a spur of the moment idea, but put a smile on everyone’s face. All Coach said once I dismounted was, ‘All right guys, Ted’s here, let’s get started.’ But I know he got a kick out of it too – just from the look on his face and the comments he made later in interviews.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
+      "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=350e42d4c86fe3c25b6bb5e52a0e4e71",
+      "publishedAt": "2026-11-20T10:00:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
+      "title": "Steps review – Netflix’s Disney-lite Cinderella rework has enough pep in its step",
+      "description": "The plot might be a little overstuffed and the animation style could be a little more distinctive, but this is better than the streamer’s average animated offering Stop me if you’ve heard this one before, but that age-old story you think you know, well, you might not know it at all. It’s a tale as old as Shrek, which was by no means the first film to subvert fairytale expectations, but it was definitely the most influential, and we’re still feeling its impact 25 years later, for better or worse. What if that villain wasn’t actually the villain after all? What if that love interest shouldn’t have been of interest in the first place? What if that damsel in distress was given a bullet-speed fight scene instead of weeping in a tower? But what might have seemed fresh in 2001, if not quite as fresh for anyone who knew and loved The Princess Bride , has grown a little tiresome ever since. Bucking the conventions has essentially become the convention, and effortful attempts to remix classic storytelling beats have mostly ended up reeking of smugness. Yet they still keep coming (IP is king) and before the inevitable Shrek legacy sequel hits cinemas next summer, Netflix is trying to conjure up that same mix of snark and sentiment with Steps, a Cinderella story but, wait for it, not the Cinderella story you thought you knew … Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/steps-netflix-movie-review",
+      "image": "https://i.guim.co.uk/img/media/94d3f4b3e7e462d428ba059451b74e49e59dfe2b/625_0_2749_2200/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=82ffa299ed2e144307dc16a0159c3942",
+      "publishedAt": "2026-11-20T08:01:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-1saWZlLWluLWV4aWxl",
+      "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
+      "description": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he will lose his horse and if he turns right he will lose his head. So the knight has a dilemma; there are only bad options here. Zvyagintsev smiles and says: “It is a very Russian fairytale.” Terrible things tend to happen, that’s the way the world works, and a person is defined by how they respond to each challenge. That goes for the knight in the forest and the characters in a film. It probably goes for Zvyagintsev, too, who has lost not his horse but his home and very nearly his life. The Russian director almost died during the Covid-19 pandemic and spent 40 days in an induced coma . He now lives in exile as an enemy of the state. “I’m with the birds,” he says by way of explaining his situation. “Birds have no borders. They’re not thinking about tomorrow.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile",
+      "image": "https://i.guim.co.uk/img/media/146c3d30723566dfb145291ced44ed074a396e30/468_0_9657_7726/master/9657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47e871c535f2e85a165fd7c97900b935",
+      "publishedAt": "2026-11-20T08:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actor Owen Cooper stars in new Beatles music video",
+      "description": "The film follows a family's love of music across generations and features Liverpool landmarks.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/25b2/live/5ce45220-e45b-11f1-9431-9fe383d2f2c7.jpg",
+      "publishedAt": "2026-11-20T06:22:29.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
+      "description": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
+      "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fad3/live/d16fdee0-e4d6-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-20T01:11:57.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-3ctMTIzNTIyOTY0NS8",
       "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Lands at Black Bear",
@@ -124,6 +196,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-i13YXJzLWNhcmRpZmY",
+      "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
+      "description": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet It has been a memorable few days for Wales. At the weekend, the men’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in more than 70 years. Then on Thursday evening came another culturally significant moment when Cardiff rolled out the red carpet to celebrate the first Welsh-language dub of the Star Wars franchise. Stars of stage and screen who voiced the words of Luke Skywalker, Darth Vader, C-3PO et al in Welsh (Cymraeg) over the original 1977 Star Wars film took the plaudits at the Cineworld Cardiff screening. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+      "image": "https://i.guim.co.uk/img/media/3c89e45f43f26e6eced5528e8d14c721506c33e4/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=73bd5d8c0ad12d0e98e9d1e7a7791b93",
+      "publishedAt": "2026-11-19T19:33:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-nktMTIzNTIyODExOS8",
       "title": "Don’t Forget the Other ‘Heat’ Movie, Which Gave Burt Reynolds One of His Best Noir Roles",
       "description": "Derived from a screenplay by the legendary William Goldman, this hard-boiled gem was unfairly forgotten almost as soon as it was released. Its 40th anniversary provides an opportunity to fix that.",
@@ -208,18 +292,6 @@
       "category": "TV"
     },
     {
-      "id": "guardian-bmQtYm94LW9mZmljZQ",
-      "title": "The best and worst Bond films: ranked by critics and box office",
-      "description": "With Robert Pattinson set to play the next Bond, see how all 27 films in the franchise score, from the Sean Connery years to the stripped-back ‘reboot’ of Casino Royale Want to get more charts in your inbox every fortnight? Sign up for The Crunch here The announcement of a new James Bond actor leads, inevitably, to ranking the previous Bonds and Bond films. Robert Pattinson will be the latest actor stepping into cinema’s second-longest running franchise. There have been 27 films since 1962, from the early Sean Connery years to the bombastic action-and-gadget flicks of the 90s, to the more stripped-back “reboot” of Casino Royale. Continue reading...",
-      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/19/bond-films-ranked-by-critics-and-box-office",
-      "image": "https://i.guim.co.uk/img/media/35a32bc73d31b8eddbf0e6ed141503b921f1b9b4/0_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6938c908686ce68e3bcb3edadef17e68",
-      "publishedAt": "2026-11-19T14:00:51.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
       "description": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
@@ -244,54 +316,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-Zmstcm9iLXJlaW5lcg",
-      "title": "‘Perhaps we are safer not knowing’: a year after his death, Rob Reiner’s JFK assassination book is revealed",
-      "description": "The late director worked with David Hoffman and Dick Russell on a book about his lifelong fascination with what really happened on 22 November 1963 On 8 December last year, the great director Rob Reiner signed off the prologue for Who Killed JFK? , his book written with David Hoffman and Dick Russell and based on his podcast with Soledad O’Brien. Describing a lifelong fascination with the assassination of John F Kennedy in Dallas on 22 November 1963, and what he saw as the vast conspiracy to cover up who really killed the 35th president, Reiner wrote: “Maybe, people don’t truly want an answer. Perhaps we are safer not knowing … Well, I’m done being safe.” Six days later, Reiner and his wife, Michelle Reiner, were stabbed to death in their home. Charged with murder, their son Nick Reiner has pleaded not guilty . Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/19/who-killed-jfk-rob-reiner",
-      "image": "https://i.guim.co.uk/img/media/c5f4acd97157425efcbe71127c1cef2479c0d28b/296_0_3073_2460/master/3073.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93d3205c8db6a59b38d2ac0f95ea9436",
-      "publishedAt": "2026-11-19T11:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-emFiZXRoLWhvbG1lcw",
-      "title": "You Can See Everything review – unblinking, unhinged and unmissable",
-      "description": "Nathan Fielder’s intense close-range study of fraudster Elizabeth Holmes is as gripping as any thriller • This review contains spoilers Thrillingly reckless, deliciously irresponsible and as gripping as any thriller, this situationist docu-hybrid masterpiece from co-directors Nathan Fielder and Lance Oppenheim gets up close and personal with convicted fraudster Elizabeth Holmes . It was Holmes’s US biotech firm Theranos, run jointly with her then partner Sunny Balwani, which in 2003 notoriously claimed to have invented a little box that could diagnose all manner of illnesses from a single drop of blood, its corporate prestige pumped by credulous board members including George Schultz and Henry Kissinger. Yet Holmes has now met her match, perhaps even her predatory-platonic love match, in the film’s presenter Nathan Fielder, who is basically the Aleister Crowley of modern documentary satire, the hilarious dark master of turning truth into fiction and back again. His film delivers an extraordinary twist at around the halfway mark, and readers wanting to preserve the shock had better bail out here. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
-      "image": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=ada9dc3030a3fc95fb8afd0efce1fa9a",
-      "publishedAt": "2026-11-19T10:00:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-aW5nLWFsdHJ1aXN0cw",
-      "title": "‘Sam-Bankman Fried messaged me from prison’: rising star Anthony Boyle on playing the disgraced tech bro – and a zero-hours bike courier",
-      "description": "The actor’s latest roles see him go from a delivery guy on £40 a day to the notorious crypto scammer who stole more than $10bn. His sympathies are clear: ‘I wasn’t brought up to care about money,’ he says In the spring of 2019, Anthony Boyle went to see Cillian Murphy in Grief Is the Thing with Feathers at St Ann’s Warehouse in Brooklyn. Afterwards, the 24-year-old actor hung around the stage door. “There were 500 people queueing up for Cillian, but I was the only one who wanted to meet Enda Walsh,” says Boyle, laughing. When the Dublin-born writer Walsh finally appeared, Boyle introduced himself. He was from west Belfast, he’d read Walsh’s plays at drama school, and it was his dream to work with him one day. He asked if Walsh would like to come and see him on Broadway, where he was playing Scorpius Malfoy, son of Draco, in Harry Potter and the Cursed Child. How did he respond? Boyle grins. “He was sort of like: ‘Oh.’” Since Walsh never went to see The Cursed Child, Boyle assumed the writer had immediately forgotten about him. Then, a few years later, he received a letter from Walsh explaining that he was adapting Keiran Goddard’s 2024 novel I See Buildings Fall Like Lightning , about five close friends from a council estate in Birmingham who find themselves questioning everything about their precarious lives as they hit 30. He had scripted the part of Patrick, a politically outspoken graduate working as a zero-hours bike courier to support his young family, with Boyle in mind. Clio Barnard was on board to direct. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/19/anthony-boyle-actor-interview-see-buildings-fall-like-lightning-altruists",
-      "image": "https://i.guim.co.uk/img/media/aab00c30910abdc724fc22513d5fb6af125eafb6/0_1254_4480_3584/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04d8e8e2526da6a05c14cea14d2527b1",
-      "publishedAt": "2026-11-19T08:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Hunger Games fan, 13, to get artwork shown on cinema screens before film",
-      "description": "Freja Brown beat more than 1,000 entries and met some of the stars after winning a competition.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnxjy5zllo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/718c/live/e3805b60-e368-11f1-9f51-4bfc31543510.jpg",
-      "publishedAt": "2026-11-19T06:06:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-5pcy12aWxsZW5ldXZl",
       "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
       "description": "The Crown star was reportedly an early favourite of director Denis Villeneuve, but ‘had reservations about the baggage associated with the role from the start’ Josh O’Connor, one of the actors on the final shortlist for the role of James Bond which was ultimately won by Robert Pattinson, was an early favourite of director Denis Villeneuve but pulled out of the contest before a decision was made, it has been reported. Writing in Puck’s What I’m Hearing newsletter , Matthew Belloni (who correctly forecast that Pattinson would win the role ) said that O’Connor “had reservations about the baggage associated with the role from the start” and pulled out shortly after his test. Continue reading...",
@@ -301,18 +325,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
-      "description": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ca06/live/582be290-e33c-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T11:00:05.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -376,18 +388,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1hcy1qYW1lcy1ib25k",
-      "title": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
-      "description": "Former 007 George Lazenby was supportive while The Lighthouse director Robert Eggers reveals what Pattinson was doing when the news broke • Robert Pattinson is James Bond. What happens next? • Peter Bradshaw’s take • Pattinson’s journey to James Bond • Behind Bond’s bankability Film industry figures including Ralph Fiennes, Brad Pitt and former Bond actor George Lazenby have reacted to the news that Robert Pattinson has been cast as the new 007. Pitt was asked about Pattinson while promoting his new film, The Further Mis-Adventures of Cliff Booth, and responded: “I think it’s a great choice. I love what that guy’s been doing. He’s been making such interesting choices, and then for him to balance it out, it’s really cool.” Pitt then made a playful pitch for a villain role in Bond 26, winking at the camera and saying: “Get Denis Villeneuve on the flip phone. Let’s go.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond",
-      "image": "https://i.guim.co.uk/img/media/1af950b033a60e4879dba795ec7d77db0e82a11f/882_293_2419_1936/master/2419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a5a984e3e024a05f59d90f5f1d8e565",
-      "publishedAt": "2026-11-17T13:03:24.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "James Bond: What we know so far about the next 007 film",
       "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
@@ -410,18 +410,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "The Scouse actor reaching new heights in Liverpool drama This City Is Ours",
-      "description": "Adam Abbou says more needs to be done to improve working-class representation in TV.",
-      "url": "https://www.bbc.co.uk/news/articles/cm15e3xg9njeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/2e69/live/144f8410-df71-11f1-8112-6b9154c79b48.jpg",
-      "publishedAt": "2026-11-16T12:12:39.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-cm1hbi1za3lkYW5jZQ",
