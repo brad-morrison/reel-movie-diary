@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:32:18.335Z",
+  "generatedAt": "2026-11-20T18:30:32.525Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-J0LTEyMzUyMTk4Mjcv",
+      "title": "‘Cameron Winter at Carnegie Hall’ Review: PTA’s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
+      "description": "Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.",
+      "url": "https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI5NjkyLw",
+      "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Scores $21 Million in Previews, Second-Best Result of 2026",
+      "description": "Who cares about \"Grand Theft Auto 6\"? The return to Panem is expected to earn more than $100 million.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-hunger-games-sunrise-on-the-reaping-previews-1235229692/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDHUGA_LG049.jpg?w=650",
+      "publishedAt": "2026-11-20T16:37:29.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-by0xMjM1MTczNzAwLw",
+      "title": "‘Josephine’ Review: Another Heartsick Horror Film About Real Monsters from ‘Soft &#038; Quiet’ Filmmaker",
+      "description": "Beth de Araújo's sophomore outing, following her remarkable 2022 debut, is another finely-tuned exploration of the pervasive power and perversion of real evil.",
+      "url": "https://www.indiewire.com/criticism/movies/josephine-review-channing-tatum-gemma-chan-beth-de-araujo-1235173700/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Josephine-Still_1.jpg?w=650",
+      "publishedAt": "2026-11-20T16:30:35.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjI5NTk4Lw",
+      "title": "Walter Hill on Sam Peckinpah, Steve McQueen, and His Revolutionary Screenplay for ‘The Getaway’",
+      "description": "The veteran screenwriter reflected on his first big hit in front of a packed crowd at the Academy Museum.",
+      "url": "https://www.indiewire.com/features/interviews/walter-hill-on-sam-peckinpah-steve-mcqueen-the-getaway-1235229598/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IMG_2783.jpeg?w=640",
+      "publishedAt": "2026-11-20T16:04:05.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-3ZpZS1kZWxheXMtZGM",
+      "title": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
+      "description": "The actor’s new role as James Bond could be bad news for DC, as a new owner, new chief and new director already threaten to shake and stir Gotham’s distinctive hero Can one actor play both Batman and James Bond? This is the question many have been asking since Robert Pattinson was announced as the new 007 . The obvious answer is yes: the 40-year-old Englishman has the poise, charisma and steel to join His Majesty’s Secret Service, and saving Gotham could soon become something he fits in between assignments. Among all the furore over Pattinson’s appointment, it would have been easy to miss some rather less cheering news for the citizens of Gotham. According to the Wrap , delays to The Batman: Part II have freed the actor from his contractual obligation to make a third film. The sequel is now due in February 2028, almost six years after the first instalment. He could still sign a new deal, of course, but Warner Bros will have to persuade its caped crusader to stick around. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/robert-pattinson-batman-james-bond-third-movie-delays-dc",
+      "image": "https://i.guim.co.uk/img/media/c8c00617b792d1d53f2d2b318820d5758dc61551/592_0_2225_1782/master/2225.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=61f3b312ec6467b1632eb4f185e73958",
+      "publishedAt": "2026-11-20T15:35:15.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-GUtMTIzNTIyOTY2MS8",
+      "title": "Short Film ‘Lightning Bug’ Gives Stage and Screen Legend Lois Smith One of Her Greatest Roles — Watch It Here",
+      "description": "IndieWire debuts the premiere of an Oscar-eligible short from Zane Pais.",
+      "url": "https://www.indiewire.com/features/interviews/short-film-lightning-bug-lois-smith-greatest-role-1235229661/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-10.29.25-AM.png?w=650",
+      "publishedAt": "2026-11-20T15:31:58.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-by0xMjM1MjI5NTQ2Lw",
+      "title": "Is A24 Finally Big Enough to Be Considered a Major Studio?",
+      "description": "With a 6 percent box office share that bests other, bigger studios, 16 to 18 movies a year, and an increasingly pricy content slate, the argument against is getting harder to make.",
+      "url": "https://www.indiewire.com/news/analysis/is-a24-big-enough-major-studio-1235229546/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Marty-Supreme.jpg?w=650",
+      "publishedAt": "2026-11-20T13:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-mVydC1wYXR0aW5zb24",
+      "title": "Now get out of that! How can the new James Bond film get around 007’s death in No Time to Die?",
+      "description": "Was it all a dream? Has Bond been in hiding? Or will Robert Pattinson simply report to HR on his first day? Russell T Davies, David Hare and more give their takes “James Bond will return,” says the closing title on No Time to Die, the most recent James Bond film and the final one to star Daniel Craig. It is just as well: Bond has to all appearances been vaporised by sea-launched missiles, having been infected by nanobots programmed to attack his nearest and dearest at the slightest touch. No one would believe that one of the world’s most successful film series would come to such an abrupt halt, but no doubt a little reassurance helped. Nevertheless, the first order of business for scriptwriter Steven Knight and director Denis Villeneuve will be dealing with it: how to revive and re-energise a character at the heart of the action. Speculation on their best way forward has been rife, and previous examples are not hard to find. Sherlock Holmes was killed off by Arthur Conan Doyle by fighting his arch enemy Professor Moriarty at the Reichenbach Falls in the story The Final Problem, only to resuscitate him a decade later with The Adventure of the Empty House. Superman is apparently killed at the end of Batman v Superman: Dawn of Justice, but resurrected in Justice League for the fight against Steppenwolf. Arguably the most enduring pop-culture return is Bobby Ewing’s famous shower scene in the TV show Dallas in 1986, which attempted to ensure continuity by suggesting Ewing’s death was his wife’s dream. And even Ian Fleming toyed with killing off Bond, with a climactic poison scene at the end of his 1957 novel From Russia with Love, and leaving him amnesiac and vulnerable to Soviet attack at the finish of You Only Live Twice, the last Bond novel published in Fleming’s lifetime. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/james-bond-movie-007s-death-in-no-time-to-die-robert-pattinson",
+      "image": "https://i.guim.co.uk/img/media/20c984c6b6913d90c4c8e7d970b39ccb61caa4b0/82_71_1671_1337/master/1671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daf72a71548ce852486b79a8622ca083",
+      "publishedAt": "2026-11-20T13:12:32.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-dpdGgtYXJnZW50aW5h",
       "title": "‘The hand of god’ and all that: Lineker, Shilton et al look back at 1986 England-Argentina clash – The Match review",
@@ -172,30 +268,6 @@
       "category": "TV"
     },
     {
-      "id": "indiewire-JlLTEyMzUyMTMxNzkv",
-      "title": "Fall Festival Movies Sold: Magnolia Heaps Dollars on ‘Trash Mountain’ with Caleb Hearon and Zooey Deschanel",
-      "description": "Kris Rey directed the dark comedy based on Hearon's own script that premiered at TIFF.",
-      "url": "https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TRASH-MOUNTAIN-courtesy-of-Magnolia-Pictures.jpg?w=650",
-      "publishedAt": "2026-11-19T20:58:11.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2QtMTIzNTIyOTMxOC8",
-      "title": "Why the Radical Lesbian Filmmaker Doc ‘Barbara Forever’ Deserves Oscar Recognition",
-      "description": "IndieWire talks to director Brydie O'Connor about her expansive, empathetic, Sundance-winning archival portrait of pioneering lesbian filmmaker Barbara Hammer.",
-      "url": "https://www.indiewire.com/awards/consider-this/barbara-forever-brydie-o-connor-doc-deserves-oscar-nod-1235229318/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2025/12/Barbara_Forever-Still_2.jpg?w=650",
-      "publishedAt": "2026-11-19T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-i13YXJzLWNhcmRpZmY",
       "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
       "description": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in dub of 1977 film, among guests on red carpet It has been a memorable few days for Wales. At the weekend, the men’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in more than 70 years. Then on Thursday evening came another culturally significant moment when Cardiff rolled out the red carpet to celebrate the first Welsh-language dub of the Star Wars franchise. Stars of stage and screen who voiced the words of Luke Skywalker, Darth Vader, C-3PO et al in Welsh (Cymraeg) over the original 1977 Star Wars film took the plaudits at the Cineworld Cardiff screening. Continue reading...",
@@ -208,18 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-nktMTIzNTIyODExOS8",
-      "title": "Don’t Forget the Other ‘Heat’ Movie, Which Gave Burt Reynolds One of His Best Noir Roles",
-      "description": "Derived from a screenplay by the legendary William Goldman, this hard-boiled gem was unfairly forgotten almost as soon as it was released. Its 40th anniversary provides an opportunity to fix that.",
-      "url": "https://www.indiewire.com/features/commentary/burt-reynolds-heat-40th-anniversary-history-1235228119/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/SIJA065_EC250.jpg?w=650",
-      "publishedAt": "2026-11-19T19:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Classics"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
       "description": "The classic 1977 film has been dubbed into Welsh for the first time and features a host of star names.",
@@ -230,54 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Classics"
-    },
-    {
-      "id": "indiewire-RvLTEyMzUyMjUwNTMv",
-      "title": "Before He Played Sylvester Stallone in ‘I Play Rocky,’ Star Anthony Ippolito Fought Hard for His Own Big Break",
-      "description": "To snag the starring role in Peter Farrelly's crowd-pleasing \"I Play Rocky,\" the breakout star tells IndieWire how he — somewhat accidentally — ended up following the iconoclastic actor and filmmaker's own playbook.",
-      "url": "https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2301399143.jpg?w=650",
-      "publishedAt": "2026-11-19T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-JvLTEyMzUyMjk1NjQv",
-      "title": "‘The Gilded Age’ Renewed for Fifth Season Following Ratings Boom",
-      "description": "The HBO series, beloved for its opulence and pageantry, is coming off its most-watched season.",
-      "url": "https://www.indiewire.com/news/breaking-news/gilded-age-renewed-for-fifth-season-hbo-1235229564/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/The-Gilded-Age-Season-4-Morgan-Spector-as-George-Russell.jpg?w=650",
-      "publishedAt": "2026-11-19T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-NoZXItYnJhZC1waXR0",
-      "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
-      "description": "David Fincher directs Quentin Tarantino’s script, picking up from Once Upon a Time in Hollywood, and its lead is more ineffably beguiling than ever We got through to the very end of Quentin Tarantino’s previous film Once Upon a Time in Hollywood without finding out exactly how, why or if Brad Pitt’s stuntman character Cliff Booth murdered his wife. It was an issue only addressed in Tarantino’s novel based on the movie. And throughout the 140 minutes of this outrageous sugar-rush sequel – scripted by Tarantino and directed by David Fincher – this subject is tactfully passed over in silence, the one point that damages our perception of Cliff’s amiable-cowpoke good nature. Cliff is the guy who climaxed the previous picture by helping with a dramatic rescue; after, that is, gallantly refusing an age-gap relationship with Margaret Qualley’s jailbait teen. Well, we may not get the complete picture of Cliff’s matrimonial circumstances until Tarantino’s forthcoming crossover Cliff Booth novel, with which this film is to form a kind of multimedia narrative event. But there is nonetheless such a huge amount of energy, fun, scabrous black comedy, provocative bad taste and film-making style to be had here. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
-      "image": "https://i.guim.co.uk/img/media/d332056d21c56c70525279014f547e816809b7b8/451_0_3216_2574/master/3216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=b0ebf1abe2f67f372234b9b5afbd74e5",
-      "publishedAt": "2026-11-19T18:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-eC0xMjM1MjI5MjM0Lw",
-      "title": "‘The Further Mis-Adventures of Cliff Booth’ Review: David Fincher’s Breezy Tarantino Spinoff Is a Disappointing Compromise Between Great Directors",
-      "description": "Hollywood's chillest stuntman returns in Netflix's fun but muddled \"Once Upon a Time in Hollywood\" follow-up.",
-      "url": "https://www.indiewire.com/criticism/movies/further-misadventures-of-cliff-booth-movie-review-netflix-1235229234/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/final-trailer-the-further-misadventures-of-cliff-booth.jpg?w=650",
-      "publishedAt": "2026-11-19T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-Y2Utb2YtZ2FyYmFnZQ",
@@ -506,18 +518,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-3NvbnMtY3JlZWstdHY",
-      "title": "‘We did 10 takes of it!’ Kerr Smith on Dawson’s Creek and filming US TV’s first male gay kiss",
-      "description": "As he releases a memoir, the actor opens up about the late James Van Der Beek, the magic of the Creek, and facing homophobia for playing gay in the 90s There are worse things to spend a couple of decades chasing than the feeling of being young, successful and surrounded by people who love you. For Kerr Smith, though, the particular magic of Dawson’s Creek has proved just about impossible to replicate. “I’ve spent the last 25 years of my career trying to re-create that experience,” Smith says of the WB teen drama, on which he played the sensitive jock Jack McPhee for five seasons. “I’ve been trying to measure up to it my entire career.” Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
-      "image": "https://i.guim.co.uk/img/media/522c995de2603ff344e1861dbf0add750d2c0297/87_1_2389_1911/master/2389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e522069999c4ef5c3c28154cf6f37202",
-      "publishedAt": "2026-11-09T11:00:08.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-YW4tZmlsbS1tYWtlcg",
