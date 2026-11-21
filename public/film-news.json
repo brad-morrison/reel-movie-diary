@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:43:40.088Z",
+  "generatedAt": "2026-11-21T06:33:37.331Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-bmVtYS1yZWxlYXNlcw",
+      "title": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
+      "description": "A Hunger Games cash-grab, up close with Elizabeth Holmes, Helen Mirren plays Patricia Highsmith, and Maradona’s helping hand … here are all the latest film releases at a glance *** Continue reading...",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases",
+      "image": "https://i.guim.co.uk/img/media/20fb49996b2efa5ff467e0d03c22ab4a569ced79/4_0_4195_3355/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d79ba082ca0afa63d1e62ffbca0cc14",
+      "publishedAt": "2026-11-21T06:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-3MtMTIzNTIyOTg1MS8",
+      "title": "Trump Renews Backing for Federal Film Tax Credit as Lawmakers Push for Year-End Passage",
+      "description": "The bipartisan bill gained more than 60 House cosponsors and four Senate cosponsors this week. If passed, it would offer a 20 percent tax credit on qualifying U.S. production labor costs.",
+      "url": "https://www.indiewire.com/news/breaking-news/trump-says-federal-film-tax-credit-will-pass-congress-1235229851/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2306106159.jpg?w=650",
+      "publishedAt": "2026-11-21T00:51:53.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -196,18 +220,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-by0xMjM1MjI5NTQ2Lw",
-      "title": "Is A24 Finally Big Enough to Be Considered a Major Studio?",
-      "description": "With a 6 percent box office share that bests other, bigger studios, 16 to 18 movies a year, and an increasingly pricy content slate, the argument against is getting harder to make.",
-      "url": "https://www.indiewire.com/news/analysis/is-a24-big-enough-major-studio-1235229546/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Marty-Supreme.jpg?w=650",
-      "publishedAt": "2026-11-20T13:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-mVydC1wYXR0aW5zb24",
       "title": "Now get out of that! How can the new James Bond film get around 007’s death in No Time to Die?",
       "description": "Was it all a dream? Has Bond been in hiding? Or will Robert Pattinson simply report to HR on his first day? Russell T Davies, David Hare and more give their takes “James Bond will return,” says the closing title on No Time to Die, the most recent James Bond film and the final one to star Daniel Craig. It is just as well: Bond has to all appearances been vaporised by sea-launched missiles, having been infected by nanobots programmed to attack his nearest and dearest at the slightest touch. No one would believe that one of the world’s most successful film series would come to such an abrupt halt, but no doubt a little reassurance helped. Nevertheless, the first order of business for scriptwriter Steven Knight and director Denis Villeneuve will be dealing with it: how to revive and re-energise a character at the heart of the action. Speculation on their best way forward has been rife, and previous examples are not hard to find. Sherlock Holmes was killed off by Arthur Conan Doyle by fighting his arch enemy Professor Moriarty at the Reichenbach Falls in the story The Final Problem, only to resuscitate him a decade later with The Adventure of the Empty House. Superman is apparently killed at the end of Batman v Superman: Dawn of Justice, but resurrected in Justice League for the fight against Steppenwolf. Arguably the most enduring pop-culture return is Bobby Ewing’s famous shower scene in the TV show Dallas in 1986, which attempted to ensure continuity by suggesting Ewing’s death was his wife’s dream. And even Ian Fleming toyed with killing off Bond, with a climactic poison scene at the end of his 1957 novel From Russia with Love, and leaving him amnesiac and vulnerable to Soviet attack at the finish of You Only Live Twice, the last Bond novel published in Fleming’s lifetime. Continue reading...",
@@ -238,18 +250,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
       "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=350e42d4c86fe3c25b6bb5e52a0e4e71",
       "publishedAt": "2026-11-20T10:00:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-1saWZlLWluLWV4aWxl",
-      "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
-      "description": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he will lose his horse and if he turns right he will lose his head. So the knight has a dilemma; there are only bad options here. Zvyagintsev smiles and says: “It is a very Russian fairytale.” Terrible things tend to happen, that’s the way the world works, and a person is defined by how they respond to each challenge. That goes for the knight in the forest and the characters in a film. It probably goes for Zvyagintsev, too, who has lost not his horse but his home and very nearly his life. The Russian director almost died during the Covid-19 pandemic and spent 40 days in an induced coma . He now lives in exile as an enemy of the state. “I’m with the birds,” he says by way of explaining his situation. “Birds have no borders. They’re not thinking about tomorrow.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile",
-      "image": "https://i.guim.co.uk/img/media/146c3d30723566dfb145291ced44ed074a396e30/468_0_9657_7726/master/9657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47e871c535f2e85a165fd7c97900b935",
-      "publishedAt": "2026-11-20T08:00:26.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
