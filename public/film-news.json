@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:33:37.331Z",
+  "generatedAt": "2026-11-21T12:29:50.784Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 9
+      "articles": 11
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,54 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-10ZWxldmFuZ2VsaXNt",
+      "title": "‘Shakespearean tale of ego, greed and ambition’: the scandalous story of televangelism",
+      "description": "Netflix documentary Primetime Preacher$ travels back to a time when evangelism found a dominant place on US television – and the shocking tabloid stories that followed For three decades, film-maker Joe Berlinger has gripped true-crime buffs with his deep dives into small-town murders and infamous serial killers. His Netflix explorations of John Wayne Gacy and Jeffrey Dahmer helped flip documentary storytelling from viewer homework to a welcome distraction. After dedicating so much time to the life of Jeffrey Epstein, the kidnapping of JonBenét Ramsey and other unsolved mysteries, Berlinger thought Primetime Preacher$, his new Netflix documentary on America’s televangelist boom, would offer a break. But it turns out that’s a pretty juicy crime story too, about the religious right’s bank job on American politics. “The deeper resonance for me came when I realized that the global televangelism rise actually mirrors the rise of the religious right,” he says. “Religion and politics, from Reagan on, has really changed politics for the worse in my opinion. This was the birth of that.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/21/primetime-preachers-documentary-televangelism",
+      "image": "https://i.guim.co.uk/img/media/b7251f946aacd9a1468eb64cb257bf2a7a48ac57/73_359_1743_1393/master/1743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03418a789600a113aa7df1498f09c682",
+      "publishedAt": "2026-11-21T10:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "bbc-RfY2FtcGFpZ249cnNz",
+      "title": "The film about fencing set between two cultures",
+      "description": "Parvinder Shergill talks about creating art that honours both of her cultural backgrounds.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a328/live/b2cab3f0-dfa6-11f1-ab35-8541e0a03fdd.jpg",
+      "publishedAt": "2026-11-21T07:17:07.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Rings of Power filming allows Morfydd Clark to see 'secret bits' of Wales",
+      "description": "Rings of Power actress Morfydd Clark sees 'secret bits' of Wales in filming",
+      "url": "https://www.bbc.co.uk/news/articles/c615egvdd59xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b2b/live/41c94520-e359-11f1-a8cd-2ff5ed84046e.jpg",
+      "publishedAt": "2026-11-21T07:11:37.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-5hdGhhbi1maWVsZGVy",
+      "title": "You Can See Everything’s vibes-check approach is an insult to objective truth",
+      "description": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception. Instead, he looks into her eyes and asks if she’s for real. Is that why his film has been so successful? • This article does not contain major spoilers Sometimes, people who have lied lie about whether or not they’ve lied. They even, on occasion, fail to tell the truth despite having sworn to do so – in court, for instance, or staring deeply into the eyes of someone who is sitting right there . Is that a shock? Probably not. We all engage in versions of such behaviour every day. We understand that the current climate of mutually clueless echo chambers helps claptrap gain traction. But we can still recognise the difference between little white lies and big red flags. We know that the moment anyone starts using the phrase “my truth” it’s time to cancel the wedding. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
+      "image": "https://i.guim.co.uk/img/media/3555b6a8f4ca83952ae08962c834c0c4ab023996/70_0_1219_975/master/1219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=32fc9215bc3137155eb14788d9929664",
+      "publishedAt": "2026-11-21T07:00:53.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-bmVtYS1yZWxlYXNlcw",
       "title": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
@@ -110,6 +158,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Classics"
+    },
+    {
+      "id": "guardian-FjYXVsYXktY3Vsa2lu",
+      "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+      "description": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Culkin met with Disney executives earlier this year with a pitch for a follow-up and now the project has been met with a green light. The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline , will be from the father’s point of view. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+      "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae667b7c44e3862414a7a61477991409",
+      "publishedAt": "2026-11-20T19:18:20.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-3MtMTIzNTIyNTEzNC8",
@@ -232,24 +292,12 @@
       "category": "TV"
     },
     {
-      "id": "guardian-dpdGgtYXJnZW50aW5h",
-      "title": "‘The hand of god’ and all that: Lineker, Shilton et al look back at 1986 England-Argentina clash – The Match review",
-      "description": "Argentinian co-directors Juan Cabral and Santiago Franco work hard to appear impartial in account that situates the game in a long continuum of conflict Here is a football documentary that is a cut above the drain-clogging content that loiters in streaming platforms everywhere. Its subject is the World Cup quarter-final contest between Argentina and England in 1986, a game constantly replayed in the collective consciousness for the two never-to-be-forgotten moments contributed by Diego Maradona: the illicit “hand of God” goal that gave Argentina the lead, and then five minutes later his sublime second goal, for which he skipped past half a dozen of the England team before slotting the ball home with the outside of his foot. It was this second strike, voted in 2002 as Fifa’s goal of the century , that partly lanced the boil of English rage over Maradona’s outrageous cheating; what could they do in the face of such authentic genius? Over and above football matters, it’s clear to see that there were bigger things at stake. Rather obviously, it happened only four years after the Falklands war, which thoroughly poisoned already tense relations between Britain and Argentina. The Match situates the 1986 clash as part of a continuum of strife, dating back at least to the arrival in 1765 of a British sea captain, John Byron, on the Falklands to claim them for Britain. Other key moments: Argentina’s Antonio Rattín getting sent off during the 1966 World Cup, and Maradona being invited on stage by Queen to sing Another One Bites the Dust during their mammoth 1981 South American tour. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/the-match-review-conciliatory-look-back-at-englands-hand-of-god-clash-with-argentina",
-      "image": "https://i.guim.co.uk/img/media/d896d2d8f251bfe4a1f2559146adadee6b42fa90/229_0_2475_1980/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c7390a52c9bb0ba891e87d21b8b54db3",
-      "publishedAt": "2026-11-20T11:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-b3RiYWxsLWJpb3BpYw",
-      "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
-      "description": "With the release of a new David O Russell biopic about the coach turned commentator turned gaming icon, those who knew him best remember his singular career Wearing his Oakland Raiders uniform and helmet, and gripping an orange traffic cone like a lance, Ted Hendricks rode into the training session on a roan horse and stopped at the 50-yard line. Some American football coaches might have reacted to the stunt with fury. But John Madden was unfazed. “We needed some relief from the intense grind,” recalls Hendricks, 79, who had borrowed the horse from a nearby stable. “It was a spur of the moment idea, but put a smile on everyone’s face. All Coach said once I dismounted was, ‘All right guys, Ted’s here, let’s get started.’ But I know he got a kick out of it too – just from the look on his face and the comments he made later in interviews.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
-      "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=350e42d4c86fe3c25b6bb5e52a0e4e71",
-      "publishedAt": "2026-11-20T10:00:31.000Z",
+      "id": "guardian-1saWZlLWluLWV4aWxl",
+      "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
+      "description": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he will lose his horse and if he turns right he will lose his head. So the knight has a dilemma; there are only bad options here. Zvyagintsev smiles and says: “It is a very Russian fairytale.” Terrible things tend to happen, that’s the way the world works, and a person is defined by how they respond to each challenge. That goes for the knight in the forest and the characters in a film. It probably goes for Zvyagintsev, too, who has lost not his horse but his home and very nearly his life. The Russian director almost died during the Covid-19 pandemic and spent 40 days in an induced coma . He now lives in exile as an enemy of the state. “I’m with the birds,” he says by way of explaining his situation. “Birds have no borders. They’re not thinking about tomorrow.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/andrey-zvyagintsev-covid-putin-russia-life-in-exile",
+      "image": "https://i.guim.co.uk/img/media/146c3d30723566dfb145291ced44ed074a396e30/468_0_9657_7726/master/9657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47e871c535f2e85a165fd7c97900b935",
+      "publishedAt": "2026-11-20T08:00:26.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -376,18 +424,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-ZmYtYmV6b3MtcGljaw",
-      "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
-      "description": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson Amazon’s founder and billionaire chairman, Jeff Bezos , has said he was “heavily involved” in the decision to cast Robert Pattinson as the next James Bond. Amazon paid more than $1bn for “creative control” of the Bond franchise last year, striking a deal with the longtime heirs and stewards of the films, shocking fans who worried that Bezos’s takeover would signal an end to the franchise as they knew it. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
-      "image": "https://i.guim.co.uk/img/media/7cbe6de1f6428412178cc0bf05d7ace0713c62c0/366_0_3913_3130/master/3913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab3883eb2e0181619043c052e0e1b788",
-      "publishedAt": "2026-11-18T02:13:58.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
       "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
@@ -482,18 +518,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-GluZy1ob2xseXdvb2Q",
-      "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
-      "description": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking for something a little lighter, and surely nothing can be more jolly, more wholesome than a Christmas romcom. In Christmas & Chaos, Kirk plays Sadie, a pop star in search of a hit – or, to be more precise, three hits for a new musical by an impresario (a comedic Jason Isaacs who only appears on screen via video call). She has just a couple of weeks to come up with something with handsome-and-heartbroken composer (Ben McGregor). Kirk, who also produced the film, approached Jamie Adams, director of several low-budget British films, including Black Mountain Poets, intrigued by his regular use of improvisation. They worked out the story together, says Kirk, but made it without a script. All they knew was that “this was a Christmas movie, these two have got a deadline to make these hit songs and maybe there’ll be some kind of romance. And then it became something else, which is even more interesting.” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
-      "image": "https://i.guim.co.uk/img/media/19f0d1b8e6552a91c82f21629502f329e20afe22/0_128_2559_2046/master/2559.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fb74cbfdadc10d96be16556fef0fd93",
-      "publishedAt": "2026-11-12T06:00:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-ZXZpZXctbmV0ZmxpeA",
