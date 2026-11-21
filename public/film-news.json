@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T12:29:50.784Z",
+  "generatedAt": "2026-11-21T18:27:05.258Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 28
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-FydGluLXNjb3JzZXNl",
+      "title": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+      "description": "Director and Scorsese collaborator is using AI in films and sees its takeover as inevitable, not just in cinema Paul Schrader was sipping white wine in a Greenwich Village trattoria when he said how he felt about using AI to make films: “I am opening the cage of a monster and I don’t have a leash.” The 80-year-old film-maker behind Taxi Driver, Raging Bull and American Gigolo, is embracing the technology as he enters the final act of a prolific career in which he has collaborated with Martin Scorsese, Robert De Niro, Sigourney Weaver and Richard Gere. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+      "image": "https://i.guim.co.uk/img/media/c3c591ee1acfc05bd826c7b9314021f5f105c5c6/804_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3dcaf8e12ede0cca035255661e83ad9",
+      "publishedAt": "2026-11-21T11:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-10ZWxldmFuZ2VsaXNt",
       "title": "‘Shakespearean tale of ego, greed and ambition’: the scandalous story of televangelism",
@@ -400,18 +412,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-5pcy12aWxsZW5ldXZl",
-      "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
-      "description": "The Crown star was reportedly an early favourite of director Denis Villeneuve, but ‘had reservations about the baggage associated with the role from the start’ Josh O’Connor, one of the actors on the final shortlist for the role of James Bond which was ultimately won by Robert Pattinson, was an early favourite of director Denis Villeneuve but pulled out of the contest before a decision was made, it has been reported. Writing in Puck’s What I’m Hearing newsletter , Matthew Belloni (who correctly forecast that Pattinson would win the role ) said that O’Connor “had reservations about the baggage associated with the role from the start” and pulled out shortly after his test. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
-      "image": "https://i.guim.co.uk/img/media/f0267f7910cf541bbc76968089e75bbe1f13ba20/644_0_6444_5156/master/6444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d44bd40b5a342e2f1bd49a9bd3bfeb",
-      "publishedAt": "2026-11-18T11:51:31.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-24tamFuZS1iaXJraW4",
       "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
       "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
@@ -554,18 +554,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
-    },
-    {
-      "id": "guardian-YW4tZmlsbS1tYWtlcg",
-      "title": "Sebastián Lelio was a fascinating film-maker of great passion and poetry",
-      "description": "Chilean director of films including Gloria and A Fantastic Woman could expertly capture both the personal and political Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52 The last 20 years have seen an amazing flowering of creativity from Chilean film-makers. The standard bearers of the Novisimo Cine Chileno , or New Chilean Cinema, have included Pablo Larraín, Patricio Guzmán (who sadly died this year) and Sebastián Silva, directors who brought to global audiences news of what it has been like in their country to have submitted to Augusto Pinochet’s rule, a tinpot tyranny encouraged and enabled by the United States as an acceptable alternative to communism. They were able to emerge from that rule into a kind of prosperous democratic normality in which their buried trauma and guilt still swirled around in their collective unconscious. But there can hardly be a director who dramatized the different aspects of Chile’s complex and conflicted 21st-century zeitgeist than Sebastián Lelio. Some of his films were political and some not obviously political. But they were all fierce, passionate and sensual – an expression of defiance, at some level, against a system which robbed ordinary people of pleasure. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-film-maker",
-      "image": "https://i.guim.co.uk/img/media/8f5dc8d9b0bc8514dd08fbb94c1401508a15ddde/247_0_1770_1417/master/1770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2ec80a0b0e0c498c1d9f89adc35ed1ef",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-QtbW92aWUtcmV2aWV3",
