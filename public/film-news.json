@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:30:32.525Z",
+  "generatedAt": "2026-11-21T00:43:40.088Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 9
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,90 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyOTY5My8",
+      "title": "‘Disclosure Day’ Did Its Biggest Stunts Practically, So the VFX Team Worked Hard to Look Invisible — Watch",
+      "description": "At IndieWire's Craft Roundtables, \"Disclosure Day\" VFX supervisor Matthew Butler explained how stunt work and effects can combine to make movie magic.",
+      "url": "https://www.indiewire.com/features/craft/disclosure-day-vfx-craft-roundtables-1235229693/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9442-2.jpg?w=650",
+      "publishedAt": "2026-11-20T21:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VyLTEyMzUxOTU3NDEv",
+      "title": "How World-Class Filmmaker Andrey Zvyagintsev Came Back to Life for ‘Minotaur’",
+      "description": "The director almost died from complications of COVID. But he recovered, slowly, and tells IndieWire how he rediscovered the joy of filmmaking outside his native Russia with \"Minotaur.\"",
+      "url": "https://www.indiewire.com/features/interviews/andrey-zvyagintsev-cannes-interview-minotaur-1235195741/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/P106F0LX.jpg?w=650",
+      "publishedAt": "2026-11-20T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-dC0xMjM1MjI5NzMyLw",
+      "title": "Curry Barker Would Have Completely Reshot ‘Obsession’ If He Could",
+      "description": "His film was the year's biggest horror hit, but the 27-year-old filmmaker insists he's still learning about directing",
+      "url": "https://www.indiewire.com/features/podcast/curry-barker-obsession-directing-lessons-whats-next-1235229732/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/TK_CurryBarker-Obsession_Thumbjpg.jpg?w=650",
+      "publishedAt": "2026-11-20T20:25:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-eS0xMjM1MjI5NzAwLw",
+      "title": "How a Filipino Facial Expression in ‘Forgotten Island’ Became a Universal Symbol of Representation",
+      "description": "Directors Joel Crawford and Januel Mercado told IndieWire about crafting the Filipino mythology-inspired animated movie and why lip pointing is iconic.",
+      "url": "https://www.indiewire.com/features/animation/forgotten-island-directors-interview-filipino-mythology-1235229700/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFOIS_UV046.jpg?w=650",
+      "publishedAt": "2026-11-20T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-Zy0xMjM1MjI5NzM1Lw",
+      "title": "A ‘Home Alone’ Legacyquel with Macaulay Culkin in Early Development with Seth Rogen and Evan Goldberg",
+      "description": "Disney's 20th Century Studios is in very early development on a sequel to the 1990 holiday classic based on an idea from Culkin.",
+      "url": "https://www.indiewire.com/news/breaking-news/home-alone-sequel-macaulay-culkin-seth-rogen-evan-goldberg-1235229735/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2024/12/MSDHOAL_FE023.jpg?w=650",
+      "publishedAt": "2026-11-20T19:33:40.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-3MtMTIzNTIyNTEzNC8",
+      "title": "What ‘Digger’ Has in Common with Gary Oldman’s Winston Churchill and Charlize Theron’s Megyn Kelly",
+      "description": "Prosthetics make-up artist Kazu Hiro talks with IndieWire about working with Cruise and director Alejandro Iñárritu to turn the charismatic movie star into an aging, sagging oil tycoon.",
+      "url": "https://www.indiewire.com/features/craft/kazu-hiro-inarritu-tom-cruise-digger-prosthetics-1235225134/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/IMG_3018.jpeg?w=650",
+      "publishedAt": "2026-11-20T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-J0LTEyMzUyMTk4Mjcv",
       "title": "‘Cameron Winter at Carnegie Hall’ Review: PTA’s Spellbinding Concert Doc Is a Gorgeously Tender Performance",
@@ -26,6 +110,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
+    },
+    {
+      "id": "guardian-VkLWFsbGVnYXRpb25z",
+      "title": "Gérard Depardieu and Michel Houellebecq investigated over on-set rape and assault allegations",
+      "description": "Actor and author are alleged to have attacked and gang-raped a woman while filming together in 2018 French police are investigating allegations that the actor Gérard Depardieu and the author Michel Houellebecq gang-raped and assaulted a woman during a 2018 film shoot. The alleged attack took place in December 2018 during the shooting of Thalasso, a film starring the two men as versions of themselves who meet at a health spa and have long philosophical conversations while in white bath-robes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+      "image": "https://i.guim.co.uk/img/media/5c3066330bc9c281dfef1ddc318e76b9397de16d/1501_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ca18ae71054a775ebf160949f7e2c7d",
+      "publishedAt": "2026-11-20T16:54:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "indiewire-cy0xMjM1MjI5NjkyLw",
@@ -61,6 +157,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-QtcG93ZXItY291cGxl",
+      "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
+      "description": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the next big British power couple in Hollywood. This week Robert Pattinson and Suki Waterhouse, who have been in a relationship since 2018, were thrust into the global spotlight after the news that he had landed arguably the biggest and most glamorous role in film. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
+      "image": "https://i.guim.co.uk/img/media/2546de62982769570be91ff80428d17c8d47434c/308_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15a0f9bfd08d190b2860e9911263c62e",
+      "publishedAt": "2026-11-20T16:00:33.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -136,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-C1tb3ZpZS1yZXZpZXc",
-      "title": "Steps review – Netflix’s Disney-lite Cinderella rework has enough pep in its step",
-      "description": "The plot might be a little overstuffed and the animation style could be a little more distinctive, but this is better than the streamer’s average animated offering Stop me if you’ve heard this one before, but that age-old story you think you know, well, you might not know it at all. It’s a tale as old as Shrek, which was by no means the first film to subvert fairytale expectations, but it was definitely the most influential, and we’re still feeling its impact 25 years later, for better or worse. What if that villain wasn’t actually the villain after all? What if that love interest shouldn’t have been of interest in the first place? What if that damsel in distress was given a bullet-speed fight scene instead of weeping in a tower? But what might have seemed fresh in 2001, if not quite as fresh for anyone who knew and loved The Princess Bride , has grown a little tiresome ever since. Bucking the conventions has essentially become the convention, and effortful attempts to remix classic storytelling beats have mostly ended up reeking of smugness. Yet they still keep coming (IP is king) and before the inevitable Shrek legacy sequel hits cinemas next summer, Netflix is trying to conjure up that same mix of snark and sentiment with Steps, a Cinderella story but, wait for it, not the Cinderella story you thought you knew … Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/steps-netflix-movie-review",
-      "image": "https://i.guim.co.uk/img/media/94d3f4b3e7e462d428ba059451b74e49e59dfe2b/625_0_2749_2200/master/2749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=82ffa299ed2e144307dc16a0159c3942",
-      "publishedAt": "2026-11-20T08:01:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "guardian-1saWZlLWluLWV4aWxl",
       "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
       "description": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he will lose his horse and if he turns right he will lose his head. So the knight has a dilemma; there are only bad options here. Zvyagintsev smiles and says: “It is a very Russian fairytale.” Terrible things tend to happen, that’s the way the world works, and a person is defined by how they respond to each challenge. That goes for the knight in the forest and the characters in a film. It probably goes for Zvyagintsev, too, who has lost not his horse but his home and very nearly his life. The Russian director almost died during the Covid-19 pandemic and spent 40 days in an induced coma . He now lives in exile as an enemy of the state. “I’m with the birds,” he says by way of explaining his situation. “Birds have no borders. They’re not thinking about tomorrow.” Continue reading...",
@@ -184,66 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-3ctMTIzNTIyOTY0NS8",
-      "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Lands at Black Bear",
-      "description": "Hader directs and stars alongside Linda Cardellini in the psychological horror film about co-parenting after a divorce.",
-      "url": "https://www.indiewire.com/news/general-news/black-bear-distribute-bill-hader-movie-they-know-1235229645/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650",
-      "publishedAt": "2026-11-20T00:23:39.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-9uLTEyMzUyMjkzNTUv",
-      "title": "Why Good Voice Acting Doesn’t Have to Happen in Isolation",
-      "description": "\"Wildwood\" director Travis Knight and \"Tangles\" director Leah Nelson tell IndieWire how they helped shape vocal performances for animation.",
-      "url": "https://www.indiewire.com/features/animation/voice-directing-wildwood-tangles-animation-1235229355/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/2000.0130.marketing.rgb_.001.jpeg?w=650",
-      "publishedAt": "2026-11-19T23:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyOTYwNC8",
-      "title": "Watch the ‘Backrooms’ VFX Supervisor Explain His Unique Process of Collaborating with Kane Parsons",
-      "description": "During IndieWire's Craft Roundtables, Edward Douglas explained that Parsons' background in designing his own effects led to a unique workflow.",
-      "url": "https://www.indiewire.com/features/craft/backrooms-vfx-supervisor-craft-roundtables-1235229604/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9390.jpg?w=650",
-      "publishedAt": "2026-11-19T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VyLTEyMzUyMjk2MTUv",
-      "title": "Aaron Pierre on ‘Lanterns,’ the DC Shake-Up, and Landing a Role in Ryan Gosling’s ‘Star Wars’ Movie",
-      "description": "Pierre joins this week's episode of IndieWire's \"Screen Talk\" podcast. Plus, the co-hosts debate David Fincher and Quentin Tarantino's \"The Further Mis-Adventures of Cliff Booth.\"",
-      "url": "https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/P107OHSK.jpg?w=650",
-      "publishedAt": "2026-11-19T21:59:19.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjI1Nzc0Lw",
-      "title": "Director Brian Duffield Had to Find a New Form of Visual Storytelling for ‘Whalefall’",
-      "description": "Director Brian Duffield talks about the logistical and aesthetic challenges of telling a story that takes place almost entirely inside a whale's stomach.",
-      "url": "https://www.indiewire.com/features/podcast/brian-duffield-on-whalefall-filmmaker-toolkit-1235225774/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWHAL_H3011.jpg?w=650",
-      "publishedAt": "2026-11-19T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
       "description": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
@@ -254,18 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-dC0xMjM1MjI4ODM4Lw",
-      "title": "Ryan Coogler’s Proximity Media Hires Former Netflix Exec Tendo Nagenda as President",
-      "description": "The exec behind \"Da 5 Bloods,\" \"Glass Onion,\" and \"Ma Rainey's Black Bottom\" will oversee all of Proximity's creative divisions.",
-      "url": "https://www.indiewire.com/news/breaking-news/ryan-coogler-proximity-media-hires-tendo-nagenda-president-1235228838/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Tendo-Nagenda-Headshot.png?w=650",
-      "publishedAt": "2026-11-19T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
     },
     {
       "id": "guardian-i13YXJzLWNhcmRpZmY",
@@ -374,18 +398,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-WRlby1leHBsYWluZXI",
-      "title": "What will Robert Pattinson bring to the James Bond role? – video explainer",
-      "description": "Robert Pattinson has been chosen as the next James Bond. The Guardian film critic Peter Bradshaw explains what Pattinson could bring to the role and how the franchise might evolve under Amazon's creative control Robert Pattinson’s gift for cool, sensual menace makes him an exquisite choice as James Bond Continue reading...",
-      "url": "https://www.theguardian.com/film/video/2026/nov/17/what-will-robert-pattinson-bring-to-the-james-bond-role-video-explainer",
-      "image": "https://i.guim.co.uk/img/media/eab76eab47acbea94d14ab5fa07f87f02beeba11/0_812_9126_7294/master/9126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5637943996b45397992387b253d80cdf",
-      "publishedAt": "2026-11-17T16:32:03.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
