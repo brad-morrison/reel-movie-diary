@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:30:09.261Z",
+  "generatedAt": "2026-11-22T18:28:04.212Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,6 +16,30 @@
   },
   "articles": [
     {
+      "id": "indiewire-2UtMTIzNTIyOTg4MS8",
+      "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Debuts to Mighty $120 Million, Reviving Lionsgate’s Most Important Franchise",
+      "description": "'I Play Rocky' expands with $9.3 million, while Paul Thomas Anderson's \"Cameron Winter at Carnegie Hall\" grosses $162,000 from three locations.",
+      "url": "https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
+      "publishedAt": "2026-11-22T16:18:16.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-HktMTIzNTIyOTg4OC8",
+      "title": "Box Office: A24’s ‘You Can See Everything’ Crosses $100 Million Globally",
+      "description": "Lance Oppenheim and Nathan Fielder's look at Elizabeth Holmes is the third-highest-grossing domestic release in A24's history.",
+      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-crosses-100-million-globally-1235229888/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
+      "publishedAt": "2026-11-22T15:45:54.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Man who studied drama in young offenders' institution now a West End actor",
       "description": "Joseph Langdon, who stars in the Bristol Old Vic's production of Cinderella, learned to act while detained.",
@@ -29,7 +53,7 @@
     },
     {
       "id": "indiewire-GgtMTIzNTIyOTg2Ni8",
-      "title": "If There’s Generative AI in ‘The Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
+      "title": "If There’s Generative AI in ‘The Further Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
       "description": "It was also used in the 4K Remaster of \"Se7en\" to bring the film as close as possible to the original print.",
       "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650",
@@ -254,30 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Reviews"
-    },
-    {
-      "id": "indiewire-by0xMjM1MTczNzAwLw",
-      "title": "‘Josephine’ Review: Another Heartsick Horror Film About Real Monsters from ‘Soft &#038; Quiet’ Filmmaker",
-      "description": "Beth de Araújo's sophomore outing, following her remarkable 2022 debut, is another finely-tuned exploration of the pervasive power and perversion of real evil.",
-      "url": "https://www.indiewire.com/criticism/movies/josephine-review-channing-tatum-gemma-chan-beth-de-araujo-1235173700/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/Josephine-Still_1.jpg?w=650",
-      "publishedAt": "2026-11-20T16:30:35.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-eS0xMjM1MjI5NTk4Lw",
-      "title": "Walter Hill on Sam Peckinpah, Steve McQueen, and His Revolutionary Screenplay for ‘The Getaway’",
-      "description": "The veteran screenwriter reflected on his first big hit in front of a packed crowd at the Academy Museum.",
-      "url": "https://www.indiewire.com/features/interviews/walter-hill-on-sam-peckinpah-steve-mcqueen-the-getaway-1235229598/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IMG_2783.jpeg?w=640",
-      "publishedAt": "2026-11-20T16:04:05.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
     },
     {
       "id": "guardian-QtcG93ZXItY291cGxl",
