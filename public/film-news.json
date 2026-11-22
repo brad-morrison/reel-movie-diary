@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:46:31.966Z",
+  "generatedAt": "2026-11-22T06:33:27.363Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 11
+      "articles": 12
     },
     "indiewire": {
       "ok": true,
@@ -26,6 +26,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Bad Girls star Helen Fraser dies aged 84",
+      "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d51b/live/3ee67480-e59e-11f1-9ccc-ff5a88abcfc6.jpg",
+      "publishedAt": "2026-11-21T12:17:46.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
     },
     {
       "id": "guardian-FydGluLXNjb3JzZXNl",
