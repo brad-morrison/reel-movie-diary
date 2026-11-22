@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T06:33:27.363Z",
+  "generatedAt": "2026-11-22T12:30:09.261Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 28
+      "articles": 29
     },
     "bbc": {
       "ok": true,
-      "articles": 12
+      "articles": 8
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Man who studied drama in young offenders' institution now a West End actor",
+      "description": "Joseph Langdon, who stars in the Bristol Old Vic's production of Cinderella, learned to act while detained.",
+      "url": "https://www.bbc.co.uk/news/articles/cry869dq271zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5fad/live/0aacc2f0-e65c-11f1-8ebd-1d2173202734.jpg",
+      "publishedAt": "2026-11-22T07:32:21.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-GgtMTIzNTIyOTg2Ni8",
       "title": "If There’s Generative AI in ‘The Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
@@ -70,18 +82,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a328/live/b2cab3f0-dfa6-11f1-ab35-8541e0a03fdd.jpg",
       "publishedAt": "2026-11-21T07:17:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Rings of Power filming allows Morfydd Clark to see 'secret bits' of Wales",
-      "description": "Rings of Power actress Morfydd Clark sees 'secret bits' of Wales in filming",
-      "url": "https://www.bbc.co.uk/news/articles/c615egvdd59xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4b2b/live/41c94520-e359-11f1-a8cd-2ff5ed84046e.jpg",
-      "publishedAt": "2026-11-21T07:11:37.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -329,35 +329,11 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Actor Owen Cooper stars in new Beatles music video",
-      "description": "The film follows a family's love of music across generations and features Liverpool landmarks.",
-      "url": "https://www.bbc.co.uk/news/articles/ckx280084z2go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/25b2/live/5ce45220-e45b-11f1-9431-9fe383d2f2c7.jpg",
-      "publishedAt": "2026-11-20T06:22:29.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
       "description": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
       "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fad3/live/d16fdee0-e4d6-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-20T01:11:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Rob Brydon says he invented his own fake agent to negotiate fees",
-      "description": "The comedian and actor says he \"invented a guy called Richard Knight\" to negotiate on his behalf.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20w02v79qgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/40a4/live/86ff04a0-e45c-11f1-a599-65f550c2a35a.jpg",
-      "publishedAt": "2026-11-19T21:14:23.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -376,18 +352,6 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Star Wars actor 'thrilled' to voice the Welsh Luke Skywalker",
-      "description": "The classic 1977 film has been dubbed into Welsh for the first time and features a host of star names.",
-      "url": "https://www.bbc.co.uk/news/articles/cjy5xnye765zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/4856/live/a3590150-e44d-11f1-9192-3924a59e54c7.jpg",
-      "publishedAt": "2026-11-19T19:07:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Classics"
-    },
-    {
       "id": "guardian-Y2Utb2YtZ2FyYmFnZQ",
       "title": "Alex Cox: ‘John Lydon said Sid and Nancy was a nightmarish piece of garbage’",
       "description": "The cult film director and Moviedrome presenter answers your questions on why James Bond is anti-Russian propaganda, whether Christopher Nolan is a bore and wanting to save Hunter S Thompson Looking back, how do you regard your experience with Fear and Loathing in Las Vegas? And did you watch Terry Gilliam ’s version? AwapBamBoogers No, I didn’t watch it. I felt very sad about the whole thing because my wife and I were co-screenwriters. We went out to meet Hunter S Thompson and the poor guy was in a terrible state. He was hoovering up cocaine the whole time we were there. He had a great big TV screen, with a Post-it note saying: “Don’t watch too much TV.” We said we felt like his caseworkers, because all these guys in Hollywood like Johnny Depp were winding him up: “Dr Thompson, do something crazy, go out in the back garden and shoot a can of propane.” That’s all very well, but they were treating him like the freak in the county fairground. How many years was it after Fear and Loathing that the poor guy killed himself? He really needed an intervention. Instead, he was being encouraged by these Hollywood bastards. The giant boar in Razorback gave me nightmares when I saw it on Moviedrome . Did it give you nightmares too? Sootsayer I don’t remember. The films in Moviedrome were picked by [producer and director] Nick Freand Jones, who had access to all the films the BBC had under licence and didn’t know what to do with. Some of them I remember really well, but as I’m not so into horror films, I don’t remember Razorback. Continue reading...",
@@ -400,24 +364,24 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
-      "description": "The actress said how \"stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmge37e27r40o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ed67/live/ffc65c00-e437-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-19T12:17:32.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-G95bWVudC1zY2hlbWU",
       "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
       "description": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government. In a post on its official Instagram account , the UK government promoted its youth jobs guarantee scheme, first announced in August , with a picture of Robert Pattinson as Bond with the joke caption: “Robert Pattinson to apply for all 90,000 jobs created for young people through Youth Employment Scheme.” Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
       "image": "https://i.guim.co.uk/img/media/f0db2be37d46c2975b22ab3b0be39a031950484a/775_113_5275_4222/master/5275.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56d4339b2ac3a78cd4f9fa3759b7734f",
       "publishedAt": "2026-11-19T11:44:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-5pcy12aWxsZW5ldXZl",
+      "title": "Bond role was ‘Josh O’Connor’s to lose’ but actor pulled out of the running, report suggests",
+      "description": "The Crown star was reportedly an early favourite of director Denis Villeneuve, but ‘had reservations about the baggage associated with the role from the start’ Josh O’Connor, one of the actors on the final shortlist for the role of James Bond which was ultimately won by Robert Pattinson, was an early favourite of director Denis Villeneuve but pulled out of the contest before a decision was made, it has been reported. Writing in Puck’s What I’m Hearing newsletter , Matthew Belloni (who correctly forecast that Pattinson would win the role ) said that O’Connor “had reservations about the baggage associated with the role from the start” and pulled out shortly after his test. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+      "image": "https://i.guim.co.uk/img/media/f0267f7910cf541bbc76968089e75bbe1f13ba20/644_0_6444_5156/master/6444.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d44bd40b5a342e2f1bd49a9bd3bfeb",
+      "publishedAt": "2026-11-18T11:51:31.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
