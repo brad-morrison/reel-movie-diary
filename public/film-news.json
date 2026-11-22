@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:27:05.258Z",
+  "generatedAt": "2026-11-22T00:46:31.966Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-GgtMTIzNTIyOTg2Ni8",
+      "title": "If There’s Generative AI in ‘The Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
+      "description": "It was also used in the 4K Remaster of \"Se7en\" to bring the film as close as possible to the original print.",
+      "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650",
+      "publishedAt": "2026-11-21T23:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "guardian-FydGluLXNjb3JzZXNl",
       "title": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
@@ -277,18 +289,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-GUtMTIzNTIyOTY2MS8",
-      "title": "Short Film ‘Lightning Bug’ Gives Stage and Screen Legend Lois Smith One of Her Greatest Roles — Watch It Here",
-      "description": "IndieWire debuts the premiere of an Oscar-eligible short from Zane Pais.",
-      "url": "https://www.indiewire.com/features/interviews/short-film-lightning-bug-lois-smith-greatest-role-1235229661/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-10.29.25-AM.png?w=650",
-      "publishedAt": "2026-11-20T15:31:58.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
