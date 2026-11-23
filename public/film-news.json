@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:28:04.212Z",
+  "generatedAt": "2026-11-23T00:47:28.284Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,9 +16,21 @@
   },
   "articles": [
     {
+      "id": "indiewire-RlLTEyMzUyMjk5NDYv",
+      "title": "Rian Johnson Leaves the Door Open to Star Wars Return: ‘It’s a World I Deeply Love’",
+      "description": "\"The Last Jedi\" director tells IndieWire he loves the franchise \"more now than I ever have,\" just as projects set after \"The Rise of Skywalker\" move forward under new Lucasfilm chief Dave Filoni.",
+      "url": "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDSTWA_EC194_a74a29.jpg?w=650",
+      "publishedAt": "2026-11-22T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-2UtMTIzNTIyOTg4MS8",
       "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Debuts to Mighty $120 Million, Reviving Lionsgate’s Most Important Franchise",
-      "description": "'I Play Rocky' expands with $9.3 million, while Paul Thomas Anderson's \"Cameron Winter at Carnegie Hall\" grosses $162,000 from three locations.",
+      "description": "\"I Play Rocky\" expands with $9.3 million, while Paul Thomas Anderson's \"Cameron Winter at Carnegie Hall\" grosses $162,000 from three locations.",
       "url": "https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
       "publishedAt": "2026-11-22T16:18:16.000Z",
@@ -266,18 +278,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjI5NjkyLw",
-      "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Scores $21 Million in Previews, Second-Best Result of 2026",
-      "description": "Who cares about \"Grand Theft Auto 6\"? The return to Panem is expected to earn more than $100 million.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-hunger-games-sunrise-on-the-reaping-previews-1235229692/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDHUGA_LG049.jpg?w=650",
-      "publishedAt": "2026-11-20T16:37:29.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
     },
     {
       "id": "guardian-QtcG93ZXItY291cGxl",
