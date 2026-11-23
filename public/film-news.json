@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:47:28.284Z",
+  "generatedAt": "2026-11-23T06:46:06.790Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 8
+      "articles": 6
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-W1vcmFsLWRpbGVtbmE",
+      "title": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light",
+      "description": "For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got. So what’s behind the spate of movies portraying turncoats in a more sympathetic light? A young maid busies herself in a vast, high-ceilinged apartment, serving her master steaming coffee in fine china and polishing the hefty family silver, as she picks her way across the checkerboard parquet lit by stylish Poul Henningsen lamps. Woman Unknown , which won the Golden Lion at the Venice film festival this year, is set in the immediate aftermath of Denmark’s liberation from Nazi rule, but you wouldn’t know that from the opening scenes: five years of occupation, martial law and rationing have left the splendour of the Danish bourgeoisie miraculously untouched. The trauma of wartime violence only comes rushing back in occasional bursts: blurry flashbacks show shadowy figures pointing guns at temples and bodies thudding to the floor. But the red fabric billowing through the fog of her memory is not the Nazi flag but liberated Denmark’s white-crossed Dannebrog . The black-clad executioners are not SS officers but resistance fighters reckoning with collaborators. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna",
+      "image": "https://i.guim.co.uk/img/media/5efb9a9b7cce5877f8bf33756556f4cca637ccb6/1193_0_3097_2480/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be8133f3d5df4ca1c6a28d8e759272ae",
+      "publishedAt": "2026-11-23T05:00:46.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-RlLTEyMzUyMjk5NDYv",
       "title": "Rian Johnson Leaves the Door Open to Star Wars Return: ‘It’s a World I Deeply Love’",
@@ -53,11 +65,11 @@
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Man who studied drama in young offenders' institution now a West End actor",
-      "description": "Joseph Langdon, who stars in the Bristol Old Vic's production of Cinderella, learned to act while detained.",
-      "url": "https://www.bbc.co.uk/news/articles/cry869dq271zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/5fad/live/0aacc2f0-e65c-11f1-8ebd-1d2173202734.jpg",
-      "publishedAt": "2026-11-22T07:32:21.000Z",
+      "title": "ITV investigating soap actor after bar incident",
+      "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
+      "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ae73/live/96d7d230-e673-11f1-a5bc-ddaec99ca2c4.jpg",
+      "publishedAt": "2026-11-22T13:16:14.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
@@ -110,18 +122,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-RfY2FtcGFpZ249cnNz",
-      "title": "The film about fencing set between two cultures",
-      "description": "Parvinder Shergill talks about creating art that honours both of her cultural backgrounds.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3r29wdqrno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a328/live/b2cab3f0-dfa6-11f1-ab35-8541e0a03fdd.jpg",
-      "publishedAt": "2026-11-21T07:17:07.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-5hdGhhbi1maWVsZGVy",
@@ -304,18 +304,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-mVydC1wYXR0aW5zb24",
-      "title": "Now get out of that! How can the new James Bond film get around 007’s death in No Time to Die?",
-      "description": "Was it all a dream? Has Bond been in hiding? Or will Robert Pattinson simply report to HR on his first day? Russell T Davies, David Hare and more give their takes “James Bond will return,” says the closing title on No Time to Die, the most recent James Bond film and the final one to star Daniel Craig. It is just as well: Bond has to all appearances been vaporised by sea-launched missiles, having been infected by nanobots programmed to attack his nearest and dearest at the slightest touch. No one would believe that one of the world’s most successful film series would come to such an abrupt halt, but no doubt a little reassurance helped. Nevertheless, the first order of business for scriptwriter Steven Knight and director Denis Villeneuve will be dealing with it: how to revive and re-energise a character at the heart of the action. Speculation on their best way forward has been rife, and previous examples are not hard to find. Sherlock Holmes was killed off by Arthur Conan Doyle by fighting his arch enemy Professor Moriarty at the Reichenbach Falls in the story The Final Problem, only to resuscitate him a decade later with The Adventure of the Empty House. Superman is apparently killed at the end of Batman v Superman: Dawn of Justice, but resurrected in Justice League for the fight against Steppenwolf. Arguably the most enduring pop-culture return is Bobby Ewing’s famous shower scene in the TV show Dallas in 1986, which attempted to ensure continuity by suggesting Ewing’s death was his wife’s dream. And even Ian Fleming toyed with killing off Bond, with a climactic poison scene at the end of his 1957 novel From Russia with Love, and leaving him amnesiac and vulnerable to Soviet attack at the finish of You Only Live Twice, the last Bond novel published in Fleming’s lifetime. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/james-bond-movie-007s-death-in-no-time-to-die-robert-pattinson",
-      "image": "https://i.guim.co.uk/img/media/20c984c6b6913d90c4c8e7d970b39ccb61caa4b0/82_71_1671_1337/master/1671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daf72a71548ce852486b79a8622ca083",
-      "publishedAt": "2026-11-20T13:12:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
       "id": "guardian-1saWZlLWluLWV4aWxl",
       "title": "‘My body started consuming itself. I was a millimetre from death’: Andrey Zvyagintsev on Covid, Putin and life in exile",
       "description": "The Russian film-maker spent 40 days in a coma and suffered 92% lung damage during the pandemic. He describes how making new movie Minotaur helped his rehabilitation Andrey Zvyagintsev tells the tale of a knight who is riding through a dark forest and sees a stone sign at a fork in the road. The sign says that if he turns left he will lose his horse and if he turns right he will lose his head. So the knight has a dilemma; there are only bad options here. Zvyagintsev smiles and says: “It is a very Russian fairytale.” Terrible things tend to happen, that’s the way the world works, and a person is defined by how they respond to each challenge. That goes for the knight in the forest and the characters in a film. It probably goes for Zvyagintsev, too, who has lost not his horse but his home and very nearly his life. The Russian director almost died during the Covid-19 pandemic and spent 40 days in an induced coma . He now lives in exile as an enemy of the state. “I’m with the birds,” he says by way of explaining his situation. “Birds have no borders. They’re not thinking about tomorrow.” Continue reading...",
@@ -418,18 +406,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png",
       "publishedAt": "2026-11-17T13:15:38.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "James Bond: What we know so far about the next 007 film",
-      "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-16T15:46:45.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
