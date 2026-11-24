@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T12:33:00.206Z",
+  "generatedAt": "2026-11-24T18:29:04.599Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 6
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,102 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-WMtMTIzNTIzMDA1Ny8",
+      "title": "The Extraordinary Music Worthy of an Extraordinary Life in ‘W.E.B. Du Bois: Rebel with a Cause’",
+      "description": "Composer Kathryn Bostic and director Rita Coburn tell IndieWire how they drew from Du Bois' own encounters with a broad array of musical influences to shape their film's score.",
+      "url": "https://www.indiewire.com/features/craft/web-du-bois-rebel-with-a-cause-score-kathryn-bostic-1235230057/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/images-6.jpeg?w=620",
+      "publishedAt": "2026-11-24T17:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-cmV2aWV3LWRpc25leQ",
+      "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
+      "description": "A teen girl discovers she is a witch in this mostly magic-free reminder that original animation is stuck in an unoriginal place As bleak as Disney’s overreliance on sequels might have become, it’s not quite as bleak as the crumbling state of its original output. Obviously because of the former, the latter category has become that much less populated but even when the studio has recently bothered to release something without a number in the title, it’s been hard to really see the point. With or without Pixar, films like Elio, Strange World, Raya and the Last Dragon, Luca, Elemental, Onward and Wish have all felt as uninspired as something a rival might try to desperately cobble together in an attempt to lure kids away from Disney. Three Thanksgivings ago, Wish was a particularly poor yet extremely smug example of how rubbishy things have got, a personality-free princess tale that doubled up as a 100-year anniversary victory lap. It was Disney’s worst-reviewed animated film in almost two decades and its deserved box office failure cost about $131m. Unperturbed, its co-director Fawn Veerasunthorn (along with Moana 2 director Jason Hand) is back this holiday with another rote rip-off adventure that doesn’t deserve its place in the kingdom. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
+      "image": "https://i.guim.co.uk/img/media/7514bc83d19417c76a2e635c02b69945b90b6bf7/528_0_1004_804/master/1004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=58b21a97f727414fca0ead6483b9eadd",
+      "publishedAt": "2026-11-24T17:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjk3Mzgv",
+      "title": "Oobah Butler Wants to Expose the World’s Stupidest Industries, but They Get Worse Faster Than He Can Plan His Stunts",
+      "description": "The star of HBO's \"Oobah: Scams for a Better Tomorrow\" tells IndieWire about taking on supplements, dating apps, and royalty — and why satire struggles to keep up with an insane world.",
+      "url": "https://www.indiewire.com/features/interviews/oobah-butler-scams-for-a-better-tomorrow-interview-1235229738/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-23-at-4.27.12-PM-1.png?w=650",
+      "publishedAt": "2026-11-24T17:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-nktMTIzNTIzMDU4MS8",
+      "title": "‘Coward’ Trailer: Lukas Dhont’s Belgian Oscar Entry Is a Queer Stunner",
+      "description": "Exclusive: Cannes Best Actor winners Emmanuel Macchia and Valentin Campagne are gay lovers in the World War I trenches of Belgium in the latest film from the director of \"Close.\"",
+      "url": "https://www.indiewire.com/news/trailers/coward-trailer-lukas-dhont-belgian-oscar-entry-1235230581/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/COWARD_Still_1_theReunion.jpg?w=650",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIyODg0My8",
+      "title": "Fixing Netflix’s TV Problem: 5 Changes the Streamer Should Make for Better, Sturdier, and Buzzier Series",
+      "description": "Netflix used to be where fans flocked to find their next favorite show. But after a year of diminishing interest in returning originals, a decline in awards recognition, and far too few hits, is it time for the streamer to make significant changes?",
+      "url": "https://www.indiewire.com/features/commentary/netflix-tv-problem-changes-to-fix-original-series-1235228843/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Netflix-TV-problem.jpg?w=650",
+      "publishedAt": "2026-11-24T15:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-Zy0xMjM1MjMwNTQzLw",
+      "title": "26 Years After He Wrote ‘Meet the Parents,’ John Hamburg Brings Comedy Back to Theaters with ‘Focker In-Law’",
+      "description": "The writer-director talks about creating the best possible environment for his star-studded ensemble cast and explains why he wanted this \"Focker\" movie to be the most cinematic.",
+      "url": "https://www.indiewire.com/features/interviews/focker-in-law-director-interview-john-hamburg-1235230543/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFIIN_UV016.jpg?w=650",
+      "publishedAt": "2026-11-24T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-LXJ1c3NvLWNvbWVkeQ",
+      "title": "Olivia Colman as a fox and Sam Neill as a sweary magpie: this is one of the best Australian movies in years",
+      "description": "The Fox director Dario Russo describes his own film as being ‘about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole’ – but that is only the beginning Get our weekend culture and lifestyle email When actor Emily Browning first read the synopsis for The Fox, her response was one of confusion. “I was like, what?” she says, scrunching up her face. “A guy talks to a fox and throws his wife in a hole? Huh?” Explaining this Australian comedy is not an easy task, even for its writer and director, Dario Russo. “It’s a movie about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole,” he says. “That’s it. That’s what happens.” Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/the-fox-movie-trailer-olivia-colman-sam-neill-dario-russo-comedy",
+      "image": "https://i.guim.co.uk/img/media/3190942a922e7d7df726d7ed512bdc90ce94ba4f/213_0_1500_1201/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbbc4ea781052471fabb67b74f5b6220",
+      "publishedAt": "2026-11-24T14:00:49.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bGluZS1icmFpbnJvdA",
+      "title": "Scream 4 came out 15 years ago – but its mockery of online brainrot is more spot-on than ever",
+      "description": "When Wes Craven’s final slasher film came out, correctly predicting clout-chasing influencers and social media’s corruption of our lives, Instagram was just six months old Get our weekend culture and lifestyle email It has been almost a year since Australia’s social media ban for under-16s and it seems as though nothing has been able to effectively deter the youth from the slippery slope of internet addiction – even when they have expressed the desire to quit . It’s hard to believe that it has only been a decade since TikTok condemned us to the eternal doomscroll and just over 15 years since Instagram launched. Surely no one predicted just how much the online world would be leeching off of us, right? Well, Wes Craven did. Craven is the mind behind notable horror titles including The Hills Have Eyes, A Nightmare on Elm Street and the Scream franchise – and the last film he directed, four years before his death in 2015, was Scream 4. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/scream-4-movie-film-streaming-prescient-online-brainrot",
+      "image": "https://i.guim.co.uk/img/media/3920d60b7bd5505747b2bf7ec300d43e2271c110/756_339_3074_2461/master/3074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d12c54eff1b28d02822e40005c2af68",
+      "publishedAt": "2026-11-24T14:00:47.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "guardian-mVydC1wYXR0aW5zb24",
       "title": "Robert Pattinson is not enough: who should become the new Bond girl?",
@@ -112,21 +208,9 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-1yZXZpZXctYW1hem9u",
-      "title": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
-      "description": "The Summer I Turned Pretty’s Christopher Briney and 1923’s Michelle Randolph try their best, but this chaotic cross-country journey is not worth taking Credit where credit is due: it takes some nerve for Amazon to open its latest holiday romcom, Clashing Through the Snow, with characters bemoaning the enervated state of the book industry. Publishing isn’t the cultural epicenter it once was, reports boutique press head Jeremy (PJ Byrne) before announcing some impending new year’s layoffs. Alas, things have changed – “if Faulkner were alive today, he’d be making ASMR videos with Mr Beast” (or, perhaps, competing on Prime Video’s Beast Games?) Self-awareness can be key to the ludicrous joys of a Christmas romcom confection, though Clashing Through the Snow, starring 1923’s Michelle Randolph and homegrown Amazon star Christopher Briney (The Summer I Turned Pretty), tests one’s patience for beating you to the branded punchline. Briney’s Ryan, a numbers-driven, macro-counting kind of book editor, pitches a “financial trends with benefits” romance that could be “Rebecca Yarros big”. Soulmates, says Randolph’s rival workhorse editor Hannah, are as mythical as “ethical billionaires and pain-free bikini waxes”. Due to said budget cuts, both have a week to land “a book so big it makes Harry Potter look like a Buzzfeed listicle” for only one to keep their job. What are two LA workaholics going to do on Christmas but take meetings in New York? Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/23/clashing-through-the-snow-review-amazon",
-      "image": "https://i.guim.co.uk/img/media/80ef25df3cb158936b687da6f2413252ddf8719c/500_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=19b0d0c6e0fd9e742a90b2fdcaf597d4",
-      "publishedAt": "2026-11-23T20:59:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
       "id": "indiewire-YS0xMjM1MjMwMDEwLw",
       "title": "From ‘Disclosure Day’ to ‘Devil Wears Prada’: Emily Blunt Breaks Down 10 of Her Greatest Movie Moments",
-      "description": "Blunt could land a second Oscar nomination after for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.",
+      "description": "Blunt could land a second Oscar nomination for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.",
       "url": "https://www.indiewire.com/awards/consider-this/emily-blunt-breaks-down-oppenheimer-disclosure-day-devil-wears-prada-1235230010/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDDIDA_UV014_999694.jpg?w=650",
       "publishedAt": "2026-11-23T20:45:00.000Z",
@@ -160,18 +244,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-cy0xMjM1MjI5ODk1Lw",
-      "title": "‘Cliff Booth’ Star Elizabeth Debicki on Slapping Brad Pitt, ‘The Movie Critic,’ and the Rom-Com Question",
-      "description": "As a critic-turned-beleaguered-agent, Debicki brings her singular charm to David Fincher and Quentin Tarantino's much-anticipated \"Once Upon a Time in Hollywood\" sequel. As she tells IndieWire, she delighted in everything from slapping Brad Pitt to waxing poetic about Pauline Kael.",
-      "url": "https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/UFP25_R3_Rec709_2p4gamma_6188x3240_20260826.0274641_R2.jpg?w=650",
-      "publishedAt": "2026-11-23T18:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "guardian-VhcnQtaW4td2ludGVy",
       "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
       "description": "Jessie Buckley, Cillian Murphy and Mark Rylance will reportedly star in adaptation of The Heart in Winter Steven Spielberg has announced his next project: a western scripted by Paul Thomas Anderson. According to Deadline , the two Oscar-winning film-makers will collaborate for an adaptation of Kevin Barry’s 2024 novel The Heart in Winter. Continue reading...",
@@ -184,64 +256,16 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-VzLTEyMzUyMzAwNzAv",
-      "title": "Shawn Levy and 21 Laps Set Overall Film Deal at Sony Pictures",
-      "description": "The \"Star Wars: Starfighter\" director reunites with Sony's leadership after directing the \"Night at the Museum\" movies, \"Cheaper by the Dozen,\" and \"Date Night.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/shawn-levy-21-laps-set-overall-film-deal-sony-pictures-1235230070/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Shawn-Levy.jpg?w=650",
-      "publishedAt": "2026-11-23T18:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-bS0xMjM1MjMwMDc1Lw",
-      "title": "Steven Spielberg Directing His First Western with Paul Thomas Anderson Writing the Script",
-      "description": "Jessie Buckley, Cillian Murphy, and Mark Rylance will star in the Focus Features adaptation of \"The Heart in Winter.\"",
-      "url": "https://www.indiewire.com/news/breaking-news/steven-spielberg-paul-thomas-anderson-teaming-on-western-film-1235230075/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2260957539.jpg?w=650",
-      "publishedAt": "2026-11-23T17:53:27.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-cmNsZS1vZi10cnVzdA",
-      "title": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
-      "description": "Even Grande’s talent can’t save the fourth outing of this 90s-style grossout cringe comedy from a depressing sense of overfamiliarity So to the fourth film in the most consistently moderate but undeniably lucrative comedy franchise in modern Hollywood history, often featuring heavyweight actors (Dustin Hoffman, Barbra Streisand, Harvey Keitel) who don’t appear to be completely sure about what they’re supposed to be doing. Even now, even after all this time, I’m still not convinced that the great Robert De Niro is 100% on top of it. He sometimes gives the impression – the same impression he’s given in the previous three movies – that he’s thinking about something else. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/23/focker-in-law-review-triangle-of-sadness-as-ariana-grande-joins-stiller-and-de-niro-in-the-circle-of-trust",
-      "image": "https://i.guim.co.uk/img/media/9a440099f5e51fd6267a1bf02f725ce8def1b1cd/338_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=b0eb149d93343a2778bf9534defef615",
-      "publishedAt": "2026-11-23T17:32:54.000Z",
+      "id": "guardian-XphYmV0aC1ob2xtZXM",
+      "title": "You Can See Everything passes $100m at global box office as UK release starts strong",
+      "description": "The documentary from Nathan Fielder following fraudster Elizabeth Holmes in the weeks leading up to her imprisonment has broken box office records in the UK Elizabeth Holmes film You Can See Everything has crossed the $100m mark at the global box office as it recorded the highest ever opening weekend figure for a non-music documentary in the UK. Directed by Nathan Fielder and Lance Oppenheim, You Can See Everything earned an estimated $2.5m over the weekend on its sixth week of release in North America, according to Box Office Mojo , bringing its total there to $93.5m. This has been augmented by successful releases in a number of international territories, which has added an estimated $9m for a total of $102.5m. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+      "image": "https://i.guim.co.uk/img/media/9840b4d9a1af24ca0e7a66b1c9ad03fa098fdb77/448_92_708_567/master/708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4945e24082601959ed764eba54745f5c",
+      "publishedAt": "2026-11-23T11:57:19.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-XItMTIzNTIzMDA0Ni8",
-      "title": "‘Focker In-Law’ Review: An Eager Ariana Grande Isn’t Enough to Save a Comedy Sequel That Can’t Remember What People Liked About This Franchise",
-      "description": "It took three years longer to make \"Meet the Parents 4\" than it did to make \"Grand Theft Auto VI,\" but (weirdly) it's somehow not quite as good.",
-      "url": "https://www.indiewire.com/criticism/movies/focker-in-law-movie-review-ariana-grande-ben-stiller-1235230046/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/1329257476.jpeg?w=650",
-      "publishedAt": "2026-11-23T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIzMDAyMC8",
-      "title": "Jane Fonda on Documentary ‘Gaslit,’ Trump, and What the Democrats’ Midterm Victory Means for Climate Change",
-      "description": "The Oscar-winning actress and activist says the world must wean itself off fossil fuels before it's too late.",
-      "url": "https://www.indiewire.com/news/general-news/jane-fonda-trump-democrats-midterm-victory-climate-change-1235230020/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-10.23.42-AM.png?w=650",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
+      "category": "TV"
     },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
@@ -254,18 +278,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Bad Girls star Helen Fraser dies aged 84",
-      "description": "Actress Helen Fraser dies at 84 in an Eye care home after a successful career in TV, theatre and film.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlyjwng3xdwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/d51b/live/3ee67480-e59e-11f1-9ccc-ff5a88abcfc6.jpg",
-      "publishedAt": "2026-11-21T12:17:46.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "TV"
     },
     {
       "id": "guardian-FydGluLXNjb3JzZXNl",
@@ -292,18 +304,6 @@
       "category": "Reviews"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-20T22:53:24.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-FjYXVsYXktY3Vsa2lu",
       "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
       "description": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Culkin met with Disney executives earlier this year with a pitch for a follow-up and now the project has been met with a green light. The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline , will be from the father’s point of view. Continue reading...",
@@ -328,18 +328,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-QtcG93ZXItY291cGxl",
-      "title": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
-      "description": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power He is the next James Bond. She is a successful model/actor/singer-songwriter. Together, they are set to become the next big British power couple in Hollywood. This week Robert Pattinson and Suki Waterhouse, who have been in a relationship since 2018, were thrust into the global spotlight after the news that he had landed arguably the biggest and most glamorous role in film. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
-      "image": "https://i.guim.co.uk/img/media/2546de62982769570be91ff80428d17c8d47434c/308_0_4167_3333/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15a0f9bfd08d190b2860e9911263c62e",
-      "publishedAt": "2026-11-20T16:00:33.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-3ZpZS1kZWxheXMtZGM",
       "title": "Delays mean Robert Pattinson doesn’t have to do a third Batman movie. DC Studios had better persuade him – and fast",
       "description": "The actor’s new role as James Bond could be bad news for DC, as a new owner, new chief and new director already threaten to shake and stir Gotham’s distinctive hero Can one actor play both Batman and James Bond? This is the question many have been asking since Robert Pattinson was announced as the new 007 . The obvious answer is yes: the 40-year-old Englishman has the poise, charisma and steel to join His Majesty’s Secret Service, and saving Gotham could soon become something he fits in between assignments. Among all the furore over Pattinson’s appointment, it would have been easy to miss some rather less cheering news for the citizens of Gotham. According to the Wrap , delays to The Batman: Part II have freed the actor from his contractual obligation to make a third film. The sequel is now due in February 2028, almost six years after the first instalment. He could still sign a new deal, of course, but Warner Bros will have to persuade its caped crusader to stick around. Continue reading...",
@@ -350,18 +338,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-mVydC1wYXR0aW5zb24",
-      "title": "Now get out of that! How can the new James Bond film get around 007’s death in No Time to Die?",
-      "description": "Was it all a dream? Has Bond been in hiding? Or will Robert Pattinson simply report to HR on his first day? Russell T Davies, David Hare and more give their takes “James Bond will return,” says the closing title on No Time to Die, the most recent James Bond film and the final one to star Daniel Craig. It is just as well: Bond has to all appearances been vaporised by sea-launched missiles, having been infected by nanobots programmed to attack his nearest and dearest at the slightest touch. No one would believe that one of the world’s most successful film series would come to such an abrupt halt, but no doubt a little reassurance helped. Nevertheless, the first order of business for scriptwriter Steven Knight and director Denis Villeneuve will be dealing with it: how to revive and re-energise a character at the heart of the action. Speculation on their best way forward has been rife, and previous examples are not hard to find. Sherlock Holmes was killed off by Arthur Conan Doyle by fighting his arch enemy Professor Moriarty at the Reichenbach Falls in the story The Final Problem, only to resuscitate him a decade later with The Adventure of the Empty House. Superman is apparently killed at the end of Batman v Superman: Dawn of Justice, but resurrected in Justice League for the fight against Steppenwolf. Arguably the most enduring pop-culture return is Bobby Ewing’s famous shower scene in the TV show Dallas in 1986, which attempted to ensure continuity by suggesting Ewing’s death was his wife’s dream. And even Ian Fleming toyed with killing off Bond, with a climactic poison scene at the end of his 1957 novel From Russia with Love, and leaving him amnesiac and vulnerable to Soviet attack at the finish of You Only Live Twice, the last Bond novel published in Fleming’s lifetime. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/20/james-bond-movie-007s-death-in-no-time-to-die-robert-pattinson",
-      "image": "https://i.guim.co.uk/img/media/20c984c6b6913d90c4c8e7d970b39ccb61caa4b0/82_71_1671_1337/master/1671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=daf72a71548ce852486b79a8622ca083",
-      "publishedAt": "2026-11-20T13:12:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-1saWZlLWluLWV4aWxl",
@@ -409,30 +385,6 @@
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
-      "description": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
-      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/22ee/live/daa8b410-e2a0-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-17T17:57:56.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
-      "description": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png",
-      "publishedAt": "2026-11-17T13:15:38.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
       "category": "Movies"
     },
     {
