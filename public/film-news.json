@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:28:52.787Z",
+  "generatedAt": "2026-11-24T00:40:58.369Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -16,11 +16,119 @@
   },
   "articles": [
     {
+      "id": "indiewire-XAtMTIzNTIzMDM5NS8",
+      "title": "Billy Ray Joins Oscar Short Contender ‘Magan’s Fare,’ Starring Barkhad Abdi, as Executive Producer",
+      "description": "The collaboration is a reunion for the pair, as Ray wrote the screenplay for \"Captain Phillips,\" which earned Abdi a Best Supporting Actor Oscar nomination.",
+      "url": "https://www.indiewire.com/news/general-news/bill-ray-joins-oscar-contender-magans-fare-ep-1235230395/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Billy-Ray-and-Barkhad-Abdi-at-LA-Awards-Screening-at-Ray-Kurtzman-Theater-at-CAA-on-Sunday-November-22-2026-2.jpg?w=650",
+      "publishedAt": "2026-11-23T22:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-N5LTEyMzUyMzAyMTkv",
+      "title": "Why Is the ‘Avengers: Doomsday’ Trailer So… Gloomy? Internet Erupts Over Latest Look at Marvel Movie",
+      "description": "Are the Russo brothers afraid of color or what?",
+      "url": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDAVDO_WD003.jpg?w=650",
+      "publishedAt": "2026-11-23T22:23:48.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Trailers"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjMwMTU5Lw",
+      "title": "AI Film ‘Gods Don’t Give Gifts’ Deemed Ineligible by Academy for Best Animated Feature Oscar",
+      "description": "The film from director Gossip Goblin will appeal the decision and is still planning an awards qualifying run in theaters beginning December 4.",
+      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650",
+      "publishedAt": "2026-11-23T21:42:26.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-VzLTEyMzUyMzAwMDYv",
+      "title": "The Best Visual Effects in ‘Wildwood’ Are the Ones You Can’t See — Watch",
+      "description": "\"Wildwood\" Head of CG Animation Benoit Dubuc tells IndieWire about the visual effects that are hidden everywhere.",
+      "url": "https://www.indiewire.com/features/craft/wildwood-vfx-indiewire-craft-roundtables-1235230006/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9339_0263f5.jpg?w=650",
+      "publishedAt": "2026-11-23T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjMwMDEwLw",
+      "title": "From ‘Disclosure Day’ to ‘Devil Wears Prada’: Emily Blunt Breaks Down 10 of Her Greatest Movie Moments",
+      "description": "Blunt could land a second Oscar nomination after for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.",
+      "url": "https://www.indiewire.com/awards/consider-this/emily-blunt-breaks-down-oppenheimer-disclosure-day-devil-wears-prada-1235230010/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDDIDA_UV014_999694.jpg?w=650",
+      "publishedAt": "2026-11-23T20:45:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-duLTEyMzUyMzAwNDAv",
+      "title": "How Sound Design Helps ‘Minotaur’ Get Away with Murder",
+      "description": "Director Andrey Zvyagintsev tells IndieWire about using sound to have the world crash in on its main character.",
+      "url": "https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDMINO_K3013.jpg?w=650",
+      "publishedAt": "2026-11-23T19:50:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjMwMDk5Lw",
+      "title": "Super Bowl LXI to Play Live on IMAX Screens",
+      "description": "IMAX is partnering with the NFL, ESPN, and Disney to screen the big game in North America, Australia, New Zealand, and Brazil.",
+      "url": "https://www.indiewire.com/news/general-news/super-bowl-lxi-live-imax-screens-1235230099/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/SBLXI_IMAX_1080x1350.png?w=650",
+      "publishedAt": "2026-11-23T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI5ODk1Lw",
+      "title": "‘Cliff Booth’ Star Elizabeth Debicki on Slapping Brad Pitt, ‘The Movie Critic,’ and the Rom-Com Question",
+      "description": "As a critic-turned-beleaguered-agent, Debicki brings her singular charm to David Fincher and Quentin Tarantino's much-anticipated \"Once Upon a Time in Hollywood\" sequel. As she tells IndieWire, she delighted in everything from slapping Brad Pitt to waxing poetic about Pauline Kael.",
+      "url": "https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/UFP25_R3_Rec709_2p4gamma_6188x3240_20260826.0274641_R2.jpg?w=650",
+      "publishedAt": "2026-11-23T18:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-VhcnQtaW4td2ludGVy",
+      "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
+      "description": "Jessie Buckley, Cillian Murphy and Mark Rylance will reportedly star in adaptation of The Heart in Winter Steven Spielberg has announced his next project: a western scripted by Paul Thomas Anderson. According to Deadline , the two Oscar-winning film-makers will collaborate for an adaptation of Kevin Barry’s 2024 novel The Heart in Winter. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
+      "image": "https://i.guim.co.uk/img/media/e1f49c81d555e4febe4fdd970d1f485ba0014e13/328_331_2849_2279/master/2849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00e751fcc1fc3ef2004960afbc45a4b3",
+      "publishedAt": "2026-11-23T18:10:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "indiewire-VzLTEyMzUyMzAwNzAv",
       "title": "Shawn Levy and 21 Laps Set Overall Film Deal at Sony Pictures",
       "description": "The \"Star Wars: Starfighter\" director reunites with Sony's leadership after directing the \"Night at the Museum\" movies, \"Cheaper by the Dozen,\" and \"Date Night.\"",
       "url": "https://www.indiewire.com/news/breaking-news/shawn-levy-21-laps-set-overall-film-deal-sony-pictures-1235230070/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2023/12/21-Laps.jpeg?w=650",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Shawn-Levy.jpg?w=650",
       "publishedAt": "2026-11-23T18:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
@@ -88,30 +196,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-aC0xMjM1MjI5NzE3Lw",
-      "title": "‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Are a Fine Pair in an Awesome World",
-      "description": "Creator and showrunner Silka Luisa's sequel series carves its own breathtaking path forward in a future where Replicants have seized power over humans, and the line between the two is thinner than ever.",
-      "url": "https://www.indiewire.com/criticism/shows/blade-runner-2099-review-amazon-series-michelle-yeoh-1235229717/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Blade-Runner-2099-Michelle-Yeoh-Hunter-Schafer-Amazon-series.jpg?w=650",
-      "publishedAt": "2026-11-23T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-ZS0xMjM1MjMwMDI2Lw",
-      "title": "Paul Thomas Anderson’s ‘Cameron Winter at Carnegie Hall’ Getting Nationwide Release in January",
-      "description": "Exclusive: The concert film starring the Geese frontman is in the middle of a successful 35mm roadshow.",
-      "url": "https://www.indiewire.com/news/general-news/paul-thomas-anderson-cameron-winter-carnegie-hall-nationwide-release-1235230026/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/12cul-cameron-winter-2-videoSixteenByNine3000.webp?w=650",
-      "publishedAt": "2026-11-23T14:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-XphYmV0aC1ob2xtZXM",
       "title": "You Can See Everything passes $100m at global box office as UK release starts strong",
       "description": "The documentary from Nathan Fielder following fraudster Elizabeth Holmes in the weeks leading up to her imprisonment has broken box office records in the UK Elizabeth Holmes film You Can See Everything has crossed the $100m mark at the global box office as it recorded the highest ever opening weekend figure for a non-music documentary in the UK. Directed by Nathan Fielder and Lance Oppenheim, You Can See Everything earned an estimated $2.5m over the weekend on its sixth week of release in North America, according to Box Office Mojo , bringing its total there to $93.5m. This has been augmented by successful releases in a number of international territories, which has added an estimated $9m for a total of $102.5m. Continue reading...",
@@ -160,54 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-W1vcmFsLWRpbGVtbmE",
-      "title": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light",
-      "description": "For decades, films about Nazi-occupied Europe were all about the fearless resistance while despicable collaborators deserved all they got. So what’s behind the spate of movies portraying turncoats in a more sympathetic light? A young maid busies herself in a vast, high-ceilinged apartment, serving her master steaming coffee in fine china and polishing the hefty family silver, as she picks her way across the checkerboard parquet lit by stylish Poul Henningsen lamps. Woman Unknown , which won the Golden Lion at the Venice film festival this year, is set in the immediate aftermath of Denmark’s liberation from Nazi rule, but you wouldn’t know that from the opening scenes: five years of occupation, martial law and rationing have left the splendour of the Danish bourgeoisie miraculously untouched. The trauma of wartime violence only comes rushing back in occasional bursts: blurry flashbacks show shadowy figures pointing guns at temples and bodies thudding to the floor. But the red fabric billowing through the fog of her memory is not the Nazi flag but liberated Denmark’s white-crossed Dannebrog . The black-clad executioners are not SS officers but resistance fighters reckoning with collaborators. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-light-resistance-moral-dilemna",
-      "image": "https://i.guim.co.uk/img/media/5efb9a9b7cce5877f8bf33756556f4cca637ccb6/1193_0_3097_2480/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be8133f3d5df4ca1c6a28d8e759272ae",
-      "publishedAt": "2026-11-23T05:00:46.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-RlLTEyMzUyMjk5NDYv",
-      "title": "Rian Johnson Leaves the Door Open to Star Wars Return: ‘It’s a World I Deeply Love’",
-      "description": "\"The Last Jedi\" director tells IndieWire he loves the franchise \"more now than I ever have,\" just as projects set after \"The Rise of Skywalker\" move forward under new Lucasfilm chief Dave Filoni.",
-      "url": "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDSTWA_EC194_a74a29.jpg?w=650",
-      "publishedAt": "2026-11-22T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-2UtMTIzNTIyOTg4MS8",
-      "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Debuts to Mighty $120 Million, Reviving Lionsgate’s Most Important Franchise",
-      "description": "\"I Play Rocky\" expands with $9.3 million, while Paul Thomas Anderson's \"Cameron Winter at Carnegie Hall\" grosses $162,000 from three locations.",
-      "url": "https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650",
-      "publishedAt": "2026-11-22T16:18:16.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-HktMTIzNTIyOTg4OC8",
-      "title": "Box Office: A24’s ‘You Can See Everything’ Crosses $100 Million Globally",
-      "description": "Lance Oppenheim and Nathan Fielder's look at Elizabeth Holmes is the third-highest-grossing domestic release in A24's history.",
-      "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-crosses-100-million-globally-1235229888/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg?w=650",
-      "publishedAt": "2026-11-22T15:45:54.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "ITV investigating soap actor after bar incident",
       "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
@@ -217,18 +253,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-GgtMTIzNTIyOTg2Ni8",
-      "title": "If There’s Generative AI in ‘The Further Mis-Adventures of Cliff Booth,’ It’s Not the First Time David Fincher’s Used It",
-      "description": "It was also used in the 4K Remaster of \"Se7en\" to bring the film as close as possible to the original print.",
-      "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650",
-      "publishedAt": "2026-11-21T23:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -244,6 +268,18 @@
       "category": "TV"
     },
     {
+      "id": "guardian-FydGluLXNjb3JzZXNl",
+      "title": "‘I’m opening the cage of a monster’: Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+      "description": "Director and Scorsese collaborator is using AI in films and sees its takeover as inevitable, not just in cinema Paul Schrader was sipping white wine in a Greenwich Village trattoria when he said how he felt about using AI to make films: “I am opening the cage of a monster and I don’t have a leash.” The 80-year-old film-maker behind Taxi Driver, Raging Bull and American Gigolo, is embracing the technology as he enters the final act of a prolific career in which he has collaborated with Martin Scorsese, Robert De Niro, Sigourney Weaver and Richard Gere. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+      "image": "https://i.guim.co.uk/img/media/c3c591ee1acfc05bd826c7b9314021f5f105c5c6/804_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3dcaf8e12ede0cca035255661e83ad9",
+      "publishedAt": "2026-11-21T11:00:57.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
       "id": "guardian-5hdGhhbi1maWVsZGVy",
       "title": "You Can See Everything’s vibes-check approach is an insult to objective truth",
       "description": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception. Instead, he looks into her eyes and asks if she’s for real. Is that why his film has been so successful? • This article does not contain major spoilers Sometimes, people who have lied lie about whether or not they’ve lied. They even, on occasion, fail to tell the truth despite having sworn to do so – in court, for instance, or staring deeply into the eyes of someone who is sitting right there . Is that a shock? Probably not. We all engage in versions of such behaviour every day. We understand that the current climate of mutually clueless echo chambers helps claptrap gain traction. But we can still recognise the difference between little white lies and big red flags. We know that the moment anyone starts using the phrase “my truth” it’s time to cancel the wedding. Continue reading...",
@@ -256,18 +292,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-3MtMTIzNTIyOTg1MS8",
-      "title": "Trump Renews Backing for Federal Film Tax Credit as Lawmakers Push for Year-End Passage",
-      "description": "The bipartisan bill gained more than 60 House cosponsors and four Senate cosponsors this week. If passed, it would offer a 20 percent tax credit on qualifying U.S. production labor costs.",
-      "url": "https://www.indiewire.com/news/breaking-news/trump-says-federal-film-tax-credit-will-pass-congress-1235229851/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2306106159.jpg?w=650",
-      "publishedAt": "2026-11-21T00:51:53.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "description": "The mammoth figure surpasses every video game launch and single-day film box office record.",
@@ -277,18 +301,6 @@
       "sourceId": "bbc",
       "source": "BBC Culture",
       "sourceColour": "red",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIyOTY5My8",
-      "title": "‘Disclosure Day’ Did Its Biggest Stunts Practically, So the VFX Team Worked Hard to Look Invisible — Watch",
-      "description": "At IndieWire's Craft Roundtables, \"Disclosure Day\" VFX supervisor Matthew Butler explained how stunt work and effects can combine to make movie magic.",
-      "url": "https://www.indiewire.com/features/craft/disclosure-day-vfx-craft-roundtables-1235229693/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9442-2.jpg?w=650",
-      "publishedAt": "2026-11-20T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
       "category": "Movies"
     },
     {
@@ -442,18 +454,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/16/james-gunn-fired-dc-studios-peter-safran-superman-skydance",
       "image": "https://i.guim.co.uk/img/media/7f5751f059b0ae4dacc7f62de06673f7226f6075/270_0_2650_2120/master/2650.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e202db4816fe8e2468ee350d940d51e0",
       "publishedAt": "2026-11-16T06:30:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
-    },
-    {
-      "id": "guardian-3JlLW9zY2FyLWJ1eno",
-      "title": "‘Women are pitted against each other. It’s a bloodsport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
-      "description": "The teen pop star turned Olivier-winning actor stars as Andrew Scott’s best friend in the acclaimed Ian Charleson biopic. She talks kindred spirits, social media and trying to channel a ‘mad storm of grief’ The late Billie Whitelaw, whom Samuel Beckett considered “a perfect actress”, was on stage in the middle of rehearsals one day when she asked the playwright: “Where should I be looking?” To which Beckett replied: “Inwards.” Hearing this story, another Billie – the teen pop star turned Doctor Who companion and Olivier award-winning powerhouse Billie Piper – lets out a laugh so raucous and expansive, it is as if a flock of gaily coloured birds has been released into the room, flapping and squawking in every corner. “Fuck, that’s awesome,” she says. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz",
-      "image": "https://i.guim.co.uk/img/media/3f6c8d132693f32bab221c36e1e2651d202da2c9/0_165_3695_2956/master/3695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=035b239ce724ccf9ca989475e1c12324",
-      "publishedAt": "2026-11-13T05:00:09.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
