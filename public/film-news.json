@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:45:40.482Z",
+  "generatedAt": "2026-11-25T06:37:08.781Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 1
+      "articles": 2
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-3ItZGFubnktYm95bGU",
+      "title": "Post your questions for Danny Boyle",
+      "description": "The Trainspotting, Slumdog Millionaire and 28 Days Later director is preparing to launch his biopic of Rupert Murdoch’s early years as a British tabloid mogul. In anticipation of its New Year release, the director will be taking your questions You name it, Danny Boyle has probably directed a movie about it. He’s done zombies in 28 Days Later, astronauts hurtling towards the sun in Sunshine, a man trapped under a boulder in 127 Hours, a world without the Beatles in Yesterday and junkies in Trainspotting. Boyle was born in Radcliffe near Manchester in 1956, and was heading towards the priesthood until, aged 14, a priest of all people talked him out of it. Instead he went into theatre, became deputy director of the Royal Court, then swerved into television, directing Inspector Morse among other things. His first film, Shallow Grave, arrived in 1994; two years later Trainspotting tore British cinema a new one. In 2009, Slumdog Millionaire won him the best director Oscar. He also masterminded the London 2012 Olympics opening ceremony, somehow squeezing industrial chimneys, NHS beds, James Bond, Mr Bean and the history of British pop into one stadium. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/post-your-questions-for-danny-boyle",
+      "image": "https://i.guim.co.uk/img/media/d82e07ed99a4e6709c7980e79a10c6d4abf709cb/762_200_4081_3262/master/4081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3826f3fe5e671cf3b5d7407b40009872",
+      "publishedAt": "2026-11-25T06:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-bW91cy1icm90aGVycw",
+      "title": "‘I was physically beating myself up before a take’: Rory Culkin on anxiety, fatherhood and his famous brothers",
+      "description": "The star of Lords of Chaos, Scream 4 and Gabriel was always drawn to the dark side. Is that why he seems happier in Hollywood than his better-known brothers – and why he loved making Nocturne with Stephen Graham? Rory Culkin is enjoying the autumn afternoon in a Manhattan park. The trees are a dazzling blur of yellows, greens, oranges and reds; the background silence is so pure you can hear it. “I’m here with my baby daughter, Havoc,” he says. Havoc Moon.” I tell him that is the spookiest name ever. “Thank you,” he says. Culkin chuckles like a revving moped, his huge blue eyes lighting up. “Yes, it’s a weird one. I think she’ll probably be the opposite. A sweet, quiet girl. She’ll play a harp or something.” He explains its origin. “I just threw out names to my partner one night when we went to dinner. She wasn’t taking to anything. I then suggested Havoc, and she really liked it. She came up with the Moon part. When we got home there was fresh graffiti on the wall across the street saying ‘Havoc’, and I was like: ‘That is a sign from the gods – we’ve got to do it.’” Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers",
+      "image": "https://i.guim.co.uk/img/media/c75dee497bfa42c7944efaf226dc31b07229bf33/0_681_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32078511c8f3978e3480d886959c13c6",
+      "publishedAt": "2026-11-25T05:00:07.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "indiewire-cy0xMjM1MjMwOTQ1Lw",
       "title": "Frederick Wiseman’s Complete Filmography to Be Distributed by Janus Films",
@@ -109,6 +133,18 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Archers fans urged to back fight to keep show in city",
+      "description": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/381e/live/78102330-e82a-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-24T19:09:13.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
       "category": "Movies"
     },
     {
@@ -226,18 +262,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/24/the-world-of-love-review",
       "image": "https://i.guim.co.uk/img/media/55fccd5fc8efaed75c91495a13bafa644a1bbf32/356_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3d2bb1cb149c529e7dd18e0b8e781f53",
       "publishedAt": "2026-11-24T10:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-1vZi1jaXR5LW5vaXNl",
-      "title": "Everything Else Is Noise review – a musician attempts to raise her art above the cacophony of city noise",
-      "description": "A TV shoot is beset with barking dogs, power cuts and personal animosities in Nicolás Pereda’s docufiction exploring the fight for artistic space in a world of distractions This latest docufiction from Mexican-Canadian film-maker Nicolás Pereda finds rhythm amid chaos. The film opens with an amusing visual game of Tetris; at a busy intersection in Mexico City, the concept of designated lanes and traffic signals appears to be symbolic only. Here, driving is all about carving your own path, as crisscrossing cars squeeze their way past each other. Reminiscent of Jacques Tati’s ending to Playtime (1967), this entrancing dance of machines encapsulates Pereda’s central dilemma: the question of seizing one’s personal and artistic space amid a world of distractions. The cacophony of honks and revving engines is accompanied by an expressionistic cello piece, played by a composer called Teresa (played by Teresita Sánchez). To some of her neighbours, however, her music is no different from the traffic noise. On this particular day, Teresa has opened her home to fellow musician Rosa (Rosa Estela Juárez Vargas), who wants to use the space for her interview with a two-man television crew. From a nearby dog’s loud barking to intermittent power cuts, the shoot is beset with continual interruptions; but the film also foregrounds the subtle frictions that grow between the characters. Panning shots swing from the banal questions posed by the male interviewers to the women’s unimpressed faces. We can sense that this is not the first time they have been faced with mediocrity. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/24/everything-else-is-noise-review-a-musician-attempts-to-raise-her-art-above-the-cacophony-of-city-noise",
-      "image": "https://i.guim.co.uk/img/media/d93d4e456548dd18b95da6883df2ccb9f4a8349c/882_0_1072_858/master/1072.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=9e63726ea8445e0484c40e780d2a9acf",
-      "publishedAt": "2026-11-24T07:00:09.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -362,18 +386,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "guardian-24tamFuZS1iaXJraW4",
-      "title": "‘The aesthetics in my family were so high, I felt ugly’: Charlotte Gainsbourg on extremism, abortion and her mother, Jane Birkin",
-      "description": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier While she was making the film Women on Trial , about the real-life trial of a child prosecuted for having an abortion, someone sent Charlotte Gainsbourg a photograph of her mother at one of the pro-choice demonstrations that erupted in France at the time. It was “very moving”, says Gainsbourg to see her mother, the actor Jane Birkin, in 1972, “looking beautiful and in the middle of a demonstration”. At that time, in a court in Bobigny, a Paris suburb, the prominent lawyer Gisèle Halimi was defending 16-year-old Marie-Claire Chevalier, as well as her mother and two other women who helped her have an abortion, then illegal in France. The Bobigny trial was new to her, says Gainsbourg, who plays Halimi, a leading figure in French feminism and activism who died in 2020. “I had no idea. For me, abortion rights started with Simone Veil” – the French minister of health who saw through decriminalisation three years later – “so I had to catch up.” Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin",
-      "image": "https://i.guim.co.uk/img/media/7d4e303fcd39d077eed325014feb8076e2ba95b8/887_1459_3376_2702/master/3376.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52a9ca15f59e53642402601be0190ea5",
-      "publishedAt": "2026-11-18T05:00:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
     },
     {
       "id": "guardian-bi1jaG9pY2UtYm9uZA",
