@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T18:29:04.599Z",
+  "generatedAt": "2026-11-25T00:45:40.482Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 1
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,114 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-cy0xMjM1MjMwOTQ1Lw",
+      "title": "Frederick Wiseman’s Complete Filmography to Be Distributed by Janus Films",
+      "description": "His films ranging from \"Titicut Follies\" in 1967 through \"State Legislature\" in 2007 have all been restored in 4K by Zipporah Films.",
+      "url": "https://www.indiewire.com/news/general-news/frederick-wiseman-complete-works-distributed-janus-films-1235230945/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2025/01/PBDFRWI_EC003_cbf0a7.jpg?w=650",
+      "publishedAt": "2026-11-24T23:15:17.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Classics"
+    },
+    {
+      "id": "indiewire-mctMTIzNTIzMDgxNi8",
+      "title": "Movie Theaters in 2026: Filmmakers and Exhibitors on What’s Good, What’s Bad, and What’s Changing",
+      "description": "IndieWire talks to Kevin Smith, Alamo Drafthouse, Laemmle Theatres, and more about the year that was and big plans ahead — including for the new Cinerama Dome complex in Hollywood.",
+      "url": "https://www.indiewire.com/features/interviews/movie-theaters-2026-good-bad-changing-1235230816/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-1456912448.jpg?w=650",
+      "publishedAt": "2026-11-24T22:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-TYtMTIzNTIzMDkxNC8",
+      "title": "Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56",
+      "description": "In addition to being a 25-year veteran of the festival, Plante was a director in his own right.",
+      "url": "https://www.indiewire.com/news/obituary/mike-plante-sundance-shorts-programmer-dead-at-56-1235230914/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/2023_short_film_party_jen_fairchild_0229_1024-1.jpg?w=650",
+      "publishedAt": "2026-11-24T21:30:08.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-20tMTIzNTIzMDc3NC8",
+      "title": "Will Robert Pattinson’s Bond Casting Help Land Him His First Oscar Nomination?",
+      "description": "The first step is to get voters to see the one movie he might nab for Best Actor: \"Primetime.\"",
+      "url": "https://www.indiewire.com/awards/consider-this/will-robert-pattinson-bond-casting-help-land-oscar-nom-1235230774/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Robert-Pattinson-credit-Jaap-Buitendijk-1.jpg?w=650",
+      "publishedAt": "2026-11-24T21:05:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-YS0xMjM1MjMwNzE0Lw",
+      "title": "Guitarricadelafuente Was Terrified to Make His Acting Debut in ‘La Bola Negra’: ‘I Wasn’t Sure at All’",
+      "description": "The dreamy Spanish pop star plays a closeted trumpet player forced to join the Nationalists to survive during the Spanish Civil War. He tells IndieWire about starring in his first film, witnessing Los Javis' breakup during production, and writing the theme song \"La Nieve.\" Some spoilers ahead.",
+      "url": "https://www.indiewire.com/awards/consider-this/guitarricadelafuente-interview-la-bola-negra-1235230714/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2304820830.jpg?w=650",
+      "publishedAt": "2026-11-24T21:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-V3LTEyMzUyMjg0NDYv",
+      "title": "‘Hershey’ Review: An Unbelievably Flavorless Biopic About America’s Most Famous Chocolatier",
+      "description": "Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of \"values-based entertainment.\"",
+      "url": "https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/hershey.webp?w=650",
+      "publishedAt": "2026-11-24T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-HMtMTIzNTIzMDgyNy8",
+      "title": "John Turturro, Carrie Coon, Guitarricadelafuente, and Peter Gamble to Receive SFFILM Honors",
+      "description": "Presenters at the December 7 San Francisco event will include \"La Bola Negra\" directors Javier Calvo and Javier Ambrossi, and \"I Play Rocky\" star Anthony Ippolito.",
+      "url": "https://www.indiewire.com/news/general-news/carrie-coon-john-turturro-sffilm-awards-1235230827/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108O8XN.jpg?w=650",
+      "publishedAt": "2026-11-24T20:05:14.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjMwMTc1Lw",
+      "title": "Want to Attend a Major Film Festival with IndieWire? Applications for Our 2027 Intensives Are Now Open",
+      "description": "From Cannes to Venice to Austin, our Future of Filmmaking Intensives offer something for everyone — and all have earlybird deadlines on Monday, November 30.",
+      "url": "https://www.indiewire.com/news/events/apply-to-indiewire-future-of-filmmaking-student-programs-1235230175/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/DSC_4156.jpg?w=650",
+      "publishedAt": "2026-11-24T20:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XMtMTIzNTIzMDU1Ny8",
+      "title": "Watch the ‘Project Hail Mary’ VFX Supervisor Explain Why Having Puppeteers on Set Was Worth All the Extra Work",
+      "description": "Mag Sarnowska and her team had to remove a lot of reflections from the sci-fi epic, but she wouldn't have it any other way.",
+      "url": "https://www.indiewire.com/features/craft/project-hail-mary-vfx-craft-roundtables-1235230557/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9278.jpg?w=650",
+      "publishedAt": "2026-11-24T19:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-WMtMTIzNTIzMDA1Ny8",
       "title": "The Extraordinary Music Worthy of an Extraordinary Life in ‘W.E.B. Du Bois: Rebel with a Cause’",
@@ -64,33 +172,9 @@
       "category": "Trailers"
     },
     {
-      "id": "indiewire-XMtMTIzNTIyODg0My8",
-      "title": "Fixing Netflix’s TV Problem: 5 Changes the Streamer Should Make for Better, Sturdier, and Buzzier Series",
-      "description": "Netflix used to be where fans flocked to find their next favorite show. But after a year of diminishing interest in returning originals, a decline in awards recognition, and far too few hits, is it time for the streamer to make significant changes?",
-      "url": "https://www.indiewire.com/features/commentary/netflix-tv-problem-changes-to-fix-original-series-1235228843/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Netflix-TV-problem.jpg?w=650",
-      "publishedAt": "2026-11-24T15:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-Zy0xMjM1MjMwNTQzLw",
-      "title": "26 Years After He Wrote ‘Meet the Parents,’ John Hamburg Brings Comedy Back to Theaters with ‘Focker In-Law’",
-      "description": "The writer-director talks about creating the best possible environment for his star-studded ensemble cast and explains why he wanted this \"Focker\" movie to be the most cinematic.",
-      "url": "https://www.indiewire.com/features/interviews/focker-in-law-director-interview-john-hamburg-1235230543/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFIIN_UV016.jpg?w=650",
-      "publishedAt": "2026-11-24T15:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-LXJ1c3NvLWNvbWVkeQ",
-      "title": "Olivia Colman as a fox and Sam Neill as a sweary magpie: this is one of the best Australian movies in years",
-      "description": "The Fox director Dario Russo describes his own film as being ‘about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole’ – but that is only the beginning Get our weekend culture and lifestyle email When actor Emily Browning first read the synopsis for The Fox, her response was one of confusion. “I was like, what?” she says, scrunching up her face. “A guy talks to a fox and throws his wife in a hole? Huh?” Explaining this Australian comedy is not an easy task, even for its writer and director, Dario Russo. “It’s a movie about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole,” he says. “That’s it. That’s what happens.” Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning Continue reading...",
+      "title": "Olivia Colman as a fox and Sam Neill as a sweary magpie: The Fox is one of the best Australian movies in years",
+      "description": "Director Dario Russo describes it as being ‘about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole’ – but that’s just the beginning Get our weekend culture and lifestyle email When Emily Browning first read the synopsis for The Fox, her response was one of confusion. “I was like, what?” the actor says, scrunching up her face. “A guy talks to a fox and throws his wife in a hole? Huh?” Explaining this Australian comedy is not an easy task, even for its writer and director, Dario Russo. “It’s a movie about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole,” he says. “That’s it. That’s what happens.” Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning Continue reading...",
       "url": "https://www.theguardian.com/film/2026/nov/25/the-fox-movie-trailer-olivia-colman-sam-neill-dario-russo-comedy",
       "image": "https://i.guim.co.uk/img/media/3190942a922e7d7df726d7ed512bdc90ce94ba4f/213_0_1500_1201/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbbc4ea781052471fabb67b74f5b6220",
       "publishedAt": "2026-11-24T14:00:49.000Z",
@@ -160,90 +244,6 @@
       "category": "Reviews"
     },
     {
-      "id": "indiewire-XAtMTIzNTIzMDM5NS8",
-      "title": "Billy Ray Joins Oscar Short Contender ‘Magan’s Fare,’ Starring Barkhad Abdi, as Executive Producer",
-      "description": "The collaboration is a reunion for the pair, as Ray wrote the screenplay for \"Captain Phillips,\" which earned Abdi a Best Supporting Actor Oscar nomination.",
-      "url": "https://www.indiewire.com/news/general-news/bill-ray-joins-oscar-contender-magans-fare-ep-1235230395/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Billy-Ray-and-Barkhad-Abdi-at-LA-Awards-Screening-at-Ray-Kurtzman-Theater-at-CAA-on-Sunday-November-22-2026-2.jpg?w=650",
-      "publishedAt": "2026-11-23T22:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-N5LTEyMzUyMzAyMTkv",
-      "title": "Why Is the ‘Avengers: Doomsday’ Trailer So… Gloomy? Internet Erupts Over Latest Look at Marvel Movie",
-      "description": "Are the Russo brothers afraid of color or what?",
-      "url": "https://www.indiewire.com/news/trailers/avengers-doomsday-trailer-internet-fan-controversy-1235230219/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDAVDO_WD003.jpg?w=650",
-      "publishedAt": "2026-11-23T22:23:48.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjMwMTU5Lw",
-      "title": "AI Film ‘Gods Don’t Give Gifts’ Deemed Ineligible by Academy for Best Animated Feature Oscar",
-      "description": "The film from director Gossip Goblin will appeal the decision and is still planning an awards qualifying run in theaters beginning December 4.",
-      "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650",
-      "publishedAt": "2026-11-23T21:42:26.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-VzLTEyMzUyMzAwMDYv",
-      "title": "The Best Visual Effects in ‘Wildwood’ Are the Ones You Can’t See — Watch",
-      "description": "\"Wildwood\" Head of CG Animation Benoit Dubuc tells IndieWire about the visual effects that are hidden everywhere.",
-      "url": "https://www.indiewire.com/features/craft/wildwood-vfx-indiewire-craft-roundtables-1235230006/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9339_0263f5.jpg?w=650",
-      "publishedAt": "2026-11-23T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-YS0xMjM1MjMwMDEwLw",
-      "title": "From ‘Disclosure Day’ to ‘Devil Wears Prada’: Emily Blunt Breaks Down 10 of Her Greatest Movie Moments",
-      "description": "Blunt could land a second Oscar nomination for her language-spouting weatherwoman in Steven Spielberg's alien adventure. But she's made so many great films.",
-      "url": "https://www.indiewire.com/awards/consider-this/emily-blunt-breaks-down-oppenheimer-disclosure-day-devil-wears-prada-1235230010/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/06/MCDDIDA_UV014_999694.jpg?w=650",
-      "publishedAt": "2026-11-23T20:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-duLTEyMzUyMzAwNDAv",
-      "title": "How Sound Design Helps ‘Minotaur’ Get Away with Murder",
-      "description": "Director Andrey Zvyagintsev tells IndieWire about using sound to have the world crash in on its main character.",
-      "url": "https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDMINO_K3013.jpg?w=650",
-      "publishedAt": "2026-11-23T19:50:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjMwMDk5Lw",
-      "title": "Super Bowl LXI to Play Live on IMAX Screens",
-      "description": "IMAX is partnering with the NFL, ESPN, and Disney to screen the big game in North America, Australia, New Zealand, and Brazil.",
-      "url": "https://www.indiewire.com/news/general-news/super-bowl-lxi-live-imax-screens-1235230099/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/SBLXI_IMAX_1080x1350.png?w=650",
-      "publishedAt": "2026-11-23T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-VhcnQtaW4td2ludGVy",
       "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
       "description": "Jessie Buckley, Cillian Murphy and Mark Rylance will reportedly star in adaptation of The Heart in Winter Steven Spielberg has announced his next project: a western scripted by Paul Thomas Anderson. According to Deadline , the two Oscar-winning film-makers will collaborate for an adaptation of Kevin Barry’s 2024 novel The Heart in Winter. Continue reading...",
@@ -266,18 +266,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "TV"
-    },
-    {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "ITV investigating soap actor after bar incident",
-      "description": "Police say they attended a Manchester bar after reports of a disturbance earlier this month.",
-      "url": "https://www.bbc.co.uk/news/articles/cj5y16v79kd1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/ae73/live/96d7d230-e673-11f1-a5bc-ddaec99ca2c4.jpg",
-      "publishedAt": "2026-11-22T13:16:14.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
     },
     {
       "id": "guardian-FydGluLXNjb3JzZXNl",
