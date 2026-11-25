@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:33:15.570Z",
+  "generatedAt": "2026-11-25T18:28:42.387Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 3
+      "articles": 4
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,138 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-bi0xMjM1MjMxMTIxLw",
+      "title": "‘Bad Lieutenant: Tokyo’ Will Come to the U.S. Next March",
+      "description": "Neon is distributing Takashi Miike's take on police depravity, with Shun Oguri starring as a drug-addled detective.",
+      "url": "https://www.indiewire.com/news/breaking-news/bad-lieutenant-tokyo-march-2027-release-date-neon-1235231121/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/07/03_BAD-LIEUTENANT-TOKYO_courtesyNEON.jpg?w=650",
+      "publishedAt": "2026-11-25T18:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+      "description": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/778b/live/482f9c20-e8f4-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-25T17:48:28.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-bi0xMjM1MjMxMTIwLw",
+      "title": "‘The Trip’ Returns for Fifth Installment, Next Sending Steve Coogan and Rob Brydon to Frigid Arctic Circle",
+      "description": "Michael Winterbottom's \"The Trip to the Northern Lights\" has been acquired by the Independent Film Company and will be released in theaters April 9, 2027.",
+      "url": "https://www.indiewire.com/news/breaking-news/the-trip-returns-fifth-installment-steve-coogan-rob-brydon-1235231120/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/THE-TRIP-TO-THE-NORTHERN-LIGHTS-Still-1.jpg?w=650",
+      "publishedAt": "2026-11-25T17:39:59.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-XItMTIzNTIzMTEwNC8",
+      "title": "‘The Holy Boy’ Review: A Teenage Boy Heals People with His Touch in an Eerie Italian Horror Movie About the Price of Avoiding Your Pain",
+      "description": "Rising horror director Paolo Strippoli makes a name for himself with a confident genre allegory about the dangers of waiting for a miracle.",
+      "url": "https://www.indiewire.com/criticism/movies/the-holy-boy-horror-movie-review-shudder-1235231104/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Holy-Boy-movie-review.jpg?w=650",
+      "publishedAt": "2026-11-25T17:10:22.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-l4LTEyMzUyMjM5NTAv",
+      "title": "‘The Mosquito Bowl’ Review: ‘Friday Night Lights’ Meets ‘Five Came Back’ in Peter Berg’s Formulaic Netflix Movie About a World War II Football Game",
+      "description": "Ray Nicholson and Bill Skarsgård star in an unexceptional sports drama that falls well short of a first down.",
+      "url": "https://www.indiewire.com/criticism/movies/the-mosquito-bowl-movie-review-netflix-1235223950/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MB_20251002_26576_R.webp?w=650",
+      "publishedAt": "2026-11-25T16:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-XQtMTIzNTIzMTAxNi8",
+      "title": "Lauren Ambrose on Playing the Mother of a Missing Teen in ‘The Unbelievers’ and Why ‘Six Feet Under’ Is a Hit with Gen Z",
+      "description": "The Tony nominee tells IndieWire why digging into a complex role in Nick Payne's devastating family drama was so thrilling for her.",
+      "url": "https://www.indiewire.com/features/interviews/lauren-ambrose-the-unbelievers-six-feet-under-gen-z-hit-1235231016/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-9.40.39-AM.png?w=650",
+      "publishedAt": "2026-11-25T15:15:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-ci0xMjM1MjMwNzczLw",
+      "title": "‘Paper Tiger’: James Gray Convinced Adam Driver He Was Playing the Hero, Then Crafted His Mythic End",
+      "description": "“The film was really about my heartbreak over the world's losers,” writer/director James Gray tells IndieWire, breaking down the film's perfect ending.",
+      "url": "https://www.indiewire.com/features/interviews/paper-tiger-ending-explained-james-gray-adam-driver-1235230773/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDPATI_EC033.jpeg?w=650",
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "indiewire-GktMTIzNTE5Mzc5OC8",
+      "title": "‘All of a Sudden’ Review: Ryusuke Hamaguchi’s Long and Thoughtful Plea for a More Hopeful Future",
+      "description": "A terminal play director and an overworked eldercare provider stroll through Paris and try to solve capitalism in the latest epic from the director of \"Drive My Car.\"",
+      "url": "https://www.indiewire.com/criticism/movies/all-of-a-sudden-movie-review-ryusuke-hamaguchi-1235193798/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/ALL-OF-A-SUDDEN-Film-Still-1.webp?w=650",
+      "publishedAt": "2026-11-25T14:30:52.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Reviews"
+    },
+    {
+      "id": "indiewire-cy0xMjM1MjI5NzgxLw",
+      "title": "TV Took the Wrong Lessons from the Success of ‘Heated Rivalry’",
+      "description": "One year after its release, \"Heated Rivalry\" continues to offer stellar lessons on how to build a queer breakthrough series. The industry isn’t paying attention.",
+      "url": "https://www.indiewire.com/features/commentary/heated-rivalry-tv-wrong-lessons-success-1235229781/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/01/connor-storrie-hudson-williams_1.jpg?w=650",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "TV"
+    },
+    {
+      "id": "indiewire-bS0xMjM1MjMwOTc2Lw",
+      "title": "‘Grand Theft Auto VI’ Made Nearly $4 Billion Doing What Movies Can’t",
+      "description": "Critics still comparing video games and cinema are selling both art forms short.",
+      "url": "https://www.indiewire.com/features/commentary/grand-theft-auto-6-video-game-movie-criticism-1235230976/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/ar6w52.png?w=650",
+      "publishedAt": "2026-11-25T13:36:07.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FnYS1zeWNvcGhhbnRz",
+      "title": "14th review – Ava DuVernay takes on a bully president and his viper’s-nest court of Maga sycophants",
+      "description": "DuVernay’s follow-up to her dissection of the 13th Amendment to the US constitution is a vehement and exhilarating defence of democracy Ava DuVernay’s previous documentary 13th , energised by the Black Lives Matter movement, was a brilliant polemic about the 13th Amendment to the US constitution , which she argued perpetuated a link between slavery and prison for African American men. Ten years later, and after an almost continuous decade of Trumpism, DuVernay has made a follow-up film about the 14th Amendment , and she has evidently arrived at a rather different attitude to the constitution and its authors’ intentions and good faith. Now she sees the enemy as Maga and the constitution as something that must be defended against a tinpot bully president and his viper’s-nest court of sycophants. The shift in view is not acknowledged, but the overall effect is similar. Utilising a gallery of very smart talking-head interviewees, including conservative Republicans, DuVernay has mounted a vehement and exhilarating defence of what might be called the second American Enlightenment, created by the 13th, 14th and 15th “reconstruction” amendments, drawn up between 1865 and 1870 after the American civil war. The 14th specifically established birthright citizenship, due process and equal rights for all races under the law, and furthermore barred insurrectionists from holding public office, all of which Trump appears casually intent on vandalising, airily amnesiac about his oath to uphold the constitution. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/14th-review-ava-duvernay-takes-on-a-bully-president-and-his-vipers-nest-court-of-maga-sycophants",
+      "image": "https://i.guim.co.uk/img/media/e4eed72071cfce7ebee12d57062be46c40bb7c64/141_0_2497_1997/master/2497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=021bc6312bf91e30c1eb27f1067fc046",
+      "publishedAt": "2026-11-25T13:00:26.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
@@ -26,6 +158,18 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "TV"
+    },
+    {
+      "id": "guardian-5kZXItaW50ZXJ2aWV3",
+      "title": "‘I said no thanks to the casting couch. But other actresses had problems’: Jane Alexander on 50 years of stardom",
+      "description": "The Great White Hope, All the President’s Men, Kramer vs Kramer … Alexander has a CV most actors can only dream of. She talks us through the highs and lows – including a ‘beautiful’ encounter with Muhammad Ali Jane Alexander will never forget the play that won her a Tony award, a husband and her first film role. The Great White Hope, which ran on Broadway from 1968 to 1970, was based on the life of Black boxer Jack Johnson, who in 1908 became world heavyweight champion in segregated America. Alexander played Eleanor, a white woman married to an African American boxer also called Jack, at a time when interracial marriages were still illegal in many states. Decades later, when the play opened, the US supreme court had only recently struck down all remaining bans – and Alexander received hate mail and death threats for the role. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/jane-alexander-interview",
+      "image": "https://i.guim.co.uk/img/media/b4088816a603819790802872b75796c85e02e935/2940_1550_2202_1761/master/2202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d092b432b9b4d670fc4fb21969cc1895",
+      "publishedAt": "2026-11-25T12:00:56.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-50aW4tdGFyYW50aW5v",
@@ -70,18 +214,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/25/way-of-the-warrior-kid-review-chris-pratt",
       "image": "https://i.guim.co.uk/img/media/5c0f67915c8fd6b7b5accc72307876cee7587dd5/417_0_4841_3875/master/4841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=063660e8ba83d8acb1ec953769d8ce57",
       "publishedAt": "2026-11-25T08:00:09.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-YW5pbWF0ZWQtdGFsZQ",
-      "title": "In Waves review – love, grief and surfing at heart of profoundly moving animated tale",
-      "description": "Tenderly drawn story combines a history of surfing with an emotional account of losing a partner to bone cancer aged 24 This gently moving and beautifully animated drama is adapted from an award-winning graphic novel by Californian illustrator AJ Dungo . His book combines a history of surfing with a memoir of love and grief; it is an account of his girlfriend Kristen Tuason, who died from bone cancer at just 24. There is something desperately sad in the film’s nostalgic mood: Dungo still in his 20s, already looking in the rearview at his youth like it’s a different universe. AJ (voiced by Will Sharpe) is a gawky teenager skateboarder who meets fun, outgoing Kirsten (Stephanie Hsu); she’s a surfer and helps AJ to overcome his fear of the ocean. Pretty soon, they’re a couple, hanging out with friends, surfing with a mixtape of sunny bright pop tunes soundtracking their teenage years. Then Kirsten is diagnosed with cancer and undergoes surgery to partially amputate her leg. When the doctors tell her she’s in remission, life goes on. Kirsten trains to be a nurse, while her brother opens a surf shop; another friend starts a craft beer business; AJ is working hard at art school. Life is ahead of them. Arguably, the film, directed by Phuong Mai Nguyen, is light on detail: characters’ facial expressions are illustrated in simple lines, the finer details of their personalities unsketched. By contrast, the ocean is rendered in spectacular depth and detail, in all its moods. There is a reverence for the sea and surfing here, and a gentle tapping into surfing’s spiritual side; a handful of gorgeous scenes in a palette of mushroom brown and grey tell snippets of its origins in Polynesia. At heart, In Waves is an idealistic, emotional film, handling its subject delicately, avoiding too much of the rawness of grief. I can imagine older kids and teenagers falling deeply in love with it. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/25/in-waves-review-love-grief-and-surfing-at-heart-of-profoundly-moving-animated-tale",
-      "image": "https://i.guim.co.uk/img/media/e38e315d6935238b8fc62ecddcf384cf8dbce0d0/1276_0_2007_1606/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b4c4ab01cad0b4a2b2e58fc9b2e22cce",
-      "publishedAt": "2026-11-25T07:00:10.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -148,66 +280,6 @@
       "category": "Movies"
     },
     {
-      "id": "indiewire-20tMTIzNTIzMDc3NC8",
-      "title": "Will Robert Pattinson’s Bond Casting Help Land Him His First Oscar Nomination?",
-      "description": "The first step is to get voters to see the one movie he might nab for Best Actor: \"Primetime.\"",
-      "url": "https://www.indiewire.com/awards/consider-this/will-robert-pattinson-bond-casting-help-land-oscar-nom-1235230774/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Robert-Pattinson-credit-Jaap-Buitendijk-1.jpg?w=650",
-      "publishedAt": "2026-11-24T21:05:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-YS0xMjM1MjMwNzE0Lw",
-      "title": "Guitarricadelafuente Was Terrified to Make His Acting Debut in ‘La Bola Negra’: ‘I Wasn’t Sure at All’",
-      "description": "The dreamy Spanish pop star plays a closeted trumpet player forced to join the Nationalists to survive during the Spanish Civil War. He tells IndieWire about starring in his first film, witnessing Los Javis' breakup during production, and writing the theme song \"La Nieve.\" Some spoilers ahead.",
-      "url": "https://www.indiewire.com/awards/consider-this/guitarricadelafuente-interview-la-bola-negra-1235230714/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2304820830.jpg?w=650",
-      "publishedAt": "2026-11-24T21:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjg0NDYv",
-      "title": "‘Hershey’ Review: An Unbelievably Flavorless Biopic About America’s Most Famous Chocolatier",
-      "description": "Milton S. Hershey gets the Angel Studios treatment in a deranged and decidedly vanilla piece of \"values-based entertainment.\"",
-      "url": "https://www.indiewire.com/criticism/movies/hershey-movie-review-1235228446/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/hershey.webp?w=650",
-      "publishedAt": "2026-11-24T20:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-HMtMTIzNTIzMDgyNy8",
-      "title": "John Turturro, Carrie Coon, Guitarricadelafuente, and Peter Gamble to Receive SFFILM Honors",
-      "description": "Presenters at the December 7 San Francisco event will include \"La Bola Negra\" directors Javier Calvo and Javier Ambrossi, and \"I Play Rocky\" star Anthony Ippolito.",
-      "url": "https://www.indiewire.com/news/general-news/carrie-coon-john-turturro-sffilm-awards-1235230827/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/10/P108O8XN.jpg?w=650",
-      "publishedAt": "2026-11-24T20:05:14.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-cy0xMjM1MjMwMTc1Lw",
-      "title": "Want to Attend a Major Film Festival with IndieWire? Applications for Our 2027 Intensives Are Now Open",
-      "description": "From Cannes to Venice to Austin, our Future of Filmmaking Intensives offer something for everyone — and all have earlybird deadlines on Monday, November 30.",
-      "url": "https://www.indiewire.com/news/events/apply-to-indiewire-future-of-filmmaking-student-programs-1235230175/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/05/DSC_4156.jpg?w=650",
-      "publishedAt": "2026-11-24T20:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Archers fans urged to back fight to keep show in city",
       "description": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
@@ -218,66 +290,6 @@
       "source": "BBC Culture",
       "sourceColour": "red",
       "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIzMDU1Ny8",
-      "title": "Watch the ‘Project Hail Mary’ VFX Supervisor Explain Why Having Puppeteers on Set Was Worth All the Extra Work",
-      "description": "Mag Sarnowska and her team had to remove a lot of reflections from the sci-fi epic, but she wouldn't have it any other way.",
-      "url": "https://www.indiewire.com/features/craft/project-hail-mary-vfx-craft-roundtables-1235230557/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9278.jpg?w=650",
-      "publishedAt": "2026-11-24T19:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-WMtMTIzNTIzMDA1Ny8",
-      "title": "The Extraordinary Music Worthy of an Extraordinary Life in ‘W.E.B. Du Bois: Rebel with a Cause’",
-      "description": "Composer Kathryn Bostic and director Rita Coburn tell IndieWire how they drew from Du Bois' own encounters with a broad array of musical influences to shape their film's score.",
-      "url": "https://www.indiewire.com/features/craft/web-du-bois-rebel-with-a-cause-score-kathryn-bostic-1235230057/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/images-6.jpeg?w=620",
-      "publishedAt": "2026-11-24T17:45:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-cmV2aWV3LWRpc25leQ",
-      "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
-      "description": "A teen girl discovers she is a witch in this mostly magic-free reminder that original animation is stuck in an unoriginal place As bleak as Disney’s overreliance on sequels might have become, it’s not quite as bleak as the crumbling state of its original output. Obviously because of the former, the latter category has become that much less populated but even when the studio has recently bothered to release something without a number in the title, it’s been hard to really see the point. With or without Pixar, films like Elio, Strange World, Raya and the Last Dragon, Luca, Elemental, Onward and Wish have all felt as uninspired as something a rival might try to desperately cobble together in an attempt to lure kids away from Disney. Three Thanksgivings ago, Wish was a particularly poor yet extremely smug example of how rubbishy things have got, a personality-free princess tale that doubled up as a 100-year anniversary victory lap. It was Disney’s worst-reviewed animated film in almost two decades and its deserved box office failure cost about $131m. Unperturbed, its co-director Fawn Veerasunthorn (along with Moana 2 director Jason Hand) is back this holiday with another rote rip-off adventure that doesn’t deserve its place in the kingdom. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
-      "image": "https://i.guim.co.uk/img/media/7514bc83d19417c76a2e635c02b69945b90b6bf7/528_0_1004_804/master/1004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=58b21a97f727414fca0ead6483b9eadd",
-      "publishedAt": "2026-11-24T17:00:50.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "indiewire-V3LTEyMzUyMjk3Mzgv",
-      "title": "Oobah Butler Wants to Expose the World’s Stupidest Industries, but They Get Worse Faster Than He Can Plan His Stunts",
-      "description": "The star of HBO's \"Oobah: Scams for a Better Tomorrow\" tells IndieWire about taking on supplements, dating apps, and royalty — and why satire struggles to keep up with an insane world.",
-      "url": "https://www.indiewire.com/features/interviews/oobah-butler-scams-for-a-better-tomorrow-interview-1235229738/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Screen-Shot-2026-11-23-at-4.27.12-PM-1.png?w=650",
-      "publishedAt": "2026-11-24T17:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "TV"
-    },
-    {
-      "id": "indiewire-nktMTIzNTIzMDU4MS8",
-      "title": "‘Coward’ Trailer: Lukas Dhont’s Belgian Oscar Entry Is a Queer Stunner",
-      "description": "Exclusive: Cannes Best Actor winners Emmanuel Macchia and Valentin Campagne are gay lovers in the World War I trenches of Belgium in the latest film from the director of \"Close.\"",
-      "url": "https://www.indiewire.com/news/trailers/coward-trailer-lukas-dhont-belgian-oscar-entry-1235230581/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/COWARD_Still_1_theReunion.jpg?w=650",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Trailers"
     },
     {
       "id": "guardian-VhcnQtaW4td2ludGVy",
