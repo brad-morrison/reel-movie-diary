@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T06:37:08.781Z",
+  "generatedAt": "2026-11-25T12:33:15.570Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,78 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "description": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+      "publishedAt": "2026-11-25T12:24:12.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
+      "id": "guardian-50aW4tdGFyYW50aW5v",
+      "title": "Reeling in the years: how Hollywood fell for its own vanishing glories",
+      "description": "The Further Mis-Adventures of Cliff Booth is the latest in a growing wave of movies steeped in nostalgia for a heyday in stark contrast to its current ruination If Los Angeles was a person, it might just be a laid-back fiftysomething trouper with cool sunglasses and an even better haircut. Some dodgy episodes in his past, but still handles himself with style. In other words, Los Angeles personified is Cliff Booth – the over-the-hill stuntman played by Brad Pitt in Once Upon a Time … in Hollywood , now turned studio fixer in the sequel, The Further Mis-Adventures of Cliff Booth. Set eight years later in 1977, Further Mis-Adventures is more plot-driven, more Elmore Leonard-esque than the pure expansive “memory piece” of Once Upon a Time. But both films are steeped in the ambience and lore of old LA, drawn in part from Quentin Tarantino’s memories of cruising around the streets aged six in his stepdad’s Karmann Ghia (the car Booth also drives). They’re part of the recent intensely nostalgic LA revivalist mini-boom of work that also includes Paul Thomas Anderson’s Licorice Pizza (2021), Damien Chazelle’s Babylon (2022) and Ti West’s MaXXXine (2024). Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/hollywood-nostalgia-further-mis-adventures-of-cliff-booth-quentin-tarantino",
+      "image": "https://i.guim.co.uk/img/media/7920b3161e8f938952092f5407194a97713f9954/247_0_2507_2006/master/2507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b98b4d65c7201246cf5b73ea5a64fed0",
+      "publishedAt": "2026-11-25T11:53:30.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-mllLXRydWUtc3Rvcnk",
+      "title": "‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine",
+      "description": "Writer-director Beth de Araújo witnessed a brutal sexual assault as a child and has turned her experience into one of the year’s most powerful movies The film-maker Beth de Araújo likens the personal experience that inspired Josephine, her disquieting second feature, to a slow-acting poison. Early one Saturday morning when she was eight years old, Araújo and her father were playing soccer in Golden Gate Park, near their home in San Francisco, when they heard a woman scream. Her father, a former Olympic runner for Brazil, told her to stay and bolted to help; Araújo, scared and alone, ran after him, and instead found the woman in a clearing, naked from the waist down. Araújo was too young to understand what had happened, but she knew something was wrong. So, too, does an eight-year-old Josephine, played by the remarkable newcomer Mason Reeves, in the one scene crafted exactly to Araújo’s memory: Josephine, confused and restless, observes as the woman tucks her hands under her legs to keep them from shaking. She is further confused when her father, Damien, played by the aspirationally everyman actor Channing Tatum, seems extra keen to return to their soccer game afterwards, one of many echoes of Araújo’s memory in this taut drama. In real life, Araújo’s father “put on a face, put on energy and made it seem fun,” she recalled. “And I was like: ‘This is so weird. Why is my dad being so extra fun right now?’” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
+      "image": "https://i.guim.co.uk/img/media/241631b7bfcd14dc1dd6a166cc1b98daf1ea277d/581_0_4666_3733/master/4666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2f8ad016e36c62ea0965ffc6d527bbb",
+      "publishedAt": "2026-11-25T10:00:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-bGUtZnJpZW5kc2hpcA",
+      "title": "The Slightest Touch review – running marathons in Colin Farrell and Emma Fogarty’s odd-couple friendship",
+      "description": "The pair, who met in 2010, are shown preparing for the Dublin race to raise awareness of Fogarty’s epidermolysis bullosa in Rachel Fleit’s considerate documentary The personal scenes in this film from Rachel Fleit have been carefully controlled and curated, the privacy of both parties being important, for different and understandable reasons. But it is an unexpectedly intimate, emotional piece of work, a big-hearted odd-couple story, which is perhaps slightly more complex than at first appears. Emma Fogarty is a smart, garrulous woman from Abbeyleix in County Laois in the Republic of Ireland who has EB: epidermolysis bullosa, a rare condition which means that her skin is permanently, agonisingly painful and requires a daily calvary of bandaging and re-bandaging. While getting an award at the People of the year event in 2010 for her campaigning work educating the public about this illness, Emma met and struck up a friendship with Colin Farrell, a supporter and patron of the EB charity Debra Ireland . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/the-slightest-touch-review-warm-story-of-colin-farrell-and-emma-fogartys-odd-couple-friendship",
+      "image": "https://i.guim.co.uk/img/media/cae5b5126b9630affd17042543f9c1b97f043572/445_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3e8b48b70c8431650527f7d415d4a783",
+      "publishedAt": "2026-11-25T10:00:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-XctY2hyaXMtcHJhdHQ",
+      "title": "Way of the Warrior Kid review - Chris Pratt’s family film is as subtle as a military recruitment video",
+      "description": "Apple’s tone-deaf Karate Kid knock-off feels like a Maga-approved after-school special It’s hard to avoid the reports that boys and young men are in trouble . Across the US and UK, they’re outpaced by girls on reading tests, are more likely to have behavioral difficulties and exposed to impossible body image standards by the manosphere. You might think that all of this would make you think extra carefully about a film that centers on a 13-year-old boy. Not in the case of Way of the Warrior Kid, a cliche-ridden celebration of machismo and the military that greets the current climate with a shrug. At times, I had to remind myself that I wasn’t watching a Maga-funded after-school special. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/way-of-the-warrior-kid-review-chris-pratt",
+      "image": "https://i.guim.co.uk/img/media/5c0f67915c8fd6b7b5accc72307876cee7587dd5/417_0_4841_3875/master/4841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=063660e8ba83d8acb1ec953769d8ce57",
+      "publishedAt": "2026-11-25T08:00:09.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-YW5pbWF0ZWQtdGFsZQ",
+      "title": "In Waves review – love, grief and surfing at heart of profoundly moving animated tale",
+      "description": "Tenderly drawn story combines a history of surfing with an emotional account of losing a partner to bone cancer aged 24 This gently moving and beautifully animated drama is adapted from an award-winning graphic novel by Californian illustrator AJ Dungo . His book combines a history of surfing with a memoir of love and grief; it is an account of his girlfriend Kristen Tuason, who died from bone cancer at just 24. There is something desperately sad in the film’s nostalgic mood: Dungo still in his 20s, already looking in the rearview at his youth like it’s a different universe. AJ (voiced by Will Sharpe) is a gawky teenager skateboarder who meets fun, outgoing Kirsten (Stephanie Hsu); she’s a surfer and helps AJ to overcome his fear of the ocean. Pretty soon, they’re a couple, hanging out with friends, surfing with a mixtape of sunny bright pop tunes soundtracking their teenage years. Then Kirsten is diagnosed with cancer and undergoes surgery to partially amputate her leg. When the doctors tell her she’s in remission, life goes on. Kirsten trains to be a nurse, while her brother opens a surf shop; another friend starts a craft beer business; AJ is working hard at art school. Life is ahead of them. Arguably, the film, directed by Phuong Mai Nguyen, is light on detail: characters’ facial expressions are illustrated in simple lines, the finer details of their personalities unsketched. By contrast, the ocean is rendered in spectacular depth and detail, in all its moods. There is a reverence for the sea and surfing here, and a gentle tapping into surfing’s spiritual side; a handful of gorgeous scenes in a palette of mushroom brown and grey tell snippets of its origins in Polynesia. At heart, In Waves is an idealistic, emotional film, handling its subject delicately, avoiding too much of the rawness of grief. I can imagine older kids and teenagers falling deeply in love with it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/in-waves-review-love-grief-and-surfing-at-heart-of-profoundly-moving-animated-tale",
+      "image": "https://i.guim.co.uk/img/media/e38e315d6935238b8fc62ecddcf384cf8dbce0d0/1276_0_2007_1606/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b4c4ab01cad0b4a2b2e58fc9b2e22cce",
+      "publishedAt": "2026-11-25T07:00:10.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
     {
       "id": "guardian-3ItZGFubnktYm95bGU",
       "title": "Post your questions for Danny Boyle",
@@ -30,7 +102,7 @@
     {
       "id": "guardian-bW91cy1icm90aGVycw",
       "title": "‘I was physically beating myself up before a take’: Rory Culkin on anxiety, fatherhood and his famous brothers",
-      "description": "The star of Lords of Chaos, Scream 4 and Gabriel was always drawn to the dark side. Is that why he seems happier in Hollywood than his better-known brothers – and why he loved making Nocturne with Stephen Graham? Rory Culkin is enjoying the autumn afternoon in a Manhattan park. The trees are a dazzling blur of yellows, greens, oranges and reds; the background silence is so pure you can hear it. “I’m here with my baby daughter, Havoc,” he says. Havoc Moon.” I tell him that is the spookiest name ever. “Thank you,” he says. Culkin chuckles like a revving moped, his huge blue eyes lighting up. “Yes, it’s a weird one. I think she’ll probably be the opposite. A sweet, quiet girl. She’ll play a harp or something.” He explains its origin. “I just threw out names to my partner one night when we went to dinner. She wasn’t taking to anything. I then suggested Havoc, and she really liked it. She came up with the Moon part. When we got home there was fresh graffiti on the wall across the street saying ‘Havoc’, and I was like: ‘That is a sign from the gods – we’ve got to do it.’” Continue reading...",
+      "description": "The star of Lords of Chaos, Scream 4 and Gabriel was always drawn to the dark side. Is that why he seems happier in Hollywood than his better-known brothers – and why he loved making Nocturne with Stephen Graham? Rory Culkin is enjoying the autumn afternoon in a Manhattan park. The trees are a dazzling blur of yellows, greens, oranges and reds; the background silence is so pure you can hear it. “I’m here with my baby daughter, Havoc,” he says. “Havoc Moon.” I tell him that is the spookiest name ever. “Thank you,” he says. Culkin chuckles like a revving moped, his huge blue eyes lighting up. “Yes, it’s a weird one. I think she’ll probably be the opposite. A sweet, quiet girl. She’ll play a harp or something.” He explains its origin. “I just threw out names to my partner one night when we went to dinner. She wasn’t taking to anything. I then suggested Havoc, and she really liked it. She came up with the Moon part. When we got home there was fresh graffiti on the wall across the street saying ‘Havoc’, and I was like: ‘That is a sign from the gods – we’ve got to do it.’” Continue reading...",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/25/rory-culkin-interview-anxiety-fatherhood-famous-brothers",
       "image": "https://i.guim.co.uk/img/media/c75dee497bfa42c7944efaf226dc31b07229bf33/0_681_3600_2880/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32078511c8f3978e3480d886959c13c6",
       "publishedAt": "2026-11-25T05:00:07.000Z",
@@ -206,66 +278,6 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Trailers"
-    },
-    {
-      "id": "guardian-LXJ1c3NvLWNvbWVkeQ",
-      "title": "Olivia Colman as a fox and Sam Neill as a sweary magpie: The Fox is one of the best Australian movies in years",
-      "description": "Director Dario Russo describes it as being ‘about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole’ – but that’s just the beginning Get our weekend culture and lifestyle email When Emily Browning first read the synopsis for The Fox, her response was one of confusion. “I was like, what?” the actor says, scrunching up her face. “A guy talks to a fox and throws his wife in a hole? Huh?” Explaining this Australian comedy is not an easy task, even for its writer and director, Dario Russo. “It’s a movie about a guy who gets tricked by a talking fox into pushing his fiancee in a magic hole,” he says. “That’s it. That’s what happens.” Sign up for the fun stuff with our rundown of must-reads, pop culture and tips for the weekend, every Sunday morning Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/25/the-fox-movie-trailer-olivia-colman-sam-neill-dario-russo-comedy",
-      "image": "https://i.guim.co.uk/img/media/3190942a922e7d7df726d7ed512bdc90ce94ba4f/213_0_1500_1201/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbbc4ea781052471fabb67b74f5b6220",
-      "publishedAt": "2026-11-24T14:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-bGluZS1icmFpbnJvdA",
-      "title": "Scream 4 came out 15 years ago – but its mockery of online brainrot is more spot-on than ever",
-      "description": "When Wes Craven’s final slasher film came out, correctly predicting clout-chasing influencers and social media’s corruption of our lives, Instagram was just six months old Get our weekend culture and lifestyle email It has been almost a year since Australia’s social media ban for under-16s and it seems as though nothing has been able to effectively deter the youth from the slippery slope of internet addiction – even when they have expressed the desire to quit . It’s hard to believe that it has only been a decade since TikTok condemned us to the eternal doomscroll and just over 15 years since Instagram launched. Surely no one predicted just how much the online world would be leeching off of us, right? Well, Wes Craven did. Craven is the mind behind notable horror titles including The Hills Have Eyes, A Nightmare on Elm Street and the Scream franchise – and the last film he directed, four years before his death in 2015, was Scream 4. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/25/scream-4-movie-film-streaming-prescient-online-brainrot",
-      "image": "https://i.guim.co.uk/img/media/3920d60b7bd5505747b2bf7ec300d43e2271c110/756_339_3074_2461/master/3074.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d12c54eff1b28d02822e40005c2af68",
-      "publishedAt": "2026-11-24T14:00:47.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-mVydC1wYXR0aW5zb24",
-      "title": "Robert Pattinson is not enough: who should become the new Bond girl?",
-      "description": "With the British actor securing the role of James Bond, speculation has now begun over who should join him in Denis Villeneuve’s much-anticipated caper After years of speculation, Robert Pattinson has been officially cast as James Bond for a new Amazon-produced film directed by Denis Villeneuve. There’s no release date for the project yet, though fall 2028 seems a likely target, given the release dates of all of the Pierce Brosnan and Daniel Craig installments. This leaves plenty of time left on the clock for more speculation – namely, about who will be cast as the so-called Bond Girls for this rebooted installment. Past Bonds have usually been recognizable from earlier work, but none of them had yet reached Pattinson’s level of fame before actually playing Bond. Given that, in addition to sterling indie work for directors like David Cronenberg, Claire Denis and Lance Oppenheim, Pattinson has also been in Twilight, Batman and Christopher Nolan movies, he’s arguably already as famous as Brosnan and Craig were at their 007 peak. It must be this shift in the casting status quo that has inspired some predictions or hopes for a quantity as known as, say, Sydney Sweeney to play a Bond girl. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson",
-      "image": "https://i.guim.co.uk/img/media/1e2967e5a9638bf2d633b99f183abaffa6669edb/1688_8_2619_2096/master/2619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2322531f7a746624a2edc8be9fef8aff",
-      "publishedAt": "2026-11-24T10:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-lldy1tb250ZW5lZ3Jv",
-      "title": "To Hold a Mountain review – a spectacular setting for tough savvy woman’s fight against the government",
-      "description": "A livestock farmer with a sad secret in her past rallies to keep military training out of her breathtaking mountain home in Montenegro An award-winner in Sundance, where it premiered earlier this year, this slow-burn documentary follows a middle-aged Montenegrin livestock farmer called Gara and her 13-year-old daughter Nada. The two of them eke out a hardscrabble living on Sinjajevina, a breathtaking mountain plateau on which Montenegro’s government would like to conduct training exercises for its own army as well as Nato’s. This goes down about as well as a wolf in the sheep pen with flinty Gara, who rallies her neighbours as well as the local media to fight the proposal. She displays a savviness that’s somewhat surprising, even if her fortitude and strength of conviction seem completely in character. However, that fight against the state is just one element of a film that, through long, languid takes, reveals the women’s stately pastoral existence, one taken up above all with care for their menagerie of animals (cows, sheep, goats, cats and dogs) and each other. Co-directors Petar Glomazić and Biljana Tutorov gradually reveal the family setup isn’t exactly what it appears at first. Although Gara calls Nada her daughter, the young girl is actually her niece; Gara adopted her after her sister, Nada’s mum, was killed by a violent husband. Gara’s profound grief and loss haunt her every day, felt most painfully, perhaps, when an animal dies on the heath, reminding them of the fragility of life. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/24/to-hold-a-mountain-review-montenegro",
-      "image": "https://i.guim.co.uk/img/media/284b86b0692fa6dba9b6c22def16730836f96206/612_0_2445_1956/master/2445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f4b1a6b375190915f0b7d008ea35c1ea",
-      "publishedAt": "2026-11-24T10:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-9mLWxvdmUtcmV2aWV3",
-      "title": "The World of Love review – beautifully directed and compellingly elusive family mystery",
-      "description": "Yoon Ga-eun’s film tracks the uneasy fallout after a teenage schoolgirl makes a deeply shocking announcement to her class Korean film-maker Yoon Ga-eun creates a strange world of bewilderment, sadness and pain – but not much of love – in this involving and mysterious family drama. It seems always to be gesturing at an indefinable sense of loss, a poignant keynote struck by the recurring soundtrack piano arrangement of Bach’s Sheep May Safely Graze. Seo Su-bin gives an excellent performance as Joo-in, a high schooler possessed of a cheeky, madcap sense of fun, like her wacky, magic-obsessed kid brother Hae-in (Lee Jae-hee). She is keen on taekwondo and often shown (in borderline-uncomfortable closeup) kissing boyfriends that she will later dump. But when classmate Su-ho (Kim Jeong-sik) asks her to sign a petition objecting to the release and local rehousing of a convicted child rapist, Joo-in refuses, on the ostensible grounds that the petition talks about the permanent damage done to rape victims. Joo-in astonishes and upsets the class by announcing at the top of her voice that she herself is a rape victim, and she has not been permanently damaged – and then says it was just a joke. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/24/the-world-of-love-review",
-      "image": "https://i.guim.co.uk/img/media/55fccd5fc8efaed75c91495a13bafa644a1bbf32/356_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3d2bb1cb149c529e7dd18e0b8e781f53",
-      "publishedAt": "2026-11-24T10:00:12.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
     },
     {
       "id": "guardian-VhcnQtaW4td2ludGVy",
