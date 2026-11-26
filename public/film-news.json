@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T00:44:23.712Z",
+  "generatedAt": "2026-11-26T12:33:10.079Z",
   "sources": {
     "guardian": {
       "ok": true,
-      "articles": 29
+      "articles": 32
     },
     "bbc": {
       "ok": true,
@@ -15,6 +15,30 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-G9yeS1kaXJlY3RvcnM",
+      "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
+      "description": "Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her down To listen to Julie Delpy talk about her workload is to feel the need for a nap coming on. She is writing six screenplays at the moment that range from dark comedies to thrillers. “I don’t do monoculture,” she says. If her producer hadn’t reined her in, she would be working on five horror film scripts too. The actor, writer and director says she doesn’t sleep well – she can sit at her desk for up to 18 hours, writing “until I run out of steam. I know you could think I’m exaggerating. I’m not. If you look at my computer, you will see how bad it is.” We’re on a video call, Delpy from her home in Los Angeles. She is charming – intense and funny in big black-framed glasses. “I look so weird with this angle on my hair,” she says, of the ceiling light behind her. “Like an angry bald man!” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
+      "image": "https://i.guim.co.uk/img/media/207f4bfc289684e56747486d5449e43fc55dda6f/259_0_7713_6173/master/7713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4046d6bb5632e7be4cb7228acc14bd9",
+      "publishedAt": "2026-11-26T10:00:52.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-FuYXotZXNoYWdoaWFu",
+      "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
+      "description": "The co-director of An Eye for an Eye, Tanaz Eshaghian, reveals how she came to make a documentary about a woman facing the threat of execution from her husband’s family – as sanctioned by sharia law “Even though I was raised here,” says the Iranian-American film-maker Tanaz Eshaghian from her home in New York, “I was brought up with the understanding that there are things that you do and things that you don’t do.” Take her 2006 autobiographical feature, Love Iranian-American Style, about her experience of dating in her 20s, which was, she says, “about how I was supposed to marry a nice Iranian man and stay a virgin”. But by the time she’d graduated from Brown University in Rhode Island “that ship had sailed”, she laughs. Since Love Iranian-American Style, she has made equally taboo-breaking documentaries about a women’s prison in Afghanistan (Love Crimes of Kabul, 2011), trans people in Iran (Be Like Others, 2008) and disabled teenagers in Pakistan (As Far As They Can Run, 2022). And with each new project, the duality of her heritage (Eshaghian emigrated to the US not long after the Iranian revolution when she was six) has spurred her to focus eastwards, closer to where she was born. “When you’ve been raised in the west you can see how similar the thinking is,” Eshaghian says of the similarities she’s found there: “the conservative thinking, the place of women, what’s allowed, what’s important”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
+      "image": "https://i.guim.co.uk/img/media/26c047ac63cde564ec942e9c0ffa3f98b48c247e/719_0_1804_1444/master/1804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c0598923b2d526902a8ecbc75c7a8b",
+      "publishedAt": "2026-11-26T08:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-NzLTEyMzUyMzEyNjMv",
       "title": "Danielle Brooks Shares Insights from the Indie Success of ‘If I Go Will They Miss Me’",
@@ -37,6 +61,30 @@
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
+      "category": "Movies"
+    },
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "description": "The Hollywood A-listers' legal battle focused on the vineyard they bought in 2008 and where they wed six years later.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bdcb/live/6e263da0-e988-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-25T23:18:27.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-2luZXJ5LWxhd3N1aXQ",
+      "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
+      "description": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from the former Hollywood couple. “We have settled out of court in the best interests of our family and will not be commenting further,” representatives for Jolie and Pitt said in a statement. “Any comments in media stories attributed to ‘sources’ are in fact not coming from either of us, or anyone close to us.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+      "image": "https://i.guim.co.uk/img/media/557ec712bb67d529e9eeb9449bd3462b337c8cd6/56_0_2887_2309/master/2887.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=47e11aef8ee99d6e3a147bdc43e8f1f6",
+      "publishedAt": "2026-11-25T22:44:39.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
       "category": "Movies"
     },
     {
@@ -124,6 +172,18 @@
       "category": "Classics"
     },
     {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "James Nelson-Joyce hits back at mayor's TV drama criticism",
+      "description": "The actor rejected criticism of crime drama This City Is Ours by Mayor Steve Rotheram.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg24j9wex2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/08d8/live/3c1acf50-e8e9-11f1-8808-1d4222955d7e.jpg",
+      "publishedAt": "2026-11-25T18:41:27.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
+    {
       "id": "indiewire-WwtMTIzNTIzMDkxOS8",
       "title": "Where Are Rick Dalton and Sharon Tate in ‘The Further Mis-Adventures of Cliff Booth’?",
       "description": "Only one of the central stars of \"Once Upon a Time in Hollywood\" is back for the David Fincher-directed sequel, but that doesn't mean the other two don't pop up in their own ways.",
@@ -170,6 +230,18 @@
       "source": "IndieWire",
       "sourceColour": "pink",
       "category": "Movies"
+    },
+    {
+      "id": "guardian-y1qYWktY291cnRuZXk",
+      "title": "The Fox review – talking animals are the least weird thing in this delightfully peculiar comedy",
+      "description": "Dario Russo’s debut feature is Brothers Grimm meets Yorgos Lanthimos, with a standout cast including Olivia Colman, Sam Neill and Emily Browning The vibe of writer-director Dario Russo’s delightfully peculiar feature debut is “messed-up fairytale”, pitched somewhere between the Brothers Grimm and Yorgos Lanthimos, with a distinctly Australian je ne sais quoi . Russo is perhaps best known for co-creating the spy comedy series Danger 5, which had an aesthetic inspired by 60s and 70s men’s magazines; The Fox has a similarly thick retro texture. I love how this film feels as though it was made in consultation with the animal world, taking place in a universe where animals can speak to humans – though that’s perhaps the least weird thing about it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/26/the-fox-australian-movie-review-olivia-colman-sam-neill-dario-russo-emily-browning-jai-courtney",
+      "image": "https://i.guim.co.uk/img/media/e21a84bf3bbf66126fb4accf87d1d07186b86dfc/610_0_5865_4694/master/5865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=5bf497adf1c30f20fcae4fd60d34b523",
+      "publishedAt": "2026-11-25T14:00:29.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-FnYS1zeWNvcGhhbnRz",
@@ -220,18 +292,6 @@
       "category": "Movies"
     },
     {
-      "id": "guardian-mllLXRydWUtc3Rvcnk",
-      "title": "‘I needed to purge it out of me’: the shocking true story behind harrowing drama Josephine",
-      "description": "Writer-director Beth de Araújo witnessed a brutal sexual assault as a child and has turned her experience into one of the year’s most powerful movies The film-maker Beth de Araújo likens the personal experience that inspired Josephine, her disquieting second feature, to a slow-acting poison. Early one Saturday morning when she was eight years old, Araújo and her father were playing soccer in Golden Gate Park, near their home in San Francisco, when they heard a woman scream. Her father, a former Olympic runner for Brazil, told her to stay and bolted to help; Araújo, scared and alone, ran after him, and instead found the woman in a clearing, naked from the waist down. Araújo was too young to understand what had happened, but she knew something was wrong. So, too, does an eight-year-old Josephine, played by the remarkable newcomer Mason Reeves, in the one scene crafted exactly to Araújo’s memory: Josephine, confused and restless, observes as the woman tucks her hands under her legs to keep them from shaking. She is further confused when her father, Damien, played by the aspirationally everyman actor Channing Tatum, seems extra keen to return to their soccer game afterwards, one of many echoes of Araújo’s memory in this taut drama. In real life, Araújo’s father “put on a face, put on energy and made it seem fun,” she recalled. “And I was like: ‘This is so weird. Why is my dad being so extra fun right now?’” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/25/josephine-movie-true-story",
-      "image": "https://i.guim.co.uk/img/media/241631b7bfcd14dc1dd6a166cc1b98daf1ea277d/581_0_4666_3733/master/4666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2f8ad016e36c62ea0965ffc6d527bbb",
-      "publishedAt": "2026-11-25T10:00:13.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
       "id": "guardian-bGUtZnJpZW5kc2hpcA",
       "title": "The Slightest Touch review – running marathons in Colin Farrell and Emma Fogarty’s odd-couple friendship",
       "description": "The pair, who met in 2010, are shown preparing for the Dublin race to raise awareness of Fogarty’s epidermolysis bullosa in Rachel Fleit’s considerate documentary The personal scenes in this film from Rachel Fleit have been carefully controlled and curated, the privacy of both parties being important, for different and understandable reasons. But it is an unexpectedly intimate, emotional piece of work, a big-hearted odd-couple story, which is perhaps slightly more complex than at first appears. Emma Fogarty is a smart, garrulous woman from Abbeyleix in County Laois in the Republic of Ireland who has EB: epidermolysis bullosa, a rare condition which means that her skin is permanently, agonisingly painful and requires a daily calvary of bandaging and re-bandaging. While getting an award at the People of the year event in 2010 for her campaigning work educating the public about this illness, Emma met and struck up a friendship with Colin Farrell, a supporter and patron of the EB charity Debra Ireland . Continue reading...",
@@ -256,16 +316,16 @@
       "category": "Reviews"
     },
     {
-      "id": "guardian-3ItZGFubnktYm95bGU",
-      "title": "Post your questions for Danny Boyle",
-      "description": "The Trainspotting, Slumdog Millionaire and 28 Days Later director is preparing to launch his biopic of Rupert Murdoch’s early years as a British tabloid mogul. In anticipation of its New Year release, the director will be taking your questions You name it, Danny Boyle has probably directed a movie about it. He’s done zombies in 28 Days Later, astronauts hurtling towards the sun in Sunshine, a man trapped under a boulder in 127 Hours, a world without the Beatles in Yesterday and junkies in Trainspotting. Boyle was born in Radcliffe near Manchester in 1956, and was heading towards the priesthood until, aged 14, a priest of all people talked him out of it. Instead he went into theatre, became deputy director of the Royal Court, then swerved into television, directing Inspector Morse among other things. His first film, Shallow Grave, arrived in 1994; two years later Trainspotting tore British cinema a new one. In 2009, Slumdog Millionaire won him the best director Oscar. He also masterminded the London 2012 Olympics opening ceremony, somehow squeezing industrial chimneys, NHS beds, James Bond, Mr Bean and the history of British pop into one stadium. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/25/post-your-questions-for-danny-boyle",
-      "image": "https://i.guim.co.uk/img/media/d82e07ed99a4e6709c7980e79a10c6d4abf709cb/762_200_4081_3262/master/4081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3826f3fe5e671cf3b5d7407b40009872",
-      "publishedAt": "2026-11-25T06:00:07.000Z",
+      "id": "guardian-YW5pbWF0ZWQtdGFsZQ",
+      "title": "In Waves review – love, grief and surfing at heart of profoundly moving animated tale",
+      "description": "Tenderly drawn story combines a history of surfing with an emotional account of losing a partner to bone cancer aged 24 This gently moving and beautifully animated drama is adapted from an award-winning graphic novel by Californian illustrator AJ Dungo . His book combines a history of surfing with a memoir of love and grief; it is an account of his girlfriend Kristen Tuason, who died from bone cancer at just 24. There is something desperately sad in the film’s nostalgic mood: Dungo still in his 20s, already looking in the rearview at his youth like it’s a different universe. AJ (voiced by Will Sharpe) is a gawky teenager skateboarder who meets fun, outgoing Kirsten (Stephanie Hsu); she’s a surfer and helps AJ to overcome his fear of the ocean. Pretty soon, they’re a couple, hanging out with friends, surfing with a mixtape of sunny bright pop tunes soundtracking their teenage years. Then Kirsten is diagnosed with cancer and undergoes surgery to partially amputate her leg. When the doctors tell her she’s in remission, life goes on. Kirsten trains to be a nurse, while her brother opens a surf shop; another friend starts a craft beer business; AJ is working hard at art school. Life is ahead of them. Arguably, the film, directed by Phuong Mai Nguyen, is light on detail: characters’ facial expressions are illustrated in simple lines, the finer details of their personalities unsketched. By contrast, the ocean is rendered in spectacular depth and detail, in all its moods. There is a reverence for the sea and surfing here, and a gentle tapping into surfing’s spiritual side; a handful of gorgeous scenes in a palette of mushroom brown and grey tell snippets of its origins in Polynesia. At heart, In Waves is an idealistic, emotional film, handling its subject delicately, avoiding too much of the rawness of grief. I can imagine older kids and teenagers falling deeply in love with it. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/in-waves-review-love-grief-and-surfing-at-heart-of-profoundly-moving-animated-tale",
+      "image": "https://i.guim.co.uk/img/media/e38e315d6935238b8fc62ecddcf384cf8dbce0d0/1276_0_2007_1606/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b4c4ab01cad0b4a2b2e58fc9b2e22cce",
+      "publishedAt": "2026-11-25T07:00:10.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
-      "category": "TV"
+      "category": "Reviews"
     },
     {
       "id": "guardian-bW91cy1icm90aGVycw",
@@ -280,16 +340,40 @@
       "category": "TV"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "Archers fans urged to back fight to keep show in city",
-      "description": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/381e/live/78102330-e82a-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-24T19:09:13.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-cmV2aWV3LWRpc25leQ",
+      "title": "Hexed review – Disney’s witchy caper is a wicked disappointment",
+      "description": "A teen girl discovers she is a witch in this mostly magic-free reminder that original animation is stuck in an unoriginal place As bleak as Disney’s overreliance on sequels might have become, it’s not quite as bleak as the crumbling state of its original output. Obviously because of the former, the latter category has become that much less populated but even when the studio has recently bothered to release something without a number in the title, it’s been hard to really see the point. With or without Pixar, films like Elio, Strange World, Raya and the Last Dragon, Luca, Elemental, Onward and Wish have all felt as uninspired as something a rival might try to desperately cobble together in an attempt to lure kids away from Disney. Three Thanksgivings ago, Wish was a particularly poor yet extremely smug example of how rubbishy things have got, a personality-free princess tale that doubled up as a 100th anniversary victory lap. It was Disney’s worst-reviewed animated film in almost two decades and its deserved box office failure cost about $131m. Unperturbed, its co-director Fawn Veerasunthorn (along with Moana 2 director Jason Hand) is back this holiday with another rote rip-off adventure that doesn’t deserve its place in the kingdom. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/24/hexed-movie-review-disney",
+      "image": "https://i.guim.co.uk/img/media/7514bc83d19417c76a2e635c02b69945b90b6bf7/528_0_1004_804/master/1004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=58b21a97f727414fca0ead6483b9eadd",
+      "publishedAt": "2026-11-24T17:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-lldy1tb250ZW5lZ3Jv",
+      "title": "To Hold a Mountain review – a spectacular setting for tough savvy woman’s fight against the government",
+      "description": "A livestock farmer with a sad secret in her past rallies to keep military training out of her breathtaking mountain home in Montenegro An award-winner in Sundance, where it premiered earlier this year, this slow-burn documentary follows a middle-aged Montenegrin livestock farmer called Gara and her 13-year-old daughter Nada. The two of them eke out a hardscrabble living on Sinjajevina, a breathtaking mountain plateau on which Montenegro’s government would like to conduct training exercises for its own army as well as Nato’s. This goes down about as well as a wolf in the sheep pen with flinty Gara, who rallies her neighbours as well as the local media to fight the proposal. She displays a savviness that’s somewhat surprising, even if her fortitude and strength of conviction seem completely in character. However, that fight against the state is just one element of a film that, through long, languid takes, reveals the women’s stately pastoral existence, one taken up above all with care for their menagerie of animals (cows, sheep, goats, cats and dogs) and each other. Co-directors Petar Glomazić and Biljana Tutorov gradually reveal the family setup isn’t exactly what it appears at first. Although Gara calls Nada her daughter, the young girl is actually her niece; Gara adopted her after her sister, Nada’s mum, was killed by a violent husband. Gara’s profound grief and loss haunt her every day, felt most painfully, perhaps, when an animal dies on the heath, reminding them of the fragility of life. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/24/to-hold-a-mountain-review-montenegro",
+      "image": "https://i.guim.co.uk/img/media/284b86b0692fa6dba9b6c22def16730836f96206/612_0_2445_1956/master/2445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=f4b1a6b375190915f0b7d008ea35c1ea",
+      "publishedAt": "2026-11-24T10:00:13.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
+    },
+    {
+      "id": "guardian-9mLWxvdmUtcmV2aWV3",
+      "title": "The World of Love review – beautifully directed and compellingly elusive family mystery",
+      "description": "Yoon Ga-eun’s film tracks the uneasy fallout after a teenage schoolgirl makes a deeply shocking announcement to her class Korean film-maker Yoon Ga-eun creates a strange world of bewilderment, sadness and pain – but not much of love – in this involving and mysterious family drama. It seems always to be gesturing at an indefinable sense of loss, a poignant keynote struck by the recurring soundtrack piano arrangement of Bach’s Sheep May Safely Graze. Seo Su-bin gives an excellent performance as Joo-in, a high schooler possessed of a cheeky, madcap sense of fun, like her wacky, magic-obsessed kid brother Hae-in (Lee Jae-hee). She is keen on taekwondo and often shown (in borderline-uncomfortable closeup) kissing boyfriends that she will later dump. But when classmate Su-ho (Kim Jeong-sik) asks her to sign a petition objecting to the release and local rehousing of a convicted child rapist, Joo-in refuses, on the ostensible grounds that the petition talks about the permanent damage done to rape victims. Joo-in astonishes and upsets the class by announcing at the top of her voice that she herself is a rape victim, and she has not been permanently damaged – and then says it was just a joke. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/24/the-world-of-love-review",
+      "image": "https://i.guim.co.uk/img/media/55fccd5fc8efaed75c91495a13bafa644a1bbf32/356_0_3563_2851/master/3563.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=3d2bb1cb149c529e7dd18e0b8e781f53",
+      "publishedAt": "2026-11-24T10:00:12.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-VhcnQtaW4td2ludGVy",
@@ -298,6 +382,18 @@
       "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
       "image": "https://i.guim.co.uk/img/media/e1f49c81d555e4febe4fdd970d1f485ba0014e13/328_331_2849_2279/master/2849.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00e751fcc1fc3ef2004960afbc45a4b3",
       "publishedAt": "2026-11-23T18:10:31.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
+      "title": "Chemicals, Covid and cabbage: why 2026 has been an amazing year for documentaries",
+      "description": "With Musk, NAZA and You Can See Everything finding large audiences, non-fiction cinema is poised to break through. But there are plenty more gripping stories waiting for their turn in the spotlight There comes a time in the life of every film enthusiast when they must set aside foolish fictions and face up to some hard truths. Specifically, that time arrives each November in the form of the International Documentary Film Festival Amsterdam (IDFA for short), with its tales of crisis and strife, angry resistance and everyday human kindness. The world’s largest documentary festival plays out in the city’s twinkling downtown district, quite near the torture museum, and provides a sharp corrective to the confected dramas and A-list pageantry of Cannes, Toronto and Venice. The forecast is bracing, stormy, and occasionally chilling. Hours of darkness; no stars. We might not wish to live in the world IDFA shows us, but unfortunately we do, and so it pays to stay informed, be engaged. This year’s lineup of 250-plus documentaries steers us around the geopolitical hot spots, from tales of forced displacement in the West Bank to the rolling hell of Gaza; from a jungle-based guerrilla army in Myanmar (in White Tiger Column, the event’s opening night film) through to the traumatised children of the Vietnamese boat people (Carol Nguyen’s superb Still Night, Burning House). Some of these films could have been torn from the headlines. Others, like Raluca Lupascu’s gripping kitchen-sink tragedy A Modern Roma Fairytale, contain stories previously tucked away out of sight, just waiting to be told. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/23/musk-naza-and-you-can-see-everything-idfa-documentary-film-festival",
+      "image": "https://i.guim.co.uk/img/media/85d3250a702f9a1a2c9646bf7ef1443922687b0e/352_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5bb2a3474277b345e9596bde6fd83563",
+      "publishedAt": "2026-11-23T14:57:07.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
@@ -338,6 +434,18 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
+    },
+    {
+      "id": "guardian-bmVtYS1yZWxlYXNlcw",
+      "title": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
+      "description": "A Hunger Games cash-grab, up close with Elizabeth Holmes, Helen Mirren plays Patricia Highsmith, and Maradona’s helping hand … here are all the latest film releases at a glance *** Continue reading...",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases",
+      "image": "https://i.guim.co.uk/img/media/20fb49996b2efa5ff467e0d03c22ab4a569ced79/4_0_4195_3355/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d79ba082ca0afa63d1e62ffbca0cc14",
+      "publishedAt": "2026-11-21T06:00:50.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
     },
     {
       "id": "guardian-FjYXVsYXktY3Vsa2lu",
@@ -388,16 +496,16 @@
       "category": "Movies"
     },
     {
-      "id": "bbc-X2NhbXBhaWduPXJzcw",
-      "title": "New Hunger Games cast say joining the franchise is 'nerve-racking'",
-      "description": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
-      "url": "https://www.bbc.co.uk/news/articles/c8752w5vz2zqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/fad3/live/d16fdee0-e4d6-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-20T01:11:57.000Z",
-      "sourceId": "bbc",
-      "source": "BBC Culture",
-      "sourceColour": "red",
-      "category": "Movies"
+      "id": "guardian-NoZXItYnJhZC1waXR0",
+      "title": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
+      "description": "David Fincher directs Quentin Tarantino’s script, picking up from Once Upon a Time in Hollywood, and its lead is more ineffably beguiling than ever We got through to the very end of Quentin Tarantino’s previous film Once Upon a Time in Hollywood without finding out exactly how, why or if Brad Pitt’s stuntman character Cliff Booth murdered his wife. It was an issue only addressed in Tarantino’s novel based on the movie. And throughout the 140 minutes of this outrageous sugar-rush sequel – scripted by Tarantino and directed by David Fincher – this subject is tactfully passed over in silence, the one point that damages our perception of Cliff’s amiable-cowpoke good nature. Cliff is the guy who climaxed the previous picture by helping with a dramatic rescue; after, that is, gallantly refusing an age-gap relationship with Margaret Qualley’s jailbait teen. Well, we may not get the complete picture of Cliff’s matrimonial circumstances until Tarantino’s forthcoming crossover Cliff Booth novel, with which this film is to form a kind of multimedia narrative event. But there is nonetheless such a huge amount of energy, fun, scabrous black comedy, provocative bad taste and film-making style to be had here. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt",
+      "image": "https://i.guim.co.uk/img/media/c0727217384fcd131294ddd815694050ccb204af/448_0_3218_2574/master/3218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=4995aa93d18ed3879bb058b53f1f06ab",
+      "publishedAt": "2026-11-19T18:00:08.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Reviews"
     },
     {
       "id": "guardian-Y2Utb2YtZ2FyYmFnZQ",
@@ -436,120 +544,48 @@
       "category": "TV"
     },
     {
-      "id": "guardian-cm9vZ2UtZGlja2Vucw",
-      "title": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-      "description": "The latest film version of the Dickens classic A Christmas Carol is decent enough, though its star is rather better as the legendary miser before redemption arrives Here for lovers of Dickens – and fans of subtext – is an unexpectedly watchable new movie version of A Christmas Carol starring a top-hatted and heavily madeup Johnny Depp; it is a film about whether it’s possible for a man to earn redemption before it is too late. (The answer is … sure, as long as you say sorry and change your ways. But Mr Scrooge never launched a libel action against the Sun for calling him an un-Christmassy old meanie.) In fact, screenwriter Nathaniel Halpern and director Ti West have put together a perfectly serviceable, faithful adaptation – a tradaptation, if you will – of Dickens’s masterpiece about the hideous old miser saved from damnation on Christmas Eve by the appearance of three Christmas ghosts, from yuletides past, present and future. It sticks to the accepted narrative beats and more or less all the familiar episodes, but with a few twists. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
-      "image": "https://i.guim.co.uk/img/media/3469927fefcac2dcf0c7e9e0fc56bb606ad79688/301_0_3598_2878/master/3598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=c4544d82183ad62496248b0d42cbd0d3",
-      "publishedAt": "2026-11-12T17:14:58.000Z",
+      "id": "guardian-50YXJpZXMtcmFua2Vk",
+      "title": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
+      "description": "Ahead of the UK release of Nathan Fielder’s hotly anticipated Elizabeth Holmes film, we count down the most shocking and affecting true stories ever committed to cinema A 50-second dispatch from daily life blew the whistle on the approaching juggernaut of cinema and its unbeatable horsepower of verisimilitude. But if we must be strictly factual about the iconic Lumière brothers’ short, the anecdote about audience members fleeing their seats in fear of being crushed by the oncoming locomotive probably never happened . Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/12/you-can-see-everything-on-this-list-the-20-most-jaw-dropping-documentaries-ranked",
+      "image": "https://i.guim.co.uk/img/media/1e2d25e640821f45f785e7ee5b5793f97bc3f4ad/1340_0_1571_1257/master/1571.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=61ac694b2c76bd8d1853a857c120adfd",
+      "publishedAt": "2026-11-12T13:32:25.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
+    {
+      "id": "guardian-250LWNyeS1yZXZpZXc",
+      "title": "Big Girls Don’t Cry review – a New Zealand teenager finds herself in tender coming-of-age tale",
+      "description": "Writer-director Paloma Schneideman’s wonderful film follows a 14-year-old in 2006 who pretends to be someone else in a chat room, with real-world consequences Get our weekend culture and lifestyle email All coming-of-age films face the challenge of how to convey that intermediary period between childhood and adulthood, with all the confusion, awkwardness and self-searching that entails. Writer-director Paloma Schneideman’s drama Big Girls Don’t Cry meets that challenge, resulting in a tenderly drawn story about the slow process of a 14-year-old in rural New Zealand finding herself. Schneideman’s film has a wonderfully unforced quality, unfolding in a deeply satisfying yet seemingly effortless way. It’s as if the cameras are simply recording events organically unfolding in front of them, which of course isn’t the case at all: a drama like this requires immense thought and preparation. (The film is the first to be produced under the auspices of the Jane Campion-led film-making course A Wave in the Ocean .) Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/oct/08/new-zealand-movie-teenager-chat-room-big-girls-dont-cry-review",
+      "image": "https://i.guim.co.uk/img/media/17888c99855984da45f55d18b11a51082dbaa2c9/328_0_2500_2001/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=46900bf73575846438c1719b10202c3c",
+      "publishedAt": "2026-10-08T02:23:47.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-ctbWFpa2EtbW9ucm9l",
-      "title": "Victorian Psycho review – Maika Monroe has a blast in unsteady horror romp",
-      "description": "The It Follows and Longlegs star tears into the role of a murderous governess in this hit-and-miss adaptation of Virginia Feito’s gory novel It’s not that hard to figure out why a lower-class woman toiling away in Victorian England would be so easily driven to violently murder everyone around her. If it’s not the brittle entitlement of those who employ you, it’s the unending misogyny of the system you’re forced to be a subservient part of, all the while being underpaid and undervalued and at the mercy of sexual violence, a multitude of diseases and an average lifespan of just 42. As Winifred Notty (Maika Monroe) fills the frame in Victorian Psycho, heading to a new job as governess for a rich family, it’s easy to be on her side. Even as her murderous impulses start to rear their head, they’re made somewhat understandable, although Winifred isn’t just a woman reacting to the various injustices of the time – she’s one responding to a demon within her, a darkness she has chosen to embrace rather than resist. Darkness is her friend, a protection against harm, and a way to possess some sort of control in a world that has denied her any of it. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/12/victorian-psycho-review-maika-monroe",
-      "image": "https://i.guim.co.uk/img/media/ff84d85793038e65f1b7aea5a0b37fd9deeee8c4/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=cec349eed0993617335e3a621b33054d",
-      "publishedAt": "2026-11-12T11:00:48.000Z",
+      "id": "guardian-a3JhaW5lLXJ1c3NpYQ",
+      "title": "Minotaur review – Andrei Zvyagintsev’s scorching noir intrigue amid the Ukraine war",
+      "description": "The great Russian director’s first film for almost a decade is tremendous drama following the ill-deeds of a mini-oligarch who comes up with a toxic new way to feed Russia’s war machine Life during wartime is the theme of Andrey Zvyagintsev ’s film. It is set in provincial Russia, a portrait of a nation paralysed with disillusionment and fear, slowly coming to terms with, or retreating into collective denial about, the terrible mistake in Ukraine. It’s an inspired variation on Claude Chabrol’s La Femme Infidèle from 1969 , mixed with Gogol’s Dead Souls and the 14 sacrifices required for the Minotaur in Greek myth. It is also a noir thriller of infidelity and vengeful murder, lent a new meaning by the context of deadly cynicism and political bad faith, a world in which powerful people, gloomy with self-hate, have made covering up misdeeds their way of life. There is a telling early scene in which the male lead, mini-oligarch businessman Gleb (Dmitriy Mazurov), goes out for an expensive restaurant meal with his boorish plutocrat friends and their spouses and girlfriends, including Gleb’s elegant, beautiful wife Galina (Iris Lebedeva) who is almost catatonic with unhappiness. One girlfriend there tells a racy joke about a guy applying for a job on an adult movie, despite having a tiny penis unlike all the other well endowed applicants – because, he says, “all films need anti-heroes”. Minotaur is full of anti-heroes. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/may/19/minotaur-review-cannes-film-festival-andrei-zvyagintsev-ukraine-russia",
+      "image": "https://i.guim.co.uk/img/media/406e47bcaf0e01a2976aa7de74e78d5a7c20a254/191_0_4732_3786/master/4732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTUucG5n&enable=upscale&s=f494ca177cff1a06566fb61f518a4c6d",
+      "publishedAt": "2026-05-19T15:50:07.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Reviews"
     },
     {
-      "id": "guardian-ZXZpZXctbmV0ZmxpeA",
-      "title": "Tyler Perry’s The Gospel of Christmas review – Netflix unloads more slapdash festive fare",
-      "description": "Incompetent direction almost kills the Christmas spirit but American Idol winner Fantasia Barrino Taylor brings down the house Thanksgiving is right around the corner, which means Christmas creep is in full effect and the floodgates holding back the seasonal tide of holiday movies have opened to fully drown yuletide junkies in cheer. Among the first out of the gates is Netflix’s The Gospel of Christmas, brought to you by the maker of A Madea Christmas. Instead of Tyler Perry in drag, reluctantly upholding the role of family linchpin, this time it’s Durrell Babbs – AKA the R&B stalwart Tank – playing Isaac, a secular musician who is forced into ministry when his pastor father charges him with resurrecting a sister congregation that’s become a blight in a New York neighborhood defined by immorality and anomie. ( East New York, maybe.) The 103-minute feature is both a ploy to horn in on Hallmark’s well-established territory and a proper return to Perry’s roots in gospel musical theater – but with considerably more money behind it and greater latitude to bend the usual chestnuts on faith and family toward his Old Testament-facing sermons. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/tyler-perry-gospel-of-christmas-review-netflix",
-      "image": "https://i.guim.co.uk/img/media/815b79963f69e60db938d7af55ba08667040f91a/649_0_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=d1cacc107f746feb2e5d4d01aad18b3b",
-      "publishedAt": "2026-11-11T18:43:25.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-cmV2aWV3LWFtYXpvbg",
-      "title": "How to Rob a Bank review – Amazon’s anti-capitalist caper is far from a riot",
-      "description": "Nicholas Hoult, Anna Sawai and Pete Davidson play Robin Hood in this simple-minded and unexciting attempt to mix social commentary with action In case you were somehow blissfully unaware, America is in a very dark place and Americans are not very happy about it. Last week’s midterms saw a historic blue wave propelled by the high cost of living and the low trust in those making decisions, but restoring any small shred of faith in the system and any vague semblance of financial equity is still unlikely to come anytime soon. It’s therefore theoretically ideal timing for films that provide some sort of rousing David v Goliath catharsis, a win on-screen when one feels entirely out of reach in real life. But like Paul Greengrass’s muddy and muddled peasant revolt drama The Uprising which crashed and burned in September, David Leitch’s How to Rob a Bank can’t quite find a way to capture a moment that should be easy to capture. The director is best known for synthetic action films that prioritise noise above all else, from Deadpool 2 to Bullet Train to Hobbs & Shaw, a tonal throughline that could be most generously described as “annoying”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
-      "image": "https://i.guim.co.uk/img/media/15232fb98f98235a792c7e329f27ba8619bb4456/340_0_1295_1036/master/1295.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=48a7523f7142114b260f0bba58fbdc75",
-      "publishedAt": "2026-11-11T17:00:29.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-WNpYWwtb3BzLXRlYW0",
-      "title": "Soul Patrol review – heartstopping story of the US army’s first Black special ops team at work in Vietnam",
-      "description": "Based on a 2003 memoir, this remarkable documentary shows the incredible bravery these young men showed in the face of battle and unrelenting bigotry Here is the remarkable story of the US army’s “Soul Patrol” unit in the Vietnam war: the all-Black Long-Range Reconnaissance Patrol (or LURP), a six-man team of largely teenage African American soldiers, within Company F 51st Infantry. Their duty was to go behind the Vietcong enemy lines, each carrying 150lbs of kit and an M16 assault rifle, and in conditions of terrifying danger report on the enemy’s movements. One heart stopping anecdote is about a panicky member of the unit, who had never seen fireflies before, and became convinced he had seen a Vietcong insurgent in the undergrowth, smoking a cigarette. The film also reports on their later, poignant reunion as old men, using their contemporary home-movie footage and dramatically recreating some scenes. It is based on the 2003 memoir of the same title by unit member Ed Emanuel (who had gone into journalism in civilian life), based on his own experiences and those of his comrades who he had been able to track down. The publication of the book itself was intended to bring other ex-soldiers out of the woodwork, which it duly did. The Soul Patrol was at one level a special forces unit, an elite squad that was tough, capable, resourceful, operating at the highest standards of soldiering – and yet it was also subject to racist exploitation as cannon-fodder. This was what many in the unit came to suspect, and one interviewee here recounts his almost hallucinatory sense the enemy itself had spared them from certain death in the jungle, aware of their awful sacrificial purpose. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/10/soul-patrol-review-heart-stopping-story-of-vietnams-first-black-special-ops-team",
-      "image": "https://i.guim.co.uk/img/media/10e283ee44de9a59c7e623cab61992b890c56d71/356_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=94c3e6ba9e91b75c63a0e03d974ba1cc",
-      "publishedAt": "2026-11-10T07:00:32.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-QtbW92aWUtcmV2aWV3",
-      "title": "The Cat in the Hat review – Bill Hader brings plenty but this animated rework is a mess",
-      "description": "The SNL alum has an appealing energy and this is an improvement on the 2003 travesty but it’s also far too long and strangely corporate Over a long enough timeline, perhaps every living alumnus of Saturday Night Live will play the Cat in the Hat. Mike Myers kicked off this unexpected tradition by embodying the furry, anarchic Dr Seuss character for a notoriously, almost defiantly ghastly 2003 live-action treatment. After doing us all the service of killing flesh-and-blood Seuss movies for good, Myers was later followed by a more charming Martin Short (via voiceover on a cute PBS/CBC animated series) and now Bill Hader, stepping into the role for a big-budget animated reboot from the oft-flailing animation division of Warner Bros. Just to be clear, this is the same studio that passed on releasing not one but two well-liked features starring their trademark Looney Tunes characters in the last few years. (Puzzlingly, a new Looney Tunes short starring Daffy Duck nonetheless debuts in front of this movie.) Warner has one of the most storied animation libraries in American cinema (and, for that matter, plenty of great animated TV shows like Batman: The Animated Series and Animaniacs) but as far as features go, they’ve never settled on a clear creative vision. They seem just as adrift in a landscape crowded with serious competitors as they were back when everyone was imitating Disney. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
-      "image": "https://i.guim.co.uk/img/media/07048846bc1de89d9d63210a3221853e31347902/243_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=a3ffea5d3a620a6949b5ce3ca0b3e536",
-      "publishedAt": "2026-11-06T14:38:28.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-Hl3b29kLXRyaXVtcGg",
-      "title": "I Play Rocky review – Anthony Ippolito adds knockout sweetness to the story of Stallone’s Hollywood triumph",
-      "description": "Portraying the humour, passion and grit that took the actor from bit parts to Oscar glory, this making-of tale is even more mythic than the original movie For fun, excitement and the transcendental thrill of success, there’s nothing to touch this very enjoyable drama about the making of Sylvester Stallone’s Oscar-winning 1976 boxing movie, Rocky. It’s a movie of duplicates and surfaces and heartfelt imitations. Perhaps not very profound but, as Oscar Wilde’s Lord Henry Wotton says, it is only shallow people who do not judge by appearances. It is the story of the struggling young Italian-American unknown who’d had some minor acting jobs – including softcore pornography – but wrote a thumpingly good screenplay inspired by the underdog white boxer Chuck Wepner , who briefly knocked Ali down in 1975. With tremendous self-belief, Stallone insisted he play the lead role himself, holding out against vast cash offers to just take the writing credit and let an established star into the ring. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
-      "image": "https://i.guim.co.uk/img/media/67d68a8bf99e04203df58627bce4bccf21e969cc/385_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=ca47b64e255c7a64611fe8cf2bdff1ab",
-      "publishedAt": "2026-11-05T11:00:22.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-Z2Utc2NhbGUtZXBpYw",
-      "title": "Ramayana: Rise of a Legend review – India’s most expensive film ever becomes spectacular, huge-scale epic",
-      "description": "Based on the ancient classical poem about Rama, the avatar of the Hindu god Vishnu, this three-hour blockbuster is highly enjoyable Here is a thoroughly engaging, rousing and spectacular Indian epic melodrama from director Nitesh Tiwari, with music by Hans Zimmer and AR Rahman, based on the ancient classical poem about Rama, an avatar of the Hindu god Vishnu. It has often been adapted for live-action and animated movies in the past, though surely not on this scale, the current three-hour blockbuster being only the first half. (There are no musical numbers though.) The idea of aristocrats submitting stoically and yet playfully to exile in the forest has something Shakespearean about it, and if you are suffering Homer-withdrawal after Christopher Nolan’s The Odyssey , a story about the noble Prince Rama finally vowing to wage war on a distant city where his wife has been abducted might just fit the bill. Ranbir Kapoor plays the mythical Rama, a noble warrior and statesman who has been brought into being in the city state of Ayodhya as a bodily representative of Vishnu, and from the first his sense of destiny is overwhelming. But what exactly is that destiny? In broad terms, his fate is to face off with Ravana (Naveen “Yash” Kumar), king of far-off Lanka, a figure whose former slave status once triggered in him such a cosmically intense prayer for justice that Lord Brahma offered him the superpower of athletic strength and indifference to pain. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
-      "image": "https://i.guim.co.uk/img/media/12eb62d74a294db635745f2c7c9b1e8210c29723/1288_0_2699_2160/master/2699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=130aa45399b120ccaf847f4b539ca3f7",
-      "publishedAt": "2026-11-04T13:00:11.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Reviews"
-    },
-    {
-      "id": "guardian-ZmlsbS1mZXN0aXZhbA",
-      "title": "Godzilla Minus Zero review – spectacular Japanese action continues franchise’s winning streak",
-      "description": "The follow-up to 2023’s Oscar-winning Godzilla Minus One dazzles with smart social commentary and jaw-dropping effects Even by the standards of older movie stars catching a major second wind later in their careers, Godzilla pulled off an impressive reclamation of the spotlight three years ago. Godzilla Minus One , the most recent reboot featuring the 70-year-old kaiju – the version(s) from his native Japan, mind, not the Americanized one concurrently starring in a series of Warner Bros blockbusters opposite King Kong – wasn’t just another monster-movie success. It fully crossed over, becoming the highest-grossing Japanese-language movie ever released in North America, and won an Academy Award to boot for its terrific visual effects. Now. Japanese Godzilla characters are mainstream enough to pop up in Happy Meals, and the Toho -made sequel Godzilla Minus Zero is world-premiering at the New York film festival. Arguably the artsiest, brainiest of the major fall fests is playing unexpected host to a truly spectacular monster battle royale, packaged alongside some of the same thoughtful historical context that informed the previous film. Writer, director and VFX maestro Takashi Yamazaki returns for the sequel, bringing his lead characters back with him. In the previous film, former military pilot Kōichi Shikishima (Ryunosuke Kamiki) used his experience with Godzilla to overcome his guilt and shame over failing to complete a pointless kamikaze mission toward the end of the second world war – the devastation of which brought Japan back to “zero”, hence a newly emergent Godzilla bringing the country to “minus one”. Minus Zero catches up with Kōichi, his now-wife Noriko (Minami Hamabe), and their adopted daughter Akiko (Sae Nagatani) two years later, in 1949 (although Akiko somehow seems more or less the same age). Another monster threat looms over post-war Japan in the form of a dragon-like creature dubbed Ghidorah, whose menace will be familiar to kaiju fans. (Though he isn’t seen directly in trailers, this isn’t a spoiler; he’s featured from the very first scene of the film.) Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/26/godzilla-minus-zero-review-new-york-film-festival",
-      "image": "https://i.guim.co.uk/img/media/7b50bc9cd07cd78c83a0f28f2bf0d60a0a1e65e7/357_0_3578_2864/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=28c408b70d445b2f5511072533709389",
-      "publishedAt": "2026-09-27T00:00:49.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Trailers"
-    },
-    {
-      "id": "guardian-FydGluLW1jZG9uYWdo",
-      "title": "Wild Horse Nine review – Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance",
-      "description": "Venice film festival Two men, some violence, much freewheeling chat: so far, so standard fare from the Oscar-winning writer-director. But this time the comedy and charm can feel diluted by blood and machismo It isn’t a Martin McDonagh movie unless you’ve got two morose guys – one old, one not so old – who do nothing all the livelong day but bitch and snipe and quarrel and exchange barbed bromantic dialogue while occasionally going off on a plaintive tangent about nothing at all, incidentally revealing something very wrong with their friendship. If it can be called that. In The Banshees of Inisherin from 2022 , the older guy decides he wants nothing more to do with the younger guy; in In Bruges from 14 years earlier (of which this latest film is almost a retread or maybe B-side), the older guy has an awful secret he is keeping from the younger guy. Wild Horse Nine brings McDonagh to a US setting with American (not Irish) characters and dialogue. But as in another US-set film – 2012’s Seven Psychopaths – Americanness can bring out something less interesting in McDonagh: more violence, more strenuous sweary machismo, less comedy, less charm. Yet there is something interesting and watchably acrid in the pairing of Sam Rockwell and John Malkovich, with Malkovich unspooling long speeches in that unmistakable nasal croon or whine, often concluding with his lips parted in a pursed-lip pout, a mannerism that leaves the audience unsure exactly how ironic or contemptuous he is supposed to sound. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/sep/03/wild-horse-nine-review-sam-rockwell-john-malkovich-martin-mcdonagh",
-      "image": "https://i.guim.co.uk/img/media/6cff6a8d798ffc42d79b21e81c4b008c82655abb/402_0_2501_2001/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=b20f508970b55da4d0b004f6d15434c9",
-      "publishedAt": "2026-09-03T17:30:44.000Z",
+      "id": "guardian-GFuY2UtZmVzdGl2YWw",
+      "title": "Buddy review – high-concept horror misfire dares to wonder: what if Barney killed kids?",
+      "description": "There’s a dearth of both laughs and scares in this one-joke comedy horror that feels like it would have made for a better short film Before we get Ayo Edebiri and Daniel Kaluuya’s take on an A24 Barney movie, a project that’s been in some various level of development hell for seven years, here comes Buddy. Like an off-brand ripoff from the 90s (anyone remember Ricky’s Room ?), he’s another friendly, furry friend to wide-eyed young children, the main star of a TV show we’re thrown straight into, neatly styled to feel like we’re suddenly transported back to that era (similar to 2024’s far darker and far superior Sundance throwback I Saw the TV Glow ). The formula is familiar – lessons, singing, syllables overpronounced – but there’s something off . The persistence of Buddy, an orange unicorn with undying enthusiasm, is bordering on aggressive as his playful suggestion to dance suddenly devolves into something far more sinister. What if Buddy isn’t really our friend after all? Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/jan/23/buddy-review-comedy-horror-sundance-festival",
+      "image": "https://i.guim.co.uk/img/media/5441ac04cfbf9c22d7f579c5c86fe13fcc0a6545/1156_0_2923_2340/master/2923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=e6e20a94b4fc102c1e57e0165334ec82",
+      "publishedAt": "2026-01-23T21:19:45.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
