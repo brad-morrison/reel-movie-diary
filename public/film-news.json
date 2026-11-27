@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T00:44:39.709Z",
+  "generatedAt": "2026-11-27T06:36:51.306Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-ci1sb3ZpbmctY2FyZQ",
+      "title": "‘Everybody tells me how I can keep working. My answer begins with ‘F’ and ends with ‘off’: Mike Leigh on 55 years of films – and why he’s just made his last",
+      "description": "The acclaimed director has announced his latest film Tender Loving Care will be his last. He talks about coming to terms with a life-changing condition and how he would have loved to have made a big budget modern-day movie Mike Leigh and his partner, the actor Marion Bailey, were knocking around at home last Christmas, looking for a good film to watch and constantly coming up short. Finally, Leigh had a brilliant idea. Why not put on Topsy-Turvy, his 1999 costume romp about the making of The Mikado? Problem solved, perfect choice. “It’s not like a habit,” he says hurriedly. “I don’t sit there watching my films every night like Gloria Swanson in Sunset Boulevard. It’s just that Topsy-Turvy happens to be a very enjoyable watch.” The way Leigh sees it, his films are like children. They’ve outgrown him, moved on, but it’s nice to check the family ties are still strong. Some are sunny (Life is Sweet; Happy-Go-Lucky) and some are dour (Naked; Hard Truths), but they all share the same DNA, the same real-world interests and tragicomic mindset. He can’t choose between them; he’ll defend each one to the death. Then he pauses and says, “But I’ve got a soft spot for Meantime.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/27/mike-leigh-interview-last-film-tender-loving-care",
+      "image": "https://i.guim.co.uk/img/media/6a26320616f8e1e1f2c8d113adaf2425b85b0901/0_1910_8736_6989/master/8736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83789ff0d9cff2ba54fec0b4677ea293",
+      "publishedAt": "2026-11-27T05:00:55.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-llLTEyMzUyMzA3NDEv",
       "title": "How Disney’s ‘Hexed’ Reinvents the Witch Through Animation",
@@ -154,18 +166,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
       "image": "https://i.guim.co.uk/img/media/207f4bfc289684e56747486d5449e43fc55dda6f/259_0_7713_6173/master/7713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4046d6bb5632e7be4cb7228acc14bd9",
       "publishedAt": "2026-11-26T10:00:52.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-FuYXotZXNoYWdoaWFu",
-      "title": "‘She was so not regretful about killing her husband’: the Iranian film that shines a light on blood money and retributive justice",
-      "description": "The co-director of An Eye for an Eye, Tanaz Eshaghian, reveals how she came to make a documentary about a woman facing the threat of execution from her husband’s family – as sanctioned by sharia law “Even though I was raised here,” says the Iranian-American film-maker Tanaz Eshaghian from her home in New York, “I was brought up with the understanding that there are things that you do and things that you don’t do.” Take her 2006 autobiographical feature, Love Iranian-American Style, about her experience of dating in her 20s, which was, she says, “about how I was supposed to marry a nice Iranian man and stay a virgin”. But by the time she’d graduated from Brown University in Rhode Island “that ship had sailed”, she laughs. Since Love Iranian-American Style, she has made equally taboo-breaking documentaries about a women’s prison in Afghanistan (Love Crimes of Kabul, 2011), trans people in Iran (Be Like Others, 2008) and disabled teenagers in Pakistan (As Far As They Can Run, 2022). And with each new project, the duality of her heritage (Eshaghian emigrated to the US not long after the Iranian revolution when she was six) has spurred her to focus eastwards, closer to where she was born. “When you’ve been raised in the west you can see how similar the thinking is,” Eshaghian says of the similarities she’s found there: “the conservative thinking, the place of women, what’s allowed, what’s important”. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/26/an-eye-for-an-eye-tanaz-eshaghian",
-      "image": "https://i.guim.co.uk/img/media/26c047ac63cde564ec942e9c0ffa3f98b48c247e/719_0_1804_1444/master/1804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=69c0598923b2d526902a8ecbc75c7a8b",
-      "publishedAt": "2026-11-26T08:00:50.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
