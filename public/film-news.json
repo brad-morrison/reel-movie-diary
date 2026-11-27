@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:36:51.306Z",
+  "generatedAt": "2026-11-27T12:32:39.783Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "guardian-WFlcm8tbW9jay11cHM",
+      "title": "Get me a 747 and deploy the oxygen masks! The British pilot behind Hollywood’s greatest inflight scenes",
+      "description": "An emergency landing for Bridesmaids, a humiliation for Ben Stiller in Focker-in-Law, a giant toilet for Britney Spears in the Toxic video … Richard Chan, No 1 provider of airplane cabin sets, recalls his finest work With Thanksgiving having just kicked off holiday season in the US, millions of people are boarding flights, many more concerned than ever about how chaotic that might be. Aside from the shock of the recent FAA shutdown , not a day seems to go by without a viral video of someone behaving badly or being removed from an airplane: Saturday Night Live even did a sketch about the introduction of a “new airline class” , with a whole section of a plane reserved for “crazy people”. In the big Thanksgiving movie Focker-In-Law , Ben Stiller has a lengthy and awkward encounter with a flight attendant who is summoned by a passenger called Olivia, played by Ariana Grande. On arrival, he learns that Olivia is his potential daughter-in-law and, of course, that means more trouble with his ex-CIA father-in-law Jack, played by Robert De Niro. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/27/british-pilot-plane-film-hollywood-focker-in-law-britney-spears-aero-mock-ups",
+      "image": "https://i.guim.co.uk/img/media/763c6a47ff8e3f9576b05f882e22513d10faf877/722_198_4052_3245/master/4052.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5e4202f4d3f4d2c455eb7bd68d2d7bb",
+      "publishedAt": "2026-11-27T09:00:00.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
     {
       "id": "guardian-ci1sb3ZpbmctY2FyZQ",
       "title": "‘Everybody tells me how I can keep working. My answer begins with ‘F’ and ends with ‘off’: Mike Leigh on 55 years of films – and why he’s just made his last",
@@ -128,7 +140,7 @@
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
       "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
       "publishedAt": "2026-11-26T14:44:26.000Z",
       "sourceId": "bbc",
       "source": "BBC Culture",
@@ -154,18 +166,6 @@
       "url": "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked",
       "image": "https://i.guim.co.uk/img/media/dcb64aed32804f0073cff8bc288dead61aa7b495/1155_0_2957_2367/master/2957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b0fc32f5f591983568ab5e14254f6a2",
       "publishedAt": "2026-11-26T13:00:35.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "Movies"
-    },
-    {
-      "id": "guardian-G9yeS1kaXJlY3RvcnM",
-      "title": "‘I was very aggressive. They threw me out of every school’ … Julie Delpy on acting, anger and predatory directors",
-      "description": "Thirty years after the roles that made her famous, the star of Three Colours: White and the Before trilogy is busier than ever – as a screenwriter and director. But, she says, a lot of people have tried to keep her down To listen to Julie Delpy talk about her workload is to feel the need for a nap coming on. She is writing six screenplays at the moment that range from dark comedies to thrillers. “I don’t do monoculture,” she says. If her producer hadn’t reined her in, she would be working on five horror film scripts too. The actor, writer and director says she doesn’t sleep well – she can sit at her desk for up to 18 hours, writing “until I run out of steam. I know you could think I’m exaggerating. I’m not. If you look at my computer, you will see how bad it is.” We’re on a video call, Delpy from her home in Los Angeles. She is charming – intense and funny in big black-framed glasses. “I look so weird with this angle on my hair,” she says, of the ceiling light behind her. “Like an angry bald man!” Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/26/julie-delpy-acting-anger-predatory-directors",
-      "image": "https://i.guim.co.uk/img/media/207f4bfc289684e56747486d5449e43fc55dda6f/259_0_7713_6173/master/7713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4046d6bb5632e7be4cb7228acc14bd9",
-      "publishedAt": "2026-11-26T10:00:52.000Z",
       "sourceId": "guardian",
       "source": "The Guardian",
       "sourceColour": "blue",
