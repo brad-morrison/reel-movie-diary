@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:29:19.984Z",
+  "generatedAt": "2026-11-28T00:42:34.330Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "indiewire-1hLTEyMzUyMzA3NDMv",
+      "title": "‘Odyssey’ Cinematographer Hoyte van Hoytema Was More Interested in the Intimate Than the Epic",
+      "description": "In spite of the film's IMAX cameras and massive scale, the director of photography says that what always interested him and Christopher Nolan was the humanity at the core of their spectacular adventure.",
+      "url": "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743/",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDODYS_UV014.jpg?w=650",
+      "publishedAt": "2026-11-27T20:30:00.000Z",
+      "sourceId": "indiewire",
+      "source": "IndieWire",
+      "sourceColour": "pink",
+      "category": "Movies"
+    },
     {
       "id": "indiewire-ZC0xMjM1MjMwNzQyLw",
       "title": "Forget Photorealism: How ‘Wildwood’ Made Its Handmade Digital Artistry Visible",
@@ -298,18 +310,6 @@
       "url": "https://www.indiewire.com/features/podcast/all-of-a-sudden-whiteboard-scene-explained-1235231139/",
       "image": "https://www.indiewire.com/wp-content/uploads/2026/11/All-of-a-Sudden-Tree.jpeg?w=650",
       "publishedAt": "2026-11-25T21:30:00.000Z",
-      "sourceId": "indiewire",
-      "source": "IndieWire",
-      "sourceColour": "pink",
-      "category": "Movies"
-    },
-    {
-      "id": "indiewire-XMtMTIzNTIzMTE2MS8",
-      "title": "Watch ‘The Sheep Detectives’ VFX Supervisor Break Down the ‘Sheep-Isms’ That Made His Characters Stand Out",
-      "description": "At IndieWire's Craft Roundtables, Graham Page explained the detailed research that made his animated sheep so lifelike.",
-      "url": "https://www.indiewire.com/features/craft/the-sheep-detectives-vfx-craft-roundtables-1235231161/",
-      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9560.jpg?w=650",
-      "publishedAt": "2026-11-25T21:00:00.000Z",
       "sourceId": "indiewire",
       "source": "IndieWire",
       "sourceColour": "pink",
