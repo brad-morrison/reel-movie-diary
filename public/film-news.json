@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:33:45.414Z",
+  "generatedAt": "2026-11-28T12:31:08.717Z",
   "sources": {
     "guardian": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "bbc": {
       "ok": true,
-      "articles": 2
+      "articles": 3
     },
     "indiewire": {
       "ok": true,
@@ -15,6 +15,18 @@
     }
   },
   "articles": [
+    {
+      "id": "bbc-X2NhbXBhaWduPXJzcw",
+      "title": "Actor and comedian PJ Gallagher dies aged 51",
+      "description": "PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.",
+      "url": "https://www.bbc.co.uk/news/articles/cwp83j2k31g3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/99b7/live/11b79e90-eb0b-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-28T10:17:01.000Z",
+      "sourceId": "bbc",
+      "source": "BBC Culture",
+      "sourceColour": "red",
+      "category": "TV"
+    },
     {
       "id": "guardian-WxldGhhbC1iaXp6bGU",
       "title": "‘Who asked that? You should be ashamed of yourself!’: Judi Dench answers questions from Ian McKellen, Lorraine Kelly, David Hare and more",
@@ -208,6 +220,18 @@
       "category": "Movies"
     },
     {
+      "id": "guardian-cy10aGUtZHJvcG91dA",
+      "title": "Amanda Seyfried needed ‘five-factor authentication’ to read You Can See Everything script but still ‘told everyone’",
+      "description": "Actor who had played fraudster Elizabeth Holmes in TV drama The Dropout reveals how she was drafted in to the hit documentary ‘at the last minute’ Amanda Seyfried says that the script and footage of You Can See Everything was kept secret even from her until the last possible moment, and that despite being asked not to reveal her involvement in the project she “told a lot of people”. Seyfried was speaking on the Jimmy Fallon Show on Tuesday, after the film’s extraordinary commercial success in North America , where it is already the third most successful documentary in box office history. Having already played You Can See Everything’s central figure, Theranos fraudster Elizabeth Holmes, in the dramatised TV series The Dropout, Seyfried was called in by directors Nathan Fielder and Lance Oppenheim to stand in for Holmes after the latter started her prison term in 2023. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout",
+      "image": "https://i.guim.co.uk/img/media/83c367160d69cdc7da8ef95a9db69ed5d871d827/1124_184_1220_976/master/1220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53e51cc6908aef56c5548eb5464ad17e",
+      "publishedAt": "2026-11-26T14:52:40.000Z",
+      "sourceId": "guardian",
+      "source": "The Guardian",
+      "sourceColour": "blue",
+      "category": "TV"
+    },
+    {
       "id": "bbc-X2NhbXBhaWduPXJzcw",
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
@@ -350,18 +374,6 @@
       "source": "The Guardian",
       "sourceColour": "blue",
       "category": "Movies"
-    },
-    {
-      "id": "guardian-XphYmV0aC1ob2xtZXM",
-      "title": "You Can See Everything passes $100m at global box office as UK release starts strong",
-      "description": "The documentary from Nathan Fielder following fraudster Elizabeth Holmes in the weeks leading up to her imprisonment has broken box office records in the UK Elizabeth Holmes film You Can See Everything has crossed the $100m mark at the global box office as it recorded the highest ever opening weekend figure for a non-music documentary in the UK. Directed by Nathan Fielder and Lance Oppenheim, You Can See Everything earned an estimated $2.5m over the weekend on its sixth week of release in North America, according to Box Office Mojo , bringing its total there to $93.5m. This has been augmented by successful releases in a number of international territories, which has added an estimated $9m for a total of $102.5m. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
-      "image": "https://i.guim.co.uk/img/media/9840b4d9a1af24ca0e7a66b1c9ad03fa098fdb77/448_92_708_567/master/708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4945e24082601959ed764eba54745f5c",
-      "publishedAt": "2026-11-23T11:57:19.000Z",
-      "sourceId": "guardian",
-      "source": "The Guardian",
-      "sourceColour": "blue",
-      "category": "TV"
     },
     {
       "id": "guardian-5hdGhhbi1maWVsZGVy",
